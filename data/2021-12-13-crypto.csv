@@ -1,0 +1,7478 @@
+Symbol,Name,BuiltOn
+COFIX,CoFIX (COFIX),
+SINS,SafeInsure (SINS),
+BON,Bonpay (BON),ETH
+EKT,EDUCare (EKT),ETH
+RPC,RonPaulCoin (RPC),
+OLY,Olyseum (OLY),ETH
+NODIS,Nodis (NODIS),
+CUBEAUTO,Cube (CUBEAUTO),
+SCDS,Shrine Cloud Storage Network (SCDS),
+LEO,LEO Token (LEO),ETH
+ZOOM,ZoomCoin (ZOOM),
+ENTRY,ENTRY (ENTRY),
+DTC,Data Transaction (DTC),
+DCASH,Diabolo (DCASH),
+NTB,TokenAsset (NTB),ETH
+BABA,Alibaba FTX (BABA),
+ENTT,Presale Ventures (ENTT),
+VRTY,Verity (VRTY),
+FTI,FansTime (FTI),ETH
+SNX,Synthetix (SNX),ETH
+CTL,Citadel (CTL),
+SHIRYOINU,Shiryo-Inu (SHIRYOINU),ETH
+OCEANT,Poseidon Foundation (OCEANT),
+GMAT,GoWithMi (GMAT),ETH
+PIZZACOIN,PizzaCoin (PIZZACOIN),
+RSUN,RisingSun (RSUN),BNB
+ZAB,ZABERcoin (ZAB),
+STEX,STEX (STEX),
+LAX,LAPO (LAX),
+BTCR,BitCurrency (BTCR),
+LWF,Local World Forwarders (LWF),
+TIMI,Timicoin (TIMI),
+AIBK,AIB Utility Token (AIBK),
+ETHPLO,ETHplode (ETHPLO),
+RMRK,RMRK.app (RMRK),KSM
+ORLY,OrlyCoin (ORLY),
+CXA,CryptovationX (CXA),
+PLNX,Planumex (PLNX),
+UFT,UniLend Finance (UFT),ETH
+FUNC,FunCoin (FUNC),
+FTO,FuturoCoin (FTO),
+FEX,FEX Token (FEX),
+WMT,World Mobile Token (WMT),
+CHR,Chroma (CHR),ETH
+BLOCKPAY,BlockPay (BLOCKPAY),
+XBP,Black Pearl Coin (XBP),
+WNYC,Wrapped NewYorkCoin (WNYC),BNB
+PZM,Prizm (PZM),
+EXCHBEAR,3X Short Exchange Token Index Token (EXCHBEAR),
+K2G,Kasko2go (K2G),
+MAKE,MAKE (MAKE),
+TAP,TappingCoin (TAP),
+ET4,Eticket4 (ET4),
+DFC,DeFiScale (DFC),ETH
+N7,Number7 (N7),
+CORN,CORN (CORN),
+BRAZ,Brazio (BRAZ),
+BEP,Blucon (BEP),ETH
+CIPHC,Cipher Core Token (CIPHC),
+RAINBOW,Rainbow Token (RAINBOW),BNB
+HVN,Hiveterminal Token (HVN),
+AMM,MicroMoney (AMM),
+MRY,MurrayCoin (MRY),
+AXPR,aXpire (AXPR),
+SHROOM,Shroom.Finance (SHROOM),ETH
+PAN,Pantos (PAN),ETH
+FRAX,Frax (FRAX),ETH
+ENE,EneCoin (ENE),
+ALNY.CUR,"Alnylam Pharmaceuticals, Inc. (ALNY.CUR)",
+NET.CUR,Cloudflare Inc. (NET.CUR),
+YUSRA,YUSRA (YUSRA),
+MYCE,Mycelium Token (MYCE),
+CIF,Crypto Improvement Fund (CIF),
+FRED,FREDEnergy (FRED),
+JEFF,Jeff in Space (JEFF),ETH
+XLC,LeviarCoin (XLC),
+IVN,IVN Security (IVN),
+SNE.CUR,Sony Corporation (SNE.CUR),
+N1,NFTify (N1),ETH
+RLX,Relex (RLX),
+JBL.CUR,Jabil (JBL.CUR),
+LPI,LPI DAO (LPI),BNB
+QBIT,Project Quantum (QBIT),BNB
+SUKU,SUKU (SUKU),ETH
+VDG,VeriDocGlobal (VDG),
+COPS,Cops Finance (COPS),ETH
+PHO,Photon (PHO),
+NOM,Finom NOM Token (NOM),
+WHY,Whisky Token (WHY),
+GARK,Game Ark (GARK),
+MCB,MCDEX (MCB),ETH
+RNS,RenosCoin (RNS),
+ELIX,Elixir (ELIX),
+TIPS,FedoraCoin (TIPS),
+THEMIS,Themis (THEMIS),
+LHB,Lendhub (LHB),
+DOT,Polkadot (DOT),
+PTT,Pink Taxi Token (PTT),
+COMM.CUR,"CommScope Holding Company, Inc. (COMM.CUR)",
+PROM,Prometeus (PROM),"ETH,BNB"
+BTCSHORT,Amun Short Bitcoin Token (BTCSHORT),
+WAULT,Wault Finance (WAULT),
+NCLH.CUR,Norwegian Cruise Line Holdings Ltd. (NCLH.CUR),
+HNC,Hellenic Coin (HNC),
+GBXT,Globitex Token (GBXT),
+BOGCOIN,Bogcoin (BOGCOIN),
+SPND,Spindle (SPND),
+LTCBULL,3X Long Litecoin Token (LTCBULL),ETH
+SMARTUP,Smartup (SMARTUP),
+PROGE,Protector Roge (PROGE),ETH
+SFP,SafePal (SFP),BNB
+LOCI,LociCoin (LOCI),
+LLAND,Lyfe Land (LLAND),ETH
+PIZZA,PizzaSwap (PIZZA),
+DZI,DeFinition (DZI),
+PROXI,PROXI (PROXI),
+ZEN,Horizen (ZEN),
+CSQ,cosquare (CSQ),
+BUX,BUX (BUX),
+CREDIT,TerraCredit (CREDIT),
+BRYLL,Bryllite (BRYLL),ETH
+DHR.CUR,Danaher (DHR.CUR),
+SURE,inSure (SURE),
+MGUL,Mogul Coin (MGUL),
+RDT,Ridotto (RDT),"ETH,BNB"
+GLX,GalaxyCoin (GLX),
+KEN,Kencoin (KEN),
+VSPACEX,vSpaceX (VSPACEX),ETH
+BCMC1,BeforeCoinMarketCap (BCMC1),ETH
+BZZ,Swarmv (BZZ),ETH
+BTCEX,BtcEX (BTCEX),
+MTLX,Mettalex (MTLX),ETH
+PLUS1,PlusOneCoin (PLUS1),
+SON,Simone (SON),
+ATOMHEDGE,1X Short Cosmos Token (ATOMHEDGE),
+DFD,DefiDollar DAO (DFD),
+C2,Coin.2 (C2),
+BETT,Bettium (BETT),
+GOM2,GoMoney2 (GOM2),ETH
+SAFEBTC,SafeBTC (SAFEBTC),BNB
+VOO.CUR,Vanguard S&P 500 ETF (VOO.CUR),
+DOGEC,DogeCash (DOGEC),
+XCUR,Curate (XCUR),
+INVESTEL,Investelly token (INVESTEL),BNB
+GRLC,Garlicoin (GRLC),
+IIC,Intelligent Investment Chain (IIC),ETH
+B2X,SegWit2x (B2X),
+CZR,CanonChain (CZR),
+LOL,EMOGI Network (LOL),IOST
+BUK,CryptoBuk (BUK),
+XTZHALF,0.5X Long Tezos Token (XTZHALF),
+BIKI,BIKI (BIKI),
+SNGLS,SingularDTV (SNGLS),ETH
+HMST,Hamster Marketplace Token (HMST),
+XAUR,Xaurum (XAUR),
+DEXG,Dextoken Governance (DEXG),
+AENT,AEN (AENT),
+S4F,S4FE (S4F),
+TIG,Tigereum (TIG),
+SSC,SelfSell (SSC),
+WANA,Wanaka Farm (WANA),BNB
+WGC,WeGen Platform (WGC),
+UBI,Universal Basic Income (UBI),ETH
+DOC,Dochain (DOC),
+GPT,Grace Period Token (GPT),
+LDC,LeadCoin (LDC),ETH
+MFT,Hifi Finance (MFT),ETH
+MNV,MonetaVerde (MNV),
+SANDG,Save and Gain (SANDG),
+DFT,Draftcoin (DFT),
+HAUS,DAOhaus (HAUS),ETH
+CSAC,Credit Safe Application Chain (CSAC),
+TGT.CUR,Target Corp (TGT.CUR),
+LTB,Litebar (LTB),
+BXY,Beaxy (BXY),
+MNVM,Novam (MNVM),
+BNK,Bankera (BNK),
+MINX,InnovaMinex (MINX),
+DKKT,DKK Token (DKKT),
+HMI.CUR,Huami Corporation (HMI.CUR),
+FUNX,Function X (FUNX),ETH
+QCN,Quazar Coin (QCN),
+AND,AndromedaCoin (AND),
+HKC,HK Coin (HKC),ETH
+TOOLS,TOOLS (TOOLS),
+DNT,district0x (DNT),ETH
+SQR,Squeezer (SQR),
+CONS,ConSpiracy Coin (CONS),
+MINT,Mint Club (MINT),
+DRP,DCORP (DRP),
+NVDX,Nodvix (NVDX),
+CORE,cVault.finance (CORE),ETH
+BITW,Bitwise 10 Crypto Index Fund (BITW),
+GNTO,GoldeNugget Token (GNTO),
+BNBBULL,3X Long BNB Token (BNBBULL),ETH
+SWI,Swinca (SWI),
+SIGN,SignatureChain (SIGN),WAVES
+KCAL,Phantasma Energy (KCAL),ETH
+ARA,Ara Token (ARA),ETH
+BSV,Bitcoin SV (BSV),
+WGRT,WaykiChain Governance Coin (WGRT),
+BTCP,Bitcoin Private (BTCP),
+CHT,Countinghouse Fund (CHT),
+MIM,Magic Internet Money (MIM),ETH
+SPCIE,Specie (SPCIE),
+OWD,Owlstand (OWD),
+TLM,Alien Worlds (TLM),ETH
+TCST,TCST Coin (TCST),
+INV,Inverse Finance (INV),ETH
+FOX,ShapeShift FOX Token (FOX),ETH
+PXI,Prime-X1 (PXI),
+NAMO,NamoCoin (NAMO),
+ISP,Ispolink (ISP),
+ANDX,Arrano (ANDX),"BNB,TRX,ETH"
+RPL,RocketPool (RPL),
+MXTC,MartexCoin (MXTC),
+BCO,BridgeCoin (BCO),
+GOLDX,eToro Gold (GOLDX),
+BIG.CUR,Big Lots (BIG.CUR),
+XRPHEDGE,1X Short XRP Token (XRPHEDGE),
+CTI,ClinTex CTi (CTI),ETH
+POLL,Pollchain (POLL),ETH
+CENNZ,Centrality Token (CENNZ),ETH
+KUBO,KUBO (KUBO),
+PVP,PVPChain (PVP),
+HD,HubDao (HD),
+HC,HyperCash (HC),
+XAYA,XAYA (XAYA),
+CEEK,CEEK Smart VR Token (CEEK),
+ANB,Angryb (ANB),ETH
+DBIC,DubaiCoin (DBIC),
+S8C,S88 Coin (S8C),
+YFIS,YFISCURITY (YFIS),
+IPX,Tachyon Protocol (IPX),
+WAY,WayCoin (WAY),
+AQUARI,Aquari (AQUARI),BNB
+SXUT,SPECTRE Utility Token (SXUT),
+PPOVR,POVR (PPOVR),
+RFCTR,Reflector.Finance (RFCTR),ETH
+NASADOGE,Nasa Doge (NASADOGE),BNB
+ITM,intimate.io (ITM),
+RST,REGA Risk Sharing Token (RST),
+ATD,A2DAO (ATD),ETH
+RENBTC,renBTC (RENBTC),ETH
+CMZ,CRYPTOMAGZ (CMZ),
+CELEB,CELEBPLUS (CELEB),ETH
+XT,XT.com Token (XT),
+CUE,CUE Protocol (CUE),BNB
+YBC,YbCoin (YBC),
+OTN,Open Trading Network (OTN),
+COMB,Combo (COMB),ETH
+UPEUR,Universal Euro (UPEUR),ETH
+FUND,Unification (FUND),
+KRN,KRYZA Network (KRN),BNB
+COS,COS (COS),
+DRA,DraculaCoin (DRA),
+VNDC,VNDC (VNDC),
+DATA,Streamr (DATA),ETH
+ZARX,eToro South African Rand (ZARX),
+XRPDOWN,XRPDOWN (XRPDOWN),
+HAC,Hackspace Capital (HAC),
+PUSH,Ethereum Push Notification Service (PUSH),
+SLM,SlimCoin (SLM),
+QASH,Quoine Liquid (QASH),ETH
+DPT,Diamond Platform Token (DPT),
+IMPT,Ether Kingdoms Token (IMPT),
+TAK,TakCoin (TAK),
+ERT,Esports.com (ERT),
+BTNYX,BitOnyx Token (BTNYX),ETH
+VFOX,VFOX (VFOX) (VFOX),BNB
+XLB,LibertyCoin (XLB),
+BFC,Bifrost (BFC),
+CHOW,Chow Chow Finance (CHOW),ETH
+SHEESHA,Sheesha Finance (SHEESHA),BNB
+COZP,COZPlus (COZP),
+FAB,FABRK Token (FAB),
+NICE,Nice (NICE),
+YDY,Ydentity (YDY),
+GDR,Guider.Travel (GDR),
+BSTK,BattleStake (BSTK),
+OMNI,Omni (OMNI),
+WVG0,Wrapped Virgin Gen-0 CryptoKittties (WVG0),ETH
+DVT,DeVault (DVT),
+BHAO,Bithao (BHAO),
+HGOLD,HollyGold (HGOLD),ETH
+XTAG,xHashtag (XTAG),SOL
+OICOIN,Osmium Investment Coin (OICOIN),
+GBA,Geeba (GBA),
+GVT,Genesis Vision (GVT),ETH
+AMT,Acumen (AMT),
+COMBO,Furucombo (COMBO),ETH
+IDNA,Idena (IDNA),
+U8D,Universal Dollar (U8D),ETH
+BOSON,Boson Protocol (BOSON),ETH
+LEMO,LemoChain (LEMO),ETH
+DSH,Dashcoin (DSH),
+SNTR,Silent Notary (SNTR),
+QNX,QueenDex Coin (QNX),BNB
+KSTT.BITCI,Kocaelispor Fan Token (KSTT.BITCI),BITCI
+REF,RefToken (REF),
+$ANRX,AnRKey X ($ANRX),ETH
+SFR,SaffronCoin (SFR),
+IQC,IQ.cash (IQC),
+TRXBEAR,3X Short TRX Token (TRXBEAR),ETH
+RVN,Ravencoin (RVN),
+BSPM,Bitcoin Supreme (BSPM),
+BUD,Buddy (BUD),
+TRYBHALF,0.5X Long BiLira Token (TRYBHALF),
+KAT,Kambria (KAT),ETH
+RUNE,Thorchain (RUNE),"Mainnet,BNB,ETH"
+NXTTY,NXTTY (NXTTY),
+DIW,DIWtoken (DIW),
+ADBE.CUR,Adobe Systems Inc (ADBE.CUR),
+PNODE,Pinknode (PNODE),ETH
+AWT,WhatsOnPic (AWT),
+UIN,Alliance Chain (UIN),
+CUST,Custody Token (CUST),
+EBASE,EURBASE (EBASE),
+GS,Genesis Shards (GS),ETH
+CYCLUB,Cyclub (CYCLUB),ETH
+AHOO,Ahoolee (AHOO),
+MRN,Mercoin (MRN),
+TRIP,Trippki (TRIP),
+WPP,Green Energy Token (WPP),ETH
+RYOSHI,Ryoshis Vision (RYOSHI),ETH
+EXN,ExchangeN (EXN),
+CUSDTBULL,3X Long Compound USDT Token (CUSDTBULL),
+NSP,NOMAD.space (NSP),
+SCRIBE,Scribe Network (SCRIBE),
+MIST,Mist (MIST),BNB
+STX,Stacks (STX),
+ETCBEAR,3X Short Ethereum Classic Token (ETCBEAR),
+PBASE,Polkabase (PBASE),ETH
+NDC,NeverDie (NDC),
+SBTC,Super Bitcoin (SBTC),
+CHARS,CHARS (CHARS),
+RUFF,Ruff (RUFF),ETH
+CREVA,Creva Coin (CREVA),
+SCORE,Scorecoin (SCORE),
+POP,PopularCoin (POP),
+GSWAP,Gameswap (GSWAP),ETH
+USDJ,USDJ (USDJ),TRX
+FOCV,FOCV (FOCV),
+CITY,Manchester City Fan Token (CITY),0xf30D150250F5301ef34A0E4a64aaFa93F242d87A
+MEET,CoinMeet (MEET),ETH
+CPX,Apex Token (CPX),
+TCC,The ChampCoin (TCC),
+RKT,Rock Token (RKT),
+TSL,Energo (TSL),ETH
+STEPS,Steps (STEPS),
+CFTY,Crafty (CFTY),
+FODL,Fodl Finance (FODL),ETH
+NFTART,NFT Art Finance (NFTART),BNB
+FIRE,FireCoin (FIRE),
+CELOUSD,Celo Dollar (CELOUSD),
+TERADYNE,Teradyne (TERADYNE),
+GLCH,Glitch (GLCH),ETH
+1-UP,1-UP (1-UP),ETH
+GNJ,GanjaCoin V2 (GNJ),
+CWBTC,Compound Wrapped BTC (CWBTC),
+ZEX,Zaddex (ZEX),
+QTF,Quantfury (QTF),ETH
+BURGER,Burger Swap (BURGER),
+LINKBULL,3X Long Chainlink Token (LINKBULL),ETH
+RAY,Raydium (RAY),
+CHOOF,ChoofCoin (CHOOF),
+NOKU,NOKU Master token (NOKU),
+IMPS,Impulse Coin (IMPS),
+BRKL,Brokoli Token (BRKL),BNB
+DEFIT,Digital Fitness (DEFIT),ETH
+ICON,Iconic (ICON),
+NRC,Neurocoin (NRC),
+MCH,Meconcash (MCH),
+EBAY.CUR,eBay (EBAY.CUR),
+MOK,MocktailSwap (MOK),BNB
+HLC,HalalChain (HLC),ETH
+TRTK,TrollTokens (TRTK),
+KBX,KuBitX (KBX),
+SHB4,Super Heavy Booster 4 (SHB4),ETH
+BUNNY,Pancake Bunny (BUNNY),BNB
+ETM,En-Tan-Mo (ETM),
+LKU,Lukiu (LKU),
+SPORE,Enoki Finance (SPORE),
+TENFI,TEN (TENFI),BNB
+PLT,Add.xyz (PLT),ETH
+FCS,CryptoFocus (FCS),
+MIG,Migranet (MIG),
+STEP,Step Finance (STEP),
+BEC,Betherchip (BEC),
+TOKENSTARS,TokenStars (TOKENSTARS),
+THN,Throne (THN),ETH
+EVCC,Eco Value Coin (EVCC),
+YYFI,YYFI.Protocol (YYFI),
+STLD.CUR,"Steel Dynamics, Inc. (STLD.CUR)",
+NODET,Node (NODET),
+IWT,IwToken (IWT),
+ACCN,Accelerator Network (ACCN),
+ALOHA,Aloha (ALOHA),ETH
+MDH,Telemedicoin (MDH),
+IP.CUR,International Paper (IP.CUR),
+KRATOS,KRATOS (KRATOS),
+NCT,Name Changing Token (NCT),ETH
+PLA,PlayDapp (PLA),
+PLM,Algo.Land (PLM),
+LOCO,Loco (LOCO),
+NOR,Noir (NOR),
+MILO,MiloCoin (MILO),
+BDAY,Birthday Cake (BDAY),
+HRD,Hoard (HRD),ETH
+NNB,NNB Token (NNB),ETH
+BAN,Banano (BAN),
+NVDA,NVIDIA (NVDA),
+SPACE,Spacelens (SPACE),
+OMI,ECOMI (OMI),GO
+GLA,Gladius (GLA),
+NBOX,Unboxed (NBOX),
+USDSB,USDSB (USDSB),
+ZOOT,Zoo Token (ZOOT),ETH
+ACTN,Action Coin (ACTN),
+QOBI,Qobit (QOBI),
+HXC,HexanCoin (HXC),
+1211.CUR,BYD Company Limited (1211.CUR),
+TRXBULL,3X Long TRX Token (TRXBULL),ETH
+IDEX,IDEX (IDEX),ETH
+PINKX,PantherCoin (PINKX),
+PAS,Passive Coin (PAS),
+XGH,Golden Hash (XGH),
+RUP,Rupee (RUP),
+BUBO,Budbo (BUBO),
+GAM,Gambit coin (GAM),
+LBTC,LiteBitcoin (LBTC),
+BMRN.CUR,BioMarin Pharmaceutical Inc (BMRN.CUR),
+TXA,TXA (TXA),ETH
+MELD,Melodity (MELD),
+BAX,BABB (BAX),ETH
+NKN,NKN (NKN),ETH
+ZCL,ZClassic (ZCL),
+DNO,Denaro (DNO),
+MSN,Manson Coin (MSN),
+VELOX,Velox (VELOX),
+BLOODY,Bloody Token (BLOODY),
+XCO,XCoin (XCO),
+KICKS,SESSIA (KICKS),ETH
+PETG,Pet Games (PETG),BNB
+KNGN,KingN Coin (KNGN),
+BLUE,Ethereum Blue (BLUE),
+DIS.CUR,Walt Disney (DIS.CUR),
+RULER,Ruler Protocol (RULER),ETH
+DEK,DekBox (DEK),BNB
+FR,Freedom Reserve (FR),ETH
+FIFTY,FIFTYONEFIFTY (FIFTY),ETH
+AE,Aeternity (AE),
+FMCT,FirmaChain (FMCT),
+CIVIT,Civitas Protocol (CIVIT),ETH
+BASHC,BashCoin (BASHC),
+ROI,ROIcoin (ROI),
+ZZZ,zzz.finance (ZZZ),
+ARI,AriCoin (ARI),
+XJO,JouleCoin (XJO),
+ALTBULL,3X Long Altcoin Index Token (ALTBULL),ETH
+DRGN,Dragonchain (DRGN),ETH
+MONEY,MoneyCoin (MONEY),
+FNO,Fonero (FNO),
+NOW.CUR,ServiceNow (NOW.CUR),
+DART,dART Insurance (DART),BNB
+DLPD,DLP Duck Token (DLPD),
+HNT,Helium (HNT),
+NLX,Nullex (NLX),
+MAZC,MyMazzu (MAZC),
+BORA,BORA (BORA),ETH
+MONI,Monsta Infinite (MONI),BNB
+AVXL,Avaxlauncher (AVXL),BNB
+STRY,STRYKZ (STRY),
+TOC,TouchCon (TOC),
+DKNG,DraftKings (DKNG),
+KIN,Kin (KIN),SOL
+CMA,Crypto Market Ads (CMA),
+PLY,PlayCoin (PLY),
+KPAD,KickPad (KPAD),BNB
+SQG,Squid Token (SQG),BNB
+MANGA,Manga Token (MANGA),BNB
+HPAD,HarmonyPad (HPAD),BNB
+DIME,DimeCoin (DIME),
+XET,Eternal Token (XET),
+BOSU,Bosu Inu (BOSU),BNB
+ORBS,Orbs (ORBS),ETH
+IMT,MoneyToken (IMT),
+PINMO,Pinmo (PINMO),
+QRK,QuarkCoin (QRK),
+TKS,Tokes (TKS),
+OKOIN,OKOIN (OKOIN),
+KOMP,Kompass (KOMP),
+GARD,Hashgard (GARD),
+NLG,Gulden (NLG),
+WORM,HealthyWorm (WORM),
+ZIN,Zin Finance (ZIN),
+FTR,FactR (FTR),
+CURRY,CurrySwap (CURRY),ETH
+STARS,StarShip Token (STARS),ETH
+YAM,YAM (YAM),ETH
+XPB,Pebble Coin (XPB),
+HUS,HUSSY (HUS),
+ALC,Arab League Coin (ALC),
+DLPH.CUR,Delphi Automotive (DLPH.CUR),
+IDLE,IDLE (IDLE),ETH
+UND,United Network Distribution (UND),
+AKN,Akoin (AKN),
+ARTF,Artfinity Token (ARTF),ETH
+YBK,YourBlock (YBK),
+redBUX,redBUX (redBUX),
+DASC,DasCoin (DASC),
+IPDN,IPDnetwork (IPDN),
+EDEN,EDEN (EDEN),ETH
+ALCHE,Alchemist (ALCHE),
+GBE,Godbex (GBE),
+FLAS,Flas Exchange Token (FLAS),
+SAFEBULL,SafeBull (SAFEBULL),BNB
+QUBITICA,Qubitica (QUBITICA),ETH
+WPX,Wallet Plus X (WPX),
+HINA,Hina Inu (HINA),ETH
+SFUEL,SparkPoint Fuel (SFUEL),BNB
+FANZ,FanChain (FANZ),
+ALGOBULL,3X Long Algorand Token (ALGOBULL),ETH
+ARBI,Arbi (ARBI),
+FORCEC,Force Coin (FORCEC),
+BITL,BitLux (BITL),
+VIP,VIP Tokens (VIP),
+RSF,Royal Sting (RSF),
+LYNX,Lynx (LYNX),
+GAIA,Gaia Everworld (GAIA),MATIC|BNB
+KNC,Kyber Network (KNC),ETH
+LVN,LivenPay (LVN),
+UBE,Ubecoin (UBE),
+$TRDL,Strudel Finance ($TRDL),ETH
+SLCA.CUR,Us Silica Holdings (SLCA.CUR),
+TPAY,TokenPay (TPAY),
+BETH,Beacon ETH (BETH),
+SRK,SparkPoint (SRK),ETH
+ZOE,Zoe Cash (ZOE),TRX
+J,JoinCoin (J),
+TNC,TNC Coin (TNC),
+GODZ,Cryptogodz (GODZ),BNB
+MDS,MediShares (MDS),ETH
+FRAZ,FrazCoin (FRAZ),
+ADAUP,ADAUP (ADAUP),
+DAV,DAV (DAV),
+CXP,Caixa Pay (CXP),
+CLB,Cloudbric (CLB),
+FORESTPLUS,The Forbidden Forest (FORESTPLUS),
+ARMOR,ARMOR (ARMOR),ETH
+KWATT,4New (KWATT),
+EOSC,EOSForce (EOSC),
+ELT,Electron (ELT),
+SHACOIN,Shacoin (SHACOIN),
+MOB,MobileCoin (MOB),
+LCC,LitecoinCash (LCC),
+CHAMP,NFT Champions (CHAMP),BNB
+MINRL,Minerals Coin (MINRL),
+PREM,Premium (PREM),
+KSH,Kahsh (KSH),
+INXP,Insight Protocol (INXP),ETH
+SIL,SIL Finance Token V2 (SIL),BNB
+BTB,BitBar (BTB),
+VBT,VB Token (VBT),
+CYBER,CyberWay (CYBER),
+LCG,LCG (LCG),
+COGE,Cogecoin (COGE),ETH
+MBL,MovieBloc (MBL),ETH
+EXTP,TradePlace (EXTP),
+DMTC,Demeter Chain (DMTC),
+ENCN,EndChain (ENCN),
+UTPL,Utopialand (UTPL),
+BRIGHT,Bright Union (BRIGHT),ETH
+XVG,Verge (XVG),
+CSMIC,Cosmic (CSMIC),
+TFL,True Flip Lottery (TFL),
+ANDC,Android chain (ANDC),
+PTU,Pintu Token (PTU),ETH
+PKC,Pikciochain (PKC),
+URB,Urbit Data (URB),
+AWR,Award (AWR),
+DIM,DIMCOIN (DIM),
+ALT,ALTcoin (ALT),
+GMEE,GAMEE (GMEE),ETH
+MER,Mercurial Finance (MER),SOL
+MUSTANGC,MustangCoin (MUSTANGC),
+YIN,YIN Finance (YIN),BNB
+BITUSD,bitUSD (BITUSD),
+ABBV.CUR,Abbvie (ABBV.CUR),
+CORX,CorionX (CORX),
+LYK,Loyakk Vega (LYK),
+SCC,StockChain Coin (SCC),
+WPE,OPES (Wrapped PE) (WPE),ETH
+CURE,Curecoin (CURE),
+ALV,Allive (ALV),
+SMPL,SMPL Foundation (SMPL),
+BAR,FC Barcelona Fan Token (BAR),
+PARA,Paralink Network (PARA),"ETH,BNB"
+XMRG,Monero Gold (XMRG),
+GEX,Gexan (GEX),
+NMT,NFTMart Token (NMT),ETH
+SWP,Kava Swap (SWP),
+AMC,AmericanCoin (AMC),
+ANAL,AnalCoin (ANAL),
+XCZ,XCOYNZ (XCZ),
+BKBT,BeeKan (BKBT),ETH
+SPX,Sp8de (SPX),
+WFC.CUR,Wells Fargo & Co (WFC.CUR),
+MO,Morality (MO),ETH
+NOO,Noocoin (NOO),
+GRN,GreenPower (GRN),
+ADX,AdEx (ADX),ETH
+OMIC,Omicron (OMIC),
+EKN,Elektron (EKN),
+LPK,Kripton (LPK),ETH
+MCD.CUR,McDonald's (MCD.CUR),
+VBX,VIBEXXX (VBX),ETH
+MINDS,Minds (MINDS),ETH
+FINE,Refinable (FINE),BNB
+ICH,IdeaChain (ICH),ETH
+FYP,FlypMe (FYP),ETH
+EUC,Eurocoin (EUC),
+GOS,Gosama (GOS),
+1337,EliteCoin (1337),
+EMT,EasyMine (EMT),
+CBK,Cobak Token (CBK),ETH
+WINR,JustBet (WINR),
+CCAKE,CheeseCake Swap (CCAKE),
+DBET,Decent.bet (DBET),
+RAD.CUR,Rite Aid (RAD.CUR),ETH
+GLT,GlobalToken (GLT),
+YFARM,YFARM Token (YFARM),
+DORA,Dora Factory (DORA),ETH
+SYLO,Sylo (SYLO),ETH
+SVD,savedroid (SVD),
+MB8,MB8 Coin (MB8),
+POL,Pool-X (POL),
+WEMIX,Wemix Token (WEMIX),
+NEETCOIN,Neetcoin (NEETCOIN),
+VSD,Value Set Dollar (VSD),ETH
+BONDED,Bonded Finance (BONDED),
+MASS,MASS (MASS),
+EXIT,ExitCoin (EXIT),
+DADI,Edge (DADI),
+ETHPAD,ETHPad (ETHPAD),ETH
+EQC,Ethereum Qchain Token (EQC),
+COT,CoTrader (COT),
+PORTAL,Portal (PORTAL),ETH
+TCO,ThinkCoin (TCO),
+NEWTON,Newtonium (NEWTON),
+WSDOGE,Doge of Woof Street (WSDOGE),ETH
+EROWAN,Sifchain (EROWAN),ETH
+AWC,Atomic Wallet Coin (AWC),
+BMK,Benchmark (BMK),
+CNYX,eToro Chinese Yuan (CNYX),
+GNX,Genaro Network (GNX),ETH
+BIDI,Bidipass (BIDI),ETH
+BLZD,Blizzard.money (BLZD),BNB
+LRN,Loopring [NEO] (LRN),NEO
+LINKDOWN,LINKDOWN (LINKDOWN),
+BSTY,GlobalBoost (BSTY),
+LEOBULL,3X Long LEO Token (LEOBULL),
+BTX,BitCore (BTX),
+XNO,Xeno Token (XNO),ETH
+SDX,SwapDEX (SDX),ETH
+VERSA,Versa Token (VERSA),
+SYBC,SYB Coin (SYBC),
+AC3,AC3 (AC3),
+LUM,Illuminates (LUM),
+BC,Bitcoin Confidential (BC),
+YFL,YF Link (YFL),
+BAKT,Backed Protocol (BAKT),ETH
+UMK,UMKA (UMK),
+ATC,AutoBlock (ATC),
+AUX,Auxilium (Auxilium),
+DXO,Dextro (DXO),
+CCXX,CounosX (CCXX),
+BPLC,BlackPearl Token (BPLC),
+TEL,Telcoin (TEL),ETH
+EDRC,EDRCoin (EDRC),
+LINX,Linx (LINX),
+NXS,Nexus (NXS),
+XLMUP,XLMUP (XLMUP),
+POLYDOGE,PolyDoge (POLYDOGE),MATIC
+UTI,Unicorn Technology International (UTI),ETH
+SI,Siren (SI),ETH
+SCOR,Scorista (SCOR),
+MTCN,Multiven (MTCN),
+BTMXHALF,0.5X Long BitMax Token Token (BTMXHALF),
+ALIC,AliCoin (ALIC),
+BLU,BlueCoin (BLU),
+COGEN,Cogenero (COGEN),
+POND,Marlin (POND),ETH
+WIFEDOGE,Wifedoge (WIFEDOGE),BNB
+MAS,Midas Protocol (MAS),
+BREW,CafeSwap Token (BREW),
+UNIDOWN,UNIDOWN (UNIDOWN),
+KAL,Kaleido (KAL),
+DDRT,DigiDinar Token (DDRT),ETH
+GSC,Global Social Chain (GSC),ETH
+SHAKE,Spaceswap SHAKE (SHAKE),ETH|BNB
+MCAR,MasterCar (MCAR),
+TREE,HyperionX (TREE),
+SECI,Seci (SECI),
+DILI,D Community (DILI),
+TFT,The Famous Token (TFT),ETH
+HYP,HyperStake (HYP),
+DEEPG,Deep Gold (DEEPG),
+VTEX,Vertex (VTEX),
+WOLF,Insanity Coin (WOLF),
+DOV,DOVU (DOV),
+FATCAKE,FatCake (FATCAKE),BNB
+JUMP,Jumpcoin (JUMP),
+ALY,Ally (ALY),ETH
+DRXNE,Droxne (DRXNE),
+MVI,Metaverse Index (MVI),ETH
+PIPI,Pippi Finance (PIPI),
+YMC,YamahaCoin (YMC),
+ALTOCAR,AltoCar (ALTOCAR),
+LEOS,Leonicorn Swap (LEOS),BNB
+BQC,BQCoin (BQC),
+LNT,Litenett (LNT),
+RGP,Rigel Protocol (RGP),
+DAFT,DaftCoin (DAFT),ETH
+DTRC,Datarius (DTRC),
+DIVO,DIVO Token (DIVO),
+KAR,Karura (KAR),
+PERL,Perlin (PERL),ETH
+BCHA,Bitcoin Cash ABC (BCHA),
+DGDC,DarkGold (DGDC),
+BASID,Basid Coin (BASID),
+8X8,8X8 Protocol (8X8),ETH
+MANA,Decentraland (MANA),ETH
+ULED,Ledder (ULED),
+FLG,Folgory Coin (FLG),
+CR8,Crazy8Token (CR8),
+ASTA,ASTA (ASTA),
+USDP,Pax Dollar (USDP),ETH
+ACTIN,Actinium (ACTIN),
+SJCX,StorjCoin (SJCX),
+SUMO,Sumokoin (SUMO),
+LINDA,Metrix (LINDA),
+LYNK,Lynked.World (LYNK),
+CVT,CyberVein (CVT),ETH
+SAC1,Sable Coin (SAC1),
+PUNDIX,Pundi X (PUNDIX),
+LBR,LaborCrypto (LBR),
+TRVC,Trivechain (TRVC),
+DT1,Dollar Token 1 (DT1),
+LOLC,LOL Coin (LOLC),
+MCRC,MyCreditChain (MCRC),
+ORAO,ORAO Network (ORAO),
+PROC,ProCurrency (PROC),
+BZKY,Bizkey (BZKY),
+HYDRA,Hydra (HYDRA),
+LTE,Local Token Exchange (LTE),
+ATMCHAIN,ATMChain (ATMCHAIN),
+YFR,YFarmer (YFR),
+EDC,EDC Blockchain (EDC),
+YAY,YAY Games (YAY),
+CNS,Centric Cash (CNS),
+PST,Primas (PST),ETH
+DAVP,Davion (DAVP),
+FTXR.CUR,First Trust Nasdaq Transportation ETF (FTXR.CUR),
+CCOIN,Creditcoin (CCOIN),
+BTMXHEDGE,1X Short BitMax Token Token (BTMXHEDGE),
+ADNT.CUR,Adient (ADNT.CUR),
+FNL,Finlocale (FNL),
+TOYKEN,Toyken (TOYKEN),
+ZLS,Zelerius (ZLS),
+ZYRO,Zyro (ZYRO),
+MIN,MINDOL (MIN),
+UNT,Uni Token (UNT),
+ADAT,Adadex Tools (ADAT),BNB
+EDG,Edgeless (EDG),
+TAJ,TajCoin (TAJ),
+OPS,Octopus Protocol (OPS),
+EMPC,EmporiumCoin (EMPC),
+LESS,Less Network (LESS),BNB
+YSH,Yoshi (YSH),
+CND,Cindicator (CND),ETH
+SGO,Selfie GO (SGO),
+ETHPY,Etherpay (ETHPY),
+NTES.CUR,"NetEase, Inc. (NTES.CUR)",
+NIF,Unifty (NIF),ETH
+RRT,Recovery Right Tokens (RRT),
+TRUMP,TrumpCoin (TRUMP),
+CWT,Coinware (CWT),
+ETZ,EtherZero (ETZ),
+BFIC,Bficoin (BFIC),BNB
+SWA,Swace (SWA),
+TRYBBEAR,3X Short BiLira Token (TRYBBEAR),
+YOUC,YOUengine (YOUC),
+MINI,Mini (MINI),ETH
+NYN,NYNJA (NYN),
+AUR,AUREO (AUR),
+EURN,NOKU EUR (EURN),
+BWS,BitcoinWSpectrum (BWS),
+IFUND,Unifund (IFUND),ETH
+IZE,IZE (IZE),
+MUSD,mStable USD (MUSD),ETH
+PAXGBULL,3X Long PAX Gold Token (PAXGBULL),
+CLIQ,DefiCliq (CLIQ),ETH
+XOV,XOVBank (XOV),
+ZNT,OpenZen (ZNT),
+HANA,Hanacoin (HANA),
+KBC,Karatgold coin (KBC),
+LTG,LiteCoin Gold (LTG),
+FML,FormulA (FML),
+ARATA,Arata (ARATA),BNB
+UOP,Utopia Genesis Foundation (UOP),ETH
+HAPI,HAPI (HAPI),ETH
+HTML,HTML Coin (HTML),
+CPN,CompuCoin (CPN),
+PIB,Pibble (PIB),
+TOS,ThingsOperatingSystem (TOS),ETH
+GMC,Gridmaster (GMC),
+NRO,Neuro (NRO),
+DEP,DEAPCOIN (DEP),ETH
+ACN,AvonCoin (ACN),
+SOMA,Soma (SOMA),ETH
+SOKU,Soku Swap (SOKU),
+BNT,Bancor Network Token (BNT),ETH
+TTM,To The Moon (TTM),
+GASP,gAsp (GASP),
+RNX,ROONEX (RNX),
+WSG,Wall Street Games (WSG),BNB
+CHP,CoinPoker Token (CHP),ETH
+VDL,Vidulum (VDL),
+CHFX,eToro Swiss Franc (CHFX),
+BSTN,BitStation (BSTN),
+USOAMIC,USOAMIC (USOAMIC),
+NSD,Nasdacoin (NSD),
+VERTEX,Vertex (VERTEX),
+MZK,Muzika Network (MZK),
+GLPG.CUR,Galapagos NV (GLPG.CUR),
+BSX.CUR,Boston Scientific (BSX.CUR),
+MATPAD,MaticPad (MATPAD),MATIC
+SX,SportX (SX),ETH
+TFBX,Truefeedback Token (TFBX),
+BLADE,BladeWarrior (BLADE),
+YES,YesCoin (YES),
+MBN,Mobilian Coin (MBN),
+CRTS,Cratos (CRTS),
+SPHYNX,Sphynx Token (SPHYNX),BNB
+XPT,Cryptobuyer (XPT),ETH
+PSK,Pool of Stake (PSK),
+VEOT,Viewo (VEOT),
+DOLA,Dola USD Stablecoin (DOLA),ETH
+HOTCROSS,Hot Cross (HOTCROSS),ETH/BNB
+NR1.BITCI,Number 1 Token (NR1.BITCI),BITCI
+BUMN,BUMooN (BUMN),BNB
+WEB,Webcoin (WEB),ETH
+ZRX,0x (ZRX),ETH
+IXT,iXledger (IXT),
+BSVBEAR,3X Short Bitcoin SV Token (BSVBEAR),ETH
+DMG,DMM: Governance (DMG),ETH
+PRIVBULL,3X Long Privacy Index Token (PRIVBULL),
+FNDZ,FNDZ Token (FNDZ),BNB
+DSC,Dash Cash (DSC),
+MOONARCH,Moonarch (MOONARCH),BNB
+XSEED,BitSeeds (XSEED),
+LAO,LC Token (LAO),
+BITM,BitMoney (BITM),
+HPC,HappyCoin (HPC),
+LCS,LocalCoinSwap (LCS),
+CVC,Civic (CVC),ETH
+HEDG,HedgeTrade (HEDG),ETH
+EVR,Everus (EVR),
+COV,Covesting (COV),ETH
+LHT,LHT Coin (LHT),
+QC,Qcash (QC),
+DMCH,DARMA Cash (DMCH),
+STN,Stone Token (STN),ETH
+PENTA,Penta (PENTA),
+BOND,BarnBridge (BOND),ETH
+NRB,NoirBits (NRB),
+BETHER,Bethereum (BETHER),
+LNC,Blocklancer (LNC),
+FMG,FM Gallery (FMG),ETH
+APY,APY.Finance (APY),ETH
+CHS,Chainsquare (CHS),ETH
+DIAMND,Projekt Diamond (DIAMND),ETH
+VTUUR,VTUUR (VTUUR),
+LABX,Stakinglab (LABX),
+LKOD.CUR,Lukoil PJSC ADR (LKOD.CUR),
+BNBHEDGE,1X Short BNB Token (BNBHEDGE),
+CUMMIES,CumRocket (CUMMIES),BNB
+YOSI,YOI SHIBA INU (YOSI),BNB
+MAX,MaxCoin (MAX),
+MOLK,Mobilink Token (MOLK),
+PUGL,PugLife (PUGL),ETH
+OCE,OceanEX Token (OCE),
+VISR,Visor (VISR),ETH
+MUTE,Mute (MUTE),ETH
+SKLAY,sKLAY (SKLAY),
+POODL,Poodl (POODL),BNB
+CFD,Confido (CFD),
+TRAXIA,Traxia Membership Token (TRAXIA),
+RFI,reflect.finance (RFI),
+DAR,Mines of Dalarnia (DAR),BNB
+TDP,TrueDeck (TDP),
+DICEM,DICE Money (DICEM),
+LKN,LinkCoin Token (LKN),
+PBF.CUR,Pbf Energy Cl A (PBF.CUR),
+INDEX,Index Cooperative (INDEX),ETH
+DRCT,Ally Direct (DRCT),ETH
+CELL,Cellframe (CELL),"ETH,BNB"
+BSR,BitSoar Coin (BSR),
+TLNT,Talent Token (TLNT),
+YSEC,Yearn Secure (YSEC),
+BGLD,Based Gold (BGLD),ETH
+WLK,Wolk (WLK),
+BRTR,Barter (BRTR),
+MEDICO,Mediconnect (MEDICO),STRAX
+C98,Coin98 (C98),BNB
+CSWAP,CardSwap (CSWAP),ETH
+CYCE,Crypto Carbon Energy (CYCE),ETH
+BAL,Balancer (BAL),ETH
+SKRP,Skraps (SKRP),
+NRX,Neironix (NRX),
+0xDIARY,The 0xDiary Token (0xDIARY),
+ZT,ZBG Token (ZT),
+DUCKD,DuckDuckCoin (DUCKD),
+JGN,Juggernaut (JGN) (JGN),
+QBAO,Qbao (QBAO),
+TBL,Tombola (TBL),
+LOCUS,Locus Chain (LOCUS),
+TRNSC,Transmutecoin (TRNSC),
+BTC3L,Amun Bitcoin 3x Daily Long (BTC3L),
+WILD,Wilder World (WILD),ETH
+POSTC,PostCoin (POSTC),
+UGC,ugChain (UGC),
+FEAR,Fear (FEAR),ETH/BNB
+XDN,DigitalNote (XDN),
+GLM,Golem Network Token (GLM),ETH
+TSE,TattooCoin (TSE),
+AME,Amepay (AME),ETH
+MCT,1717 Masonic Commemorative Token (MCT),
+YFFII,YFFII Finance (YFFII),
+TNT,Tierion (TNT),ETH
+VIU,Viuly (VIU),
+PENG,PENG (PENG),
+MRCH,MerchDAO (MRCH),ETH
+XOR,Sora (XOR),ETH
+SWM,Swarm Fund (SWM),
+ILT,iOlite (ILT),
+GILD.CUR,Gilead Sciences (GILD.CUR),
+BTTR,BitTiger (BTTR),
+ELLA,Ellaism (ELLA),
+HPB,High Performance Blockchain (HPB),
+NTK,Neurotoken (NTK),
+GHOST,GhostbyMcAfee (GHOST),
+VBK,VeriBlock (VBK),
+AU,AutoCrypto (AU),BNB
+COB,Cobinhood (COB),
+XLQ,Alqo (XLQ),
+PFT,Pitch Finance Token (PFT),bnb
+ETL.CUR,Eutelsat Communications (ETL.CUR),
+UOS,UOS (UOS),
+SGR,Sogur Currency (SGR),ETH
+CWEX,Crypto Wine Exchange (CWEX),
+SWAPS,SWAPS Network (SWAPS),
+PEG,PegNet (PEG),
+ANW,Anchor Neural World (ANW),
+BITCI,Bitcicoin (BITCI),
+ZDR,Zloadr (ZDR),
+QCH,QChi (QCH),
+XBL,Billionaire Token (XBL),
+LQDN,Liquidity Network (LQDN),
+ECOB,EcoBit (ECOB),
+BMI,Bridge Mutual (BMI),ETH
+CEFS,CryptopiaFeeShares (CEFS),
+BCDT,EvidenZ (BCDT),ETH
+COIN,Coinbase Tokenized Stock on FTX (COIN),ETH
+NTCC,NeptuneClassic (NTCC),
+CL,CoinLancer (CL),
+LEX,Elxis (LEX),
+MMUI,MetaMUI (MMUI),
+SAT,Satisfaction Token (SAT),
+ZSC,Zeusshield (ZSC),ETH
+CLVA,Clever DeFi (CLVA),ETH
+STARL,StarLink (STARL),ETH
+IVZ,InvisibleCoin (IVZ),
+COU,Couchain (COU),
+ELEC,Electrify.Asia (ELEC),ETH
+SEEDV,Seed Venture (SEEDV),
+NIN,Next Innovation (NIN),
+XNL,Chronicle (XNL),ETH
+XBB,BrickBlock (XBB),ETH
+USDN,Neutrino USD (USDN),"WAVES,ETH"
+AI,Multiverse (AI),ETH
+PXL,PIXEL (PXL),
+BSCPAD,BSCPAD (BSCPAD),
+TAU,Lamden Tau (TAU),
+EVC,Eventchain (EVC),
+TCT,TokenClub (TCT),ETH
+TABOO,Taboo Token (TABOO),BNB
+PAXG,PAX Gold (PAXG),ETH
+EXCHHEDGE,1X Short Exchange Token Index Token (EXCHHEDGE),
+PXP,PointPay (PXP),
+DP,DigitalPrice (DP),
+VOL,Volume Network (VOL),
+INSTAR,Insights Network (INSTAR),
+ALUSD,Alchemix USD (ALUSD),ETH
+SKB,SkullBuzz (SKB),
+KAPU,Kapu (KAPU),
+DTR,Dynamic Trading Rights (DTR),
+EU50.CUR,Euro Stoxx 50 (EU50.CUR),
+STHR,Stakerush (STHR),
+VTY,Victoriouscoin (VTY),
+HLT,HyperLoot (HLT),
+IVC,Investy Coin (IVC),
+LITION,Lition (LITION),
+THP,TurboHigh Performance (THP),
+CAPT,Bitcoin Captain (CAPT),ETH
+ETCHEDGE,1X Short Ethereum Classic Token (ETCHEDGE),
+GLQ,GraphLinq Protocol (GLQ),ETH
+COPE,Cope (COPE),
+CATZ,CatzCoin (CATZ),BNB
+CMP,Compcoin (CMP),
+PITCH,PITCH (PITCH),
+GM,GM (GM),ETH
+MKRBULL,3X Long Maker Token (MKRBULL),
+KTN,Kattana (KTN),
+TAG,TagCoin (TAG),
+GRAYLL,GRAYLL (GRAYLL),
+WBIND,Wrapped BIND (WBIND),
+COSMIC,CosmicSwap (COSMIC),BNB
+FSN,Fusion (FSN),"mainnet,ETH,BNB"
+PCS,Pabyosi Coin (PCS),
+TREX,TreeBlock (TREX),
+XVS,Venus (XVS),BNB
+SQOIN,StasyQ (SQOIN),
+XAVA,Avalaunch (XAVA),
+JIAOZI,Jiaozi (JIAOZI),
+SVX,Savix (SVX),
+ZUP,Zupply Token (ZUP),
+RPD,Rapids (RPD),
+MVU,meVu (MVU),
+WATT.CUR,Energous Corporation (WATT.CUR),
+RADI,RadicalCoin (RADI),
+BDB,Big Data Block (BDB),
+VETBULL,3X Long VeChain Token (VETBULL),
+BNC,Bifrost Native Coin (BNC),
+DACS,Dacsee (DACS),
+US30.CUR,Dow Jones 30 (US30.CUR),
+NL25.CUR,Amsterdam Exchange Index 25 (NL25.CUR),
+PAY,TenX (PAY),ETH
+COLX,ColossusCoinXT (COLX),
+BITN,Bitcoin Nova (BITN),
+DN8,Pldgr (DN8),
+ZORT,Zort (ZORT),ETH
+DIGG,DIGG (DIGG),ETH
+POCO,Pocoland (POCO),BNB
+NEU,Neumark (NEU),ETH
+IPC,IPChain (IPC),
+LINANET,Lina (LINANET),
+JTX,Project J (JTX),
+PYLNT,Pylon Network (PYLNT),
+CHONK,Chonk (CHONK),ETH
+UNCL,UNCL (UNCL),ETH
+MIMO,MIMO Parallel Governance Token (MIMO),ETH|MATIC
+KEYC,KeyCoin (KEYC),
+ELTC2,eLTC (ELTC2),
+KFT,Knit Finance (KFT),"ETH,BNB"
+PBR,PolkaBridge (PBR),ETH
+GPRO.CUR,GoPro Inc (GPRO.CUR),
+EXRD,Radix (EXRD),ETH
+NFY,Non-Fungible Yearn (NFY),ETH
+CRAIG,CraigsCoin (CRAIG),
+NAH,Strayacoin (NAH),
+PQT,Prediqt (PQT),
+AQU,aQuest (AQU),
+WOW,WOWswap (WOW),BNB
+ELEMENTS,Elements (ELEMENTS),
+FBN,Five balance (FBN),
+LACCOIN,LocalAgro (LACCOIN),
+NAX,NextDAO (NAX),NAS
+CQT,Covalent (CQT),ETH
+BEZOGE,Bezoge Earth (BEZOGE),ETH
+CTK,CertiK (CTK),
+DVTC,DivotyCoin (DVTC),
+ADPT.CUR,Adaptive Biotechnologies Corporation (ADPT.CUR),
+INTO,Influ Token (INTO),
+KP3R,Keep3rV1 (KP3R),ETH
+TESMA,TESKA Modern Accounting (TESMA),BNB
+GOF,Golff (GOF),ETH
+CTCN,Contracoin (CTCN),
+EDN,EdenChain (EDN),
+TMB,Teambrella (TMB),
+PEEPS,The People’s Coin (PEEPS),ETH
+SLA,SUPERLAUNCH (SLA),BNB
+VISIO,Visio (VISIO),
+ATCC,ATC Coin (ATCC),
+TOMOE,TomoChain ERC20 (TOMOE),
+BOT,Bounce Token (BOT),QTUM
+BIC,Bikercoins (BIC),
+TRXWIN,TronWin (TRXWIN),
+KARMA,Karma (KARMA),
+FIDA,Bonfida (FIDA),
+MSA,My Shiba Academia (MSA),ETH
+TLU,Irene Energy (TLU),
+MAEP,Maester Protocol (MAEP),
+SGAT,SGAT (SGAT),
+CBP,ComBox (CBP),
+ISH,Interstellar Holdings (ISH),
+KNG,BetKings (KNG),
+IRL,IrishCoin (IRL),
+STAK,Jigstack (STAK),ETH
+POC,POC Blockchain (POC),
+ZAZA,ZAZA (ZAZA),
+SUSHIBULL,3X Long Sushi Token (SUSHIBULL),
+STS,SBank (STS),ETH
+PYN,Paycent (PYN),
+GOAL,Goal Bonanza (GOAL),
+EQUI,EQUI Token (EQUI),
+8PAY,8Pay (8PAY),ETH
+NCC,NeuroChain (NCC),ETH
+AIRE,Tokenaire (AIRE),
+1GOLD,1irstGold (1GOLD),
+DPI,DeFiPulse Index (DPI),ETH
+SIN,SINOVATE (SIN),
+GENS,Genshiro (GENS),BNB
+WILDC,Wild Crypto (WILDC),
+CWXT,CryptoWorldXToken (CWXT),
+ECOC,ECOcoin (ECOC),
+GFX,GamyFi Token (GFX),ETH
+BABYCUBAN,Baby Cuban (BABYCUBAN),ETH
+SUNC,Sunrise (SUNC),ETH
+LAZIO,Lazio Fan Token (LAZIO),BNB
+SCL,Sociall (SCL),
+TEM,Temtum (TEM),
+QRDO,Qredo (QRDO),
+VOICE,Voice Token (VOICE),ETH
+API3,API3 (API3),ETH
+FOC,TheForce Trade (FOC),BNB
+NAKA,Nakamoto Games (NAKA),ETH
+REC,Regalcoin (REC),
+0XBTC,0xBitcoin (0xBTC),ETH
+CEL,Celsius Network (CEL),ETH
+1TRC,1TRONIC (1TRC),BNB
+MINIDOGE,MiniDOGE (MINIDOGE),BNB
+CIV,Civilization (CIV),ETH
+HLX,Helex (HLX),
+ASP,Aspire (ASP),
+BPRIVA,Privapp Network (BPRIVA),BNB
+NCR,Neos Credits (NCR),ETH
+WING,Wing Finance (WING),ONT
+MYL,MyLottoCoin (MYL),BNB
+QTUM,QTUM (QTUM),
+JSE,JSEcoin (JSE),
+GE,GEchain (GE),
+INX,INX Token (INX),
+MPL,Maple (MPL),ETH
+ZKS,ZKSwap (ZKS),ETH
+QARK,QANplatform (QARK),
+QLC,QLC Chain (QLC),NEO
+KSC,KStarCoin (KSC),
+SAR,Saren (SAR),ETH
+RES,Resistance (RES),
+EXM,EXMO Coin (EXM),ETH
+PHR,Phreak (PHR),
+ASST,AssetStream (ASST),
+CSP,Caspian (CSP),ETH
+PEOS,pEOS (PEOS),
+BIUT,Bit Trust System (BIUT),
+YFBT,Yearn Finance Bit (YFBT),
+1INCHUP,Long 1INCH with Up to 4x Leverage (1INCHUP),
+HOLD,HOLD (HOLD),
+ACDC,Volt (ACDC),
+MUN,MUNcoin (MUN),
+GAI,GraphGrail AI (GAI),
+CREP,Compound Augur (CREP),
+LAR,LinkArt (LAR),
+BNBUP,Long BNB with Up to 3x Leverage (BNBUP),
+ARGO,ArGoApp (ARGO),ETH
+CIRC,CryptoCircuits (CIRC),
+AS,AmaStar (AS),
+JPM.CUR,JPMorgan Chase (JPM.CUR),
+DFIO,DeFi Omega (DFIO),
+EPK,EpiK Protocol (EPK),ETH
+DGPT,DigiPulse (DGPT),
+CRYP,CrypticCoin (CRYP),
+BYND.CUR,"Beyond Meat, Inc. (BYND.CUR)",
+GXT,Gem Exchange And Trading (GXT),
+VET,VeChain (VET),
+ADH,Adhive (ADH),
+LUNES,Lunes (LUNES),
+AMATEN,Amaten (AMATEN),
+SG,SocialGood (SG),
+EXCHBULL,3X Long Exchange Token Index Token (EXCHBULL),
+RDNN,Raiden Network (RDNN),ETH
+IDEFI,Inverse DeFi Index (IDEFI),ETH
+FREE,FREE coin (FREE),
+SUP,Supcoin (SUP),
+AAS,aassio (AAS),
+PYRAM,Pyram Token (PYRAM),BNB
+BOXY,BoxyCoin (BOXY),
+MYDFS,MyDFS (MYDFS),
+ECTE,EurocoinToken (ECTE),
+CCH,Coinchase (CCH),
+DGLD,Digital Gold (DGLD),
+BNBDOOM,10X Short BNB Token (BNBDOOM),ETH
+KFI,Klever Finance (KFI),
+EROTICA,Erotica (EROTICA),ETH
+I0C,I0coin (I0C),
+EURS,STASIS EURS (EURS),ETH
+AGF,Augmented Finance (AGF),ETH
+DBA,Digital Bank of Africa (DBA),BNB
+CHESSCOIN,ChessCoin (CHESSCOIN),
+PMTN,Peer Mountain (PMTN),
+CLOUTIO,Clout (CLOUTIO),
+DUC,DucatusCoin (DUC),
+ANGL,Angel Token (ANGL),
+SNPC,SnapCoin (SNPC),
+KOREC,Kore (KOREC),
+FNB,FNB protocol (FNB),ETH
+SFC,Solarflarecoin (SFC),
+WGO,WavesGO (WGO),
+CATT,Catex (CATT),ETH
+ING,Iungo (ING),
+BWN,BitWings (BWN),
+SFI,Saffron.finance (SFI),
+GEMS,Carbon GEMS (GEMS),ETH
+GIM,Gimli (GIM),
+DLX,DAppLinks (DLX),
+BIO,Biocoin (BIO),
+XDNA,XDNA (XDNA),
+SINE,Sinelock (SINE),ETH
+SMLY,SmileyCoin (SMLY),
+EARTH,Earth Token (EARTH),
+SMNX,SMNX (SMNX),
+MZX,Mosaic Network (MZX),
+PLANETS,PlanetWatch (PLANETS),
+SILK,SilkCoin (SILK),
+NEVA,NevaCoin (NEVA),
+ABELE,Abele (ABELE),
+ORT,Omni Real Estate Token (ORT),BNB
+BMXT,Bitmxittz (BMXT),
+OCL,Oceanlab (OCL),
+AT,AWARE (AT),
+NSS,NSS Coin (NSS),
+DIN,Dinero (DIN),
+STAKEDETH,StakeHound Staked Ether (STAKEDETH),ETH
+CAPS,Ternoa (CAPS),ETH
+TYC,Tycoon (TYC),
+DEFIBEAR,3X Short DeFi Index Token (DEFIBEAR),
+YIELD,Yield Protocol (YIELD),ETH
+ICAP,ICAP Token (ICAP),ETH
+TOKE,Tokemak (TOKE),ETH
+QWARK,Qwark (QWARK),
+XRM,Aerum (XRM),
+MOFI,MobiFi (MOFI),ETH
+LX,Moonlight (LX),
+DMD,DMD (DMD),
+ALPA,Alpaca (ALPA),ETH
+FOR,ForTube (FOR),ETH
+TENZ,Tenzorum (TENZ),
+WBY,WeBuy (WBY),
+STMX,StormX (STMX),ETH
+EM,Eminer (EM),ETH
+MDN,MADANA (MDN),
+MOMA,Mochi Market (MOMA),ETH
+LNL,LunarLink (LNL),
+SNFT.BITCI,Spanish National Team Fan Token (SNFT.BITCI),BITCI
+CTXC,Cortex (CTXC),
+MYB,MyBit (MYB),
+UBU,UBU (UBU),
+ETHP,ETHPlus (ETHP),
+VALOR,Valor Token (VALOR),ETH
+PERX,PeerEx Network (PERX),
+ERY,Eryllium (ERY),
+MOBI,Mobius (MOBI),
+TBT,T-BOT (TBT),
+DCT,Decent (DCT),
+BID,Bidao (BID),
+SPH,Sphynx Network (SPH),BNB
+WADS,AdsByWiFi (WADS),
+WET,WeShow Token (WET),
+GIZ,GIZMOcoin (GIZ),
+MBM,MobileBridge Momentum (MBM),
+SHPT,Shipit (SHPT),
+ORM,ORIUM (ORM),
+TRP,Tronipay (TRP),
+GALT,Galtcoin (GALT),
+FYZNFT,Fyooz NFT (FYZNFT),ETH
+YAP,Yap Stone (YAP),
+HDG,Hedge Token (HDG),
+MFG,SyncFab (MFG),
+BKK,BKEX Token (BKK),ETH
+CTC,Creditcoin (CTC),
+UCOINT,UCOIN (UCOINT),
+SNcoin,ScientificCoin (SNcoin),
+CARTAXI,CarTaxi (CARTAXI),
+QISWAP,QiSwap (QISWAP),
+DUELERS,Block Duelers (DUELERS),
+SENT,Sentinel (SENT),ETH
+HOT,Holo (HOT),ETH
+COOL,CoolCoin (COOL),
+INDI,IndiCoin (INDI),
+SHIP,ShipChain (SHIP),
+XPO.CUR,XPO Logistics (XPO.CUR),
+EOSDOWN,EOSDOWN (EOSDOWN),
+F16,F16Coin (F16),
+RAVE,Ravelous (RAVE),
+ICX,ICON Project (ICX),
+AXIAV3,Axia (AXIAV3),
+FLMC,FOLM coin (FLMC),
+PROS,Prosper (PROS),
+SHR,ShareToken (SHR),ETH
+BUYI,Buying.com (BUYI),
+DAWN,Dawn Protocol (DAWN),
+HUB,Hub Token (HUB),ETH
+300,300 token (300),ETH
+FRN,Francs (FRN),
+CLU,CluCoin (CLU),BNB
+SKU,Sakura (SKU),
+GRS,Groestlcoin (GRS),
+UBXT,UpBots (UBXT),
+LABS,LABS Group (LABS),ETH
+MIODIO,MIODIOCOIN (MIODIO),
+RAIF,RAI Finance (RAIF),ETH
+VIDZ,PureVidz (VIDZ),
+F.CUR,Ford Motor Co (F.CUR),
+FDX.CUR,Fedex (FDX.CUR),
+MOOLYA,moolyacoin (MOOLYA),
+CASHT,Cash Tech (CASHT),
+QSP,Quantstamp (QSP),ETH
+TIA,Tianhe (TIA),
+IOU,IOU1 (IOU),
+MKEY,MEDIKEY (MKEY),
+PGX,PhiGold Coin (PGX),
+SYY.CUR,Sysco (SYY.CUR),
+AIBB,AiBB (AIBB),
+ARX,ARCS (ARX),ETH
+YEL,Yel.Finance (YEL),ETH
+GREXIT,GrexitCoin (GREXIT),
+JMC,Junson Ming Chan Coin (JMC),
+GMCOIN,GMCoin (GMCOIN),TRX
+COG,Cognitio (COG),
+KOIN,Koinos (KOIN),ETH
+AIX,Aigang (AIX),
+RIYA,Etheriya (RIYA),
+GRON,Gron Digital (GRON),
+SORA,Sora Validator Token (SORA),
+KLV,Klever (KLV),TRX
+POLISPLAY,PolisPay (POLISPLAY),
+VEST,VestChain (VEST),ETH
+MCAP,MCAP (MCAP),
+DMS,Documentchain (DMS),
+GE.CUR,General Electric Co (GE.CUR),
+BLRY,BillaryCoin (BLRY),
+HEAT,Heat Ledger (HEAT),
+CBFT,CoinBene Future Token (CBFT),
+DE30.CUR,Germany 30 (DE30.CUR),
+BULLSHIT,3X Long Shitcoin Index Token (BULLSHIT),
+CRYPT,CryptCoin (CRYPT),
+PAVO,Pavocoin (PAVO),
+NMS,Numus (NMS),
+LLG,Loligo (LLG),
+VENUS,VenusEnergy (VENUS),
+ATOMHALF,0.5X Long Cosmos Token (ATOMHALF),
+DOGETH,EtherDoge (DOGETH),
+XVP,VirtacoinPlus (XVP),
+SHB,SkyHub Coin (SHB),
+DOGEDAO,DogeDao (DOGEDAO),ETH
+NEF,NefariousCoin (NEF),
+XCHF,CryptoFranc (XCHF),ETH
+MGP,MangoChain (MGP),
+NUX,Peanut (NUX),
+HERA,Hero Arena (HERA),BNB
+EMC2,Einsteinium (EMC2),
+FCT,Factom (FCT),
+XRA,Ratecoin (XRA),
+ADT,AdToken (ADT),
+ABX,Arbidex (ABX),
+SEPA,Secure Pad (SEPA),ETH
+BBANK,BlockBank (BBANK),ETH
+BANKETH,BankEth (BANKETH),ETH
+CRTM,Cryptum (CRTM),
+PEX,PosEx (PEX),
+ATX,ArtexCoin (ATX),
+MASTERCOIN,MasterCoin (MASTERCOIN),
+GMT,Mercury Protocol (GMT),
+BNTX.CUR,Biontech SE (BNTX.CUR),
+TTC,TTC PROTOCOL (TTC),
+EPAM.CUR,"EPAM Systems, Inc. (EPAM.CUR)",
+DATX,DATx (DATX),ETH
+DOPE,DopeCoin (DOPE),
+NWCN,NowCoin (NWCN),
+DACH,DACH Coin (DACH),
+FNP,FlipNpik (FNP),
+LQBTC,Liquid Bitcoin (LQBTC),
+SBE,Sombe (SBE),
+RPZX,Rapidz (RPZX),
+RUGZ,pulltherug.finance (RUGZ),ETH
+PHA,Phala Network (PHA),ETH
+HAL,Halcyon (HAL),
+VSX,Vsync (VSX),
+NORA,SnowCrash Token (NORA),BNB
+POWR,Power Ledger (POWR),ETH
+ZPR,ZPER (ZPR),
+JUL,Joule (JUL),
+EST,ESports Chain (EST),
+COSHI,CoShi Inu (COSHI),ETH
+1ST,FirstBlood (1ST),
+BWK,Bulwark (BWK),
+DBX.CUR,DropBox (DBX.CUR),
+DWZ,DeFi Wizard (DWZ),ETH
+BRC,Baer Chain (BRC),ETH
+LIR,Let it Ride (LIR),
+LIBFX,Libfx (LIBFX),
+FNTB,FinTab (FNTB),
+PRINT,Printer.Finance (PRINT),
+XCRE,Creatio (XCRE),
+MUU,MilkCoin (MUU),
+CBS,Cerberus (CBS),
+TENX,TenX Token (TENX),
+USDA,USDA (USDA),
+RMD.CUR,Resmed (RMD.CUR),
+USNBT,NuBits (USNBT),
+LABRA,LabraCoin (LABRA),ETH
+MCI,Musiconomi (MCI),
+XIOS,Xios (XIOS),
+SUNOLD,Sun Token (SUNOLD),TRX
+XUC,Exchange Union (XUC),ETH
+ARNXM,Armor NXM (ARNXM),ETH
+HANU,Hanu Yokia (HANU),ETH
+BIST,Bistroo (BIST),ETH
+SLG,SterlingCoin (SLG),
+IPSX,IP Exchange (IPSX),
+BFCH,Big Fun Chain (BFCH),
+SOGE,Space Hoge (SOGE),ETH
+WSCRT,Secret ERC20 (WSCRT),ETH
+SCIX,Scientix (SCIX),BNB
+ANKORUS,Ankorus Token (ANKORUS),
+TC,Titan Coin (TC),
+DRGNBULL,3X Long Dragon Index Token (DRGNBULL),
+FTM,Fantom (FTM),
+TINKU,TinkuCoin (TINKU),ETH
+GRIMEX,SpaceGrime (GRIMEX),BNB
+COING,Coingrid (COING),
+KLK,Klickzie (KLK),
+BALBULL,3X Long Balancer Token (BALBULL),
+STACS,STACS Token (STACS),
+TRXUP,TRXUP (TRXUP),
+DOS,DOS Network (DOS),
+FIG,FlowCom (FIG),BNB
+XRP,XRP (XRP),
+FIBRE,FIBRE (FIBRE),
+CHW,Chrysalis Coin (CHW),
+LAS,LNAsolution Coin (LAS),ETH
+SHELL,Shell Token (SHELL),BNB
+UNO,Unobtanium (UNO),
+EDDA,EDDASwap (EDDA),ETH
+DFY,Defi For You (DFY),BNB
+BIM,BitminerCoin (BIM),
+THETABULL,3X Long Theta Network Token (THETABULL),
+DKA,dKargo (DKA),ETH
+CASH,CashCoin (CASH),
+SAS,Stand Share (SAS),ETH
+FN,Filenet (FN),
+EXPE.CUR,Expedia Inc (EXPE.CUR),
+MAID,MaidSafe Coin (MAID),
+LYTX,LYTIX (LYTX),
+TER.CUR,Teradyne (TER.CUR),
+LCR,Lucre (LCR),
+POA,Poa Network (POA),
+GIVE,GiveCoin (GIVE),
+STOR,Self Storage Coin (STOR),
+GOGO,GOGO Finance (GOGO),ETH
+DEVCOIN,DevCoin (DEVCOIN),
+TKN,Monolith (TKN),ETH
+NAN,NanoToken (NAN),
+AKA,Akroma (AKA),
+GAP,Gaps Chain (GAP),
+QBZ,QUEENBEE (QBZ),
+KEX,KexCoin (KEX),
+SAFE,SafeCoin (SAFE),
+GODL,GODL (GODL),ETH
+AXS,Axie Infinity Shards (AXS),ETH
+BTW,BitWhite (BTW),
+BSAFE,BlockSafe (BSAFE),
+RIGEL,Rigel Finance (RIGEL),ETH
+OFC,$OFC Coin (OFC),ETH
+BRNK,Brank (BRNK),ETH
+WISH,MyWish (WISH),
+GIB,Bible Coin (GIB),
+BP,BunnyPark (BP),BNB
+ETGP,Ethereum Gold Project (ETGP),
+KDG,Kingdom Game 4.0 (KDG),
+NKE.CUR,NIKE Inc (NKE.CUR),
+UFC,Union Fair Coin (UFC),
+GASTRO,GastroCoin (GASTRO),
+SUCR,Sucre (SUCR),
+ETHBN,EtherBone (ETHBN),
+SPOK,Spock (SPOK),
+CODEO,Codeo Token (CODEO),
+TESLA,TeslaCoilCoin (TESLA),
+ACA,ACA Token (ACA),
+GZIL,governance ZIL (GZIL),
+VLUX,VLUX (VLUX),
+BEPRO,BetProtocol (BEPRO),ETH
+HORD,Hord (HORD),ETH
+SOCC,SocialCoin (SOCC),
+LOTTO,LottoCoin (LOTTO),
+RMOB,RewardMob (RMOB),
+OX,betbox (OX),
+GGR,GGRocket (GGR),
+BCHBEAR,3X Short Bitcoin Cash Token (BCHBEAR),ETH
+ZMBE,RugZombie (ZMBE),BNB
+NXT,Nxt (NXT),
+MAY,Theresa May Coin (MAY),
+DCC,Distributed Credit Chain (DCC),
+CAND,Canlead (CAND),
+TNS,Transcodium (TNS),
+HBC,Hybrid Bank Cash (HBC),
+ICASH,ICASH (ICASH),
+FUJIN,Fujinto (FUJIN),
+JPYX,eToro Japanese Yen (JPYX),
+NVST,NVO (NVST),
+COE,CoEval (COE),
+PYLON,Pylon Finance (PYLON),ETH
+IOTX,IoTeX Network (IOTX),
+PRO,Propy (PRO),ETH
+CHC,ChainCoin (CHC),
+BQTX,BQT (BQTX),
+DDAM,DDAM (DDAM),
+PHNX,PhoenixDAO (PHNX),
+AFN,AltaFin (AFN),
+ESTATE,AgentMile (ESTATE),
+ADRX,Adrenaline Chain (ADRX),
+XBTS,Beats (XBTS),
+LTCX,LitecoinX (LTCX),
+WDAY.CUR,Workday Inc (WDAY.CUR),
+GLXY,Galaxy Digital Holdings (GLXY),
+CALC,CaliphCoin (CALC),
+GDXJ,VanEck Vectors Junior Gold Miners Etf (GDXJ),
+RELOADED,Doge Reloaded (RELOADED),ETH
+STOS,Stratos (STOS),ETH
+KDC,Klondike Coin (KDC),
+DOTC,Dotcoin (DOTC),
+IOST,IOS token (IOST),
+ENT,Eternity (ENT),
+GPPT,Pluto Project Coin (GPPT),
+TICS,CargoConX (TICS),
+SNOW,Snowswap (SNOW),ETH
+ZND,Zenad (ZND),
+MELLO,Mello Token (MELLO),BNB
+XMN,Motion (XMN),
+SFT,SportsFix (SFT),
+ETHUP,ETHUP (ETHUP),
+THETABEAR,3X Short Theta Network Token (THETABEAR),
+INFI,Insured Finance (INFI),ETH
+DAC,Davinci Coin (DAC),ETH
+AREPA,Arepacoin (AREPA),
+CBRT,Cybereits Token (CBRT),
+NBR,Niobio Cash (NBR),
+BOOST,Boost (BOOST),ETH
+GME.CUR,Gamestop (GME.CUR),
+AXEL,AXEL (AXEL),
+ODN,Obsidian (ODN),
+GALI,Galilel (GALI),
+START,StartCoin (START),
+OAK,Acorn Collective (OAK),
+GNC,Greencoin (GNC),
+BBADGER,Badger Sett Badger (BBADGER),BNB
+AQUAC,Aquachain (AQUAC),
+STQ,Storiqa Token (STQ),
+SAL,SalPay (SAL),
+MTTCOIN,"Money of Tommorow, Today (MTTCOIN)",
+HEGIC,Hegic (HEGIC),ETH
+GUESS,Peerguess (GUESS),
+EGAS,ETHGAS (EGAS),
+VINCI,VINCI (VINCI),ETH
+OASC,Oasis City (OASC),
+APZ,Alprockz (APZ),
+USDFL,USDFreeLiquidity (USDFL),ETH
+SWT,Swarm City Token (SWT),
+WPT,Worldopo (WPT),
+DXR,DEXTER (DXR),
+BIDR,Binance IDR Stable Coin (BIDR),
+YFTE,YFTether (YFTE),ETH
+GENXNET,Genesis Network (GENXNET),
+ZYM,Enzym (ZYM),
+SPT,SPECTRUM (SPT),
+KUE,Kuende (KUE),
+BLOC,Blockcloud (BLOC),ETH
+CVR,Polkacover (CVR),ETH
+FLOAT,Float Protocol (FLOAT),ETH
+KRO,Betoken (KRO),
+TST,Standard Token (TST),ETH
+BCHBULL,3X Long Bitcoin Cash Token (BCHBULL),ETH
+BRAND,BrandProtect (BRAND),
+SUNI,SUNI (SUNI),ETH
+HXX,HexxCoin (HXX),
+TIC,TrueInvestmentCoin (TIC),
+KUV,Kuverit (KUV),
+M.CUR,Macys (M.CUR),
+AXT,AIX (AXT),
+ROCK,RocketCoin (ROCK),
+NFTXHI,NFTX Hashmasks Index (NFTXHI),ETH
+DEXT,DEXTools (DEXT),ETH
+CLEARPOLL,ClearPoll (CLEARPOLL),
+MNTC,Manet Coin (MNTC),
+CUT,CUTcoin (CUT),
+CTO,Crypto (CTO),
+JCB,Wine Chain (JCB),
+LYRA,Scrypta (LYRA),
+OWL,OWL Token (OWL),
+SIGUSD,SigmaUSD (SIGUSD),
+SOX,Ethersocks (SOX),ETH
+CPAN,CryptoPlanes (CPAN),BNB
+DKC,DarkKnightCoin (DKC),
+AIR,AirToken (AIR),
+LEU,CryptoLEU (LEU),
+MPH,Morpher (MPH),
+PNC.CUR,PNC Financial Services Group (PNC.CUR),
+TENT,TENT (TENT),
+OXYC,Oxycoin (OXYC),ETH
+JULD,JulSwap (JULD),
+NDR,Node Runners (NDR),ETH
+KT,Kuai Token (KT),
+WIN,WINk (WIN),TRX
+NASH,NeoWorld Cash (NASH),
+DOP,Drops (DOP),
+CGC,Canopy Growth Corp (CGC),
+CATGIRL,Catgirl (CATGIRL),BNB
+SRT,Scrypto (SRT),
+ZINC,ZINC (ZINC),
+VANM,VANM (VANM),
+BITCM,Bitcomo (BITCM),
+SPD,Stipend (SPD),
+HYGH,HYGH (HYGH),
+AZUKI,Azuki (AZUKI),ETH
+STRK,Strike (STRK),ETH
+SDP,SydPakCoin (SDP),
+KWH,KWHCoin (KWH),
+GTH,Gath3r (GTH),
+LIV,LiviaCoin (LIV),
+TRUST,TrustDAO (TRUST),
+POLX,Polylastic (POLX),BNB
+BCI,Bitcoin Interest (BCI),
+UNIFI,Unifi (UNIFI),
+FTN,Fountain (FTN),
+ASM,Assemble Protocol (ASM),
+XPO,Opair (XPO),
+AGRS,Agoras Token (AGRS),
+EJAC,EJA Coin (EJAC),
+URIS,Uris (URIS),
+SXP,Swipe (SXP),ETH
+VALUE,Value Liquidity (VALUE),ETH
+SHIBACASH,ShibaCash (SHIBACASH),BNB
+BCNA,BitCanna (BCNA),
+PHI,PHI Token (PHI),
+APM,apM Coin (APM),ETH
+RUBX,eToro Russian Ruble (RUBX),
+ADC,AudioCoin (ADC),
+SAF,Safinus (SAF),
+TRB,Tellor (TRB),ETH
+XUEZ,XUEZ (XUEZ),
+BABYELON,BabyElon (BABYELON),ETH
+SLV,Silverway (SLV),
+MIDBEAR,3X Short Midcap Index Token (MIDBEAR),ETH
+FLRS,Flourish Coin (FLRS),BNB
+EXZO,ExzoCoin 2.0 (EXZO),BNB
+TORII,Torii Finance (TORII),BNB
+RLC,iExec (RLC),ETH
+CJT,ConnectJob Token (CJT),
+DTEM,Dystem (DTEM),
+ETY,Ethereum Cloud (ETY),
+LAB,Labrys (LAB),
+DEV,Deviant Coin (DEV),
+FOREX,FOREXCOIN (FOREX),
+SXC,SexCoin (SXC),
+FX,FCoin (FX),
+BU,BUMO (BU),
+HI,hi Dollar (HI),ETH
+DARCRUS,Darcrus (DARCRUS),
+JST,JUST (JST),TRX
+GSM,GSM Coin (GSM),
+MCN,mCoin (MCN),
+CCA,Counos Coin (CCA),
+OIN,OIN Finance (OIN),
+AMD,Advanced Micro Devices (AMD),
+NMB,Nimbus Coin (NMB),
+RTH,Rotharium (RTH),
+FXS,Frax Share (FXS),ETH
+HVC,HeavyCoin (HVC),
+N8V,NativeCoin (N8V),
+FDZ,Friendz (FDZ),
+CURI,Curium (CURI),
+GRO,GROWTH DeFi (GRO),ETH
+ZCC,ZCC Coin (ZCC),
+TWTR.CUR,Twitter (TWTR.CUR),
+IZX,IZX (IZX),
+ICHN,i-chain (ICHN),
+SEER,SEER (SEER),
+PROD,Productivist (PROD),
+77G,GraphenTech (77G),
+YSAFE,yieldfarming.insure (YSAFE),
+MIC,Mithril Cash (MIC),
+UNORE,UnoRe (UNORE),
+AIB,AdvancedInternetBlock (AIB),
+KRM,Karma (KRM),
+FOREVERFOMO,ForeverFOMO (FOREVERFOMO),BNB
+BTG,Bitcoin Gold (BTG),
+GYM,Gym Rewards (GYM),
+CSX,Coinstox (CSX),ETH
+FILL,Fillit (FILL),
+ELI,GoCrypto (ELI),
+DPR,Deeper Network (DPR),ETH
+BORING,BoringDAO (BORING),ETH
+RICE,RiceFarm (RICE),BNB
+LIKE,LikeCoin (LIKE),ETH
+RT2,RotoCoin (RT2),
+BOTX,BOTXCOIN (BOTX),ETH
+ICHI,ICHI (ICHI),ETH
+FLOT,FireLotto (FLOT),
+BONO,Bonorum Coin (BONO),
+GEO,GeoCoin (GEO),
+2LC,2local (2LC),
+SMBSWAP,SimbCoin Swap (SMBSWAP),ETH
+OGT,One Game (OGT),
+OFBC,OneFinBank Coin (OFBC),
+ETHO,The Etho Protocol (ETHO),
+EVER,Everscale (EVER),
+XNG,Enigma (XNG),
+YFIE,YFIEXCHANGE.FINANCE (YFIE),
+G999,G999 (G999),
+MEME,Meme (MEME),ETH
+PSI,PSIcoin (PSI),
+UCH,UChain (UCH),
+LOBS,Lobstex (LOBS),
+MATICHALF,0.5X Long Matic Token (MATICHALF),
+META,Metadium (META),
+LYQD,eLYQD (LYQD),
+E2C,Electronic Energy Coin (E2C),
+PEPE,Memetic (PEPE),
+433,433 Token (433),
+BUCKS,SwagBucks (BUCKS),
+BILI.CUR,Bilibili Inc. (BILI.CUR),
+OSWAP,OpenSwap (OSWAP),
+CMC,CosmosCoin (CMC),
+TD,Trade Chain (TD),
+OXEN,Oxen (OXEN),
+AQUA,Planet Finance (AQUA),BNB
+IPL,InsurePal (IPL),ETH
+GRFT,Graft Blockchain (GRFT),
+DSR,Desire (DSR),
+SCAT,Sad Cat Token (SCAT),ETH
+ETHIX,EthicHub (ETHIX),
+PP,ProducePay Chain (PP),
+MLT,MultiGames (MLT),
+DEAL,iDealCash (DEAL),
+MYID,My Identity Coin (MYID),
+DEFLA,Defla (DEFLA),ETH
+XIASI,Xiasi Inu (XIASI),BNB
+XBY,XTRABYTES (XBY),
+TIT,TittieCoin (TIT),
+SONG,Song Coin (SONG),
+Z2,Z2 Coin (Z2),
+INT,Internet Node token (INT),
+NOX,NITRO (NOX),
+WIFI,Wifi Coin (WIFI),ETH
+GHX,GamerCoin (GHX),ETH
+PVU,Plant vs Undead Token (PVU),BNB
+GMS,Gemstra (GMS),
+TMCN,TimeCoinProtocol (TMCN),
+APL,Apollo Currency (APL),
+PYP,PayPro (PYP),
+THX!,Thx! (THANKS),
+BBR,Boolberry (BBR),
+AETH,Aave ETH (AETH),
+COY,Coin Analyst (COY),
+GRUB.CUR,Grubhub (GRUB.CUR),
+SHOPX,Splyt (SHOPX),ETH
+ZED,ZedCoins (ZED),
+IAM,IAME Identity (IAM),
+BAGS,Basis Gold Share (BAGS),
+CCC,CCCoin (CCC),
+WOBTC,WorldBTC (WOBTC),
+TRXDICE,TRONdice (TRXDICE),
+ODE,ODEM (ODE),
+TMT,Tamy Token (TMT),
+PING,CryptoPing (PING),WAVES
+611,SixEleven (611),
+DRKC,DarkCash (DRKC),
+ACD,Alliance Cargo Direct (ACD),
+BPS,BitcoinPoS (BPS),
+SOAK,Soak Token (SOAK),
+FILST,Filecoin Standard Hashrate Token (FILST),ETH
+TLP,TulipCoin (TLP),
+FFUEL,getFIFO (FFUEL),
+LXT,LITEX (LXT),ETH
+OKT,OKExChain (OKT),
+THX,Thorenext (THX),ETH
+BEACH,BeachCoin (BEACH),
+TERA,TERA (TERA),
+BCN,ByteCoin (BCN),
+BTCD,BitcoinDark (BTCD),
+STOP,SatoPay (STOP),ETH
+GETH,Guarded Ether (GETH),ETH
+DCRE,DeltaCredits (DCRE),
+BLKD,Blinked (BLKD),
+TSHP,12Ships (TSHP),ETH
+ISL,IslaCoin (ISL),
+VPRC,VapersCoin (VPRC),
+SHFL,SHUFFLE! (SHFL),ETH
+CELT,Celestial (CELT),OKT
+AIDOC,AI Doctor (AIDOC),ETH
+OYS,Oyster Platform (OYS),
+VEC2,VectorCoin 2.0 (VEC2),
+EZT,EZToken (EZT),
+FR40.CUR,France 40 (FR40.CUR),
+AQT,Alpha Quark Token (AQT),
+WQT,Work Quest (WQT),ETH
+TBCC,TBCC (TBCC),BNB
+WARS,MetaWars (WARS),BNB
+NPX,Napoleon X (NPX),
+LDM,Ludum token (LDM),
+DAL.CUR,Delta Air Lines (DAL.CUR),
+AOS,AOS (AOS),
+ETHD,Ethereum Dark (ETHD),
+ZANO,Zano (ZANO),
+FLEX,FLEX Coin (FLEX),
+BRONZ,BitBronze (BRONZ),
+MTCH.CUR,"Match Group, Inc. (MTCH.CUR)",
+RON,RON (RON),ETH
+KOK,KOK Coin (KOK),
+DBY,Dobuy (DBY),
+BTSE,BTSE Token (BTSE),
+TOMA,TomaInfo (TOMA),
+ETNY,Ethernity Cloud (ETNY),
+SCT,ScryptToken (SCT),
+STA,Starta (STA),
+OCX,Original Crypto Coin (OCX),
+TRXHEDGE,1X Short TRX Token (TRXHEDGE),
+TKO,Tokocrypto (TKO),BNB
+CW,CardWallet (CW),ETH
+MMXVI,MMXVI (MMXVI),
+MAC,MachineCoin (MAC),
+MXT,MixTrust (MXT),
+WINK,Wink (WINK),
+FOAM,Foam (FOAM),
+EWT,Energy Web Token (EWT),
+NUM,NumbersCoin (NUM),
+OMA,OmegaCoin (OMA),
+XEM,NEM (XEM),
+GXC,GXChain (GXC),
+IDC,IdealCoin (IDC),
+BLKC,BlackHat Coin (BLKC),
+BLAST,BLAST (BLAST),
+WBA.CUR,Walgreen Boots Alliance (WBA.CUR),
+241.CUR,Alibaba Health Information Technology Limited (241.CUR),
+RUC,Rush (RUC),
+KAWA,Kawakami Inu (KAWA),ETH
+ICP,Internet Computer (ICP),
+SDRN,Senderon (SDRN),
+SCONE,Sportcash One (SCONE),
+CBRL,Crypto BRL (CBRL),ETH
+BLK,BlackCoin (BLK),
+XT3,Xt3ch (XT3),
+OXY2,Cryptoxygen (OXY2),
+YFFC,yffc.finance (YFFC),
+SUSHI,Sushi (SUSHI),ETH
+XMS,Megastake (XMS),
+XFT,Fantasy Cash (XFT),
+SAND,The Sandbox (SAND),ETH
+ANCT,Anchor (ANCT),ETH
+KMON,Kryptomon (KMON),BNB
+UAT,UltrAlpha (UAT),ETH
+BDX,Beldex (BDX),
+PERP,Perpetual Protocol (PERP),ETH
+ARM,Armory Coin (ARM),
+VTM,Victorieum (VTM),
+CCAR,CryptoCars (CCAR),BNB
+CP,CryptoProfile (CP),
+EKO,EchoLink (EKO),ETH
+KATANA,Katana Finance (KATANA),
+BSVHALF,0.5X Long Bitcoin SV Token (BSVHALF),
+GAMECOM,Game (GAMECOM),
+XCN,Cryptonite (XCN),
+CAS,Cashaa (CAS),BNB
+TTWO.CUR,"Take-Two Interactive Software, Inc. (TTWO.CUR)",
+DOGEHEDGE,1X Short Dogecoin Token (DOGEHEDGE),
+PRV,PrivacySwap (PRV),BNB
+BIX,BiboxCoin (BIX),ETH
+JIF,JiffyCoin (JIF),
+MNC,MainCoin (MNC),
+SPN,Sapien Network (SPN),
+REMCO,Remco (REMCO),
+BUILDTEAM,BuildTeam (BUILDTEAM),
+XFUND,xFund (XFUND),ETH
+PNG,Pangolin (PNG),AVAX
+ZOON,CryptoZoon (ZOON),BNB
+AUCTION,Auction (AUCTION),ETH
+MRK,MARK.SPACE (MRK),
+IZZY,Izzy (IZZY),
+CARROT,CarrotSwap (CARROT),ETH
+QUROZ,Qfora (QUROZ),
+NBNG,Nobunaga Token (NBNG),ETH
+COOK,Cook (COOK),ETH; BNB; ONE
+BINS,Bitsense (BINS),
+SPKL,SpokLottery (SPKL),TRX
+MVP,Merculet (MVP),ETH
+VESTA,Vestarin (VESTA),
+GHST,Aavegotchi (GHST),ETH
+ABI,ApeBullInu (ABI),ETH
+ME,All.me (ME),ETH
+BCHT,Blockchain Terminal (BCHT),
+QFI,QFinance (QFI),ETH
+GMB,GMB (GMB),ETH
+CAPD,Capdax (CAPD),
+USX,Unified Society USDEX (USX),
+HYPERS,HyperSpace (HYPERS),
+BLCT,Bloomzed Loyalty Club Ticket (BLCT),
+TAAS,Token as a Service (TAAS),ETH
+GOL,GogolCoin (GOL),ETH
+INST,Instadapp (INST),ETH
+CBT,CommerceBlock Token (CBT),ETH
+MADC,MadCoin (MADC),
+XIO,XIO (XIO),
+QUA,Quasa (QUA),
+TRET,Tourist Review (TRET),
+REAP,ReapChain (REAP),
+XDGB,DigitalBits (XDGB),ETH
+MINDEX,Mindexcoin (MINDEX),
+MXX,Multiplier (MXX),
+PPY,Peerplays (PPY),
+HSP,Horse Power (HSP),
+COVIDTOKEN,Covid Token (COVIDTOKEN),BNB
+SUM,SumSwap (SUM),ETH
+ARGUS,ArgusCoin (ARGUS),
+STOCKBET,StockBet (STOCKBET),
+TEVA.CUR,Teva Pharma Ind Adr Rep 1 (TEVA.CUR),
+WOMI,Wrapped ECOMI (WOMI),ETH
+ASR,AS Roma Fan Token (ASR),
+XTC,TileCoin (XTC),
+ATMC,Autumncoin (ATMC),
+TRST,TrustCoin (TRST),
+ETR,Electric Token (ETR),
+BTR,BTRIPS (BTR),ETH
+BRD,Bread token (BRD),ETH
+IGNIS,Ignis (IGNIS),
+SET,Securosys (SET),
+CUSDTBEAR,3X Short Compound USDT Token (CUSDTBEAR),
+DES,Destiny (DES),
+CNRG,CryptoEnergy (CNRG),
+LTCHEDGE,1X Short Litecoin Token (LTCHEDGE),
+GENX,Genx Token (GENX),BNB
+MET,Metronome (MET),ETH
+XR,Gofind XR (XR),
+PAYC.CUR,"Paycom Software, Inc. (PAYC.CUR)",
+UNTD,YOUnited (UNTD),
+HORSE,Ethorse (HORSE),
+CATC,Catcoin (CATC),
+ICC,Insta Cash Coin (ICC),
+SONA,Social Chains (SONA),
+TDS,TokenDesk (TDS),
+SSX,SOMESING (SSX),
+SRPT.CUR,"Sarepta Therapeutics, Inc. (SRPT.CUR)",
+FOUR,4THPILLAR TECHNOLOGIES (FOUR),
+BART,BarterTrade (BART),
+DAY,Chronologic (DAY),
+MLN,Enzyme (MLN),ETH
+BOSS,BitBoss (BOSS),
+EXO,Exosis (EXO),
+JWN.CUR,Nordstrom (JWN.CUR),
+TSA,Teaswap Art (TSA),BNB
+LYB,LyraBar (LYB),
+BTZN,Bitzon (BTZN),
+IMX,Immutable X (IMX),ETH
+TZKI,Tsuzuki Inu (TZKI),ETH
+JEW,Shekel (JEW),
+PNK,Kleros (PNK),ETH
+SHKG,SharkGate (SHKG),
+STBU,Stobox Token (STBU),ETH
+STETH,Staked Ether (STETH),ETH
+MOF,Molecular Future (MOF),ETH
+MOC,Mossland (MOC),ETH
+TRICK,TrickyCoin (TRICK),
+GUNS,GeoFunders (GUNS),
+XTK,xToken (XTK),ETH
+HAKA,TribeOne (HAKA),
+OLV,OldV (OLV),
+XSH,SHIELD (XSH),
+UNIQUE,Unique One (UNIQUE),
+SOLE,SoleCoin (SOLE),
+AUDX,eToro Australian Dollar (AUDX),
+INF,Infinium (INF),
+AWX,AurusDeFi (AWX),ETH
+HIVE,Hive (HIVE),
+STRONG,Strong (STRONG),ETH
+CONI,CoinBene (CONI),
+VKNF,VKENAF (VKNF),ETH
+KTS,Klimatas (KTS),
+USO,United States Oil Fund (USO),
+VPP,Virtue Poker Points (VPP),ETH|BNB
+XPM,PrimeCoin (XPM),
+BLC,BlakeCoin (BLC),
+PLNC,PLNCoin (PLNC),
+MITC,MusicLife (MITC),
+PFID,Pofid Dao (PFID),
+WCC,Wincash Coin (WCC),
+ANGLE,ANGLE (ANGLE),ETH
+BCDN,BlockCDN (BCDN),ETH
+MSD,MSD (MSD),
+ANON,ANON (ANON),
+MOGU,Mogu (MOGU),
+METH,Farming Bad (METH),ETH
+PBT,Primalbase (PBT),
+GOFF,Gift Off Token (GOFF),
+PLG,Pledgecamp (PLG),
+RVC,Ravencoin Classic (RVC),
+COKE,Cocaine Cowboy Shards (COKE),ETH
+FAMEC,FameCoin (FAMEC),
+AES,Artis Aes Evolution (AES),
+BLV,Blockvest (BLV),
+XEND,Xend Finance (XEND),
+POLY,Polymath Network (POLY),ETH
+RPB,Republia (RPB),
+ARKK,ARK Innovation ETF (ARKK),
+BXX,Baanx (BXX),ETH
+MTX,Matryx (MTX),ETH
+BDL,Bitdeal (BDL),
+GANA,GANA (GANA),
+NYEX,Nyerium (NYEX),
+SRA,CryptoSara (SRA),
+MONONOKEINU,Mononoke Inu (MONONOKEINU),BNB
+BTCRY,BitCrystal (BTCRY),
+VIVO,VIVO Coin (VIVO),
+BAK,BaconCoin (BAK),
+PMON,Polkamon (PMON),ETH
+SWOP,Swop (SWOP),WAVES
+CARAT,Carats Token (CARAT),
+BBTC,BlakeBitcoin (BBTC),
+ETSC,​Ether star blockchain (ETSC),
+TTB,TrustaBit (TTB),
+TELE,Miracle Tele (TELE),
+MB,MineBee (MB),
+GOTX,GothicCoin (GOTX),
+MTN,TrackNetToken (MTN),
+MGD,MassGrid (MGD),
+TRCB,TRCB Chain (TRCB),
+ZJLT,ZJLT Distributed Factoring Network (ZJLT),ETH
+10SET,Tenset (10SET),ETH
+CREDO,Credo (CREDO),
+FLIP,BitFlip (FLIP),
+XTN,XEND token (XTN),
+RCT,RealChain (RCT),
+NDLC,NeedleCoin (NDLC),
+CCX,Conceal (CCX),
+GOAT,Goat (GOAT),
+ETHM,Ethereum Meta (ETHM),
+UMBR,Umbria Network (UMBR),ETH
+NOTE,Notional Finance (NOTE),ETH
+BODHI,Bodhi Network (BODHI),
+MPRO,MediumProject (MPRO),
+MASQ,MASQ (MASQ),ETH
+KBOT,Korbot (KBOT),
+TESSLA,Tessla Coin (TESSLA),
+DOOH,Bidooh (DOOH),
+TOZ,Tozex (TOZ),ETH
+BANANA,ApeSwap Finance (BANANA),BNB
+NET,NetCoin (NET),
+BXK,Bitbook Gambling (BXK),
+ARNC.CUR,Arconic (ARNC.CUR),
+XED,Exeedme (XED),ETH
+SBS,StaysBASE (SBS),
+POCC,POC Chain (POCC),ETH
+SWARM,SwarmCoin (SWARM),
+PSC,PSC Token (PSC),
+FLOWP,Flow Protocol (FLOWP),
+MINISHIB,miniSHIB ETH (MINISHIB),ETH
+LST,Lendroid Support Token (LST),ETH
+HUSKY,Husky (HUSKY),ETH
+CFLO,Chain Flowers (CFLO),ETH
+BBY.CUR,Best Buy (BBY.CUR),
+ZCX,Unizen (ZCX),ETH
+ATP,Atlas Protocol (ATP),NAS
+B21,B21 (B21),ETH
+FLOW,Flow - Dapper Labs (FLOW),
+YPRO,YPro.Finance (YPRO),
+ARW,Arowana Token (ARW),ETH
+TIOX,TIOx (TIOX),
+COINSL,CoinsLoot (COINSL),
+LONG,Longdrink Finance (LONG),BNB
+WOOF,Shibance Token (WOOF),
+SMSR,Samsara Coin (SMSR),
+RMS,Resumeo Shares (RMS),
+CFT,CryptoForecast (CFT),
+NVT,NerveNetwork (NVT),
+LTCD,LitecoinDark (LTCD),
+CRAVE,CraveCoin (CRAVE),
+FAT,Fatcoin (FAT),ETH
+TRIG,Trigger (TRIG),
+DOGO,DogemonGo (DOGO),BNB
+PCH,POPCHAIN (PCH),
+XNB,Xeonbit (XNB),
+BAT,Basic Attention Token (BAT),ETH
+OPT,Opus (OPT),
+ATS,Authorship (ATS),
+SS,Sharder (SS),
+DLXV,Delta-X (DLXV),
+NEXBT,Native XBTPro Exchange Token (NEXBT),
+MALLY,Malamute Finance (MALLY),ETH
+TSM,Taiwan Semiconductor Mfg (TSM),
+BITS,BitstarCoin (BITS),
+DETH,DarkEther (DETH),
+WILC,Wrapped ILCOIN (WILC),ETH
+GRC,GridCoin (GRC),
+ABT,ArcBlock (ABT),ETH
+TWIST,TwisterCoin (TWIST),
+VIDT,V-ID (VIDT),ETH
+YOYOW,Yoyow (YOYOW),ETH
+CHASH,CleverHash (CHASH),
+CVCC,CryptoVerificationCoin (CVCC),
+EOC,EveryonesCoin (EOC),
+IMS,Independent Money System (IMS),
+FTRC,FutureCoin (FTRC),
+JACS,JACS (JACS),
+PAINT,MurAll (PAINT),ETH
+ETHDOOM,10X Short Ethereum Token (ETHDOOM),ETH
+DLC,DollarCoin (DLC),
+NUBIS,NubisCoin (NUBIS),
+ANCP,Anacrypt (ANCP),
+INB,Insight Chain (INB),
+MJ.CUR,ETFMG Alternative Harvest ETF (MJ.CUR),
+SLX,Slate (SLX),
+AMON,AmonD (AMON),
+CHADS,CHADS VC (CHADS),ETH
+SSD,Sonic Screw Driver Coin (SSD),
+LVIP,Limitless VIP (LVIP),
+SMG,Smaugs NFT (SMG),BNB
+YAE,Cryptonovae (YAE),ETH|BNB
+TOMOHALF,0.5X Long TomoChain Token (TOMOHALF),
+BUGG,Bugg Inu (BUGG),ETH
+TODAY,TodayCoin (TODAY),
+FITC,Fitcoin (FITC),
+LTBTC,Lightning Bitcoin (LTBTC),
+CETH,Compound Ethereum (CETH),ETH
+MFC,MFCoin (MFC),
+DXF,Dexfin (DXF),ETH
+HYVE,Hyve (HYVE),ETH
+CAIX,CAIx (CAIx),
+ADUX,Adult X Token (ADUX),
+OKBBEAR,3X Short OKB Token (OKBBEAR),
+EOSBEAR,3X Short EOS Token (EOSBEAR),ETH
+EMON,Ethermon (EMON),ETH
+VELO,Velo (VELO),XLM
+SMILE,Smile Token (SMILE),BNB
+TWC,Twilight (TWC),
+RWE,Real-World Evidence (RWE),
+ROCK2,Ice Rock Mining (ROCK2),
+KOZ,Kozjin (KOZ),
+ICB,IceBergCoin (ICB),
+PBC,PabyosiCoin (PBC),
+LTX,Lattice Token (LTX),ETH
+STRAKS,Straks (STRAKS),
+UPCO2,Universal Carbon (UPCO2),ETH
+LQD,Liquid (LQD),
+XHT,HollaEx (XHT),
+CZC,Crazy Coin (CZC),
+CRL,Cryptelo Coin (CRL),
+AVAXIOU,Avalanche IOU (AVAXIOU),
+DEFI5,DEFI Top 5 Tokens Index (DEFI5),ETH
+KC,Kernalcoin (KC),
+CCIN,Cryptocoin Insurance (CCIN),
+US500.CUR,S&P 500 (US500.CUR),
+SPDR,SpiderDAO (SPDR),
+BCZ,Bitcoin CZ (BCZ),
+ECASH,Ethereum Cash (ECASH),
+LIFE,LIFE (LIFE),
+ATTR,Attrace (ATTR),ETH
+BACOIN,BACoin (BACOIN),
+SAITO,Saito (SAITO),ETH
+TPX.CUR,Tempur Sealy International (TPX.CUR),
+SHIBAMOM,Shiba Mom (SHIBAMOM),BNB
+VERI,Veritaseum (VERI),
+GREEN,GreenX (GREEN),
+IRC,IRONCOIN (IRC),
+TEP,Tepleton (TEP),
+XAU,XauCoin (XAU),
+ODNT,Old Dogs New Tricks (ODNT),
+DAPPT,Dapp Token (DAPPT),
+ZFL,Zuflo Coin (ZFL),
+AWO,AiWork (AWO),ETH
+RELVT,Relevant (RELVT),
+XNS,Insolar (XNS),
+IFUM,Infleum (IFUM),
+SDC.CUR,SmileDirectClub Inc (SDC.CUR),
+PAXEX,PAXEX (PAXEX),
+PIGGY,Piggy Coin (PIGGY),
+MDU,MDUKEY (MDU),
+ADP,Adappter Token (ADP),ETH
+BSATOSHI,BabySatoshi (BSATOSHI),ETH
+MOAC,MOAC (MOAC),
+007,007 coin (007),
+STAMP,SafePost (STAMP),
+FILDA,Filda (FILDA),
+XSR,Xensor (XSR),ETH
+GOOGL.CUR,Alphabet Inc (GOOGL.CUR),
+LKK,Lykke (LKK),
+GIN,GINcoin (GIN),
+DELTAC,DeltaChain (DELTAC),ETH
+BOMBC,BombCoin (BOMBC),
+ZSE,ZSEcoin (ZSE),
+LA,LATOKEN (LA),ETH
+TCH,Thorecash (TCH),
+STOGE,Stoner Doge Finance (STOGE),ETH
+DGCL,DigiCol Token (DGCL),ETH
+AWS,AurusSILVER (AWS),ETH
+GSY,GenesysCoin (GSY),
+BTE,BTEcoin (BTE),
+SPELL,Spell Token (SPELL),ETH
+BZNT,Bezant (BZNT),ETH
+GHC,GhostCoin (GHC),
+SEEDS,SeedShares (SEEDS),
+NEBU,Nebuchadnezzar (NEBU),
+PRIX,Privatix (PRIX),
+PCN,PeepCoin (PCN),
+NUTS,Squirrel Finance (NUTS),
+ADAHEDGE,1X Short Cardano Token (ADAHEDGE),
+BCHC,BitCherry (BCHC),
+EAC,EarthCoin (EAC),
+OLDSF,OldSafeCoin (OLDSF),
+SCN,Swiscoin (SCN),
+THETAHALF,0.5X Long Theta Network Token (THETAHALF),
+MINUTE,MINUTE Vault (NFTX) (MINUTE),ETH
+LTK,LinkToken (LTK),
+SYNCO,Synco (SYNCO),
+AUPC,Authpaper (AUPC),
+USDG,USDG (USDG),
+WYS,Wysker (WYS),
+DNET,DeNet (DNET),
+CDRX,CDRX (CDRX),
+ZUT,Zero Utility Token (ZUT),ETH
+MRF,Moonradar.finance (MRF),BNB
+TUP,Tenup (TUP),
+STORM,Storm (STORM),
+UKG,UnikoinGold (UKG),
+PEAK,PEAKDEFI (PEAK),
+F7,Five7 (F7),ETH
+CLR,CopperLark (CLR),
+GEEQ,Geeq (GEEQ),
+HOMI,HOMIHELP (HOMI),
+NU,NuCypher (NU),ETH
+SSP,Smartshare (SSP),
+BCH,Bitcoin Cash (BCH),
+MINEX,Minex (MINEX),
+KNT,Knekted (KNT),
+DREP,DREP (DREP),ETH
+MIX,MIXMARVEL (MIX),ETH
+BNX,BinaryX (BNX),BNB
+PCNT,Playcent (PCNT),ETH
+BNPL,BNPL Pay (BNPL),ETH
+MPLUS,M+Plus (MPLUS),
+BLOCKS,BLOCKS (BLOCKS),ETH
+IPAD,Infinity Pad (IPAD),ETH
+CELO,Celo (CELO),
+CRM,Cream (CRM),
+ZTN,Zetanet (ZTN),
+MAI,Mindsync (MAI),ETH
+TUSD,True USD (TUSD),ETH
+MBTC,MicroBitcoin (MBTC),
+FROGE,Froge Finance (FROGE),ETH
+BIN,Binemon (BIN),BNB
+EPY,Empyrean (EPY),
+UCASH,U.CASH (UCASH),
+ZIP,Zipper (ZIP),
+TORG,TORG (TORG),"ETH,MATIC,SOL,ONE,BNB"
+BEX,BEX token (BEX),
+PICKLE,Pickle Finance (PICKLE),ETH
+MCAT20,Wrapped Moon Cats (MCAT20),ETH
+DEA,Degas Coin (DEA),
+FAN,Fan360 (FAN),
+SYNCC,SyncCoin (SYNCC),
+FLASHC,FLASH coin (FLASHC),
+XQN,Quotient (XQN),
+BHT,HBTC Captain Token (BHT),ETH
+FIH,Fidelity House (FIH),
+DMC,Dream21 (DMC),
+XAT,ShareAt (XAT),
+SCRPT,ScryptCoin (SCRPT),
+VRH,Virtual Rehab (VRH),
+ETH2X-FLI,ETH 2x Flexible Leverage Index (ETH2X-FLI),ETH
+JASMY,JasmyCoin (JASMY),ETH
+EVZ,Electric Vehicle Zone (EVZ),ETH
+PBX,Paribus (PBX),ETH
+ARNA,ARNA Panacea (ARNA),
+AEN,Aenco (AEN),
+JET,Jetcoin (JET),
+YPIE,PieDAO Yearn Ecosystem Pie (YPIE),ETH
+SCOT,Scotcoin (SCOT),
+XHI,HiCoin (XHI),
+CMPCO,CampusCoin (CMPCO),
+MUDRA,MudraCoin (MUDRA),
+PUX,pukkamex (PUX),
+L3P,Lepricon (L3P),ETH
+GRE,GreenCoin (GRE),
+SHER,Shercoin (SHER),
+GLD,SPDR Gold Shares (GLD),
+SKT,Sukhavati Network (SKT),ETH
+RTE,Rate3 (RTE),
+TGT,TargetCoin (TGT),
+BFEX,BFEX (BFEX),
+MTS,Metis (MTS),ETH
+RBIES,Rubies (RBIES),
+VTRD,VTradeExchange (VTRD),
+OGN,Origin Protocol (OGN),ETH
+BPT,BlackPool Token (BPT),ETH
+MDX,Mdex (MDX),ETH
+XBI,Bitcoin Incognito (XBI),
+WTL,Welltrado (WTL),
+HIH,HiHealth (HIH),
+IDRT,Rupiah Token (IDRT),
+DEUR,DigiEuro (DEUR),
+CHARM,Charm Coin (CHARM),
+ACM,AC Milan Fan Token (ACM),CHZ
+BAG,BondAppetit (BAG),ETH
+RAM,Ramifi Protocol (RAM),BNB
+JBS,JumBucks Coin (JBS),
+CYBR,CYBR (CYBR),
+JFI,JackPool.finance (JFI),
+AGS,Aegis (AGS),
+STT,Staramba (STT),
+CHFT,Crypto Holding (CHFT),
+BITTO,BITTO (BITTO),
+GRWI,Growers International (GRWI),
+WORK.CUR,Slack Technologies Inc (WORK.CUR),
+COMPHALF,0.5X Long Compound Token Token (COMPHALF),
+B3,B3 Coin (B3),
+LANA,LanaCoin (LANA),
+TSR,Tesra (TSR),
+BAC,Basis Cash (BAC),
+ENX,ENEX (ENX),ETH
+KEYFI,KeyFi (KEYFI),ETH
+C20,Crypto20 (C20),ETH
+RMC,Russian Mining Coin (RMC),
+AET,AfterEther (AET),
+CRDTS,Credits (CRDTS),ETH
+JEX,JEX Token (JEX),
+VNTY,VENOTY (VNTY),
+ELAMA,Elamachain (ELAMA),ETH
+DGVC,DegenVC (DGVC),
+TRXDOWN,TRXDOWN (TRXDOWN),
+DBOX,DefiBox (DBOX),
+GB,GoldBlocks (GB),
+APH,Aphelion (APH),
+CLT,CoinLoan (CLT),ETH
+ECOM,Omnitude (ECOM),ETH
+STORJ,Storj (STORJ),ETH
+TORN,Tornado Cash (TORN),ETH
+VEEN,LIVEEN (VEEN),
+CODEX,CODEX Finance (CODEX),BNB
+ZER,Zero (ZER),
+PRL,Oyster Pearl (PRL),
+TER,TerraNovaCoin (TER),
+PRY,PRIMARY (PRY),
+MDM,Medium (MDM),
+STR,Stater (STR),ETH
+POLIS,Star Atlas DAO (POLIS),
+UTH,Uther (UTH),
+HAZE,HazeCoin (HAZE),
+MC.CUR,Lvmh Moet Hennessy Louis Vuitton Se (MC.CUR),
+EOSHALF,0.5X Long EOS Token (EOSHALF),
+DTX,DataBroker DAO (DTX),
+HLD,HyperLending (HLD),
+BETU,Betu (BETU),BNB
+FRM,Ferrum Network (FRM),"ETH,BNB"
+BF,BitForex Token (BF),ETH
+ETC,Ethereum Classic (ETC),
+CUTE,Blockchain Cuties Universe (CUTE),
+SPEED,Speed Coin (SPEED),
+PTF,PowerTrade Fuel (PTF),ETH
+MYTH,Myth Token (MYTH),ETH
+NBS,New BitShares (NBS),
+DOGE,Dogecoin (DOGE),
+FSW,Falconswap (FSW),
+EBS,EbolaShare (EBS),
+KING93,King93 (KING93),
+CTLT.CUR,Catalent Inc (CTLT.CUR),
+CUBE,Somnium Space CUBEs (CUBE),ETH
+ENG,Enigma (ENG),ETH
+BIGUP,BigUp (BIGUP),
+MNY,Monkey (MNY),
+BZL,BZLCoin (BZL),
+GARUDA,GarudaSwap (GARUDA),BNB
+DNA,Metaverse (DNA),ETH
+ECH,EthereCash (ECH),
+BTXC,Bettex coin (BTXC),
+XLT,Nexalt (XLT),
+404,404Coin (404),
+CRDN,Cardence (CRDN),BNB
+SOVE,Soverain (SOVE),
+CNX.CUR,Consol Energy (CNX.CUR),
+BSCM,BSC MemePad (BSCM),BNB
+JCR,Jincor (JCR),
+OPNN,Opennity (OPNN),
+RVF,Rocket Vault (RVF),ETH
+CYRS,Cyrus Token (CYRS),
+CWAR,Cryowar Token (CWAR),SOL
+CNC,ChinaCoin (CNC),
+DISK,Dark Lisk (DISK),
+MAHA,MahaDAO (MAHA),ETH
+RAINC,RainCheck (RAINC),
+OVR,Ovr (OVR),ETH
+LAND,LandBox (LAND),ETH
+GT,Gatechain Token (GT),ETH
+DAYTA,Dayta (DAYTA),
+STONE,DataBloc (STONE),
+BSOCIAL,BankSocial (BSOCIAL),ETH
+ARPAC,ArpaCoin (ARPAC),
+FBB,FilmBusinessBuster (FBB),
+ARTP,ArtPro (ARTP),
+BIFI,Beefy.Finance (BIFI),BNB
+IOUX,IOU (IOUX),
+C25,C25 Coin (C25),
+FXP,FXPay (FXP),ETH
+PXB,PixelBit (PXB),
+PPT,Populous (PPT),ETH
+PTR,Petro (PTR),
+SGOLD,SpaceGold (SGOLD),ETH
+WABI,WABI (WABI),ETH
+DIA,DIA (DIA),ETH
+BASIS,Basis (BASIS),
+HVNT,HiveNet Token (HVNT),
+BILI,Bilibili Inc FTX (BILI),
+MINTME,MintMe.com Coin (MINTME),
+SNT,Status Network Token (SNT),ETH
+USDTBULL,3X Long Tether Token (USDTBULL),
+GUM,Gourmet Galaxy (GUM),ETH
+IOTW,IOTW (IOTW),
+DTEP,DECOIN (DTEP),
+SRC,SecureCoin (SRC),
+HTML5,HTML5 Coin (HTML5),
+COAL,BitCoal (COAL),
+CDAI,Compound Dai (CDAI),
+REU,REUCOIN (REU),ETH
+KCASH,Kcash (KCASH),ETH
+MYO,Mycro (MYO),ETH
+GC,Gric Coin (GC),
+PLF,PlayFuel (PLF),ETH
+MERIDIAN,Meridian Network LOCK (MERIDIAN),
+WMB,WatermelonBlock (WMB),
+DE.CUR,Deere (DE.CUR),
+ITZ,Interzone (ITZ),
+GOSS,GOSSIP-Coin (GOSS),
+NMX,Nominex Token (NMX),BNB
+MOIN,MoinCoin (MOIN),
+DCY,Dinastycoin (DCY),
+COR,Corion (COR),
+TME,Timereum (TME),
+LOTES,Loteo (LOTES),
+ZNZ,ZENZO (ZNZ),
+YY.CUR,YY Inc. (YY.CUR),
+BITSZ,Bitsz (BITSZ),
+LGO,Legolas Exchange (LGO),
+JOY,Joycoin (JOY),
+RDD,Reddcoin (RDD),
+PLANET,PlanetCoin (PLANET),
+VIG,TheVig (VIG),
+CHSB,SwissBorg (CHSB),ETH
+MAPC,MapCoin (MAPC),
+TOMOBULL,3X Long TomoChain Token (TOMOBULL),ETH
+SPRTZ,SpritzCoin (SPRTZ),
+SCRIV,SCRIV (SCRIV),
+PAXGHALF,0.5X Long PAX Gold Token (PAXGHALF),
+KGO,Kiwigo (KGO),BNB
+SPWN,Bitspawn (SPWN),ETH
+XGOX,Go! (xGOx),
+SOLID,Solidified (SOLID),
+CVA,Crypto Village Accelerator (CVA),
+HOTT,HOT Token (HOTT),
+DYC,Dycoin (DYC),
+NWC,Newscrypto Coin (NWC),XLM
+EMB,Overline Emblem (EMB),ETH
+QBC,Quebecoin (QBC),
+INK,Ink (INK),
+TIIM,TriipMiles (TIIM),
+HMT,HUMAN Token (HMT),ETH
+CMTC,CometCoin (CMTC),
+BTO,Bottos (BTO),
+ALCX,Alchemix (ALCX),ETH
+GBTC,GigTricks (GBTC),
+AIOT,AIOT Token (AIOT),
+HCXP,HCX PAY (HCXP),
+XUN,UltraNote (XUN),
+DAOX,Daox (DAOX),
+HAND,ShowHand (HAND),
+ITOC,ITOChain (ITOC),
+MP,Membership Placeholders (MP),
+MYST,Mysterium (MYST),
+MIRC,MIR COIN (MIRC),
+ONE,Harmony (ONE),
+DBC,DeepBrain Chain (DBC),NEO
+FC2,Fuel2Coin (FC2),
+BBOS,Blackbox Foundation (BBOS),
+EON,Exscudo (EON),
+CPAY,CryptoPay (CPAY),
+BYTHER,Bytether  (BYTHER),
+SUNEX,The Sun Exchange (SUNEX),
+BDPI,Interest Bearing Defi Pulse Index (BDPI),ETH
+YOCO,YocoinYOCO (YOCO),BNB
+ULTC,Umbrella (ULTC),
+BIT16,16BitCoin (BIT16),
+VBSC,Votechain (VBSC),BNB
+TONE,TE-FOOD (TONE),ETH
+VIA,ViaCoin (VIA),
+MANNA,Manna (MANNA),
+AR,Arweave (AR),
+TRBT,Tribute (TRBT),
+L,L inu (L),ETH
+BRIK,BrikBit (BRIK),
+HTA,Historia (HTA),
+PRVS,Previse (PRVS),ETH
+APHA,Aphria Inc (APHA),
+TOX,Toxic (TOX),
+NGL,Gold Fever (NGL),
+KURT,Kurrent (KURT),
+XELS,XELS Coin (XELS),
+QCX,QuickX Protocol (QCX),ETH
+BUY,Burency (BUY),
+TRUMPLOSE,Trump Loses Token (TRUMPLOSE),ETH
+HUP,HUPAYX (HUP),
+ZXT,Zcrypt (ZXT),
+CRPT,Crypterium (CRPT),ETH
+INVOX,Invox Finance (INVOX),
+OMX,Project Shivom (OMX),
+GTO,GIFTO (GTO),ETH
+PRES,President Trump (PRES),
+QSLV,Quicksilver coin (QSLV),
+UNIT,Universal Currency (UNIT),
+U,Ucoin (U),
+FIN,DeFiner (FIN),ETH
+ZAT,ZatGo (ZAT),
+KALM,Kalmar (KALM),BNB
+ELF,aelf (ELF),ETH
+BYC,ByteCent (BYC),
+DRACO,DT Token (DRACO),
+HYDROP,Hydro Protocol (HYDROP),
+GRMD,GreenMed (GRMD),
+KSS,Krosscoin (KSS),
+FUD,FUD.finance (FUD),ETH
+NMC,Namecoin (NMC),
+BERN,BERNcash (BERN),
+PTON,Foresting (PTON),
+GOST,SoulCoin (GOST),
+PAK,Pakcoin (PAK),
+SWN.CUR,Southwestern Energy (SWN.CUR),
+GN,GN (GN),ETH
+VRS,Veros (VRS),ETH
+JNJ.CUR,Johnson & Johnson (JNJ.CUR),
+VICEX,ViceToken (VICEX),ETH
+HEROES,Dehero Community Token (HEROES),BNB
+UNISTAKE,Unistake (UNISTAKE),ETH
+BITCOINV,BitcoinV (BITCOINV),
+BYTZ,BYTZ (BYTZ),
+MST,Idle Mystic (MST),MATIC
+GENSTAKE,Genstake (GENSTAKE),
+XVC,Vcash (XVC),
+DDR,Digi Dinar (DDR),
+SNY,Synthetify  (SNY),
+BRAT,BROTHER (BRAT),
+AUTON,Autonio (AUTON),
+ACXT,ACDX Exchange Token (ACXT),ETH
+DOGEBNB,DogeBNB (DOGEBNB),BNB
+BOBA,Boba Network (BOBA),ETH
+PSB,PesoBit (PSB),
+WISC,WisdomCoin (WISC),
+XCE,Cerium (XCE),
+SLC,SLICE (SLC),
+SERV,Serve (SERV),
+NFD,Feisty Doge NFT (NFD),ETH
+DAT,Datum (DAT),ETH
+HUC,HunterCoin (HUC),
+SHADE,ShadeCoin (SHADE),
+CMOS,Cosmo (CMOS),
+TYM,Tryvium (TYM),
+CHAIN,Chain Games (CHAIN),
+JEM,Jem (JEM),
+BIOB,BioBar (BIOB),
+XCJ,CoinJob (XCJ),
+JUR,Jur (JUR),
+DSCP,Dreamscape (DSCP),
+SOTA,SOTA Finance (SOTA),ETH
+CERE,Cere Network (CERE),ETH
+INVC,Invacio (INVC),
+TGN,TerraGreen (TGN),
+NRG,Energi (NRG),
+ORE,Galactrum (ORE),
+ZABAKU,Zabaku Inu (ZABAKU),BNB
+RKN,RAKON (RKN),ETH
+PRP,Papyrus (PRP),
+ACC,AdCoin (ACC),
+BRX,Breakout Stake (BRX),
+PGC,Pegascoin (PGC),
+DEXM,Dexmex (DEXM),ETH
+CAKE,PancakeSwap (CAKE),BNB
+ATM,Atletico de Madrid Fan Token (ATM),
+TMC,TimesCoin (TMC),
+SYC,SynchroCoin (SYC),
+MGAMES,Meme Games (MGAMES),ETH
+ATFS,ATFS Project (ATFS),
+InBit,PrepayWay (InBit),
+CYDER,Cyder Coin (CYDER),
+MUST,MUST Protocol (MUST),
+ICN,Iconomi (ICN),
+SHARPE,Sharpe Capital (SHARPE),
+SHOP.CUR,Shopify Cl A Sub Vtg (SHOP.CUR),
+HOPR,HOPR (HOPR),ETH
+TRI,Triangles Coin (TRI),
+WHN,Windhan Energy (WHN),
+FSC,FriendshipCoin (FSC),
+SHREK,ShrekCoin (SHREK),
+CSPR,Casper Network (CSPR),
+KATZ,KATZcoin (KATZ),
+VEN,VeChain Old (VEN),
+GX,Gx Coin (GX),
+EMPIRE,Empire Token (EMPIRE),BNB
+LIZ,Lizus Payment (LIZ),
+FIT,Financial Investment Token (FIT),
+UTNP,Universa (UTNP),
+ZCO,Zebi Coin (ZCO),
+CBNT,Create Breaking News Together (CBNT),
+XRE,RevolverCoin (XRE),
+FIST,FistBump (FIST),
+VNFT,Very Nifty (VNFT),ETH
+ETHBULL,3X Long Ethereum Token (ETHBULL),ETH
+POCKET,XPocket (POCKET),
+CVX,Convex Finance (CVX),ETH
+LTRBT,Little Rabbit (LTRBT),BNB
+MTK,Moya Token (MTK),
+CHI,Chi Gastoken (CHI),
+PROB,ProBit Token (PROB),
+CLS,Coldstack (CLS),ETH
+MOVE,MarketMove (MOVE),BNB
+CVTC,CavatCoin (CVTC),
+BKC,Balkancoin (BKC),
+BEAR,3X Short Bitcoin (BEAR),ETH
+DXN,DEXON (DXN),
+NEAL,Coineal Token (NEAL),
+MUNCH,Munch Token (MUNCH),ETH
+HORUS,HorusPay (HORUS),
+WSLT,White Stripe Lottery (WSLT),
+PET,Battle Pets (PET),BNB
+GAMB,GAMB (GAMB),
+RAKU,RAKUN (RAKU),
+AURS,Aureus (AURS),
+ALA,ALA (ALA),
+CARBON,Carboncoin (CARBON),
+BENJI,BenjiRolls (BENJI),
+HAZ,Hazza (HAZ),
+WHO,Truwho (WHO),
+PBET,PBET (PBET),
+GCC,GuccioneCoin (GCC),
+MBIT,Mbitbooks (MBIT),
+IPUX,IPUX (IPUX),
+IONX,Charged Particles (IONX),ETH
+PROPS,Props (PROPS),ETH
+QWC,Qwertycoin (QWC),
+XCT,C-Bits (XCT),
+FTCH.CUR,Farfetch Ltd (FTCH.CUR),
+SLIM,Solanium (SLIM),SOL
+CLD,Cloud (CLD),ETH
+HUNT,HUNT (HUNT),ETH
+LOOK,LookCoin (LOOK),
+BA.CUR,Boeing (BA.CUR),
+BTCUP,BTCUP (BTCUP),
+CAT,Cat Token (CAT),ETH
+KLAY,Klaytn (KLAY),
+BONA,Bonafi (BONA),
+BWX,Blue Whale (BWX),
+TXT.CUR,Textron (TXT.CUR),
+EMN.CUR,Eastman Chemical (EMN.CUR),
+ARG,Argentum (ARG),
+VOLT,BitVolt (VOLT),
+TSLA.CUR,Tesla (TSLA.CUR),
+CRON.CUR,Cronos Group Inc. (CRON.CUR),
+ZAI,Zero Collateral Dai (ZAI),ETH
+CWIS,Crypto Wisdom Coin (CWIS),
+SKP,Skelpy (SKP),
+SWRV,Swerve (SWRV),ETH
+LYL,LoyalCoin (LYL),
+FAG,PoorFag (FAG),
+ACHC,AchieveCoin (ACHC),
+WUG,WatchUGot (WUG),
+BSKT,BasketCoin (BSKT),ETH
+ANDROTTWEILER,Androttweiler Token (ANDROTTWEILER),ETH
+HKG,Hacker Gold (HKG),
+TDZ,Tradelize (TDZ),
+VARIUS,Varius (VARIUS),
+MU.CUR,"Micron Technology, Inc. (MU.CUR)",
+DVPN,Sentinel (DVPN),
+PIS,Polkainsure Finance (PIS),ETH
+SOV,Sovryn (SOV),ETH
+TRIAS,Trias (TRIAS),ETH
+UFR,Upfiring (UFR),
+FILM,Filmpass (FILM),
+PGT,Polyient Games Governance Token (PGT),ETH
+ATKN,A-Token (ATKN),
+FRA,Findora (FRA),
+BALPHA,bAlpha (BALPHA),ETH
+PGU,Polyient Games Unity (PGU),ETH
+HZT,HazMatCoin (HZT),
+RC,Russiacoin (RC),
+BTCT,Bitcoin Token (BTCT),
+POWER,UniPower (POWER),
+OROP,ORO (OROP),
+ITC,IoT Chain (ITC),ETH
+APX,Apx (APX),
+CSEN,Consensus (CSEN),
+DFA,DeFine (DFA),ETH
+CRU,Crust Network (CRU),ETH
+ANTC,AntiLitecoin (ANTC),
+BUN,BunnyCoin (BUN),
+KVI,KVI Chain (KVI),
+RCX,RedCrowCoin (RCX),
+LCASH,LitecoinCash (LCASH),
+VRX,Verox (VRX),ETH
+EA,EagleCoin (EA),
+TRYX,eToro Turkish Lira (TRYX),
+QNTU,Quanta (QNTU),
+BIRD,Bird.Money (BIRD),ETH|BNB
+OKBDOOM,10X Short OKB Token (OKBDOOM),ETH
+DOG,The Doge NFT (DOG),ETH|BNB
+BPL,BlockPool (BPL),
+SERA,Seraph (SERA),
+TAN,Taklimakan (TAN),
+ETRNT,Eternal Trusts (ETRNT),
+CAI,Cai Token (CAI),
+IRBT.CUR,iRobot Corporation (IRBT.CUR),
+SAFES,SafeSwap (SAFES),BNB
+BTMK,BitMark (BTMK),
+GAT,GATCOIN (GAT),
+FARMA,FarmaTrust (FARMA),
+DRC,Digital Reserve Currency (DRC),
+SHOW,ShowCoin (SHOW),
+DDRST,DigiDinar StableToken (DDRST),ETH
+RETAIL,Retail.Global (RETAIL),
+DEOR,Decentralized Oracle (DEOR),ETH
+LTCH,Litecoin Cash (LTCH),
+VARC,VARC (VARC),
+AMS,Amsterdam Coin (AMS),
+OG,OG Fan Token (OG),
+NKC,Nukecoinz (NKC),
+BTY,Bityuan (BTY),
+QAU,Quantum (QAU),
+AFCT,Allforcrypto (AFCT),
+SPACECOIN,SpaceCoin (SPACECOIN),
+SAGA,SagaCoin (SAGA),
+USDTHALF,0.5X Long Tether Token (USDTHALF),
+HPAY,HadePay (HPAY),
+PSG,Paris Saint-Germain Fan Token (PSG),CHZ
+AIPE,AI Prediction Ecosystem (AIPE),
+DON,DonationCoin (DON),
+OLE,Olive (OLE),
+PLAI,Plair (PLAI),VET
+HELL,HELL COIN (HELL),
+VITE,VITE (VITE),
+BEE,Bee Token (BEE),
+WIKEN,WITH (WIKEN),
+WISE,Wise Token (WISE),
+CORGI,Corgi Inu (CORGI),ETH
+PYQ,PolyQuity (PYQ),MATIC
+DBIX,DubaiCoin (DBIX),
+QUARASHI,Quarashi Network (QUARASHI),
+HASH,HASH Token (HASH),BNB|ETH
+CPL,CoinPlace Token (CPL),
+XAUTBEAR,3X Short Tether Gold Token (XAUTBEAR),
+KITTY,Kitty Inu (KITTY),ETH
+TEN,Tokenomy (TEN),ETH
+CROWD,CrowdCoin (CROWD),
+GAMEX,GameX (GAMEX),
+RFUEL,Rio DeFi (RFUEL),ETH
+1IRST,1irstcoin (1IRST),
+RELI,Relite Finance (RELI),ETH
+M1,SupplyShock (M1),
+TCX,T-Coin (TCX),
+VIDYA,Vidya (VIDYA),ETH
+BLY,Blocery (BLY),
+UZUMAKI,Uzumaki Inu (UZUMAKI),ETH
+AST,AirSwap (AST),ETH
+KSM,Kusama (KSM),
+XSN,Stakenet (XSN),
+BM,BitMoon (BM),
+GAKH,GAKHcoin (GAKH),
+FAIRC,Faireum Token (FAIRC),
+XIN,Mixin (XIN),ETH
+DIVER,Divergence Protocol (DIVER),ETH
+REN,REN (REN),ETH
+KZC,KZCash (KZC),
+HYT,HoryouToken (HYT),
+ETHA,ETHA Lend (ETHA),
+LOUD,Loud Market (LOUD),BNB
+LTO,LTO Network (LTO),ETH
+GML,GameLeagueCoin (GML),
+BEET,Beetle Coin (BEET),
+DOR,Dorado (DOR),
+DPET,My DeFi Pet (DPET),BNB
+HOTN,HotNow (HOTN),
+BOOB,BooBank (BOOB),
+FUNDC,FUNDChains (FUNDC),
+VIBE,VIBEHub (VIBE),ETH
+BT2,Bitcoin SegWit2X (BT2),
+EBC,EBCoin (EBC),
+BBS,BBSCoin (BBS (1)),
+TFI,TrustFi Network Token (TFI),BNB
+UCN,UC Coin (UCN),
+TRAID,Traid (TRAID),
+BPX,BlitzPredict (BPX),
+NDN,NDN Link (NDN),
+FLURRY,Flurry Finance (FLURRY),ETH
+TANK,ThinkTank (TANK),
+SYNX,Syndicate (SYNX),
+BRIT,BritCoin (BRIT),
+pBTC35A,pBTC35A (pBTC35A),
+YFO,YFIONE (YFO),ETH
+AAPL,Apple FTX (AAPL),
+SEELE,Seele (SEELE),ETH
+NETC,NetworkCoin (NETC),
+CSH,CashOut (CSH),
+XCF,Cenfura Token (XCF),
+MTA,Meta (MTA),ETH
+YFI,yearn.finance (YFI),ETH
+MEDIT,MediterraneanCoin (MEDIT),
+WBTC,Wrapped Bitcoin (WBTC),ETH
+BTRS,Bitball Treasure (BTRS),
+PRIVHALF,0.5X Long Privacy Index Token (PRIVHALF),
+FAMILY,The Bitcoin Family (FAMILY),ETH
+MCO2,Moss Carbon Credit (MCO2),ETH
+FLASH,Flashstake (FLASH),ETH
+BRIA,Briacoin (BRIA),
+XAL,AuxChips (XAL),
+EVE,Devery (EVE),
+XIL,ProjectX (XIL),BNB
+ALTBEAR,3X Short Altcoin Index Token (ALTBEAR),ETH
+BCR,BitCredit (BCR),
+ENTRP,Entropy Token (ENTRP),
+PUNK,SteamPunk (PUNK),
+XNC,Xenios (XNC),
+LTCDOWN,LTCDOWN (LTCDOWN),
+LIMX,LimeCoinX (LIMX),
+BXT,BitTokens (BXT),
+EVRICE,Evrice (EVRICE),
+ZUSD,ZUSD (ZITARA),ETH
+IBANK,iBankCoin (IBANK),
+ADABEAR,3X Short Cardano Token (ADABEAR),ETH
+AG8,ATROMG8 (AG8),
+RATING,DPRating (RATING),ETH
+ZIPT,Zippie (ZIPT),
+EUSD,Egoras Dollar (EUSD),
+ZUM,ZumCoin (ZUM),
+LIEN,Lien (LIEN),ETH
+LZ,LaunchZone (LZ),BNB
+THS,TechShares (THS),
+ENK,Enkidu (ENK),
+TEMPO,Tempo (TEMPO),
+BWB,Bit World Token (BWB),
+HBT,Habitat (HBT),ETH
+UNIUP,UNIUP (UNIUP),
+PNC,PlatiniumCoin (PNC),
+XTNC,XtendCash (XTNC),
+UWC,Uwezocoin (UWC),
+ARRR,Pirate Chain (ARRR),
+KRP,Kryptoin (KRP),
+XANK,Xank (XANK),
+OPSC,OpenSourceCoin (OPSC),
+GAPC,Gapcoin (GAPC),
+XPR,Proton (XPR),ETH
+DFGL,DeFi Gold (DFGL),
+ENERGYX,Safe Energy (ENERGYX),BNB
+MSC,Miningwatchdog Smartchain (MSC),
+TAB,MollyCoin (TAB),
+TXP,Trade Pharma Network (TXP),
+GLOBAL,GlobalCoin (GLOBAL),
+NOIA,Syntropy (NOIA),ETH
+CJ,CryptoJacks (CJ),
+TGTC,Tokensgate (TGTC),
+USDTHEDGE,1X Short Tether Token (USDTHEDGE),
+TRIBETOKEN,TribeToken (TRIBETOKEN),
+BAND,Band Protocol (BAND),ETH
+CJR,Conjure (CJR),
+VLX,Velas (VLX),
+MLTC,MultiWallet Coin (MLTC),
+Silver.CUR,Silver Spot (Silver.CUR),
+BCY,BitCrystals (BCY),
+BTCF,BitcoinFile (BTCF),
+PBQ,PUBLIQ (PBQ),
+DOKI,Doki Doki Finance (DOKI),ETH
+JIB,Jibbit (JIB),
+PON,Ponder (PON),
+ROKU.CUR,"Roku, Inc. (ROKU.CUR)",
+BIZZ,BIZZCOIN (BIZZ),ETH
+CJC,CryptoJournal (CJC),
+MGX,MargiX (MGX),
+BHIVE,Hive (BHIVE),
+CDPT,Creditor Data Platform (CDPT),
+BCEO,bitCEO (BCEO),
+CVP,PowerPool Concentrated Voting Power (CVP),ETH
+SOLVE,SOLVE (SOLVE),ETH
+RVR,Revolution VR (RVR),
+NIMFA,Nimfamoney (NIMFA),
+DFBT,DentalFix (DFBT),
+AHT,AhaToken (AHT),ETH
+AFp.CUR,Air France-Klm (AFp.CUR),
+ISRG.CUR,"Intuitive Surgical, Inc. (ISRG.CUR)",
+SAITAMA,Saitama Inu (SAITAMA),ETH
+BLOK,Bloktopia (BLOK),MATIC
+CVNT,Content Value Network (CVNT),ETH
+IDORU,Vip2Fan (IDORU),
+IPT,Crypt-ON (IPT),
+MTT,MulTra (MTT),
+XGB,GoldenBird (XGB),
+TEAMT,TokenStars TEAM Token (TEAMT),
+CIX,Cryptonetix (CIX),
+PFR,PayFair (PFR),
+GOC,GoCrypto (GOC),
+JUI,Juiice (JUI),
+LEMON,LemonCoin (LEMON),
+TRA,Tetra (TRA),
+ARES,Ares Protocol (ARES),ETH
+ELC,Elacoin (ELC),
+IMVR,ImmVRse (IMVR),
+SNRG,Synergy (SNRG),
+LTA,Litra (LTA),
+BIIB.CUR,Biogen Inc. (BIIB.CUR),
+MTHD,Method Finance (MTHD),ETH
+NAME,PolkaDomain (NAME),ETH
+PLE,Plethori (PLE),ETH
+FFC,FireflyCoin (FFC),
+USDE,UnitaryStatus Dollar (USDE),
+QQQ,Poseidon Network (QQQ),ETH
+FACE,Faceter (FACE),
+FIO,FIO Protocol (FIO),
+CLIN,Clinicoin (CLIN),
+API,Application Programming Interface (API),
+OJX,Ojooo (OJX),
+UNCX,UniCrypt (UNCX),
+OC,OrangeCoin (OC),
+PROTON,Proton (PROTON),
+ECOREAL,Ecoreal Estate (ECOREAL),
+TUNEZ,Tunez (TUNEZ),
+RINGX,RING X PLATFORM (RINGX),ETH
+XRIBA,Xriba (XRIBA),
+COMM,Community Coin (COMM),
+ARC,ArcticCoin (ARC),
+FRV,Fitrova (FRV),
+BHO,Bholdus Token (BHO),BNB
+WAGE,Digiwage (WAGE),
+ONL,On.Live (ONL),
+BITT,BiTToken (BITT),ETH
+YFII,DFI.money (YFII),ETH
+ODC,Overseas Direct Certification (ODC),
+RAI,Rai Reflex Index (RAI),ETH
+BOG,Bogged Finance (BOG),BNB
+EMANATE,EMANATE (EMANATE),
+HIDU,H-Education World (HIDU),
+LALA,LaLa World (LALA),
+VIDI,Vidion (VIDI),
+LHD,LitecoinHD (LHD),
+CTKN,Curaizon (CTKN),
+PHS,PhilosophersStone (PHS),
+ANI,Animecoin (ANI),
+PARQ,PARQ (PARQ),
+FDR,French Digital Reserve (FDR),
+PORT,Port Finance (PORT),
+CWV,CryptoWave (CWV),
+TBAR,Titanium BAR (TBAR),
+CUZ,Cool Cousin (CUZ),
+VCK,28VCK (VCK),
+ADZ,Adzcoin (ADZ),
+REVE,Revenu (REVE),
+SAGE.CUR,"Sage Therapeutics, Inc. (SAGE.CUR)",
+UNITY,SuperNET (UNITY),
+RH.CUR,Rh (RH.CUR),
+HRBE,Harambee Token (HRBE),
+DIO,Decimated (DIO),
+YNDX.CUR,Yandex N.V. (YNDX.CUR),
+RC20,RoboCalls (RC20),
+MOONDAY,Moonday Finance (MOONDAY),
+ARNO,ARNO (ARNO),ETH
+ACES,AcesCoin (ACES),
+SKR,Sakuracoin (SKR),
+VGX,Voyager Token (VGX),ETH
+KEANU,Keanu Inu (KEANU),ETH
+SIGNA,Signa (SIGNA),
+MARS4,MARS4 (MARS4),ETH
+CRW,Crown Coin (CRW),
+BHD,Bitcoin HD (BHD),
+XPRT,Persistence (XPRT),
+COLLG,Collateral Pay Governance (COLLG),ETH
+SLAM,Slam Token (SLAM),BNB
+HMN,Harvest Masternode Coin (HMN),
+ALGOHALF,0.5X Long Algorand Token (ALGOHALF),
+BAKE,BakeryToken (BAKE),BNB
+LITH,Lithium Finance (LITH),ETH
+APEX,ApexCoin (APEX),
+VIOR,ViorCoin (VIOR),
+NHBTC,NEST Protocol (NHBTC),ETH
+THEDAO,The DAO (THEDAO),
+XYZ,Universe.XYZ (XYZ),ETH
+ARCH,ArchCoin (ARCH),
+NPER,NPER (NPER),
+DFSG,DFSocial Gaming (DFSG),BNB
+PLAC,PLANET (PLAC),ETH
+SNK,Snake Token (SNK),BNB
+ELY,Elysian (ELY),ETH
+HBO,Hash Bridge Oracle (HBO),
+PWAR,PolkaWar (PWAR),BNB
+CAN,Channels (CAN),
+LDFI,LenDeFi Token (LDFI),ETH
+FORCE,TriForce Tokens (FORCE),
+PYRK,Pyrk (PYRK),
+VETBEAR,3X Short VeChain Token (VETBEAR),
+RSC,Ronaldinho Soccer Coin (RSC),
+QAC,Quasarcoin (QAC),
+LSP,Lumenswap (LSP),XLM
+DMT,DMarket (DMT),ETH
+DGM,DigiMoney (DGM),
+PESA,Credible (PESA),
+AA.CUR,Alcoa (AA.CUR),
+HNY,Honey (HNY),
+VIKING,Viking Swap (VIKING),
+UFI,PureFi (UFI),BNB; ETH
+BTRST,Braintrust (BTRST),ETH
+FOOD,FoodCoin (FOOD),
+OATH,OATH Protocol (OATH),
+SWAG,SWAG Finance (SWAG),
+TRTL,TurtleCoin (TRTL),
+SLND,Solend (SLND),SOL
+ACOIN,ACoin (ACOIN),
+NVL,Nevula (NVL),
+IRT,Infinity Rocket (IRT),BNB
+VLXPAD,VelasPad (VLXPAD),BNB | ETH
+NAM,Namacoin (NAM),
+CINX,CINDX (CINX),
+EASYF,EasyFeedback (EASYF),
+CEN,Coinsuper Ecosystem Network (CEN),
+XCB,Crypto Birds (XCB),
+MZC,MazaCoin (MZC),
+YFFI,yffi finance (YFFI),
+AMMO,Ammo Rewards (AMMO),
+SBRT,SaveBritney (SBRT),ETH
+PARAB,Parabolic (PARAB),BNB
+ENS,Ethereum Name Service (ENS),ETH
+ROE,Rover Coin (ROE),
+ATA,Automata (ATA),ETH/BNB
+BVOL,1x Long BTC Implied Volatility Token (BVOL),
+DRZ,Droidz (DRZ),
+ROYAL,RoyalCoin (ROYAL),
+PERA,Pera Finance (PERA),BNB
+D4RK,DarkPayCoin (D4RK),
+OCTOIN,Octoin Coin (OCTOIN),
+MEETONE,MEET.ONE (MEETONE),
+OBSR,OBSERVER Coin (OBSR),ETH
+32BIT,32Bitcoin (32BIT),
+VULC,Vulcano (VULC),
+HCC,HappyCreatorCoin (HCC),
+ARQ,ArQmA (ARQ),
+BCS,Business Credit Substitute (BCS),
+SETI,Sapien Wallet (SETI),
+I9C,i9 Coin (I9C),
+RISEP,Rise Protocol (RISEP),ETH
+BRY,Berry Data (BRY),
+BST,Beshare Token (BST),ETH
+TEC,TeCoin (TEC),
+PLTC,PlatonCoin (PLTC),ETH
+CVS.CUR,CVS Health (CVS.CUR),
+CYBERD,Cyber Doge (CYBERD),ETH
+SEL,SelenCoin (SEL),
+PRIVBEAR,3X Short Privacy Index Token (PRIVBEAR),
+QCO,Qravity (QCO),
+PYR,Vulcan Forged (PYR),ETH
+FRAC,FractalCoin (FRAC),
+ZUR,Zurcoin (ZUR),
+WAR,WeStarter (WAR),HT
+PACOCA,Pacoca (PACOCA),BNB
+SKIN,Skincoin (SKIN),
+OZP,OZAPHYRE (OZP),
+DEEP,DeepCloud AI (DEEP),
+DOTDOWN,DOTDOWN (DOTDOWN),
+LTCP,LitecoinPro (LTCP),
+MTL,Metal (MTL),ETH
+XDP,DogeParty (XDP),
+MTSH,Mitoshi (MTSH),
+TWTR,Twitter (TWTR),
+VRD,Veredictum (VRD),
+KDAG,King DAG (KDAG),ETH
+DEFT,DeFi Factory Token (DEFT),ETH
+SUSHIDOWN,SUSHIDOWN (SUSHIDOWN),
+HHEM,Healthureum (HHEM),
+BBN,BBNCOIN (BBN),
+NFTP,NFT (NFTP),
+MG,MinerGate Token (MG),
+NXMC,NextMindCoin (NXMC),
+TLO,Talleo (TLO),
+DXD,DXdao (DXD),ETH
+DACC2,DACC2 (DACC2),
+COMFI,CompliFi (COMFI),ETH
+TUDA,Tutor's Diary (TUDA),
+FIL,FileCoin (FIL),
+UAEC,United Arab Emirates Coin (UAEC),
+CHK,Chek (CHK),
+LEDU,Education Ecosystem (LEDU),
+YETU,Yetucoin (YETU),
+PIO,Pioneershares (PIO),
+LEA,LeaCoin (LEA),
+JADE,Jade Currency (JADE),BNB
+ETS,ETH Share (ETS),
+ERROR,484 Fund (ERROR),ETH
+FOLD,Manifold Finance (FOLD),ETH
+GAME,Gamecredits (GAME),ETH
+BEZ,Bezop (BEZ),ETH
+ARTC,Artcoin (ARTC),
+TBIS,TBIS token (TBIS),
+GEA,Goldea (GEA),
+CADX,eToro Canadian Dollar (CADX),
+NSURE,Nsure Network (NSURE),
+BLKS,Blockshipping (BLKS),
+PCC,PCORE (PCC),
+MTR,MasterTraderCoin (MTR),
+MANDALA,Mandala Exchange Token (MANDALA),
+FSLR.CUR,First Solar Inc (FSLR.CUR),
+LEOBEAR,3X Short LEO Token (LEOBEAR),
+DRT,DomRaider (DRT),ETH
+TOKO,ToKoin (TOKO),ETH
+EGGP,Eggplant Finance (EGGP),BNB
+LUA,Lua Token (LUA),ETH
+FABA,Faba Invest (FABA),
+NOS,nOS (NOS),
+ORCL.CUR,Oracle (ORCL.CUR),
+FLY,Franklin (FLY),ETH
+SCRM,Scorum (SCRM),
+BLN,Bulleon (BLN),
+XLNX.CUR,"Xilinx, Inc. (XLNX.CUR)",
+KXUSD,kxUSD (KXUSD),ETH
+BANCA,BANCA (BANCA),
+XNX,XanaxCoin (XNX),
+NICEC,NiceCoin (NICEC),
+XAUT,Tether Gold (XAUT),ETH
+GEM,Gems (GEM),ETH
+RBT,Rimbit (RBT),
+REX,Imbrex (REX),
+FYN,FundYourselfNow (FYN),
+PSP,ParaSwap (PSP),ETH
+KARMAD,Karma DAO (KARMAD),
+ZUNA,ZUNA (ZUNA),BNB
+MBRS,Embers (MBRS),
+VLM,Volum (VLM),
+BCT,Bitcratic Token (BCT),
+YFIII,Dify.Finance (YFIII),ETH
+WEX,Wexcoin (WEX),
+ZLQ,ZLiteQubit (ZLQ),
+FME,FME (FME),
+CHRONO,Chrono.tech (CHRONO),"ETH,BNB"
+DUX,DuxCoin (DUX),
+NLC2,NoLimitCoin (NLC2),
+YAMV1,YAM v1 (YAMV1),ETH
+SAFEHAMSTERS,SafeHamsters (SAFEHAMSTERS),BNB
+HAMS,HamsterCoin (HAMS),
+Platinum.CUR,Platinum Spot (Platinum.CUR),
+AAP.CUR,Advance Auto Parts (AAP.CUR),
+BCX,BitcoinX (BCX),
+TCHAIN,Tchain (TCHAIN),
+WRC,Worldcore (WRC),
+MENLO,Menlo One (MENLO),
+X.CUR,US Steel Corp (USSTEEL),
+OPET,ÕpetFoundation (OPET),
+ETH2,Eth 2.0 Staking by Pool-X (ETH2),
+ROCKI,Rocki (ROCKI),ETH|BNB
+GD.CUR,General Dynamics (GD.CUR),
+DXB,DefiXBet (DXB),BNB
+AUN,Authoreon (AUN),
+DARICO,Darico (DARICO),
+LK7,Lucky7Coin (LK7),
+ICT,Intrachain (ICT),
+WOLVERINU,WOLVERINU (WOLVERINU),ETH
+ePRX,eProxy (ePRX),
+USDX,USDX Stablecoin (USDX),
+USHIBA,American Shiba (USHIBA),ETH
+SEED,Superbloom (SEED),
+TECO,TerraEcoCoin (TECO),
+RAIZER,RAIZER (RAIZER),
+DOUGH,PieDAO v2 (DOUGH) (DOUGH),ETH
+USC,Ultimate Secure Cash (USC),
+DRPU,DRP Utility (DRPU),
+DEQ,Dequant (DEQ),
+CFXQ,CFX Quantum (CFXQ),ETH
+BBC,BigBang Core (BBC),
+EBTC,eBitcoin (EBTC),
+XBX,BiteX (XBX),
+MARI,MarijuanaCoin (MARI),
+HMC,Hi Mutual Society (HMC),
+BCIO,Blockchain.io (BCIO),
+UBER.CUR,Uber Technologies Inc (UBER.CUR),
+NRS,NoirShares (NRS),
+CRNK,CrankCoin (CRNK),
+ZBC,Zilbercoin (ZBC),
+EOSBULL,3X Long EOS Token (EOSBULL),ETH
+1810.CUR,Xiaomi corp. (1810.CUR),
+BSYS,BSYS (BSYS),
+WOA,Wrapped Origin Axie (WOA),ETH
+CC,CyberCoin (CC),
+FLC,FlowChainCoin (FLC),
+TAPC,Tap Coin (TAPC),
+SCLP,Scallop (SCLP),BNB
+PERI,PERI Finance (PERI),ETH
+QBK,QuBuck Coin (QBK),
+BLITZ,BlitzCoin (BLITZ),
+GNY,GNY (GNY),ETH
+DCK,DickCoin (DCK),
+ATL,ATLANT (ATL),
+PNX,PhantomX (PNX),
+PSD,Poseidon (PSD),
+MEXC,MEXC Token (MEXC),
+XIOT,Xiotri (XIOT),
+POLYS,PolySwarm (POLYS),ETH
+ADEL,Akropolis Delphi (ADEL),ETH
+ENTER,EnterCoin (ENTER),
+STAR,Starbase (STAR),
+TRDG,Tardigrades Finance (TRDG),BNB
+MLK,MiL.k (MLK),luniverse
+METM,MetaMorph (METM),
+CTAG,CTAGtoken (CTAG),
+ARTEX,Artex (ARTEX),BNB
+SPI,Shopping.io (SPI),ETH
+SPAY,SpaceY 2025 (SPAY),ETH
+PMA,PumaPay (PMA),ETH
+SANTOS,Santos FC Fan Token (SANTOS),BNB
+PUPA,PupaCoin (PUPA),
+SGN,Signals Network (SGN),
+PAXGBEAR,3X Short PAX Gold Token (PAXGBEAR),
+DEFIHEDGE,1X Short DeFi Index Token (DEFIHEDGE),
+GBYTE,Obyte (GBYTE),
+FC,Facecoin (FC),
+ETK,Energi Token (ETK),
+ETCHALF,0.5X Long Ethereum Classic Token (ETCHALF),
+WCELO,Wrapped Celo (WCELO),
+IFC,Infinite Coin (IFC),
+ETKN,EasyToken (ETKN),
+SUT,Suapp (SUT),
+BULL,3X Long Bitcoin Token (BULL),ETH
+MOT,Olympus Labs (MOT),
+RRC,Recycling Regeneration Chain (RRC),
+VDO,VidioCoin (VDO),
+HZ,Horizon (HZ),
+PVT,Pivot Token (PVT),ETH
+USDTBEAR,3X Short Tether Token (USDTBEAR),
+IMST,Imsmart (IMST),
+SWD,SW DAO (SWD),ETH
+GOALS,UnitedFans (GOALS),
+SXPUP,SXPUP (SXPUP),
+NSR,NuShares (NSR),
+TECH,TechCoin (TECH),
+PLAAS,PLAAS FARMERS TOKEN (PLAAS),
+STF,Structure Finance (STF),ETH
+MASK,Mask Network (MASK),ETH
+GBIT,GravityBit (GBIT),
+OPC,OP Coin (OPC),
+LGD,Legends Cryptocurrency (LGD),
+CCTN,Connectchain (CCTN),
+HDAC,Hdac (HDAC),
+FLT,FlutterCoin (FLT),
+CBD,CBD Crystals (CBD),
+NYZO,Nyzo (NYZO),
+YFIVE,YFIVE FINANCE (YFIVE),
+FESS,Fesschain (FESS),ETH
+SSV,ssv.network (SSV),
+FTP,FuturePoints (FTP),
+YMZ,Yamzu (YMZ),
+FWT,Freeway Token (FWT),
+UNF,Unfed Coin (UNF),
+TJA,TapJets (TJA),
+X8X,X8Currency (X8X),
+IX,X-Block (IX),
+AAVE,Aave (AAVE),ETH
+MSP,Mothership (MSP),
+BDR,BlueDragon (BDR),
+LOC,LockTrip (LOC),
+PLR,Pillar (PLR),
+BUFF,Buffalo Swap (BUFF),BNB
+IDAP,IDAP (IDAP),
+TEND,Tendies (TEND),
+BDCC,BDCC COIN (BDCC),
+TRYBBULL,3X Long BiLira Token (TRYBBULL),
+FL,Freeliquid (FL),ETH
+KBOND,Klondike Bond (KBOND),
+OPA,Option Panda Platform (OPA),BNB
+PEPECASH,Pepe Cash (PEPECASH),
+GTIB,Global Trust Coin (GTIB),
+BEARSHIT,3X Short Shitcoin Index Token (BEARSHIT),
+CCT,Crystal Clear Token (CCT),
+MOAR,Moar Finance (MOAR),ETH
+ORME,Ormeus Coin (ORME),
+MITX,Morpheus Infrastructure Token (MITX),ETH
+CINNI,CINNICOIN (CINNI),
+FXT,FuzeX (FXT),
+IQQ,Iqoniq (IQQ),ETH
+CHAL,Chalice Finance (CHAL),ETH
+PIX,Lampix (PIX),
+JCP.CUR,Jc Penney (JCP.CUR),
+BZ,Bit-Z (BZ),
+FLDT,FairyLand (FLDT),
+GYEN,GYEN (GYEN),ETH
+HNS,Handshake (HNS),
+DAS,DAS (DAS),
+CADN,Content and AD Network (CADN),
+APA.CUR,Apache (APA.CUR),
+2GT,2GETHER (2GT),
+RD,Round Dollar (RD),TRX
+PLEO,Empleos (PLEO),
+VIAZ,Viaz (VIAZ),
+WDC,WorldCoin (WDC),
+SKY,Skycoin (SKY),
+ICHX,IceChain (ICHX),
+VAI,Vai (VAI),
+AVE,Avesta (AVE),
+SRCOIN,SRCoin (SRCOIN),
+USDF,FolgoryUSD (USDF),
+TTT,The Transfer Token (TTT),ETH
+GEN,DAOstack (GEN),
+PYPL,Paypal (PYPL),
+MRSA,MrsaCoin (MRSA),
+XVE,The Vegan Initiative (XVE),
+BEL,Bella Protocol (BEL),ETH
+ALLEY,NFT Alley (ALLEY),BNB
+FWB,Friends With Benefits Pro (FWB),ETH
+USG,USGold (USG),
+PENN,Penn National Gaming (PENN),
+1INCHDOWN,Short 1INCH with Up to 4x Leverage (1INCHDOWN),
+CQST,ConquestCoin (CQST),
+CRWD,CRWD Network (CRWD),
+X42,X42 Protocol (X42),
+FFYI,Fiscus FYI (FFYI),
+SWAPP,SWAPP Protocol (SWAPP),ETH|BNB
+LIC,Ligercoin (LIC),
+BOMB,BOMB (BOMB),
+ADABULL,3X Long Cardano Token (ADABULL),ETH
+KCCM,KCC MemePad (KCCM),BNB
+YOC,YoCoin (YOC),
+QQBC,QQBC IPFS BLOCKCHAIN (QQBC),
+MGN,MagnaCoin (MGN),
+VTN,Voltroon (VTN),
+AOP,Averopay (AOP),
+ZUUM,Zuum (ZUUM),
+URO,UroCoin (URO),
+ELITE,EthereumLite (ELITE),
+EDGEW,Edgeware (EDGEW),
+BUNNYROCKET,BunnyRocket (BUNNYROCKET),ETH
+WAXE,WAXE (WAXE),ETH
+HART,HARA (HART),
+SPICE,Spice (SPICE),
+NAVI,NaviAddress (NAVI),
+SNC,SunContract (SNC),ETH
+WLITI,wLITI (WLITI),ETH
+GSHIBA,Gambler Shiba (GSHIBA),ETH
+OOT,Utrum (OOT),
+INARI,Inari (INARI),ETH
+FUEL,Etherparty (FUEL),ETH
+RBX,RiptoBuX (RBX),
+ALLY.CUR,Ally Financial (ALLY.CUR),
+SP,Sex Pistols (SP),
+BSCV,Bscview (BSCV),
+HB,HeartBout (HB),
+M2O,M2O Token (M2O),
+MTLM3,Metal Music v3 (MTLM3),
+ASTRO,Astronaut (ASTRO),
+SPEND,Spend (SPEND),
+BTU,BTU Protocol (BTU),
+VSYS,V Systems (VSYS),
+VRF,Verifier (VRF),
+XD,Data Transaction Token (XD),
+TIFT,True Investment Finance (TIFT),
+APIS,APIS (APIS),
+MODEX,MODEX Token (MODEX),
+CABS,CryptoABS (CABS),
+SMILO,Smilo (SMILO),
+BIPX,Bispex (BIPX),
+UTT,United Traders Token (UTT),ETH
+FINU,Fire Inu (FINU),ETH/BNB
+ERC20,Index ERC20 (ERC20),
+GRAV,Graviton (GRAV),
+CKUSD,CKUSD (CKUSD),
+ONG,SoMee.Social (ONG),
+VID,VideoCoin (VID),ETH
+BEAST,CryptoBeast (BEAST),BNB
+ZEON,Zeon Network (ZEON),
+MEMEINU,Meme Inu (MEMEINU),ETH
+TOR,TorCoin (TOR),
+SFU,Saifu (SFU),
+KDA,Kadena (KDA),
+HOD,HoDooi.com (HOD),BNB
+SENC,Sentinel Chain (SENC),ETH
+NEXO,NEXO (NEXO),ETH
+ACID,AcidCoin (ACID),
+AUTO,Auto (AUTO),BNB
+PHOON,Typhoon Cash (PHOON),ETH
+USDS,StableUSD (USDS),ETH
+LYM,Lympo (LYM),ETH
+LGR,Logarithm (LGR),
+CUSDT,cUSDT (CUSDT),
+VLS,Veles (VLS),
+GPS.CUR,"The Gap, Inc. (GPS.CUR)",
+Si14,Si14 (Si14),
+BETF,Betform (BETF),
+YLD,YIELD App (YLD),
+SHX,Stronghold Token (SHX),
+BLTV,BLTV Token (BLTV),
+ZERO,Zero Exchange (ZERO),
+SIX,SIX Network (SIX),XLM
+SSL,Sergey Save Link (SSL),
+ALH,AlloHash (ALH),ETH
+LYN,LYNCHPIN Token (LYN),
+AMZN,Amazon FTX (AMZN),
+LARIX,Larix (LARIX),
+CNAB,Cannabium (CNAB),
+VTL,Vertical (VTL),
+KALLY,Polkally (KALLY),ETH
+NETKO,Netko (NETKO),
+AIRX,Aircoins (AIRX),
+SESG.CUR,Ses Fdr (SESG.CUR),
+GFN,Graphene (GFN),BNB
+RWD,Reward Vision (RWD),
+BTC2,Bitcoin 2 (BTC2),
+2BASED,2Based Finance (2BASED),ETH
+HYC,HYCON (HYC),
+NFT,APENFT (NFT),ETH/BNB/TRX/HT
+MOONLIGHT,Moonlight Token (MOONLIGHT),BNB
+NEC,Nectar (NEC),ETH
+COC,Community Coin (COC),
+OKBHEDGE,1X Short OKB Token (OKBHEDGE),
+EMAR,EmaratCoin (EMAR),
+AEON,AEON (AEON),
+BOLD,Bold (BOLD),
+MOL,Molecule (MOL),
+ITL,Italian Lira (ITL),
+REL,Reliance (REL),
+EMV,Ethereum Movie Venture (EMV),
+RYCN,RoyalCoin 2.0 (RYCN),
+MCRN,MacronCoin (MCRN),
+XNN,Xenon (XNN),
+SWTH,Switcheo (SWTH),NEO
+PANGEA,PANGEA (PANGE),
+XRD,Radix (XRD),
+PHT,Photon Token (PHT),
+WHIRL,Whirl Finance (WHIRL),
+DG.CUR,Dollar General (DG.CUR),
+KLON,Klondike Finance (KLON),ETH
+CATX,CAT.trade Protocol (CATX),
+CFL365,CFL365 Finance (CFL365),ETH
+KUMA,Kuma Inu (KUMA),ETH
+DENT,Dent (DENT),ETH
+LTCU,LiteCoin Ultra (LTCU),
+CXG,Coinxes (CXG),
+AIOZ,AIOZ Network (AIOZ),ETH
+PRS,PressOne (PRS),
+DGC,Digitalcoin (DGC),
+ARCO,AquariusCoin (ARCO),
+BTCA,Bitair (BTCA),
+MXM,Maximine (MXM),
+SRNT,Serenity (SRNT),
+ABS,Absolute Coin (ABS),
+DMX,Dymmax (DMX),
+ORIGIN,Origin Foundation (ORIGIN),
+MOD,Modefi (MOD),
+GRW,GrowthCoin (GRW),
+SANSHU,Sanshu Inu (SANSHU),ETH
+DLO,Delio (DLO),
+LKT,Locklet (LKT),ETH
+WSX,WeAreSatoshi (WSX),
+FONT,Font (FONT),ETH
+EKG,Ekon Gold (EKG),
+ETHE,Grayscale Ethereum Trust (ETHE),
+YAXIS,yAxis (YAXIS),ETH
+RAVEN,Raven Protocol (RAVEN),
+NIM,Nimiq (NIM),
+RFL,RAFL (RFL),
+DARB,Darb Token (DARB),
+COFI,CoinFi (COFI),ETH
+ELIC,Elicoin (ELIC),
+TIME,Wonderland (TIME),AVAX
+ALITA,Alita Network (ALITA),ETH
+LTH,Lathaan (LTH),
+OCT,OracleChain (OCT),
+FPC,Futurepia (FPC),
+MLGC,Marshal Lion Group Coin (MLGC),
+BRTX,Bertinity (BRTX),
+ZCHN,Zichain (ZCHN),
+ZLOT,zLOT Finance (ZLOT),
+DIVX,Divi Exchange Token (DIVX),
+KISHU,Kishu Inu (KISHU),ETH
+KOBO,KoboCoin (KOBO),
+SHIH,Shih Tzu (SHIH),ETH
+JRT,Jarvis Reward Token (JRT),"ETH, MATIC"
+ZIX,ZIX Token (ZIX),
+CSCO.CUR,Cisco Systems (CSCO.CUR),
+MFUND,Memefund (MFUND),ETH
+BOO,BOOSTO (BOO),
+MNE,Minereum (MNE),
+EQUAD,Quadrant Protocol (eQUAD),
+NUT,Native Utility Token (NUT),
+MOTO,Motocoin (MOTO),
+SPON,Instant Sponsor Token (SPON),
+SPMK,Space Monkey (SPMK),ETH
+WLME,Wellmee (WLME),
+OPENDAO,OPEN Governance Token (OPENDAO),ETH
+REHAB,NFT Rehab (REHAB),ETH
+UPX,uPlexa (UPX),
+4ART,4ART Coin (4ART),ETH
+CDL,CoinDeal Token (CDL),
+AAVEUP,AAVEUP (AAVEUP),
+SONT,Sonata.ai (SONT),
+DIEM,Facebook Diem (DIEM),
+RSR,Reserve Rights (RSR),ETH
+BTCRED,Bitcoin Red (BTCRED),
+ENTRC,ENTER COIN (ENTRC),
+RTB,AB-CHAIN (RTB),
+NTBC,Note Blockchain (NTBC),
+FUNDZ,FundFantasy (FUNDZ),ETH
+NFN,Nafen (NFN),
+FXF,Finxflo (FXF),
+C3,Charli3 (C3),BNB
+ANC,Anchor Protocol (ANC),LUNA
+KST,StarKST (KST),
+TRVR,Trivver (TRVR),
+COREG,Core Group Asset (COREG),
+TBX,Tokenbox (TBX),
+UNB,UnbreakableCoin (UNB),
+SWEET,SweetStake (SWEET),
+XDC,Xinfin Network (XDC),
+MUT,Mutual Coin (MUT),
+MARK,Benchmark Protocol (MARK),ETH
+BNBBEAR,3X Short BNB Token (BNBBEAR),ETH
+EXB,ExaByte (EXB) (EXB),
+DDF,Digital Developers Fund (DDF),
+TKA,Tokia (TKA),
+PAL,PolicyPal Network (PAL),
+PERU,PeruCoin (PERU),
+RBDT,RoBust Defense Token (RBDT),
+LINKHEDGE,1X Short Chainlink Token (LINKHEDGE),
+FCTC,FaucetCoin (FCTC),
+NBAI,Nebula AI (NBAI),
+AMD.CUR,Advanced Micro Devices Inc (AMD.CUR),
+DPIE,DeFiPie (DPIE),
+KYTE,Kambria Yield Tuning Engine (KYTE),ETH
+FIND,FindCoin (FIND),
+NZE,Nagezeni (NZE),
+WINE,WineCoin (WINE),
+PANDO,Pando (PANDO),ETH
+TCR,TecraCoin (TCR),ETH
+DRM,DoDreamChain (DRM),
+MUSK,Musk (MUSK),ETH
+USDEX,eToro US Dollar (USDEX),
+EIFI,EIFI FINANCE (EIFI),BNB
+MASP,Market.space (MASP),
+DIP,Etherisc (DIP),
+FREN,FREN (FREN),ETH
+SSH,StreamSpace (SSH),
+LBXC,LUX BIO EXCHANGE COIN (LBXC),
+EGDC,EasyGuide (EGDC),
+NCOV,CoronaCoin (NCOV),
+ALPHA,Alpha Finance Lab (ALPHA),BNB
+COVIR,COVIR (COVIR),ETH
+PEKC,Peacock Coin (PEKC),BNB
+BLZ,Bluzelle (BLZ),ETH
+IRIS,IRIS Network (IRIS),
+XBS,Bitstake (XBS),
+NKT,NakomotoDark (NKT),
+MSFT.CUR,Microsoft (MSFT.CUR),
+DVC,DragonVein (DVC),
+VKF,VKF Platform (VKF),ETH
+MNTP,GoldMint (MNTP),
+TREEC,TreeCoin (TREEC),
+ECOCH,ECOChain (ECOCH),
+IDICE,iDice (IDICE),
+XMV,MoneroV (XMV),
+DRF,Drife (DRF),
+LIPC,LIpcoin (LIPC),
+OHL.CUR,"Obrascón Huarte Lain, S.A. (OHL.CUR)",
+GP,GoldPieces (GP),
+BFX,BitFinex Tokens (BFX),
+SIGRSV,SigmaRSV (SIGRSV),
+PCHS,Peaches.Finance (PCHS),ETH
+SMT,SmartMesh (SMT),ETH
+ANK,AlphaLink (ANK),
+CUR,Curio (CUR),ETH
+DYT,DoYourTip (DYT),ETH
+NXM,Nexus Mutual (NXM),ETH
+UNI,Uniswap Protocol Token (UNI),ETH
+XMX,XMax (XMX),ETH
+MBT,Multibot (MBT),
+BBG,BigBang (BBG),
+WIZ,Crowdwiz (WIZ),
+LPC,Little Phil (LPC),
+CGG,Chain Guardians (CGG),ETH
+ARENA,Arena (ARENA),
+CBM,CryptoBonusMiles (CBM),
+XXA,Ixinium (XXA),
+EFK,ReFork (EFK),
+UNN,UNION Protocol Governance Token (UNN),ETH
+UGD,United Global Dollars (UGD),BNB
+JUDGE,JudgeCoin (JUDGE),
+WOP,WorldPay (WOP),
+KUB,Bitkub Coin (KUB),
+REST,Restore (REST),
+ICE,Popsicle Finance (ICE),"ETH,BNB,FTM"
+FUCK,Fuck Token (FUCK),
+BNR,BiNeuro (BNR),
+EQL,EQUAL (EQL),
+SEALN,Seal Network (SEALN),
+ATVI.CUR,Activision Blizzard Inc (ATVI.CUR),
+KB3,B3Coin (KB3),
+TITAN,TitanSwap (TITAN),ETH
+MOOND,Dark Moon (MOOND),
+XSB,Extreme Sportsbook (XSB),
+SFG,S.Finance (SFG),ETH
+TLRY,Tilray (TLRY),
+NOBL,NobleCoin (NOBL),
+CAG.CUR,Conagra Brands Inc (CAG.CUR),
+DBZ,Diamond Boyz Coin (DBZ),BNB
+EXLT,ExtraLovers (EXLT),
+DLT,Agrello Delta (DLT),ETH
+OTX,Octanox (OTX),
+YO,Yobit Token (YO),ETH
+ENJ,Enjin Coin (ENJ),ETH
+PLAN,Plancoin (PLAN),
+TCNX,Tercet Network (TCNX),
+UNISWAPBEAR,3X Short Uniswap Index Token (UNISWAPBEAR),
+SCOIN,ShinCoin (SCOIN),ETH
+GUE,GuerillaCoin (GUE),
+IDM,IDM (IDM),
+CAG,Change (CAG),
+ECR,EcoVerse (ECR),
+XPX,ProximaX (XPX),
+MIV,MakeItViral (MIV),
+CPY,COPYTRACK (CPY),
+CLPX,Chynge.net (CLPX),
+GRIN,Grin (GRIN),
+UC,YouLive Coin (UC),
+UTU,UTU Protocol (UTU),
+KEY,SelfKey (KEY),ETH
+XCEL,XcelTrip (XCEL),
+EMU,eMusic (EMU),
+BCD,Bitcoin Diamond (BCD),
+RUG,Rug (RUG),
+ANKA.BITCI,Ankaragücü Fan Token (ANKA.BITCI),BITCI
+IW,iWallet (IW),
+OWC,Oduwa (OWC),
+BTN,Bittron (BTN),
+SDAT,SDATokens (SDAT),
+CPRT.CUR,"Copart, Inc. (CPRT.CUR)",
+THG,Thetan Arena (THG),BNB
+OTO,OTOCASH (OTO),
+PAZZI,Paparazzi (PAZZI),ETH
+2GIVE,2GiveCoin (2GIVE),
+BSEND,BitSend (BSEND),
+SMARTCREDIT,SmartCredit Token (SMARTCREDIT),
+DEGO,Dego Finance (DEGO),ETH
+RABBIT,Rabbit Finance (RABBIT),BNB
+XWG,X World Games (XWG),BNB
+APYS,APYSwap (APYS),"ETH,BSC,HECO,SOL,MATIC"
+ATMOS,Atmos (ATMOS),
+OSF,One Solution (OSF),
+REVV,REVV (REVV),ETH
+SXPBULL,3X Long Swipe Token (SXPBULL),
+NTWK,Network Token (NTWK),
+DLPT,Deliverers Power Token (DLPT),
+DIESEL,Diesel (DIESEL),
+NUA,Neulaut Token (NUA),ETH
+APPC,AppCoins (APPC),ETH
+B2G,Bitcoiin2Gen (B2G),
+TLT,Travelertoken (TLT),
+FINOM,Finom FIN Token (FINOM),
+DOGY,DogeYield (DOGY),ETH
+BITHER,Bither (BITHER),
+INJ,Injective Protocol (INJ),ETH
+BTD,Bitcloud (BTD),
+HGO,HireGo (HGO),
+AURUM,Aurum (AURUM),
+HTHEDGE,1X Short Huobi Token Token (HTHEDGE),
+DUBI,Decentralized Universal Basic Income (DUBI),
+CIX100,Cryptoindex (CIX100),
+EVAULT,EthereumVault (EVAULT),ETH
+RAYS,Rays Network (RAYS),
+ADAI,Aave DAI (ADAI),
+XRL,Rialto.AI (XRL),
+BIXB,BIXBCOIN (BIXB),
+RUSH,RUSH COIN (RUSH),ETH
+AVAX,Avalanche (AVAX),
+EVIL,EvilCoin (EVIL),
+PLU,Pluton (PLU),
+MUSDCOIN,MUSDcoin (MUSDCOIN),
+CACHE,Cache (CACHE),
+VIEW,Viewly (VIEW),
+ATT,Attila (ATT),
+FUN,FunFair (FUN),ETH
+CYP,CypherPunkCoin (CYP),
+BCAC,Business Credit Alliance Chain (BCAC),
+GFARM2,Gains V2 (GFARM2),ETH
+TOTM,Totem (TOTM),ETH
+TKR,CryptoInsight (TKR),
+BTF,Blockchain Traded Fund (BTF),
+DAI,Dai (DAI),ETH
+ORO,OroCoin (ORO),
+ALXN.CUR,"Alexion Pharmaceuticals, Inc. (ALXN.CUR)",
+KRAK,Kraken (KRAK),
+PIT,Pitbull (PIT),BNB
+ACAT,Alphacat (ACAT),NEO
+XMG,Coin Magi (XMG),
+IOC,IOCoin (IOC),
+BTBL,Bitball (BTBL),
+WHITE,Whiteheart (WHITE),ETH
+XNK,Ink Protocol (XNK),ETH
+BFDT,Befund (BFDT),
+TRAVEL,Travelvee (TRAVEL),
+HER,Hero Node (HER),
+PLURA,PluraCoin (PLURA),
+UVU,CCUniverse (UVU),
+SOUND,Sound Coin (SOUND),BNB
+NBOT,Naka Bodhi Token (NBOT),
+KEEP,Keep Network (KEEP),ETH
+CREED,Thecreed (CREED),
+ONOT,ONO (ONOT),
+DTOP,DTOP Token (DTOP),
+ZET2,Zeta2Coin (ZET2),
+MTXLT,Tixl (MTXLT),
+GBRC,GBR Coin (GBRC),
+VVI,VV Coin (VVI),
+OF,OFCOIN (OF),
+IBM.CUR,International Business Machines Corp (IBM.CUR),
+PAID,PAID Network (PAID),ETH
+CPCOIN,CPCoin (CPCOIN),
+NKA,IncaKoin (NKA),
+YOVI,YobitVirtualCoin (YOVI),
+METEOR,Meteorite Network (METEOR),ETH
+RNB,Rentible (RNB),ETH
+HUR,Hurify (HUR),
+TFX.CUR,Teleflex (TFX.CUR),
+GMR,Gimmer (GMR),
+MCV,MCV Token (MCV),
+EURT,Euro Tether (EURT),ETH
+WOOFY,Woofy (WOOFY),ETH
+XRPUP,XRPUP (XRPUP),
+EOS,EOS (EOS),
+AIDUS,AIDUS Token (AIDUS),ETH
+CHEESE,CHEESE (CHEESE),
+UNX,UNEOX (UNX),
+GREY,Grey Token (GREY),ETH
+COX,CobraCoin (COX),
+REAL,REAL (REAL),
+AEM.CUR,Agnico Eagle (AEM.CUR),
+LDO,Lido DAO (LDO),ETH
+TRW,Triwer (TRW),
+MBTX,MinedBlock (MBTX),
+MDA,Moeda (MDA),ETH
+SPEC,SpecCoin (SPEC),
+ETHPR,Ethereum Premium (ETHPR),
+MTEL,MEDoctor (MTEL),
+UPUSD,Universal US Dollar (UPUSD),
+JUP,Jupiter (JUP),
+GER,GermanCoin (GER),
+AUK,Aukcecoin (AUK),
+OM,MANTRA DAO (OM),ETH
+DOTUP,DOTUP (DOTUP),
+CC.CUR,Chemours (CC.CUR),
+SLINK,Soft Link (SLINK),
+MEX,MEX (MEX),ETH
+AMLT,AMLT (AMLT),
+XTZHEDGE,1X Short Tezos Token (XTZHEDGE),
+INXM,InMax (INXM),
+SOLARFARM,SolarFarm (SOLARFARM),
+TIE,Ties Network (TIE),
+WCS,Weecoins (WCS),
+LNK,Ethereum.Link (LNK),
+REME,REME-Coin (REME),
+SMG.CUR,The Scotts Miracle-Gro Company (SMG.CUR),
+SXPHALF,0.5X Long Swipe Token (SXPHALF),
+WEBC,Webchain (WEBC),
+AION,Aion (AION),
+XCI,Cannabis Industry Coin (XCI),
+PHORE,Phore (PHORE),
+RMPL,RMPL (RMPL),
+DSTR,Dynamic Supply Tracker (DSTR),ETH
+SPK,SparksPay (SPK),
+DALI,Dalichain (DALI),
+LCX,LCX (LCX),ETH
+NZD.CUR,New Zealand Dollar (NZD.CUR),
+CTE,Crypto Tron (CTE),
+ENCRYPG,EncrypGen (ENCRYPG),ETH
+CNHT,Tether CNH (CNHT),
+DDOS,disBalancer (DDOS),ETH
+MNG,Moon Nation Game (MNG),BNB
+CLDX,Cloverdex (CLDX),
+INRT,INRToken (INRT),
+ALTHEDGE,1X Short Altcoin Index Token (ALTHEDGE),
+GBT,GameBetCoin (GBT),
+SYS,SysCoin (SYS),
+ZPT,Zeepin (ZPT),
+GTR,Gturbo (GTR),
+CAD.CUR,Canadian Dollar (CAD.CUR),
+MINTYS,MintySwap (MINTYS),ETH
+KOBE,Shabu Shabu (KOBE),ETH
+MCF,MCFinance (MCF),ETH
+TIKI,Tiki Token (TIKI),BNB
+GRM,GridMaster (GRM),
+BMC,Blackmoon Crypto (BMC),
+XCAD,XCAD Network (XCAD),ETH
+SUPERC,SuperCoin (SUPERC),
+DFSOCIAL,DefiSocial (OLD) (DFSOCIAL),ETH
+PLC,PlusCoin (PLC),
+CYL,Crystal Token (CYL),
+UNICORN,UNICORN Token (UNICORN),ETH
+BKRW,Binance KRW (BKRW),
+DTH,Dether (DTH),
+IC,Ignition (IC),
+GMA,Goldchip Mining Asset (GMA),
+FLETA,FLETA (FLETA),ETH
+XRT,Robonomics Network (XRT),ETH
+GLOBE,Global (GLOBE),
+XPS,PoisonIvyCoin (XPS),
+ICPT.CUR,"Intercept Pharmaceuticals, Inc. (ICPT.CUR)",
+XDEF2,Xdef Finance (XDEF2),ETH
+LUNA,Terra (LUNA),
+EXCL,Exclusive Coin (EXCL),
+FJC,FujiCoin (FJC),
+DAFI,Dafi Protocol (DAFI),ETH
+OCTAX,OctaX (OCTAX),BNB
+SQUID,Squid Game (SQUID),BNB
+ITF,Intelligent Trading (ITF),
+SHL,Oyster Shell (SHL),
+CXCELL,CAPITAL X CELL (CXCELL),
+STING,Sting (STING),
+DNN,DNN Token (DNN),
+PETL,Petlife (PETL),
+BTLC,BitLuckCoin (BTLC),
+MSTR,MicroStrategy (MSTR),
+ERA,ETHA (ERA),
+SP35.CUR,Spain 35 (SP35.CUR),
+BLAS,BlakeStar (BLAS),
+VSP,Vesper Finance (VSP),ETH
+MNM,Mineum (MNM),
+XMCC,Monoeci (XMCC),
+TUR,Turron (TUR),
+NOA,NOA PLAY (NOA),
+SOLARDAO,Solar DAO (SOLARDAO),
+BTCC,Bitcoin Core (BTCC),
+LEOHEDGE,1X Short LEO Token (LEOHEDGE),
+UNDG,UniDexGas (UNDG),ETH
+TEK,TekCoin (TEK),
+OPEX,Optherium Token (OPEX),
+XFIT,Xfit (XFIT),ETH
+BSCGIRL,Binance Smart Chain Girl (BSCGIRL),BNB
+LAZ,Lazarus (LAZ),
+DAB,DABANKING (DAB),
+SHOKK,Shikokuaido (SHOKK),ETH
+LKR,Polkalokr (LKR),ETH
+HYPER,HyperCoin (HYPER),
+EVT,EveriToken (EVT),
+HVCO,High Voltage Coin (HVCO),
+UBIQ,Ubiqoin (UBIQ),
+LDN,Lydiancoin (LDN),
+ETH3S,Amun Ether 3x Daily Short (ETH3S),
+BITREWARDS,BitRewards (BITREWARDS),
+XAUTHEDGE,1X Short Tether Gold Token (XAUTHEDGE),
+FAI,Fairum (FAI),ETH
+ROOBEE,ROOBEE (ROOBEE),ETH
+ERSDL,UnFederalReserve (ERSDL),
+SKULL,Pirate Blocks (SKULL),
+OFCR,CryptoPolice (OFCR),
+BTCS,Bitcoin Scrypt (BTCS),
+PUSHI,Pushi (PUSHI),
+BIND,Compendia (BIND),
+FEVR,RealFevr (FEVR),BNB
+SDC,ShadowCash (SDC),
+RIDE,Ride My Car (RIDE),
+COINDEFI,Coin (COINDEFI),
+FF,Forefront (FF),ETH
+LSK,Lisk (LSK),
+WWB,Wowbit (WWB),
+POOLZ,Poolz Finance (POOLZ),ETH
+UMB,Umbrella Network (UMB),
+IDT,InvestDigital (IDT),ETH
+DGN,Diagon (DGN),
+BZUN.CUR,Baozun Inc. (BZUN.CUR),
+SUR,Suretly (SUR),ETH
+CHIPS,CHIPS (CHIPS),
+GEMG,GemGuardian (GEMG),BNB
+1COV.CUR,Covestro AG (1COV.CUR),
+HYPE,Hype (HYPE),ETH
+AIT,AIChain Token (AIT),
+H3O,Hydrominer (H3O),
+SQ,Square (SQ),
+RAPDOGE,RapDoge (RAPDOGE),ETH
+MEDI,MediBond (MEDI),
+FIELD,Fieldcoin (FIELD),
+DEEX,DEEX (DEEX),
+SRV,ServAdvisor (SRV),
+ARE,Aurei (ARE),
+LOWB,Loser Coin (LOWB),BNB
+MATIC,Polygon (MATIC),ETH
+ZB,ZB (ZB),ETH
+CHILD,ChildCoin (CHILD),
+2BACCO,2BACCO Coin (2BACCO),
+MVC,MileVerse (MVC),ETH
+BERRY,Rentberry (BERRY),
+MRS,Marginless (MRS),
+INNBC,Innovative Bioresearch Coin (INNBC),ETH
+THEX,Thore Exchange (THEX),ETH
+PLAT,Platinum (PLAT),
+MMT,Master MIX Token (MMT),
+TCAP,Total Crypto Market Cap (TCAP),ETH
+KDOGE,KingDoge (KDOGE),BNB
+BTCDOWN,BTCDOWN (BTCDOWN),
+WICC,WaykiChain (WICC),
+TRIO,Tripio (TRIO),ETH
+SAT2,Saturn2Coin (SAT2),
+ONEM.CUR,1Life Healthcare Inc (ONEM.CUR),
+KCS,KuCoin Token (KCS),ETH
+HTC,Hitcoin (HTC),
+YUM,Yumerium (YUM),
+RYZ,Anryze (RYZ),
+THETAHEDGE,1X Short Theta Network Token (THETAHEDGE),
+SETS,Sensitrust (SETS),
+BAS,Basis Share (BAS),
+NEXT,Next.exchange Token (NEXT),
+CFG,Centrifuge (CFG),
+ROBET,RoBet (ROBET),
+GDL,GodlyCoin (GDL),
+CWR,Cowrium (CWR),
+UEC,United Emirates Coin (UEC),ETH
+MFI,Marginswap (MFI),ETH
+GFI,Gravity Finance (GFI),MATIC
+REEF,Reef (REEF),ETH
+BESTC,BestChain (BESTC),
+PCM,Procom (PCM),
+PARLAY,Parlay (PARLAY),
+SHD,ShardingDAO (SHD),ETH
+RPUT,Robin8 Profile Utility Token (RPUT),
+VNX,VisionX (VNX),
+ETERNAL,CryptoMines Eternal (ETERNAL),BNB
+BMX,BitMart Coin (BMX),ETH
+XLMDOWN,XLMDOWN (XLMDOWN),
+NABOX,Nabox (NABOX),ETH
+JAR,Jarvis+ (JAR),ETH
+HBN,HoboNickels (HBN),
+SUP8EME,SUP8EME Token (SUP8EME),
+KCCPAD,KCCPad (KCCPAD),BNB
+MORE,More Coin (MORE),ETH
+GOOGL,Alphabet FTX (GOOGL),
+ZM,Zoom (ZM),
+MPXT,Myplacex (MPXT),
+MIDN,Midnight (MIDN),
+THNX,ThankYou (THNX),
+VRA,Verasity (VRA),ETH
+GERO,GeroWallet (GERO),ETH
+JMT,JMTIME (JMT),
+DUN,Dune (DUN),
+XTL,Stellite (XTL),
+BTV,Bitvote (BTV),
+OHM,Olympus (OHM),ETH
+XBN,Elastic BNB (XBN),BNB
+MINDCOIN,MindCoin (MINDCOIN),
+XYM,Symbol (XYM),
+VRM,Verium (VRM),
+REBL,REBL (REBL),
+MINA,Mina Protocol (MINA),
+UFO,UFO Gaming (UFO),ETH
+DGD,Digix DAO (DGD),ETH
+ORI,Origami (ORI),
+GEODB,GeoDB (GEODB),
+YSR,Ystar (YSR),
+ZLA,Zilla (ZLA),ETH
+POINTS,Cryptsy Points (POINTS),
+EDUC,EducoinV (EDUC),
+INFINI,Infinity Economics (INFINI),
+GME,GameStop (GME),
+UPT,Universal Protocol Token (UPT),ETH
+XDT,Dataeum (XDT),
+XDMC,MPCX (XDMC),
+LAYER,UniLayer (LAYER),ETH
+FIRU,Firulais Finance (FIRU),ETH
+OGZD.CUR,Gazprom PJSC ADR (OGZD.CUR),
+PI,PCHAIN (PI),
+MPG,Max Property Group (MPG),
+GLN,Galion Token (GLN),
+ARGON,Argon (ARGON),
+JOBS,JobsCoin (JOBS),
+PYT,Payther (PYT),
+DARC,Konstellation (DARC),
+AVAL,Avaluse (AVAL),ETH
+ERE,Erecoin (ERE),
+POK,Pokmonsters (POK),BNB
+SHIFT,Shift (SHIFT),
+1CR,1Credit (1CR),
+BSC,BowsCoin (BSC),
+J8T,JET8 (J8T),
+LIDER,Lider Token (LIDER),
+SYN,SynLev (SYN),
+LOCC,Low Orbit Crypto Cannon (LOCC),ETH
+AMY,Amygws (AMY),
+REA,Realisto (REA),
+ICOO,ICO OpenLedger (ICOO),
+BCF,BitcoinFast (BCF),
+CFun,CFun (CFun),
+DNOTES,Dnotes (DNOTES),
+DYNCOIN,Dyncoin (DYNCOIN),
+UFOC,Unknown Fair Object (UFOC),
+KWIK,KwikSwap (KWIK),ETH
+ADM,ADAMANT Messenger (ADM),
+SCRT,Secret (SCRT),
+HEDGE,Hedgecoin (HEDGE),
+Oil - Crude.CUR,Brent Crude Oil Spot (Oil - Crude.CUR),
+OOE,OpenOcean (OOE),BNB
+STRAY,Animal Token (STRAY),BNB
+LSD,LightSpeedCoin (LSD),
+LTZ,Litecoinz (LTZ),
+TENSHI,Tenshi (TENSHI),ETH
+RICECOIN,RiceCoin (RICECOIN),
+ABC,AB-Chain (ABC),
+THRT,ThriveToken (THRT),
+DAGT,Digital Asset Guarantee Token (DAGT),
+IBP,Innovation Blockchain Payment (IBP),
+NC,Nayuta Coin (NC),
+DBUY,Doont Buy (DBUY),ETH
+XAS,Asch (XAS),
+CRACK,CrackCoin (CRACK),
+VIC,Victorium (VIC),
+QTCON,Quiztok (QTCON),ETH
+DCR,Decred (DCR),
+WINGS,Wings DAO (WINGS),ETH
+OS76,OsmiumCoin (OS76),
+SPLA,SmartPlay (SPLA),
+KAAS,KAASY.AI (KAAS),
+AURORAC,Auroracoin (AURORAC),BNB
+ZYD,ZayedCoin (ZYD),
+STAX,Staxcoin (STAX),
+XCH,Chia (XCH),
+MED,Medibloc (MED),
+BTCGO,BitcoinGo (BTCGO),
+DVI,Dvision Network (DVI),
+RYC,RoyalCoin (RYC),
+CVAG,Crypto Village Accelerator CVAG (CVAG),ETH
+BAO,Bao Finance (BAO),ETH
+TARA,Taraxa (TARA),ETH
+ID,Everest (ID),ETH
+DINO,DinoSwap (DINO),MATIC
+ATB,ATB coin (ATB),
+CODY,Coindy (CODY),ETH
+UTL,Utile Network (UTL),
+XEC.CUR,Cimarex Energy (XEC.CUR),
+DATAWALLET,DataWallet (DATAWALLET),
+TENA,Tena (TENA),
+ETHDOWN,ETHDOWN (ETHDOWN),
+KNCHEDGE,1X Short Kyber Network Token (KNCHEDGE),
+NDX,Indexed Finance (NDX),ETH
+FEY,Feyorra (FEY),ETH
+EOX,EXTRA ORDINARY (EOX),
+DNXC,DinoX (DNXC),ETH
+SWAPZ,SWAPZ.app (SWAPZ),"BNB, TRX"
+SOW,Seed of World (SOW),
+STONK,STONK (STONK),
+UQC,Uquid Coin (UQC),ETH
+PLTX,PlutusX (PLTX),
+DFND,dFund (DFND),ETH
+LANC,Lanceria (LANC),BNB
+ARV,Ariva (ARV),BNB
+SSTC,SunShotCoin (SSTC),
+DKD,Dekado (DKD),
+BGG,BGG Token (BGG),ETH
+OMG,OMG Network (OMG),ETH
+WGP,W Green Pay (WGP),
+WBBC,Wibcoin (WBBC),ETH
+TRL,Triall (TRL),ETH|BNB
+BOAT,Doubloon (BOAT),
+3DES,3DES (3DES),
+NPLC,Plus Coin (NPLC),ETH
+DFSPORTS,Digital Fantasy Sports (DFSPORTS),
+MILK2,Spaceswap MILK2 (MILK2),ETH|BNB
+VNET.CUR,"21Vianet Group, Inc. (VNET.CUR)",
+PFL,Professional Fighters League Fan Token (PFL),
+BSTAR,Blackstar (BSTAR),
+XEP,Electra Protocol (XEP),
+XEN,XenixCoin (XEN),
+PX,PXcoin (PX),
+IFT,InvestFeed (IFT),
+BRICK,Brickchain FInance (BRICK),
+LQTY,Liquity (LQTY),ETH
+TBFT.BITCI,Turkiye Basketbol Federasyonu Token (TBFT.BITCI),BITCI
+BLOCM,BLOC.MONEY (BLOCM),
+IXC,IXcoin (IXC),
+CVNC,CovenCoin (CVNC),
+MHC,MetaHash (MHC),
+VTHO,VeChainThor (VTHO),VET
+BALBEAR,3X Short Balancer Token (BALBEAR),
+SIS,Symbiosis Finance (SIS),ETH
+WAIF,Waifu Token (WAIF),ETH
+HITBTC,HitBTC Token (HITBTC),ETH
+ACP,Anarchists Prime (ACP),
+STBZ,Stabilize (STBZ),
+AIN,AI Network (AIN),
+TSX,TradeStars (TSX),ETH; BNB
+LBK,LBK (LBK),
+LINKA,LINKA (LINKA),
+TCHB,Teachers Blockchain (TCHB),
+CSAI,Compound SAI (CSAI),
+FIVE.CUR,"Five Below, Inc. (FIVE.CUR)",
+ETHHEDGE,1X Short Ethereum Token (ETHHEDGE),
+POLC,Polka City (POLC),ETH
+ZOI,Zoin (ZOI),
+IMP,CoinIMP (IMP),
+VOCO,Provoco (VOCO),
+FLIXX,Flixxo (FLIXX),
+SIDT,SID Token (SIDT),
+DID,Didcoin (DID),TRX
+ARR,ARROUND (ARR),
+ROSE,Oasis Labs (ROSE),
+ZWAP,ZilSwap (ZWAP),
+COOP,Coop Network (COOP),ETH
+DDL,Donocle (DDL),
+PPI,Primpy (PPI),
+TXT,TuneTrade (TXT),
+WZEC,Wrapped Zcash (WZEC),
+XRED,X Real Estate Development (XRED),
+RYO,Ryo (RYO),
+STKXPRT,pSTAKE Staked XPRT (STKXPRT),ETH
+FUSE,Fuse Network Token (FUSE),ETH
+OPIUM,Opium (OPIUM),ETH
+ASTROLION,AstroLion (ASTROLION),ETH
+PRA,ProChain (PRA),
+CANDY,UnicornGo Candy (CANDY),
+VOLAIR,VolAir (VOLAIR),
+UIP,UnlimitedIP (UIP),
+VMC,VirtualMining Coin (VMC),
+VSL,vSlice (VSL),
+DCX,DeCEX (DCX),
+EMN,Eminence (EMN),
+TCORE,TornadoCORE (TCORE),ETH
+GST,GameStars (GST),ETH
+TFLEX,TrustedCars FLEX (TFLEX),
+TRCL,Treecle (TRCL),
+DANK,DarkKush (DANK),
+DBCCOIN,Datablockchain (DBCCOIN),
+MEM,Memecoin (MEM),ETH
+ADAB,Adab Solutions (ADAB),ETH
+FLOKI,Floki Inu (FLOKI),ETH
+GFCS,Global Funeral Care (GFCS),
+FORTUNE,Fortune (FORTUNE),
+REW,Review.Network (REW),
+CLVS.CUR,"Clovis Oncology, Inc. (CLVS.CUR)",
+VGT.CUR,Vanguard Information Technology ETF (VGT.CUR),
+GHOUL,Ghoul Coin (GHOUL),
+TELL,Tellurion (TELL),
+COMPHEDGE,1X Short Compound Token Token (COMPHEDGE),
+DEFLCT,Deflect (DEFLCT),
+IVY,IvyKoin (IVY),
+SEOS,Smart Eye Operating System (SEOS),
+RF,Raido Financial (RF),
+CAVA,Cavapoo (CAVA),ETH
+ORN,Orion Protocol (ORN),ETH
+CTR,Centra (CTR),
+DROP,Dropil (DROP),
+BOA,BOSAGORA (BOA),ETH
+IBNB,iBNB (IBNB),BNB
+ITA,Italocoin (ITA),
+BTRN,Biotron (BTRN),
+SSGT,Safeswap (SSGT),ETH
+OPTION,OptionCoin (OPTION),
+STAC,STAC (STAC),
+KMX,KiMex (KMX),
+MCP,My Crypto Play (MCP),ETH
+CXPAD,CoinxPad (CXPAD),BNB
+GNR,Gainer (GNR),
+EXRN,EXRNchain (EXRN),
+VFY,Verify Token (VFY),BNB
+VOOT,VootCoin (VOOT),
+DCB,Decubate (DCB),BNB
+PASS,Blockpass (PASS),
+IFX.CUR,Infineon Technologies AG (IFX.CUR),
+IGG,IG Gold (IGG),
+EXEL.CUR,"Exelixis, Inc. (EXEL.CUR)",
+TRVL,Travel Coin (TRVL),
+ONGAS,Ontology Gas (ONGAS),
+SNB,SynchroBitcoin (SNB),
+GTON,Graviton (GTON),
+OSTK.CUR,"Overstock.com, Inc. (OSTK.CUR)",
+BOLTT,BolttCoin (BOLTT),
+TAUC,Taurus Coin (TAUC),
+DAX,DAEX (DAX),
+VNXLU,VNX Exchange (VNXLU),
+TRUMPWIN,Trump Wins Token (TRUMPWIN),ETH
+GCN,gCn Coin (GCN),
+POS,PoSToken (POS),
+MYTV,MyTVchain (MYTV),
+IZI,IZIChain (IZI),
+ALTHALF,0.5X Long Altcoin Index Token (ALTHALF),
+BATH,Battle Hero (BATH),BNB
+GUP,Guppy (GUP),ETH
+PSY,Psilocybin (PSY),
+REPUX,Repux (REPUX),
+VRT,Venus Reward Token (VRT),BNB
+PIST,Pist Trust (PIST),ETH
+LQ8,Liquid8 (LQ8),
+EHRT,Eight Hours Token (EHRT),
+NEXXO,Nexxo (NEXXO),
+CGLD,Celo Gold (CGLD),
+XDQ,Dirac Coin (XDQ),
+CHIP,Chip (CHIP),
+BADGER,Badger DAO (BADGER),ETH
+HXT,HextraCoin (HXT),
+XPL,Exclusive Platform (XPL),
+OGSP,OriginSport (OGSP),ETH
+NFLX,Netflix FTX (NFLX),
+VTOS,VTOS (VTOS),
+BEER,BEER Coin (BEER),
+WCT,Waves Community Token (WCT),
+BALHALF,0.5X Long Balancer Token (BALHALF),
+ARTEON,Arteon (ARTEON),ETH
+KSP,KlaySwap Protocol (KSP),
+AMIS,AMIS (AMIS),
+AFTT,Africa Trading Chain (AFTT),
+UCT,UnitedCrowd (UCT),ETH
+SPE,SavePlanetEarth (SPE),BNB
+IHT,IHT Real Estate Protocol (IHT),ETH
+TERN,Ternio (TERN),XLM
+PAYP,PayPeer (PAYP),
+DERI,Deri Protocol (DERI),ETH
+STASH,BitStash (STASH),
+TTN,Titan Coin (TTN),
+BCB,BCB Blockchain (BCB),
+MOCHI,Mochiswap (MOCHI),BNB
+EOSDT,EOSDT (EOSDT),EOS
+HALLO,Halloween Coin (HALLO),
+KEP,Kepler (KEP),
+UTC,UltraCoin (UTC),
+BBBY.CUR,Bed Bath & Beyond Inc. (BBBY.CUR),
+NCASH,Nucleus Vision (NCASH),ETH
+LINK,Chainlink (LINK),ETH
+ESZ,EtherSportz (ESZ),
+SKYM,SkyMap (SKYM),
+HEDGESHIT,1X Short Shitcoin Index Token (HEDGESHIT),
+KSK.BITCI,Karsiyaka Taraftar Token (KSK.BITCI),BITCI
+OMGC,OmiseGO Classic (OMGC),
+TALAO,Talao (TALAO),
+XGM,Defis (XGM),
+OLXA,OLXA (OLXA),
+VAIOT,VAIOT (VAIOT),
+COLL,Collateral Pay (COLL),"ETH, BNB"
+XRBT,Xtribe (XRBT),
+TOL,Tolar (TOL),
+UDT,Unlock Protocol (UDT),ETH
+APAD,Anypad (APAD),BNB
+SUPER,SuperFarm (SUPER),ETH
+ETBS,EthBits (ETBS),
+SDA,SDChain (SDA),
+CYS,BlooCYS (CYS),
+PINU,Piccolo Inu (PINU),ETH
+RNT,OneRoot Network (RNT),ETH
+PASC,Pascal Coin (PASC),
+WAND,WandX (WAND),
+PPS,PopulStay (PPS),
+SGT,SharedStake Governance Token (SGT),ETH
+SHIB,Shiba Inu (SHIB),ETH
+BTCL,BTC Lite (BTCL),
+EFX,The Effect.ai (EFX),
+YTN,YENTEN (YTN),
+SOP,SoPay (SOP),
+MIDAS,Midas Dollar Share (MIDAS),
+CYT,Cryptokenz (CYT),
+LEPEN,LePenCoin (LEPEN),
+SOLO,Sologenic (SOLO),
+KMD,Komodo (KMD),
+YCE,MYCE (YCE),
+VDX,Vodi X (VDX),
+APN,Apron (APN),ETH
+PNL,True PNL (PNL),ETH
+ECT,SuperEdge (ECT),
+THUNDER,ThunderStake (THUNDER),
+USDCT,USDCT (USDCT),
+ALGOHEDGE,1X Short Algorand Token (ALGOHEDGE),
+JKS.CUR,"JinkoSolar Holding Co., Ltd. (JKS.CUR)",
+KMA,Calamari Network (KMA),
+QRVO.CUR,"Qorvo, Inc. (QRVO.CUR)",
+HGET,Hedget (HGET),ETH
+TRYBHEDGE,1X Short BiLira Token (TRYBHEDGE),
+MONAV,Monavale (MONAV),ETH
+CHY,Concern Poverty Chain (CHY),ETH
+GRX,Gold Reward Token (GRX),
+LHA.CUR,Deutsche Lufthansa AG (LHA.CUR),
+WHEN,WhenHub (WHEN),
+ORC,Orbit Chain (ORC),
+MOVR,Moonriver (MOVR),
+CTT,Castweet (CTT),
+TXL,Tixl (TXL),ETH
+BLAZR,BlazerCoin (BLAZR),
+NYX,NYXCOIN (NYX),
+ETI,EtherInc (ETI),
+GERA,Gera Coin (GERA),ETH
+KAC,KACO Finance (KAC),BNB
+DNFT,DareNFT (DNFT),BNB
+TCHTRX,ThoreCashTRX (TCHTRX),
+YFIDOWN,YFIDOWN (YFIDOWN),
+ORAI,Oraichain Token (ORAI),
+ESES.BITCI,Eskişehir Fan Tokens (ESES.BITCI),BITCI
+HNST,Honest (HNST),BNB
+SCH,SoccerHub (SCH),BNB
+SBR,Saber (SBR),SOL
+CAPP,Cappasity (CAPP),ETH
+BSOV,BitcoinSoV (BSOV),
+XPC,eXPerience Chain (XPC),
+YLDY,Yieldly (YLDY),ETH
+AMO,AMO Coin (AMO),ETH
+RFG,Refugees Token (RFG),BNB
+DINGER,Dinger Token (DINGER),ETH
+TFF,TheFaustFlick (TFF),
+NGC,NagaCoin (NGC),
+NEX,Nash Exchange (NEX),NEO
+TKT,Crypto Tickets (TKT),
+BRI,Baroin (BRI),ETH
+EVX,Everex (EVX),ETH
+EPS,Epanus (EPS),ETH
+ZOO,ZooCoin (ZOO),FTM
+VEIL,VEIL (VEIL),
+ULT,Ultiledger (ULT),ETH
+XTPL,TrustPlus (XTPL),
+CSPN,Crypto Sports (CSPN),
+AFO,AllForOneBusiness (AFO),
+B20,B20 (B20),ETH
+PIG,Pig Finance (PIG),BNB
+POT,PotCoin (POT),
+GMCN,GambleCoin (GMCN),
+MILC,MIcro Licensing Coin (MILC),
+REP,Augur (REP),ETH
+BRO,Bitradio (BRO),
+URP,Universal Reward Protocol (URP),
+WBB,Wild Beast Coin (WBB),
+XWC,WhiteCoin (XWC),
+PPC,PeerCoin (PPC),
+UBT,UniBright (UBT),ETH
+XMC,Monero Classic (XMC),
+GSR,GeyserCoin (GSR),
+DOCK,Dock.io (DOCK),ETH
+NIX,NIX (NIX),
+INFT,Infinito (INFT),ETH
+FLLW,Follow Coin (FLLW),
+VLD,Valid (VLD),
+HP,HeartBout Pay (HP),
+UNRC,UniversalRoyalCoin (UNRC),
+CAID,ClearAid (CAID),
+MERI,Merebel (MERI),
+SODA,SODA Coin (SODA),
+IOV,Starname (IOV),
+ODMC,ODMCoin (ODMC),
+FRD,Farad (FRD),
+EGLD,Elrond (EGLD),
+CO2,CO2 Token (CO2),
+BOK,Blockium (BOK),
+STREAM,STREAMIT COIN (STREAM),
+XGT,Xion Finance (XGT),
+CNNS,CNNS (CNNS),ETH
+CRPS,CryptoPennies (CRPS),
+BLNM,Bolenum (BLNM),
+JCT,Japan Content Token (JCT),
+URUS,Urus Token (URUS),ETH
+TRR,Terran Coin (TRR),ETH
+MSR,Masari (MSR),
+EUNO,EUNO (EUNO),
+STO,Save The Ocean (STO),
+BTS,Bitshares (BTS),
+BMG,Borneo (BMG),
+LYFT.CUR,LYFT (LYFT.CUR),
+STND,Standard Protocol (STND),ETH
+CXC,CheckCoin (CXC),
+QORA,QoraCoin (QORA),
+LAT,PlatON Network (LAT),
+BKING,King Arthur (BKING),ETH
+GGC,Global Game Coin (GGC),
+ELONONE,AstroElon (ELONONE),ETH
+SNTVT,Sentivate (SNTVT),ETH
+O3,O3 Swap (O3),ETH
+AAVEDOWN,AAVEDOWN (AAVEDOWN),
+SBSC,Subscriptio (SBSC),
+LCP,Litecoin Plus (LCP),
+GAIN,Gainfy (GAIN),
+AAA,AAA Reserve Currency (AAA),
+XCASH,X-CASH (XCASH),
+AZBI,AZBI CORE (AZBI),
+HTBEAR,3X Short Huobi Token Token (HTBEAR),
+FRTS,Fruits (FRTS),ETH
+DOGEGF,DogeGF (DOGEGF),ETH
+SLING,Sling Coin (SLING),
+DREAM,DREAM (DREAM),
+SRM,Serum (SRM),ETH
+URX,URANIUMX (URX),
+RACA,Radio Caca (RACA),BNB
+SECRT,SecretCoin (SECRT),
+EPIK,EPIK Token (EPIK),
+EZM,EZMarket (EZM),
+WTK,WadzPay Token (WTK),ETH
+AGM,Argoneum (AGM),
+APS,APRES (APS),
+SUSHIUP,SUSHIUP (SUSHIUP),
+HUNNY,Pancake Hunny (HUNNY),BNB
+AMP,Amp (AMP),ETH
+PENC,PenCoin (PENC),
+ABCC,ABCC Token (ABCC),
+LYFE,Lyfe (LYFE),
+TKMN,Tokemon (TKMN),ETH
+XLS,Elis (XLS),ETH
+CSS,CoinSwap Token (CSS),
+SND,Sandcoin (SND),
+MOBU,MOBU (MOBU),
+METER,Meter Stable (METER),
+ONT,Ontology (ONT),
+GSX,GlowShares (GSX),
+LEN,Liqnet (LEN),
+SHORTY,ShortyCoin (SHORTY),
+ILCT,ILCoin Token (ILCT),
+ACH,Alchemy Pay (ACH),ETH
+MMNXT,MMNXT (MMNXT),
+SAKATA,Sakata Inu (SAKATA),ETH
+SOON,SoonCoin (SOON),
+XTREME,ExtremeCoin (XTREME),
+DRGNHEDGE,1X Short Dragon Index Token (DRGNHEDGE),
+HILL,President Clinton (HILL),
+USAT,USAT (USAT),
+ZNA,Zenome (ZNA),
+SUN,Sun Token (SUN),TRX
+LCMS,LCMS (LCMS),ETH
+CMCX,CORE MultiChain (CMCX),ETH
+LIPS,LipChain (LIPS),
+MHLX,HelixNetwork (MHLX),
+THR,Thorecoin (THR),WAVES
+BTT,BitTorrent (BTT),TRX
+DOGEDASH,Doge Dash (DOGEDASH),BNB
+IZER,IZEROIUM (IZER),
+LMY,Lunch Money (LMY),ETH
+KNOW,KNOW (KNOW),
+PBR.CUR,Petroleo Brasileiro SA (PBR.CUR),
+XTZDOWN,Short Tezos with Up to 3x Leverage (XTZDOWN),
+ALIAS,Alias (ALIAS),
+CIN,CinderCoin (CIN),
+DRKT,DarkTron (DRKT),
+AGET,Agetron (AGET),
+IBETH,Interest Bearing ETH (IBETH),ETH
+GOLD,Golden Goose (GOLD),ETH
+SYL,XSL Labs (SYL),BNB
+UNFI,Unifi Protocol DAO (UNFI),ETH
+DS,DeStorage (DS),ETH
+CKC,Clockcoin (CKC),
+BITGOLD,bitGold (BITGOLD),
+SIC,Swisscoin (SIC),
+CCXC,CoolinDarkCoin (CCXC),
+UETL,Useless Eth Token Lite (UETL),
+CARDS,Cardstarter (CARDS),ETH
+$TREAM,World Stream Finance ($TREAM),BNB
+INCNT,Incent (INCNT),
+JOK,JokerCoin (JOK),
+MUE,MonetaryUnit (MUE),
+ZCR,ZCore (ZCR),
+BIHU,Key (BIHU),
+SCAP,SafeCapital (SCAP),
+XEC,eCash (XEC),
+ABJ,Abjcoin (ABJ),
+TAL,Talentico (TAL),
+TONTOKEN,TONToken (TONTOKEN),ETH
+ESS,Essentia (ESS),ETH
+X2,X2Coin (X2),
+YON,YondoCoin (YON),
+DARKEN,Dark Energy Crystals (DARKEN),
+BFLY,Butterfly Protocol (BFLY),ETH
+METAC,Metacoin (METAC),
+ALPHR,Alphr (ALPHR),ETH
+DAG,Constellation (DAG),
+MAPR,Maya Preferred 223 (MAPR),
+ATOMBEAR,3X Short Cosmos Token (ATOMBEAR),ETH
+FRSP,Forkspot (FRSP),
+CIM,COINCOME (CIM),
+XFYI,XCredit (XFYI),
+CSNO,BitDice (CSNO),
+ENQ,Enecuum (ENQ),
+ICST,ICST (ICST),
+GASG,Gasgains (GASG),ETH
+ZEPH,Zeph (ZEPH),
+MSWAP,MoneySwap (MSWAP),ETH
+PTN,PalletOneToken (PTN),
+GOLD.CUR,Gold Spot (Gold.CUR),
+PICA,PicaArtMoney (PICA),ETH
+WAB,WABnetwork (WAB),ETH
+XFC,Football Coin (XFC),
+ZXC,Oxcert (ZXC),ETH
+CLINT,Clinton (CLINT),
+FAIR,FairCoin (FAIR),
+808,808 (808),
+DUB,DubCoin (DUB),
+GBCR,Gold BCR (GBCR),
+REDI,REDi (REDI),ETH
+BAY,BitBay (BAY),
+EXAS.CUR,Exact Sciences Corporation (EXAS.CUR),
+XMON,XMON (XMON),ETH
+AGT,aGifttoken (AGT),
+TGCC,TheGCCcoin (TGCC),
+BGBP,Binance GBP Stable Coin (BGBP),
+VIT,Vision Industry Token (VIT),
+XLA,Scala (XLA),
+NYCREC,NYCREC (NYCREC),
+APP,Dappsy (APP),BNB
+FTUM,Fatum (FTUM),
+BRIX,OpenBrix (BRIX),
+TRV,TrustVerse (TRV),ETH
+POOL,PoolTogether (POOL),ETH
+RIF,RIF Token (RIF),RSK Network
+IDAC,IDAC (IDAC),
+MIR,Mirror Protocol (MIR),LUNA
+SPS,Splinterlands (SPS),BNB
+EBSC,EarlyBSC (EBSC),BNB
+ZEST,ZestCoin (ZEST),
+HBD,Hive Dollar (HBD),
+WIS,Experty Wisdom Token (WIS),ETH
+PASL,Pascal Lite (PASL),
+IPN.CUR,Ipsen (IPN.CUR),
+RRB,Renrenbit (RRB),
+LRG,Largo Coin (LRG),
+WHALE,WHALE (WHALE),ETH
+ALEPH,Aleph.im (ALEPH),"ETH,BNB,NEO,NULS"
+BRIC,BrightCoin (BRIC),
+MRPH,Morpheus Network (MRPH),ETH
+VME,TrueVett (VME),
+SCOP,Scopuly (SCOP),
+ELX,Energy Ledger (ELX),ETH
+WFIL,Wrapped Filecoin (WFIL),
+INFX,Influxcoin (INFX),
+MKRBEAR,3X Short Maker Token (MKRBEAR),
+LEVL,Levolution (LEVL),ETH
+GSTT,GSTT (GSTT),
+SMTY,Smoothy (SMTY),ETH
+SAMO,Samoyedcoin (SAMO),SOL
+BTTF,Coin to the Future (BTTF),
+MITH,Mithril (MITH),ETH
+BTZC,BeatzCoin (BTZC),
+CURA,Cura Network (CURA),
+KWS,Knight War Spirits (KWS),BNB
+ETH,Ethereum (ETH),
+PPR,Papyrus (PPR),
+YFXL,Yield Farming XL (YFXL),ETH
+PCI,PayProtocol Paycoin (PCI),
+CCN,CannaCoin (CCN),
+CBAT,Compound Basic Attention Token (CBAT),
+1SG,1SG (1SG),
+CANYA,CanYaCoin (CANYA),BNB
+DXCT,DNAxCAT (DXCT),BNB
+PEC,PeaceCoin (PEC),
+ASTO,Aston (ASTO),
+ASTR,Astral (ASTR),
+SHPING,Shping Coin (SHPING),
+ANV,Aniverse (ANV),ETH
+OGO,Origo (OGO),"mainnet,ETH"
+BRK,BreakoutCoin (BRK),
+SNS,Sense (SNS),
+BSVHEDGE,1X Short Bitcoin SV Token (BSVHEDGE),
+RED,RED (RED),ETH
+SWACH,Swachhcoin (SWACH),
+SMOKE,Smoke (SMOKE),
+CGS,Crypto Gladiator Shards (CGS),OKB
+ROUND,RoundCoin (ROUND),
+DEXTF,DEXTF (DEXTF),ETH
+SPKZ,Spokkz (SPKZ),
+MT,MyToken (MT),
+CNT,Centurion (CNT),
+ITU,iTrue (ITU),
+DGX,Digix Gold token (DGX),
+EL,ELYSIA (EL),
+GINUX,Green Shiba Inu (GINUX),BNB
+GEMZ,Gemz Social (GEMZ),
+HETH,Huobi Ethereum (HETH),
+DYDX,dYdX (DYDX),ETH
+ACT,Achain (ACT),
+CREV,CryptoRevolution (CREV),
+DOWS,Shadows (DOWS),ETH
+CESC,Crypto Escudo (CESC),
+FREC,Freyrchain (FREC),
+ARCT,ArbitrageCT (ARCT),
+DARX,Bitdaric (DARX),
+KRX,RAVN Korrax (KRX),
+CTX,Cryptex (CTX),ETH
+WSIENNA,Sienna ERC20 (WSIENNA),ETH
+RBIT,ReturnBit (RBIT),
+DPAY,DelightPay (DPAY),
+XDEFI,XDEFI (XDEFI),ETH
+CNN,Content Neutrality Network (CNN),ETH
+AUDC,Aussie Digital (AUDC),
+IDK,IDK (IDK),
+RENDOGE,renDOGE (RENDOGE),ETH
+GZE,GazeCoin (GZE),
+ISDT,ISTARDUST (ISDT),
+GTX,GALLACTIC (GTX),
+ISR,Insureum (ISR),ETH
+TIX,Blocktix (TIX),
+MAP,MAP Protocol (MAP),ETH
+XMR,Monero (XMR),
+BETA,Beta Finance (BETA),ETH
+UBQ,Ubiq (UBQ),
+OK,OKCash (OK),
+SPIN,SPIN Protocol (SPIN),
+SUB,Substratum Network (SUB),
+FTW,FutureWorks (FTW),
+COMP,Compound Governance Token (COMP),ETH
+WARP,WarpCoin (WARP),
+RATIO,Ratio (RATIO),
+BORED,Bored Museum (BORED),ETH
+DMOD,Demodyfi Token (DMOD),BNB
+TSF,Transaction Service Fee (TSF),
+BACON,BaconDAO (BACON) (BACON),BNB
+MOJO,Mojocoin (MOJO),
+SMAT,Smathium (SMAT),
+FLM,Flamingo (FLM),NEO
+MIDBULL,3X Long Midcap Index Token (MIDBULL),
+INVI,INVI Token (INVI),ETH
+ETE,EXTRADECOIN (ETE),
+DOGZ,Dogz (DOGZ),
+PIRATE,PirateCash (PIRATE),
+TOM,Tomahawkcoin (TOM),
+CCOMP,cCOMP (CCOMP),
+TGAME,TrueGame (TGAME),
+TRGI,The Real Golden Inu (TRGI),BNB
+INFLR,Inflr (INFLR),
+NEST,Nest Protocol (NEST),ETH
+AGLD,Adventure Gold (AGLD),ETH
+XLMBULL,3X Long Stellar Token (XLMBULL),ETH
+FCN,FantomCoin (FCN),
+RBC,Rubic (RBC),ETH
+GOOD,Goodomy (GOOD),
+RSIN,Roketsin (RSIN),
+OKBBULL,3X Long OKB Token (OKBBULL),
+CLOUT,BitClout (CLOUT),
+HERB,HerbCoin (HERB),
+FCQ,Fortem Capital (FCQ),
+VANT,Vanta Network (VANT),
+COSP,Cosplay Token (COSP),ETH
+888,Octocoin (888),
+STG,STAYGE (STG),
+BT1,Bitfinex Bitcoin Future (BT1),
+NOXB,Noxbox (NOXB),
+HTR,Hathor (HTR),
+ENV,ENVOY (ENV),BNB
+LYC,LycanCoin (LYC),
+TRK,TruckCoin (TRK),
+KSYS,K-Systems (KSYS),
+EBOX,Ethbox Token (EBOX),ETH
+XGR,GoldReserve (XGR),
+SILKT,SilkChain (SILKT),ETH
+NTS,Notarised (NTS),
+MARO,Maro (MARO),
+WOOP,Woonkly Power (WOOP),BNB
+FORTH,Ampleforth Governance Token (FORTH),ETH
+VIRAL,Viral Coin (VIRAL),
+SKRT,Skrilla Token (SKRT),
+GBK,Goldblock (GBK),
+BTC,Bitcoin (BTC),
+APC,AlpaCoin (APC),
+HVE,UHIVE (HVE),
+BUSDC,BUSD (BUSDC),
+FOL,Folder Protocol (FOL),ETH
+BBK,BitBlocks (BBK),
+VITAE,Vitae (VITAE),
+BIDCOM,Bidcommerce (BIDCOM),BNB
+ECO,Ormeus Ecosystem (ECO),"ETH, BNB"
+UENC,UniversalEnergyChain (UENC),
+FAME,Fame (FAME),
+ZCON,Zcon Protocol (ZCON),ETH
+ADS,Adshares (ADS),
+MDCL,Medicalchain (MDCL),ETH
+COVEROLD," Cover Protocol (old) (COVEROLD)",
+VOISE,Voise (VOISE),
+LB.CUR,L Brands (LB.CUR),
+ELP,Ellerium (ELP),
+EGEM,EtherGem (EGEM),
+FYZ,Fyooz (FYZ),ETH
+BORUTO,Boruto Inu (BORUTO),ETH
+XPOKE,PokeChain (XPOKE),
+WAI,Wanaka Farm WAIRERE Token (WAI),BNB
+AXR,AXRON (AXR),
+KTK,KryptCoin (KTK),
+VLTC,VaultCoin (VLTC),
+KING,KingSwap (KING),
+BITASEAN,BitAsean (BITASEAN),
+EXY,Experty (EXY),
+NZO,NonZero (NZO),
+BXA,Blockchain Exchange Alliance (BXA),
+PHTC,Photochain (PHTC),
+NOIZ,NOIZ (NOIZ),
+IOEX,ioeX (IOEX),
+MBOX,MOBOX (MBOX),BNB
+PND,PandaCoin (PND),
+VEG,BitVegan (VEG),
+NEOG,NEO Gold (NEOG),
+DEFIBULL,3X Long DeFi Index Token (DEFIBULL),
+WENLAMBO,Wenlambo (WENLAMBO),BNB
+RLY,Rally (RLY),ETH
+NXTI,NXTI (NXTI),
+BOLI,BolivarCoin (BOLI),
+BSGS,Basis Gold Share (BSGS),ETH
+BOLT,Bolt (BOLT),
+GLDS,Gdigit (GLDS),
+ASAFE2,Allsafe (ASAFE2),
+NPC,NPCcoin (NPC),
+SEQ,Sequence (SEQ),
+GEON,Geon (GEON),
+SLNV2,SLNV2 (SLNV2),
+RHEA,Rhea (RHEA),
+VZT,Vezt (VZT),
+LON,Tokenlon (LON),
+DODO,DODO (DODO),ETH
+ABL,Airbloc (ABL),ETH
+CREA,CreativeChain (CREA),
+BVC,BeaverCoin (BVC),
+DEFI,Defi (DEFI),
+RAZOR,Razor Network (RAZOR),
+$TIME,Madagascar Token (STIME),BNB
+YFIUP,YFIUP (YFIUP),
+EMOT,Sentigraph.io (EMOT),
+OMEGA,OMEGA (OMEGA),
+ECELL,Consensus Cell Network (ECELL),
+SXPHEDGE,1X Short Swipe Token (SXPHEDGE),
+BTCZ,BitcoinZ (BTCZ),
+XWT,World Trade Funds (XWT),
+JOYS,JOYS (JOYS),
+ZEFU,Zenfuse (ZEFU),
+TYPE,Typerium (TYPE),
+GTK,GoToken (GTK),ETH
+ZEROB,ZeroBank (ZEROB),
+GLDY,Buzzshow (GLDY),
+FXC,Flexacoin (FXC),
+ICOB,Icobid (ICOB),
+DIT,Ditcoin (DIT),
+EGO,EGOcoin (EGO),
+XSPC,SpectreSecurityCoin (XSPC),
+PSWAP,Polkaswap (PSWAP),ETH
+PNP,LogisticsX (PNP),
+INSURC,InsurChain Coin (INSURC),
+BCOIN,BannerCoin (BCOIN),
+VIVID,Vivid Coin (VIVID),
+DSD,Dynamic Set Dollar (DSD),
+TRO,Trodl (TRO),ETH
+CRON,Cryptocean (CRON),
+HLDY,HOLIDAY (HLDY),
+DMGBULL,3X Long DMM Governance Token (DMGBULL),
+POLAR,Polaris (POLAR),BNB
+KEI,Keisuke Inu (KEI),ETH
+SHIBMERICAN,Shibmerican (SHIBMERICAN),ETH
+WTT,Giga Watt (WTT),
+BLACK,eosBLACK (BLACK),
+SBA,simplyBrand (SBA),
+GDT,Globe Derivative Exchange (GDT),ETH
+KALYCOIN,KalyCoin (KALYCOIN),
+LEAG,LeagueDAO Governance Token (LEAG),ETH
+GPU,GPU Coin (GPU),
+CTW,Citowise (CTW),
+YEC,Ycash (YEC),
+XPST,PokerSports (XPST),
+HET,HavEther (HET),
+SLME,Slime Finance (SLME),
+YCBF,Yearn Coin Barter Finance (YCBF),
+ANY,Anyswap (ANY),
+ROS,ROS Coin (ROS),
+COTI,COTI (COTI),"Mainnet,BNB"
+URT,Universal Recognition Token (URT),
+XRUNE,Thorstarter (XRUNE),ETH
+WINT,WinToken (WINT),
+MIDHALF,0.5X Long Midcap Index Token (MIDHALF),
+DEC,Decentr (DEC),
+PIVX,Private Instant Verified Transaction (PIVX),
+LOCK,Contracto (LOCK),BNB
+XEL,Elastic (XEL),
+BCA,Bitcoin Atom (BCA),
+HRO,HEROIC.com (HRO),
+UDOO,Howdoo (UDOO),
+INFC,Influence Chain (INFC),
+MOONC,MoonCoin (MOONC),
+AMA,MrWeb (AMA),
+CSTL,Castle (CSTL),
+AXE,Axe (AXE),
+DMLG,Demole (DMLG),BNB
+UUU,U Network (UUU),ETH
+PTA,PentaCoin (PTA),
+EXP,Expanse (EXP),
+BECH,Beauty Chain (BECH),
+XBANK,Bancryp (XBANK),
+MYOBU,Myōbu (MYOBU),ETH
+ICOS,ICOBox (ICOS),ETH
+BWT,Bittwatt (BWT),
+FORK,Gastro Advisor Token (FORK),
+CARR,Carnomaly (CARR),ETH
+DOGEBULL,3X Long Dogecoin Token (DOGEBULL),
+ROPE,Rope Token (ROPE),
+AIMS,HighCastle Token (AIMS),
+APXT,ApolloX (APXT),
+CC10,Cryptocurrency Top 10 Tokens Index (CC10),ETH
+VRC,VeriCoin (VRC),
+IAG,IAGON (IAG),
+ERB,ERBCoin (ERB),
+HONEY,Honey (HONEY),
+CCE,CloudCoin (CCE),
+NIFSTY,NIFSTY (NIFSTY),ETH
+ETBT,Ethereum Black (ETBT),
+UHP,Ulgen Hash Power (UHP),
+TRYB,BiLira (TRYB),ETH
+JUV,Juventus Fan Token (JUV),
+DVF,DVF (DVF),ETH
+MARXCOIN,MarxCoin (MARXCOIN),
+CFI,Cofound.it (CFI),
+CRDS,Credits (CRDS),
+K21,K21 (K21),ETH
+TOPC,Topchain (TOPC),ETH
+UP,UpToken (UP),
+LUCKYB,LuckyBlocks (LUCKYB),
+GFT,Giftcoin (GFT),
+BFT,BF Token (BFT),ETH
+WDR,Wider Coin (WDR),TRX
+BCAP,Blockchain Capital (BCAP),
+MNX,MinexCoin (MNX),
+PRX,Printerium (PRX),
+BNS,BNS token (BNS),ETH
+IMU,imusify (IMU),
+OCTO,OctoFi (OCTO),ETH
+WCFG,Wrapped Centrifuge (WCFG),ETH
+BTRM,Betrium Token (BTRM),
+AXL,AXiaL (AXL),
+NOAH,NOAHCOIN (NOAH),
+TRIGID,TrigID (TRIGID),
+MINE,Instamine Nuggets (MINE),
+MIDHEDGE,1X Short Midcap Index Token (MIDHEDGE),
+NODE,Whole Network (NODE),ETH
+YAYCOIN,YAYcoin (YAYCOIN),
+1WO,1World (1WO),ETH
+ETHBEAR,3X Short Ethereum Token (ETHBEAR),ETH
+KIRBY,Kirby Inu (KIRBY),ETH
+DOGEX,DogeHouse Capital (DOGEX),BNB
+DLR,DollarOnline (DLR),
+USDQ,USDQ (USDQ),
+LYXE,LUKSO (LYXE),ETH
+BTMI,BitMiles (BTMI),
+URBC,UrbanCasH (URBC),
+EC,Echoin (EC),
+SWINGBY,Swingby (SWINGBY),BNB
+SHIELDNET,Shield Network (SHIELDNET),BNB
+AC,Asia Coin (AC),
+KIM,King Money (KIM),
+RWS,Robonomics Web Services (RWS),
+BURP,CoinBurp (BURP),ETH
+WAN,Wanchain (WAN),
+BIPC,BipCoin (BIPC),
+DESI,Desico (DESI),
+MAG,Magnet (MAG),
+GEP,Gaia (GEP),
+CFLASH,Flash (CFLASH),
+ZET,ZetaCoin (ZET),
+IND,Indorse (IND),
+NAV,NavCoin (NAV),
+CSM,Consentium (CSM),ETH
+MEDIC,MedicCoin (MEDIC),
+POLS,Polkastarter (POLS),ETH
+TCOIN,Talenthon (TCOIN),
+BONK,BONK Token (BONK),ETH
+TROLL,Trollcoin (TROLL),
+NFLX.CUR,Netflix (NFLX.CUR),
+DTA,Data (DTA),ETH
+MTH,Monetha (MTH),ETH
+BITOK,BitOKX (BITOK),
+R.CUR,Ryder System (R.R.CUR),
+EMAX,EthereumMax (EMAX),ETH
+SDN,Shiden Network (SDN),
+RICKMORTY,Rick And Morty (RICKMORTY),ETH
+AVA,Travala (AVA),BNB
+YELP.CUR,Yelp (YELP.CUR),
+KCH,Keep Calm and Hodl (KCH),ETH
+GOA,GoaCoin (GOA),
+LIB,Libellum (LIB),
+VXV,Vectorspace AI (VXV),
+MMC,MemoryCoin (MMC),
+FRWC,Frankywillcoin (FRWC),
+WOMEN,WomenCoin (WOMEN),
+NVOY,Envoy (NVOY),
+MARSRISE,MarsRise (MARSRISE),BNB
+ESW,eSwitch® (ESW),
+AXC,AXIA Coin (AXC),ETH
+IMG,ImageCoin (IMG),
+WLUNA,Wrapped LUNA Token (WLUNA),ETH
+RAMP,RAMP (RAMP),
+ETL,EtherLite (ETL),
+FLUX,Flux (FLUX),
+DSB,DarkShibe (DSB),
+EQM,Equilibrium Coin (EQM),
+AGN.CUR,Allergan (AGN.CUR),
+ON,OFIN Token (ON),
+KSHIB,Kaiken Shiba (KSHIB),BNB
+CCOS,CrowdCoinage (CCOS),
+NRM,Neuromachine (NRM),
+DUCATO,Ducato Protocol Token (DUCATO),
+NEO,NEO (NEO),
+ETHB,EtherBTC (ETHB),
+REDC,RedCab (REDC),
+SNL,Sport and Leisure (SNL),ETH
+PREMIA,Premia (PREMIA),ETH
+COVAL,Circuits of Value (COVAL),ETH
+MNRB,MoneyRebel (MNRB),
+VC,Vecap (VC),
+ZAPP,Zappermint (ZAPP),
+ACCO,Accolade (ACCO),
+PAR,Parachute (PAR),
+PRE,Presearch (PRE),ETH
+DOGIRA,Dogira (DOGIRA),ETH
+HEART,Humans (HEART),
+MNST,MoonStarter (MNST),BNB
+LOG,Wood Coin (LOG),
+FINA,FinanceX (FINA),
+DAIN,Dain Token (DAIN),ETH
+ZNE,ZoneCoin (ZNE),
+AMUN.CUR,Amundi (AMUN.CUR),
+USDAP,Bond Appetite USD (USDAP),ETH
+ORGT,Organic Token (ORGT),
+CB,COINBIG (CB),
+PIN,Pin (PIN),"ETH,BNB"
+ROX,Robotina (ROX),
+DZCC,DZCC (DZCC),
+XWIN,xWIN Finance (XWIN),BNB
+365,365Coin (365),
+WCOIN,WCoin (WCOIN),
+RET,RealTract (RET),
+RBUNNY,Rocket Bunny (RBUNNY),ETH
+LTBC,LTBCoin (LTBC),
+ATOM,Cosmos (ATOM),
+AUA,ArubaCoin (AUA),
+WORK,Aworker (WORK),
+AERGO,AERGO (AERGO),ETH
+HUSD,HUSD (HUSD),
+SATT,SaTT (SATT),
+AUROS,AurusGOLD (AWG),
+FLYCOIN,FlyCoin (FLYCOIN),
+MBCC,Blockchain-Based Distributed Super Computing Platform (MBCC),
+ADS.CUR,Adidas AG (ADS.CUR),
+PRQ,PARSIQ (PRQ),"ETH,BNB"
+AIDT,AIDUS TOKEN (AIDT),
+EOSUP,EOSUP (EOSUP),
+KVT,Kinesis Velocity Token (KVT),
+YANU,Yanu (YANU),
+MART,Monart (MART),
+PMNT,Paymon (PMNT),
+XAUTBULL,3X Long Tether Gold Token (XAUTBULL),
+EUM,Elitium (EUM),ETH
+SOBA,SOBA Token (SOBA),ETH
+AEGIS,Aegis (AEGIS),
+CHF.CUR,Swiss Franc (CHF.CUR),
+PGF7T,PGF500 (PGF7T),
+EXCHHALF,0.5X Long Exchange Token Index Token (EXCHHALF),
+N0031,nYFI (N0031),
+GET,Guaranteed Entrance Token (GET),ETH
+F9,Falcon Nine (F9),ETH
+BITG,Bitcoin Green (BITG),
+AMBT,AMBT Token (AMBT),
+BBCT,TraDove B2BCoin (BBCT),
+ABYSS,Abyss Finance (ABYSS),ETH
+FAIRG,FairGame (FAIRG),ETH
+TVK,Terra Virtua Kolect (TVK),ETH
+XTZBULL,3X Long TezosToken (XTZBULL),ETH
+XRPHALF,0.5X Long XRP Token (XRPHALF),
+WAVES,Waves (WAVES),
+CRDNC,Credence Coin (CRDNC),
+AER,Aeryus (AER),
+BSP,BallSwap (BSP),ETH
+MLA,Moola (MLA),
+UNIQ,Uniqredit (UNIQ),
+THO,Athero (THO),
+HQT,HyperQuant (HQT),
+CHZ,Chiliz (CHZ),"ETH,BNB"
+XLMBEAR,3X Short Stellar Token (XLMBEAR),ETH
+STRAX,Stratis (STRAX),
+SLS,SaluS (SLS),
+SGDX,eToro Singapore Dollar (SGDX),
+HCA.CUR,HCA Healthcare (HCA.CUR),
+MRVL.CUR,Marvell Technology Group Ltd. (MRVL.CUR),
+MERKLE,Merkle Network (MERKLE),BNB
+SRN,SirinLabs (SRN),ETH
+FRST,FirstCoin (FRST),
+NNC,NEO Name Credit (NNC),
+MIB,Mobile Integrated Blockchain (MIB),
+TCJ,Coinshare (TCJ),
+FASTMOON,FastMoon (FASTMOON),BNB
+VNT,VNT Chain (VNT),ETH
+SOUL,Phantasma (SOUL),"Mainnet,NEO,ETH"
+BNN,Banyan Network (BNN),
+ETALON,Etalon (ETALON),
+IOWN,iOWN Token (IOWN),ETH
+F2K,Farm2Kitchen (F2K),
+NRP,Neural Protocol (NRP),
+CTPT,Contents Protocol (CTPT),
+MERCURY,Mercury (MERCURY),
+ROC,Rasputin Online Coin (ROC),
+BITRUE,Bitrue Coin (BITRUE),
+KIMCHI,KIMCHI.finance (KIMCHI),
+BTDX,Bitcloud 2.0 (BTDX),
+POKER,PokerCoin (POKER),
+PRG,Paragon (PRG),
+SINX,SINX Token (SINX),
+MOOV,dotmoovs (MOOV),ETH
+EMD,Emerald (EMD),
+UNAT,Unattanium (UNAT),
+BONIX,Blockonix (BONIX),
+BRZE,Breezecoin (BRZE),
+POST,InterPlanetary Search Engine (POST),
+HH,Holyheld (HH),ETH
+PRIME,PrimeChain (PRIME),
+MEGA,MegaFlash (MEGA),
+TOSS,PROOF OF TOSS (TOSS),
+DMGBEAR,3X Short DMM Governance Token (DMGBEAR),
+ARNX,Aeron (ARNX),ETH
+GUN,GunCoin (GUN),
+YGG,Yield Guild Games (YGG),ETH
+LIT,Litentry (LIT),ETH
+KRC,KRCoin (KRC),
+DAOB,DAOBet (DAOB),
+KYL,Kylin Network (KYL),ETH
+TOKAU,Tokyo AU (TOKAU),BNB
+RBIS,ArbiSmart (RBIS),ETH
+RIL,Rilcoin (RIL),
+BRDD,BeardDollars (BRDD),
+STARC,StarChain (STARC),
+BICO,Biconomy (BICO),ETH
+XRPBULL,3X Long XRP Token (XRPBULL),ETH
+RMT,SureRemit (RMT),XLM
+ADAHALF,0.5X Long Cardano Token (ADAHALF),
+MRNA,Moderna (MRNA),
+PERMIAN,Permian (PERMIAN),
+ALUX,Alux Bank (ALUX),
+VALID,Validator Token (VALID),
+METACAT,MetaCat (METACAT),ETH
+EB3,EB3coin (EB3),
+RKC,Royal Kingdom Coin (RKC),
+AVALON,Avalon (AVALON),
+SCP,ScPrime (SCP),
+AGI,SingularityNET (AGIX),ETH
+PLATC,PlatinCoin (PLATC),
+TOMOHEDGE,1X Short TomoChain Token (TOMOHEDGE),
+MNR,Mineral (MNR),TRX
+UNIC,Unicly (UNIC),"ETH,MATIC"
+NAS,Nebulas (NAS),
+SXPBEAR,3X Short Swipe Token (SXPBEAR),
+FNX,FinNexus (FNX),"ETH,WAN"
+BEAN,BeanCash (BEAN),
+WDX,WeiDex (WDX),
+HBE,healthbank (HBE),
+BCNX,BCNEX (BCNX),
+CPB.CUR,Campbell Soup (CPB.CUR),
+INSUR,InsurAce (INSUR),ETH
+XC,X11 Coin (XC),
+MPT,Media Protocol Token (MPT),
+XPTX,PlatinumBAR (XPTX),
+IHF,Invictus Hyperion Fund (IHF),
+IFX,IdeaFeX (IFX),
+LT,Loctite Assets Token (LT),
+MISCOIN,MIScoin (MISCOIN),
+IRON,Iron BSC (IRON),BNB
+BELA,Bela (BELA),
+KED,Klingon Empire Darsek (KED),
+ETP,Metaverse (ETP),
+FLO,Flo (FLO),
+ROOK,KeeperDAO (ROOK),ETH
+HSC,HashCoin (HSC),ETH
+LKY,LuckyCoin (LKY),
+LK,Liker (LK),
+EFI,Efinity (EFI),ETH
+DARK,Dark (DARK),
+WOM,WOM (WOM),ETH
+BSE,BitSerial (BSE),
+ONEX,ONE TECH (ONEX),
+NBAR,NOBAR (NBAR),
+TAI,tBridge Token (TAI),
+CLN,Colu Local Network (CLN),
+AXIS,Axis DeFi (AXIS),
+CHIHUA,Chihua Token (CHIHUA),ETH
+SWING,SwingCoin (SWING),
+EQUAL,EqualCoin (EQUAL),
+IDH,IndaHash (IDH),
+LIF,Winding Tree (LIF),
+DAMO,Coinzen (DAMO),
+HOKK,Hokkaidu Inu (HOKK),ETH
+BIP,Minter (BIP),
+1INCH,1inch (1INCH),ETH
+BS,BlackShadowCoin (BS),
+HRB,Harbour DAO (HRB),
+ECC,Etherconnect (ECC),BNB
+MEC,MegaCoin (MEC),
+PPN,Puppies Network (PPN),ETH
+BZRX,bZx (BZRX),ETH
+CNO,Coino (CNO),
+DEVX,Developeo (DEVX),
+SLT,Social Lending Network (SLT),
+TMN,TranslateMe (TMN),
+JOB,Jobchain (JOB),ETH
+TOMOBEAR,3X Short TomoChain Token (TOMOBEAR),
+BENJACOIN,Benjacoin (BENJACOIN),
+DEM,eMark (DEM),
+TRAK,TrakInvest (TRAK),
+BRNX,Bronix (BRNX),
+NDA.CUR,Aurubis AG (NDA.CUR),
+ELE,Elementrem (ELE),
+IMGZ,Imigize (IMGZ),
+DDOG.CUR,Datadog Inc (DDOG.CUR),
+RDN,Raiden Network Token (RDN),ETH
+FMEX,FMex (FMEX),
+SISHI,Sishi Finance (SISHI),BNB
+JIO,JIO Token (JIO),
+GSE,GSENetwork (GSE),
+EBIT,eBit (EBIT),
+LGOT,LGO Token (LGOT),
+KWD,KIWI DEFI (KWD),
+CFF,Coffe (CFF),
+BASH,LuckChain (BASH),
+REDCO,Redcoin (REDCO),
+CRWNY,Crowny Token (CRWNY),ETH
+LN,LINK (LN),
+SPA,Sperax (SPA),ETH
+LCK,Luckbox (LCK),
+WU,WULET (WU),
+ISG,ISG (ISG),
+OROX,Cointorox (OROX),
+SIGU,Singular (SIGU),
+HALO,Halo Platform (HALO),
+ETHS,EthereumScrypt (ETHS),
+HEAL,Etheal (HEAL),
+XOS,Excalibur OS (XOS),
+DFXT,DigiFinexToken (DFXT),
+DAOVC,DAO.VC (DAOVC),
+CRYPTOE,Cryptoenter (CRYPTOE),
+PLAYC,PlayChip (PLAYC),
+KNW,Knowledge (KNW),
+GETX,Guaranteed Ethurance Token Extra (GETX),
+WON,WeBlock (WON),
+COINVEST,Coinvest (COINVEST),
+AUC,Auctus (AUC),ETH
+EMPH,Emphy (EMPH),
+PBYI.CUR,"Puma Biotechnology, Inc. (PBYI.CUR)",
+YAMV2,YAM v2 (YAMV2),ETH
+MGGT,Maggie Token (MGGT),
+IDHUB,IDHUB (IDHUB),
+YVS,YVS.Finance (YVS),ETH
+YVBOOST,Yearn Compounding veCRV yVault (YVBOOST),ETH
+CHIWAWA,Chiwawa (CHIWAWA),
+APW,APWine (APW),ETH
+PAPADOGE,Papa Doge (PAPADOGE),BNB
+SAFEMARS,Safemars (SAFEMARS),BNB
+TRCT,Tracto (TRCT),
+CRT,Carr.Finance (CRT),
+WANATHA,Wrapped ANATHA (WANATHA),ETH
+PJM,Pajama.Finance (PJM),
+COMPBEAR,3X Short Compound Token Token (COMPBEAR),
+WORLD,World Token (WORLD),ETH
+DOOR,DOOR (DOOR),ETH
+GREARN,GrEarn (GREARN),ETH
+AVH,Animation Vision Cash (AVH),
+DAM,Datamine (DAM),ETH
+MGM.CUR,MGM Resorts International (MGM.CUR),
+FRONT,Frontier (FRONT),ETH
+AUT,Autoria (AUT),
+ALTCOM,AltCommunity Coin (ALTCOM),
+YACHTCO,Yachtco (YACHTCO),
+CROAT,Croat (CROAT),
+8BIT,8BIT Coin (8BIT),
+MONETA,Moneta (MONETA),
+3XD,3DChain (3XD),
+AREN,Arenon (AREN),
+QUICK,Quickswap (QUICK),ETH
+USE,Usechain Token (USE),
+KP4R,Keep4r (KP4R),
+FOPA,Fopacoin (FOPA),
+IDTT,Identity (IDTT),ETH
+MIT,MiMiner (MIT),
+CCI,Cyber Capital Invest (CCI),
+CPI,Crypto Price Index (CPI),
+SQL,Squall Coin (SQL),
+DPP,Digital Assets Power Play (DPP),
+GLS,Golos Blockchain (GLS),
+ATR,Ather (ATR),
+BZZONE,Bzzone (BZZONE),BNB
+SSS,ShareChain (SSS),
+HWC,HollyWoodCoin (HWC),
+FOXT,Fox Trading (FOXT),
+PKT,Playkey (PKT),
+SOJ,Sojourn Coin (SOJ),
+ARCA,Arca (ARCA),ETH
+FEED,Feeder Finance (FEED),BNB
+BEN,BitCOEN (BEN),
+FAZZ,FazzCoin (FAZZ),
+ATLAS,Star Atlas (ATLAS),
+DAPS,DAPS Coin (DAPS),
+BLOCKSTAMP,BlockStamp (BLOCKSTAMP),
+IBEUR,Iron Bank EURO (IBEUR),
+SIMPLE,SimpleChain (SIMPLE),
+GENE,Genopets (GENE),SOL|BNB
+XG,XG Sports (XG),
+BLANK,Blank Token (BLANK),
+SWPRL,Swaprol (SWPRL),ETH
+ELM,Elements Play (ELM),BNB
+DPY,Delphy (DPY),ETH
+ANTS,ANTS Reloaded (ANTS),
+BTCHG,1X Short Bitcoin Token (BTCHG),
+WAXP,Worldwide Asset eXchange (WAXP),
+SRX,StorX (SRX),XDC
+TWEE,TWEEBAA (TWEE),
+CTF,CyberTime Finance (CTF),
+CTSI,Cartesi (CTSI),ETH
+BULLC,BuySell (BULLC),
+TES,TeslaCoin (TES),
+BWF,Beowulf (BWF),ETH
+AFC,Apiary Fund Coin (AFC),
+GODS,Gods Unchained (GODS),ETH
+EREAL,eREAL (EREAL),
+MA.CUR,Mastercard Inc (MA.CUR),
+IGI,Igi (IGI),
+EZ,EasyFi V2 (EZ),ETH
+MESG,MESG (MESG),
+PMEER,Qitmeer (PMEER),
+CMERGE,CoinMerge (CMERGE),ETH
+ANT,Aragon (ANT),ETH
+BTCN,BitcoiNote (BTCN),
+EFL,E-Gulden (EFL),
+HLPT,HLP Token (HLPT),
+BONUSCAKE,Bonus Cake (BONUSCAKE),BNB
+XID,Sphre AIR (XID),
+TCP,The Crypto Prophecies (TCP),ETH
+FB,Fenerbahçe Token (FB),ETH
+QBT,Cubits (QBT),
+AOA,Aurora (AOA),ETH
+XNA,DeOxyRibose (XNA),
+SPLB,SimpleBank (SPLB),
+LNKC,Linker Coin (LNKC),
+GOLOS,Golos (GOLOS),
+ZP,Zen Protocol (ZP),
+BRZ,Brazilian Digital Token (BRZ),ETH
+HNZO,Hanzo Inu (HNZO),ETH
+HLM,Helium (HLM),
+PIE,Persistent Information Exchange (PIE),
+WMK,Wemark (WMK),
+TOSC,T.OS (TOSC),
+WELD,Weld (WELD),"ETH,BNB"
+BIOC,BioCrypt (BIOC),
+STAKE,xDai Chain (STAKE),ETH
+MARS,MarsCoin (MARS),
+KTON,Darwinia Commitment Token (KTON),ETH
+ESP,Espers (ESP),
+ZCC1,ZeroCarbon (ZCC1),
+NEWS,NewsTokens (NEWS),ETH
+CLUB,ClubCoin (CLUB),
+GVE,Globalvillage Ecosystem (GVE),
+TAT,Tatcoin (TAT),
+UBA,Unbox.Art (UBA),
+BIOT,Bio Passport (BIOT),
+HYN,Hyperion (HYN),ETH
+DTB,Databits (DTB),
+ANGEL,Crypto Angel (ANGEL),
+DIVI,Divi Project (DIVI),
+B26,B26 Finance (B26),ETH
+UTK,Utrust (UTK),ETH
+ZAP,Zap (ZAP),ETH
+XP,Experience Points (XP),
+UT,Ulord (UT),
+SYM,SymVerse (SYM),
+AUDIO,Audius (AUDIO),ETH
+BANK,Float Protocol (BANK),ETH
+BUILDIN,Buildin Token (BUILDIN),
+ATH,AetherV2 (ATH),BNB
+BTK,Bostoken (BTK),
+VRN,Vernam (VRN),
+HFT,Hirefreehands (HFT),
+AZART,Azart (AZART),
+CSNP,CrowdSale Network (CSNP),
+SXPDOWN,SXPDOWN (SXPDOWN),
+FOREVERPUMP,Forever Pump (FOREVERPUMP),BNB
+XPH,PharmaCoin (XPH),
+BITZ,Bitz Coin (BITZ),
+XLV.CUR,Health Care Select Sector SPDR Fund (XLV.CUR),
+WPR,WePower (WPR),ETH
+CMS,COMSA (CMS),
+7E,7ELEVEN (7E),
+MILK,Milkshake Swap (MILK),BNB
+XTM,TORUM (XTM),
+BCHHALF,0.5X Long Bitcoin Cash Token (BCHHALF),
+TRXHALF,0.5X Long TRX Token (TRXHALF),
+NZL,Zealium (NZL),
+ARBT,ARBITRAGE (ARBT),
+WP,White Pigeon (WP),
+KOL,Kollect (KOL),ETH
+MWAT,RED MegaWatt (MWAT),ETH
+DOCC,Doc Coin (DOCC),
+SASHIMI,Sashimi (SASHIMI),ETH
+VIDYX,VidyX (VIDYX),TRX
+RFR,Refereum (RFR),ETH
+DYNMT,Dynamite (DYNMT),
+BMH,BlockMesh (BMH),
+PTO,Patentico (PTO),
+BOSE,Bitbose (BOSE),
+WXDAI,Wrapped XDAI (WXDAI),
+SETH2,sETH2 (SETH2),ETH
+FOREVERUP,ForeverUp (FOREVERUP),ETH
+PARANOIA,ParanoiaCoin (PARANOIA),
+BBCC,BaseballCardCoin (BBCC),
+PXG,PlayGame (PXG),
+INNOU,Innou (INNOU),
+WASH,WashingtonCoin (WASH),
+CRGO,CargoCoin (CRGO),
+CYC,Cyclone Protocol (CYC),
+FCL,Fractal (FCL),
+MX,MX Token (MX),ETH
+OCFT.CUR,OneConnect (OCFT.CUR),
+XLAB,Xceltoken Plus (XLAB),
+RMESH,RightMesh (RMESH),
+ENC,Encores Token (ENC),
+DVP,Decentralized Vulnerability Platform (DVP),ETH
+LTD,Limited Coin (LTD),
+OSA,OSA Token (OSA),
+INUYASHA,Inuyasha (INUYASHA),ETH
+EMIGR,EmiratesGoldCoin (EMIGR),
+BYN,Beyond Finance (BYN),ETH
+NLC,NoLimitCoin (NLC),
+SCB,Space Cow Boy (SCB),BNB
+BTCAS,BitcoinAsia (BTCAS),
+NFTI,NFT Index (NFTI),ETH
+CMCT,Crowd Machine (CMCT),
+AEVO,Always Evolving (AEVO),
+XETH,Xplosive Ethereum (XETH),
+NVDA.CUR,NVIDIA (NVDA.CUR),
+SOL,Solana (SOL),
+VTA,VirtaCoin (VTA),
+VENA,Vena Network (VENA),
+UBER,Uber (UBER),
+DDN,Den Domains (DDN),BNB
+ETHV,Ethverse (ETHV),ETH
+NIC,NewInvestCoin (NIC),
+VEDX,VEDX TOKEN (VEDX),
+ARTH,ARTH (ARTH),ETH
+GAFI,GameFi (GAFI),BNB
+SC,Siacoin (SC),
+XSPEC,Spectre (XSPEC),
+CCO,Ccore (CCO),
+BTNT,BitNautic (BTNT),
+BPAY,BNBPay (BPAY),BNB
+CGT,CACHE Gold (CGT),ETH
+PC,Promotion Coin (PC),
+DBK.CUR,Deutsche Bank AG (DBK.CUR),
+TMUS.CUR,"T-Mobile US, Inc. (TMUS.CUR)",
+GOD,Bitcoin God (GOD),
+FOODC,Food Club (FOODC),
+BURNDOGE,BurnDoge (BURNDOGE),BNB
+PHB,Phoenix Binance (PHB),BNB
+ERC,EuropeCoin (ERC),
+AX,AlphaX (AX),
+OWNDATA,OWNDATA (OWNDATA),
+BRG,Bridge Oracle (BRG),TRX
+MVL,MVL (MVL),ETH
+BBDT,BBD Token (BBDT),
+ERG,Ergo (ERG),
+MI,XiaoMiCoin (MI),
+PCOIN,Pioneer Coin (PCOIN),
+WNCG,Wrapped NCG (WNCG),ETH
+CUDOS,Cudos (CUDOS),ETH
+CONV,Convergence (CONV),
+DFI,DeFiChain (DFI),
+GUSD,Gemini Dollar (GUSD),ETH
+EOSDAC,eosDAC (EOSDAC),ETH
+ADL,Adelphoi (ADL),
+XWP,Swap (XWP),
+PLUGCN,Plug Chain (PLUGCN),
+PEPS,PEPS Coin (PEPS),
+VRAP,VeraSwap (VRAP),
+CHAO,23 Skidoo (CHAO),
+CHFN,NOKU CHF (CHFN),
+GUSDT,Global Utility Smart Digital Token (GUSDT),ETH
+AMN,Amon (AMN),
+CBC,Casino Betting Coin (CBC),ETH
+DDS,DDS.Store (DDS),ETH
+ZLW,Zelwin (ZLW),
+FILUP,FILUP (FILUP),
+MBX,MobieCoin (MBX),XLM
+PTC,PesetaCoin (PTC),
+ODX,ODX Token (ODX),
+ARY,Block Array (ARY),
+INU,INU Token (INU),ETH
+VOLLAR,Vollar (VOLLAR),
+CAKEMOON,CakeMoon (CAKEMOON),BNB
+DFL,DeFIL (DFL),ETH
+CZRX,Compound 0x (CZRX),
+PLGR,Pledge Finance (PLGR),
+MIO,Miner One token (MIO),
+VTX,Vortex DeFi (VTX),ETH; BNB
+PORTO,FC Porto (PORTO),BNB
+ADNT,Aiden (ADNT),
+DLISK,Dlisk (DLISK),
+NAMI,Tsunami finance (NAMI),
+BIRDCHAIN,Birdchain (BIRDCHAIN),
+TCHN,Tachain (TCHN),
+AUD.CUR,Australian Dollar (AUD.CUR),
+OPU,Opu Coin (OPU),
+EMRX,Emirex Token (EMRX),ETH
+WOZX,Efforce (WOZX),
+OCN,Odyssey (OCN),ETH
+QI,BENQI (QI),
+RIPO,RipOffCoin (RIPO),
+XTROPTIONS,TROPTIONS (XTROPTIONS),
+TRIP.CUR,"TripAdvisor, Inc. (TRIP.CUR)",
+CPC,CPChain (CPC),
+SHFT,Shyft Network (SHFT),ETH
+LIVESTARS,Live Stars (LIVESTARS),
+AM,AeroMe (AM),
+RHOC,RChain (RHOC),
+BTMG,Bitcademy Football (BTMG),
+BT,BT.Finance (BT),ETH
+SKEY,SmartKey (SKEY),
+BOBS,Bob's Repair (BOBS),
+WIC,Wi Coin (WIC),
+CARRY,Carry (CARRY),ETH
+VNTW,Value Network Token (VNTW),ETH
+MAN,Matrix AI Network (MAN),ETH
+PARETO,Pareto Network Token (PARETO),
+UFFYI,Unlimited FiscusFYI (UFFYI),
+FMT,Finminity (FMT),ETH
+FOGE,Fat Doge (FOGE),ETH
+BAST,Bast (BAST),
+XETH-G,xETH-G (XETH-G),ETH
+BVND,Binance VND (BVND),
+SBGO,Bingo Share (SBGO),BNB
+AAT,Agricultural Trade Chain (AAT),ETH
+XCS,CybCSec Coin (XCS),
+BIDU.CUR,"Baidu, Inc. (BIDU.CUR)",
+KAVA,Kava (KAVA),
+IQ,Everipedia (IQ),EOS
+HYDRO,Hydro (HYDRO),"ETH,BNB,DOT,ALGO,ADA"
+BDG,BitDegree (BDG),
+DVX,Derivex (DVX),
+BHC,BighanCoin (BHC),
+BNF,BonFi (BNF),
+EVY,EveryCoin (EVY),
+FOIN,Foin (FOIN),
+BITF,Bit Financial (BITF),
+BTCM,BTCMoon (BTCM),
+RENC,RENC (RENC),
+CRP,Cranepay (CRP),
+POLNX,eToro Polish Zloty (POLNX),
+SOC,All Sports Coin (SOC),ETH
+FUTC,FutCoin (FUTC),
+LFC,BigLifeCoin (LFC),
+DGB,DigiByte (DGB),
+QKC,QuarkChain (QKC),ETH
+LID,Liquidity Dividends Protocol (LID),
+OPUL,Opulous (OPUL),ETH
+CCL,CyClean (CCL),
+CBANK,Crypto Bank (CBANK),ETH
+DIG,Dignity (DIG),
+IETH,iEthereum (IETH),
+SPOTS,Spots (SPOTS),
+RCOIN,RCoin (RCOIN),
+EMBER,EmberCoin (EMBER),
+MTCMN,MTC Mesh (MTCMN),
+MODUM,Modum (MODUM),
+1UP,Uptrennd (1UP),
+YOLO.CUR,AdvisorShares Pure Cannabis ETF (YOLO.CUR),
+XAMP,Antiample (XAMP),
+AMX,Amero (AMX),
+NAT,Natmin (NAT),
+EVRY,Evrynet (EVRY),ETH
+GIC,Giant (GIC),
+PSM,Prasm (PSM),
+ABNB,Airbnb (ABNB),
+SWFTC,SWFTCoin (SWFTC),ETH
+UNC,UnCoin (UNC),
+JNS,Janus (JNS),
+HFIL,Huobi Fil (HFIL),ETH
+KLC,KiloCoin (KLC),
+BABYFLOKI,BabyFloki (BABYFLOKI),ETH
+WRZ,Weriz (WRZ),
+SKRB,Sakura Bloom (SKRB),
+AMDC,Allmedi Coin (AMDC),
+SBUX.CUR,Starbucks Corp (SBUX.CUR),
+QVT,Qvolta (QVT),
+BOUTS,BoutsPro (BOUTS),
+CARPE,CarpeDiemCoin (CARPE),
+KRT,TerraKRW (KRT),
+OBS,One Basis Cash (OBS),BNB
+XCP,CounterParty (XCP),
+CAP,BottleCaps (CAP),
+KUBOS,KubosCoin (KUBOS),
+FDO,Firdaos (FDO),ETH
+WVR,Weave (WVR),
+ATOMBULL,3X Long Cosmos Token (ATOMBULL),ETH
+RNO.CUR,Renault Par (RNO.CUR),
+BB,BlackBerry (BB),
+MCONTENT,MContent (MCONTENT),BNB
+KITSU,Kitsune Inu (KITSU),ETH
+DXT,Dexit Finance (DXT),BNB
+TX,Transfer (TX),
+CWX,Crypto-X (CWX),
+CNUS,CoinUs (CNUS),
+UPP,Sentinel Protocol (UPP),ETH
+SEA,Second Exchange Alliance (SEA),
+ROUTE,Router Protocol (ROUTE),ETH
+ETNA,ETNA Network (ETNA),BNB
+ETG,Ethereum Gold (ETG),
+COSX,Cosmecoin (COSX),
+OCC,OccamFi (OCC),ETH
+LOON,Loon Network (LOON),ETH
+NVA,Neeva Defi (NVA),
+TWT,Trust Wallet Token (TWT),BNB
+BKR,Balkari Token (BKR),ETH
+BOX,ContentBox (BOX),ETH
+DNTX,DNAtix (DNTX),
+FEG,FEG Token (FEG),ETH
+PSF,Prime Shipping Foundation (PSF),
+SDT,TerraSDT (SDT),
+BNBDOWN,Short BNB with Up to 3x Leverage (BNBDOWN),
+SLR,SolarCoin (SLR),
+PHM,Phomeum (PHM),
+CPS,CapriCoin (CPS),
+CBDC,CannaBCoin (CBDC),
+CRX,ChronosCoin (CRX),
+LMC,LomoCoin (LMC),
+KBTC,Klondike BTC (KBTC),ETH
+LEASH,Doge Killer (LEASH),ETH
+PDOGE,PolkaDoge (PDOGE),ETH
+TFUEL,Theta Fuel (TFUEL),
+LC4,LEOcoin (LC4),
+DXG,DexAge (DXG),
+ES,Era Swap Token (ES),
+CORAL,CoralPay (CORAL),
+ENCX,Encrybit (ENCX),
+HNB,HashNet BitEco (HNB),
+GNBT,Genebank Token (GNBT),ETH
+FET,Fetch.AI (FET),ETH
+ULTRA,Ultra (ULTRA),ETH
+VEGA,Vega Protocol (VEGA),
+522.CUR,ASM Pacific Technology Limited (522.CUR),
+LLY.CUR,Eli Lilly & Co (LLY.CUR),
+PFE.CUR,Pfizer Inc (PFE.CUR),
+STEPH,Step Hero (STEPH),BNB
+AITECH,Artificial Intelligence Utility Token (AITECH),
+CLUD,CludCoin (CLUD),
+BGONE,BigONE Token (BGONE),
+NPXS,Pundi X (NPXS),ETH
+DRG,Dragon Coin (DRG),
+VETHEDGE,1X Short VeChain Token (VETHEDGE),
+ARDR,Ardor (ARDR),
+FIRO,Firo (FIRO),
+WRL,WHIRL (WRL),
+SILKR,SilkRoadCoin (SILKR),
+ORBIS,Orbis (ORBIS),
+BMON,Binamon (BMON),BNB
+AGVC,AgaveCoin (AGVC),ETH
+EDF.CUR,Edf (EDF.CUR),
+VANY,Vanywhere (VANY),
+INTC.CUR,Intel Corporation (INTC.CUR),
+LUX,LUXCoin (LUX),
+BCUG,Blockchain Cuties Universe Governance (BCUG),ETH
+BUXCOIN,Buxcoin (BUXCOIN),
+HIRE,HireMatch (HIRE),
+MESH,MeshBox (MESH),
+EZC,EZCoin (EZC),
+ORYX,OryxCoin (ORYX),
+KOLION,Kolion (KOLION),
+CVPT,Concentrated Voting Power (CVPT),
+TONCOIN,The Open Network (TONCOIN),
+BITSD,Bits Digit (BITSD),
+SCFIV2,Semi Centralized Finance (SCFIV2),
+DNZ.BITCI,Denizlispor Fan Token (DNZ.BITCI),BITCI
+ILK,Inlock (ILK),
+PEARL,Pearl Finance (PEARL),TRX
+RNBW,Rainbow Token (RNBW),ETH
+KAREN,KarenCoin (KAREN),BNB
+STC,Student Coin (STC),ETH
+FONZ,FonzieCoin (FONZ),
+MOTI,Motion (MOTI),
+300F,300FIT (300F),
+FB.CUR,Facebook (FB.CUR),
+XFTC,Offshift (XFTC),
+TRIBE,Tribe (TRIBE),ETH
+BLHC,BlackholeCoin (BLHC),
+VOT,Votecoin (VOT),
+FP.CUR,Total (FP.CUR),
+DOGACOIN,DogaCoin (DOGACOIN),
+KIND,Kind Ads (KIND),
+LEND,Aave (LEND),ETH
+ITGR,Integral (ITGR),ETH
+DACC,Decentralized Accessible Content Chain (DACC),ETH
+TRCK,Truckcoin (TRCK),
+XENO,Xenoverse (XENO),
+COSM,CosmoChain (COSM),
+LET,LinkEye (LET),ETH
+EQ,EQUI (EQ),
+BXF,BlackFort Token (BXF),
+ANS,ANS Crypto Coin (ANS),
+WBET,Wavesbet (WBET),
+MUSIC,Musicoin (MUSIC),
+RCC,Reality Clash (RCC),
+XRK,RecordsKeeper (XRK),
+DFP,Digital Fund Coin (DFP),
+GT.CUR,The Goodyear Tire & Rubber Company (GT.CUR),
+ZYN,Zynecoin (ZYN),ETH
+TMSH.BITCI,Bursa Crocodile Token (TMSH.BITCI),BITCI
+EXMR,EXMR FDN (EXMR),
+BTZ,BitzCoin (BTZ),
+BETR,BetterBetting (BETR),
+VEED,VEED (VEED),VET
+JPYC,JPYC (JPYC),ETH
+VAB,Vabble (VAB),ETH
+CMT,CyberMiles (CMT),ETH
+XLR,Solaris (XLR),
+BNA,BananaTok (BNA),
+KHM,Kohima (KHM),ETH
+DGTX,Digitex Futures (DGTX),ETH
+TUT,Tutellus (TUT),
+KFC,Chicken (KFC),
+NFTX,NFTX (NFTX),ETH
+PRT,Papusha (PRT),
+RFOX,RedFOX Labs (RFOX),ETH
+PIPL,PiplCoin (PIPL),
+BUSD,BUSD (BUSD),ETH
+ARTDECO,ARTDECO (ARTDECO),BNB
+EDR,Endor Protocol Token (EDR),
+SUNNY,Sunny Aggregator (SUNNY),SOL
+HQX,HOQU (HQX),ETH
+SBC,StableCoin (SBC),
+DICE,Etheroll (DICE),
+IGCH,IG-Crypto Holding (IGCH),
+RBN,Ribbon Finance (RBN),ETH
+G50,G50 (G50),
+CBE,The Chain of Business Entertainment (CBE),
+MGO,MobileGo (MGO),ETH
+XBASE,ETERBASE (XBASE),
+EVED,Evedo (EVED),ETH
+GOVI,Govi (GOVI),ETH
+SGB,Songbird (SGB),
+UTIL,Utility Coin (UTIL),
+LENIN,LeninCoin (LENIN),
+SDS,Alchemint Standards (SDS),
+CALL,Global Crypto Alliance (CALL),
+MIOTA,IOTA (MIOTA),
+MN,Cryptsy Mining Contract (MN),
+AAC,Acute Angle Cloud (AAC),ETH
+NEW,Newton (NEW),
+NTC,NineElevenTruthCoin (NTC),
+QUIZ,Quizando (QUIZ),
+WOWS,Wolves of Wall Street (WOWS),ETH
+CAMC,Camcoin (CAMC),
+RDC,Ordocoin (RDC),
+MOONSHOT,Moonshot (MOONSHOT),BNB
+NEET,NEET Finance (NEET),BNB
+FGZ,Free Game Zone (FGZ),
+WBX,WiBX (WBX),
+VOW3.CUR,Volkswagen AG (VOW3.CUR),
+REPO,Repo Coin (REPO),XLM
+XRF,Sarf (XRF),
+PEGS,PegShares (PEGS),ETH
+RBY,RubyCoin (RBY),
+KBR,Kubera Coin (KBR),
+AZU,Azultec (AZU),
+USCC,USC (USCC),
+QCOM.CUR,QUALCOMM Inc (QCOM.CUR),
+CKEK,CryptoKek (CKEK),
+ELCASH,Electric Cash (ELCASH),
+ENVIENTA,Envienta (ENVIENTA),
+SPIKE,Spiking (SPIKE),
+XBOND,Bitacium (XBOND),
+SHIBERUS,Shiberus Inu (SHIBERUS),ETH
+HUSH,Hush (HUSH),
+OILD,OilWellCoin (OILD),
+TRADE,UniTrade (TRADE),ETH
+FDX,fidentiaX (FDX),
+OGOD,GOTOGOD (OGOD),
+BLINK,BlockMason Link (BLINK),
+MSB,Misbloc (MSB),
+GSTC,GSTCOIN (GSTC),
+CPEX,CoinPulseToken (CPEX),
+ZMN,ZMINE (ZMN),
+EFFT,Effort Economy  (EFFT),BNB
+RVST,Revest Finance (RVST),ETH
+WMD,WindMine (WMD),
+MISS,MISS (MISS),
+ASD,AscendEX Token (ASD),
+ZECD,ZCashDarkCoin (ZECD),
+EMX,EMX (EMX),
+WXT,Wirex Token (WXT),"XLM,ETH"
+REQ,Request Network (REQ),ETH
+ZMR,Monero 0 (ZMR),
+NOK,Nokia (NOK),
+KAN,Bitkan (KAN),ETH
+XBTY,Bounty (XBTY),
+CHLT,Chellitcoin (CHLT),ETH
+IDEA,Ideaology (IDEA),
+WIX,Wixlar (WIX),
+EPIC,Epic (EPIC),
+XBC,BitcoinPlus (XBC),
+TRTT,Trittium (TRTT),
+GENIX,Genix (GENIX),
+BNBCH,BNB Cash (BNBCH),BNB
+XYO,XY Oracle (XYO),ETH
+NPXSXEM,Pundi X NEM (NPXSXEM),
+CONUN,CONUN (CONUN),ETH
+ZEE,ZeroSwap (ZEE),
+FOXD,Foxdcoin (FOXD),
+BOONS,BOONSCoin (BOONS),
+VEO,Amoveo (VEO),
+ILV,Illuvium (ILV),ETH
+HUGE,BigCoin (HUGE),
+WMC,WMCoin (WMC),
+UNII,UNII Finance (UNII),
+BDOG,Bulldog Token (BDOG),ETH
+TESTA,Testa (TESTA),
+SHO,Showcase Token (SHO),ETH
+KAYI,Kayı (KAYI),
+EVENC,EvenCoin (EVENC),
+LM,LM Token (LM),
+GIX,GoldFinX (GIX),ETH
+TLRY.CUR,"Tilray, Inc. (TLRY.CUR)",
+HTHALF,0.5X Long Huobi Token Token (HTHALF),
+LEOHALF,0.5X Long LEO Token (LEOHALF),
+DOOM,10X Short Bitcoin Token (DOOM),ETH
+NRN,Doc.ai Neuron (NRN),
+ENU,Enumivo (ENU),
+DOSE,DOSE (DOSE),ETH|BNB
+METIS,Metis Token (METIS),ETH
+BCV,BitCapitalVendor (BCV),
+ET,ENDO (ET),
+BOTS,ArkDAO (BOTS),
+SLST,SmartLands (SLST),
+QNT,Quant (QNT),ETH
+LUCKY,Lucky Lion (LUCKY),BNB
+GBO,Gabro.io (GBO),
+PDF,Port of DeFi Network (PDF),
+DHV,DeHive (DHV),ETH
+CREAM,Cream (CREAM),ETH
+ZCN,0chain (ZCN),
+VTAG,veriTAG Token (VTAG),
+9988.CUR,Alibaba Group Holding Limited (9988.CUR),
+BYND,Beyond Meat Inc FTX (BYND),
+BOXT,BOX Token (BOXT),ETH
+GORILLAINU,Gorilla Inu (GORILLAINU),ETH
+TNB,Time New Bank (TNB),ETH
+RUPX,Rupaya (RUPX),
+SKFT,Sphinks Token (SKFT),
+T4M,Tap4.Menu (T4M),
+MTC,MEDICAL TOKEN CURRENCY (MTC),ETH
+WELL,Well (WELL),
+BAMBOO,BambooDeFi (BAMBOO),
+MXW,Maxonrow (MXW),
+BIS,Bismuth (BIS),
+BPN,beepnow (BPN),
+KLO,Kalao (KLO),AVAX
+TBCX,TrashBurn (TBCX),
+HMQ,Humaniq (HMQ),
+CRSP,CryptoSpots (CRSP),
+NFTB,NFTb (NFTB),BNB
+USDT,Tether (USDT),"ETH,BTC,EOS,TRX,ALGO,SLP,OMG"
+XCG,Xchange (XCG),
+SKILL,CryptoBlades (SKILL),BNB
+RVX,Rivex (RVX),
+GDC,GrandCoin (GDC),
+MHP,MedicoHealth (MHP),
+SBER.CUR,Sberbank of Russia GDR (SBER.CUR),
+V.CUR,Visa Inc (V.CUR),
+PENDLE,Pendle (PENDLE),ETH
+SNM,SONM (SNM),ETH
+CDY,Bitcoin Candy (CDY),
+TKD,Tokedo (TKD),
+MNZ,Monaize (MNZ),
+ADA,Cardano (ADA),
+LGBTQ,LGBTQoin (LGBTQ),
+IOI,IOI Token (IOI),ETH
+DAXX,DaxxCoin (DAXX),
+ASGC,ASG (ASGC),
+NRV,NERVE (NRV),
+LMAO,LMAO Finance (LMAO),ETH
+LPOOL,Launchpool (LPOOL),ETH
+USDK,USDK (USDK),ETH
+LTS,Litestar Coin (LTS),
+DGMS,Digigems (DGMS),
+MARSC,MarsCoin (MARSC),
+RNTB,BitRent (RNTB),
+PTEN.CUR,"Patterson-UTI Energy, Inc. (PTEN.CUR)",
+BLOCK,BlockNet (BLOCK),
+GPL,Gold Pressed Latinum (GPL),
+NXC,Nexium (NXC),ETH
+QUAM,Quam Network (QUAM),
+RBTC,Smart Bitcoin (RBTC),
+PETN,Pylon Eco Token (PETN),BNB
+ANTE,ANTE (ANTE),
+DAI.CUR,Daimler AG (DAI.CUR),
+WEST,Waves Enterprise (WEST),WAVES
+NOBS,No BS Crypto ($NOBS),
+HTBULL,3X Long Huobi Token Token (HTBULL),
+ATN,ATN (ATN),
+SALT,Salt Lending (SALT),ETH
+GJC,Global Jobcoin (GJC),
+BHP,Blockchain of Hash Power (BHP),
+HZN,Horizon Protocol (HZN),BNB
+ERD,Elrond (ERD),"ETH,BNB"
+TON,Tokamak Network (TON),ETH
+TKINU,Tsuki Inu (TKINU),ETH
+WCUSD,Wrapped Celo Dollar (WCUSD),
+FLUZ,FluzFluz (FLUZ),
+ST,Scienceroot (ST),
+SYNC,Sync Network (SYNC),ETH
+DRE,DoRen (DRE),ETH
+PNY,Peony Coin (PNY),
+C.CUR,Citigroup Inc (C.CUR),
+EXE,ExeCoin (EXE),
+BTCST,BTC Standard Hashrate Token (BTCST),
+ILC,ILCOIN (ILC),
+KISHIMOTO,Kishimoto Inu (KISHIMOTO),ETH
+EDU,EduCoin (EDU),ETH
+GNO,Gnosis (GNO),ETH
+BTPL,Bitcoin Planet (BTPL),
+MTRG,Meter (MTRG),
+OKB,Okex (OKB),ETH
+PINK,PinkCoin (PINK),
+BUT,BitUP Token (BUT),ETH
+NBL,Nybble (NBL),
+NFTL,NFTL Token (NFTL),
+PKD,PetKingdom (PKD),BNB
+WYR,Wyrify (WYR),
+DOGDEFI,DogDeFiCoin (DOGDEFI),
+PHV,PATHHIVE (PHV),
+EBK,Ebakus (EBK),
+ABA,EcoBall (ABA),
+STPT,STP Network (STPT),ETH
+SBDO,bDollar Share (SBDO),
+XGS,GenesisX (XGS),
+PBLK,PayBlock (PBLK),
+TRINI,Trinity Network Credit (TRINI),
+YOU,YOU Chain (YOU),ETH
+SAK,SharkCoin (SAK),
+CLRTY,Clarity (CLRTY),
+HUBII,Hubii Network (HUBII),
+PULSE,Pulse (PULSE),
+EDDIE,Eddie coin (EDDIE),
+MATICBEAR,3X Short Matic Token (MATICBEAR),
+ECP,ECP+ Technology (ECP),ETH
+OPTC,Open Predict Token (OPTC),
+LUSD,Liquity USD (LUSD),ETH
+FLAP,Flappy Coin (FLAP),
+DAGO,Dago Mining (DAGO),
+P2PS,P2P Solutions Foundation (P2PS),
+NKTR.CUR,Nektar Therapeutics (NKTR.CUR),
+LION,Lion Token (LION),BNB
+DTCT,DetectorToken (DTCT),
+MNB,MoneyBag (MNB),
+CRED,Verify (CRED),
+COGS,Cogmento (COGS),
+BQT,Blockchain Quotations Index Token (BQT),
+SMC,SmartCoin (SMC),
+TGC,TigerCoin (TGC),
+KNCHALF,0.5X Long Kyber Network Token (KNCHALF),
+COMPBULL,3X Long Compound Token Token (COMPBULL),
+TOWN,Town Star (TOWN),ETH
+BKN,Brickken (BKN),ETH
+DADDYDOGE,Daddy Doge (DADDYDOGE),BNB
+ROOM,OptionRoom (ROOM),BNB
+COI,Coinnec (COI),
+XRTC,Retailcoin (XRTC),
+GOPX,GOPX Token (GOPX),
+SAI,SAI (SAI),ETH
+INSN,Insane Coin (INSN),
+SQP,SqPay (SQP),
+TEAM.CUR,Atlassian Corporation Plc (TEAM.CUR),
+SAN,Santiment (SAN),ETH
+BTCB,Bitcoin BEP2 (BTCB),
+GTSE,Global Tourism Sharing Ecology (GTSE),
+DEFIHALF,0.5X Long DeFi Index Token (DEFIHALF),
+SPHRI,Spherium (SPHRI),
+CAVO,Excavo Finance (CAVO),ETH
+ETERNALC,Eternal Coin (ETERNALC),
+PAC,PAC Global (PAC),
+GSPI,GSPI (GSPI),
+LOOM,Loom Network (LOOM),ETH
+VIN,VinChain (VIN),
+DXC,DixiCoin (DXC),
+LMCH,Latamcash (LMCH),ETH
+TRIPAD,"TripAdvisor, Inc. (TRIPAD)",
+GIG,GigaCoin (GIG),
+SPINC,SpinCoin (SPINC),
+BCAT,BitClave (BCAT),
+XSPT,PoolStamp (XSPT),
+$MAID,MaidCoin ($MAID),ETH
+ELTCOIN,ELTCOIN (ELTCOIN),
+CNB,Coinsbit Token (CNB),ETH
+MONK,Monkey Project (MONK),
+MATICBULL,3X Long Matic Token (MATICBULL),ETH
+SBD,Steem Dollars (SBD),
+PMGT,Perth Mint Gold Token (PMGT),ETH
+AGPC,AGPC (AGPC),ETH
+ARTE,Artemine (ARTE),
+AXN,Axion (AXN),ETH
+MIMI,MIMI Money (MIMI),
+SSA.CUR,Sistema PJSFC GDR (SSA.CUR),
+SAV3,SAV3 (SAV3),
+HGS,HashGains (HGS),
+BTCH,Bitcoin Hush (BTCH),
+UST,TerraUSD (UST),
+LBA,Cred (LBA),ETH
+APT,Aptcoin (APT),
+SCA,SiaClassic (SCA),
+ITR,INTRO (ITR),
+PTI,Paytomat (PTI),
+PRPT,Purple Token (PRPT),
+SENNO,SENNO (SENNO),
+BEAM,Beam (BEAM),
+PAYCON,Paycon (PAYCON),
+DYN,Dynamic (DYN),
+EXC,Eximchain (EXC),
+SIG,Signal (SIG),
+QNTR,Quantor (QNTR),
+OPEN,Open Platform (OPEN),ETH
+GRPL,Golden Ratio Per Liquidity (GRPL),ETH
+STRS,STARS (STRS),
+KELPIE,Kelpie Inu (KELPIE),ETH
+CVCOIN,Crypviser (CVCOIN),
+FLS,Flits (FLS),
+$KIRBYRELOADED,Kirby Reloaded ($KIRBYRELOADED),ETH
+PLAY,HEROcoin (PLAY),ETH
+JVY,Javvy (JVY),
+ETHHALF,0.5X Long Ethereum Token (ETHHALF),
+RUBIT,Rublebit (RUBIT),
+RECOM,Recom (RECOM),ETH
+PCL,Peculium (PCL),
+MOMO.CUR,Momo Inc. (MOMO.CUR),
+XFI,Xfinance (XFI),
+EQO,EQO (EQO),ETH
+CIR,CircuitCoin (CIR),
+LIGER,Ligercoin (LIGER),
+BIH,BitHostCoin (BIH),
+AFFC,Affil Coin (AFFC),
+HFI,Holder Finance (HFI),
+BHIRE,BitHIRE (BHIRE),
+AERM,Aerium (AERM),
+GLOS,GLOS (GLOS),
+CXO,CargoX (CXO),ETH
+NEBL,Neblio (NEBL),
+EBZ,Ebitz (EBZ),
+BNANA,Chimpion (BNANA),
+ORGA,Organicco (ORGA),
+TPG,Troll Payment (TPG),
+SQ.CUR,Square Cl A (SQ.CUR),
+SALE,DxSale Network (SALE),ETH; BNB
+SAFEX,SafeExchangeCoin (SAFEX),OMNI
+DRGNHALF,0.5X Long Dragon Index Token (DRGNHALF),
+CVXCRV,Convex CRV (CVXCRV),ETH
+PURE,Pure (PURE),
+BB1,Bitbond (BB1),
+IDX,Index Chain (IDX),
+ELAND,Etherland (ELAND),ETH
+COM,Coliseum (COM),
+LEMD,Lemond (LEMD),ETH
+GGS,Gilgam (GGS),
+BTMXBEAR,3X Short BitMax Token Token (BTMXBEAR),
+UGT,Universal Games Token (UGT),
+KOKO,KokoSwap (KOKO),ETH
+SDAO,SingularityDAO (SDAO),ETH
+XMY,MyriadCoin (XMY),
+ADI,Aditus (ADI),
+BTQ,BitQuark (BTQ),
+CHESS,Tranchess (CHESS),BNB
+ZOC,01coin (ZOC),
+DREAMS,Dreams Quest (DREAMS),BNB
+PTOY,Patientory (PTOY),
+DACASH,DACash (DACASH),
+NOW,NOW Token (NOW),
+OCEAN,Ocean Protocol (OCEAN),ETH
+GOT,ParkinGo (GOT),
+EDGT,Edgecoin (EDGT),XLM
+LC,Lotus Capital (LC),BNB
+WSC,WiserCoin (WSC),
+PLX,PlexCoin (PLX),
+KRB,Karbo (KRB),
+DAN,Daneel (DAN),
+OIL,Oiler (OIL),ETH
+APIX,APIX (APIX),ETH
+Q2C,QubitCoin (Q2C),
+DOGEHALF,0.5X Long Dogecoin Token (DOGEHALF),
+NFXC,NFX Coin (NFXC),
+DUCK,Unit Protocol New (DUCK),ETH
+ONAM,ONAM (ONAM),
+CCOMM,Crypto Commonwealth (CCOMM),
+LINKBEAR,3X Short Chainlink Token (LINKBEAR),ETH
+BELT,Belt (BELT),
+XPY,PayCoin (XPY),
+XCPO,Copico (XCPO),
+CLO,Callisto Network (CLO),
+JNT,Jibrel Network Token (JNT),ETH
+IEC,IvugeoEvolutionCoin (IEC),
+NBT,NIX Bridge Token (NBT),
+DERC,DeRace (DERC),ETH
+YCC,Yuan Chain Coin (YCC),ETH
+YTA,YottaChain (YTA),
+FF1,Two Prime FF1 Token (FF1),
+GWPH.CUR,GW Pharmaceuticals PLC (GWPH.CUR),
+CELR,Celer Network (CELR),ETH
+SHE,Shine Chain (SHE),
+NMK,Namek (NMK),
+KLP,Kulupu (KLP),
+TRIX,TriumphX (TRIX),
+AUSD,Appeal dollar (AUSD),ETH
+IGTT,IGT (IGTT),
+MCHP.CUR,Microchip Technology Incorporated (MCHP.CUR),
+SLOKI,Super Floki (SLOKI),BNB
+PARKGENE,PARKGENE (PARKGENE),
+STCN,Stakecoin (STCN),
+USDH,HonestCoin (USDH),
+XXX,XXXCoin (XXX),
+ARTG,Goya Giant Token (ARTG),ETH
+OPCT,Opacity (OPCT),ETH
+IG,IG Token  (IG1),
+LOTEU,Loteo (LOTEU),
+YEED,Yggdrash (YEED),ETH
+EGT,Egretia (EGT),ETH
+NANAS,BananaBits (NANAS),
+FSBT,Forty Seven Bank (FSBT),
+FFCT,FortFC (FFCT),
+NVZN,INVIZION (NVZN),ETH
+GCR,Global Currency Reserve (GCR),
+MLS,CPROP (MLS),
+CWS,Crowns (CWS),ETH
+UNIFY,Unify (UNIFY),
+ROK,Rockchain (ROK),
+ZAIF,Zaif Token (ZAIF),
+RBR,Ribbit Rewards (RBR),
+PKB,ParkByte (PKB),
+MEDIA,Media Network (MEDIA),
+CATE,CateCoin (CATE),ETH
+ZPAE,ZelaaPayAE (ZPAE),
+GRUMPY,Grumpy Finance (GRUMPY),ETH
+ELAD,ELAD Network (ELAD),
+TT,ThunderCore (TT),
+TRU,TrueFi (TRU),ETH
+BLS,Blocks Space (BLS),BNB
+ETN,Electroneum (ETN),
+DUO,ParallelCoin (DUO),
+MMTM,Momentum (MMTM),
+DRM8,Dream8Coin (DRM8),
+MRT,MinersReward (MRT),
+CPT,Cryptaur (CPT),
+AMPL,Ampleforth (AMPL),ETH
+ENRG,EnergyCoin (ENRG),
+INSANE,InsaneCoin (INSANE),
+MMO,MMOCoin (MMO),
+CAIZ,Caizcoin (CAIZ),ETH
+LCT,LendConnect (LCT),
+EDT,EtherDelta (EDT),
+AIC,AI Crypto (AIC),
+ESD,Empty Set Dollar (ESD),ETH
+YFX,Your Futures Exchange (YFX),ETH
+REE,ReeCoin (REE),
+ECHT,e-Chat (ECHT),
+POPC,PopChest (POPC),
+MYC,MayaCoin (MYC),
+eFIC,FIC Network (eFIC),
+DX,DxChain Token (DX),ETH
+BCHDOOM,10X Short Bitcoin Cash Token (BCHDOOM),ETH
+SUPERTX,SuperTX (SUPERTX),
+OUT,Netscouters (OUT),
+MP3,MP3 (MP3),ETH
+QQQF,Standard Crypto Fund (QQQF),
+DDX,DerivaDAO (DDX),ETH
+TMTG,The Midas Touch Gold (TMTG),ETH
+2TF,2TF (2TF),
+WLO,WOLLO (WLO),
+LLION,Lydian Lion (LLION),
+FKX,FortKnoxster (FKX),ETH
+BREE,CBDAO (BREE),
+HARD,Hard Protocol (HARD),KAVA
+DASH,Dash (DASH),
+VRP,Prosense.tv (VRP),
+ALCE,Alcedo (ALCE),
+BLES,Blind Boxes (BLES),ETH
+OXY,Oxygen (OXY),ETH
+RUST,RustCoin (RUST),
+EDEXA,edeXa Security Token (EDEXA),
+APAM.CUR,Aperam S.A. (APAM.CUR),
+WBNB,Wrapped BNB (WBNB),
+FTT,FTX Token (FTT),ETH
+TRX,TRON (TRX),
+FRK,Franko (FRK),
+XBG,BitGrin (XBG),
+BWT2,Bitwin 2.0 (BWT2),
+ROYA,Royale (ROYA),ETH
+RICH,Richie (RICH),BNB
+DOGEZILLA,DogeZilla (DOGEZILLA),BNB
+CLOAK,CloakCoin (CLOAK),
+ROOT,RootCoin (ROOT),
+STEN,Steneum Coin (STEN),
+PSEUD,PseudoCash (PSEUD),
+MOV,MovieCoin (MOV),
+XSTC,Safe Trade Coin (XSTC),
+JDC,JustDatingSite (JDC),
+ERIS,Eristica (ERIS),
+FLP,Gameflip (FLP),
+INET,Insure Network (INET),
+KIF,KittenFinance (KIF),
+OUSD,Origin Dollar (OUSD),ETH
+RFT,Rangers Fan Token (RFT),
+CPRX,Crypto Perx (CPRX),ETH
+NMR,Numeraire (NMR),ETH
+XBOT,SocialXbotCoin (XBOT),
+CNMT,Coinomat (CNMT),
+VLDY,Validity (VLDY),
+BILL,TillBilly (BILL),
+VIDY,Vidy (VIDY),ETH
+KASSIAHOME,Kassia Home (KASSIAHOME),
+EGG,Goose Finance (EGG),
+AMIO,Amino Network (AMIO),ETH
+TITC,TitCoin (TITC),
+NBIT,NetBit (NBIT),
+LOOT,NFTLootBox (LOOT),ETH
+SREUR,SocialRemit (SREUR),
+VD,VinDax Coin (VD),
+POD,Podo Point (POD),ETH
+CXT,Coinonat (CXT),
+LHC,LHCoin (LHC),
+INO,Ino Coin (INO),
+PRFT,Proof Suite Token (PRFT),
+TOKU,TokugawaCoin (TOKU),
+SUGAR,Sugar Exchange (SUGAR),
+SOFI,Social Finance (SOFI),
+CHEX,Chintai (CHEX),EOS
+AMBER,AmberCoin (AMBER),
+REM,REMME (REM),ETH
+CACH,Cachecoin (CACH),
+PYC,PayCoin (PYC),
+KBT,Kartblock (KBT),
+AUSCM,Auric Network (AUSCM),
+DELTA,Delta Financial (DELTA),ETH
+MZG,Moozicore (MZG),
+MIBO,miBoodle (MIBO),
+BNB,Binance Coin (BNB),
+AXNT,Axentro (AXNT),
+SEEN,SEEN (SEEN),ETH
+STKATOM,pSTAKE Staked ATOM (STKATOM),ETH
+LUTETIUM,Lutetium Coin (LUTETIUM),
+FUNK,Cypherfunks Coin (FUNK),
+DRGNBEAR,3X Short Dragon Index Token (DRGNBEAR),
+FIII,Fiii (FIII),
+TRUE,True Chain (TRUE),"mainnet,BNB"
+ZEL,Zelcash (ZEL),
+INE,IntelliShare (INE),
+PWON,Personal Wager (PWON),
+GALA,Gala (GALA),ETH
+ION,Ionomy (ION),
+REDN,Reden (REDN),
+PDC,Project Decorum (PDC),
+W.CUR,Wayfair Cl A (W.CUR),
+SHIBELON,ShibElon (SHIBELON),BNB
+ROT,Rotten (ROT),ETH
+MONARCH,TRUEMONARCH (MONARCH),
+TDFB,TDFB (TDFB),
+GLEEC,Gleec Coin (GLEEC),
+DAO,DAO Maker (DAO),ETH
+UGAS,Ultrain (UGAS),ETH
+SRXIO,Securix (SRXIO),
+XQR,Qredit (XQR),
+DIC,Daikicoin (DIC),
+ASG,Asgard (ASG),ETH
+IMPACT,Impact (IMPACT),
+PLMT,Pallium (PLMT),
+DAILY,Coindaily (DAILY),
+NAOS,NAOS Finance (NAOS),ETH
+RTM,Raptoreum (RTM),
+SERO,Super Zero (SERO),
+WIT,Witcoin (WIT),
+AWAX,AWAX (AWAX),
+TRONPAD,TRONPAD (TRONPAD),BNB
+$BASED,Based Money ($BASED),
+RAD,Radicle (RAD),ETH
+BQ,Bitqy (BQ),
+IZA,Inzura (IZA),
+RARE,SuperRare (RARE),ETH
+SKM,Skrumble Network (SKM),ETH
+HMP,HempCoin (HMP),
+TEAM,TeamUP (TEAM),
+PEP.CUR,Pepsico (PEP.CUR),
+NAS2,Nas2Coin (NAS2),
+STALIN,StalinCoin (STALIN),
+IQN,IQeon (IQN),ETH
+DB,DarkBit (DB),
+BULLS,BullshitCoin (BULLS),
+CCCX,Clipper Coin Capital (CCCX),
+PLOT,PlotX (PLOT),
+SHARE,Seigniorage Shares (SHARE),ETH
+STK,STK Token (STK),ETH
+LED,Terawatt (LED),
+AICO,AICON (AICO),
+YUANG,Yuang Coin (YUANG),BNB/ETH
+ELLIP,Ellipsis (ELLIP),BNB
+ALLBI,ALL BEST ICO (ALLBI),BNB
+RVT,Rivetz (RVT),
+SXDT,SPECTRE Dividend Token (SXDT),
+WB.CUR,Weibo Corporation (WB.CUR),
+KVNT,KVANT (KVNT),
+MONA,MonaCoin (MONA),
+LUT,Cinemadrom (LUT),
+IONC,IONChain (IONC),
+CUSDTHEDGE,1X Short Compound USDT Token (CUSDTHEDGE),
+LANE,LaneAxis (LANE),
+BMP,Brother Music Platform (BMP),
+PGN,Pigeoncoin (PGN),
+COINLION,CoinLion (COINLION),
+HST,Decision Token (HST),
+VNS,Venus (VNS),
+WIB,Wibson (WIB),
+ATMI,Atonomi (ATMI),
+YOOSHI,YooShi (YOOSHI),BNB
+DIS,DiscoveryIoT (DIS),
+PONZU,Ponzu Inu (PONZU),ETH
+RGT,Rari Governance Token (RGT),ETH
+ELON,Dogelon Mars (ELON),ETH
+PEA,Pea Farm (PEA),BNB
+CLV,Clover Finance (CLV),ETH; BNB
+HEEL,HeelCoin (HEEL),
+LINKHALF,0.5X Long Chainlink Token (LINKHALF),
+BTCE,EthereumBitcoin (BTCE),
+LTCC,Listerclassic Coin (LTCC),
+SCRL,Scroll (SCRL),
+NRVE,Narrative (NRVE),
+VERIF,Verifier (VERIF),
+ERO,Eroscoin (ERO),
+XCLR,ClearCoin (XCLR),
+BALHEDGE,1X Short Balancer Token (BALHEDGE),
+HBAR,Hedera Hashgraph (HBAR),
+WOO,Wootrade (WOO),
+BTM,Bytom (BTM),ETH
+XHV,Haven Protocol (XHV),XMR
+FLDC,Folding Coin (FLDC),
+DUOT,DUO Network (DUOT),
+MBLC,Mont Blanc (MBLC),
+REVO,Revomon (REVO),BNB
+AGEUR,agEUR (AGEUR),ETH
+KRL,Kryll (KRL),ETH
+LATX,Latium (LATX),ETH
+CBX,CryptoBullion (CBX),
+GBX,GoByte (GBX),
+MRV,Macroverse (MRV),
+DIGIF,DigiFel (DIGIF),
+CBUK,CurveBlock (CBUK),
+CV,CarVertical (CV),ETH
+DCN,Dentacoin (DCN),ETH
+ASN,Ascension Coin (ASN),
+BCCOIN,BitConnect Coin (BCCOIN),
+LUCY,Lucy (LUCY),
+LTNM,Bitcoin Latinum (LTNM),
+RZR,RazorCoin (RZR),
+SST,SIMBA Storage Token (SST),ETH
+UNISWAPBULL,3X Long Uniswap Index Token (UNISWAPBULL),
+PART,Particl (PART),
+MARV,Marvelous (MARV),
+BKT,Blocktrade token (BKT),
+FO,FIBOS (FO),
+HUSL,Hustle Token (HUSL),
+MATH,MATH (MATH),ETH
+INXT,Internxt (INXT),
+GEC,Geco.one (GEC),
+TAS,TARUSH (TAS),
+RARI,Rarible (RARI),ETH
+OPES,Opes (OPES),
+CUSDC,Compound USD Coin (CUSDC),
+RIPAX,RipaEx (RIPAX),
+WLL.CUR,Whiting Petroleum (WLL.CUR),
+INCY.CUR,Incyte Corporation (INCY.CUR),
+RNC,ReturnCoin (RNC),
+NUKE,NukeCoin (NUKE),
+XSD,SounDAC (XSD),
+AKT,Akash Network (AKT),
+UFOCOIN,Uniform Fiscal Object (UFOCOIN),
+AITT,AITrading (AITT),
+FNK,FunKeyPay (FNK),ETH
+BITCNY,bitCNY (BITCNY),
+ZRC,ZrCoin (ZRC),
+IML,IMMLA (IML),
+TDE,Trade Ecology Token (TDE),
+LOAN,Lendoit (LOAN),
+CURIO,Curio Governance (CURIO),ETH
+JEJUDOGE,Jejudoge (JEJUDOGE),ETH
+MON,Monfter (MON),
+VENTION,Vention (VENTION),BNB
+AKRO,Akropolis (AKRO),ETH
+WHL,WhaleCoin (WHL),
+KONO,Konomi Network (KONO),ETH
+CNX,Cryptonex (CNX),
+IDIA,Impossible Decentralized Incubator Access (IDIA),BNB
+LUN,Lunyr (LUN),ETH
+OLYMP,OlympCoin (OLYMP),
+XPRO,ProCoin (XPRO),
+XKI,Ki (XKI),ETH
+REVA,Revault Network (REVA),BNB
+BLX,Balloon-X (BLX),
+SPENDC,SpendCoin (SPENDC),ETH
+NEAR,Near (NEAR),
+FLIK,FLiK (FLIK),
+RPT,Rug Proof (RPT),ETH
+EDGE,EDGE (EDGE),ETH
+RCN,Ripio (RCN),ETH
+BMT,BMChain (BMT),
+SPKTR,Ghost Coin (SPKTR),
+CLAM,CLAMS (CLAM),
+CHIEF,TheChiefCoin (CHIEF),
+GLDR,Golder Coin (GLDR),
+NANO,Nano (NANO),
+ALU,Altura (ALU),BNB
+SOAR,Soarcoin (SOAR),
+MWC,MimbleWimbleCoin (MWC),
+JULB,JustLiquidity Binance (JULB),
+XAI,SideShift Token (XAI),ETH
+CUEX,Cuex (CUEX),BNB
+MEL,Melior AI (MEL),
+BTCK,Bitcoin Turbo Koin (BTCK),
+MBI,Monster Byte Inc (MBI),
+MWAR,MemeWars (MWAR) (MWAR),BNB
+SOSNOVKINO,Sosnovkino (SOSNOVKINO),
+SWIFT,BitSwift (SWIFT),
+TAGR,Think And Get Rich Coin (TAGR),
+DRS,Digital Rupees (DRS),
+KEC,KEYCO (KEC),
+SLVX,eToro Silver (SLVX),
+RGC,RG Coin (RGC),
+RIPT,RiptideCoin (RIPT),
+FARM,Harvest Finance (FARM),ETH
+VLP,Volpo (VLP),
+SEAL,Seal Finance (SEAL),
+MAC.CUR,Macerich (MAC.CUR),
+LF,Linkflow (LF),ETH
+OPP,Opporty (OPP),
+LUNE,Luneko (LUNE),BNB
+ZLST,Zillios (ZLST),
+MW,MasterWin Coin (MW),
+TXM,TMONEY (TXM),
+TELOS,Teloscoin (TELOS),
+SCTK,SharesChain (SCTK),
+CIEN.CUR,Ciena (CIEN.CUR),
+TYT,Tianya Token (TYT),
+BFT.BITCI,Brazil Fan Token (BFT.BITCI),BITCI
+DHT,dHedge DAO (DHT),ETH
+CNBC,Cash & Back Coin (CNBC),
+TAC,Traceability Chain (TAC),
+D,Denarius (D),
+BLTG,Block-Logic (BLTG),
+COCK,Shibacock (COCK),BNB
+BRAIN,BrainCoin (BRAIN),
+XCR,Crypti (XCR),
+ZNY,BitZeny (ZNY),
+TAGZ,TAGZ (TAGZ),
+DPX,Dopex (DPX),ETH
+CDN,Canada eCoin (CDN),
+AV,Avatar Coin (AV),
+EBST,eBoost (EBST),
+BXC,Bitcoin Classic (BXC),
+SATA,Signata (SATA),ETH
+SEN,Sentaro (SEN),
+DTN,Datareum (DTN),
+CDEX,Cryptodex (CDEX),
+INS,Insolar (Old Chain) (INS),
+CSC,CasinoCoin (CSC),
+DRINK,DrinkChain (DRINK),
+OXT,Orchid Protocol (OXT),ETH
+CHECOIN,CheCoin (CHECOIN),BNB
+DIGS,Diggits (DIGS),
+LEV,Leverj (LEV),
+MRP,MorpheusCoin (MRP),
+CKB,Nervos Network (CKB),
+KALA,Kalata Protocol (KALA),BNB
+NTO,Neutro Protocol (NTO),
+DAPP,LiquidApps (DAPP),
+WHEEL,Wheelers (WHEEL),ETH
+CF,Californium (CF),
+PBL,Pebbles (PBL),
+OST,Simple Token (OST),ETH
+VEE,BLOCKv (VEE),
+OMT,Mars Token (OMT),ETH
+WIKI,Wiki Token (WIKI),
+MMXIV,MaieutiCoin (MMXIV),
+DEL,DelChain (DEL),
+HSS,Hashshare (HSS),
+STANDARD,Stakeborg DAO (STANDARD),ETH
+BTA,Bata (BTA),
+DDD,Scry.info (DDD),ETH
+SNOV,Snovio (SNOV),
+CRES,Cresio (CRES),
+MARX,MarX (MARX),ETH
+ETT,EncryptoTel (ETT),
+CIC,CIChain (CIC),
+STPL,Stream Protocol (STPL),
+BDP,Big Data Protocol (BDP),ETH
+INVIC,Invictus (INVIC),
+QRL,Quantum Resistant Ledger (QRL),
+IMPCN,Brain Space (IMPCN),
+URALS,Urals Coin (URALS),
+CFX,Conflux Network (CFX),
+OBSCURE,Obscurebay (OBSCURE),
+RDS,Reger Diamond (RDS),
+TWLO.CUR,Twilio Cl A (TWLO.CUR),
+BLUE.CUR,"bluebird bio, Inc. (BLUE.CUR)",
+NEE.CUR,Nextera Energy (NEE.CUR),
+HALFSHIT,0.5X Long Shitcoin Index Token (HALFSHIT),
+DXH,Daxhund (DXH),ETH
+DEXE,DeXe (DEXE),
+SCASH,SpaceCash (SCASH),
+ROOTS,RootProject (ROOTS),
+MXC,Machine Xchange Coin (MXC),ETH
+DYNO,DYNO (DYNO),
+NAWA,Narwhale.finance (NAWA),ETH
+TOMO,TomoChain (TOMO),
+EER,Ethereum eRush (EER),
+LATIUM,Latium (LATIUM),
+HSN,Hyper Speed Network (HSN),
+NII,nahmii (NII),
+WOONK,Woonkly (WOONK),
+CEUR,Celo Euro (CEUR),
+MTRC,ModulTrade (MTRC),
+IOVT,IOV (IOVT),
+PNT,pNetwork Token (PNT),ETH
+BANC,Babes and Nerds (BANC),
+DOGGY,Doggy (DOGGY),BNB
+BTMXBULL,3X Long BitMax Token Token (BTMXBULL),ETH
+SNOOP,SnoopDAO (SNOOP),ETH
+APOD,AirPod (APOD),
+DLTR.CUR,"Dollar Tree, Inc. (DLTR.CUR)",
+DDIM,DuckDaoDime (DDIM),ETH
+AAPL.CUR,Apple Inc (AAPL.CUR),
+PIPT,Power Index Pool Token (PIPT),ETH
+JWL,Jewels (JWL),
+ALPS,Alpenschillling (ALPS),
+DBTC,DebitCoin (DBTC),
+FST,Futureswap (FST),ETH
+LAIKA,Laika Protocol (LAIKA),BNB
+FAST,Fastswap (FAST),BNB
+GTC,Gitcoin (GTC),ETH
+NSBT,Neutrino Token (NSBT),
+BARK,Bored Ark (BARK),ETH
+MEXP,MOJI Experience Points (MEXP),
+R3FI,r3fi.finance (R3FI),ETH
+DVG,DAOventures (DVG),
+SKC,Skeincoin (SKC),
+ITAM,ITAM Games (ITAM),ETH
+RAC,RAcoin (RAC),
+STM.CUR,Stmicroelectronics Adr (STM.CUR),
+TSD,True Seigniorage Dollar (TSD),ETH
+COVEX,CoVEX (COVEX),
+TTNT,TITA Project (TTNT),
+XRPBEAR,3X Short XRP Token (XRPBEAR),ETH
+KHC.CUR,The Kraft Heinz Company (KHC.CUR),
+SPARTA,Spartan Protocol Token (SPARTA),
+TKG,Takamaka Green Coin (TKG),
+UBEX,Ubex (UBEX),ETH
+NZC,NewZealandCoin (NZC),
+ZENI,Zennies (ZENI),
+TZC,TrezarCoin (TZC),
+GOTEM,gotEM (GOTEM),BNB
+EONC,Dimension (EONC),
+SOCKS,Unisocks (SOCKS),ETH
+OLT,OneLedger (OLT),ETH
+OMC,OmniCron (OMC),
+BCVB,BCV Blue Chip (BCVB),
+PIRL,Pirl (PIRL),
+GUAR,Guarium (GUAR),
+CONT,Contentos (CONT),ETH
+BASK,BasketDAO (BASK),ETH
+CRF,CrowdForce (CRF),
+HELMET,Helmet Insure (HELMET),
+SNAP.CUR,Snap (SNAP.CUR),
+FILDOWN,FILDOWN (FILDOWN),
+UNIDX,UniDex (UNIDX),ETH
+JINDOGE,Jindoge (JINDOGE),ETH
+SIGT,Signatum (SIGT),
+AUNIT,Aunit (AUNIT),
+PDOG,Polkadog (PDOG),ETH
+SLP,Smooth Love Potion (SLP),ETH
+VLTX,Volentix (VLTX),
+HKDX,eToro Hong Kong Dollar (HKDX),
+MOCO,MoCo (MOCO),
+CYG,Cygnus (CYG),
+TLOS,Telos (TLOS),
+TRC,TerraCoin (TRC),
+MNK.CUR,Mallinckrodt (MNK.CUR),
+PRDX,ParamountDax Token (PRDX),ETH
+HDAO,HyperDAO (HDAO),ETH
+BOE,Bodhi (BOE),
+KLKS,Kalkulus (KLKS),
+BQQQ,Bitsdaq Token (BQQQ),
+TROY,Troy (TROY),BNB
+ELAC,ELA Coin (ELAC),
+VRISE,VaporRISE (VRISE),ETH
+ANJ,Aragon Court (ANJ),
+TERN.ETH,Ternio ERC20 (TERN.ETH),ETH
+PCX,ChainX (PCX),
+BOU,Boulle (BOU),
+ZNAQ,ZNAQ (ZNAQ),
+ERR,ErrorCoin (ERR),
+UMC,Umbrella Coin (UMC),
+SRP,Starpunk (SRP),BNB
+KEL,KelVPN (KEL),ETH
+A5T,Alpha5 (A5T),ETH
+TTV,TV-TWO (TTV),
+ZNN,Zenon (ZNN),
+PFE,Pfizer FTX (PFE),
+EMC,Emercoin (EMC),
+EGGC,EggCoin (EGGC),
+NEWB,Newbium (NEWB),
+CRC,CryCash (CRC),
+ZIG,Zignaly (ZIG),ETH
+CVNG,Crave-NG (CVNG),
+HYS,Heiss Shares (HYS),
+NXE,NXEcoin (NXE),
+KO.CUR,Coca-Cola (KO.CUR),
+CWN,CryptoWorldNews (CWN),
+PAPER,Dope Wars Paper (PAPER),ETH
+TRAC,OriginTrail (TRAC),ETH
+CART,CarterCoin (CART),
+LTCR,LiteCreed (LTCR),
+DCS.,deCLOUDs (DCS),
+STM,Streamity (STM),
+CR,CryptoRiyal (CR),
+BBO,Bigbom (BBO),
+SLY,SELFLLERY (SLY),
+OAX,Oax (OAX),ETH
+RAWG,RAWG (RAWG),
+BCP,BitcashPay (BCP),ETH
+IFLT,InflationCoin (IFLT),
+TRIA,Triaconta (TRIA),
+TBC,Trecento Blockchain Capital (TBC),
+SPRTS,Sprouts (SPRTS),
+CRAB,CrabCoin (CRAB),
+BIFIF,BiFi (BIFIF),ETH
+CHE,CherrySwap (CHE),OKT
+BCZERO,Buggyra Coin Zero (BCZERO),
+BCHHEDGE,1X Short Bitcoin Cash Token (BCHHEDGE),
+SIG.CUR,Signet Jewelers (SIG.CUR),
+HIX,HELIX Orange (HIX),
+WGR,Wagerr (WGR),
+SGP,SGPay (SGP),
+AERO,Aero Coin (AERO),
+BIT,BitDAO (BIT),ETH
+YFF,YFF.Finance (YFF),
+METAL,MetalCoin (METAL),
+CN50.CUR,FTSE China A50 (CN50.CUR),
+ZDEX,Zeedex (ZDEX),
+BTL,Bitrolium (BTL),
+AZ,Azbit (AZ),
+GREENT,Greentoken (GREENT),
+CHOPPER,Chopper Inu (CHOPPER),ETH
+AVT,Aventus (AVT),ETH
+AID,AidCoin (AID),
+LINKC,LINKCHAIN (LINKC),
+ALGOBEAR,3X Short Algorand Token (ALGOBEAR),ETH
+SPAIN,SpainCoin (SPAIN),
+FFA,Cryptofifa (FFA),BNB
+WINS,WinStars (WINS),
+OIO,Online (OIO),
+HTDF,Orient Walt (HTDF),
+XDOT,DotBased (XDOT),
+XSUSHI,xSUSHI (XSUSHI),ETH
+PAD,NearPad (PAD),ETH
+LND,Lendingblock (LND),
+XIM,Impresso (XIM),
+USDC,USD Coin (USDC),"ETH,ALGO,SOL,XLM,TRX"
+MND,Mound Token (MND),BNB
+TOPN,TOP Network (TOPN),ETH
+CHX,Own (CHX),
+WETH,WETH (WETH),ETH
+AKTIO,AKTIO Coin (AKTIO),
+JPAW,Jpaw Inu (JPAW),ETH
+XCXT,CoinonatX (XCXT),
+SPHTX,SophiaTX (SPHTX),
+SHEESH,Sheesh it is bussin bussin (SHEESH),BNB
+GSI,Globex SCI (GSI),
+RDPX,Dopex Rebate Token (RDPX),ETH
+SNET,Snetwork (SNET),ETH
+ALICE,My Neighbor Alice (ALICE),ETH
+NAFT,Nafter (NAFT),BNB
+NSFW,xxxNifty (NSFW),BNB
+BETACOIN,BetaCoin (BETACOIN),
+HNCN,Huncoin (HNCN),
+NHCT,Nano Healthcare Token (NHCT),
+XAUTHALF,0.5X Long Tether Gold Token (XAUTHALF),
+DEGOV,Degov (DEGOV),ETH
+MTV,MultiVAC (MTV),ETH
+CHAT,OpenChat (CHAT),ETH
+HAT,Hawala.Exchange (HAT),
+ASS,Australian Safe Shepherd (ASS),BNB
+UNIVRS,Universe (UNIVRS),
+ELA,Elastos (ELA),
+GBG,Golos Gold (GBG),
+ODDZ,Oddz (ODDZ),ETH; BNB
+BTCUS,Bitcoinus (BTCUS),
+B91,B91 (B91),
+XTZBEAR,3X Short Tezos Token (XTZBEAR),ETH
+FRC,FireRoosterCoin (FRC),
+XCM,CoinMetro (XCM),
+TKC,TurkeyChain (TKC),
+LGCY,LGCY Network (LGCY),ETH
+HGT,Hello Gold (HGT),
+ORET,ORET Token (ORET),
+AKITA,Akita Inu (AKITA),ETH
+DBUND,DarkBundles (DBUND),ETH
+OCTOC,OctoCoin (OCTOC),
+BNP,BenePit (BNP),ETH
+POP!,POP (POP!),ETH
+TKY,THEKEY Token (TKY),
+VTR,Vtorrent (VTR),
+STEEP,SteepCoin (STEEP),
+OKBHALF,0.5X Long OKB Token (OKBHALF),
+YOP,Yield Optimization Platform & Protocol (YOP),ETH
+OUR,Our Pay (OUR),ETH
+CHINU,Chubby Inu (CHINU),ETH
+HERO,Metahero (HERO),BNB
+MIL,Milllionaire Coin (MIL),
+PYPL.CUR,PayPal Holdings (PYPL.CUR),
+NEM.CUR,Newmont Mining (NEM.CUR),
+LTC,Litecoin (LTC),
+DG,Decentral Games (DG),ETH
+GOMT,GoMeat (GOMT),
+BOST,BoostCoin (BOST),
+WSD,White Standard (WSD),
+AMB,Amber (AMB),
+LTHN,Lethean (LTHN),
+RNDR,Render Token (RNDR),
+YFPRO,YFPRO Finance (YFPRO),
+PROUD,PROUD Money (PROUD),
+BHPC,BHPCash (BHPC),
+MCU,MediChain (MCU),
+JOYT,JoyToken (JOYT),
+RPM,Render Payment (RPM),
+DNS,BitDNS (DNS),ETH
+HCT,HurricaneSwap Token (HCT),
+42,42 Coin (42),
+XDB,DragonSphere (XDB),
+HBRS,HubrisOne (HBRS),
+XTZUP,Long Tezos with Up to 3x Leverage (XTZUP),
+KICK,Kick (KICK),ETH
+LUMA,LUMA Token (LUMA),
+W1,W1 (W1),
+BITCAR,BitCar (BITCAR),
+MONO,Monoreto (MONO),
+GTN,GlitzKoin (GTN),
+MOZ,Mozik (MOZ),ETH
+ONC,One Cash (ONC),ETH
+LVG,Leverage Coin (LVG),
+TOA,TOA Coin (TOA),
+NTM,NetM (NTM),
+TOKC,Tokyo Coin (TOKC),
+AVN,AVNRich (AVN),BNB
+JANE,JaneCoin (JANE),
+SIFT,Smart Investment Fund Token (SIFT),
+JUN,"Jun ""M"" Coin (JUN)",
+YFV,YFValue (YFV),
+ELLI,ElliotCoin (ELLI),
+RVO,AhrvoDEEX (RVO),
+NEFTIPEDIA,NEFTiPEDiA (NEFTIPEDIA),
+BCHDOWN,BCHDOWN (BCHDOWN),
+TIGER,TigerCash (TIGER),
+AIRT,Aircraft (AIRT),
+BOS,BOScoin (BOS),
+CARD,Cardstack (CARD),
+NWP,NWPSolution (NWP),
+TZO,TANZŌ (TZO),
+JRIT,JERITEX (JRIT),BNB
+DYP,DeFi Yield Protocol (DYP),ETH
+TOKEN,Chainswap (TOKEN),ETH
+MARYJ,MaryJane Coin (MARYJ),
+ASQT,ASQ Protocol (ASQT),
+CENT,CENTERCOIN (CENT),
+MKR,Maker (MKR),ETH
+ZMY,Zoomy (ZMY),
+AIM,ModiHost (AIM),EOS
+DAOACT,ACT (DAOACT),
+TASH,Smart Trip Platform (TASH),
+FTX,FintruX (FTX),
+DOCT,DocTailor (DOCT),
+GOVT,The Government Network (GOVT),
+WRX,WazirX (WRX),BNB
+GNT,GreenTrust (GNT),BNB
+SOIL,SoilCoin (SOIL),
+TN,TurtleNetwork (TN),
+DEI,Deimos (DEI),
+PGTS,Puregold token (PGTS),
+CMM,Commercium (CMM),
+MLITE,MeLite (MLITE),
+AXYS,Axys (AXYS),
+W12,W12 Protocol (W12),
+MONT,Monarch Token (MONT),
+SUPERBID,SuperBid (SUPERBID),ETH
+UNCLE,Uncle (UNCLE),ETH
+DAF,DaFIN (DAF),ETH
+ABY,ArtByte (ABY),
+HKN,Hacken (HKN),
+ARB,Arbit Coin (ARB),
+NEOS,NeosCoin (NEOS),
+GAINS,Gains (GAINS),ETH
+BNRTX,BnrtxCoin (BNRTX),
+GAS,Gas (GAS),NEO
+TRT,TuurnT (TRT),
+KKO,Kineko (KKO),ETH
+PURA,Pura (PURA),
+CEDEX,CEDEX Coin (CEDEX),
+HMD,Homelend (HMD),
+MPAY,Menapay (MPAY),
+HBX,Hyperbridge (HBX),
+LTCHALF,0.5X Long Litecoin Token (LTCHALF),
+ALF,AlphaCoin (ALF),
+ANTI,Anti Bitcoin (ANTI),
+BABYFB,Baby Floki Billionaire (BABYFB),BNB
+PPBLZ,Pepemon Pepeballs (PPBLZ),ETH
+MDT,Measurable Data Token (MDT),
+COVER,Cover Protocol (COVER),ETH
+ECA,Electra (ECA),
+JC,JesusCoin (JC),
+ESN,Ethersocial (ESN),
+HIBS,Hiblocks (HIBS),
+FVRR.CUR,Fiverr International Ltd (FVRR.CUR),
+GPKR,Gold Poker (GPKR),
+PCO,Pecunio (PCO),
+EVOS,EVOS (EVOS),
+RWN,Rowan Token (RWN),
+FRE,FreeCoin (FRE),
+ZVC,ZVCHAIN (ZVC),
+GRT,The Graph (GRT),ETH
+UMO,Universal Molecule (UMO),
+PAI,Project Pai (PAI),
+EQZ,Equalizer (EQZ),ETH
+BONES,BonesCoin (BONES),
+VTC,Vertcoin (VTC),
+UET,Useless Ethereum Token (UET),
+SALMON,Salmon (SALMON),
+UBTC,UnitedBitcoin (UBTC),
+LELE,Lelecoin (LELE),
+WTXH,WTX HUB (WTXH),
+B@,BankCoin (B@),
+UMI,Universal Money Instrument (UMI),
+BNIX,BNIX Token (BNIX),ETH
+NVC,NovaCoin (NVC),
+BSCH,BitSchool (BSCH),
+SPRKL,Sparkle Loyalty (SPRKL),
+AIDI,Aidi Inu (AIDI),ETH
+BEAT,BEAT Token (BEAT),
+PDEX,Polkadex (PDEX),ETH
+NDOGE,NinjaDoge (NDOGE),
+XSC,Hyperspace (XSC),
+BBT,BitBoost (BBT),
+DVS,Davies (DVS),
+BNBHALF,0.5X Long BNB Token (BNBHALF),
+ERN,Ethernity Chain (ERN),ETH
+SH,Shilling (SH),
+BKX,BANKEX (BKX),
+CPROP,CPROP (CPROP),
+PNGN,SpacePenguin (PNGN),ETH
+EVENT,Event Token (EVENT),
+HODL,HOdlcoin (HODL),
+XPAT,Bitnation Pangea (XPAT),
+FK,FK Coin (FK),
+ESH,Switch (ESH),
+Palladium.CUR,Palladium Spot (Palladium.CUR),
+YFDAI,YfDAI.finance (YFDAI),ETH
+TANGO,keyTango (TANGO),ETH
+CHA,Charity Coin (CHA),
+SCOOBY,Scooby coin (SCOOBY),
+$ROPE,Rope ($ROPE),ETH
+ONX,Onix (ONX),
+LUC,Play 2 Live (LUC),
+ADB,Adbank (ADB),ETH
+CRV,Curve DAO Token (CRV),ETH
+VEX,Vexanium (VEX),
+SBANK,SafeBank Token (SBANK),BNB
+IBG,iBG Token (IBG),BNB
+MCC,Magic Cube Coin (MCC),
+KTT,K-Tune (KTT),ETH
+XAP,Apollon (XAP),
+ZEEW,Zeew (ZEEW),
+KAM,BitKAM (KAM),
+LVX,Level01 (LVX),ETH
+ZEC,ZCash (ZEC),
+YAC,YAcCoin (YAC),
+DOGED,DogeCoinDark (DOGED),
+BASE,Base Protocol (BASE),
+ATHE,Atheios (ATHE),
+TWISTR,TWIST (TWISTR),
+SUSHIBEAR,3X Short Sushi Token (SUSHIBEAR),
+MCAU,Meld Gold (MCAU),
+RAIN,Condensate (RAIN),
+INN,Innova (INN),
+WLF,Wolfs Group (WLF),
+MDC,MedicCoin (MDC),
+GIO,Graviocoin (GIO),
+AMOS,Amos (AMOS),
+XSP,XSwap (XSP),
+WOLFY,WOLFY (WOLFY),ETH
+HEX,HEX (HEX),ETH
+BEST,Bitpanda Ecosystem Token (BEST),ETH
+GGP,GGPro (GGP),
+S.CUR,Sprint (S.CUR),
+TOT,TotCoin (TOT),
+FOXF,Fox Finance (FOXF),BNB
+CNTM,Connectome (CNTM),ETH
+SOHU.CUR,Sohu.com Limited (SOHU.CUR),
+FARMC,FARM Coin (FARMC),
+ADK,Aidos Kuneen (ADK),
+ALP,Alphacon (ALP),
+PRCM,Precium (PRCM),
+MINC,MinCoin (MINC),
+HEXC,HexCoin (HEXC),
+ARIA20,Arianee (ARIA20),ETH
+BMXX,Multiplier (BMXX),
+ETHY,Ethereum Yield (ETHY),
+FORM,Formation FI (FORM),ETH
+BCHUP,BCHUP (BCHUP),
+ZEIT,ZeitCoin (ZEIT),
+GAL,Galatasaray Fan Token (GAL),
+DWC,Digital Wallet (DWC),
+YAG,Yaki Gold (YAG),BNB
+PRINTS,FingerprintsDAO (PRINTS),ETH
+LAMB,Lambda (LAMB),ETH
+UIS,Unitus (UIS),
+ECLIP,Eclipse (ECLIP),
+ATRI,Atari Token (ATRI),ETH
+KLEE,KleeKai (KLEE),ETH
+GOMA,GOMA Finance (GOMA),BNB
+UR,UR (UR),
+WOWX,WOWX (WOWX),
+THC,The Hempcoin (THC),
+DSCVR,DSCVR.Finance (DSCVR),ETH
+DAWGS,SpaceDawgs (DAWGS),ETH
+TALK,Talken (TALK),ETH
+SMF,SmurfCoin (SMF),
+INVX,Investx (INVX),
+XSI,Stability Shares (XSI),
+IMPCH,Impeach (IMPCH),
+BITC,BitCash (BITC),
+GLC,GoldCoin (GLC),
+HTER,Biogen (HTER),
+VYBE,Vybe (VYBE),
+PHC,Profit Hunters Coin (PHC),
+ASK,Permission Coin (ASK),
+LBC,LBRY Credits (LBC),
+WCG,World Crypto Gold (WCG),
+RING,Darwinia Network (RING),ETH
+NANJ,NANJCOIN (NANJ),
+FLAME,FireStarter (FLAME),MATIC
+KUSH,KushCoin (KUSH),
+POSQ,Poseidon Quark (POSQ),
+ETH3L,Amun Ether 3x Daily Long (ETH3L),
+DIGIC,DigiCube (DIGIC),
+BTC3S,Amun Bitcoin 3x Daily Short (BTC3S),
+XUSD,XUSD Stable (XUSD),ETH
+UCA,UCA Coin (UCA),
+KGC,KrugerCoin (KGC),
+EVN,Envion (EVN),
+FTK,FToken (FTK),
+LTBX,Litbinex Coin (LTBX),
+OKS,Oikos (OKS),TRX
+GOON,Goonies (GOON),
+QRP,Cryptics (QRP),
+BSX,Bitspace (BSX),
+HINT,Hintchain (HINT),
+MFS,Moonbase File System (MFS),BNB
+BOXX,Blockparty (BOXX),
+SIERRA,Sierracoin (SIERRA),
+ECU,ECOSC (ECU),
+NORD,Nord Finance (NORD),ETH
+CPLO,Cpollo (CPLO),
+VAD,Varanida (VAD),
+ETCBULL,3X Long Ethereum Classic Token (ETCBULL),
+SMAC,Social Media Coin (SMAC),
+AXIOM,Axiom Coin (AXIOM),
+ESBC,ESBC (ESBC),
+BKS,Barkis Network (BKS),
+EGC,EverGreenCoin (EGC),
+ARO,Arionum (ARO),
+HAI,Hacken Token (HAI),VET
+VAL,Validity (VAL),
+YPTO,YPTOspace (YPTO),
+WCCX,Wrapped Conceal (WCCX),
+CRB,Creditbit (CRB),
+PLBT,Polybius (PLBT),ETH
+DUSK,Dusk Network (DUSK),ETH
+FUNDP,Fund Platform (FUNDP),
+Dow,DowCoin (Dow),
+WMT.CUR,Wal-Mart Stores Inc (WMT.CUR),
+XPN,PANTHEON X (XPN),ETH
+TYS,Tyslin (TYS),
+EXCC,ExchangeCoin (EXCC),
+LTCUP,LTCUP (LTCUP),
+VCN,VeganNation (VCN),
+DDK,DDKoin (DDK),
+WHEAT,Wheat Token (WHEAT),BNB
+ONIT,ONBUFF (ONIT),ETH
+FOTO,Unique Photo (FOTO),ETH
+NTY,Nexty (NTY),
+SEM,Semux (SEM),
+BITNEW,BitNewChain (BITNEW),
+BTSG,BitSong (BTSG),
+FLR,Spark (FLR),
+NEWOS,NewsToken (NEWOS),ETH
+FOTA,Fortuna (FOTA),
+CHART,BetOnChart (CHART),
+DAD,DAD (DAD),ETH
+DEMOS,DEMOS (DEMOS),
+TROP,Interop (TROP),ETH
+NTRN,Neutron (NTRN),
+SPORTG,SportGift (SPORTG),
+NVX,Novax Coin (NVX),TRX
+CRAFT,Craftcoin (CRAFT),
+BRDG,Bridge Protocol (BRDG),
+PTON.CUR,Peloton Interactive Inc (PTON.CUR),
+CTASK,CryptoTask (CTASK),ETH
+MATTER,AntiMatter (MATTER),ETH
+XBE,XBE Token (XBE),
+QDX,Quidax (QDX),BNB
+STP,StashPay (STP),
+BOTC,BotChain (BOTC),
+AIR.CUR,Delta Air Lines (AIR.CUR),
+SMART,SmartCash (SMART),
+FOREVER,Forever Coin (FOREVER),
+LIGHT,LightChain (LIGHT),
+SSVCOIN,SSVCoin (SSVCOIN),
+ALPACA,Alpaca Finance (ALPACA),BNB
+LTCDOOM,10X Short Litecoin Token (LTCDOOM),ETH
+BLT,Bloom Token (BLT),
+GESE,Gese (GESE),
+MFX,MFChain (MFX),
+IT40.CUR,FTSE Borsa Italiana Index 40 (IT40.CUR),
+MUSE,Muse (MUSE),ETH
+2CRZ,2crazyNFT (2CRZ),ETH
+CASPER,Casper DeFi (CASPER),FTM
+LDOGE,LiteDoge (LDOGE),
+BTCV,Bitcoin Vault (BTCV),
+MAT,MiniApps (MAT),
+VRX Token,VIARIUM (VRX Token),
+VIB,Viberate (VIB),ETH
+MISHKA,Mishka Token (MISHKA),ETH
+PRPS,Purpose (PRPS),
+ZCOR,Zrocor (ZCOR),ETH
+KISC,Kaiser (KISC),
+3FT,ThreeFold Token (3FT),"XLM,BNB"
+BASIC,BASIC (BASIC),
+PFY,Portify (PFY),BNB
+8BT,8 Circuit Studios (8BT),
+CHK.CUR,Chesapeake Energy Corp (CHK.CUR),
+KILT,KILT Protocol (KILT),
+MRK.CUR,Merck & Co Inc (MRK.CUR),
+ELONGD,Elongate Deluxe (ELONGD),ETH
+RIO,Realio Network (RIO),"XLM,ALGO,ETH"
+GAIAPLATFORM,GAIA Platform (GAIAPLATFORM),
+GLYPH,GlyphCoin (GLYPH),
+POLA,Polaris Share (POLA),ETH
+TPLAY,TruePlay (TPLAY),
+OVC,OVCODE (OVC),
+XLM,Stellar (XLM),
+KRONE,Kronecoin (KRONE),
+2KEY,2key.network (2KEY),ETH
+NUSD,Nomin USD (NUSD),
+CNTR,Centaur (CNTR),
+MIS,Mithril Share (MIS),ETH
+SPY,SPDR S&P 500 ETF FTX (SPY),
+TRDS,Traders Token (TRDS),
+BILL.CUR,Bill.com Inc (BILL.CUR),
+AMAL,AMAL (AMAL),
+SHND,StrongHands (SHND),
+BYTS,Bytus (BYTS),
+WT,WeToken (WT),
+XES,Proxeus (XES),
+TAURI,Extauri (TAURI),
+EOSHEDGE,1X Short EOS Token (EOSHEDGE),
+HOGE,Hoge Finance (HOGE),ETH
+SHILL,SHILL Token (SHILL),BNB
+XUP,UPcoin (XUP),
+DEB,Debitum Token (DEB),
+UMA,UMA (UMA),ETH
+DERO,Dero (DERO),
+WUST,Wrapped UST Token (WUST),
+BABYSAITAMA,Baby Saitama (BABYSAITAMA),ETH
+FARA,FaraLand (FARA),
+MIA,MiamiCoin (MIA),
+TUBE,BitTube (TUBE),
+EMPR,empowr (EMPR),
+STE,Streamex (STE),
+JT,Jubi Token (JT),
+ENTR,EnterDAO (ENTR),ETH
+MINTCOIN,MintCoin (MINTCOIN),
+HTN,Heart Number (HTN),
+SLICE,Tranche Finance (SLICE),ETH
+VR,Victoria (VR),
+ECOFI,EcoFi (ECOFI),ETH
+CANN,CannabisCoin (CANN),
+SEC,SecureCryptoPayments (SEC),
+ZCG,ZCashGOLD (ZCG),
+CRDT,CRDT (CRDT),
+SHARD,ShardCoin (SHARD),
+KNCBEAR,3X Short Kyber Network Token (KNCBEAR),
+Q1S,Quantum1Net (Q1S),
+ARMS,2Acoin (ARMS),
+BPRO,BitCloud Pro (BPRO),
+PRIVHEDGE,1X Short Privacy Index Token (PRIVHEDGE),
+ADD,ADD.xyz (ADD),
+STEEM,Steem (STEEM),
+EQT,EquiTrader (EQT),
+PGL,Prospectors (PGL),
+EAURIC,Eauric (EAURIC),ETH
+VAPOR,Vaporcoin (VAPOR),
+TRI.CUR,Thomson Reuters (TRI.CUR),
+NESTREE,Nestree (NESTREE),ETH
+ARPA,ARPA Chain (ARPA),ETH
+PUT,PutinCoin (PUT),
+TIP,Tip Blockchain (TIP),
+XTP,Tap (XTP),ETH
+UCO,Uniris (UCO),
+VALORBIT,Valorbit (VALORBIT),
+WATCH,Yieldwatch (WATCH),
+JOE,JOE (JOE),AVAX
+ELES,Elements Estates (ELES),
+ZUC,Zeux (ZUC),ETH
+TOWER,Tower (TOWER),ETH
+FLX,Reflexer Ungovernance Token (FLX),ETH
+CGA,Cryptographic Anomaly (CGA),
+BBI,BelugaPay (BBI),
+ANONCOIN,Anoncoin (ANONCOIN),
+ART,Maecenas (ART),
+PSLIP,Pinkslip Finance (PSLIP),ETH
+BNTE,Bountie (BNTE),
+PRM,PrismChain (PRM),
+TPC,TPCash (TPC),
+2015,2015 coin (2015),
+ATON,Further Network (ATON),
+EYE,EYE Token (EYE),
+KORE,KORE Vault (KORE),
+WXTZ,Wrapped Tezos (WXTZ),ETH
+BABYDOGE,BabyDoge (BABYDOGE),BNB
+EBET,EthBet (EBET),
+BITX,BitScreener (BITX),
+ZEP,Zeppelin Dao (ZEP),BNB
+DPN,DIPNET (DPN),
+KINE,Kine Protocol (KINE),ETH
+MASTERMINT,MasterMint (MASTERMINT),
+H2O,Hydrominer (H2O),
+YBT,YellowBetter (YBT),
+NAUSICAA,Nausicaa-Inu (NAUSICAA),ETH
+MCO,Crypto.com (MCO),ETH
+QTL,Quatloo (QTL),
+CNL,ConcealCoin (CNL),
+REV,Revain (REV),"TRX,ETH"
+KAI,KardiaChain (KAI),ETH
+GEMA,Gemera (GEMA),
+LX.CUR,LexinFintech Holdings Ltd. (LX.CUR),
+SHON,ShonToken (SHON),BNB
+TOK,Tokenplace (TOK),ETH
+BBGC,BigBang Game (BBGC),
+AAPX,AMPnet (AAPX),ETH
+ORB,Orbitcoin (ORB),
+HUM,Humanscape (HUM),
+SUTER,Suterusu (SUTER),ETH
+IN,InCoin (IN),
+POE,Po.et (POE),
+DUK+,Dukascoin (DUK+),ETH
+LINKUP,LINKUP (LINKUP),
+EGCC,Engine (EGCC),
+OAS.CUR,Oasis Petroleum (OAS.CUR),
+GDX,Gamedex (GDX),
+FFM,Files.fm Library (FFM),
+CUSDTHALF,0.5X Long Compound USDT Token (CUSDTHALF),
+MATICHEDGE,1X Short Matic Token (MATICHEDGE),
+TSLA,Tesla FTX (TSLA),
+PCCM,Poseidon Chain (PCCM),
+MTZ,Monetizr (MTZ),
+SWFL,Swapfolio (SWFL),
+FIS,Stafi (FIS),
+CTLX,Cash Telex (CTLX),
+CVS,CoinVisa (CVS),
+HAKKA,Hakka Finance (HAKKA),ETH
+GIF,Gift Token (GIF),
+DBTN,Universa Native token (DBTN),
+SAKE,SakeToken (SAKE),
+ELS,Elysium (ELS),
+WIIX,Wiix (WIIX),
+INCP,InceptionCoin (INCP),
+BIONT,BioNTech FTX (BIONT),
+CNYT,CNY Tether (CNYT),
+R34P,R34P (R34P),ETH
+XTRA,ExtraCredit (XTRA),
+UTOPIA,Crypton (UTOPIA),
+DFYN,Dfyn Network (DFYN),ETH
+QUARTZ,Sandclock (QUARTZ),ETH
+LMT,Lympo Market Token (LMT),ETH|BNB
+AMZN.CUR,Amazon.com Inc (AMZN.CUR),
+XSTAR,StarCurve (XSTAR),
+MC,Merit Circle (MC),
+HPT,Huobi Pool Token (HPT),ETH
+AYA,Aryacoin (AYA),
+KNCBULL,3X Long Kyber Network Token (KNCBULL),
+SGE,Society of Galactic Exploration (SGE),ETH
+WTC,Waltonchain (WTC),ETH
+CET,CoinEx Token (CET),ETH
+HXRO,Hxro (HXRO),ETH
+TIDAL,Tidal Finance (TIDAL),ETH
+ZZZV2,zzz.finance v2 (ZZZV2),ETH
+DT,DarkToken (DT),
+CNCT,CONNECT (CNCT),
+BITSILVER,bitSilver (BITSILVER),
+BVO,BRAVO Pay (BVO),
+GGOLD,GramGold Coin (GGOLD),
+CCRB,CryptoCarbon (CCRB),
+ALIS,ALISmedia (ALIS),
+ALI,AiLink Token (ALI),
+AR.CUR,Antero Resources (AR.CUR),
+LATTE,LatteSwap (LATTE),BNB
+RUSTBITS,Rustbits (RUSTBITS),
+MOAT,Mother Of All Tokens (MOAT),
+RHP,Rhypton Club (RHP),
+MOON,r/CryptoCurrency Moons (MOON),
+OOW,OPP Open WiFi (OOW),
+SCIA,Stem Cell (SCIA),
+W3C,W3Coin (W3C),
+ROAD,ROAD (ROAD),
+MARSH,Unmarshal (MARSH),ETH
+CBSN,BlockSwap Network (CBSN),ETH
+CRD,CRD Network (CRD),ETH
+WRT,WRTcoin (WRT),
+SETHER,Sether (SETHER),
+LCWP,LiteCoinW Plus (LCWP),
+SHIBAL,Shiba Launch (SHIBAL),ETH
+DBR,Düber (DBR),
+PUSSY,Pussy Financial (PUSSY),ETH
+GRID,Grid+ (GRID),
+U42,You42 (U42),
+CAMP,Camp (CAMP),
+MAPS,MAPS (MAPS),"SOL,ETH"
+CRO,Crypto.com Coin (CRO),ETH
+RUBY,Rubius (RUBY),
+CHBR,CryptoHub (CHBR),
+ONS,One Share (ONS),ETH
+GOREC,GoRecruit (GOREC),
+NAUT,Nautilus Coin (NAUT),
+SABR,SABR Coin (SABR),
+RAISE,Raise Token (RAISE),
+SOLA,Sola (SOLA),
+SLRS,Solrise Finance (SLRS),
+SIB,SibCoin (SIB),
+DF,dForce (DF),ETH
+TDX,Tidex Token (TDX),
+PTERIA,Pteria (PTERIA),
+HLP,Purpose Coin (HLP),
+WORX,Worx (WORX),
+SWISE,StakeWise (SWISE),ETH
+EQX,EQIFi (EQX),ETH
+STV,Sativa Coin (STV),
+TWLV,Twelve Coin (TWLV),
+LPT,Livepeer (LPT),ETH
+TRDT,Trident (TRDT),
+CLEVERCOIN,CleverCoin (CLEVERCOIN),
+YUP,Crowdholding (YUP),
+HMR,Homeros (HMR),ETH
+HOOD,Robinhood pre-IPO contract (HOOD),
+WEALTH,WealthCoin (WEALTH),
+JOINT,Joint Ventures (JOINT),
+SAFESTAR,Safe Star (SAFESTAR),BNB
+OVO,Ovato (OVO),
+ROSN,Roseon Finance (ROSN),BNB
+RISE,Rise (RISE),
+XRX,Global Property Register (XRX),
+SATX,SatoExchange Token (SATX),
+COCOS,COCOS BCX (COCOS),ETH
+REINDEER,Reindeer (REINDEER),
+CTIC,Coinmatic (CTIC),
+EFIL,Ethereum Wrapped Filecoin (EFIL),ETH
+RSV,Reserve (RSV),ETH
+WNXM,Wrapped NXM (WNXM),ETH
+BONDLY,Bondly (BONDLY),ETH
+MINDGENE,Mind Gene (MINDGENE),
+UBC,Ubcoin (UBC),
+SKYFT,SKYFchain (SKYFT),
+KEK,KekCoin (KEK),
+ALX,ALAX (ALX),
+CBUCKS,CRYPTOBUCKS (CBUCKS),
+EAGS,EagsCoin (EAGS),
+ALEX,Alexandrite (ALEX),
+TEMCO,TEMCO (TEMCO),ETH
+OSC,iOscar (OSC),
+88MPH,88mph (88MPH),
+FLVR,FlavorCoin (FLVR),
+ACB,Aurora Cannabis Inc (ACB),
+THETA,Theta (THETA),
+TTU,TaTaTu (TTU),
+NIIFI,NiiFi (NIIFI),ETH
+EPAN,Paypolitan Token (EPAN),ETH
+ZIL,Zilliqa (ZIL),
+OBITS,Obits Coin (OBITS),
+SPM,Supreme (SPM),
+YDR,YDragon (YDR),"ETH,BNB"
+VST,Vostok (VST),
+LITHIUM,Lithium (LITHIUM),
+BNTY,Bounty0x (BNTY),ETH
+XST,StealthCoin (XST),
+LEAF,LeafCoin (LEAF),
+SUSD,sUSD (SUSD),ETH
+NMH,Namahe (NMH),
+ADN,Aladdin (ADN),
+WFX,WebFlix (WFX),
+LXC,LibrexCoin (LXC),
+DML,Decentralized Machine Learning (DML),
+UAA.CUR,Under Armour Cl A (UAA.CUR),
+PXC,PhoenixCoin (PXC),
+VOYA,Voyacoin (VOYA),
+SPC.QRC,SpaceChain (QRC-20) (SPC.QRC),
+STOX,Stox (STOX),ETH
+BNBH,BnbHeroes Token (BNBH),BNB
+QTZ,Quartz (QTZ),
+ADADOWN,ADADOWN (ADADOWN),
+LSS,Lossless (LSS),ETH
+ARAW,Araw (ARAW),
+BOR,BoringDAO (BOR),
+URAC,Uranus (URAC),
+GKI,GKi (GKI),
+ISIKC,Isiklar Coin (ISIKC),
+SENSE,Sense Token (SENSE),
+DLA,Dolla (DLA),
+GIOT,Giotto Coin (GIOT),
+RELAY,Relay Token (RELAY),ETH
+BFI,BitDefi (BFI),
+TAIYO,Taiyo (TAIYO),ETH
+BMARS,Binamars (BMARS),BNB
+YEE,Yee (YEE),ETH
+VRSC,Verus Coin (VRSC),
+DICETRX,TRONbetDice (DICETRX),
+SURF,Surf.Finance (SURF),
+TRS,TORUS Token (TRS),
+BTH,Bithereum (BTH),
+PROOF,PROVER (PROOF),
+CARE,Carebit (CARE),
+LRC,Loopring (LRC),ETH
+FND,FundRequest (FND),
+TLN,Trustlines Network (TLN),
+PIKACHU,Pikachu Inu (PIKACHU),
+BAAS,BaaSid (BAAS),ETH
+TENDIE,TendieSwap (TENDIE),BNB
+OROC,Orocrypt (OROC),
+VANIG,VANIG (VANIG),
+FOXTO,FOX Token (FOXTO),
+BIOS,BiosCrypto (BIOS),
+CAB,CabbageUnit (CAB),
+NCP,Newton Coin (NCP),
+ALG,Algory (ALG),ETH
+LTPC,Lightpaycoin (LTPC),
+DEX,DEX (DEX),
+SPADE,PolygonFarm Finance (SPADE),MATIC
+DIAM,Diamond (DIAM),
+PPP,PayPie (PPP),
+KETAN,Ketan (KETAN),
+XTX,Xtock (XTX),
+FUZZ,Fuzzballs (FUZZ),
+CUSD,Carbon (CUSD),
+RIC,Riecoin (RIC),
+PHIBA,Papa Shiba (PHIBA),ETH
+SFUND,Seedify.fund (SFUND),BNB
+ABBC,ABBC Coin (ABBC),
+AEC,AcesCoin (AEC),
+AN.CUR,Autonation (AN.CUR),
+DOGEBEAR,3X Short Dogecoin Token (DOGEBEAR),
+PAMP,PAMP Network (PAMP),
+ALBT,AllianceBlock (ALBT),
+SISA,Strategic Investments in Significant Areas (SISA),
+ENGT,Engagement Token (ENGT),
+LTCBEAR,3X Short Litecoin Token (LTCBEAR),ETH
+XTZ,Tezos (XTZ),
+SNIP,LyrnAI (SNIP),
+PROT,PROT (PROT),
+TFC,The Freedom Coin (TFC),
+GZB,Gigzi (GZB),
+ALIEN,AlienCoin (ALIEN),
+GIFT,GiftNet (GIFT),
+PUSD,PegsUSD (PUSD),ETH
+INCAKE,InfinityCAKE (INCAKE),BNB
+BINTEX,Bintex Futures (BINTEX),ETH
+ONION,DeepOnion (ONION),
+SPN.CUR,Superi Ener Svcs (SPN.CUR),
+GAZE,GazeTV (GAZE),ETH
+COMPD,Compound Coin (COMPD),
+ABXC,AutoBay (ABXC),
+HYBN,Hey Bitcoin (HYBN),
+LINA,Linear (LINA),ETH
+SWAP,Trustswap (SWAP),ETH
+DOE,Dogs Of Elon (DOE),ETH
+MORA,Meliora (MORA),ETH
+FBFTX,Facebook FTX (FBFTX),
+EUCX,EUCX (EUCX),
+XSGD,XSGD (XSGD),"ETH,ZIL"
+WRLGC,World Gold Coin (WRLGC),
+GOM,Gomics (GOM),
+HALF,0.5X Long Bitcoin Token (HALF),
+CRS,CRYSTALS (CRS),
+NAVIB,Navibration (NAVIB),
+DWDP.CUR,DowDuPont Inc. (DWDP.CUR),
+PRIA,PRIA (PRIA),
+PWR,PWR Coin (PWR),
+VUC,Virta Unique Coin (VUC),
+UNITS,GameUnits (UNITS),
+LOT,Lukki Operating Token (LOT),
+RVP,Revolution Populi (RVP),ETH
+LOCG,LOCGame (LOCG),ETH
+CIRUS,Cirus (CIRUS),ETH
+WNET,Wavesnode.net (WNET),
+BSVBULL,3X Long Bitcoin SV Token (BSVBULL),ETH
+GFUN,GoldFund (GFUN),
+WASABI,WasabiX (WASABI),ETH
+MOS,MOS Coin (MOS),
+XMO,Monero Original (XMO),
+BOOM,Boom Token (BOOM),
+VAR,VARcrypt (VAR),
+JED,JEDSTAR (JED),BNB
+SPC,SpaceChain ERC20 (SPC),ETH
+GRMN.CUR,Garmin Ltd. (GRMN.CUR),
+QOOB,QOOBER (QOOB),
+NYE,NewYork Exchange (NYE),
+CFC,CoffeeCoin (CFC),
+KOTO,Koto (KOTO),
+KREDS,KREDS (KREDS),
+RAP,Rapture (RAP),
+SPOT,Spotcoin (SPOT),
+CAM,Consumption Avatar Matrix (CAM),
+XRC,Bitcoin Rhodium (XRC),
+POLK,Polkamarkets (POLK),ETH
+SHLD,ShieldCoin (SHLD),
+INC,Incrementum (INC),
+SIP,Space SIP (SIP),BNB
+ALGO,Algorand (ALGO),
+EXTN,Extensive Coin (EXTN),
+ELD,Electrum Dark (ELD),
+RAIL,Railgun (RAIL),ETH
+AURY,Aurory (AURY),SOL
+BamitCoin,BAM (BAM),
+BSCS,BSC Station (BSCS),BNB
+ZYTARA,Zytara dollar (ZYTARA),
+BENZI,Ben Zi Token (BENZI),
+YFBETA,yfBeta (YFBETA),
+PHX,Phoenix (PHX),
+SAFEMOON,SafeMoon (SAFEMOON),BNB
+GPS,Triffic (GPS),
+FBNB,ForeverBNB (FBNB),BNB
+BABY,BabySwap (BABY),BNB
+SKI,Skillchain (SKI),
+HT,Huobi Token (HT),ETH
+STATERA,Statera (STATERA),
+DAIQ,Daiquilibrium (DAIQ),ETH
+VIPS,Vipstar Coin (VIPS),
+NZDX,eToro New Zealand Dollar (NZDX),
+UMX,UniMex Network (UMX),ETH
+STACK,StackOS (STACK),"ETH,BNB"
+AAB,AAX Token (AAB),18
+BBP,BiblePay (BBP),
+CTY,Connecty (CTY),
+ZOPT,Zoptax (ZOPT),
+AGRO,Bit Agro (AGRO),
+VI,Vid (VI),
+FEI,Fei Protocol (FEI),ETH
+ACE,Acent (ACE),ETH
+BUZZ,BuzzCoin (BUZZ),
+SPANK,SpankChain (SPANK),
+ALN,Aluna (ALN),
+BUFFDOGE,Buff Doge (BUFFDOGE),ETH
+SENSO,SENSO (SENSO),ETH
+EVERLIFE,EverLife.AI (EVERLIFE),
+EXIP,EXIP (EXIP),
+CLICK,Clickcoin (CLICK),
+ERK,Eureka Coin (ERK),
+DSLA,DSLA Protocol (DSLA),
+GROW,GrownCoin (GROW),
+CBK.CUR,Commerzbank AG (CBK.CUR),
+BOSONC,BosonCoin (BOSONC),
+NGM,e-Money (NGM),
+CAR,CarBlock (CAR),
+WNRZ,WinPlay (WNRZ),
+CHVF,Chives Finance (CHVF),
+TBTC,tBTC (TBTC),ETH
+GMX,Goldmaxcoin (GOLDM),
+CDX,CDX Network (CDX),
+FSTC,FastCoin (FSTC),
+DEPO,Depository Network (DEPO),
+IBVOL,1x Short BTC Implied Volatility Token (IBVOL),ETH
+BABA.CUR,Alibaba Group Holding Limited (BABA.CUR),
+CHAN,ChanCoin (CHAN),
+KUSD,Kowala (KUSD),
+BMW.CUR,BMW AG (BMW.CUR),
+YINBI,Yinbi (YINBI),XLM
+SGL,Sigil (SGL),
+PAND,Panda Finance (PAND),ETH
+PODIUM,Smart League (PODIUM),
+DEBASE,Debase (DEBASE),ETH
+NGIN,Ngin (NGIN),
+ACU,Aitheon (ACU),
+SPF,SportyCo (SPF),
+XGN,Golden Currency (XGN),
+IMPULSE,IMPULSE by FDR (IMPULSE),BNB
+HIT,HitChain (HIT),ETH
+TENNET,Tennet (TENNET),
+ALCH,Alchemy (ALCH),
+PYE,CreamPYE (PYE),BNB
+STRP,Strips Finance (STRP),ETH
+ORV,Orvium (ORV),
+SWYFTT,SWYFT (SWYFTT),
+K.CUR,Kellogg (K.CUR),
+UNDB,unibot.cash (UNDB),
+NBC,Niobium (NBC),
+BNTN,Blocnation (BNTN),
+FRECNX,FreldoCoinX (FRECNX),
+SWC,Scanetchain Token (SWC),
+IDXM,IDEX Membership (IDXM),
+HEZ,Hermez Network Token (HEZ),ETH
+IBS,Irbis Network (IBS),
+XTO,Tao (XTO),
+COVA,COVA (COVA),
+ANKR,Ankr Network (ANKR),ETH
+ARK,ARK (ARK),
+CETI,CETUS Coin (CETI),
+STU,BitJob (STU),
+SKL,SKALE Network (SKL),ETH
+ORS,ORS Group (ORS),
+PHALA,Phalanx (PHALA),
+OH,Oh! Finance (OH),AVAX
+BCPT,BlockMason Credit Protocol (BCPT),ETH
+TBB,Trade Butler Bot (TBB),ETH
+PKF,PolkaFoundry (PKF),
+WSH,Wish Finance (WSH),
+SEND,Social Send (SEND),
+ZILLA,ChainZilla (ZILLA),
+LNX,Lunox Token (LNX),
+SWKS.CUR,"Skyworks Solutions, Inc. (SWKS.CUR)",
+PAXGHEDGE,1X Short PAX Gold Token (PAXGHEDGE),
+NYAN,NyanCoin (NYAN),
+IOP,Internet of People (IOP),
+DEXA,DEXA COIN (DEXA),
+STARP,Star Pacific Coin (STARP),
+LUMI,LUMI Credits (LUMI),TRX
+MEWTWO,Mewtwo Inu (MEWTWO),ETH
+HETA,HetaChain (HETA),
+ARDX,ArdCoin (ARDX),
+TRAT,Tratok (TRAT),
+PEOPLE,ConstitutionDAO (PEOPLE),ETH
+XNFT,xNFT Protocol (XNFT),HT
+XNT,Exenium (XNT),
+SPHR,Sphere Coin (SPHR),
+OWN,Ownly (OWN),BNB
+LIVE,TRONbetLive (LIVE),TRX
+TPAD,TrustPad (TPAD),BNB
+GES,Galaxy eSolutions (GES),
+UBX,UBIX Network (UBX),ETH
+SPORT,SportsCoin (SPORT),
+PAT,PATRON (PAT),
+GOLF,GolfCoin (GOLF),
+ARMR,ARMR (ARMR),
+EHASH,EHash (EHASH),ETH
+MM,Millimeter (MM),
+NULS,Nuls (NULS),
+PRC,ProsperCoin (PRC),
+XPD,PetroDollar (XPD),
+EUCOIN,EU Coin (EUCOIN),
+DGORE,DogeGoreCoin (DGORE),
+NYC,NewYorkCoin (NYC),
+GO,GoChain (GO),
+QUSD,QUSD (QUSD),
+OCTI,Oction (OCTI),
+LMXC,LimonX (LMXC),
+SHA,Safe Haven (SHA),
+NDAU,ndau (NDAU),
+VLT,Veltor (VLT),
+USCOIN,USCoin (USCOIN),
+FTC,FeatherCoin (FTC),
+JKC,JunkCoin (JKC),
+APECOIN,Asia Pacific Electronic Coin (APECOIN),
