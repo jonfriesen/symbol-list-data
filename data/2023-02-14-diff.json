@@ -1,6 +1,1428 @@
 {
  "added": [
   {
+   "symbol": "ABST",
+   "name": "Absolute Software Corporation - Common Stock",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "ABST"
+  },
+  {
+   "symbol": "ACB",
+   "name": "Aurora Cannabis Inc. - Common Shares",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "ACB"
+  },
+  {
+   "symbol": "ACST",
+   "name": "Acasti Pharma, Inc.  - Class A Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "ACST"
+  },
+  {
+   "symbol": "ADD",
+   "name": "Color Star Technology Co. Ltd. - Ordinary Shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "ADD"
+  },
+  {
+   "symbol": "ADN",
+   "name": "Advent Technologies Holdings, Inc. - Class A Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "ADN"
+  },
+  {
+   "symbol": "AEP",
+   "name": "American Electric Power Company, Inc. - Common Stock",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "AEP"
+  },
+  {
+   "symbol": "AEZS",
+   "name": "Aeterna Zentaris Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "AEZS"
+  },
+  {
+   "symbol": "AKU",
+   "name": "Akumin Inc. - Common Shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "AKU"
+  },
+  {
+   "symbol": "ALT",
+   "name": "Altimmune, Inc. - Common Stock",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "ALT"
+  },
+  {
+   "symbol": "ALYA",
+   "name": "Alithya Group inc. - Class A subordinate voting shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "ALYA"
+  },
+  {
+   "symbol": "APM",
+   "name": "Aptorum Group Limited - Class A Ordinary Shares",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "APM"
+  },
+  {
+   "symbol": "APMI",
+   "name": "AxonPrime Infrastructure Acquisition Corporation - Class A Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "APMI"
+  },
+  {
+   "symbol": "ASND",
+   "name": "Ascendis Pharma A/S - American Depositary Shares",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "ASND"
+  },
+  {
+   "symbol": "ASTL",
+   "name": "Algoma Steel Group Inc. - Common Shares",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "ASTL"
+  },
+  {
+   "symbol": "ASTR",
+   "name": "Astra Space, Inc. - Class A Common Stock",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "ASTR"
+  },
+  {
+   "symbol": "ATOM",
+   "name": "Atomera Incorporated - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "ATOM"
+  },
+  {
+   "symbol": "ATY",
+   "name": "AcuityAds Holdings Inc. - Common Shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "ATY"
+  },
+  {
+   "symbol": "AZ",
+   "name": "A2Z Smart Technologies Corp. - Common Shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "AZ"
+  },
+  {
+   "symbol": "BASE",
+   "name": "Couchbase, Inc. - Common Stock",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "BASE"
+  },
+  {
+   "symbol": "BBIG",
+   "name": "Vinco Ventures, Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "BBIG"
+  },
+  {
+   "symbol": "BECN",
+   "name": "Beacon Roofing Supply, Inc. - Common Stock",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "BECN"
+  },
+  {
+   "symbol": "BFIN",
+   "name": "BankFinancial Corporation - Common Stock",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "BFIN"
+  },
+  {
+   "symbol": "BITF",
+   "name": "Bitfarms Ltd. - Common Stock",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "BITF"
+  },
+  {
+   "symbol": "BKCC",
+   "name": "BlackRock Capital Investment Corporation - Closed End Fund",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "BKCC"
+  },
+  {
+   "symbol": "BLDP",
+   "name": "Ballard Power Systems, Inc. - Common Shares",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "BLDP"
+  },
+  {
+   "symbol": "BLU",
+   "name": "BELLUS Health Inc. - Common Shares",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "BLU"
+  },
+  {
+   "symbol": "BLUE",
+   "name": "bluebird bio, Inc. - Common Stock",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "BLUE"
+  },
+  {
+   "symbol": "BND",
+   "name": "Vanguard Total Bond Market ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "BND"
+  },
+  {
+   "symbol": "BRAG",
+   "name": "Bragg Gaming Group Inc. - Common Shares",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "BRAG"
+  },
+  {
+   "symbol": "BREA",
+   "name": "Brera Holdings PLC - Class B Ordinary Shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "BREA"
+  },
+  {
+   "symbol": "BRY",
+   "name": "Berry Corporation (bry) - Common Stock",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "BRY"
+  },
+  {
+   "symbol": "BTCY",
+   "name": "Biotricity, Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "BTCY"
+  },
+  {
+   "symbol": "BZ",
+   "name": "KANZHUN LIMITED - American Depository Shares",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "BZ"
+  },
+  {
+   "symbol": "CARE",
+   "name": "Carter Bankshares, Inc. - Common Stock",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "CARE"
+  },
+  {
+   "symbol": "CASA",
+   "name": "Casa Systems, Inc. - Common Stock",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "CASA"
+  },
+  {
+   "symbol": "CASH",
+   "name": "Pathward Financial, Inc. - Common Stock",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "CASH"
+  },
+  {
+   "symbol": "CBNK",
+   "name": "Capital Bancorp, Inc. - Common Stock",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "CBNK"
+  },
+  {
+   "symbol": "CCB",
+   "name": "Coastal Financial Corporation - Common Stock",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "CCB"
+  },
+  {
+   "symbol": "CCD",
+   "name": "Calamos Dynamic Convertible \u0026 Income Fund - Closed End Fund",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "CCD"
+  },
+  {
+   "symbol": "CD",
+   "name": "Chindata Group Holdings Limited - American Depositary Shares",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "CD"
+  },
+  {
+   "symbol": "CDNA",
+   "name": "CareDx, Inc. - Common Stock",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "CDNA"
+  },
+  {
+   "symbol": "CEMI",
+   "name": "Chembio Diagnostics, Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "CEMI"
+  },
+  {
+   "symbol": "CERT",
+   "name": "Certara, Inc. - Common Stock",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "CERT"
+  },
+  {
+   "symbol": "CG",
+   "name": "The Carlyle Group Inc. - Common Stock",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "CG"
+  },
+  {
+   "symbol": "CGO",
+   "name": "Calamos Global Total Return Fund - Closed End Fund",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "CGO"
+  },
+  {
+   "symbol": "CGRN",
+   "name": "Capstone Green Energy Corporation - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "CGRN"
+  },
+  {
+   "symbol": "CHB",
+   "name": "Global X China Biotech Innovation ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "CHB"
+  },
+  {
+   "symbol": "CHW",
+   "name": "Calamos Global Dynamic Income Fund - Closed End Fund",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "CHW"
+  },
+  {
+   "symbol": "CHY",
+   "name": "Calamos Convertible and High Income Fund - Closed End Fund",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "CHY"
+  },
+  {
+   "symbol": "CIBR",
+   "name": "First Trust NASDAQ Cybersecurity ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "CIBR"
+  },
+  {
+   "symbol": "CIGI",
+   "name": "Colliers International Group Inc.  - Subordinate Voting Shares",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "CIGI"
+  },
+  {
+   "symbol": "CINC",
+   "name": "CinCor Pharma, Inc. - Common Stock",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "CINC"
+  },
+  {
+   "symbol": "CINF",
+   "name": "Cincinnati Financial Corporation - Common Stock",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "CINF"
+  },
+  {
+   "symbol": "CLMT",
+   "name": "Calumet Specialty Products Partners, L.P. - Common units representing limited partner interests",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "CLMT"
+  },
+  {
+   "symbol": "COCO",
+   "name": "The Vita Coco Company, Inc. - Common Stock",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "COCO"
+  },
+  {
+   "symbol": "COMM",
+   "name": "CommScope Holding Company, Inc. - Common Stock",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "COMM"
+  },
+  {
+   "symbol": "CRDL",
+   "name": "Cardiol Therapeutics Inc. - Class A Common Shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "CRDL"
+  },
+  {
+   "symbol": "CRON",
+   "name": "Cronos Group Inc. - Common Share",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "CRON"
+  },
+  {
+   "symbol": "CSTR",
+   "name": "CapStar Financial Holdings, Inc. - Common Stock",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "CSTR"
+  },
+  {
+   "symbol": "CSX",
+   "name": "CSX Corporation - Common Stock",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "CSX"
+  },
+  {
+   "symbol": "CVV",
+   "name": "CVD Equipment Corporation - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "CVV"
+  },
+  {
+   "symbol": "CYBR",
+   "name": "CyberArk Software Ltd. - Ordinary Shares",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "CYBR"
+  },
+  {
+   "symbol": "DCBO",
+   "name": "Docebo Inc. - Common Shares",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "DCBO"
+  },
+  {
+   "symbol": "DGHI",
+   "name": "Digihost Technology Inc. - Common Subordinate Voting Shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "DGHI"
+  },
+  {
+   "symbol": "DXR",
+   "name": "Daxor Corporation - Closed End Fund",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "DXR"
+  },
+  {
+   "symbol": "EAC",
+   "name": "Edify Acquisition Corp. - Class A Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "EAC"
+  },
+  {
+   "symbol": "ECOR",
+   "name": "electroCore, Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "ECOR"
+  },
+  {
+   "symbol": "EGLX",
+   "name": "Enthusiast Gaming Holdings Inc. - Common Stock",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "EGLX"
+  },
+  {
+   "symbol": "EKG",
+   "name": "First Trust Nasdaq Lux Digital Health Solutions ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "EKG"
+  },
+  {
+   "symbol": "ELBM",
+   "name": "Electra Battery Materials Corporation - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "ELBM"
+  },
+  {
+   "symbol": "ENTG",
+   "name": "Entegris, Inc. - Common Stock",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "ENTG"
+  },
+  {
+   "symbol": "EQ",
+   "name": "Equillium, Inc. - Common Stock",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "EQ"
+  },
+  {
+   "symbol": "ESGE",
+   "name": "iShares ESG Aware MSCI EM ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "ESGE"
+  },
+  {
+   "symbol": "EVER",
+   "name": "EverQuote, Inc. - Class A Common Stock",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "EVER"
+  },
+  {
+   "symbol": "EVGN",
+   "name": "Evogene Ltd. - Ordinary Shares",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "EVGN"
+  },
+  {
+   "symbol": "FA",
+   "name": "First Advantage Corporation - Common Stock",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "FA"
+  },
+  {
+   "symbol": "FARM",
+   "name": "Farmer Brothers Company - Common Stock",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "FARM"
+  },
+  {
+   "symbol": "FCUV",
+   "name": "Focus Universal Inc. - Common Stock",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "FCUV"
+  },
+  {
+   "symbol": "FEX",
+   "name": "First Trust Large Cap Core AlphaDEX Fund",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "FEX"
+  },
+  {
+   "symbol": "FLNT",
+   "name": "Fluent, Inc. - Common Stock",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "FLNT"
+  },
+  {
+   "symbol": "FORA",
+   "name": "Forian Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "FORA"
+  },
+  {
+   "symbol": "FREQ",
+   "name": "Frequency Therapeutics, Inc. - Common Stock",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "FREQ"
+  },
+  {
+   "symbol": "FSV",
+   "name": "FirstService Corporation - Common Shares",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "FSV"
+  },
+  {
+   "symbol": "FSZ",
+   "name": "First Trust Switzerland AlphaDEX Fund",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "FSZ"
+  },
+  {
+   "symbol": "FUND",
+   "name": "Sprott Focus Trust, Inc. - Closed End Fund",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "FUND"
+  },
+  {
+   "symbol": "GAME",
+   "name": "Engine Gaming and Media, Inc. - Common stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "GAME"
+  },
+  {
+   "symbol": "GDC",
+   "name": "GD Culture Group Limited - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "GDC"
+  },
+  {
+   "symbol": "GEN",
+   "name": "Gen Digital Inc. - Common Stock",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "GEN"
+  },
+  {
+   "symbol": "GH",
+   "name": "Guardant Health, Inc. - Common Stock",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "GH"
+  },
+  {
+   "symbol": "GIII",
+   "name": "G-III Apparel Group, LTD. - Common Stock",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "GIII"
+  },
+  {
+   "symbol": "GLAD",
+   "name": "Gladstone Capital Corporation - Closed End Fund",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "GLAD"
+  },
+  {
+   "symbol": "GLG",
+   "name": "TD Holdings, Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "GLG"
+  },
+  {
+   "symbol": "GOOD",
+   "name": "Gladstone Commercial Corporation - Real Estate Investment Trust",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "GOOD"
+  },
+  {
+   "symbol": "GRID",
+   "name": "First Trust NASDAQ Clean Edge Smart Grid Infrastructure Index Fund",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "GRID"
+  },
+  {
+   "symbol": "GROW",
+   "name": "U.S. Global Investors, Inc. - Class A Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "GROW"
+  },
+  {
+   "symbol": "GSD",
+   "name": "Global Systems Dynamics Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "GSD"
+  },
+  {
+   "symbol": "HERO",
+   "name": "Global X Video Games \u0026 Esports ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "HERO"
+  },
+  {
+   "symbol": "HEXO",
+   "name": "HEXO Corp. - Common Shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "HEXO"
+  },
+  {
+   "symbol": "HITI",
+   "name": "High Tide Inc. - Common Shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "HITI"
+  },
+  {
+   "symbol": "HIVE",
+   "name": "Hive Blockchain Technologies Ltd. - Common Shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "HIVE"
+  },
+  {
+   "symbol": "HLIT",
+   "name": "Harmonic Inc. - Common Stock",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "HLIT"
+  },
+  {
+   "symbol": "HUT",
+   "name": "Hut 8 Mining Corp. - Common Shares",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "HUT"
+  },
+  {
+   "symbol": "HYDR",
+   "name": "Global X Hydrogen ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "HYDR"
+  },
+  {
+   "symbol": "IEI",
+   "name": "iShares 3-7 Year Treasury Bond ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "IEI"
+  },
+  {
+   "symbol": "III",
+   "name": "Information Services Group, Inc. - Common Stock",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "III"
+  },
+  {
+   "symbol": "IMV",
+   "name": "IMV Inc. - Common Shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "IMV"
+  },
+  {
+   "symbol": "INFI",
+   "name": "Infinity Pharmaceuticals, Inc. - Common Stock",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "INFI"
+  },
+  {
+   "symbol": "INTR",
+   "name": "Inter \u0026 Co. Inc. - Class A Common Shares",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "INTR"
+  },
+  {
+   "symbol": "IQ",
+   "name": "iQIYI, Inc. - American Depositary Shares",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "IQ"
+  },
+  {
+   "symbol": "ISO",
+   "name": "IsoPlexis Corporation - common stock",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "ISO"
+  },
+  {
+   "symbol": "JG",
+   "name": "Aurora Mobile Limited - American Depositary Shares",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "JG"
+  },
+  {
+   "symbol": "JWEL",
+   "name": "Jowell Global Ltd. - Ordinary Shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "JWEL"
+  },
+  {
+   "symbol": "KC",
+   "name": "Kingsoft Cloud Holdings Limited - American Depositary Shares",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "KC"
+  },
+  {
+   "symbol": "KSI",
+   "name": "Kadem Sustainable Impact Corporation - Class A common stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "KSI"
+  },
+  {
+   "symbol": "KWE",
+   "name": "KWESST Micro Systems Inc. - common stock, no R/S concurrent with offering",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "KWE"
+  },
+  {
+   "symbol": "LAB",
+   "name": "Standard BioTools Inc. - Common Stock",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "LAB"
+  },
+  {
+   "symbol": "LBC",
+   "name": "Luther Burbank Corporation - Common Stock",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "LBC"
+  },
+  {
+   "symbol": "LFST",
+   "name": "LifeStance Health Group, Inc. - Common Stock",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "LFST"
+  },
+  {
+   "symbol": "LGO",
+   "name": "Largo Inc. - Common Shares",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "LGO"
+  },
+  {
+   "symbol": "LI",
+   "name": "Li Auto Inc. - American Depositary Shares",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "LI"
+  },
+  {
+   "symbol": "LIFE",
+   "name": "aTyr Pharma, Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "LIFE"
+  },
+  {
+   "symbol": "LITT",
+   "name": "Logistics Innovation Technologies Corp. - Class A Common stock",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "LITT"
+  },
+  {
+   "symbol": "LOVE",
+   "name": "The Lovesac Company - Common Stock",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "LOVE"
+  },
+  {
+   "symbol": "LSTR",
+   "name": "Landstar System, Inc. - Common Stock",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "LSTR"
+  },
+  {
+   "symbol": "MAPS",
+   "name": "WM Technology, Inc. - Class A Common Stock",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "MAPS"
+  },
+  {
+   "symbol": "MASS",
+   "name": "908 Devices Inc. - Common Stock",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "MASS"
+  },
+  {
+   "symbol": "MCLD",
+   "name": "mCloud Technologies Corp. - Common Shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "MCLD"
+  },
+  {
+   "symbol": "MDIV",
+   "name": "Multi-Asset Diversified Income Index Fund",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "MDIV"
+  },
+  {
+   "symbol": "MDNA",
+   "name": "Medicenna Therapeutics Corp. - Common Shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "MDNA"
+  },
+  {
+   "symbol": "ME",
+   "name": "23andMe Holding Co. - Common Stock",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "ME"
+  },
+  {
+   "symbol": "MGI",
+   "name": "Moneygram International, Inc. - Common Stock",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "MGI"
+  },
+  {
+   "symbol": "MMV",
+   "name": "MultiMetaVerse Holdings Limited - Class A Ordinary Share",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "MMV"
+  },
+  {
+   "symbol": "MOGO",
+   "name": "Mogo Inc. - Common Shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "MOGO"
+  },
+  {
+   "symbol": "MRVL",
+   "name": "Marvell Technology, Inc. - Common Stock",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "MRVL"
+  },
+  {
+   "symbol": "MTC",
+   "name": "MMTec, Inc. - Common Shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "MTC"
+  },
+  {
+   "symbol": "NA",
+   "name": "Nano Labs Ltd - American Depositary Shares",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "NA"
+  },
+  {
+   "symbol": "NEO",
+   "name": "NeoGenomics, Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "NEO"
+  },
+  {
+   "symbol": "NEXT",
+   "name": "NextDecade Corporation - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "NEXT"
+  },
+  {
+   "symbol": "NVCN",
+   "name": "Neovasc Inc. - Common Shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "NVCN"
+  },
+  {
+   "symbol": "NVEI",
+   "name": "Nuvei Corporation - Subordinate Voting Shares",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "NVEI"
+  },
+  {
+   "symbol": "NVX",
+   "name": "NOVONIX Limited - American Depository Shares",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "NVX"
+  },
+  {
+   "symbol": "NXTG",
+   "name": "First Trust Indxx NextG ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "NXTG"
+  },
+  {
+   "symbol": "OCG",
+   "name": "Oriental Culture Holding LTD - Ordinary Shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "OCG"
+  },
+  {
+   "symbol": "OGI",
+   "name": "Organigram Holdings Inc. - Common Shares",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "OGI"
+  },
+  {
+   "symbol": "OM",
+   "name": "Outset Medical, Inc. - Common Stock",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "OM"
+  },
+  {
+   "symbol": "ONEQ",
+   "name": "Fidelity Nasdaq Composite Index ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "ONEQ"
+  },
+  {
+   "symbol": "OPT",
+   "name": "Opthea Limited - American Depositary Shares",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "OPT"
+  },
+  {
+   "symbol": "OSS",
+   "name": "One Stop Systems, Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "OSS"
+  },
+  {
+   "symbol": "OTEX",
+   "name": "Open Text Corporation - Common Shares",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "OTEX"
+  },
+  {
+   "symbol": "PAAS",
+   "name": "Pan American Silver Corp. - Common Stock",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "PAAS"
+  },
+  {
+   "symbol": "PALI",
+   "name": "Palisade Bio, Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "PALI"
+  },
+  {
+   "symbol": "PEGA",
+   "name": "Pegasystems Inc. - Common Stock",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "PEGA"
+  },
+  {
+   "symbol": "PET",
+   "name": "Wag! Group Co. - Common Stock",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "PET"
+  },
+  {
+   "symbol": "PEY",
+   "name": "Invesco High Yield Equity Dividend Achievers ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "PEY"
+  },
+  {
+   "symbol": "PFC",
+   "name": "Premier Financial Corp.  - Common Stock",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "PFC"
+  },
+  {
+   "symbol": "PFM",
+   "name": "Invesco Dividend Achievers ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "PFM"
+  },
+  {
+   "symbol": "PGC",
+   "name": "Peapack-Gladstone Financial Corporation - Common Stock",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "PGC"
+  },
+  {
+   "symbol": "PID",
+   "name": "Invesco International Dividend Achievers ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "PID"
+  },
+  {
+   "symbol": "PINC",
+   "name": "Premier, Inc. - Class A Common Stock",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "PINC"
+  },
+  {
+   "symbol": "PLUR",
+   "name": "Pluri Inc. - Common Stock",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "PLUR"
+  },
+  {
+   "symbol": "PME",
+   "name": "Pingtan Marine Enterprise Ltd. - Ordinary Shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "PME"
+  },
+  {
+   "symbol": "PMN",
+   "name": "ProMIS Neurosciences Inc. - Common Shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "PMN"
+  },
+  {
+   "symbol": "POOL",
+   "name": "Pool Corporation - Common Stock",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "POOL"
+  },
+  {
+   "symbol": "PPTA",
+   "name": "Perpetua Resources Corp. - Common Shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "PPTA"
+  },
+  {
+   "symbol": "PRN",
+   "name": "Invesco DWA Industrials Momentum ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "PRN"
+  },
+  {
+   "symbol": "PTC",
+   "name": "PTC Inc. - Common Stock",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "PTC"
+  },
+  {
+   "symbol": "PTE",
+   "name": "PolarityTE, Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "PTE"
+  },
+  {
+   "symbol": "PTF",
+   "name": "Invesco DWA Technology Momentum ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "PTF"
+  },
+  {
+   "symbol": "PXI",
+   "name": "Invesco DWA Energy Momentum ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "PXI"
+  },
+  {
+   "symbol": "PXS",
+   "name": "Pyxis Tankers Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "PXS"
+  },
+  {
+   "symbol": "PYR",
+   "name": "PyroGenesis Canada Inc. - Common Shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "PYR"
+  },
+  {
+   "symbol": "QCLN",
+   "name": "First Trust NASDAQ Clean Edge Green Energy Index Fund",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "QCLN"
+  },
+  {
+   "symbol": "QIPT",
+   "name": "Quipt Home Medical Corp. - Common Shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "QIPT"
+  },
+  {
+   "symbol": "QQC",
+   "name": "Simplify Nasdaq 100 PLUS Convexity ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "QQC"
+  },
+  {
+   "symbol": "REAL",
+   "name": "The RealReal, Inc. - Common Stock",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "REAL"
+  },
+  {
+   "symbol": "REAX",
+   "name": "The Real Brokerage, Inc. - Common Shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "REAX"
+  },
+  {
+   "symbol": "REE",
+   "name": "REE Automotive Ltd. - Class A Ordinary Shares",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "REE"
+  },
+  {
+   "symbol": "REG",
+   "name": "Regency Centers Corporation - Common Stock",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "REG"
+  },
+  {
+   "symbol": "REIT",
+   "name": "ALPS Active REIT ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "REIT"
+  },
+  {
+   "symbol": "REUN",
+   "name": "Reunion Neuroscience Inc. - Common Shares",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "REUN"
+  },
+  {
+   "symbol": "RMR",
+   "name": "The RMR Group Inc. - Class A Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "RMR"
+  },
+  {
+   "symbol": "RNW",
+   "name": "ReNew Energy Global plc - Class A Shares",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "RNW"
+  },
+  {
+   "symbol": "ROCK",
+   "name": "Gibraltar Industries, Inc. - Common Stock",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "ROCK"
+  },
+  {
+   "symbol": "ROOT",
+   "name": "Root, Inc. - Common Stock",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "ROOT"
+  },
+  {
+   "symbol": "ROVR",
+   "name": "Rover Group, Inc. - Class A Common Stock",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "ROVR"
+  },
+  {
+   "symbol": "RPD",
+   "name": "Rapid7, Inc. - Common Stock",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "RPD"
+  },
+  {
+   "symbol": "RTH",
+   "name": "VanEck Retail ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "RTH"
+  },
+  {
+   "symbol": "RUBY",
+   "name": "Rubius Therapeutics, Inc. - Common Stock",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "RUBY"
+  },
+  {
+   "symbol": "RUM",
+   "name": "Rumble Inc. - Class A Common Stock",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "RUM"
+  },
+  {
+   "symbol": "SBT",
+   "name": "Sterling Bancorp, Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "SBT"
+  },
+  {
+   "symbol": "SCZ",
+   "name": "iShares MSCI EAFE Small-Cap ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "SCZ"
+  },
+  {
+   "symbol": "SEV",
+   "name": "Sono Group N.V. - Common Shares",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "SEV"
+  },
+  {
+   "symbol": "SFR",
+   "name": "Appreciate Holdings, Inc. - Class A Common Stock",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "SFR"
+  },
+  {
+   "symbol": "SGC",
+   "name": "Superior Group of Companies, Inc. - Common Stock",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "SGC"
+  },
+  {
+   "symbol": "SGML",
+   "name": "Sigma Lithium Corporation - common shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "SGML"
+  },
+  {
+   "symbol": "SJ",
+   "name": "Scienjoy Holding Corporation - Class A Ordinary Shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "SJ"
+  },
+  {
+   "symbol": "SKYY",
+   "name": "First Trust Cloud Computing ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "SKYY"
+  },
+  {
+   "symbol": "SLS",
+   "name": "SELLAS Life Sciences Group, Inc.  - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "SLS"
+  },
+  {
+   "symbol": "SLVR",
+   "name": "SilverSPAC Inc. - Class A Ordinary Share",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "SLVR"
+  },
+  {
+   "symbol": "SPC",
+   "name": "CrossingBridge Pre-Merger SPAC ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "SPC"
+  },
+  {
+   "symbol": "SPI",
+   "name": "SPI Energy Co., Ltd. - Ordinary Shares",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "SPI"
+  },
+  {
+   "symbol": "SPRX",
+   "name": "Spear Alpha ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "SPRX"
+  },
+  {
+   "symbol": "SSRM",
+   "name": "SSR Mining Inc. - Common Stock",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "SSRM"
+  },
+  {
+   "symbol": "STEP",
+   "name": "StepStone Group Inc. - Class A Common Stock",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "STEP"
+  },
+  {
+   "symbol": "STER",
+   "name": "Sterling Check Corp. - Common Stock",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "STER"
+  },
+  {
+   "symbol": "STRM",
+   "name": "Streamline Health Solutions, Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "STRM"
+  },
+  {
+   "symbol": "STRR",
+   "name": "Star Equity Holdings, Inc. - Common Stock",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "STRR"
+  },
+  {
+   "symbol": "SURG",
+   "name": "SurgePays, Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "SURG"
+  },
+  {
+   "symbol": "SVA",
+   "name": "Sinovac Biotech, Ltd. - Ordinary Shares (Antigua/Barbudo)",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "SVA"
+  },
+  {
+   "symbol": "TA",
+   "name": "TravelCenters of America Inc.  - Common Stock",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "TA"
+  },
+  {
+   "symbol": "TC",
+   "name": "TuanChe Limited - American Depositary Shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "TC"
+  },
+  {
+   "symbol": "TECH",
+   "name": "Bio-Techne Corp - Common Stock",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "TECH"
+  },
+  {
+   "symbol": "TH",
+   "name": "Target Hospitality Corp. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "TH"
+  },
+  {
+   "symbol": "THRM",
+   "name": "Gentherm Inc - Common Stock",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "THRM"
+  },
+  {
+   "symbol": "TIG",
+   "name": "Trean Insurance Group, Inc. - Common Stock",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "TIG"
+  },
+  {
+   "symbol": "TIL",
+   "name": "Instil Bio, Inc. - Common Stock",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "TIL"
+  },
+  {
+   "symbol": "TLF",
+   "name": "Tandy Leather Factory, Inc. - common stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "TLF"
+  },
+  {
+   "symbol": "TLRY",
+   "name": "Tilray Brands, Inc. - Class 2 Common Stock",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "TLRY"
+  },
+  {
+   "symbol": "TLT",
+   "name": "iShares 20+ Year Treasury Bond ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "TLT"
+  },
+  {
+   "symbol": "TMC",
+   "name": "TMC the metals company Inc. - Common Stock",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "TMC"
+  },
+  {
+   "symbol": "TOI",
+   "name": "The Oncology Institute, Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "TOI"
+  },
+  {
+   "symbol": "TRS",
+   "name": "TriMas Corporation - Common Stock",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "TRS"
+  },
+  {
+   "symbol": "TSAT",
+   "name": "Telesat Corporation - Class A Common Shares and Class B Variable Voting Shares",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "TSAT"
+  },
+  {
+   "symbol": "TSL",
+   "name": "GraniteShares 1.25x Long Tesla Daily ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "TSL"
+  },
+  {
+   "symbol": "TTD",
+   "name": "The Trade Desk, Inc. - Class A Common Stock",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "TTD"
+  },
+  {
+   "symbol": "TXG",
+   "name": "10x Genomics, Inc. - Common Stock",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "TXG"
+  },
+  {
+   "symbol": "VBNK",
+   "name": "VersaBank - Common Shares",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "VBNK"
+  },
+  {
+   "symbol": "VMD",
+   "name": "Viemed Healthcare, Inc. - Common Shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "VMD"
+  },
+  {
+   "symbol": "VONE",
+   "name": "Vanguard Russell 1000 ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "VONE"
+  },
+  {
+   "symbol": "VQS",
+   "name": "VIQ Solutions Inc. - Common Shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "VQS"
+  },
+  {
+   "symbol": "WAVE",
+   "name": "Eco Wave Power Global AB (publ) - American Depositary Shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "WAVE"
+  },
+  {
+   "symbol": "WISH",
+   "name": "ContextLogic Inc. - Class A Common Stock",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "WISH"
+  },
+  {
+   "symbol": "WMG",
+   "name": "Warner Music Group Corp. - Class A Common Stock",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "WMG"
+  },
+  {
+   "symbol": "WPRT",
+   "name": "Westport Fuel Systems Inc - Common Shares",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "WPRT"
+  },
+  {
+   "symbol": "XDNA",
+   "name": "Strategic CRISPR \u0026 Gene Editing Technology ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "XDNA"
+  },
+  {
+   "symbol": "XRTX",
+   "name": "XORTX Therapeutics Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "XRTX"
+  },
+  {
+   "symbol": "ZGEN",
+   "name": "The Generation Z ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "ZGEN"
+  },
+  {
    "symbol": "AAN",
    "name": "Aarons Holdings Company, Inc. Common Stock ",
    "exchange": "NYSE",
@@ -1385,12 +2807,6 @@
    "name": "John Hancock Pfd Income Fund II Pfd Income Fund II",
    "exchange": "NYSE",
    "yahoo_symbol": "HPF"
-  },
-  {
-   "symbol": "HPI",
-   "name": "John Hancock Preferred Income Fund Common Shares of Beneficial Interest",
-   "exchange": "NYSE",
-   "yahoo_symbol": "HPI"
   },
   {
    "symbol": "HPQ",
@@ -2909,1428 +4325,6 @@
    "name": "Zurn Elkay Water Solutions Corporation Common Stock",
    "exchange": "NYSE",
    "yahoo_symbol": "ZWS"
-  },
-  {
-   "symbol": "ABST",
-   "name": "Absolute Software Corporation - Common Stock",
-   "exchange": "NASDAQ Global Select MarketSM",
-   "yahoo_symbol": "ABST"
-  },
-  {
-   "symbol": "ACB",
-   "name": "Aurora Cannabis Inc. - Common Shares",
-   "exchange": "NASDAQ Global Select MarketSM",
-   "yahoo_symbol": "ACB"
-  },
-  {
-   "symbol": "ACST",
-   "name": "Acasti Pharma, Inc.  - Class A Common Stock",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "ACST"
-  },
-  {
-   "symbol": "ADD",
-   "name": "Color Star Technology Co. Ltd. - Ordinary Shares",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "ADD"
-  },
-  {
-   "symbol": "ADN",
-   "name": "Advent Technologies Holdings, Inc. - Class A Common Stock",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "ADN"
-  },
-  {
-   "symbol": "AEP",
-   "name": "American Electric Power Company, Inc. - Common Stock",
-   "exchange": "NASDAQ Global Select MarketSM",
-   "yahoo_symbol": "AEP"
-  },
-  {
-   "symbol": "AEZS",
-   "name": "Aeterna Zentaris Inc. - Common Stock",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "AEZS"
-  },
-  {
-   "symbol": "AKU",
-   "name": "Akumin Inc. - Common Shares",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "AKU"
-  },
-  {
-   "symbol": "ALT",
-   "name": "Altimmune, Inc. - Common Stock",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "ALT"
-  },
-  {
-   "symbol": "ALYA",
-   "name": "Alithya Group inc. - Class A subordinate voting shares",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "ALYA"
-  },
-  {
-   "symbol": "APM",
-   "name": "Aptorum Group Limited - Class A Ordinary Shares",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "APM"
-  },
-  {
-   "symbol": "APMI",
-   "name": "AxonPrime Infrastructure Acquisition Corporation - Class A Common Stock",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "APMI"
-  },
-  {
-   "symbol": "ASND",
-   "name": "Ascendis Pharma A/S - American Depositary Shares",
-   "exchange": "NASDAQ Global Select MarketSM",
-   "yahoo_symbol": "ASND"
-  },
-  {
-   "symbol": "ASTL",
-   "name": "Algoma Steel Group Inc. - Common Shares",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "ASTL"
-  },
-  {
-   "symbol": "ASTR",
-   "name": "Astra Space, Inc. - Class A Common Stock",
-   "exchange": "NASDAQ Global Select MarketSM",
-   "yahoo_symbol": "ASTR"
-  },
-  {
-   "symbol": "ATOM",
-   "name": "Atomera Incorporated - Common Stock",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "ATOM"
-  },
-  {
-   "symbol": "ATY",
-   "name": "AcuityAds Holdings Inc. - Common Shares",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "ATY"
-  },
-  {
-   "symbol": "AZ",
-   "name": "A2Z Smart Technologies Corp. - Common Shares",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "AZ"
-  },
-  {
-   "symbol": "BASE",
-   "name": "Couchbase, Inc. - Common Stock",
-   "exchange": "NASDAQ Global Select MarketSM",
-   "yahoo_symbol": "BASE"
-  },
-  {
-   "symbol": "BBIG",
-   "name": "Vinco Ventures, Inc. - Common Stock",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "BBIG"
-  },
-  {
-   "symbol": "BECN",
-   "name": "Beacon Roofing Supply, Inc. - Common Stock",
-   "exchange": "NASDAQ Global Select MarketSM",
-   "yahoo_symbol": "BECN"
-  },
-  {
-   "symbol": "BFIN",
-   "name": "BankFinancial Corporation - Common Stock",
-   "exchange": "NASDAQ Global Select MarketSM",
-   "yahoo_symbol": "BFIN"
-  },
-  {
-   "symbol": "BITF",
-   "name": "Bitfarms Ltd. - Common Stock",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "BITF"
-  },
-  {
-   "symbol": "BKCC",
-   "name": "BlackRock Capital Investment Corporation - Closed End Fund",
-   "exchange": "NASDAQ Global Select MarketSM",
-   "yahoo_symbol": "BKCC"
-  },
-  {
-   "symbol": "BLDP",
-   "name": "Ballard Power Systems, Inc. - Common Shares",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "BLDP"
-  },
-  {
-   "symbol": "BLU",
-   "name": "BELLUS Health Inc. - Common Shares",
-   "exchange": "NASDAQ Global Select MarketSM",
-   "yahoo_symbol": "BLU"
-  },
-  {
-   "symbol": "BLUE",
-   "name": "bluebird bio, Inc. - Common Stock",
-   "exchange": "NASDAQ Global Select MarketSM",
-   "yahoo_symbol": "BLUE"
-  },
-  {
-   "symbol": "BND",
-   "name": "Vanguard Total Bond Market ETF",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "BND"
-  },
-  {
-   "symbol": "BRAG",
-   "name": "Bragg Gaming Group Inc. - Common Shares",
-   "exchange": "NASDAQ Global Select MarketSM",
-   "yahoo_symbol": "BRAG"
-  },
-  {
-   "symbol": "BREA",
-   "name": "Brera Holdings PLC - Class B Ordinary Shares",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "BREA"
-  },
-  {
-   "symbol": "BRY",
-   "name": "Berry Corporation (bry) - Common Stock",
-   "exchange": "NASDAQ Global Select MarketSM",
-   "yahoo_symbol": "BRY"
-  },
-  {
-   "symbol": "BTCY",
-   "name": "Biotricity, Inc. - Common Stock",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "BTCY"
-  },
-  {
-   "symbol": "BZ",
-   "name": "KANZHUN LIMITED - American Depository Shares",
-   "exchange": "NASDAQ Global Select MarketSM",
-   "yahoo_symbol": "BZ"
-  },
-  {
-   "symbol": "CARE",
-   "name": "Carter Bankshares, Inc. - Common Stock",
-   "exchange": "NASDAQ Global Select MarketSM",
-   "yahoo_symbol": "CARE"
-  },
-  {
-   "symbol": "CASA",
-   "name": "Casa Systems, Inc. - Common Stock",
-   "exchange": "NASDAQ Global Select MarketSM",
-   "yahoo_symbol": "CASA"
-  },
-  {
-   "symbol": "CASH",
-   "name": "Pathward Financial, Inc. - Common Stock",
-   "exchange": "NASDAQ Global Select MarketSM",
-   "yahoo_symbol": "CASH"
-  },
-  {
-   "symbol": "CBNK",
-   "name": "Capital Bancorp, Inc. - Common Stock",
-   "exchange": "NASDAQ Global Select MarketSM",
-   "yahoo_symbol": "CBNK"
-  },
-  {
-   "symbol": "CCB",
-   "name": "Coastal Financial Corporation - Common Stock",
-   "exchange": "NASDAQ Global Select MarketSM",
-   "yahoo_symbol": "CCB"
-  },
-  {
-   "symbol": "CCD",
-   "name": "Calamos Dynamic Convertible \u0026 Income Fund - Closed End Fund",
-   "exchange": "NASDAQ Global Select MarketSM",
-   "yahoo_symbol": "CCD"
-  },
-  {
-   "symbol": "CD",
-   "name": "Chindata Group Holdings Limited - American Depositary Shares",
-   "exchange": "NASDAQ Global Select MarketSM",
-   "yahoo_symbol": "CD"
-  },
-  {
-   "symbol": "CDNA",
-   "name": "CareDx, Inc. - Common Stock",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "CDNA"
-  },
-  {
-   "symbol": "CEMI",
-   "name": "Chembio Diagnostics, Inc. - Common Stock",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "CEMI"
-  },
-  {
-   "symbol": "CERT",
-   "name": "Certara, Inc. - Common Stock",
-   "exchange": "NASDAQ Global Select MarketSM",
-   "yahoo_symbol": "CERT"
-  },
-  {
-   "symbol": "CG",
-   "name": "The Carlyle Group Inc. - Common Stock",
-   "exchange": "NASDAQ Global Select MarketSM",
-   "yahoo_symbol": "CG"
-  },
-  {
-   "symbol": "CGO",
-   "name": "Calamos Global Total Return Fund - Closed End Fund",
-   "exchange": "NASDAQ Global Select MarketSM",
-   "yahoo_symbol": "CGO"
-  },
-  {
-   "symbol": "CGRN",
-   "name": "Capstone Green Energy Corporation - Common Stock",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "CGRN"
-  },
-  {
-   "symbol": "CHB",
-   "name": "Global X China Biotech Innovation ETF",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "CHB"
-  },
-  {
-   "symbol": "CHW",
-   "name": "Calamos Global Dynamic Income Fund - Closed End Fund",
-   "exchange": "NASDAQ Global Select MarketSM",
-   "yahoo_symbol": "CHW"
-  },
-  {
-   "symbol": "CHY",
-   "name": "Calamos Convertible and High Income Fund - Closed End Fund",
-   "exchange": "NASDAQ Global Select MarketSM",
-   "yahoo_symbol": "CHY"
-  },
-  {
-   "symbol": "CIBR",
-   "name": "First Trust NASDAQ Cybersecurity ETF",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "CIBR"
-  },
-  {
-   "symbol": "CIGI",
-   "name": "Colliers International Group Inc.  - Subordinate Voting Shares",
-   "exchange": "NASDAQ Global Select MarketSM",
-   "yahoo_symbol": "CIGI"
-  },
-  {
-   "symbol": "CINC",
-   "name": "CinCor Pharma, Inc. - Common Stock",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "CINC"
-  },
-  {
-   "symbol": "CINF",
-   "name": "Cincinnati Financial Corporation - Common Stock",
-   "exchange": "NASDAQ Global Select MarketSM",
-   "yahoo_symbol": "CINF"
-  },
-  {
-   "symbol": "CLMT",
-   "name": "Calumet Specialty Products Partners, L.P. - Common units representing limited partner interests",
-   "exchange": "NASDAQ Global Select MarketSM",
-   "yahoo_symbol": "CLMT"
-  },
-  {
-   "symbol": "COCO",
-   "name": "The Vita Coco Company, Inc. - Common Stock",
-   "exchange": "NASDAQ Global Select MarketSM",
-   "yahoo_symbol": "COCO"
-  },
-  {
-   "symbol": "COMM",
-   "name": "CommScope Holding Company, Inc. - Common Stock",
-   "exchange": "NASDAQ Global Select MarketSM",
-   "yahoo_symbol": "COMM"
-  },
-  {
-   "symbol": "CRDL",
-   "name": "Cardiol Therapeutics Inc. - Class A Common Shares",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "CRDL"
-  },
-  {
-   "symbol": "CRON",
-   "name": "Cronos Group Inc. - Common Share",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "CRON"
-  },
-  {
-   "symbol": "CSTR",
-   "name": "CapStar Financial Holdings, Inc. - Common Stock",
-   "exchange": "NASDAQ Global Select MarketSM",
-   "yahoo_symbol": "CSTR"
-  },
-  {
-   "symbol": "CSX",
-   "name": "CSX Corporation - Common Stock",
-   "exchange": "NASDAQ Global Select MarketSM",
-   "yahoo_symbol": "CSX"
-  },
-  {
-   "symbol": "CVV",
-   "name": "CVD Equipment Corporation - Common Stock",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "CVV"
-  },
-  {
-   "symbol": "CYBR",
-   "name": "CyberArk Software Ltd. - Ordinary Shares",
-   "exchange": "NASDAQ Global Select MarketSM",
-   "yahoo_symbol": "CYBR"
-  },
-  {
-   "symbol": "DCBO",
-   "name": "Docebo Inc. - Common Shares",
-   "exchange": "NASDAQ Global Select MarketSM",
-   "yahoo_symbol": "DCBO"
-  },
-  {
-   "symbol": "DGHI",
-   "name": "Digihost Technology Inc. - Common Subordinate Voting Shares",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "DGHI"
-  },
-  {
-   "symbol": "DXR",
-   "name": "Daxor Corporation - Closed End Fund",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "DXR"
-  },
-  {
-   "symbol": "EAC",
-   "name": "Edify Acquisition Corp. - Class A Common Stock",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "EAC"
-  },
-  {
-   "symbol": "ECOR",
-   "name": "electroCore, Inc. - Common Stock",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "ECOR"
-  },
-  {
-   "symbol": "EGLX",
-   "name": "Enthusiast Gaming Holdings Inc. - Common Stock",
-   "exchange": "NASDAQ Global Select MarketSM",
-   "yahoo_symbol": "EGLX"
-  },
-  {
-   "symbol": "EKG",
-   "name": "First Trust Nasdaq Lux Digital Health Solutions ETF",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "EKG"
-  },
-  {
-   "symbol": "ELBM",
-   "name": "Electra Battery Materials Corporation - Common Stock",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "ELBM"
-  },
-  {
-   "symbol": "ENTG",
-   "name": "Entegris, Inc. - Common Stock",
-   "exchange": "NASDAQ Global Select MarketSM",
-   "yahoo_symbol": "ENTG"
-  },
-  {
-   "symbol": "EQ",
-   "name": "Equillium, Inc. - Common Stock",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "EQ"
-  },
-  {
-   "symbol": "ESGE",
-   "name": "iShares ESG Aware MSCI EM ETF",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "ESGE"
-  },
-  {
-   "symbol": "EVER",
-   "name": "EverQuote, Inc. - Class A Common Stock",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "EVER"
-  },
-  {
-   "symbol": "EVGN",
-   "name": "Evogene Ltd. - Ordinary Shares",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "EVGN"
-  },
-  {
-   "symbol": "FA",
-   "name": "First Advantage Corporation - Common Stock",
-   "exchange": "NASDAQ Global Select MarketSM",
-   "yahoo_symbol": "FA"
-  },
-  {
-   "symbol": "FARM",
-   "name": "Farmer Brothers Company - Common Stock",
-   "exchange": "NASDAQ Global Select MarketSM",
-   "yahoo_symbol": "FARM"
-  },
-  {
-   "symbol": "FCUV",
-   "name": "Focus Universal Inc. - Common Stock",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "FCUV"
-  },
-  {
-   "symbol": "FEX",
-   "name": "First Trust Large Cap Core AlphaDEX Fund",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "FEX"
-  },
-  {
-   "symbol": "FLNT",
-   "name": "Fluent, Inc. - Common Stock",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "FLNT"
-  },
-  {
-   "symbol": "FORA",
-   "name": "Forian Inc. - Common Stock",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "FORA"
-  },
-  {
-   "symbol": "FREQ",
-   "name": "Frequency Therapeutics, Inc. - Common Stock",
-   "exchange": "NASDAQ Global Select MarketSM",
-   "yahoo_symbol": "FREQ"
-  },
-  {
-   "symbol": "FSV",
-   "name": "FirstService Corporation - Common Shares",
-   "exchange": "NASDAQ Global Select MarketSM",
-   "yahoo_symbol": "FSV"
-  },
-  {
-   "symbol": "FSZ",
-   "name": "First Trust Switzerland AlphaDEX Fund",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "FSZ"
-  },
-  {
-   "symbol": "FUND",
-   "name": "Sprott Focus Trust, Inc. - Closed End Fund",
-   "exchange": "NASDAQ Global Select MarketSM",
-   "yahoo_symbol": "FUND"
-  },
-  {
-   "symbol": "GAME",
-   "name": "Engine Gaming and Media, Inc. - Common stock",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "GAME"
-  },
-  {
-   "symbol": "GDC",
-   "name": "GD Culture Group Limited - Common Stock",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "GDC"
-  },
-  {
-   "symbol": "GEN",
-   "name": "Gen Digital Inc. - Common Stock",
-   "exchange": "NASDAQ Global Select MarketSM",
-   "yahoo_symbol": "GEN"
-  },
-  {
-   "symbol": "GH",
-   "name": "Guardant Health, Inc. - Common Stock",
-   "exchange": "NASDAQ Global Select MarketSM",
-   "yahoo_symbol": "GH"
-  },
-  {
-   "symbol": "GIII",
-   "name": "G-III Apparel Group, LTD. - Common Stock",
-   "exchange": "NASDAQ Global Select MarketSM",
-   "yahoo_symbol": "GIII"
-  },
-  {
-   "symbol": "GLAD",
-   "name": "Gladstone Capital Corporation - Closed End Fund",
-   "exchange": "NASDAQ Global Select MarketSM",
-   "yahoo_symbol": "GLAD"
-  },
-  {
-   "symbol": "GLG",
-   "name": "TD Holdings, Inc. - Common Stock",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "GLG"
-  },
-  {
-   "symbol": "GOOD",
-   "name": "Gladstone Commercial Corporation - Real Estate Investment Trust",
-   "exchange": "NASDAQ Global Select MarketSM",
-   "yahoo_symbol": "GOOD"
-  },
-  {
-   "symbol": "GRID",
-   "name": "First Trust NASDAQ Clean Edge Smart Grid Infrastructure Index Fund",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "GRID"
-  },
-  {
-   "symbol": "GROW",
-   "name": "U.S. Global Investors, Inc. - Class A Common Stock",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "GROW"
-  },
-  {
-   "symbol": "GSD",
-   "name": "Global Systems Dynamics Inc. - Common Stock",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "GSD"
-  },
-  {
-   "symbol": "HERO",
-   "name": "Global X Video Games \u0026 Esports ETF",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "HERO"
-  },
-  {
-   "symbol": "HEXO",
-   "name": "HEXO Corp. - Common Shares",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "HEXO"
-  },
-  {
-   "symbol": "HITI",
-   "name": "High Tide Inc. - Common Shares",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "HITI"
-  },
-  {
-   "symbol": "HIVE",
-   "name": "Hive Blockchain Technologies Ltd. - Common Shares",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "HIVE"
-  },
-  {
-   "symbol": "HLIT",
-   "name": "Harmonic Inc. - Common Stock",
-   "exchange": "NASDAQ Global Select MarketSM",
-   "yahoo_symbol": "HLIT"
-  },
-  {
-   "symbol": "HUT",
-   "name": "Hut 8 Mining Corp. - Common Shares",
-   "exchange": "NASDAQ Global Select MarketSM",
-   "yahoo_symbol": "HUT"
-  },
-  {
-   "symbol": "HYDR",
-   "name": "Global X Hydrogen ETF",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "HYDR"
-  },
-  {
-   "symbol": "IEI",
-   "name": "iShares 3-7 Year Treasury Bond ETF",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "IEI"
-  },
-  {
-   "symbol": "III",
-   "name": "Information Services Group, Inc. - Common Stock",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "III"
-  },
-  {
-   "symbol": "IMV",
-   "name": "IMV Inc. - Common Shares",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "IMV"
-  },
-  {
-   "symbol": "INFI",
-   "name": "Infinity Pharmaceuticals, Inc. - Common Stock",
-   "exchange": "NASDAQ Global Select MarketSM",
-   "yahoo_symbol": "INFI"
-  },
-  {
-   "symbol": "INTR",
-   "name": "Inter \u0026 Co. Inc. - Class A Common Shares",
-   "exchange": "NASDAQ Global Select MarketSM",
-   "yahoo_symbol": "INTR"
-  },
-  {
-   "symbol": "IQ",
-   "name": "iQIYI, Inc. - American Depositary Shares",
-   "exchange": "NASDAQ Global Select MarketSM",
-   "yahoo_symbol": "IQ"
-  },
-  {
-   "symbol": "ISO",
-   "name": "IsoPlexis Corporation - common stock",
-   "exchange": "NASDAQ Global Select MarketSM",
-   "yahoo_symbol": "ISO"
-  },
-  {
-   "symbol": "JG",
-   "name": "Aurora Mobile Limited - American Depositary Shares",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "JG"
-  },
-  {
-   "symbol": "JWEL",
-   "name": "Jowell Global Ltd. - Ordinary Shares",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "JWEL"
-  },
-  {
-   "symbol": "KC",
-   "name": "Kingsoft Cloud Holdings Limited - American Depositary Shares",
-   "exchange": "NASDAQ Global Select MarketSM",
-   "yahoo_symbol": "KC"
-  },
-  {
-   "symbol": "KSI",
-   "name": "Kadem Sustainable Impact Corporation - Class A common stock",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "KSI"
-  },
-  {
-   "symbol": "KWE",
-   "name": "KWESST Micro Systems Inc. - common stock, no R/S concurrent with offering",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "KWE"
-  },
-  {
-   "symbol": "LAB",
-   "name": "Standard BioTools Inc. - Common Stock",
-   "exchange": "NASDAQ Global Select MarketSM",
-   "yahoo_symbol": "LAB"
-  },
-  {
-   "symbol": "LBC",
-   "name": "Luther Burbank Corporation - Common Stock",
-   "exchange": "NASDAQ Global Select MarketSM",
-   "yahoo_symbol": "LBC"
-  },
-  {
-   "symbol": "LFST",
-   "name": "LifeStance Health Group, Inc. - Common Stock",
-   "exchange": "NASDAQ Global Select MarketSM",
-   "yahoo_symbol": "LFST"
-  },
-  {
-   "symbol": "LGO",
-   "name": "Largo Inc. - Common Shares",
-   "exchange": "NASDAQ Global Select MarketSM",
-   "yahoo_symbol": "LGO"
-  },
-  {
-   "symbol": "LI",
-   "name": "Li Auto Inc. - American Depositary Shares",
-   "exchange": "NASDAQ Global Select MarketSM",
-   "yahoo_symbol": "LI"
-  },
-  {
-   "symbol": "LIFE",
-   "name": "aTyr Pharma, Inc. - Common Stock",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "LIFE"
-  },
-  {
-   "symbol": "LITT",
-   "name": "Logistics Innovation Technologies Corp. - Class A Common stock",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "LITT"
-  },
-  {
-   "symbol": "LOVE",
-   "name": "The Lovesac Company - Common Stock",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "LOVE"
-  },
-  {
-   "symbol": "LSTR",
-   "name": "Landstar System, Inc. - Common Stock",
-   "exchange": "NASDAQ Global Select MarketSM",
-   "yahoo_symbol": "LSTR"
-  },
-  {
-   "symbol": "MAPS",
-   "name": "WM Technology, Inc. - Class A Common Stock",
-   "exchange": "NASDAQ Global Select MarketSM",
-   "yahoo_symbol": "MAPS"
-  },
-  {
-   "symbol": "MASS",
-   "name": "908 Devices Inc. - Common Stock",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "MASS"
-  },
-  {
-   "symbol": "MCLD",
-   "name": "mCloud Technologies Corp. - Common Shares",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "MCLD"
-  },
-  {
-   "symbol": "MDIV",
-   "name": "Multi-Asset Diversified Income Index Fund",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "MDIV"
-  },
-  {
-   "symbol": "MDNA",
-   "name": "Medicenna Therapeutics Corp. - Common Shares",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "MDNA"
-  },
-  {
-   "symbol": "ME",
-   "name": "23andMe Holding Co. - Common Stock",
-   "exchange": "NASDAQ Global Select MarketSM",
-   "yahoo_symbol": "ME"
-  },
-  {
-   "symbol": "MGI",
-   "name": "Moneygram International, Inc. - Common Stock",
-   "exchange": "NASDAQ Global Select MarketSM",
-   "yahoo_symbol": "MGI"
-  },
-  {
-   "symbol": "MMV",
-   "name": "MultiMetaVerse Holdings Limited - Class A Ordinary Share",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "MMV"
-  },
-  {
-   "symbol": "MOGO",
-   "name": "Mogo Inc. - Common Shares",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "MOGO"
-  },
-  {
-   "symbol": "MRVL",
-   "name": "Marvell Technology, Inc. - Common Stock",
-   "exchange": "NASDAQ Global Select MarketSM",
-   "yahoo_symbol": "MRVL"
-  },
-  {
-   "symbol": "MTC",
-   "name": "MMTec, Inc. - Common Shares",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "MTC"
-  },
-  {
-   "symbol": "NA",
-   "name": "Nano Labs Ltd - American Depositary Shares",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "NA"
-  },
-  {
-   "symbol": "NEO",
-   "name": "NeoGenomics, Inc. - Common Stock",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "NEO"
-  },
-  {
-   "symbol": "NEXT",
-   "name": "NextDecade Corporation - Common Stock",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "NEXT"
-  },
-  {
-   "symbol": "NVCN",
-   "name": "Neovasc Inc. - Common Shares",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "NVCN"
-  },
-  {
-   "symbol": "NVEI",
-   "name": "Nuvei Corporation - Subordinate Voting Shares",
-   "exchange": "NASDAQ Global Select MarketSM",
-   "yahoo_symbol": "NVEI"
-  },
-  {
-   "symbol": "NVX",
-   "name": "NOVONIX Limited - American Depository Shares",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "NVX"
-  },
-  {
-   "symbol": "NXTG",
-   "name": "First Trust Indxx NextG ETF",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "NXTG"
-  },
-  {
-   "symbol": "OCG",
-   "name": "Oriental Culture Holding LTD - Ordinary Shares",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "OCG"
-  },
-  {
-   "symbol": "OGI",
-   "name": "Organigram Holdings Inc. - Common Shares",
-   "exchange": "NASDAQ Global Select MarketSM",
-   "yahoo_symbol": "OGI"
-  },
-  {
-   "symbol": "OM",
-   "name": "Outset Medical, Inc. - Common Stock",
-   "exchange": "NASDAQ Global Select MarketSM",
-   "yahoo_symbol": "OM"
-  },
-  {
-   "symbol": "ONEQ",
-   "name": "Fidelity Nasdaq Composite Index ETF",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "ONEQ"
-  },
-  {
-   "symbol": "OPT",
-   "name": "Opthea Limited - American Depositary Shares",
-   "exchange": "NASDAQ Global Select MarketSM",
-   "yahoo_symbol": "OPT"
-  },
-  {
-   "symbol": "OSS",
-   "name": "One Stop Systems, Inc. - Common Stock",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "OSS"
-  },
-  {
-   "symbol": "OTEX",
-   "name": "Open Text Corporation - Common Shares",
-   "exchange": "NASDAQ Global Select MarketSM",
-   "yahoo_symbol": "OTEX"
-  },
-  {
-   "symbol": "PAAS",
-   "name": "Pan American Silver Corp. - Common Stock",
-   "exchange": "NASDAQ Global Select MarketSM",
-   "yahoo_symbol": "PAAS"
-  },
-  {
-   "symbol": "PALI",
-   "name": "Palisade Bio, Inc. - Common Stock",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "PALI"
-  },
-  {
-   "symbol": "PEGA",
-   "name": "Pegasystems Inc. - Common Stock",
-   "exchange": "NASDAQ Global Select MarketSM",
-   "yahoo_symbol": "PEGA"
-  },
-  {
-   "symbol": "PET",
-   "name": "Wag! Group Co. - Common Stock",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "PET"
-  },
-  {
-   "symbol": "PEY",
-   "name": "Invesco High Yield Equity Dividend Achievers ETF",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "PEY"
-  },
-  {
-   "symbol": "PFC",
-   "name": "Premier Financial Corp.  - Common Stock",
-   "exchange": "NASDAQ Global Select MarketSM",
-   "yahoo_symbol": "PFC"
-  },
-  {
-   "symbol": "PFM",
-   "name": "Invesco Dividend Achievers ETF",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "PFM"
-  },
-  {
-   "symbol": "PGC",
-   "name": "Peapack-Gladstone Financial Corporation - Common Stock",
-   "exchange": "NASDAQ Global Select MarketSM",
-   "yahoo_symbol": "PGC"
-  },
-  {
-   "symbol": "PID",
-   "name": "Invesco International Dividend Achievers ETF",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "PID"
-  },
-  {
-   "symbol": "PINC",
-   "name": "Premier, Inc. - Class A Common Stock",
-   "exchange": "NASDAQ Global Select MarketSM",
-   "yahoo_symbol": "PINC"
-  },
-  {
-   "symbol": "PLUR",
-   "name": "Pluri Inc. - Common Stock",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "PLUR"
-  },
-  {
-   "symbol": "PME",
-   "name": "Pingtan Marine Enterprise Ltd. - Ordinary Shares",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "PME"
-  },
-  {
-   "symbol": "PMN",
-   "name": "ProMIS Neurosciences Inc. - Common Shares",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "PMN"
-  },
-  {
-   "symbol": "POOL",
-   "name": "Pool Corporation - Common Stock",
-   "exchange": "NASDAQ Global Select MarketSM",
-   "yahoo_symbol": "POOL"
-  },
-  {
-   "symbol": "PPTA",
-   "name": "Perpetua Resources Corp. - Common Shares",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "PPTA"
-  },
-  {
-   "symbol": "PRN",
-   "name": "Invesco DWA Industrials Momentum ETF",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "PRN"
-  },
-  {
-   "symbol": "PTC",
-   "name": "PTC Inc. - Common Stock",
-   "exchange": "NASDAQ Global Select MarketSM",
-   "yahoo_symbol": "PTC"
-  },
-  {
-   "symbol": "PTE",
-   "name": "PolarityTE, Inc. - Common Stock",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "PTE"
-  },
-  {
-   "symbol": "PTF",
-   "name": "Invesco DWA Technology Momentum ETF",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "PTF"
-  },
-  {
-   "symbol": "PXI",
-   "name": "Invesco DWA Energy Momentum ETF",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "PXI"
-  },
-  {
-   "symbol": "PXS",
-   "name": "Pyxis Tankers Inc. - Common Stock",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "PXS"
-  },
-  {
-   "symbol": "PYR",
-   "name": "PyroGenesis Canada Inc. - Common Shares",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "PYR"
-  },
-  {
-   "symbol": "QCLN",
-   "name": "First Trust NASDAQ Clean Edge Green Energy Index Fund",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "QCLN"
-  },
-  {
-   "symbol": "QIPT",
-   "name": "Quipt Home Medical Corp. - Common Shares",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "QIPT"
-  },
-  {
-   "symbol": "QQC",
-   "name": "Simplify Nasdaq 100 PLUS Convexity ETF",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "QQC"
-  },
-  {
-   "symbol": "REAL",
-   "name": "The RealReal, Inc. - Common Stock",
-   "exchange": "NASDAQ Global Select MarketSM",
-   "yahoo_symbol": "REAL"
-  },
-  {
-   "symbol": "REAX",
-   "name": "The Real Brokerage, Inc. - Common Shares",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "REAX"
-  },
-  {
-   "symbol": "REE",
-   "name": "REE Automotive Ltd. - Class A Ordinary Shares",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "REE"
-  },
-  {
-   "symbol": "REG",
-   "name": "Regency Centers Corporation - Common Stock",
-   "exchange": "NASDAQ Global Select MarketSM",
-   "yahoo_symbol": "REG"
-  },
-  {
-   "symbol": "REIT",
-   "name": "ALPS Active REIT ETF",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "REIT"
-  },
-  {
-   "symbol": "REUN",
-   "name": "Reunion Neuroscience Inc. - Common Shares",
-   "exchange": "NASDAQ Global Select MarketSM",
-   "yahoo_symbol": "REUN"
-  },
-  {
-   "symbol": "RMR",
-   "name": "The RMR Group Inc. - Class A Common Stock",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "RMR"
-  },
-  {
-   "symbol": "RNW",
-   "name": "ReNew Energy Global plc - Class A Shares",
-   "exchange": "NASDAQ Global Select MarketSM",
-   "yahoo_symbol": "RNW"
-  },
-  {
-   "symbol": "ROCK",
-   "name": "Gibraltar Industries, Inc. - Common Stock",
-   "exchange": "NASDAQ Global Select MarketSM",
-   "yahoo_symbol": "ROCK"
-  },
-  {
-   "symbol": "ROOT",
-   "name": "Root, Inc. - Common Stock",
-   "exchange": "NASDAQ Global Select MarketSM",
-   "yahoo_symbol": "ROOT"
-  },
-  {
-   "symbol": "ROVR",
-   "name": "Rover Group, Inc. - Class A Common Stock",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "ROVR"
-  },
-  {
-   "symbol": "RPD",
-   "name": "Rapid7, Inc. - Common Stock",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "RPD"
-  },
-  {
-   "symbol": "RTH",
-   "name": "VanEck Retail ETF",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "RTH"
-  },
-  {
-   "symbol": "RUBY",
-   "name": "Rubius Therapeutics, Inc. - Common Stock",
-   "exchange": "NASDAQ Global Select MarketSM",
-   "yahoo_symbol": "RUBY"
-  },
-  {
-   "symbol": "RUM",
-   "name": "Rumble Inc. - Class A Common Stock",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "RUM"
-  },
-  {
-   "symbol": "SBT",
-   "name": "Sterling Bancorp, Inc. - Common Stock",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "SBT"
-  },
-  {
-   "symbol": "SCZ",
-   "name": "iShares MSCI EAFE Small-Cap ETF",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "SCZ"
-  },
-  {
-   "symbol": "SEV",
-   "name": "Sono Group N.V. - Common Shares",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "SEV"
-  },
-  {
-   "symbol": "SFR",
-   "name": "Appreciate Holdings, Inc. - Class A Common Stock",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "SFR"
-  },
-  {
-   "symbol": "SGC",
-   "name": "Superior Group of Companies, Inc. - Common Stock",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "SGC"
-  },
-  {
-   "symbol": "SGML",
-   "name": "Sigma Lithium Corporation - common shares",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "SGML"
-  },
-  {
-   "symbol": "SJ",
-   "name": "Scienjoy Holding Corporation - Class A Ordinary Shares",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "SJ"
-  },
-  {
-   "symbol": "SKYY",
-   "name": "First Trust Cloud Computing ETF",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "SKYY"
-  },
-  {
-   "symbol": "SLS",
-   "name": "SELLAS Life Sciences Group, Inc.  - Common Stock",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "SLS"
-  },
-  {
-   "symbol": "SLVR",
-   "name": "SilverSPAC Inc. - Class A Ordinary Share",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "SLVR"
-  },
-  {
-   "symbol": "SPC",
-   "name": "CrossingBridge Pre-Merger SPAC ETF",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "SPC"
-  },
-  {
-   "symbol": "SPI",
-   "name": "SPI Energy Co., Ltd. - Ordinary Shares",
-   "exchange": "NASDAQ Global Select MarketSM",
-   "yahoo_symbol": "SPI"
-  },
-  {
-   "symbol": "SPRX",
-   "name": "Spear Alpha ETF",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "SPRX"
-  },
-  {
-   "symbol": "SSRM",
-   "name": "SSR Mining Inc. - Common Stock",
-   "exchange": "NASDAQ Global Select MarketSM",
-   "yahoo_symbol": "SSRM"
-  },
-  {
-   "symbol": "STEP",
-   "name": "StepStone Group Inc. - Class A Common Stock",
-   "exchange": "NASDAQ Global Select MarketSM",
-   "yahoo_symbol": "STEP"
-  },
-  {
-   "symbol": "STER",
-   "name": "Sterling Check Corp. - Common Stock",
-   "exchange": "NASDAQ Global Select MarketSM",
-   "yahoo_symbol": "STER"
-  },
-  {
-   "symbol": "STRM",
-   "name": "Streamline Health Solutions, Inc. - Common Stock",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "STRM"
-  },
-  {
-   "symbol": "STRR",
-   "name": "Star Equity Holdings, Inc. - Common Stock",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "STRR"
-  },
-  {
-   "symbol": "SURG",
-   "name": "SurgePays, Inc. - Common Stock",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "SURG"
-  },
-  {
-   "symbol": "SVA",
-   "name": "Sinovac Biotech, Ltd. - Ordinary Shares (Antigua/Barbudo)",
-   "exchange": "NASDAQ Global Select MarketSM",
-   "yahoo_symbol": "SVA"
-  },
-  {
-   "symbol": "TA",
-   "name": "TravelCenters of America Inc.  - Common Stock",
-   "exchange": "NASDAQ Global Select MarketSM",
-   "yahoo_symbol": "TA"
-  },
-  {
-   "symbol": "TC",
-   "name": "TuanChe Limited - American Depositary Shares",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "TC"
-  },
-  {
-   "symbol": "TECH",
-   "name": "Bio-Techne Corp - Common Stock",
-   "exchange": "NASDAQ Global Select MarketSM",
-   "yahoo_symbol": "TECH"
-  },
-  {
-   "symbol": "TH",
-   "name": "Target Hospitality Corp. - Common Stock",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "TH"
-  },
-  {
-   "symbol": "THRM",
-   "name": "Gentherm Inc - Common Stock",
-   "exchange": "NASDAQ Global Select MarketSM",
-   "yahoo_symbol": "THRM"
-  },
-  {
-   "symbol": "TIG",
-   "name": "Trean Insurance Group, Inc. - Common Stock",
-   "exchange": "NASDAQ Global Select MarketSM",
-   "yahoo_symbol": "TIG"
-  },
-  {
-   "symbol": "TIL",
-   "name": "Instil Bio, Inc. - Common Stock",
-   "exchange": "NASDAQ Global Select MarketSM",
-   "yahoo_symbol": "TIL"
-  },
-  {
-   "symbol": "TLF",
-   "name": "Tandy Leather Factory, Inc. - common stock",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "TLF"
-  },
-  {
-   "symbol": "TLRY",
-   "name": "Tilray Brands, Inc. - Class 2 Common Stock",
-   "exchange": "NASDAQ Global Select MarketSM",
-   "yahoo_symbol": "TLRY"
-  },
-  {
-   "symbol": "TLT",
-   "name": "iShares 20+ Year Treasury Bond ETF",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "TLT"
-  },
-  {
-   "symbol": "TMC",
-   "name": "TMC the metals company Inc. - Common Stock",
-   "exchange": "NASDAQ Global Select MarketSM",
-   "yahoo_symbol": "TMC"
-  },
-  {
-   "symbol": "TOI",
-   "name": "The Oncology Institute, Inc. - Common Stock",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "TOI"
-  },
-  {
-   "symbol": "TRS",
-   "name": "TriMas Corporation - Common Stock",
-   "exchange": "NASDAQ Global Select MarketSM",
-   "yahoo_symbol": "TRS"
-  },
-  {
-   "symbol": "TSAT",
-   "name": "Telesat Corporation - Class A Common Shares and Class B Variable Voting Shares",
-   "exchange": "NASDAQ Global Select MarketSM",
-   "yahoo_symbol": "TSAT"
-  },
-  {
-   "symbol": "TSL",
-   "name": "GraniteShares 1.25x Long Tesla Daily ETF",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "TSL"
-  },
-  {
-   "symbol": "TTD",
-   "name": "The Trade Desk, Inc. - Class A Common Stock",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "TTD"
-  },
-  {
-   "symbol": "TXG",
-   "name": "10x Genomics, Inc. - Common Stock",
-   "exchange": "NASDAQ Global Select MarketSM",
-   "yahoo_symbol": "TXG"
-  },
-  {
-   "symbol": "VBNK",
-   "name": "VersaBank - Common Shares",
-   "exchange": "NASDAQ Global Select MarketSM",
-   "yahoo_symbol": "VBNK"
-  },
-  {
-   "symbol": "VMD",
-   "name": "Viemed Healthcare, Inc. - Common Shares",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "VMD"
-  },
-  {
-   "symbol": "VONE",
-   "name": "Vanguard Russell 1000 ETF",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "VONE"
-  },
-  {
-   "symbol": "VQS",
-   "name": "VIQ Solutions Inc. - Common Shares",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "VQS"
-  },
-  {
-   "symbol": "WAVE",
-   "name": "Eco Wave Power Global AB (publ) - American Depositary Shares",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "WAVE"
-  },
-  {
-   "symbol": "WISH",
-   "name": "ContextLogic Inc. - Class A Common Stock",
-   "exchange": "NASDAQ Global Select MarketSM",
-   "yahoo_symbol": "WISH"
-  },
-  {
-   "symbol": "WMG",
-   "name": "Warner Music Group Corp. - Class A Common Stock",
-   "exchange": "NASDAQ Global Select MarketSM",
-   "yahoo_symbol": "WMG"
-  },
-  {
-   "symbol": "WPRT",
-   "name": "Westport Fuel Systems Inc - Common Shares",
-   "exchange": "NASDAQ Global Select MarketSM",
-   "yahoo_symbol": "WPRT"
-  },
-  {
-   "symbol": "XDNA",
-   "name": "Strategic CRISPR \u0026 Gene Editing Technology ETF",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "XDNA"
-  },
-  {
-   "symbol": "XRTX",
-   "name": "XORTX Therapeutics Inc. - Common Stock",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "XRTX"
-  },
-  {
-   "symbol": "ZGEN",
-   "name": "The Generation Z ETF",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "ZGEN"
   }
  ]
 }
