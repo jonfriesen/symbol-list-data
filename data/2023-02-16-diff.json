@@ -1,16 +1,1 @@
-{
- "added": [
-  {
-   "symbol": "DISTU",
-   "name": "Distoken Acquisition Corporation - Unit",
-   "exchange": "NASDAQ Global MarketSM",
-   "yahoo_symbol": "DISTU"
-  },
-  {
-   "symbol": "NFTG",
-   "name": "The NFT Gaming Company, Inc. - Common Stock",
-   "exchange": "NASDAQ Capital Market",
-   "yahoo_symbol": "NFTG"
-  }
- ]
-}
+{}
