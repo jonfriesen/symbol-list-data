@@ -1,0 +1,84 @@
+{
+ "added": [
+  {
+   "symbol": "DMAQ",
+   "name": "Deep Medicine Acquisition Corp. - Class A Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "DMAQ"
+  },
+  {
+   "symbol": "DMAQR",
+   "name": "Deep Medicine Acquisition Corp. - Rights",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "DMAQR"
+  },
+  {
+   "symbol": "WRAC",
+   "name": "Williams Rowland Acquisition Corp. Common Stock",
+   "exchange": "NYSE MKT",
+   "yahoo_symbol": "WRAC"
+  },
+  {
+   "symbol": "WRAC.U",
+   "name": "Williams Rowland Acquisition Corp. Units, each consisting of one share of common stock and one-half of one redeemable warrant",
+   "exchange": "NYSE MKT",
+   "yahoo_symbol": "WRAC.U"
+  },
+  {
+   "symbol": "WRAC.W",
+   "name": "Williams Rowland Acquisition Corp. Redeemable Warrants, each exercisable for one share of Common Stock at an exercise price of $11.50",
+   "exchange": "NYSE MKT",
+   "yahoo_symbol": "WRAC.W"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "SJIV",
+   "name": "South Jersey Industries, Inc. Corporate Units",
+   "exchange": "NYSE",
+   "yahoo_symbol": "SJIV"
+  },
+  {
+   "symbol": "BLNKW",
+   "name": "Blink Charging Co. - Warrant",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "BLNKW"
+  },
+  {
+   "symbol": "WRAC.U",
+   "name": "Williams Rowland Acquisition Corp. Units, each consisting of one share of common stock and one-half of one redeemable warrant",
+   "exchange": "NYSE",
+   "yahoo_symbol": "WRAC.U"
+  },
+  {
+   "symbol": "DMAQR",
+   "name": "Deep Medicine Acquisition Corp. - Rights",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "DMAQR"
+  },
+  {
+   "symbol": "WRAC",
+   "name": "Williams Rowland Acquisition Corp. Common Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "WRAC"
+  },
+  {
+   "symbol": "DMAQ",
+   "name": "Deep Medicine Acquisition Corp. - Class A Common Stock",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "DMAQ"
+  },
+  {
+   "symbol": "SJIJ",
+   "name": "South Jersey Industries, Inc. 5.625% Junior Subordinated Notes due 2079",
+   "exchange": "NYSE",
+   "yahoo_symbol": "SJIJ"
+  },
+  {
+   "symbol": "WRAC.W",
+   "name": "Williams Rowland Acquisition Corp. Redeemable Warrants, each exercisable for one share of Common Stock at an exercise price of $11.50",
+   "exchange": "NYSE",
+   "yahoo_symbol": "WRAC.W"
+  }
+ ]
+}

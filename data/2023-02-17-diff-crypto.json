@@ -1,0 +1,18 @@
+{
+ "added": [
+  {
+   "symbol": "UMAMI",
+   "name": "Umami (UMAMI)",
+   "built_on": "ARBIRTUM"
+  },
+  {
+   "symbol": "SARCO",
+   "name": "Sarcophagus (SARCO)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "CREDITS",
+   "name": "Credits (CREDITS)"
+  }
+ ]
+}
