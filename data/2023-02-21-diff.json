@@ -1,0 +1,82 @@
+{
+ "added": [
+  {
+   "symbol": "CUTL",
+   "name": "CI Utilities Giants Covered Call ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "CUTL.TO",
+   "instruments": [
+    {
+     "name": "CI Util GianCall Heg",
+     "symbol": "CUTL"
+    },
+    {
+     "name": "CI Util GianCal Unhg",
+     "symbol": "CUTL.B"
+    }
+   ]
+  },
+  {
+   "symbol": "CATX",
+   "name": "Perspective Therapeutics, Inc. Common Stock",
+   "exchange": "NYSE MKT",
+   "yahoo_symbol": "CATX"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "MCAER",
+   "name": "Mountain Crest Acquisition Corp. III - Right",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "MCAER"
+  },
+  {
+   "symbol": "WEBR",
+   "name": "Weber Inc. Class A Common Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "WEBR"
+  },
+  {
+   "symbol": "MCAEU",
+   "name": "Mountain Crest Acquisition Corp. III - Unit",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "MCAEU"
+  },
+  {
+   "symbol": "MCAE",
+   "name": "Mountain Crest Acquisition Corp. III - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "MCAE"
+  },
+  {
+   "symbol": "MSACW",
+   "name": "Medicus Sciences Acquisition Corp. - Warrant",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "MSACW"
+  },
+  {
+   "symbol": "TWY",
+   "name": "Twyford Ventures Inc.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "TWY.V",
+   "instruments": [
+    {
+     "name": "Twyford Ventures Inc",
+     "symbol": "TWY"
+    }
+   ]
+  },
+  {
+   "symbol": "MSAC",
+   "name": "Medicus Sciences Acquisition Corp. - Class A Ordinary Share",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "MSAC"
+  },
+  {
+   "symbol": "ISR",
+   "name": "IsoRay, Inc. Common Stock (DE)",
+   "exchange": "NYSE MKT",
+   "yahoo_symbol": "ISR"
+  }
+ ]
+}
