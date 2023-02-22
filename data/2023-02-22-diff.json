@@ -1,0 +1,138 @@
+{
+ "added": [
+  {
+   "symbol": "ABM",
+   "name": "Aben Minerals Ltd.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "ABM.V",
+   "instruments": [
+    {
+     "name": "Aben Minerals Ltd.",
+     "symbol": "ABM"
+    }
+   ]
+  },
+  {
+   "symbol": "BONE",
+   "name": "Boron One Holdings Inc.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "BONE.V",
+   "instruments": [
+    {
+     "name": "Boron One Holdings Inc.",
+     "symbol": "BONE"
+    }
+   ]
+  },
+  {
+   "symbol": "GODB.P",
+   "name": "Goodbridge Capital Corp.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "GODB.P.V",
+   "instruments": [
+    {
+     "name": "Goodbridge Capital Corp.",
+     "symbol": "GODB.P"
+    }
+   ]
+  },
+  {
+   "symbol": "CTRMV",
+   "name": "Castor Maritime Inc. - Common Shares Ex-Distribution When Issued",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "CTRMV"
+  },
+  {
+   "symbol": "ETAO",
+   "name": "Etao International Co., Ltd. - Ordinary Shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "ETAO"
+  },
+  {
+   "symbol": "TOROV",
+   "name": "Toro Corp. - Common stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "TOROV"
+  },
+  {
+   "symbol": "STRW",
+   "name": "Strawberry Fields REIT, Inc. Common Stock",
+   "exchange": "NYSE MKT",
+   "yahoo_symbol": "STRW"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "SMU.UN",
+   "name": "Summit Industrial Income REIT",
+   "exchange": "TSX",
+   "yahoo_symbol": "SMU.UN.TO",
+   "instruments": [
+    {
+     "name": "Summit Ind REIT Un J",
+     "symbol": "SMU.UN"
+    }
+   ]
+  },
+  {
+   "symbol": "NVSA",
+   "name": "New Vista Acquisition Corp - Class A Ordinary Shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "NVSA"
+  },
+  {
+   "symbol": "LGAC",
+   "name": "Lazard Growth Acquisition Corp. I - Ordinary Shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "LGAC"
+  },
+  {
+   "symbol": "NVSAW",
+   "name": "New Vista Acquisition Corp - Redeemable Warrant to purchase Class A Ordinary Shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "NVSAW"
+  },
+  {
+   "symbol": "NVSAU",
+   "name": "New Vista Acquisition Corp - Unit",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "NVSAU"
+  },
+  {
+   "symbol": "LGACU",
+   "name": "Lazard Growth Acquisition Corp. I - Units",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "LGACU"
+  },
+  {
+   "symbol": "EV",
+   "name": "Erin Ventures Inc.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "EV.V",
+   "instruments": [
+    {
+     "name": "Erin Ventures Inc.",
+     "symbol": "EV"
+    }
+   ]
+  },
+  {
+   "symbol": "ABN",
+   "name": "Aben Resources Ltd.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "ABN.V",
+   "instruments": [
+    {
+     "name": "Aben Resources Ltd.",
+     "symbol": "ABN"
+    }
+   ]
+  },
+  {
+   "symbol": "LGACW",
+   "name": "Lazard Growth Acquisition Corp. I - Warrants",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "LGACW"
+  }
+ ]
+}
