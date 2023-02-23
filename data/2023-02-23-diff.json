@@ -1,0 +1,134 @@
+{
+ "added": [
+  {
+   "symbol": "FMAC.P",
+   "name": "Fraser Mackenzie Accelerator Corp.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "FMAC.P.V",
+   "instruments": [
+    {
+     "name": "Fraser Mackenzie Accelerator Corp.",
+     "symbol": "FMAC.P"
+    }
+   ]
+  },
+  {
+   "symbol": "IIAE",
+   "name": "Invesco S\u0026P International Developed Dividend Aristocrats ESG Index ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "IIAE.TO",
+   "instruments": [
+    {
+     "name": "InvescoS\u0026P IntlDevDv",
+     "symbol": "IIAE"
+    },
+    {
+     "name": "InvescoS\u0026PIntDevDvHg",
+     "symbol": "IIAE.F"
+    }
+   ]
+  },
+  {
+   "symbol": "IUAE",
+   "name": "Invesco S\u0026P US Dividend Aristocrats ESG Index ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "IUAE.TO",
+   "instruments": [
+    {
+     "name": "InvescoS\u0026P USDvArist",
+     "symbol": "IUAE"
+    },
+    {
+     "name": "InvescoS\u0026P USDvArisH",
+     "symbol": "IUAE.F"
+    }
+   ]
+  },
+  {
+   "symbol": "ICAE",
+   "name": "Invesco S\u0026P/TSX Canadian Dividend Aristocrats ESG Index ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "ICAE.TO",
+   "instruments": [
+    {
+     "name": "InvscoS\u0026PTSXCdnDvESG",
+     "symbol": "ICAE"
+    }
+   ]
+  },
+  {
+   "symbol": "QYLE",
+   "name": "Global X Nasdaq 100 ESG Covered Call ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "QYLE"
+  },
+  {
+   "symbol": "BTE",
+   "name": "Baytex Energy Corp Common Shares",
+   "exchange": "NYSE",
+   "yahoo_symbol": "BTE"
+  },
+  {
+   "symbol": "COHR",
+   "name": "Coherent Corp. Common Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "COHR"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "LHCG",
+   "name": "LHC Group - common stock",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "LHCG"
+  },
+  {
+   "symbol": "PAYA",
+   "name": "Paya Holdings Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "PAYA"
+  },
+  {
+   "symbol": "SRNE",
+   "name": "Sorrento Therapeutics, Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "SRNE"
+  },
+  {
+   "symbol": "COHR",
+   "name": "Coherent Corp. - Common Stock",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "COHR"
+  },
+  {
+   "symbol": "IIVIP",
+   "name": "Coherent Corp. - 6.00% Series A Mandatory Convertible Preferred Stock",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "IIVIP"
+  },
+  {
+   "symbol": "GNT",
+   "name": "Gentor Resources Inc.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "GNT.V",
+   "instruments": [
+    {
+     "name": "Gentor Resources Inc.",
+     "symbol": "GNT"
+    }
+   ]
+  },
+  {
+   "symbol": "ONEM",
+   "name": "1Life Healthcare, Inc. - Common Stock",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "ONEM"
+  },
+  {
+   "symbol": "ZGN.W",
+   "name": "Ermenegildo Zegna N.V. Warrants, each whole warrant exercisable for one Ordinary Share at an exercise price of $11.50 per share",
+   "exchange": "NYSE",
+   "yahoo_symbol": "ZGN.W"
+  }
+ ]
+}
