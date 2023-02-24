@@ -1,0 +1,40 @@
+{
+ "added": [
+  {
+   "symbol": "SHIB05",
+   "name": "Half Shiba Inu (SHIB05)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "IUNGO",
+   "name": "Iungo (IUNGO)"
+  },
+  {
+   "symbol": "KEXCOIN",
+   "name": "KexCoin (KexCoin)"
+  },
+  {
+   "symbol": "BULLION",
+   "name": "BullionFX (BULLION)"
+  },
+  {
+   "symbol": "MIININGNFT",
+   "name": "MiningNFT (MIININGNFT)"
+  },
+  {
+   "symbol": "BIDAO",
+   "name": "Bidao (BIDAO)"
+  },
+  {
+   "symbol": "CRE",
+   "name": "Carry (CRE)"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "CARRY",
+   "name": "Carry (CARRY)",
+   "built_on": "ETH"
+  }
+ ]
+}

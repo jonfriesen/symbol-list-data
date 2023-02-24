@@ -1,0 +1,54 @@
+{
+ "added": [
+  {
+   "symbol": "ELVN",
+   "name": "Enliven Therapeutics, Inc.  - Common Stock",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "ELVN"
+  },
+  {
+   "symbol": "IIVI",
+   "name": "Coherent Corp. 6.00% Series A Mandatory Convertible Preferred Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "IIVI"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "FRII",
+   "name": "Freshii Inc.",
+   "exchange": "TSX",
+   "yahoo_symbol": "FRII.TO",
+   "instruments": [
+    {
+     "name": "Freshii Inc. Cl A SV",
+     "symbol": "FRII"
+    }
+   ]
+  },
+  {
+   "symbol": "FTAAU",
+   "name": "FTAC Athena Acquisition Corp. - Unit",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "FTAAU"
+  },
+  {
+   "symbol": "IMRA",
+   "name": "IMARA Inc. - Common Stock",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "IMRA"
+  },
+  {
+   "symbol": "FTAA",
+   "name": "FTAC Athena Acquisition Corp. - Class A Ordinary Share",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "FTAA"
+  },
+  {
+   "symbol": "FTAAW",
+   "name": "FTAC Athena Acquisition Corp. - Warrant",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "FTAAW"
+  }
+ ]
+}
