@@ -1,0 +1,190 @@
+{
+ "added": [
+  {
+   "symbol": "TIN",
+   "name": "Tincorp Metals Inc.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "TIN.V",
+   "instruments": [
+    {
+     "name": "Tincorp Metals Inc.",
+     "symbol": "TIN"
+    }
+   ]
+  },
+  {
+   "symbol": "CIEH",
+   "name": "CIBC International Equity Index ETF (CAD-Hedged)",
+   "exchange": "TSX",
+   "yahoo_symbol": "CIEH.TO",
+   "instruments": [
+    {
+     "name": "CIBC Intl Eq CA-Hegd",
+     "symbol": "CIEH"
+    }
+   ]
+  },
+  {
+   "symbol": "HHRS",
+   "name": "Hammerhead Energy Inc.",
+   "exchange": "TSX",
+   "yahoo_symbol": "HHRS.TO",
+   "instruments": [
+    {
+     "name": "Hammerhead Engy J A",
+     "symbol": "HHRS"
+    },
+    {
+     "name": "Hammerhead Engy J Wt",
+     "symbol": "HHRS.WT"
+    }
+   ]
+  },
+  {
+   "symbol": "QDRO",
+   "name": "Quadro Acquisition One Corp. - Class A Ordinary Shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "QDRO"
+  },
+  {
+   "symbol": "QDROU",
+   "name": "Quadro Acquisition One Corp. - Unit",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "QDROU"
+  },
+  {
+   "symbol": "QDROW",
+   "name": "Quadro Acquisition One Corp. - Warrant",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "QDROW"
+  },
+  {
+   "symbol": "TIO",
+   "name": "Tingo Group, Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "TIO"
+  },
+  {
+   "symbol": "UPBD",
+   "name": "Upbound Group, Inc. - Common Stock",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "UPBD"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "ANAC",
+   "name": "Arctos NorthStar Acquisition Corp. Class A Ordinary Shares",
+   "exchange": "NYSE",
+   "yahoo_symbol": "ANAC"
+  },
+  {
+   "symbol": "ANAC.U",
+   "name": "Arctos NorthStar Acquisition Corp. Units, each consisting of one Class A ordinary share, and one-fourth of one redeemable warrant",
+   "exchange": "NYSE",
+   "yahoo_symbol": "ANAC.U"
+  },
+  {
+   "symbol": "CINC",
+   "name": "CinCor Pharma, Inc. - Common Stock",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "CINC"
+  },
+  {
+   "symbol": "KAIIU",
+   "name": "Kismet Acquisition Two Corp. - Unit",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "KAIIU"
+  },
+  {
+   "symbol": "CPAQ",
+   "name": "Counter Press Acquisition Corporation - Class A Ordinary Shares",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "CPAQ"
+  },
+  {
+   "symbol": "CPAQU",
+   "name": "Counter Press Acquisition Corporation - Unit",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "CPAQU"
+  },
+  {
+   "symbol": "RCII",
+   "name": "Rent-A-Center Inc. - Common Stock",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "RCII"
+  },
+  {
+   "symbol": "GWR",
+   "name": "Global Water Resources, Inc.",
+   "exchange": "TSX",
+   "yahoo_symbol": "GWR.TO",
+   "instruments": [
+    {
+     "name": "Global Water Res",
+     "symbol": "GWR"
+    }
+   ]
+  },
+  {
+   "symbol": "MICT",
+   "name": "MICT, Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "MICT"
+  },
+  {
+   "symbol": "KAII",
+   "name": "Kismet Acquisition Two Corp. - Class A Ordinary Shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "KAII"
+  },
+  {
+   "symbol": "DCRDW",
+   "name": "Decarbonization Plus Acquisition Corporation IV - Warrant",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "DCRDW"
+  },
+  {
+   "symbol": "DCRDU",
+   "name": "Decarbonization Plus Acquisition Corporation IV - Unit",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "DCRDU"
+  },
+  {
+   "symbol": "DCRD",
+   "name": "Decarbonization Plus Acquisition Corporation IV - Class A Ordinary Share",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "DCRD"
+  },
+  {
+   "symbol": "WHG",
+   "name": "Whitehorse Gold Corp.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "WHG.V",
+   "instruments": [
+    {
+     "name": "Whitehorse Gold Corp.",
+     "symbol": "WHG"
+    }
+   ]
+  },
+  {
+   "symbol": "CPAQW",
+   "name": "Counter Press Acquisition Corporation - Warrant",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "CPAQW"
+  },
+  {
+   "symbol": "ANAC.W",
+   "name": "Arctos NorthStar Acquisition Corp. Warrants, each whole warrant exercisable for one Class A ordinary share at an exercise price of $11.50",
+   "exchange": "NYSE",
+   "yahoo_symbol": "ANAC.W"
+  },
+  {
+   "symbol": "KAIIW",
+   "name": "Kismet Acquisition Two Corp. - Warrant",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "KAIIW"
+  }
+ ]
+}

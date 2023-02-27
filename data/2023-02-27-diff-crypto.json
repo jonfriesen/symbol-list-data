@@ -1,0 +1,19 @@
+{
+ "added": [
+  {
+   "symbol": "GRV",
+   "name": "Grove (GRV)"
+  },
+  {
+   "symbol": "MGPT",
+   "name": "MotoGP Fan Token (MGPT)",
+   "built_on": "BITCI"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "MGPT",
+   "name": "MotoGP Fan Token (MGPT)"
+  }
+ ]
+}
