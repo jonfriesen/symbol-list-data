@@ -1,0 +1,60 @@
+{
+ "added": [
+  {
+   "symbol": "HHRS",
+   "name": "Hammerhead Energy Inc. - Class A Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "HHRS"
+  },
+  {
+   "symbol": "HHRSW",
+   "name": "Hammerhead Energy Inc. - Warrant",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "HHRSW"
+  },
+  {
+   "symbol": "RCKTW",
+   "name": "Rocket Pharmaceuticals, Inc. - Warrant",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "RCKTW"
+  },
+  {
+   "symbol": "SBXC.U",
+   "name": "SilverBox Corp III Units, each consisting of one Class A Common Stock and one-third of one redeemable warrant",
+   "exchange": "NYSE",
+   "yahoo_symbol": "SBXC.U"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "IRL",
+   "name": "New Ireland Fund, Inc (The) Common Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "IRL"
+  },
+  {
+   "symbol": "ELVT",
+   "name": "Elevate Credit, Inc. Common Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "ELVT"
+  },
+  {
+   "symbol": "LXG",
+   "name": "Lexagene Holdings Inc.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "LXG.V",
+   "instruments": [
+    {
+     "name": "Lexagene Holdings Inc.",
+     "symbol": "LXG"
+    }
+   ]
+  },
+  {
+   "symbol": "ABGI",
+   "name": "ABG Acquisition Corp. I - Class A Ordinary Shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "ABGI"
+  }
+ ]
+}
