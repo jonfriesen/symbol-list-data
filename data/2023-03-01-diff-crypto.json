@@ -1,0 +1,168 @@
+{
+ "added": [
+  {
+   "symbol": "STATER",
+   "name": "Stater (STATER)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "MTS",
+   "name": "Metastrike (MTS)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "SHIRYOINU",
+   "name": "Shiryo-Inu (SHIRYOINU)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "CLH",
+   "name": "ClearDAO (CLH)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "1ART",
+   "name": "ArtWallet (1ART)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "WQT",
+   "name": "Work Quest (WQT)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "VERA",
+   "name": "Vera (VERA)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "ENVION",
+   "name": "Envion (ENVION)"
+  },
+  {
+   "symbol": "ETHA",
+   "name": "ETHA Lend (ETHA)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "BANK",
+   "name": "Float Protocol (BANK)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "GETH",
+   "name": "Guarded Ether (GETH)"
+  },
+  {
+   "symbol": "IQN",
+   "name": "IQeon (IQN)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "GART",
+   "name": "Griffin Art (GART)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "QANX",
+   "name": "QANplatform (QANX)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "DOGETH",
+   "name": "EtherDoge (DOGETH)"
+  },
+  {
+   "symbol": "TFI",
+   "name": "TrustFi Network Token (TFI)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "GAME",
+   "name": "Gamestarter (GAME)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "WNK",
+   "name": "The Winkyverse (WNK)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "KART",
+   "name": "Dragon Kart (KART)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "VOLTOLD",
+   "name": "Volt Inu (Old) (VOLTOLD)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "BRN",
+   "name": "BRN Metaverse (BRN)",
+   "built_on": "BNB"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "TFI",
+   "name": "TrustFi Network Token (TFI)"
+  },
+  {
+   "symbol": "IQN",
+   "name": "IQeon (IQN)"
+  },
+  {
+   "symbol": "SHIRYOINU",
+   "name": "Shiryo-Inu (SHIRYOINU)"
+  },
+  {
+   "symbol": "BRN",
+   "name": "BRN Metaverse (BRN)"
+  },
+  {
+   "symbol": "GAME",
+   "name": "Gamestarter (GAME)"
+  },
+  {
+   "symbol": "WNK",
+   "name": "The Winkyverse (WNK)"
+  },
+  {
+   "symbol": "GART",
+   "name": "Griffin Art (GART)"
+  },
+  {
+   "symbol": "KART",
+   "name": "Dragon Kart (KART)"
+  },
+  {
+   "symbol": "CLH",
+   "name": "ClearDAO (CLH)"
+  },
+  {
+   "symbol": "WQT",
+   "name": "Work Quest (WQT)"
+  },
+  {
+   "symbol": "QANX",
+   "name": "QANplatform (QANX)"
+  },
+  {
+   "symbol": "VERA",
+   "name": "Vera (VERA)"
+  },
+  {
+   "symbol": "1ART",
+   "name": "ArtWallet (1ART)"
+  },
+  {
+   "symbol": "MTS",
+   "name": "Metastrike (MTS)"
+  },
+  {
+   "symbol": "ETHA",
+   "name": "ETHA Lend (ETHA)"
+  }
+ ]
+}

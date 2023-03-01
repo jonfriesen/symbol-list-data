@@ -1,0 +1,168 @@
+{
+ "added": [
+  {
+   "symbol": "LSL",
+   "name": "LSL Pharma Group Inc.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "LSL.V",
+   "instruments": [
+    {
+     "name": "LSL Pharma Group Inc.",
+     "symbol": "LSL"
+    }
+   ]
+  },
+  {
+   "symbol": "BMR",
+   "name": "Beamr Imaging Ltd. - Ordinary Share",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "BMR"
+  },
+  {
+   "symbol": "ISRL",
+   "name": "Israel Acquisitions Corp - Class A Ordinary Shares",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "ISRL"
+  },
+  {
+   "symbol": "ISRLW",
+   "name": "Israel Acquisitions Corp - Warrant",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "ISRLW"
+  },
+  {
+   "symbol": "ZVRA",
+   "name": "Zevra Therapeutics, Inc.  - Common Stock",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "ZVRA"
+  },
+  {
+   "symbol": "NSTB",
+   "name": "Northern Star Investment Corp. II Class A Common stock",
+   "exchange": "NYSE MKT",
+   "yahoo_symbol": "NSTB"
+  },
+  {
+   "symbol": "NSTB.U",
+   "name": "Northern Star Investment Corp. II Units, each consisting of one share of Class A common stock and one-fifth of one redeemable warrant",
+   "exchange": "NYSE MKT",
+   "yahoo_symbol": "NSTB.U"
+  },
+  {
+   "symbol": "NSTB.W",
+   "name": "Northern Star Investment Corp. II Redeemable warrants, each whole warrant exercisable for shares of Class A common stock at an exercise price of $11.50 per share",
+   "exchange": "NYSE MKT",
+   "yahoo_symbol": "NSTB.W"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "NSTB",
+   "name": "Northern Star Investment Corp. II Class A Common stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "NSTB"
+  },
+  {
+   "symbol": "TPBAW",
+   "name": "TPB Acquisition Corporation I - Warrant",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "TPBAW"
+  },
+  {
+   "symbol": "NEE$P",
+   "name": "NextEra Energy, Inc. 5.279% Corporate Units",
+   "exchange": "NYSE",
+   "yahoo_symbol": "NEE$P"
+  },
+  {
+   "symbol": "PICC.U",
+   "name": "Pivotal Investment Corporation III Units, each consisting of one share of Class A common stock and one-fifth of one redeemable warrant",
+   "exchange": "NYSE",
+   "yahoo_symbol": "PICC.U"
+  },
+  {
+   "symbol": "RFP",
+   "name": "Resolute Forest Products Inc. Common Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "RFP"
+  },
+  {
+   "symbol": "RNERU",
+   "name": "Mount Rainier Acquisition Corp. - Unit",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "RNERU"
+  },
+  {
+   "symbol": "CGP",
+   "name": "Cornerstone Capital Resources Inc.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "CGP.V",
+   "instruments": [
+    {
+     "name": "Cornerstone Capital Resources Inc.",
+     "symbol": "CGP"
+    }
+   ]
+  },
+  {
+   "symbol": "COUP",
+   "name": "Coupa Software Incorporated - Common Stock",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "COUP"
+  },
+  {
+   "symbol": "PICC",
+   "name": "Pivotal Investment Corporation III Class A Common Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "PICC"
+  },
+  {
+   "symbol": "TPBAU",
+   "name": "TPB Acquisition Corporation I - Unit",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "TPBAU"
+  },
+  {
+   "symbol": "NSTB.W",
+   "name": "Northern Star Investment Corp. II Redeemable warrants, each whole warrant exercisable for shares of Class A common stock at an exercise price of $11.50 per share",
+   "exchange": "NYSE",
+   "yahoo_symbol": "NSTB.W"
+  },
+  {
+   "symbol": "PME",
+   "name": "Pingtan Marine Enterprise Ltd. - Ordinary Shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "PME"
+  },
+  {
+   "symbol": "KMPH",
+   "name": "KemPharm, Inc. - Common Stock",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "KMPH"
+  },
+  {
+   "symbol": "NSTB.U",
+   "name": "Northern Star Investment Corp. II Units, each consisting of one share of Class A common stock and one-fifth of one redeemable warrant",
+   "exchange": "NYSE",
+   "yahoo_symbol": "NSTB.U"
+  },
+  {
+   "symbol": "RNERW",
+   "name": "Mount Rainier Acquisition Corp. - Warrant",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "RNERW"
+  },
+  {
+   "symbol": "RNER",
+   "name": "Mount Rainier Acquisition Corp. - Common Stock",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "RNER"
+  },
+  {
+   "symbol": "TPBA",
+   "name": "TPB Acquisition Corporation I - Class A Ordinary Share",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "TPBA"
+  }
+ ]
+}
