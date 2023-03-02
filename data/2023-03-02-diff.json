@@ -1,0 +1,138 @@
+{
+ "added": [
+  {
+   "symbol": "RUSH",
+   "name": "Carolina Rush Corporation",
+   "exchange": "TSXV",
+   "yahoo_symbol": "RUSH.V",
+   "instruments": [
+    {
+     "name": "Carolina Rush Corporation",
+     "symbol": "RUSH"
+    }
+   ]
+  },
+  {
+   "symbol": "BSMW",
+   "name": "Invesco BulletShares 2032 Municipal Bond ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "BSMW"
+  },
+  {
+   "symbol": "HUBC",
+   "name": "Hub Cyber Security Ltd. - Ordinary Shares",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "HUBC"
+  },
+  {
+   "symbol": "HUBCW",
+   "name": "Hub Cyber Security Ltd. - Warrant expiring 2/27/28",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "HUBCW"
+  },
+  {
+   "symbol": "HUBCZ",
+   "name": "Hub Cyber Security Ltd. - warrant type 2",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "HUBCZ"
+  },
+  {
+   "symbol": "LVRO",
+   "name": "Lavoro Limited - Class A Ordinary Shares",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "LVRO"
+  },
+  {
+   "symbol": "LVROW",
+   "name": "Lavoro Limited - Warrant",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "LVROW"
+  },
+  {
+   "symbol": "VBLT",
+   "name": "Vascular Biogenics Ltd. - Ordinary Shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "VBLT"
+  },
+  {
+   "symbol": "SLND",
+   "name": "Southland Holdings, Inc. Common Stock",
+   "exchange": "NYSE MKT",
+   "yahoo_symbol": "SLND"
+  },
+  {
+   "symbol": "SLND.W",
+   "name": "Southland Holdings, Inc. Warrants",
+   "exchange": "NYSE MKT",
+   "yahoo_symbol": "SLND.W"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "VBLT",
+   "name": "Vascular Biogenics Ltd. - Ordinary Shares",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "VBLT"
+  },
+  {
+   "symbol": "COWNL",
+   "name": "Cowen Inc. - 7.75% Senior Notes due 2033",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "COWNL"
+  },
+  {
+   "symbol": "COWN",
+   "name": "Cowen Inc. - Class A Common Stock",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "COWN"
+  },
+  {
+   "symbol": "IBER.U",
+   "name": "Ibere Pharmaceuticals Units, each consisting of one Class A ordinary share and one-half of one Redeemable Warrant",
+   "exchange": "NYSE",
+   "yahoo_symbol": "IBER.U"
+  },
+  {
+   "symbol": "UMPQ",
+   "name": "Umpqua Holdings Corporation - Common Stock",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "UMPQ"
+  },
+  {
+   "symbol": "SLND",
+   "name": "Southland Holdings, Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "SLND"
+  },
+  {
+   "symbol": "PUC",
+   "name": "Pancontinental Resources Corporation",
+   "exchange": "TSXV",
+   "yahoo_symbol": "PUC.V",
+   "instruments": [
+    {
+     "name": "Pancontinental Resources Corporation",
+     "symbol": "PUC"
+    }
+   ]
+  },
+  {
+   "symbol": "SLNDW",
+   "name": "Southland Holdings, Inc. - Warrants",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "SLNDW"
+  },
+  {
+   "symbol": "IBER",
+   "name": "Ibere Pharmaceuticals Class A Ordinary Shares",
+   "exchange": "NYSE",
+   "yahoo_symbol": "IBER"
+  },
+  {
+   "symbol": "IBER.W",
+   "name": "Ibere Pharmaceuticals Redeemable Warrants, each whole warrant exercisable for one Class A ordinary share at an exercise price of $11.50 per share",
+   "exchange": "NYSE",
+   "yahoo_symbol": "IBER.W"
+  }
+ ]
+}

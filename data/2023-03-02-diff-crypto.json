@@ -1,0 +1,253 @@
+{
+ "added": [
+  {
+   "symbol": "ZPTC",
+   "name": "Zeptacoin (ZPTC)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "DIONE",
+   "name": "Dione (DIONE)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "YAE",
+   "name": "Cryptonovae (YAE)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "ACM",
+   "name": "AC Milan Fan Token (ACM)",
+   "built_on": "CHZ"
+  },
+  {
+   "symbol": "LKC",
+   "name": "LuckyCoin (LKC)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "HNTR",
+   "name": "Hunter (HNTR)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "CPO",
+   "name": "Cryptopolis (CPO)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "OKS",
+   "name": "Oikos (OKS)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "AAC",
+   "name": "Double-A Chain (AAC)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "BABYTK",
+   "name": "Baby Tiger King (BABYTK)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "SMTY",
+   "name": "Smoothy (SMTY)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "IXS",
+   "name": "IX Swap (IXS)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "PEL",
+   "name": "Propel Token (PEL)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "DEHUB",
+   "name": "DeHub (DEHUB)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "SPACEPI",
+   "name": "SpacePi (SPACEPI)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "BOT",
+   "name": "Bot Planet (BOT)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "SAO",
+   "name": "Sator (SAO)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "ANJI",
+   "name": "Anji (ANJI)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "BANKETH",
+   "name": "BankEth (BANKETH)"
+  },
+  {
+   "symbol": "NCASH",
+   "name": "Nucleus Vision (NCASH)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "ARCONA",
+   "name": "Arcona (ARCONA)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "DOG",
+   "name": "The Doge NFT (DOG)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "KOI",
+   "name": "Koi Network (KOI)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "BPX",
+   "name": "Black Phoenix (BPX)",
+   "built_on": "TRX"
+  },
+  {
+   "symbol": "OLY",
+   "name": "Olyseum (OLY)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "WAXE",
+   "name": "WAXE (WAXE)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "ATS",
+   "name": "Atlas DEX (ATS)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "OCC",
+   "name": "OccamFi (OCC)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "GETH",
+   "name": "Guarded Ether (GETH)"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "KOI",
+   "name": "Koi Network (KOI)"
+  },
+  {
+   "symbol": "ACM",
+   "name": "AC Milan Fan Token (ACM)"
+  },
+  {
+   "symbol": "NCASH",
+   "name": "Nucleus Vision (NCASH)"
+  },
+  {
+   "symbol": "DEHUB",
+   "name": "DeHub (DEHUB)"
+  },
+  {
+   "symbol": "OCC",
+   "name": "OccamFi (OCC)"
+  },
+  {
+   "symbol": "PEL",
+   "name": "Propel Token (PEL)"
+  },
+  {
+   "symbol": "BPX",
+   "name": "Black Phoenix (BPX)"
+  },
+  {
+   "symbol": "IXS",
+   "name": "IX Swap (IXS)"
+  },
+  {
+   "symbol": "AAC",
+   "name": "Double-A Chain (AAC)"
+  },
+  {
+   "symbol": "SMTY",
+   "name": "Smoothy (SMTY)"
+  },
+  {
+   "symbol": "BABYTK",
+   "name": "Baby Tiger King (BABYTK)"
+  },
+  {
+   "symbol": "YAE",
+   "name": "Cryptonovae (YAE)"
+  },
+  {
+   "symbol": "HNTR",
+   "name": "Hunter (HNTR)"
+  },
+  {
+   "symbol": "BOT",
+   "name": "Bot Planet (BOT)"
+  },
+  {
+   "symbol": "CPO",
+   "name": "Cryptopolis (CPO)"
+  },
+  {
+   "symbol": "ZPTC",
+   "name": "Zeptacoin (ZPTC)"
+  },
+  {
+   "symbol": "LKC",
+   "name": "LuckyCoin (LKC)"
+  },
+  {
+   "symbol": "DIONE",
+   "name": "Dione (DIONE)"
+  },
+  {
+   "symbol": "OKS",
+   "name": "Oikos (OKS)"
+  },
+  {
+   "symbol": "SAO",
+   "name": "Sator (SAO)"
+  },
+  {
+   "symbol": "SPACEPI",
+   "name": "SpacePi (SPACEPI)"
+  },
+  {
+   "symbol": "WAXE",
+   "name": "WAXE (WAXE)"
+  },
+  {
+   "symbol": "ATS",
+   "name": "Atlas DEX (ATS)"
+  },
+  {
+   "symbol": "ANJI",
+   "name": "Anji (ANJI)"
+  },
+  {
+   "symbol": "ARCONA",
+   "name": "Arcona (ARCONA)"
+  },
+  {
+   "symbol": "OLY",
+   "name": "Olyseum (OLY)"
+  }
+ ]
+}
