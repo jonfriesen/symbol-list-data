@@ -1,0 +1,117 @@
+{
+ "added": [
+  {
+   "symbol": "TOK",
+   "name": "Tokenplace (TOK)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "GETH",
+   "name": "Guarded Ether (GETH)"
+  },
+  {
+   "symbol": "CRBN",
+   "name": "Carbon (CRBN)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "RET",
+   "name": "RealTract (RET)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "SPHRI",
+   "name": "Spherium (SPHRI)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "STBU",
+   "name": "Stobox Token (STBU)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "SKILL",
+   "name": "CryptoBlades (SKILL)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "DOGETH",
+   "name": "EtherDoge (DOGETH)"
+  },
+  {
+   "symbol": "DRCT",
+   "name": "Ally Direct (DRCT)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "LINU",
+   "name": "Luna Inu (LINU)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "BANKETH",
+   "name": "BankEth (BANKETH)"
+  },
+  {
+   "symbol": "FANC",
+   "name": "fanC (FANC)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "MILK2",
+   "name": "Spaceswap MILK2 (MILK2)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "TONCOIN",
+   "name": "The Open Network (TONCOIN)"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "TOK",
+   "name": "Tokenplace (TOK)"
+  },
+  {
+   "symbol": "LINU",
+   "name": "Luna Inu (LINU)"
+  },
+  {
+   "symbol": "SKILL",
+   "name": "CryptoBlades (SKILL)"
+  },
+  {
+   "symbol": "MILK2",
+   "name": "Spaceswap MILK2 (MILK2)"
+  },
+  {
+   "symbol": "SPHRI",
+   "name": "Spherium (SPHRI)"
+  },
+  {
+   "symbol": "FANC",
+   "name": "fanC (FANC)"
+  },
+  {
+   "symbol": "CRBN",
+   "name": "Carbon (CRBN)"
+  },
+  {
+   "symbol": "RET",
+   "name": "RealTract (RET)"
+  },
+  {
+   "symbol": "TONCOIN",
+   "name": "The Open Network (TONCOIN)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "STBU",
+   "name": "Stobox Token (STBU)"
+  },
+  {
+   "symbol": "DRCT",
+   "name": "Ally Direct (DRCT)"
+  }
+ ]
+}

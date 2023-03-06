@@ -1,0 +1,150 @@
+{
+ "added": [
+  {
+   "symbol": "PTEC",
+   "name": "Principal Technologies Inc.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "PTEC.V",
+   "instruments": [
+    {
+     "name": "Principal Technologies Inc.",
+     "symbol": "PTEC"
+    }
+   ]
+  },
+  {
+   "symbol": "ELO",
+   "name": "Eloro Resources Ltd.",
+   "exchange": "TSX",
+   "yahoo_symbol": "ELO.TO",
+   "instruments": [
+    {
+     "name": "Eloro Resources J",
+     "symbol": "ELO"
+    }
+   ]
+  },
+  {
+   "symbol": "OCS",
+   "name": "Oculis Holding AG - Ordinary shares",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "OCS"
+  },
+  {
+   "symbol": "OCSAW",
+   "name": "Oculis Holding AG - Warrants",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "OCSAW"
+  },
+  {
+   "symbol": "AMBI",
+   "name": "Ambipar Emergency Response Class A Ordinary Shares",
+   "exchange": "NYSE MKT",
+   "yahoo_symbol": "AMBI"
+  },
+  {
+   "symbol": "AMBI.W",
+   "name": "Ambipar Emergency Response Warrants to purchase Class A ordinary shares, each whole warrant exercisable for one Class A ordinary share at an exercise price of $11.50 per share",
+   "exchange": "NYSE MKT",
+   "yahoo_symbol": "AMBI.W"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "SEB",
+   "name": "Smart Employee Benefits Inc.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "SEB.V",
+   "instruments": [
+    {
+     "name": "Smart Employee Benefits Inc.",
+     "symbol": "SEB"
+    }
+   ]
+  },
+  {
+   "symbol": "ICPH",
+   "name": "ICPEI Holdings Inc.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "ICPH.V",
+   "instruments": [
+    {
+     "name": "ICPEI Holdings Inc.",
+     "symbol": "ICPH"
+    }
+   ]
+  },
+  {
+   "symbol": "HPX.W",
+   "name": "HPX Corp. Redeemable warrants, each whole warrant exercisable for one Class A ordinary share at an exercise price of $11.50",
+   "exchange": "NYSE MKT",
+   "yahoo_symbol": "HPX.W"
+  },
+  {
+   "symbol": "ELO",
+   "name": "Eloro Resources Ltd.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "ELO.V",
+   "instruments": [
+    {
+     "name": "Eloro Resources Ltd.",
+     "symbol": "ELO"
+    }
+   ]
+  },
+  {
+   "symbol": "OIIM",
+   "name": "O2Micro International Limited - American Depositary Shares",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "OIIM"
+  },
+  {
+   "symbol": "HPX.U",
+   "name": "HPX Corp. Units, each consisting of one Class A ordinary share and one-half of one redeemable warrant",
+   "exchange": "NYSE MKT",
+   "yahoo_symbol": "HPX.U"
+  },
+  {
+   "symbol": "MLAIW",
+   "name": "McLaren Technology Acquisition Corp. - Warrant",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "MLAIW"
+  },
+  {
+   "symbol": "FTEV",
+   "name": "FinTech Evolution Acquisition Group Class A Ordinary Shares",
+   "exchange": "NYSE",
+   "yahoo_symbol": "FTEV"
+  },
+  {
+   "symbol": "LHDX",
+   "name": "Lucira Health, Inc. - Common Stock",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "LHDX"
+  },
+  {
+   "symbol": "MLAI",
+   "name": "McLaren Technology Acquisition Corp. - Class A Common Stock",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "MLAI"
+  },
+  {
+   "symbol": "FTEV.U",
+   "name": "FinTech Evolution Acquisition Group Units, each consisting of one Class A Ordinary Share, and one-third of one redeemable warrant",
+   "exchange": "NYSE",
+   "yahoo_symbol": "FTEV.U"
+  },
+  {
+   "symbol": "MLAIU",
+   "name": "McLaren Technology Acquisition Corp. - Unit",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "MLAIU"
+  },
+  {
+   "symbol": "HPX",
+   "name": "HPX Corp. Class A Ordinary Shares",
+   "exchange": "NYSE MKT",
+   "yahoo_symbol": "HPX"
+  }
+ ]
+}
