@@ -1,0 +1,96 @@
+{
+ "added": [
+  {
+   "symbol": "BM",
+   "name": "BC Moly Ltd.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "BM.V",
+   "instruments": [
+    {
+     "name": "BC Moly Ltd.",
+     "symbol": "BM"
+    }
+   ]
+  },
+  {
+   "symbol": "CXAIV",
+   "name": "CXApp Inc. - Common Stock When Issued",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "CXAIV"
+  },
+  {
+   "symbol": "HBANL",
+   "name": "Huntington Bancshares Incorporated - Depositary Shares, Each Representing a 1/40th Interest in a Share of 6.875% Series J Non-Cumulative Perpetual Preferred Stock",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "HBANL"
+  },
+  {
+   "symbol": "INPXV",
+   "name": "Inpixon  - Common Stock Ex-distribution When Issued",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "INPXV"
+  },
+  {
+   "symbol": "GNTY",
+   "name": "Guaranty Bancshares, Inc. Common Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "GNTY"
+  },
+  {
+   "symbol": "IGR.V",
+   "name": "CBRE Global Real Estate Income Fund Rights (expiring April 6, 2023) Rights when issued",
+   "exchange": "NYSE",
+   "yahoo_symbol": "IGR.V"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "LOKM",
+   "name": "Live Oak Mobility Acquisition Corp. Class A Common Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "LOKM"
+  },
+  {
+   "symbol": "CNCE",
+   "name": "Concert Pharmaceuticals, Inc. - Common Stock",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "CNCE"
+  },
+  {
+   "symbol": "CAJ",
+   "name": "Canon, Inc. American Depositary Shares",
+   "exchange": "NYSE",
+   "yahoo_symbol": "CAJ"
+  },
+  {
+   "symbol": "GET",
+   "name": "Getnet Adquirencia e Servicos para Meios de Pagamento S.A. - American Depositary Shares",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "GET"
+  },
+  {
+   "symbol": "GNTY",
+   "name": "Guaranty Bancshares, Inc. - Common Stock",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "GNTY"
+  },
+  {
+   "symbol": "LOKM.W",
+   "name": "Live Oak Mobility Acquisition Corp. Warrants, exercisable for one share of Class A common stock at an exercise price of $11.50 per share",
+   "exchange": "NYSE",
+   "yahoo_symbol": "LOKM.W"
+  },
+  {
+   "symbol": "RUBY",
+   "name": "Rubius Therapeutics, Inc. - Common Stock",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "RUBY"
+  },
+  {
+   "symbol": "LOKM.U",
+   "name": "Live Oak Mobility Acquisition Corp. Units, each consisting of one share of Class A common stock, and one-fifth of one warrant",
+   "exchange": "NYSE",
+   "yahoo_symbol": "LOKM.U"
+  }
+ ]
+}
