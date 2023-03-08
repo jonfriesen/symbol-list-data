@@ -1,0 +1,126 @@
+{
+ "added": [
+  {
+   "symbol": "CARM",
+   "name": "Carisma Therapeutics, Inc. - Common Stock",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "CARM"
+  },
+  {
+   "symbol": "TORO",
+   "name": "Toro Corp. - Common stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "TORO"
+  },
+  {
+   "symbol": "XBIL",
+   "name": "US Treasury 6 Month Bill ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "XBIL"
+  },
+  {
+   "symbol": "PLM.V",
+   "name": "Polymet Mining Corp. Rights (expiring April 4, 2023) Rights when issued",
+   "exchange": "NYSE MKT",
+   "yahoo_symbol": "PLM.V"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "FPAC.U",
+   "name": "Far Peak Acquisition Corporation Units, each consisting of one Class A ordinary share, and one-third of one redeemable warrant",
+   "exchange": "NYSE",
+   "yahoo_symbol": "FPAC.U"
+  },
+  {
+   "symbol": "HERAW",
+   "name": "FTAC Hera Acquisition Corp. - Warrant",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "HERAW"
+  },
+  {
+   "symbol": "FRSGU",
+   "name": "First Reserve Sustainable Growth Corp. - Unit",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "FRSGU"
+  },
+  {
+   "symbol": "LION",
+   "name": "Lionheart III Corp - Class A Common Stock",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "LION"
+  },
+  {
+   "symbol": "LIONW",
+   "name": "Lionheart III Corp - Warrant",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "LIONW"
+  },
+  {
+   "symbol": "MGR",
+   "name": "Magna Gold Corp.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "MGR.V",
+   "instruments": [
+    {
+     "name": "Magna Gold Corp.",
+     "symbol": "MGR"
+    }
+   ]
+  },
+  {
+   "symbol": "HERA",
+   "name": "FTAC Hera Acquisition Corp. - Class A Ordinary Shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "HERA"
+  },
+  {
+   "symbol": "SESN",
+   "name": "Sesen Bio, Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "SESN"
+  },
+  {
+   "symbol": "HERAU",
+   "name": "FTAC Hera Acquisition Corp. - Units, each consisting of one share of Class A common stock and one fourth of one warrant",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "HERAU"
+  },
+  {
+   "symbol": "TOROV",
+   "name": "Toro Corp. - Common stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "TOROV"
+  },
+  {
+   "symbol": "CTRMV",
+   "name": "Castor Maritime Inc. - Common Shares Ex-Distribution When Issued",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "CTRMV"
+  },
+  {
+   "symbol": "LIONU",
+   "name": "Lionheart III Corp - Unit",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "LIONU"
+  },
+  {
+   "symbol": "FPAC",
+   "name": "Far Peak Acquisition Corporation Class A Ordinary Shares",
+   "exchange": "NYSE",
+   "yahoo_symbol": "FPAC"
+  },
+  {
+   "symbol": "FRSGW",
+   "name": "First Reserve Sustainable Growth Corp. - Warrant",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "FRSGW"
+  },
+  {
+   "symbol": "FRSG",
+   "name": "First Reserve Sustainable Growth Corp. - Class A Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "FRSG"
+  }
+ ]
+}

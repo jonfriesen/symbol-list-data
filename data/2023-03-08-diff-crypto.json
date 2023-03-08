@@ -1,0 +1,132 @@
+{
+ "added": [
+  {
+   "symbol": "CPD",
+   "name": "CoinsPaid (CPD)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "SWFL",
+   "name": "Swapfolio (SWFL)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "RBIS",
+   "name": "ArbiSmart (RBIS)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "AXIS",
+   "name": "Axis DeFi (AXIS)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "RDX",
+   "name": "Redux Protocol (RDX)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "GETH",
+   "name": "Guarded Ether (GETH)"
+  },
+  {
+   "symbol": "FORTHB",
+   "name": "ForthBox (FORTHB)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "DOG",
+   "name": "The Doge NFT (DOG)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "FBX",
+   "name": "Finance Blocks (FBX)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "FARA",
+   "name": "FaraLand (FARA)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "SYNC",
+   "name": "Sync Network (SYNC)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "ZORA",
+   "name": "Zoracles (ZORA)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "SLICE",
+   "name": "Tranche Finance (SLICE)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "URQA",
+   "name": "UREEQA (URQA)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "BANKETH",
+   "name": "BankEth (BANKETH)"
+  },
+  {
+   "symbol": "QRX",
+   "name": "QuiverX (QRX)",
+   "built_on": "ETH"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "SLICE",
+   "name": "Tranche Finance (SLICE)"
+  },
+  {
+   "symbol": "AXIS",
+   "name": "Axis DeFi (AXIS)"
+  },
+  {
+   "symbol": "SWFL",
+   "name": "Swapfolio (SWFL)"
+  },
+  {
+   "symbol": "FBX",
+   "name": "ForthBox (FBX)"
+  },
+  {
+   "symbol": "CPD",
+   "name": "CoinsPaid (CPD)"
+  },
+  {
+   "symbol": "SYNC",
+   "name": "Sync Network (SYNC)"
+  },
+  {
+   "symbol": "FARA",
+   "name": "FaraLand (FARA)"
+  },
+  {
+   "symbol": "RDX",
+   "name": "Redux Protocol (RDX)"
+  },
+  {
+   "symbol": "ZORA",
+   "name": "Zoracles (ZORA)"
+  },
+  {
+   "symbol": "QRX",
+   "name": "QuiverX (QRX)"
+  },
+  {
+   "symbol": "RBIS",
+   "name": "ArbiSmart (RBIS)"
+  },
+  {
+   "symbol": "URQA",
+   "name": "UREEQA (URQA)"
+  }
+ ]
+}
