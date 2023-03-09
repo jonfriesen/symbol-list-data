@@ -1,0 +1,102 @@
+{
+ "added": [
+  {
+   "symbol": "EBCD.P",
+   "name": "Eureka Capital Corp.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "EBCD.P.V",
+   "instruments": [
+    {
+     "name": "Eureka Capital Corp.",
+     "symbol": "EBCD.P"
+    }
+   ]
+  },
+  {
+   "symbol": "BET",
+   "name": "NorthStar Gaming Holdings Inc.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "BET.V",
+   "instruments": [
+    {
+     "name": "Northstar Gaming Holdings Inc.",
+     "symbol": "BET"
+    }
+   ]
+  },
+  {
+   "symbol": "LIRC",
+   "name": "Lithium Royalty Corp.",
+   "exchange": "TSX",
+   "yahoo_symbol": "LIRC.TO",
+   "instruments": [
+    {
+     "name": "Lithium Royalty J WI",
+     "symbol": "LIRC"
+    }
+   ]
+  },
+  {
+   "symbol": "DRTT",
+   "name": "DIRTT Environmental Solutions Ltd. - Common Shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "DRTT"
+  },
+  {
+   "symbol": "SMX",
+   "name": "SMX (Security Matters) Public Limited Company - Class A Ordinary Shares",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "SMX"
+  },
+  {
+   "symbol": "SMXWW",
+   "name": "SMX (Security Matters) Public Limited Company - Warrant",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "SMXWW"
+  },
+  {
+   "symbol": "AESI",
+   "name": "Atlas Energy Solutions Inc. Class A Common Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "AESI"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "MIMI",
+   "name": "Mimi's Rock Corp.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "MIMI.V",
+   "instruments": [
+    {
+     "name": "Mimi's Rock Corp.",
+     "symbol": "MIMI"
+    }
+   ]
+  },
+  {
+   "symbol": "SRAX",
+   "name": "SRAX, Inc. - Class A Common Stock",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "SRAX"
+  },
+  {
+   "symbol": "WBR",
+   "name": "Waterloo Brewing Ltd.",
+   "exchange": "TSX",
+   "yahoo_symbol": "WBR.TO",
+   "instruments": [
+    {
+     "name": "Waterloo Brewing Ltd",
+     "symbol": "WBR"
+    }
+   ]
+  },
+  {
+   "symbol": "DRTT",
+   "name": "DIRTT Environmental Solutions Ltd. - Common Shares",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "DRTT"
+  }
+ ]
+}

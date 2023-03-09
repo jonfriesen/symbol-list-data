@@ -1,0 +1,81 @@
+{
+ "added": [
+  {
+   "symbol": "HUSL",
+   "name": "Hustle Token (HUSL)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "ASIA",
+   "name": "Asia Coin (ASIA)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "ENTC",
+   "name": "EnterButton (ENTC)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "RIN",
+   "name": "Aldrin (RIN)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "BXX",
+   "name": "Baanx (BXX)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "BANKETH",
+   "name": "BankEth (BANKETH)"
+  },
+  {
+   "symbol": "SALE",
+   "name": "DxSale Network (SALE)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "FLZ",
+   "name": "Fellaz (FLZ)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "GETH",
+   "name": "Guarded Ether (GETH)"
+  },
+  {
+   "symbol": "DOGETH",
+   "name": "EtherDoge (DOGETH)"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "FLZ",
+   "name": "Fellaz (FLZ)"
+  },
+  {
+   "symbol": "SALE",
+   "name": "DxSale Network (SALE)"
+  },
+  {
+   "symbol": "ENTC",
+   "name": "EnterButton (ENTC)"
+  },
+  {
+   "symbol": "RIN",
+   "name": "Aldrin (RIN)"
+  },
+  {
+   "symbol": "BXX",
+   "name": "Baanx (BXX)"
+  },
+  {
+   "symbol": "HUSL",
+   "name": "Hustle Token (HUSL)"
+  },
+  {
+   "symbol": "ASIA",
+   "name": "Asia Coin (ASIA)"
+  }
+ ]
+}
