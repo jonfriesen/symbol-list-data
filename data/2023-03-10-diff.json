@@ -1,0 +1,156 @@
+{
+ "added": [
+  {
+   "symbol": "PVIS",
+   "name": "Parvis Invest Inc.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "PVIS.V",
+   "instruments": [
+    {
+     "name": "Parvis Invest Inc.",
+     "symbol": "PVIS"
+    }
+   ]
+  },
+  {
+   "symbol": "TOTC.P",
+   "name": "Totec Resources Ltd.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "TOTC.P.V",
+   "instruments": [
+    {
+     "name": "Totec Resources Ltd.",
+     "symbol": "TOTC.P"
+    }
+   ]
+  },
+  {
+   "symbol": "AIXI",
+   "name": "XIAO-I Corporation - American Depositary Shares",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "AIXI"
+  },
+  {
+   "symbol": "LMND.W",
+   "name": "Lemonade, Inc. Warrants",
+   "exchange": "NYSE MKT",
+   "yahoo_symbol": "LMND.W"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "MYOV",
+   "name": "Myovant Sciences Ltd. Common Shares",
+   "exchange": "NYSE",
+   "yahoo_symbol": "MYOV"
+  },
+  {
+   "symbol": "WPCB.U",
+   "name": "Warburg Pincus Capital Corporation IB Units, each consisting of one Class A ordinary share, and one-fifth of one redeemable warrant",
+   "exchange": "NYSE",
+   "yahoo_symbol": "WPCB.U"
+  },
+  {
+   "symbol": "ESM.U",
+   "name": "ESM Acquisition Corporation Unit",
+   "exchange": "NYSE",
+   "yahoo_symbol": "ESM.U"
+  },
+  {
+   "symbol": "ESM.W",
+   "name": "ESM Acquisition Corporation Redeemable warrants, each whole warrant exercisable for one Class A ordinary share at an exercise price of $11.50",
+   "exchange": "NYSE",
+   "yahoo_symbol": "ESM.W"
+  },
+  {
+   "symbol": "WPCB",
+   "name": "Warburg Pincus Capital Corporation IB Class A Ordinary Shares",
+   "exchange": "NYSE",
+   "yahoo_symbol": "WPCB"
+  },
+  {
+   "symbol": "SVFB",
+   "name": "SVF Investment Corp. 2 - Class A Ordinary Shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "SVFB"
+  },
+  {
+   "symbol": "ESM",
+   "name": "ESM Acquisition Corporation Class A Ordinary Shares",
+   "exchange": "NYSE",
+   "yahoo_symbol": "ESM"
+  },
+  {
+   "symbol": "WPCA.U",
+   "name": "Warburg Pincus Capital Corporation IA Units, each consisting of one Class A ordinary share, and one-fifth of one redeemable warrant",
+   "exchange": "NYSE",
+   "yahoo_symbol": "WPCA.U"
+  },
+  {
+   "symbol": "FCRD",
+   "name": "First Eagle Alternative Capital BDC, Inc. - Closed End Fund",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "FCRD"
+  },
+  {
+   "symbol": "FSTX",
+   "name": "F-star Therapeutics, Inc.  - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "FSTX"
+  },
+  {
+   "symbol": "GII.P",
+   "name": "Gravitas II Capital Corp.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "GII.P.V",
+   "instruments": [
+    {
+     "name": "Gravitas II Capital Corp.",
+     "symbol": "GII.P"
+    }
+   ]
+  },
+  {
+   "symbol": "RTI",
+   "name": "Radient Technologies Inc.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "RTI.V",
+   "instruments": [
+    {
+     "name": "Radient Technologies Inc.",
+     "symbol": "RTI"
+    }
+   ]
+  },
+  {
+   "symbol": "VVNT",
+   "name": "Vivint Smart Home, Inc. ",
+   "exchange": "NYSE",
+   "yahoo_symbol": "VVNT"
+  },
+  {
+   "symbol": "GMN",
+   "name": "GobiMin Inc.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "GMN.V",
+   "instruments": [
+    {
+     "name": "GobiMin Inc.",
+     "symbol": "GMN"
+    }
+   ]
+  },
+  {
+   "symbol": "WPCA",
+   "name": "Warburg Pincus Capital Corporation IA Class A Ordinary Shares",
+   "exchange": "NYSE",
+   "yahoo_symbol": "WPCA"
+  },
+  {
+   "symbol": "TMDI",
+   "name": "Titan Medical Inc. - Ordinary Shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "TMDI"
+  }
+ ]
+}

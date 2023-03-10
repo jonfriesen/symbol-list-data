@@ -1,0 +1,149 @@
+{
+ "added": [
+  {
+   "symbol": "IGU",
+   "name": "IguVerse (IGU)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "FTN",
+   "name": "Fasttoken (FTN)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "CMOS",
+   "name": "CoinMerge OS (CMOS)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "COOK",
+   "name": "Cook (COOK)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "LARIX",
+   "name": "Larix (LARIX)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "SPARTA",
+   "name": "Spartan Protocol Token (SPARTA)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "LQR",
+   "name": "Laqira Protocol (LQR)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "METALCOIN",
+   "name": "MetalCoin (METALCOIN)"
+  },
+  {
+   "symbol": "DOGETH",
+   "name": "EtherDoge (DOGETH)"
+  },
+  {
+   "symbol": "NCR",
+   "name": "Neos Credits (NCR)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "FOUNTAIN",
+   "name": "Fountain (FOUNTAIN)"
+  },
+  {
+   "symbol": "RAY",
+   "name": "Raydium (RAY)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "TAUM",
+   "name": "Orbitau Taureum (TAUM)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "VRX",
+   "name": "Verox (VRX)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "VERSE",
+   "name": "Verse (VERSE)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "TSX",
+   "name": "TradeStars (TSX)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "GETH",
+   "name": "Guarded Ether (GETH)"
+  },
+  {
+   "symbol": "BANK",
+   "name": "Float Protocol (BANK)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "ADX",
+   "name": "Ambire AdEx (ADX)",
+   "built_on": "ETH"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "VERSE",
+   "name": "Verse (VERSE)"
+  },
+  {
+   "symbol": "LQR",
+   "name": "Laqira Protocol (LQR)"
+  },
+  {
+   "symbol": "SPARTA",
+   "name": "Spartan Protocol Token (SPARTA)"
+  },
+  {
+   "symbol": "TAUM",
+   "name": "Orbitau Taureum (TAUM)"
+  },
+  {
+   "symbol": "CMOS",
+   "name": "Cosmo (CMOS)"
+  },
+  {
+   "symbol": "ADX",
+   "name": "Ambire AdEx (ADX)"
+  },
+  {
+   "symbol": "TSX",
+   "name": "TradeStars (TSX)"
+  },
+  {
+   "symbol": "RAY",
+   "name": "Raydium (RAY)"
+  },
+  {
+   "symbol": "COOK",
+   "name": "Cook (COOK)"
+  },
+  {
+   "symbol": "LARIX",
+   "name": "Larix (LARIX)"
+  },
+  {
+   "symbol": "FTN",
+   "name": "Fountain (FTN)"
+  },
+  {
+   "symbol": "NCR",
+   "name": "Neos Credits (NCR)"
+  },
+  {
+   "symbol": "VRX",
+   "name": "Verox (VRX)"
+  }
+ ]
+}
