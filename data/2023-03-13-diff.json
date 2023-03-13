@@ -1,0 +1,168 @@
+{
+ "added": [
+  {
+   "symbol": "BACA",
+   "name": "Berenson Acquisition Corp. I Class A Common Stock",
+   "exchange": "NYSE MKT",
+   "yahoo_symbol": "BACA"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "PDOT",
+   "name": "Peridot Acquisition Corp. II Class A Ordinary Shares",
+   "exchange": "NYSE",
+   "yahoo_symbol": "PDOT"
+  },
+  {
+   "symbol": "PTOC",
+   "name": "Pine Technology Acquisition Corp. - Class A Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "PTOC"
+  },
+  {
+   "symbol": "HORI",
+   "name": "Emerging Markets Horizon Corp. - Class A Ordinary Shares",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "HORI"
+  },
+  {
+   "symbol": "CLAA.U",
+   "name": "Colonnade Acquisition Corp. II Units, each consisting of one Class A ordinary share and one-fifth of one redeemable warrant",
+   "exchange": "NYSE",
+   "yahoo_symbol": "CLAA.U"
+  },
+  {
+   "symbol": "AGGR",
+   "name": "Agile Growth Corp. - Class A Ordinary Share",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "AGGR"
+  },
+  {
+   "symbol": "PDOT.U",
+   "name": "Peridot Acquisition Corp. II Units, each consisting of one Class A ordinary share, and one-fifth of one redeemable warrant",
+   "exchange": "NYSE",
+   "yahoo_symbol": "PDOT.U"
+  },
+  {
+   "symbol": "ACQR",
+   "name": "Independence Holdings Corp. - Class A Ordinary Share",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "ACQR"
+  },
+  {
+   "symbol": "BACA.U",
+   "name": "Berenson Acquisition Corp. I Units, each consisting of one share of Class A common stock and one-half of one redeemable warrant",
+   "exchange": "NYSE",
+   "yahoo_symbol": "BACA.U"
+  },
+  {
+   "symbol": "DEX",
+   "name": "Delaware Enhanced Global Dividend Common Shares of Beneficial Interest",
+   "exchange": "NYSE",
+   "yahoo_symbol": "DEX"
+  },
+  {
+   "symbol": "DDF",
+   "name": "Delaware Investments Dividend \u0026 Income Fund, Inc. Common Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "DDF"
+  },
+  {
+   "symbol": "AGGRU",
+   "name": "Agile Growth Corp. - Units",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "AGGRU"
+  },
+  {
+   "symbol": "WMG",
+   "name": "Western Magnesium Corporation",
+   "exchange": "TSXV",
+   "yahoo_symbol": "WMG.V",
+   "instruments": [
+    {
+     "name": "Western Magnesium Corporation",
+     "symbol": "WMG"
+    }
+   ]
+  },
+  {
+   "symbol": "PTOCU",
+   "name": "Pine Technology Acquisition Corp. - Unit",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "PTOCU"
+  },
+  {
+   "symbol": "AGGRW",
+   "name": "Agile Growth Corp. - Warrant",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "AGGRW"
+  },
+  {
+   "symbol": "PDOT.W",
+   "name": "Peridot Acquisition Corp. II Redeemable warrants included as part of the units, each whole warrant exercisable for one Class A ordinary share at an exercise price of $11.50",
+   "exchange": "NYSE",
+   "yahoo_symbol": "PDOT.W"
+  },
+  {
+   "symbol": "MGU",
+   "name": "Macquarie Global Infrastructure Total Return Fund Inc. Common Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "MGU"
+  },
+  {
+   "symbol": "CLAA",
+   "name": "Colonnade Acquisition Corp. II Class A Ordinary Shares",
+   "exchange": "NYSE",
+   "yahoo_symbol": "CLAA"
+  },
+  {
+   "symbol": "ACQRW",
+   "name": "Independence Holdings Corp. - Warrant",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "ACQRW"
+  },
+  {
+   "symbol": "CLAA.W",
+   "name": "Colonnade Acquisition Corp. II Warrants, each whole warrant exercisable for one Class A ordinary share at an exercise price of $11.50 per share",
+   "exchange": "NYSE",
+   "yahoo_symbol": "CLAA.W"
+  },
+  {
+   "symbol": "PTOCW",
+   "name": "Pine Technology Acquisition Corp. - Warrant",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "PTOCW"
+  },
+  {
+   "symbol": "HORIW",
+   "name": "Emerging Markets Horizon Corp. - Warrants",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "HORIW"
+  },
+  {
+   "symbol": "ACQRU",
+   "name": "Independence Holdings Corp. - Units",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "ACQRU"
+  },
+  {
+   "symbol": "BACA",
+   "name": "Berenson Acquisition Corp. I Class A Common Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "BACA"
+  },
+  {
+   "symbol": "HORIU",
+   "name": "Emerging Markets Horizon Corp. - Unit",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "HORIU"
+  },
+  {
+   "symbol": "IVH",
+   "name": "Delaware Ivy High Income Opportunities Fund",
+   "exchange": "NYSE",
+   "yahoo_symbol": "IVH"
+  }
+ ]
+}

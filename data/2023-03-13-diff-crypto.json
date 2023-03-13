@@ -1,0 +1,82 @@
+{
+ "added": [
+  {
+   "symbol": "SCNSOL",
+   "name": "Socean Staked Sol (SCNSOL)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "ACS",
+   "name": "Access Protocol (ACS)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "KEY",
+   "name": "SelfKey (KEY)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "USDT",
+   "name": "Tether (USDT)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "MEE",
+   "name": "Medieval Empires (MEE)",
+   "built_on": "MATIC"
+  },
+  {
+   "symbol": "BANKETH",
+   "name": "BankEth (BANKETH)"
+  },
+  {
+   "symbol": "MODA",
+   "name": "MODA DAO (MODA)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "G",
+   "name": "GRN Grid (G)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "SAND",
+   "name": "The Sandbox (SAND)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "DOG",
+   "name": "The Doge NFT (DOG)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "BUMP",
+   "name": "Bumper (BUMP)",
+   "built_on": "ETH"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "SCNSOL",
+   "name": "Socean Staked Sol (SCNSOL)"
+  },
+  {
+   "symbol": "KEY",
+   "name": "SelfKey (KEY)"
+  },
+  {
+   "symbol": "USDT",
+   "name": "Tether (USDT)",
+   "built_on": "OMNI"
+  },
+  {
+   "symbol": "SAND",
+   "name": "The Sandbox (SAND)",
+   "built_on": "MATIC"
+  },
+  {
+   "symbol": "MODA",
+   "name": "MODA DAO (MODA)"
+  }
+ ]
+}
