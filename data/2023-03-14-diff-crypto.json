@@ -1,0 +1,132 @@
+{
+ "added": [
+  {
+   "symbol": "RUNE",
+   "name": "Thorchain (RUNE)"
+  },
+  {
+   "symbol": "RNDR",
+   "name": "Render Token (RNDR)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "SUSHI",
+   "name": "Sushi (SUSHI)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "LRC",
+   "name": "Loopring (LRC)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "BRISE",
+   "name": "Bitgert (BRISE)"
+  },
+  {
+   "symbol": "OCEAN",
+   "name": "Ocean Protocol (OCEAN)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "GMT",
+   "name": "STEPN (GMT)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "LINK",
+   "name": "Chainlink (LINK)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "G",
+   "name": "GRN Grid (G)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "SSV",
+   "name": "ssv.network (SSV)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "BANKETH",
+   "name": "BankEth (BANKETH)"
+  },
+  {
+   "symbol": "BUSD",
+   "name": "Binance USD (BUSD)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "COCOS",
+   "name": "COCOS BCX (COCOS)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "DOG",
+   "name": "The Doge NFT (DOG)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "CAKE",
+   "name": "PancakeSwap (CAKE)",
+   "built_on": "BNB"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "SUSHI",
+   "name": "Sushi (SUSHI)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "OCEAN",
+   "name": "Ocean Protocol (OCEAN)"
+  },
+  {
+   "symbol": "RUNE",
+   "name": "Thorchain (RUNE)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "LINK",
+   "name": "Chainlink (LINK)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "BUSD",
+   "name": "BUSD (BUSD)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "LRC",
+   "name": "Loopring (LRC)"
+  },
+  {
+   "symbol": "COCOS",
+   "name": "COCOS BCX (COCOS)"
+  },
+  {
+   "symbol": "GMT",
+   "name": "STEPN (GMT)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "BRISE",
+   "name": "Bitgert (BRISE)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "CAKE",
+   "name": "PancakeSwap (CAKE)"
+  },
+  {
+   "symbol": "SSV",
+   "name": "ssv.network (SSV)"
+  },
+  {
+   "symbol": "RNDR",
+   "name": "Render Token (RNDR)"
+  }
+ ]
+}
