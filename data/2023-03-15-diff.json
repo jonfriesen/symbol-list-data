@@ -1,0 +1,132 @@
+{
+ "added": [
+  {
+   "symbol": "LIRC",
+   "name": "Lithium Royalty Corp.",
+   "exchange": "TSX",
+   "yahoo_symbol": "LIRC.TO",
+   "instruments": [
+    {
+     "name": "Lithium Royalty J WI",
+     "symbol": "LIRC"
+    }
+   ]
+  },
+  {
+   "symbol": "CXAI",
+   "name": "CXApp Inc. - Class A Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "CXAI"
+  },
+  {
+   "symbol": "CXAIW",
+   "name": "CXApp Inc. - Warrant",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "CXAIW"
+  },
+  {
+   "symbol": "MARX",
+   "name": "Mars Acquisition Corp. - Ordinary Shares",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "MARX"
+  },
+  {
+   "symbol": "MARXR",
+   "name": "Mars Acquisition Corp. - Rights",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "MARXR"
+  },
+  {
+   "symbol": "PLM.R",
+   "name": "Polymet Mining Corp. Rights (expiring April 4, 2023) Rights",
+   "exchange": "NYSE MKT",
+   "yahoo_symbol": "PLM.R"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "LEGAW",
+   "name": "Lead Edge Growth Opportunities, Ltd - Warrant",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "LEGAW"
+  },
+  {
+   "symbol": "KINZU",
+   "name": "KINS Technology Group Inc. - Unit",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "KINZU"
+  },
+  {
+   "symbol": "INPXV",
+   "name": "Inpixon  - Common Stock Ex-distribution When Issued",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "INPXV"
+  },
+  {
+   "symbol": "CXAIV",
+   "name": "CXApp Inc. - Common Stock When Issued",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "CXAIV"
+  },
+  {
+   "symbol": "PLM.V",
+   "name": "Polymet Mining Corp. Rights (expiring April 4, 2023) Rights when issued",
+   "exchange": "NYSE MKT",
+   "yahoo_symbol": "PLM.V"
+  },
+  {
+   "symbol": "LEGAU",
+   "name": "Lead Edge Growth Opportunities, Ltd - Units",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "LEGAU"
+  },
+  {
+   "symbol": "DTG",
+   "name": "Dynamic Technologies Group Inc.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "DTG.V",
+   "instruments": [
+    {
+     "name": "Dynamic Technologies Group Inc.",
+     "symbol": "DTG"
+    }
+   ]
+  },
+  {
+   "symbol": "ADG",
+   "name": "Arcus Development Group Inc.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "ADG.V",
+   "instruments": [
+    {
+     "name": "Arcus Development Group Inc",
+     "symbol": "ADG"
+    }
+   ]
+  },
+  {
+   "symbol": "KINZW",
+   "name": "KINS Technology Group Inc. - Warrant",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "KINZW"
+  },
+  {
+   "symbol": "LEGA",
+   "name": "Lead Edge Growth Opportunities, Ltd - Class A Ordinary Shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "LEGA"
+  },
+  {
+   "symbol": "KINZ",
+   "name": "KINS Technology Group Inc. - Class A Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "KINZ"
+  },
+  {
+   "symbol": "GFLU",
+   "name": "GFL Environmental Inc. Tangible Equity Units",
+   "exchange": "NYSE",
+   "yahoo_symbol": "GFLU"
+  }
+ ]
+}
