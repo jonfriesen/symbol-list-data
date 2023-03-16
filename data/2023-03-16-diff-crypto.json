@@ -1,0 +1,57 @@
+{
+ "added": [
+  {
+   "symbol": "DOGETH",
+   "name": "EtherDoge (DOGETH)"
+  },
+  {
+   "symbol": "WING",
+   "name": "Wing Finance (WING)",
+   "built_on": "ONT"
+  },
+  {
+   "symbol": "REEF",
+   "name": "Reef (REEF)"
+  },
+  {
+   "symbol": "AERGO",
+   "name": "AERGO (AERGO)"
+  },
+  {
+   "symbol": "G",
+   "name": "GRN Grid (G)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "BANK",
+   "name": "Float Protocol (BANK)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "MIR",
+   "name": "Mirror Protocol (MIR)",
+   "built_on": "LUNC"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "REEF",
+   "name": "Reef (REEF)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "AERGO",
+   "name": "AERGO (AERGO)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "MIR",
+   "name": "Mirror Protocol (MIR)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "WING",
+   "name": "Wing Finance (WING)"
+  }
+ ]
+}

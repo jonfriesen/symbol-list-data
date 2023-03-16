@@ -1,0 +1,102 @@
+{
+ "added": [
+  {
+   "symbol": "IZM",
+   "name": "ICZOOM Group Inc. - Class A Ordinary Shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "IZM"
+  },
+  {
+   "symbol": "OPXS",
+   "name": "Optex Systems Holdings, Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "OPXS"
+  },
+  {
+   "symbol": "OTRK",
+   "name": "Ontrak, Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "OTRK"
+  },
+  {
+   "symbol": "OTRKP",
+   "name": "Ontrak, Inc. - 9.50% Series A Cumulative Perpetual Preferred Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "OTRKP"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "OTRK",
+   "name": "Ontrak, Inc. - Common Stock",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "OTRK"
+  },
+  {
+   "symbol": "FTPAU",
+   "name": "FTAC Parnassus Acquisition Corp. - Unit",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "FTPAU"
+  },
+  {
+   "symbol": "FRON",
+   "name": "Frontier Acquisition Corp. - Class A Ordinary Shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "FRON"
+  },
+  {
+   "symbol": "FRONW",
+   "name": "Frontier Acquisition Corp. - Warrant",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "FRONW"
+  },
+  {
+   "symbol": "FRONU",
+   "name": "Frontier Acquisition Corp. - Units",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "FRONU"
+  },
+  {
+   "symbol": "AMOV",
+   "name": "America Movil, S.A.B. de C.V. Class A American Depositary Shares",
+   "exchange": "NYSE",
+   "yahoo_symbol": "AMOV"
+  },
+  {
+   "symbol": "GWIIW",
+   "name": "Good Works II Acquisition Corp. - Warrant",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "GWIIW"
+  },
+  {
+   "symbol": "CIAN",
+   "name": "Cian PLC American Depositary Shares, each representing one Ordinary Share",
+   "exchange": "NYSE",
+   "yahoo_symbol": "CIAN"
+  },
+  {
+   "symbol": "GWII",
+   "name": "Good Works II Acquisition Corp. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "GWII"
+  },
+  {
+   "symbol": "OTRKP",
+   "name": "Ontrak, Inc. - 9.50% Series A Cumulative Perpetual Preferred Stock",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "OTRKP"
+  },
+  {
+   "symbol": "FTPA",
+   "name": "FTAC Parnassus Acquisition Corp. - Class A Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "FTPA"
+  },
+  {
+   "symbol": "FTPAW",
+   "name": "FTAC Parnassus Acquisition Corp. - Warrant",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "FTPAW"
+  }
+ ]
+}
