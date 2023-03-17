@@ -1,0 +1,102 @@
+{
+ "added": [
+  {
+   "symbol": "FTAIM",
+   "name": "FTAI Aviation Ltd. - 9.500% Fixed-Rate Reset Series D Cumulative Perpetual Redeemable Preferred Shares",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "FTAIM"
+  },
+  {
+   "symbol": "ICG",
+   "name": "Intchains Group Limited - American Depositary Shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "ICG"
+  },
+  {
+   "symbol": "CLCO",
+   "name": "Cool Company Ltd. Common Shares",
+   "exchange": "NYSE",
+   "yahoo_symbol": "CLCO"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "MRV",
+   "name": "Nuvo Pharmaceuticals Inc.",
+   "exchange": "TSX",
+   "yahoo_symbol": "MRV.TO",
+   "instruments": [
+    {
+     "name": "Nuvo Pharmaceuticals",
+     "symbol": "MRV"
+    }
+   ]
+  },
+  {
+   "symbol": "KSICW",
+   "name": "Kadem Sustainable Impact Corporation - Warrant",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "KSICW"
+  },
+  {
+   "symbol": "AMAM",
+   "name": "Ambrx Biopharma Inc. American Depositary Shares (each representing seven Ordinary Shares)",
+   "exchange": "NYSE",
+   "yahoo_symbol": "AMAM"
+  },
+  {
+   "symbol": "BGSX.U",
+   "name": "Build Acquisition Corp. Units, each consisting of one share of Class A common stock and one-third of one redeemable warrant",
+   "exchange": "NYSE",
+   "yahoo_symbol": "BGSX.U"
+  },
+  {
+   "symbol": "SMIH",
+   "name": "Summit Healthcare Acquisition Corp. - Class A Ordinary Share",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "SMIH"
+  },
+  {
+   "symbol": "SMIHW",
+   "name": "Summit Healthcare Acquisition Corp. - Warrant",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "SMIHW"
+  },
+  {
+   "symbol": "BGSX",
+   "name": "Build Acquisition Corp. Class A Common Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "BGSX"
+  },
+  {
+   "symbol": "KSICU",
+   "name": "Kadem Sustainable Impact Corporation - Unit",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "KSICU"
+  },
+  {
+   "symbol": "KSI",
+   "name": "Kadem Sustainable Impact Corporation - Class A common stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "KSI"
+  },
+  {
+   "symbol": "SMIHU",
+   "name": "Summit Healthcare Acquisition Corp. - Units",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "SMIHU"
+  },
+  {
+   "symbol": "IMA",
+   "name": "I-Minerals Inc.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "IMA.V",
+   "instruments": [
+    {
+     "name": "I-Minerals Inc.",
+     "symbol": "IMA"
+    }
+   ]
+  }
+ ]
+}
