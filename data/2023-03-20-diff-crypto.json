@@ -1,0 +1,41 @@
+{
+ "added": [
+  {
+   "symbol": "WIZ",
+   "name": "WIZ Protocol (WIZ)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "BANKETH",
+   "name": "BankEth (BANKETH)"
+  },
+  {
+   "symbol": "DOGETH",
+   "name": "EtherDoge (DOGETH)"
+  },
+  {
+   "symbol": "TRB",
+   "name": "Tellor (TRB)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "CROWDWIZ",
+   "name": "Crowdwiz (CROWDWIZ)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "GETH",
+   "name": "Guarded Ether (GETH)"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "TRB",
+   "name": "Tellor (TRB)"
+  },
+  {
+   "symbol": "WIZ",
+   "name": "Crowdwiz (WIZ)"
+  }
+ ]
+}
