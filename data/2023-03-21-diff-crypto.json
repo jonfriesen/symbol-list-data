@@ -1,0 +1,54 @@
+{
+ "added": [
+  {
+   "symbol": "PAXG",
+   "name": "PAX Gold (PAXG)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "DOGETH",
+   "name": "EtherDoge (DOGETH)"
+  },
+  {
+   "symbol": "PHB",
+   "name": "Phoenix Global [v2] (PHB)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "YGG",
+   "name": "Yield Guild Games (YGG)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "BANKETH",
+   "name": "BankEth (BANKETH)"
+  },
+  {
+   "symbol": "PERP",
+   "name": "Perpetual Protocol (PERP)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "GETH",
+   "name": "Guarded Ether (GETH)"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "PHB",
+   "name": "Phoenix Global [v2] (PHB)"
+  },
+  {
+   "symbol": "PAXG",
+   "name": "PAX Gold (PAXG)"
+  },
+  {
+   "symbol": "PERP",
+   "name": "Perpetual Protocol (PERP)"
+  },
+  {
+   "symbol": "YGG",
+   "name": "Yield Guild Games (YGG)"
+  }
+ ]
+}
