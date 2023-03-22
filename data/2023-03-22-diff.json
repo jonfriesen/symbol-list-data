@@ -1,0 +1,120 @@
+{
+ "added": [
+  {
+   "symbol": "AEMC",
+   "name": "Alaska Energy Metals Corporation",
+   "exchange": "TSXV",
+   "yahoo_symbol": "AEMC.V",
+   "instruments": [
+    {
+     "name": "Alaska Energy Metals Corporation",
+     "symbol": "AEMC"
+    }
+   ]
+  },
+  {
+   "symbol": "AMR",
+   "name": "AM Resources Corp.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "AMR.V",
+   "instruments": [
+    {
+     "name": "AM Resources Corp.",
+     "symbol": "AMR"
+    }
+   ]
+  },
+  {
+   "symbol": "BIGB",
+   "name": "Roundhill BIG Bank ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "BIGB"
+  },
+  {
+   "symbol": "CELL",
+   "name": "PhenomeX Inc. - Common Stock",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "CELL"
+  },
+  {
+   "symbol": "MGRX",
+   "name": "Mangoceuticals, Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "MGRX"
+  },
+  {
+   "symbol": "NB",
+   "name": "NioCorp Developments Ltd. - Common Stock",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "NB"
+  },
+  {
+   "symbol": "NIOBW",
+   "name": "NioCorp Developments Ltd. - Warrant",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "NIOBW"
+  },
+  {
+   "symbol": "OMH",
+   "name": "Ohmyhome Limited - Ordinary Shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "OMH"
+  },
+  {
+   "symbol": "ZURA",
+   "name": "Zura Bio Limited - Class A Ordinary shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "ZURA"
+  },
+  {
+   "symbol": "ZURAW",
+   "name": "Zura Bio Limited - Warrant",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "ZURAW"
+  },
+  {
+   "symbol": "JXN$A",
+   "name": "Jackson Financial Inc. Depositary Shares, each representing a 1/1,000th interest in a share of Fixed-Rate Reset Noncumulative Perpetual Preferred Stock, Series A",
+   "exchange": "NYSE",
+   "yahoo_symbol": "JXN$A"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "BLI",
+   "name": "Berkeley Lights, Inc. - Common Stock",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "BLI"
+  },
+  {
+   "symbol": "MRO",
+   "name": "Millrock Resources Inc.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "MRO.V",
+   "instruments": [
+    {
+     "name": "Millrock Resources Inc",
+     "symbol": "MRO"
+    }
+   ]
+  },
+  {
+   "symbol": "ISO",
+   "name": "IsoPlexis Corporation - common stock",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "ISO"
+  },
+  {
+   "symbol": "MLY",
+   "name": "Multi-Metal Development Ltd.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "MLY.V",
+   "instruments": [
+    {
+     "name": "Multi-Metal Development Ltd.",
+     "symbol": "MLY"
+    }
+   ]
+  }
+ ]
+}

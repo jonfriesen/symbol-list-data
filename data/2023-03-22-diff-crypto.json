@@ -1,0 +1,301 @@
+{
+ "added": [
+  {
+   "symbol": "TRIAS",
+   "name": "Trias (TRIAS)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "NMR",
+   "name": "Numeraire (NMR)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "CVC",
+   "name": "Civic (CVC)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "DEP",
+   "name": "DEAPCOIN (DEP)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "HARD",
+   "name": "Kava Lend (HARD)",
+   "built_on": "MATIC"
+  },
+  {
+   "symbol": "WOZX",
+   "name": "Efforce (WOZX)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "CLV",
+   "name": "Clover Finance (CLV)"
+  },
+  {
+   "symbol": "MAN",
+   "name": "Matrix AI Network (MAN)"
+  },
+  {
+   "symbol": "ALPHA",
+   "name": "Alpha Finance Lab (ALPHA)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "RLC",
+   "name": "iExec (RLC)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "GHST",
+   "name": "Aavegotchi (GHST)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "MOC",
+   "name": "Mossland (MOC)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "CHR",
+   "name": "Chroma (CHR)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "WOM",
+   "name": "WOM (WOM)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "STPT",
+   "name": "STP Network (STPT)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "VTHO",
+   "name": "VeChainThor (VTHO)",
+   "built_on": "VET"
+  },
+  {
+   "symbol": "BIT",
+   "name": "BitDAO (BIT)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "SOLO",
+   "name": "Sologenic (SOLO)",
+   "built_on": "XRP"
+  },
+  {
+   "symbol": "DAR",
+   "name": "Mines of Dalarnia (DAR)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "ANC",
+   "name": "Anchor Protocol (ANC)",
+   "built_on": "LUNA"
+  },
+  {
+   "symbol": "TDFY",
+   "name": "Tidefi (TDFY)"
+  },
+  {
+   "symbol": "WABI",
+   "name": "WABI (WABI)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "XDGB",
+   "name": "DigitalBits (XDGB)"
+  },
+  {
+   "symbol": "PLA",
+   "name": "PlayDapp (PLA)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "STMX",
+   "name": "StormX (STMX)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "RAY",
+   "name": "Raydium (RAY)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "ILV",
+   "name": "Illuvium (ILV)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "FLM",
+   "name": "Flamingo (FLM)",
+   "built_on": "NEO"
+  },
+  {
+   "symbol": "AHT",
+   "name": "AhaToken (AHT)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "SWINGBY",
+   "name": "Swingby (SWINGBY)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "BANK",
+   "name": "Float Protocol (BANK)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "G",
+   "name": "GRN Grid (G)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "DOG",
+   "name": "The Doge NFT (DOG)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "SLP",
+   "name": "Smooth Love Potion (SLP)",
+   "built_on": "ETH"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "WOM",
+   "name": "WOM (WOM)"
+  },
+  {
+   "symbol": "SOLO",
+   "name": "Sologenic (SOLO)"
+  },
+  {
+   "symbol": "VTHO",
+   "name": "VeChainThor (VTHO)"
+  },
+  {
+   "symbol": "BIT",
+   "name": "BitDAO (BIT)"
+  },
+  {
+   "symbol": "ILV",
+   "name": "Illuvium (ILV)"
+  },
+  {
+   "symbol": "MOC",
+   "name": "Mossland (MOC)"
+  },
+  {
+   "symbol": "AHT",
+   "name": "AhaToken (AHT)"
+  },
+  {
+   "symbol": "XDGB",
+   "name": "DigitalBits (XDGB)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "TRIAS",
+   "name": "Trias (TRIAS)"
+  },
+  {
+   "symbol": "GHST",
+   "name": "Aavegotchi (GHST)"
+  },
+  {
+   "symbol": "RAY",
+   "name": "Raydium (RAY)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "SLP",
+   "name": "Smooth Love Potion (SLP)"
+  },
+  {
+   "symbol": "CVC",
+   "name": "Civic (CVC)"
+  },
+  {
+   "symbol": "FLM",
+   "name": "Flamingo (FLM)"
+  },
+  {
+   "symbol": "SWINGBY",
+   "name": "Swingby (SWINGBY)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "STPT",
+   "name": "STP Network (STPT)"
+  },
+  {
+   "symbol": "CLV",
+   "name": "Clover Finance (CLV)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "ANC",
+   "name": "Anchor Protocol (ANC)",
+   "built_on": "LUNC"
+  },
+  {
+   "symbol": "DEP",
+   "name": "DEAPCOIN (DEP)"
+  },
+  {
+   "symbol": "RLC",
+   "name": "iExec (RLC)"
+  },
+  {
+   "symbol": "PLA",
+   "name": "PlayDapp (PLA)",
+   "built_on": "MATIC"
+  },
+  {
+   "symbol": "MAN",
+   "name": "Matrix AI Network (MAN)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "STMX",
+   "name": "StormX (STMX)"
+  },
+  {
+   "symbol": "WOZX",
+   "name": "Efforce (WOZX)",
+   "built_on": "MATIC"
+  },
+  {
+   "symbol": "DAR",
+   "name": "Mines of Dalarnia (DAR)"
+  },
+  {
+   "symbol": "CHR",
+   "name": "Chroma (CHR)"
+  },
+  {
+   "symbol": "NMR",
+   "name": "Numeraire (NMR)"
+  },
+  {
+   "symbol": "HARD",
+   "name": "Kava Lend (HARD)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "ALPHA",
+   "name": "Alpha Finance Lab (ALPHA)"
+  },
+  {
+   "symbol": "WABI",
+   "name": "WABI (WABI)"
+  }
+ ]
+}
