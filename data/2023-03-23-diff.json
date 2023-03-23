@@ -1,0 +1,30 @@
+{
+ "added": [
+  {
+   "symbol": "NIKL",
+   "name": "Sprott Nickel Miners ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "NIKL"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "QTT",
+   "name": "Qutoutiao Inc. - American Depositary Shares",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "QTT"
+  },
+  {
+   "symbol": "OBSV",
+   "name": "ObsEva SA - Common Shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "OBSV"
+  },
+  {
+   "symbol": "SIOX",
+   "name": "Sio Gene Therapies Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "SIOX"
+  }
+ ]
+}
