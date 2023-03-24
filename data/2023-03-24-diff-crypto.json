@@ -1,0 +1,107 @@
+{
+ "added": [
+  {
+   "symbol": "GRAIL",
+   "name": "Camelot Token (GRAIL)",
+   "built_on": "ARB"
+  },
+  {
+   "symbol": "GMX",
+   "name": "GMX (GMX)",
+   "built_on": "ARB"
+  },
+  {
+   "symbol": "MOON",
+   "name": "r/CryptoCurrency Moons (MOON)",
+   "built_on": "ARB"
+  },
+  {
+   "symbol": "GETH",
+   "name": "Guarded Ether (GETH)"
+  },
+  {
+   "symbol": "UMAMI",
+   "name": "Umami (UMAMI)",
+   "built_on": "ARB"
+  },
+  {
+   "symbol": "VELA",
+   "name": "Vela Token (VELA)",
+   "built_on": "ARB"
+  },
+  {
+   "symbol": "DOGETH",
+   "name": "EtherDoge (DOGETH)"
+  },
+  {
+   "symbol": "DBL",
+   "name": "Doubloon (DBL)",
+   "built_on": "ARB"
+  },
+  {
+   "symbol": "JONES",
+   "name": "Jones DAO (JONES)",
+   "built_on": "ARB"
+  },
+  {
+   "symbol": "ARBIT",
+   "name": "Arbit Coin (ARBIT)"
+  },
+  {
+   "symbol": "RDNT",
+   "name": "Radiant Capital (RDNT)",
+   "built_on": "ARB"
+  },
+  {
+   "symbol": "BANK",
+   "name": "Float Protocol (BANK)",
+   "built_on": "ETH"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "JONES",
+   "name": "Jones DAO (JONES)",
+   "built_on": "ARBITRUM"
+  },
+  {
+   "symbol": "GMX",
+   "name": "GMX (GMX)",
+   "built_on": "ARBITRUM"
+  },
+  {
+   "symbol": "DBL",
+   "name": "Doubloon (DBL)",
+   "built_on": "ARBITRUM"
+  },
+  {
+   "symbol": "MOON",
+   "name": "r/CryptoCurrency Moons (MOON)",
+   "built_on": "ARBITRUM"
+  },
+  {
+   "symbol": "RDNT",
+   "name": "Radiant Capital (RDNT)",
+   "built_on": "ARBITRUM"
+  },
+  {
+   "symbol": "VELA",
+   "name": "Vela Token (VELA)",
+   "built_on": "ARBITRUM"
+  },
+  {
+   "symbol": "ARB",
+   "name": "Arbit Coin (ARB)"
+  },
+  {
+   "symbol": "GRAIL",
+   "name": "Camelot Token (GRAIL)",
+   "built_on": "ARBITRUM"
+  },
+  {
+   "symbol": "UMAMI",
+   "name": "Umami (UMAMI)",
+   "built_on": "ARBITRUM"
+  }
+ ]
+}

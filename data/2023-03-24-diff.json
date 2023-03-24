@@ -1,0 +1,126 @@
+{
+ "added": [
+  {
+   "symbol": "BLUA",
+   "name": "BlueRiver Acquisition Corp. Class A Ordinary Shares",
+   "exchange": "NYSE MKT",
+   "yahoo_symbol": "BLUA"
+  },
+  {
+   "symbol": "BLUA.U",
+   "name": "BlueRiver Acquisition Corp. Units, each consisting of one Class A ordinary share, and one-third of a redeemable Warrant to acquire one Class A ordinary shares",
+   "exchange": "NYSE MKT",
+   "yahoo_symbol": "BLUA.U"
+  },
+  {
+   "symbol": "BLUA.W",
+   "name": "BlueRiver Acquisition Corp. Warrants, each whole warrant exercisable for one Class A Ordinary Share at an exercise price of $11.50",
+   "exchange": "NYSE MKT",
+   "yahoo_symbol": "BLUA.W"
+  },
+  {
+   "symbol": "BANL",
+   "name": "CBL International Limited - Ordinary Shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "BANL"
+  },
+  {
+   "symbol": "CETY",
+   "name": "Clean Energy Technologies, Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "CETY"
+  },
+  {
+   "symbol": "NIR",
+   "name": "Near Intelligence, Inc. - Common Stock",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "NIR"
+  },
+  {
+   "symbol": "NIRWW",
+   "name": "Near Intelligence, Inc. - Warrant",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "NIRWW"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "LVRAW",
+   "name": "Levere Holdings Corp. - Warrant",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "LVRAW"
+  },
+  {
+   "symbol": "LDHAW",
+   "name": "LDH Growth Corp I - Warrant",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "LDHAW"
+  },
+  {
+   "symbol": "BLUA.U",
+   "name": "BlueRiver Acquisition Corp. Units, each consisting of one Class A ordinary share, and one-third of a redeemable Warrant to acquire one Class A ordinary shares",
+   "exchange": "NYSE",
+   "yahoo_symbol": "BLUA.U"
+  },
+  {
+   "symbol": "INKA",
+   "name": "Near Intelligence, Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "INKA"
+  },
+  {
+   "symbol": "DGNU",
+   "name": "Dragoneer Growth Opportunities Corp. III - Class A Ordinary Shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "DGNU"
+  },
+  {
+   "symbol": "LDHA",
+   "name": "LDH Growth Corp I - Class A Ordinary Shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "LDHA"
+  },
+  {
+   "symbol": "LDHAU",
+   "name": "LDH Growth Corp I - Units",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "LDHAU"
+  },
+  {
+   "symbol": "BLUA",
+   "name": "BlueRiver Acquisition Corp. Class A Ordinary Shares",
+   "exchange": "NYSE",
+   "yahoo_symbol": "BLUA"
+  },
+  {
+   "symbol": "INKAU",
+   "name": "Near Intelligence, Inc. - Unit",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "INKAU"
+  },
+  {
+   "symbol": "LVRAU",
+   "name": "Levere Holdings Corp. - Unit",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "LVRAU"
+  },
+  {
+   "symbol": "BLUA.W",
+   "name": "BlueRiver Acquisition Corp. Warrants, each whole warrant exercisable for one Class A Ordinary Share at an exercise price of $11.50",
+   "exchange": "NYSE",
+   "yahoo_symbol": "BLUA.W"
+  },
+  {
+   "symbol": "INKAW",
+   "name": "Near Intelligence, Inc. - Warrant",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "INKAW"
+  },
+  {
+   "symbol": "LVRA",
+   "name": "Levere Holdings Corp. - Class A Ordinary Shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "LVRA"
+  }
+ ]
+}
