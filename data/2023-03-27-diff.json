@@ -1,0 +1,258 @@
+{
+ "added": [
+  {
+   "symbol": "LMN",
+   "name": "Lumine Group Inc.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "LMN.V",
+   "instruments": [
+    {
+     "name": "Lumine Group Inc.",
+     "symbol": "LMN"
+    }
+   ]
+  },
+  {
+   "symbol": "SCRS",
+   "name": "St Charles Resources Inc.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "SCRS.V",
+   "instruments": [
+    {
+     "name": "St Charles Resources Inc.",
+     "symbol": "SCRS"
+    }
+   ]
+  },
+  {
+   "symbol": "MRG.DB.B",
+   "name": "Morguard North American Residential Real Estate Investment Trust",
+   "exchange": "TSX",
+   "yahoo_symbol": "MRG.DB.B.TO",
+   "instruments": [
+    {
+     "name": "Morgaurd NA Rl 6% Db",
+     "symbol": "MRG.DB.B"
+    },
+    {
+     "name": "Morguard NA REIT UN",
+     "symbol": "MRG.UN"
+    }
+   ]
+  },
+  {
+   "symbol": "BDRX",
+   "name": "Biodexa Pharmaceuticals plc - American Depositary Shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "BDRX"
+  },
+  {
+   "symbol": "CETU",
+   "name": "Cetus Capital Acquisition Corp. - Class A Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "CETU"
+  },
+  {
+   "symbol": "CETUR",
+   "name": "Cetus Capital Acquisition Corp. - Right to receive 1/6 of one share of Class A Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "CETUR"
+  },
+  {
+   "symbol": "CETUW",
+   "name": "Cetus Capital Acquisition Corp. - Warrant",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "CETUW"
+  },
+  {
+   "symbol": "OAKUU",
+   "name": "Oak Woods Acquisition Corporation - Unit",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "OAKUU"
+  },
+  {
+   "symbol": "STHOV",
+   "name": "Star Holdings - Shares of Beneficial Interest",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "STHOV"
+  },
+  {
+   "symbol": "WUCT",
+   "name": "UBS AG ETRACS Whitney U.S. Critical Technologies Index ETN",
+   "exchange": "NYSE ARCA",
+   "yahoo_symbol": "WUCT"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "CHB",
+   "name": "iShares U.S. High Yield Fixed Income Index ETF (CAD-Hedged)",
+   "exchange": "TSX",
+   "yahoo_symbol": "CHB.TO",
+   "instruments": [
+    {
+     "name": "iShr US HiYldIncm Un",
+     "symbol": "CHB"
+    }
+   ]
+  },
+  {
+   "symbol": "RKTA.U",
+   "name": "Rocket Internet Growth Opportunities Corp. Units, each consisting of one Class A ordinary share and one-fourth of one redeemable warrant",
+   "exchange": "NYSE",
+   "yahoo_symbol": "RKTA.U"
+  },
+  {
+   "symbol": "FTHW",
+   "name": "Field Trip Health \u0026 Wellness Ltd.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "FTHW.V",
+   "instruments": [
+    {
+     "name": "Field Trip Health \u0026 Wellness Ltd.",
+     "symbol": "FTHW"
+    }
+   ]
+  },
+  {
+   "symbol": "CRZNW",
+   "name": "Corazon Capital V838 Monoceros Corp - Warrant",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "CRZNW"
+  },
+  {
+   "symbol": "MRG.DB.A",
+   "name": "Morguard North American Residential Real Estate Investment Trust",
+   "exchange": "TSX",
+   "yahoo_symbol": "MRG.DB.A.TO",
+   "instruments": [
+    {
+     "name": "Morgaurd NA Rl 4.5Db",
+     "symbol": "MRG.DB.A"
+    },
+    {
+     "name": "Morgaurd NA Rl 6% Db",
+     "symbol": "MRG.DB.B"
+    },
+    {
+     "name": "Morguard NA REIT UN",
+     "symbol": "MRG.UN"
+    }
+   ]
+  },
+  {
+   "symbol": "STRE.U",
+   "name": "Supernova Partners Acquisition Company III, Ltd. Units",
+   "exchange": "NYSE",
+   "yahoo_symbol": "STRE.U"
+  },
+  {
+   "symbol": "XSQ",
+   "name": "iShares Short Term High Quality Canadian Bond Index ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "XSQ.TO",
+   "instruments": [
+    {
+     "name": "iShares ST CdnBnd Un",
+     "symbol": "XSQ"
+    }
+   ]
+  },
+  {
+   "symbol": "CRZN",
+   "name": "Corazon Capital V838 Monoceros Corp - Class A Ordinary Shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "CRZN"
+  },
+  {
+   "symbol": "NGC.U",
+   "name": "Northern Genesis Acquisition Corp. III Units, each consisting of one share of common stock and one-quarter of one redeemable warrant",
+   "exchange": "NYSE",
+   "yahoo_symbol": "NGC.U"
+  },
+  {
+   "symbol": "NGC.W",
+   "name": "Northern Genesis Acquisition Corp. III Redeemable Warrants, each whole warrant exercisable for shares of common stock at an exercise price of $11.50 per share",
+   "exchange": "NYSE",
+   "yahoo_symbol": "NGC.W"
+  },
+  {
+   "symbol": "SPKBU",
+   "name": "Silver Spike Acquisition Corp II - Units",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "SPKBU"
+  },
+  {
+   "symbol": "CRZNU",
+   "name": "Corazon Capital V838 Monoceros Corp - Unit",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "CRZNU"
+  },
+  {
+   "symbol": "NGC",
+   "name": "Northern Genesis Acquisition Corp. III Common Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "NGC"
+  },
+  {
+   "symbol": "SPKBW",
+   "name": "Silver Spike Acquisition Corp II - Warrant",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "SPKBW"
+  },
+  {
+   "symbol": "STRE",
+   "name": "Supernova Partners Acquisition Company III, Ltd. Class A Ordinary Shares",
+   "exchange": "NYSE",
+   "yahoo_symbol": "STRE"
+  },
+  {
+   "symbol": "SPKB",
+   "name": "Silver Spike Acquisition Corp II - Class A Ordinary Shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "SPKB"
+  },
+  {
+   "symbol": "MTP",
+   "name": "Midatech Pharma PLC - American Depositary Shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "MTP"
+  },
+  {
+   "symbol": "STRE.W",
+   "name": "Supernova Partners Acquisition Company III, Ltd. Redeemable warrants, each whole warrant exercisable for one Class A ordinary share at an exercise price of $11.50",
+   "exchange": "NYSE",
+   "yahoo_symbol": "STRE.W"
+  },
+  {
+   "symbol": "NID",
+   "name": "Nuveen Intermediate Duration Municipal Term Fund Common Shares of Beneficial Interest",
+   "exchange": "NYSE",
+   "yahoo_symbol": "NID"
+  },
+  {
+   "symbol": "SCRS.P",
+   "name": "St Charles Resources Inc.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "SCRS.P.V",
+   "instruments": [
+    {
+     "name": "St Charles Resources Inc.",
+     "symbol": "SCRS.P"
+    }
+   ]
+  },
+  {
+   "symbol": "RKTA",
+   "name": "Rocket Internet Growth Opportunities Corp. Class A Ordinary Shares",
+   "exchange": "NYSE",
+   "yahoo_symbol": "RKTA"
+  },
+  {
+   "symbol": "EVOP",
+   "name": "EVO Payments, Inc. - Class A Common Stock",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "EVOP"
+  }
+ ]
+}

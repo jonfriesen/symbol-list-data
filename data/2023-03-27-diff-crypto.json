@@ -1,0 +1,48 @@
+{
+ "added": [
+  {
+   "symbol": "AETHERV2",
+   "name": "AetherV2 (AETHERV2)"
+  },
+  {
+   "symbol": "ARTEQ",
+   "name": "artèQ (ARTEQ)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "NITROG",
+   "name": "Nitro (NITROG)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "NSBT",
+   "name": "Neutrino Token (NSBT)",
+   "built_on": "WAVES"
+  },
+  {
+   "symbol": "G",
+   "name": "GRN Grid (G)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "BANK",
+   "name": "Float Protocol (BANK)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "DOG",
+   "name": "The Doge NFT (DOG)",
+   "built_on": "ETH"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "NSBT",
+   "name": "Neutrino Token (NSBT)"
+  },
+  {
+   "symbol": "ATH",
+   "name": "AetherV2 (ATH)"
+  }
+ ]
+}
