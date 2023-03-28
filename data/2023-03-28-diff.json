@@ -1,0 +1,108 @@
+{
+ "added": [
+  {
+   "symbol": "CHAA",
+   "name": "Catcha Investment Corp. Class A Ordinary Shares",
+   "exchange": "NYSE MKT",
+   "yahoo_symbol": "CHAA"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "SBNY",
+   "name": "Signature Bank - Common Stock",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "SBNY"
+  },
+  {
+   "symbol": "CRYP",
+   "name": "Purpose Crypto Opportunities ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "CRYP.TO",
+   "instruments": [
+    {
+     "name": "Purpose CrypOppor Un",
+     "symbol": "CRYP"
+    },
+    {
+     "name": "PurposeCrypOpCA NCHg",
+     "symbol": "CRYP.B"
+    },
+    {
+     "name": "PurposeCrypOpNC HgUS",
+     "symbol": "CRYP.U"
+    }
+   ]
+  },
+  {
+   "symbol": "ACST",
+   "name": "Acasti Pharma Inc.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "ACST.V",
+   "instruments": [
+    {
+     "name": "Acasti Pharma Inc.",
+     "symbol": "ACST"
+    }
+   ]
+  },
+  {
+   "symbol": "SIVB",
+   "name": "SVB Financial Group - Common Stock",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "SIVB"
+  },
+  {
+   "symbol": "PUD",
+   "name": "Purpose US Dividend Fund",
+   "exchange": "TSX",
+   "yahoo_symbol": "PUD.TO",
+   "instruments": [
+    {
+     "name": "Purpose US DivETF Un",
+     "symbol": "PUD"
+    },
+    {
+     "name": "Purpose US Div NnCur",
+     "symbol": "PUD.B"
+    }
+   ]
+  },
+  {
+   "symbol": "SIVBP",
+   "name": "SVB Financial Group - Depositary Shs each representing a 1/40th interest in a share of 5.25% Fixed-Rate Non-Cumulative Perpetual Preferred Stock, Series A",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "SIVBP"
+  },
+  {
+   "symbol": "ATCO",
+   "name": "Atlas Corp. Common Shares",
+   "exchange": "NYSE",
+   "yahoo_symbol": "ATCO"
+  },
+  {
+   "symbol": "AIMC",
+   "name": "Altra Industrial Motion Corp. - Common Stock",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "AIMC"
+  },
+  {
+   "symbol": "SBNYP",
+   "name": "Signature Bank - Depositary shares, each representing a 1/40th ownership interest in a share of 5.000% Noncumulative Perpetual Series A Preferred Stock",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "SBNYP"
+  },
+  {
+   "symbol": "CHAA.U",
+   "name": "Catcha Investment Corp. Units, each consisting of one Class A ordinary share, and one-third of one redeemable warrant",
+   "exchange": "NYSE",
+   "yahoo_symbol": "CHAA.U"
+  },
+  {
+   "symbol": "CHAA",
+   "name": "Catcha Investment Corp. Class A Ordinary Shares",
+   "exchange": "NYSE",
+   "yahoo_symbol": "CHAA"
+  }
+ ]
+}

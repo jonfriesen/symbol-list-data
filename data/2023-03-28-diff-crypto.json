@@ -1,0 +1,227 @@
+{
+ "added": [
+  {
+   "symbol": "SUB",
+   "name": "Substratum Network (SUB)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "DLT",
+   "name": "Agrello Delta (DLT)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "TSL",
+   "name": "Energo (TSL)"
+  },
+  {
+   "symbol": "BODYP",
+   "name": "Body Profile (BODYP)",
+   "built_on": "KLAY"
+  },
+  {
+   "symbol": "B21",
+   "name": "B21 (B21)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "BTU",
+   "name": "BTU Protocol (BTU)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "ACAT",
+   "name": "Alphacat (ACAT)",
+   "built_on": "NEO"
+  },
+  {
+   "symbol": "ZB",
+   "name": "ZB (ZB)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "PLR",
+   "name": "Pillar (PLR)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "FYP",
+   "name": "FlypMe (FYP)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "AAT",
+   "name": "Agricultural Trade Chain (AAT)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "FLP",
+   "name": "Gameflip (FLP)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "SPHR",
+   "name": "Sphere Coin (SPHR)",
+   "built_on": "UBQ"
+  },
+  {
+   "symbol": "UPT",
+   "name": "Universal Protocol Token (UPT)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "DATX",
+   "name": "DATx (DATX)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "AIDOC",
+   "name": "AI Doctor (AIDOC)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "ZAIF",
+   "name": "Zaif Token (ZAIF)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "BDG",
+   "name": "BitDegree (BDG)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "BMH",
+   "name": "BlockMesh (BMH)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "BCPT",
+   "name": "BlockMason Credit Protocol (BCPT)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "BANCA",
+   "name": "BANCA (BANCA)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "DOGETH",
+   "name": "EtherDoge (DOGETH)"
+  },
+  {
+   "symbol": "EKO",
+   "name": "EchoLink (EKO)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "BANKETH",
+   "name": "BankEth (BANKETH)"
+  },
+  {
+   "symbol": "CREATIVE",
+   "name": "Creative Token (CREATIVE)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "GEO",
+   "name": "GeoCoin (GEO)",
+   "built_on": "UBQ"
+  },
+  {
+   "symbol": "G",
+   "name": "GRN Grid (G)",
+   "built_on": "ETH"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "ACAT",
+   "name": "Alphacat (ACAT)"
+  },
+  {
+   "symbol": "EKO",
+   "name": "EchoLink (EKO)"
+  },
+  {
+   "symbol": "B21",
+   "name": "B21 (B21)"
+  },
+  {
+   "symbol": "AAT",
+   "name": "Agricultural Trade Chain (AAT)"
+  },
+  {
+   "symbol": "GEO",
+   "name": "GeoCoin (GEO)"
+  },
+  {
+   "symbol": "BDG",
+   "name": "BitDegree (BDG)"
+  },
+  {
+   "symbol": "TSL",
+   "name": "Energo (TSL)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "PLR",
+   "name": "Pillar (PLR)"
+  },
+  {
+   "symbol": "BMH",
+   "name": "BlockMesh (BMH)"
+  },
+  {
+   "symbol": "BCPT",
+   "name": "BlockMason Credit Protocol (BCPT)"
+  },
+  {
+   "symbol": "AIDOC",
+   "name": "AI Doctor (AIDOC)"
+  },
+  {
+   "symbol": "BANCA",
+   "name": "BANCA (BANCA)"
+  },
+  {
+   "symbol": "ZAIF",
+   "name": "Zaif Token (ZAIF)"
+  },
+  {
+   "symbol": "SUB",
+   "name": "Substratum Network (SUB)"
+  },
+  {
+   "symbol": "SPHR",
+   "name": "Sphere Coin (SPHR)"
+  },
+  {
+   "symbol": "FYP",
+   "name": "FlypMe (FYP)"
+  },
+  {
+   "symbol": "ZB",
+   "name": "ZB (ZB)"
+  },
+  {
+   "symbol": "DATX",
+   "name": "DATx (DATX)"
+  },
+  {
+   "symbol": "DLT",
+   "name": "Agrello Delta (DLT)"
+  },
+  {
+   "symbol": "BTU",
+   "name": "BTU Protocol (BTU)"
+  },
+  {
+   "symbol": "FLP",
+   "name": "Gameflip (FLP)"
+  },
+  {
+   "symbol": "UPT",
+   "name": "Universal Protocol Token (UPT)"
+  }
+ ]
+}
