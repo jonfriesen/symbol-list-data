@@ -1,0 +1,138 @@
+{
+ "added": [
+  {
+   "symbol": "NLII.P",
+   "name": "NL2 Capital Inc.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "NLII.P.V",
+   "instruments": [
+    {
+     "name": "NL2 Capital Inc.",
+     "symbol": "NLII.P"
+    }
+   ]
+  },
+  {
+   "symbol": "TMTCU",
+   "name": "TMT Acquisition Corp - Unit",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "TMTCU"
+  },
+  {
+   "symbol": "UFIV",
+   "name": "US Treasury 5 Year Note ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "UFIV"
+  },
+  {
+   "symbol": "UNAM",
+   "name": "Unico American Corporation - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "UNAM"
+  },
+  {
+   "symbol": "USVN",
+   "name": "US Treasury 7 Year Note ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "USVN"
+  },
+  {
+   "symbol": "UTHY",
+   "name": "US Treasury 30 Year Bond ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "UTHY"
+  },
+  {
+   "symbol": "UTRE",
+   "name": "US Treasury 3 Year Note ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "UTRE"
+  },
+  {
+   "symbol": "UTWY",
+   "name": "US Treasury 20 Year Bond ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "UTWY"
+  },
+  {
+   "symbol": "YGF",
+   "name": "YanGuFang International Group Co., Ltd. - Ordinary Shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "YGF"
+  },
+  {
+   "symbol": "ZJYL",
+   "name": "JIN MEDICAL INTERNATIONAL LTD. - Ordinary Shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "ZJYL"
+  },
+  {
+   "symbol": "CR.V",
+   "name": "Crane Company Common Stock When Issued",
+   "exchange": "NYSE",
+   "yahoo_symbol": "CR.V"
+  },
+  {
+   "symbol": "CXT.V",
+   "name": "Crane NXT, Co. Common Stock Ex-Distribution When-Issued",
+   "exchange": "NYSE",
+   "yahoo_symbol": "CXT.V"
+  },
+  {
+   "symbol": "SAFE.V",
+   "name": "Safehold Inc. New Common Stock When Issued",
+   "exchange": "NYSE",
+   "yahoo_symbol": "SAFE.V"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "TETCW",
+   "name": "Tech and Energy Transition Corporation - Warrant",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "TETCW"
+  },
+  {
+   "symbol": "TETC",
+   "name": "Tech and Energy Transition Corporation - Class A Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "TETC"
+  },
+  {
+   "symbol": "TETCU",
+   "name": "Tech and Energy Transition Corporation - Unit",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "TETCU"
+  },
+  {
+   "symbol": "PHCF",
+   "name": "Puhui Wealth Investment Management Co., Ltd.  - Ordinary Shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "PHCF"
+  },
+  {
+   "symbol": "SGFY",
+   "name": "Signify Health, Inc. Class A Common Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "SGFY"
+  },
+  {
+   "symbol": "UNAM",
+   "name": "Unico American Corporation - Common Stock",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "UNAM"
+  },
+  {
+   "symbol": "SN",
+   "name": "Sennen Potash Corporation",
+   "exchange": "TSXV",
+   "yahoo_symbol": "SN.V",
+   "instruments": [
+    {
+     "name": "Sennen Potash Corporation",
+     "symbol": "SN"
+    }
+   ]
+  }
+ ]
+}

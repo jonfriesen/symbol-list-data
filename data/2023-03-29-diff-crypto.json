@@ -1,0 +1,285 @@
+{
+ "added": [
+  {
+   "symbol": "YO",
+   "name": "Yobit Token (YO)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "ARB",
+   "name": "Arbitrum (ARB)"
+  },
+  {
+   "symbol": "MESH",
+   "name": "MeshBox (MESH)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "C20",
+   "name": "Crypto20 (C20)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "CNN",
+   "name": "Content Neutrality Network (CNN)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "DRT",
+   "name": "DomRaider (DRT)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "AKT",
+   "name": "Akash Network (AKT)"
+  },
+  {
+   "symbol": "DMT",
+   "name": "DMarket (DMT)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "BLOC",
+   "name": "Blockcloud (BLOC)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "ZLA",
+   "name": "Zilla (ZLA)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "CMCT",
+   "name": "Crowd Machine (CMCT)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "BRD",
+   "name": "Bread token (BRD)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "BUT",
+   "name": "BitUP Token (BUT)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "IPL",
+   "name": "VouchForMe (IPL)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "CXO",
+   "name": "CargoX (CXO)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "BANK",
+   "name": "Float Protocol (BANK)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "XUC",
+   "name": "Exchange Union (XUC)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "YEED",
+   "name": "Yggdrash (YEED)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "CSP",
+   "name": "Caspian (CSP)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "GOT",
+   "name": "ParkinGo (GOT)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "DPIE",
+   "name": "DeFiPie (DPIE)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "DGTX",
+   "name": "Digitex Token (DGTX)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "DOGETH",
+   "name": "EtherDoge (DOGETH)"
+  },
+  {
+   "symbol": "DACC",
+   "name": "Decentralized Accessible Content Chain (DACC)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "CV",
+   "name": "CarVertical (CV)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "BOXT",
+   "name": "BOX Token (BOXT)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "IOWN",
+   "name": "iOWN Token (IOWN)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "NHBTC",
+   "name": "NEST Protocol (NHBTC)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "BTCZ",
+   "name": "BitcoinZ (BTCZ)"
+  },
+  {
+   "symbol": "ITC",
+   "name": "IoT Chain (ITC)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "GETH",
+   "name": "Guarded Ether (GETH)"
+  },
+  {
+   "symbol": "EKT",
+   "name": "EDUCare (EKT)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "EVX",
+   "name": "Everex (EVX)",
+   "built_on": "ETH"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "NHBTC",
+   "name": "NEST Protocol (NHBTC)"
+  },
+  {
+   "symbol": "DACC",
+   "name": "Decentralized Accessible Content Chain (DACC)"
+  },
+  {
+   "symbol": "BTCZ",
+   "name": "BitcoinZ (BTCZ)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "CMCT",
+   "name": "Crowd Machine (CMCT)"
+  },
+  {
+   "symbol": "BLOC",
+   "name": "Blockcloud (BLOC)"
+  },
+  {
+   "symbol": "BOXT",
+   "name": "BOX Token (BOXT)"
+  },
+  {
+   "symbol": "DMT",
+   "name": "DMarket (DMT)"
+  },
+  {
+   "symbol": "BRD",
+   "name": "Bread token (BRD)"
+  },
+  {
+   "symbol": "DPIE",
+   "name": "DeFiPie (DPIE)"
+  },
+  {
+   "symbol": "CNN",
+   "name": "Content Neutrality Network (CNN)"
+  },
+  {
+   "symbol": "CV",
+   "name": "CarVertical (CV)"
+  },
+  {
+   "symbol": "AKT",
+   "name": "Akash Network (AKT)",
+   "built_on": "ATOM"
+  },
+  {
+   "symbol": "BUT",
+   "name": "BitUP Token (BUT)"
+  },
+  {
+   "symbol": "MESH",
+   "name": "MeshBox (MESH)"
+  },
+  {
+   "symbol": "YO",
+   "name": "Yobit Token (YO)"
+  },
+  {
+   "symbol": "CSP",
+   "name": "Caspian (CSP)"
+  },
+  {
+   "symbol": "GOT",
+   "name": "ParkinGo (GOT)"
+  },
+  {
+   "symbol": "DRT",
+   "name": "DomRaider (DRT)"
+  },
+  {
+   "symbol": "IPL",
+   "name": "VouchForMe (IPL)"
+  },
+  {
+   "symbol": "EKT",
+   "name": "EDUCare (EKT)"
+  },
+  {
+   "symbol": "YEED",
+   "name": "Yggdrash (YEED)"
+  },
+  {
+   "symbol": "CXO",
+   "name": "CargoX (CXO)"
+  },
+  {
+   "symbol": "DGTX",
+   "name": "Digitex Token (DGTX)"
+  },
+  {
+   "symbol": "EVX",
+   "name": "Everex (EVX)"
+  },
+  {
+   "symbol": "C20",
+   "name": "Crypto20 (C20)"
+  },
+  {
+   "symbol": "ZLA",
+   "name": "Zilla (ZLA)"
+  },
+  {
+   "symbol": "IOWN",
+   "name": "iOWN Token (IOWN)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "ITC",
+   "name": "IoT Chain (ITC)"
+  },
+  {
+   "symbol": "XUC",
+   "name": "Exchange Union (XUC)"
+  }
+ ]
+}
