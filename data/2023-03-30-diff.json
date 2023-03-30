@@ -1,0 +1,110 @@
+{
+ "added": [
+  {
+   "symbol": "AHG",
+   "name": "Akso Health Group - American Depositary Shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "AHG"
+  },
+  {
+   "symbol": "HLP",
+   "name": "Hongli Group Inc. - Ordinary Shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "HLP"
+  },
+  {
+   "symbol": "LIZI",
+   "name": "LIZHI INC. - American Depositary Shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "LIZI"
+  },
+  {
+   "symbol": "TBMCU",
+   "name": "Trailblazer Merger Corporation I - Unit",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "TBMCU"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "JMACW",
+   "name": "Maxpro Capital Acquisition Corp. - Warrants",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "JMACW"
+  },
+  {
+   "symbol": "CALC",
+   "name": "CalciMedica, Inc. - Common Stock",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "CALC"
+  },
+  {
+   "symbol": "MSDAU",
+   "name": "MSD Acquisition Corp. - Unit",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "MSDAU"
+  },
+  {
+   "symbol": "AHG",
+   "name": "Akso Health Group - American Depositary Shares",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "AHG"
+  },
+  {
+   "symbol": "DISTU",
+   "name": "Distoken Acquisition Corporation - Unit",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "DISTU"
+  },
+  {
+   "symbol": "JMAC",
+   "name": "Maxpro Capital Acquisition Corp. - Class A Common Stock",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "JMAC"
+  },
+  {
+   "symbol": "LIZI",
+   "name": "LIZHI INC. - American Depositary Shares",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "LIZI"
+  },
+  {
+   "symbol": "MSDA",
+   "name": "MSD Acquisition Corp. - Class A Ordinary Shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "MSDA"
+  },
+  {
+   "symbol": "TECE",
+   "name": "Evolve Enhanced FANGMA Index ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "TECE.TO",
+   "instruments": [
+    {
+     "name": "Evolve EnhFANGM CaHg",
+     "symbol": "TECE"
+    },
+    {
+     "name": "EvolveEnhFANGM CaUHg",
+     "symbol": "TECE.B"
+    },
+    {
+     "name": "EvolveEnhFANGM USUHg",
+     "symbol": "TECE.U"
+    }
+   ]
+  },
+  {
+   "symbol": "JMACU",
+   "name": "Maxpro Capital Acquisition Corp. - Units",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "JMACU"
+  },
+  {
+   "symbol": "MSDAW",
+   "name": "MSD Acquisition Corp. - Warrant",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "MSDAW"
+  }
+ ]
+}

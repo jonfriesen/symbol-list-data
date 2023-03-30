@@ -1,0 +1,280 @@
+{
+ "added": [
+  {
+   "symbol": "IDH",
+   "name": "IndaHash (IDH)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "SHIP",
+   "name": "ShipChain (SHIP)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "SPI",
+   "name": "Shopping.io (SPI)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "URAC",
+   "name": "Uranus (URAC)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "IIC",
+   "name": "Intelligent Investment Chain (IIC)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "USE",
+   "name": "Usechain Token (USE)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "SCC",
+   "name": "StockChain Coin (SCC)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "TOS",
+   "name": "ThingsOperatingSystem (TOS)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "GDT",
+   "name": "Globe Derivative Exchange (GDT)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "FAT",
+   "name": "Fatcoin (FAT)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "FYZ",
+   "name": "Fyooz (FYZ)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "HRD",
+   "name": "Hoard (HRD)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "ENG",
+   "name": "Enigma (ENG)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "G",
+   "name": "GRN Grid (G)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "ESD",
+   "name": "Empty Set Dollar (ESD)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "EDU",
+   "name": "EduCoin (EDU)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "VNT",
+   "name": "VNT Chain (VNT)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "GSC",
+   "name": "Global Social Chain (GSC)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "TYC",
+   "name": "Tycoon (TYC)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "SWM",
+   "name": "Swarm Fund (SWM)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "XPT",
+   "name": "Cryptobuyer (XPT)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "UOP",
+   "name": "Utopia Genesis Foundation (UOP)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "DOGETH",
+   "name": "EtherDoge (DOGETH)"
+  },
+  {
+   "symbol": "FXT",
+   "name": "FuzeX (FXT)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "BANKETH",
+   "name": "BankEth (BANKETH)"
+  },
+  {
+   "symbol": "REX",
+   "name": "Imbrex (REX)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "TRYB",
+   "name": "BiLira (TRYB)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "SIG",
+   "name": "Signal (SIG)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "XSR",
+   "name": "Xensor (XSR)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "TRIO",
+   "name": "Tripio (TRIO)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "ECOM",
+   "name": "Omnitude (ECOM)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "ELAMA",
+   "name": "Elamachain (ELAMA)",
+   "built_on": "ETH"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "FYZ",
+   "name": "Fyooz (FYZ)"
+  },
+  {
+   "symbol": "TRIO",
+   "name": "Tripio (TRIO)"
+  },
+  {
+   "symbol": "HRD",
+   "name": "Hoard (HRD)"
+  },
+  {
+   "symbol": "REX",
+   "name": "Imbrex (REX)"
+  },
+  {
+   "symbol": "GSC",
+   "name": "Global Social Chain (GSC)"
+  },
+  {
+   "symbol": "USE",
+   "name": "Usechain Token (USE)"
+  },
+  {
+   "symbol": "IIC",
+   "name": "Intelligent Investment Chain (IIC)"
+  },
+  {
+   "symbol": "GDT",
+   "name": "Globe Derivative Exchange (GDT)"
+  },
+  {
+   "symbol": "VNT",
+   "name": "VNT Chain (VNT)"
+  },
+  {
+   "symbol": "ELAMA",
+   "name": "Elamachain (ELAMA)"
+  },
+  {
+   "symbol": "XPT",
+   "name": "Cryptobuyer (XPT)"
+  },
+  {
+   "symbol": "UOP",
+   "name": "Utopia Genesis Foundation (UOP)"
+  },
+  {
+   "symbol": "FAT",
+   "name": "Fatcoin (FAT)"
+  },
+  {
+   "symbol": "SPI",
+   "name": "Shopping.io (SPI)"
+  },
+  {
+   "symbol": "SIG",
+   "name": "Signal (SIG)"
+  },
+  {
+   "symbol": "EDU",
+   "name": "EduCoin (EDU)"
+  },
+  {
+   "symbol": "TYC",
+   "name": "Tycoon (TYC)"
+  },
+  {
+   "symbol": "XSR",
+   "name": "Xensor (XSR)"
+  },
+  {
+   "symbol": "TRYB",
+   "name": "BiLira (TRYB)"
+  },
+  {
+   "symbol": "SHIP",
+   "name": "ShipChain (SHIP)"
+  },
+  {
+   "symbol": "ENG",
+   "name": "Enigma (ENG)"
+  },
+  {
+   "symbol": "URAC",
+   "name": "Uranus (URAC)"
+  },
+  {
+   "symbol": "ESD",
+   "name": "Empty Set Dollar (ESD)"
+  },
+  {
+   "symbol": "SCC",
+   "name": "StockChain Coin (SCC)"
+  },
+  {
+   "symbol": "ECOM",
+   "name": "Omnitude (ECOM)"
+  },
+  {
+   "symbol": "SWM",
+   "name": "Swarm Fund (SWM)"
+  },
+  {
+   "symbol": "IDH",
+   "name": "IndaHash (IDH)"
+  },
+  {
+   "symbol": "FXT",
+   "name": "FuzeX (FXT)"
+  },
+  {
+   "symbol": "TOS",
+   "name": "ThingsOperatingSystem (TOS)"
+  }
+ ]
+}
