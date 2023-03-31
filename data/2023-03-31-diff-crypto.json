@@ -1,0 +1,225 @@
+{
+ "added": [
+  {
+   "symbol": "MEX",
+   "name": "MEX (MEX)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "HYPERCOIN",
+   "name": "HyperCoin (HYPERCOIN)"
+  },
+  {
+   "symbol": "MTX",
+   "name": "Matryx (MTX)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "PLAI",
+   "name": "Plair (PLAI)",
+   "built_on": "VET"
+  },
+  {
+   "symbol": "PLF",
+   "name": "PlayFuel (PLF)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "OMNICRON",
+   "name": "OmniCron (OMNICRON)"
+  },
+  {
+   "symbol": "RAISE",
+   "name": "Raise Token (RAISE)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "ODE",
+   "name": "ODEM (ODE)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "AETHERV2",
+   "name": "AetherV2 (AETHERV2)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "SYBTC",
+   "name": "sBTC (SYBTC)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "ATH",
+   "name": "All Time High Vodka (ATH)"
+  },
+  {
+   "symbol": "LUA",
+   "name": "Lua Token (LUA)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "BEY",
+   "name": "Beyond Finance (BEY)"
+  },
+  {
+   "symbol": "LNKC",
+   "name": "Linker Coin (LNKC)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "BANKETH",
+   "name": "BankEth (BANKETH)"
+  },
+  {
+   "symbol": "NYN",
+   "name": "NYNJA (NYN)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "LEVL",
+   "name": "Levolution (LEVL)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "KING",
+   "name": "King Finance (KING)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "ME",
+   "name": "All.me (ME)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "NNB",
+   "name": "NNB Token (NNB)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "KINGSWAP",
+   "name": "KingSwap (KINGSWAP)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "DOG",
+   "name": "The Doge NFT (DOG)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "HYPER",
+   "name": "HyperChainX (HYPER)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "GETH",
+   "name": "Guarded Ether (GETH)"
+  },
+  {
+   "symbol": "REPO",
+   "name": "Repo Coin (REPO)",
+   "built_on": "XLM"
+  },
+  {
+   "symbol": "PITCH",
+   "name": "PITCH (PITCH)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "NCC",
+   "name": "NeuroChain (NCC)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "NTK",
+   "name": "Neurotoken (NTK)",
+   "built_on": "ETH"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "MEX",
+   "name": "MEX (MEX)"
+  },
+  {
+   "symbol": "NHBTC",
+   "name": "NEST Protocol (NHBTC)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "RAISE",
+   "name": "Raise Token (RAISE)"
+  },
+  {
+   "symbol": "REPO",
+   "name": "Repo Coin (REPO)"
+  },
+  {
+   "symbol": "ME",
+   "name": "All.me (ME)"
+  },
+  {
+   "symbol": "LUA",
+   "name": "Lua Token (LUA)"
+  },
+  {
+   "symbol": "NCC",
+   "name": "NeuroChain (NCC)"
+  },
+  {
+   "symbol": "AETHERV2",
+   "name": "AetherV2 (AETHERV2)"
+  },
+  {
+   "symbol": "PLF",
+   "name": "PlayFuel (PLF)"
+  },
+  {
+   "symbol": "BYN",
+   "name": "Beyond Finance (BYN)"
+  },
+  {
+   "symbol": "KING",
+   "name": "KingSwap (KING)"
+  },
+  {
+   "symbol": "ODE",
+   "name": "ODEM (ODE)"
+  },
+  {
+   "symbol": "PLAI",
+   "name": "Plair (PLAI)"
+  },
+  {
+   "symbol": "LNKC",
+   "name": "Linker Coin (LNKC)"
+  },
+  {
+   "symbol": "HYPER",
+   "name": "HyperCoin (HYPER)"
+  },
+  {
+   "symbol": "NYN",
+   "name": "NYNJA (NYN)"
+  },
+  {
+   "symbol": "NNB",
+   "name": "NNB Token (NNB)"
+  },
+  {
+   "symbol": "PITCH",
+   "name": "PITCH (PITCH)"
+  },
+  {
+   "symbol": "MTX",
+   "name": "Matryx (MTX)"
+  },
+  {
+   "symbol": "NTK",
+   "name": "Neurotoken (NTK)"
+  },
+  {
+   "symbol": "LEVL",
+   "name": "Levolution (LEVL)"
+  }
+ ]
+}

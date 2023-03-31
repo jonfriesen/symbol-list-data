@@ -1,0 +1,252 @@
+{
+ "added": [
+  {
+   "symbol": "KRI",
+   "name": "Kobo Resources Inc.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "KRI.V",
+   "instruments": [
+    {
+     "name": "Kobo Resources Inc.",
+     "symbol": "KRI"
+    }
+   ]
+  },
+  {
+   "symbol": "APLM",
+   "name": "Apollomics Inc. - Class A Ordinary Shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "APLM"
+  },
+  {
+   "symbol": "APLMW",
+   "name": "Apollomics Inc. - Warrant",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "APLMW"
+  },
+  {
+   "symbol": "CHSN",
+   "name": "Chanson International Holding - Class A Ordinary Shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "CHSN"
+  },
+  {
+   "symbol": "DIST",
+   "name": "Distoken Acquisition Corporation - Ordinary Shares",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "DIST"
+  },
+  {
+   "symbol": "DISTR",
+   "name": "Distoken Acquisition Corporation - Right",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "DISTR"
+  },
+  {
+   "symbol": "DISTW",
+   "name": "Distoken Acquisition Corporation - Warrant",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "DISTW"
+  },
+  {
+   "symbol": "DYTA",
+   "name": "SGI Dynamic Tactical ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "DYTA"
+  },
+  {
+   "symbol": "ETEC",
+   "name": "iShares Breakthrough Environmental Solutions ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "ETEC"
+  },
+  {
+   "symbol": "MCOM",
+   "name": "micromobility.com Inc. - Class A Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "MCOM"
+  },
+  {
+   "symbol": "MCOMW",
+   "name": "micromobility.com Inc. - Warrant",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "MCOMW"
+  },
+  {
+   "symbol": "STHO",
+   "name": "Star Holdings - Shares of Beneficial Interest",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "STHO"
+  },
+  {
+   "symbol": "UHG",
+   "name": "United Homes Group, Inc - Class A Common Stock",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "UHG"
+  },
+  {
+   "symbol": "UHGWW",
+   "name": "United Homes Group, Inc - Warrant",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "UHGWW"
+  },
+  {
+   "symbol": "HSHP",
+   "name": "Himalaya Shipping Ltd. Common Shares",
+   "exchange": "NYSE",
+   "yahoo_symbol": "HSHP"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "VLTA.W",
+   "name": "Volta Inc. Warrants",
+   "exchange": "NYSE",
+   "yahoo_symbol": "VLTA.W"
+  },
+  {
+   "symbol": "STHOV",
+   "name": "Star Holdings - Shares of Beneficial Interest",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "STHOV"
+  },
+  {
+   "symbol": "SAFE.V",
+   "name": "Safehold Inc. New Common Stock When Issued",
+   "exchange": "NYSE",
+   "yahoo_symbol": "SAFE.V"
+  },
+  {
+   "symbol": "USLB",
+   "name": "Invesco Russell 1000 Low Beta Equal Weight ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "USLB"
+  },
+  {
+   "symbol": "IDLB",
+   "name": "Invesco FTSE International Low Beta Equal Weight ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "IDLB"
+  },
+  {
+   "symbol": "STAR$I",
+   "name": "iStar Inc. Series I Cumulative Redeemable Preferred Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "STAR$I"
+  },
+  {
+   "symbol": "STAR$D",
+   "name": "iStar Inc. Series D Cumulative Redeemable Preferred Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "STAR$D"
+  },
+  {
+   "symbol": "IUSS",
+   "name": "Invesco RAFI Strategic US Small Company ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "IUSS"
+  },
+  {
+   "symbol": "STAR",
+   "name": "iStar Inc. Common Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "STAR"
+  },
+  {
+   "symbol": "HLBZ",
+   "name": "Helbiz, Inc. - Class A Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "HLBZ"
+  },
+  {
+   "symbol": "VLTA",
+   "name": "Volta, Inc. Class A Common Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "VLTA"
+  },
+  {
+   "symbol": "MTR.P",
+   "name": "Meteorite Capital Inc.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "MTR.P.V",
+   "instruments": [
+    {
+     "name": "Meteorite Capital Inc.",
+     "symbol": "MTR.P"
+    }
+   ]
+  },
+  {
+   "symbol": "DHHCW",
+   "name": "DiamondHead Holdings Corp. - Warrant",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "DHHCW"
+  },
+  {
+   "symbol": "BSDE",
+   "name": "Invesco BulletShares 2024 USD Emerging Markets Debt ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "BSDE"
+  },
+  {
+   "symbol": "ADRE",
+   "name": "Invesco BLDRS Emerging Markets 50 ADR Index Fund",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "ADRE"
+  },
+  {
+   "symbol": "DCT",
+   "name": "Duck Creek Technologies, Inc. - Common Stock",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "DCT"
+  },
+  {
+   "symbol": "BSCE",
+   "name": "Invesco BulletShares 2023 USD Emerging Markets Debt ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "BSCE"
+  },
+  {
+   "symbol": "DHHC",
+   "name": "DiamondHead Holdings Corp. - Class A Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "DHHC"
+  },
+  {
+   "symbol": "DHHCU",
+   "name": "DiamondHead Holdings Corp. - Unit",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "DHHCU"
+  },
+  {
+   "symbol": "STAR$G",
+   "name": "iStar Inc. Series G Cumulative Redeemable Preferred Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "STAR$G"
+  },
+  {
+   "symbol": "ISEM",
+   "name": "Invesco RAFI Strategic Emerging Markets ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "ISEM"
+  },
+  {
+   "symbol": "ISDX",
+   "name": "Invesco RAFI Strategic Developed ex-US ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "ISDX"
+  },
+  {
+   "symbol": "ASPU",
+   "name": "Aspen Group Inc. - Common Stock",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "ASPU"
+  },
+  {
+   "symbol": "HLBZW",
+   "name": "Helbiz, Inc. - Warrant",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "HLBZW"
+  }
+ ]
+}
