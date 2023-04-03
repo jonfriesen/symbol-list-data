@@ -1,0 +1,54 @@
+{
+ "added": [
+  {
+   "symbol": "JP",
+   "name": "JP (JP)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "ALPHAC",
+   "name": "Alpha Coin (ALPHAC)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "BANK",
+   "name": "Float Protocol (BANK)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "G",
+   "name": "GRN Grid (G)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "FINU",
+   "name": "Formula Inu (FINU)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "MARLEY",
+   "name": "Marley Token (MARLEY)"
+  },
+  {
+   "symbol": "DOG",
+   "name": "The Doge NFT (DOG)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "NXRA",
+   "name": "AllianceBlock Nexera (NXRA)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "DAMEX",
+   "name": "DAMEX (DAMEX)",
+   "built_on": "ETH"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "FINU",
+   "name": "Fire Inu (FINU)"
+  }
+ ]
+}

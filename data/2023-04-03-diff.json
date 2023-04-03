@@ -1,0 +1,184 @@
+{
+ "added": [
+  {
+   "symbol": "SPSA.P",
+   "name": "SP Strategic Acquisition Corp.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "SPSA.P.V",
+   "instruments": [
+    {
+     "name": "SP Strategic Acquisition Corp.",
+     "symbol": "SPSA.P"
+    }
+   ]
+  },
+  {
+   "symbol": "PLZ.UN",
+   "name": "Plaza Retail REIT",
+   "exchange": "TSX",
+   "yahoo_symbol": "PLZ.UN.TO",
+   "instruments": [
+    {
+     "name": "Plaza Retail REIT Un",
+     "symbol": "PLZ.UN"
+    }
+   ]
+  },
+  {
+   "symbol": "HKIT",
+   "name": "Hitek Global Inc. - Ordinary Share",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "HKIT"
+  },
+  {
+   "symbol": "SFWL",
+   "name": "Shengfeng Development Limited - Class A Ordinary Shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "SFWL"
+  },
+  {
+   "symbol": "SYT",
+   "name": "SYLA Technologies Co., Ltd. - American Depositary Shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "SYT"
+  },
+  {
+   "symbol": "MWG",
+   "name": "Multi Ways Holdings Limited Ordinary Shares",
+   "exchange": "NYSE MKT",
+   "yahoo_symbol": "MWG"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "PLZ.DB.E",
+   "name": "Plaza Retail REIT",
+   "exchange": "TSX",
+   "yahoo_symbol": "PLZ.DB.E.TO",
+   "instruments": [
+    {
+     "name": "Plaza RetailTr 5.1Db",
+     "symbol": "PLZ.DB.E"
+    },
+    {
+     "name": "Plaza Retail REIT Un",
+     "symbol": "PLZ.UN"
+    }
+   ]
+  },
+  {
+   "symbol": "RWX",
+   "name": "CI MSCI International Low Risk Weighted ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "RWX.TO",
+   "instruments": [
+    {
+     "name": "CI MSCI IntlLwRskHeg",
+     "symbol": "RWX"
+    },
+    {
+     "name": "CI MSCIIntlLwRskUnHg",
+     "symbol": "RWX.B"
+    }
+   ]
+  },
+  {
+   "symbol": "DWEQ",
+   "name": "AdvisorShares Dorsey Wright Alpha Equal Weight ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "DWEQ"
+  },
+  {
+   "symbol": "AGFS",
+   "name": "AgroFresh Solutions, Inc. - Common Stock",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "AGFS"
+  },
+  {
+   "symbol": "RAMMW",
+   "name": "Aries I Acquisition Corporation - Warrant",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "RAMMW"
+  },
+  {
+   "symbol": "RJF$A",
+   "name": "Raymond James Financial, Inc. Depositary Shares, each representing a 1/40th interest in a share of 6.75% Fixed-to-Floating Rate Series A Non-Cumulative Perpetual Preferred Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "RJF$A"
+  },
+  {
+   "symbol": "CGBN",
+   "name": "CI Global Bond Currency Neutral Fund",
+   "exchange": "TSX",
+   "yahoo_symbol": "CGBN.TO",
+   "instruments": [
+    {
+     "name": "CI Glb BndCurNeutrC$",
+     "symbol": "CGBN"
+    }
+   ]
+  },
+  {
+   "symbol": "RAMMU",
+   "name": "Aries I Acquisition Corporation - Unit",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "RAMMU"
+  },
+  {
+   "symbol": "TZR",
+   "name": "Terrace Energy Corp.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "TZR.V",
+   "instruments": [
+    {
+     "name": "Terrace Energy Corp.",
+     "symbol": "TZR"
+    }
+   ]
+  },
+  {
+   "symbol": "RAM",
+   "name": "Aries I Acquisition Corporation - Class A Ordinary Share",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "RAM"
+  },
+  {
+   "symbol": "RWW",
+   "name": "CI MSCI World Low Risk Weighted ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "RWW.TO",
+   "instruments": [
+    {
+     "name": "CI MSCI WrldLwRsk HG",
+     "symbol": "RWW"
+    },
+    {
+     "name": "CI MSCI WrldLwRsUnhg",
+     "symbol": "RWW.B"
+    }
+   ]
+  },
+  {
+   "symbol": "AUY",
+   "name": "Yamana Gold Inc. Ordinary Shares (Canada)",
+   "exchange": "NYSE",
+   "yahoo_symbol": "AUY"
+  },
+  {
+   "symbol": "RWE",
+   "name": "CI MSCI Europe Low Risk Weighted ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "RWE.TO",
+   "instruments": [
+    {
+     "name": "CI MSCI EU LwRskWgHG",
+     "symbol": "RWE"
+    },
+    {
+     "name": "CI MSCI EU LwRskUnhg",
+     "symbol": "RWE.B"
+    }
+   ]
+  }
+ ]
+}
