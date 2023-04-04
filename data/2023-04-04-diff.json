@@ -1,0 +1,162 @@
+{
+ "added": [
+  {
+   "symbol": "DTEA",
+   "name": "DAVIDsTEA Inc.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "DTEA.V",
+   "instruments": [
+    {
+     "name": "DAVIDsTEA Inc.",
+     "symbol": "DTEA"
+    }
+   ]
+  },
+  {
+   "symbol": "REC",
+   "name": "Record Resources Inc.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "REC.V",
+   "instruments": [
+    {
+     "name": "Record Resources Inc.",
+     "symbol": "REC"
+    }
+   ]
+  },
+  {
+   "symbol": "HEB",
+   "name": "Hamilton Canadian Bank Equal-Weight Index ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "HEB.TO",
+   "instruments": [
+    {
+     "name": "Hamilton Cdn Bk=Wgt",
+     "symbol": "HEB"
+    }
+   ]
+  },
+  {
+   "symbol": "OCTO",
+   "name": "Eightco Holdings Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "OCTO"
+  },
+  {
+   "symbol": "PTHR",
+   "name": "Pono Capital Three, Inc. - Class A Ordinary Shares",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "PTHR"
+  },
+  {
+   "symbol": "PTHRW",
+   "name": "Pono Capital Three, Inc. - Warrant",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "PTHRW"
+  },
+  {
+   "symbol": "SHLT",
+   "name": "SHL Telemedicine Ltd - American Depositary Shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "SHLT"
+  },
+  {
+   "symbol": "CXT",
+   "name": "Crane NXT, Co. Common Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "CXT"
+  },
+  {
+   "symbol": "PRIM",
+   "name": "Primoris Services Corporation Common Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "PRIM"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "SJR",
+   "name": "Shaw Communications Inc. Common Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "SJR"
+  },
+  {
+   "symbol": "TWNI.U",
+   "name": "Tailwind International Acquisition Corp. Units, each consisting of one Class A ordinary share and one-third of one redeemable warrant",
+   "exchange": "NYSE",
+   "yahoo_symbol": "TWNI.U"
+  },
+  {
+   "symbol": "PLM.R",
+   "name": "Polymet Mining Corp. Rights (expiring April 4, 2023) Rights",
+   "exchange": "NYSE MKT",
+   "yahoo_symbol": "PLM.R"
+  },
+  {
+   "symbol": "YRI",
+   "name": "Yamana Gold Inc.",
+   "exchange": "TSX",
+   "yahoo_symbol": "YRI.TO",
+   "instruments": [
+    {
+     "name": "Yamana Gold Inc.",
+     "symbol": "YRI"
+    }
+   ]
+  },
+  {
+   "symbol": "CHRA",
+   "name": "Charah Solutions, Inc. Common Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "CHRA"
+  },
+  {
+   "symbol": "CR.V",
+   "name": "Crane Company Common Stock When Issued",
+   "exchange": "NYSE",
+   "yahoo_symbol": "CR.V"
+  },
+  {
+   "symbol": "CXT.V",
+   "name": "Crane NXT, Co. Common Stock Ex-Distribution When-Issued",
+   "exchange": "NYSE",
+   "yahoo_symbol": "CXT.V"
+  },
+  {
+   "symbol": "SLK",
+   "name": "Silk Road Energy Inc.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "SLK.V",
+   "instruments": [
+    {
+     "name": "Silk Road Energy Inc.",
+     "symbol": "SLK"
+    }
+   ]
+  },
+  {
+   "symbol": "PRIM",
+   "name": "Primoris Services Corporation - Common Stock",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "PRIM"
+  },
+  {
+   "symbol": "TWNI",
+   "name": "Tailwind International Acquisition Corp. Class A Ordinary Shares",
+   "exchange": "NYSE",
+   "yahoo_symbol": "TWNI"
+  },
+  {
+   "symbol": "BOXD",
+   "name": "Boxed, Inc. Common Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "BOXD"
+  },
+  {
+   "symbol": "TYDE",
+   "name": "Cryptyde, Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "TYDE"
+  }
+ ]
+}
