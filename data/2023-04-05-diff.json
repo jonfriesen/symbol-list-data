@@ -1,0 +1,112 @@
+{
+ "added": [
+  {
+   "symbol": "CELL",
+   "name": "Grid Battery Metals Inc.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "CELL.V",
+   "instruments": [
+    {
+     "name": "Grid Battery Metals Inc.",
+     "symbol": "CELL"
+    }
+   ]
+  },
+  {
+   "symbol": "NDA",
+   "name": "Neptune Digital Assets Corp.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "NDA.V",
+   "instruments": [
+    {
+     "name": "Neptune Digital Assets Corp.",
+     "symbol": "NDA"
+    }
+   ]
+  },
+  {
+   "symbol": "ISPR",
+   "name": "Ispire Technology Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "ISPR"
+  },
+  {
+   "symbol": "MGIH",
+   "name": "Millennium Group International Holdings Limited - Ordinary Shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "MGIH"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "SJR.B",
+   "name": "Shaw Communications Inc.",
+   "exchange": "TSX",
+   "yahoo_symbol": "SJR.B.TO",
+   "instruments": [
+    {
+     "name": "Shaw Comm Cl B NV",
+     "symbol": "SJR.B"
+    }
+   ]
+  },
+  {
+   "symbol": "CDAK",
+   "name": "Codiak BioSciences, Inc. - Common Stock",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "CDAK"
+  },
+  {
+   "symbol": "CHRB",
+   "name": "Charah Solutions, Inc. 8.50% Senior Notes due 2026",
+   "exchange": "NYSE",
+   "yahoo_symbol": "CHRB"
+  },
+  {
+   "symbol": "VIVO",
+   "name": "VIVO Cannabis Inc.",
+   "exchange": "TSX",
+   "yahoo_symbol": "VIVO.TO",
+   "instruments": [
+    {
+     "name": "VIVO Cannabis Inc. J",
+     "symbol": "VIVO"
+    },
+    {
+     "name": "VIVO Cannabis J Wt",
+     "symbol": "VIVO.WT"
+    }
+   ]
+  },
+  {
+   "symbol": "SJR.A",
+   "name": "Shaw Communications Inc.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "SJR.A.V",
+   "instruments": [
+    {
+     "name": "Shaw Communications Inc. cl A Part",
+     "symbol": "SJR.A"
+    }
+   ]
+  },
+  {
+   "symbol": "APEN",
+   "name": "Apollo Endosurgery, Inc. - Common Stock",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "APEN"
+  },
+  {
+   "symbol": "NICL",
+   "name": "Nickel Rock Resources Inc.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "NICL.V",
+   "instruments": [
+    {
+     "name": "Nickel Rock Resources Inc.",
+     "symbol": "NICL"
+    }
+   ]
+  }
+ ]
+}
