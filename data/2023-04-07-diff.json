@@ -1,0 +1,42 @@
+{
+ "added": [
+  {
+   "symbol": "ARBB",
+   "name": "ARB IOT Group Limited - Ordinary Shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "ARBB"
+  },
+  {
+   "symbol": "IBOT",
+   "name": "VanEck Robotics ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "IBOT"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "DMYS.U",
+   "name": "dMY Technology Group, Inc. VI Units, each consisting of one share of Class A common stock and one-half of one redeemable warrant",
+   "exchange": "NYSE",
+   "yahoo_symbol": "DMYS.U"
+  },
+  {
+   "symbol": "DMYS.W",
+   "name": "dMY Technology Group, Inc. VI Redeemable Warrants, each whole warrant exercisable for one share of Class A common stock at an exercise price of $11.50 per share",
+   "exchange": "NYSE",
+   "yahoo_symbol": "DMYS.W"
+  },
+  {
+   "symbol": "DMYS",
+   "name": "dMY Technology Group, Inc. VI Class A Common Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "DMYS"
+  },
+  {
+   "symbol": "IGR.R",
+   "name": "CBRE Global Real Estate Income Fund Rights (expiring April 6, 2023) Rights",
+   "exchange": "NYSE",
+   "yahoo_symbol": "IGR.R"
+  }
+ ]
+}

@@ -1,0 +1,38 @@
+{
+ "added": [
+  {
+   "symbol": "FASTSWAP",
+   "name": "Fastswap (FASTSWAP)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "G",
+   "name": "GRN Grid (G)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "GAS",
+   "name": "Gas (GAS)",
+   "built_on": "NEO"
+  },
+  {
+   "symbol": "QUICKOLD",
+   "name": "Quickswap (QUICKOLD)"
+  },
+  {
+   "symbol": "BANK",
+   "name": "Float Protocol (BANK)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "DOGETH",
+   "name": "EtherDoge (DOGETH)"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "GAS",
+   "name": "Gas (GAS)"
+  }
+ ]
+}
