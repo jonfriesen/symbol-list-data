@@ -1,0 +1,124 @@
+{
+ "added": [
+  {
+   "symbol": "HPLT",
+   "name": "Home Plate Acquisition Corporation - Class A Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "HPLT"
+  },
+  {
+   "symbol": "HPLTU",
+   "name": "Home Plate Acquisition Corporation - Unit",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "HPLTU"
+  },
+  {
+   "symbol": "HPLTW",
+   "name": "Home Plate Acquisition Corporation - Warrant",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "HPLTW"
+  },
+  {
+   "symbol": "ITAQ",
+   "name": "Industrial Tech Acquisitions II, Inc. - Class A Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "ITAQ"
+  },
+  {
+   "symbol": "ITAQU",
+   "name": "Industrial Tech Acquisitions II, Inc. - Units",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "ITAQU"
+  },
+  {
+   "symbol": "ITAQW",
+   "name": "Industrial Tech Acquisitions II, Inc. - Warrants",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "ITAQW"
+  },
+  {
+   "symbol": "NVEE",
+   "name": "NV5 Global, Inc. - Common Stock",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "NVEE"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "NVEE",
+   "name": "NV5 Global, Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "NVEE"
+  },
+  {
+   "symbol": "ITAQU",
+   "name": "Industrial Tech Acquisitions II, Inc. - Units",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "ITAQU"
+  },
+  {
+   "symbol": "GIA",
+   "name": "GigCapital 5, Inc. Common Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "GIA"
+  },
+  {
+   "symbol": "HBIT",
+   "name": "BetaPro Bitcoin ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "HBIT.TO",
+   "instruments": [
+    {
+     "name": "BetaPro Bitcoin ETF",
+     "symbol": "HBIT"
+    },
+    {
+     "name": "BetaPro Bitcoin USF",
+     "symbol": "HBIT.U"
+    }
+   ]
+  },
+  {
+   "symbol": "ITAQ",
+   "name": "Industrial Tech Acquisitions II, Inc. - Class A Common Stock",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "ITAQ"
+  },
+  {
+   "symbol": "GIA.U",
+   "name": "GigCapital 5, Inc. Units, each consisting of one share of Common Stock and one third of one Redeemable Warrant to purchase one share of Common Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "GIA.U"
+  },
+  {
+   "symbol": "ITAQW",
+   "name": "Industrial Tech Acquisitions II, Inc. - Warrants",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "ITAQW"
+  },
+  {
+   "symbol": "HPLTW",
+   "name": "Home Plate Acquisition Corporation - Warrant",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "HPLTW"
+  },
+  {
+   "symbol": "HPLT",
+   "name": "Home Plate Acquisition Corporation - Class A Common Stock",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "HPLT"
+  },
+  {
+   "symbol": "GIA.W",
+   "name": "GigCapital 5, Inc. Redeemable Warrants, each exercisable for one share of Common Stock at an exercise price of $11.50 per share",
+   "exchange": "NYSE",
+   "yahoo_symbol": "GIA.W"
+  },
+  {
+   "symbol": "HPLTU",
+   "name": "Home Plate Acquisition Corporation - Unit",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "HPLTU"
+  }
+ ]
+}
