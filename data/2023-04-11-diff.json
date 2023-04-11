@@ -1,0 +1,58 @@
+{
+ "removed": [
+  {
+   "symbol": "REVEW",
+   "name": "Alpine Acquisition Corporation - Warrant",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "REVEW"
+  },
+  {
+   "symbol": "NORA",
+   "name": "Norra Metals Corp.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "NORA.V",
+   "instruments": [
+    {
+     "name": "Norra Metals Corp.",
+     "symbol": "NORA"
+    }
+   ]
+  },
+  {
+   "symbol": "REVEU",
+   "name": "Alpine Acquisition Corporation - Unit",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "REVEU"
+  },
+  {
+   "symbol": "KVSC",
+   "name": "Khosla Ventures Acquisition Co. III - Class A Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "KVSC"
+  },
+  {
+   "symbol": "REVE",
+   "name": "Alpine Acquisition Corporation - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "REVE"
+  },
+  {
+   "symbol": "TKX",
+   "name": "Trackx Holdings Inc.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "TKX.V",
+   "instruments": [
+    {
+     "name": "Trackx Holdings Inc.",
+     "symbol": "TKX"
+    }
+   ]
+  },
+  {
+   "symbol": "GLS",
+   "name": "Gelesis Holdings, Inc. Common Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "GLS"
+  }
+ ]
+}
