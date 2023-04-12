@@ -1,0 +1,38 @@
+{
+ "added": [
+  {
+   "symbol": "STORJ",
+   "name": "Storj (STORJ)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "MDXH",
+   "name": "Mdex (HECO) (MDXH)",
+   "built_on": "HT"
+  },
+  {
+   "symbol": "DOGETH",
+   "name": "EtherDoge (DOGETH)"
+  },
+  {
+   "symbol": "BANKETH",
+   "name": "BankEth (BANKETH)"
+  },
+  {
+   "symbol": "PARAW",
+   "name": "Para (PARAW)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "G",
+   "name": "GRN Grid (G)",
+   "built_on": "ETH"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "STORJ",
+   "name": "Storj (STORJ)"
+  }
+ ]
+}

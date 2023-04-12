@@ -1,0 +1,96 @@
+{
+ "added": [
+  {
+   "symbol": "HRIF",
+   "name": "Harvest Diversified Equity Income ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "HRIF.TO",
+   "instruments": [
+    {
+     "name": "Harvest Divers Eq Un",
+     "symbol": "HRIF"
+    }
+   ]
+  },
+  {
+   "symbol": "TRVI",
+   "name": "Harvest Travel \u0026 Leisure Income ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "TRVI.TO",
+   "instruments": [
+    {
+     "name": "Harvest Trav \u0026 Leisr",
+     "symbol": "TRVI"
+    }
+   ]
+  },
+  {
+   "symbol": "ASTR",
+   "name": "Astra Space, Inc. - Class A Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "ASTR"
+  },
+  {
+   "symbol": "BIGT",
+   "name": "Roundhill BIG Tech ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "BIGT"
+  },
+  {
+   "symbol": "LZRD",
+   "name": "Parabla Innovation ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "LZRD"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "MAGT",
+   "name": "Magnet Forensics Inc.",
+   "exchange": "TSX",
+   "yahoo_symbol": "MAGT.TO",
+   "instruments": [
+    {
+     "name": "Magnet Forensics SV",
+     "symbol": "MAGT"
+    }
+   ]
+  },
+  {
+   "symbol": "ASTR",
+   "name": "Astra Space, Inc. - Class A Common Stock",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "ASTR"
+  },
+  {
+   "symbol": "NVCN",
+   "name": "Neovasc Inc. - Common Shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "NVCN"
+  },
+  {
+   "symbol": "JTR",
+   "name": "GreenSpace Brands Inc.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "JTR.V",
+   "instruments": [
+    {
+     "name": "GreenSpace Brands Inc.",
+     "symbol": "JTR"
+    }
+   ]
+  },
+  {
+   "symbol": "XAG",
+   "name": "Xtierra Inc.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "XAG.V",
+   "instruments": [
+    {
+     "name": "Xtierra Inc",
+     "symbol": "XAG"
+    }
+   ]
+  }
+ ]
+}
