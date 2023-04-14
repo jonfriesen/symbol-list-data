@@ -1,0 +1,78 @@
+{
+ "added": [
+  {
+   "symbol": "FIVD.P",
+   "name": "5D Acquisition Corp.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "FIVD.P.V",
+   "instruments": [
+    {
+     "name": "5D Acquisition Corp.",
+     "symbol": "FIVD.P"
+    }
+   ]
+  },
+  {
+   "symbol": "OKAI",
+   "name": "EvokAI Creative Labs Inc.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "OKAI.V",
+   "instruments": [
+    {
+     "name": "EvokAI Creative Labs Inc.",
+     "symbol": "OKAI"
+    }
+   ]
+  },
+  {
+   "symbol": "ERYP",
+   "name": "Erytech Pharma S.A. - American Depositary Shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "ERYP"
+  },
+  {
+   "symbol": "PTEC",
+   "name": "Global X PropTech ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "PTEC"
+  },
+  {
+   "symbol": "VCIG",
+   "name": "VCI Global Limited - Ordinary Share",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "VCIG"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "BSGAR",
+   "name": "Blue Safari Group Acquisition Corp. - Right",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "BSGAR"
+  },
+  {
+   "symbol": "ERYP",
+   "name": "Erytech Pharma S.A. - American Depositary Shares",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "ERYP"
+  },
+  {
+   "symbol": "BSGA",
+   "name": "Blue Safari Group Acquisition Corp. - Class A Ordinary Share",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "BSGA"
+  },
+  {
+   "symbol": "BSGAU",
+   "name": "Blue Safari Group Acquisition Corp. - Unit",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "BSGAU"
+  },
+  {
+   "symbol": "TCVA",
+   "name": "TCV Acquisition Corp. - Class A Ordinary Shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "TCVA"
+  }
+ ]
+}

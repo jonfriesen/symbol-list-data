@@ -1,0 +1,42 @@
+{
+ "added": [
+  {
+   "symbol": "NIFTSY",
+   "name": "Envelop (NIFTSY)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "DHR",
+   "name": "DeHR Network (DHR)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "BANK",
+   "name": "Float Protocol (BANK)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "GETH",
+   "name": "Guarded Ether (GETH)"
+  },
+  {
+   "symbol": "POLKER",
+   "name": "Polker (PKR)"
+  },
+  {
+   "symbol": "DOGETH",
+   "name": "EtherDoge (DOGETH)"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "PKR",
+   "name": "Polker (PKR)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "NIFTSY",
+   "name": "Envelop (NIFTSY)"
+  }
+ ]
+}
