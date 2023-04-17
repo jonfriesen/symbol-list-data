@@ -1,0 +1,138 @@
+{
+ "added": [
+  {
+   "symbol": "ILLM",
+   "name": "AcuityAds Holdings Inc.",
+   "exchange": "TSX",
+   "yahoo_symbol": "ILLM.TO",
+   "instruments": [
+    {
+     "name": "AcuityAds Hldgs J",
+     "symbol": "ILLM"
+    }
+   ]
+  },
+  {
+   "symbol": "BTDR",
+   "name": "Bitdeer Technologies Group - Ordinary Shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "BTDR"
+  },
+  {
+   "symbol": "GDTC",
+   "name": "CytoMed Therapeutics Limited - Ordinary Shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "GDTC"
+  },
+  {
+   "symbol": "ILLM",
+   "name": "AcuityAds Holdings Inc. - Common Shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "ILLM"
+  },
+  {
+   "symbol": "MSGE.V",
+   "name": "Madison Square Garden Entertainment Corp. Class A Common Stock When-Issued",
+   "exchange": "NYSE",
+   "yahoo_symbol": "MSGE.V"
+  },
+  {
+   "symbol": "SPHR.V",
+   "name": "Sphere Entertainment Co. Class A Common Stock When-Issued",
+   "exchange": "NYSE",
+   "yahoo_symbol": "SPHR.V"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "ALL$G",
+   "name": "Allstate Corporation (The) Depositary Shares each representing a 1/1,000th interest in a share of Fixed Rate Noncumulative Perpetual Preferred Stock, Series G",
+   "exchange": "NYSE",
+   "yahoo_symbol": "ALL$G"
+  },
+  {
+   "symbol": "SGQ",
+   "name": "SouthGobi Resources Ltd.",
+   "exchange": "TSX",
+   "yahoo_symbol": "SGQ.TO",
+   "instruments": [
+    {
+     "name": "SouthGobi Res Ltd J",
+     "symbol": "SGQ"
+    }
+   ]
+  },
+  {
+   "symbol": "NUO",
+   "name": "Nuveen Ohio Quality Municipal Income Fund Common Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "NUO"
+  },
+  {
+   "symbol": "NKG",
+   "name": "Nuveen Georgia Quality Municipal Income Fund ",
+   "exchange": "NYSE",
+   "yahoo_symbol": "NKG"
+  },
+  {
+   "symbol": "KAL",
+   "name": "Kalera Public Limited Company - Ordinary Shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "KAL"
+  },
+  {
+   "symbol": "DTEA",
+   "name": "DAVIDsTEA Inc. - Common Stock",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "DTEA"
+  },
+  {
+   "symbol": "ENBA",
+   "name": "Enbridge Inc 6.375% Fixed-to-Floating Rate Subordinated Notes Series 2018-B due 2078",
+   "exchange": "NYSE",
+   "yahoo_symbol": "ENBA"
+  },
+  {
+   "symbol": "KALWW",
+   "name": "Kalera Public Limited Company - Warrant",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "KALWW"
+  },
+  {
+   "symbol": "EXD",
+   "name": "Eaton Vance Tax-Managed Buy-Write Strategy Fund Common Shares of Beneficial Interest",
+   "exchange": "NYSE",
+   "yahoo_symbol": "EXD"
+  },
+  {
+   "symbol": "DHR$B",
+   "name": "Danaher Corporation 5.00% Mandatory Convertible Preferred Stock, Series B",
+   "exchange": "NYSE",
+   "yahoo_symbol": "DHR$B"
+  },
+  {
+   "symbol": "YTPG",
+   "name": "TPG Pace Beneficial II Corp. Class A Ordinary Shares",
+   "exchange": "NYSE",
+   "yahoo_symbol": "YTPG"
+  },
+  {
+   "symbol": "ATY",
+   "name": "AcuityAds Holdings Inc. - Common Shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "ATY"
+  },
+  {
+   "symbol": "AT",
+   "name": "AcuityAds Holdings Inc.",
+   "exchange": "TSX",
+   "yahoo_symbol": "AT.TO",
+   "instruments": [
+    {
+     "name": "AcuityAds Hldgs J",
+     "symbol": "AT"
+    }
+   ]
+  }
+ ]
+}
