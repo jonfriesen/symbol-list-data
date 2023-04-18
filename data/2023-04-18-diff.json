@@ -1,0 +1,222 @@
+{
+ "added": [
+  {
+   "symbol": "CBIL",
+   "name": "Horizons 0-3 Month T-Bill ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "CBIL.TO",
+   "instruments": [
+    {
+     "name": "Horizons 0-3Mon T-bl",
+     "symbol": "CBIL"
+    }
+   ]
+  },
+  {
+   "symbol": "NAV",
+   "name": "NAVCO Pharmaceuticals Inc.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "NAV.V",
+   "instruments": [
+    {
+     "name": "NAVCO Pharmaceuticals Inc.",
+     "symbol": "NAV"
+    }
+   ]
+  },
+  {
+   "symbol": "SGQ",
+   "name": "SouthGobi Resources Ltd",
+   "exchange": "TSXV",
+   "yahoo_symbol": "SGQ.V",
+   "instruments": [
+    {
+     "name": "SouthGobi Resources Ltd.",
+     "symbol": "SGQ"
+    }
+   ]
+  },
+  {
+   "symbol": "PAAS",
+   "name": "Pan American Silver Corp. Common Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "PAAS"
+  },
+  {
+   "symbol": "TPET",
+   "name": "Trio Petroleum Corp. Common Stock",
+   "exchange": "NYSE MKT",
+   "yahoo_symbol": "TPET"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "PXG",
+   "name": "Invesco FTSE RAFI Global+ Index ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "PXG.TO",
+   "instruments": [
+    {
+     "name": "Invesco FTSE Glb+ETF",
+     "symbol": "PXG"
+    },
+    {
+     "name": "Invesco FTSE Glb+ US",
+     "symbol": "PXG.U"
+    }
+   ]
+  },
+  {
+   "symbol": "ELV",
+   "name": "Invesco S\u0026P Emerging Markets Low Volatility Index ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "ELV.TO",
+   "instruments": [
+    {
+     "name": "Invesco S\u0026P EmrgMkts",
+     "symbol": "ELV"
+    }
+   ]
+  },
+  {
+   "symbol": "REIT",
+   "name": "Invesco S\u0026P/TSX REIT Income Index ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "REIT.TO",
+   "instruments": [
+    {
+     "name": "Invesco REIT Incm CA",
+     "symbol": "REIT"
+    }
+   ]
+  },
+  {
+   "symbol": "PSY",
+   "name": "Invesco Global Shareholder Yield ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "PSY.TO",
+   "instruments": [
+    {
+     "name": "Invesco GlbShrhldrCA",
+     "symbol": "PSY"
+    },
+    {
+     "name": "Invesco GlbShrhldrUS",
+     "symbol": "PSY.U"
+    }
+   ]
+  },
+  {
+   "symbol": "BKL.C",
+   "name": "Invesco Senior Loan Index ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "BKL.C.TO",
+   "instruments": [
+    {
+     "name": "Invesco SeniorLoanCA",
+     "symbol": "BKL.C"
+    },
+    {
+     "name": "Invesco SnrLoanCAheg",
+     "symbol": "BKL.F"
+    },
+    {
+     "name": "Invesco SeniorLoanUS",
+     "symbol": "BKL.U"
+    }
+   ]
+  },
+  {
+   "symbol": "ILV",
+   "name": "Invesco S\u0026P International Developed Low Volatility Index ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "ILV.TO",
+   "instruments": [
+    {
+     "name": "InvescoS\u0026PIntl LwVol",
+     "symbol": "ILV"
+    },
+    {
+     "name": "InvescoS\u0026PIntlDvVlCA",
+     "symbol": "ILV.F"
+    }
+   ]
+  },
+  {
+   "symbol": "USB",
+   "name": "Invesco LadderRite U.S. 0-5 Year Corporate Bond Index ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "USB.TO",
+   "instruments": [
+    {
+     "name": "InvescoLddrRtUS0-5Yr",
+     "symbol": "USB"
+    },
+    {
+     "name": "InvescoLddrRtO-5YrUS",
+     "symbol": "USB.U"
+    }
+   ]
+  },
+  {
+   "symbol": "PZC",
+   "name": "Invesco FTSE RAFI Canadian Small-Mid Index ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "PZC.TO",
+   "instruments": [
+    {
+     "name": "InvscoFTSE CA Sml-Md",
+     "symbol": "PZC"
+    }
+   ]
+  },
+  {
+   "symbol": "NHP",
+   "name": "Lumiera Health Inc.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "NHP.V",
+   "instruments": [
+    {
+     "name": "Lumiera Health Inc.",
+     "symbol": "NHP"
+    }
+   ]
+  },
+  {
+   "symbol": "PPS",
+   "name": "Invesco Canadian Preferred Share Index ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "PPS.TO",
+   "instruments": [
+    {
+     "name": "Invesco Cdn Pr Un",
+     "symbol": "PPS"
+    }
+   ]
+  },
+  {
+   "symbol": "BMGB.P",
+   "name": "BMGB Capital Corp.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "BMGB.P.V",
+   "instruments": [
+    {
+     "name": "BMGB Capital Corp.",
+     "symbol": "BMGB.P"
+    }
+   ]
+  },
+  {
+   "symbol": "PAAS",
+   "name": "Pan American Silver Corp. - Common Stock",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "PAAS"
+  },
+  {
+   "symbol": "CIH",
+   "name": "China Index Holdings Limited - American Depository Shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "CIH"
+  }
+ ]
+}
