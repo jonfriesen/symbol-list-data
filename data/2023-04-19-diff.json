@@ -1,0 +1,66 @@
+{
+ "added": [
+  {
+   "symbol": "TCJH",
+   "name": "Top KingWin Ltd - Class A Ordinary Shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "TCJH"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "BSO.UN",
+   "name": "Brookfield Select Opportunities Income Fund",
+   "exchange": "TSX",
+   "yahoo_symbol": "BSO.UN.TO",
+   "instruments": [
+    {
+     "name": "Brookfld Selct Oppor",
+     "symbol": "BSO.UN"
+    }
+   ]
+  },
+  {
+   "symbol": "PANA",
+   "name": "Panacea Acquisition Corp. II - Class A Ordinary Shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "PANA"
+  },
+  {
+   "symbol": "AUN",
+   "name": "Aurcana Silver Corporation",
+   "exchange": "TSXV",
+   "yahoo_symbol": "AUN.V",
+   "instruments": [
+    {
+     "name": "Aurcana Silver Corporation",
+     "symbol": "AUN"
+    }
+   ]
+  },
+  {
+   "symbol": "PEARW",
+   "name": "Pear Therapeutics, Inc. - Warrant",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "PEARW"
+  },
+  {
+   "symbol": "PEAR",
+   "name": "Pear Therapeutics, Inc. - Class A Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "PEAR"
+  },
+  {
+   "symbol": "CTO",
+   "name": "Circa Enterprises Inc.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "CTO.V",
+   "instruments": [
+    {
+     "name": "Circa Enterprises Inc",
+     "symbol": "CTO"
+    }
+   ]
+  }
+ ]
+}
