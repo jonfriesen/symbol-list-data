@@ -1,0 +1,102 @@
+{
+ "added": [
+  {
+   "symbol": "AUUA",
+   "name": "Aluula Composites Inc.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "AUUA.V",
+   "instruments": [
+    {
+     "name": "Aluula Composites Inc.",
+     "symbol": "AUUA"
+    }
+   ]
+  },
+  {
+   "symbol": "OWN",
+   "name": "Rex Resources Corp.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "OWN.V",
+   "instruments": [
+    {
+     "name": "Rex Resources Corp.",
+     "symbol": "OWN"
+    }
+   ]
+  },
+  {
+   "symbol": "TINY",
+   "name": "Tiny Ltd.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "TINY.V",
+   "instruments": [
+    {
+     "name": "Tiny Ltd.",
+     "symbol": "TINY"
+    }
+   ]
+  },
+  {
+   "symbol": "GEC",
+   "name": "Global Education Communities Corp.",
+   "exchange": "TSX",
+   "yahoo_symbol": "GEC.TO",
+   "instruments": [
+    {
+     "name": "CIBT Education Grp J",
+     "symbol": "GEC"
+    }
+   ]
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "MBA",
+   "name": "CIBT Education Group Inc.",
+   "exchange": "TSX",
+   "yahoo_symbol": "MBA.TO",
+   "instruments": [
+    {
+     "name": "CIBT Education Grp J",
+     "symbol": "MBA"
+    }
+   ]
+  },
+  {
+   "symbol": "BASQ.P",
+   "name": "Bastion Square Partners Inc.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "BASQ.P.V",
+   "instruments": [
+    {
+     "name": "Bastion Square Partners Inc.",
+     "symbol": "BASQ.P"
+    }
+   ]
+  },
+  {
+   "symbol": "LCI",
+   "name": "Lannett Co Inc Common Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "LCI"
+  },
+  {
+   "symbol": "WE",
+   "name": "Wecommerce Holdings Ltd.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "WE.V",
+   "instruments": [
+    {
+     "name": "WeCommerce Holdings Ltd.",
+     "symbol": "WE"
+    }
+   ]
+  },
+  {
+   "symbol": "ATCX",
+   "name": "Atlas Technical Consultants, Inc. - Class A Common Stock",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "ATCX"
+  }
+ ]
+}
