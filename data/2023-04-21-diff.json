@@ -1,0 +1,84 @@
+{
+ "added": [
+  {
+   "symbol": "LFLY",
+   "name": "Leafly Holdings, Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "LFLY"
+  },
+  {
+   "symbol": "LFLYW",
+   "name": "Leafly Holdings, Inc. - Warrant",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "LFLYW"
+  },
+  {
+   "symbol": "UCAR",
+   "name": "U Power Limited - Ordinary Shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "UCAR"
+  },
+  {
+   "symbol": "USGO",
+   "name": "U.S. GoldMining Inc. - Common stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "USGO"
+  },
+  {
+   "symbol": "USGOW",
+   "name": "U.S. GoldMining Inc. - Warrant",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "USGOW"
+  },
+  {
+   "symbol": "WLGS",
+   "name": "Wang \u0026 Lee Group, Inc. - Ordinary Shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "WLGS"
+  },
+  {
+   "symbol": "AACT.U",
+   "name": "Ares Acquisition Corporation II Units, each consisting of one Class A ordinary share and one-half of one redeemable warrant",
+   "exchange": "NYSE",
+   "yahoo_symbol": "AACT.U"
+  },
+  {
+   "symbol": "SPHR",
+   "name": "Sphere Entertainment Co. Class A Common Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "SPHR"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "DTLA$",
+   "name": "Brookfield DTLA Inc. 7.625% Series A Cumulative Redeemable Preferred Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "DTLA$"
+  },
+  {
+   "symbol": "LFLYW",
+   "name": "Leafly Holdings, Inc. - Warrant",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "LFLYW"
+  },
+  {
+   "symbol": "SPHR.V",
+   "name": "Sphere Entertainment Co. Class A Common Stock When-Issued",
+   "exchange": "NYSE",
+   "yahoo_symbol": "SPHR.V"
+  },
+  {
+   "symbol": "MSGE.V",
+   "name": "Madison Square Garden Entertainment Corp. Class A Common Stock When-Issued",
+   "exchange": "NYSE",
+   "yahoo_symbol": "MSGE.V"
+  },
+  {
+   "symbol": "LFLY",
+   "name": "Leafly Holdings, Inc. - Common Stock",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "LFLY"
+  }
+ ]
+}
