@@ -1,0 +1,16 @@
+{
+ "added": [
+  {
+   "symbol": "BANKETH",
+   "name": "BankEth (BANKETH)"
+  },
+  {
+   "symbol": "GETH",
+   "name": "Guarded Ether (GETH)"
+  },
+  {
+   "symbol": "DOGETH",
+   "name": "EtherDoge (DOGETH)"
+  }
+ ]
+}

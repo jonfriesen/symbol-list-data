@@ -1,0 +1,144 @@
+{
+ "added": [
+  {
+   "symbol": "CYBE",
+   "name": "CyberCatch Holdings, Inc.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "CYBE.V",
+   "instruments": [
+    {
+     "name": "CyberCatch Holdings, Inc.",
+     "symbol": "CYBE"
+    }
+   ]
+  },
+  {
+   "symbol": "CRIS",
+   "name": "Curis, Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "CRIS"
+  },
+  {
+   "symbol": "GRI",
+   "name": "GRI Bio, Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "GRI"
+  },
+  {
+   "symbol": "IMBI",
+   "name": "iMedia Brands, Inc. - Class A Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "IMBI"
+  },
+  {
+   "symbol": "JYD",
+   "name": "Jayud Global Logistics Limited - Class A Ordinary Shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "JYD"
+  },
+  {
+   "symbol": "SAZ",
+   "name": "Saratoga Investment Corp 8.50% Notes due 2028",
+   "exchange": "NYSE",
+   "yahoo_symbol": "SAZ"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "SBB",
+   "name": "Sabina Gold \u0026 Silver Corp.",
+   "exchange": "TSX",
+   "yahoo_symbol": "SBB.TO",
+   "instruments": [
+    {
+     "name": "Sabina Gld \u0026 Slvr J",
+     "symbol": "SBB"
+    }
+   ]
+  },
+  {
+   "symbol": "IMBI",
+   "name": "iMedia Brands, Inc. - Class A Common Stock",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "IMBI"
+  },
+  {
+   "symbol": "TIOA",
+   "name": "Tio Tech A - Class A Ordinary Share",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "TIOA"
+  },
+  {
+   "symbol": "VLON",
+   "name": "Vallon Pharmaceuticals Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "VLON"
+  },
+  {
+   "symbol": "TIOAU",
+   "name": "Tio Tech A - Units",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "TIOAU"
+  },
+  {
+   "symbol": "BUF",
+   "name": "Buffalo Coal Corp.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "BUF.V",
+   "instruments": [
+    {
+     "name": "Buffalo Coal Corp.",
+     "symbol": "BUF"
+    }
+   ]
+  },
+  {
+   "symbol": "AN",
+   "name": "Arena Minerals Inc.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "AN.V",
+   "instruments": [
+    {
+     "name": "Arena Minerals Inc.",
+     "symbol": "AN"
+    }
+   ]
+  },
+  {
+   "symbol": "CRIS",
+   "name": "Curis, Inc. - Common Stock",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "CRIS"
+  },
+  {
+   "symbol": "TIG",
+   "name": "Trean Insurance Group, Inc. - Common Stock",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "TIG"
+  },
+  {
+   "symbol": "IBA",
+   "name": "Industrias Bachoco, S.A.B. de C.V. Common Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "IBA"
+  },
+  {
+   "symbol": "HVI.P",
+   "name": "Hopefield Ventures Inc.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "HVI.P.V",
+   "instruments": [
+    {
+     "name": "Hopefield Ventures Inc.",
+     "symbol": "HVI.P"
+    }
+   ]
+  },
+  {
+   "symbol": "TIOAW",
+   "name": "Tio Tech A - Warrants",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "TIOAW"
+  }
+ ]
+}
