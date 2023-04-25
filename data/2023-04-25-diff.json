@@ -1,0 +1,78 @@
+{
+ "added": [
+  {
+   "symbol": "FFIE",
+   "name": "Faraday Future Intelligent Electric Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "FFIE"
+  },
+  {
+   "symbol": "FFIEW",
+   "name": "Faraday Future Intelligent Electric Inc. - Warrant",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "FFIEW"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "FFIE",
+   "name": "Faraday Future Intelligent Electric Inc. - Common Stock",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "FFIE"
+  },
+  {
+   "symbol": "DAM",
+   "name": "VanEck Digital Assets Mining ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "DAM"
+  },
+  {
+   "symbol": "IPVI",
+   "name": "InterPrivate IV InfraTech Partners Inc. - Class A Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "IPVI"
+  },
+  {
+   "symbol": "BMAQ",
+   "name": "Blockchain Moon Acquisition Corp. - Common Stock",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "BMAQ"
+  },
+  {
+   "symbol": "IPVIW",
+   "name": "InterPrivate IV InfraTech Partners Inc. - Warrant",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "IPVIW"
+  },
+  {
+   "symbol": "BMAQU",
+   "name": "Blockchain Moon Acquisition Corp. - Units",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "BMAQU"
+  },
+  {
+   "symbol": "FFIEW",
+   "name": "Faraday Future Intelligent Electric Inc. - Warrant",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "FFIEW"
+  },
+  {
+   "symbol": "BMAQR",
+   "name": "Blockchain Moon Acquisition Corp. - Rights",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "BMAQR"
+  },
+  {
+   "symbol": "IPVIU",
+   "name": "InterPrivate IV InfraTech Partners Inc. - Units",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "IPVIU"
+  },
+  {
+   "symbol": "BMAQW",
+   "name": "Blockchain Moon Acquisition Corp. - Warrants",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "BMAQW"
+  }
+ ]
+}
