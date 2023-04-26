@@ -1,0 +1,60 @@
+{
+ "added": [
+  {
+   "symbol": "NEXI",
+   "name": "NexImmune, Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "NEXI"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "HZON.W",
+   "name": "Horizon Acquisition Corporation II Warrants, each whole warrant exercisable for one Class A ordinary share at an exercise price of $11.50",
+   "exchange": "NYSE MKT",
+   "yahoo_symbol": "HZON.W"
+  },
+  {
+   "symbol": "NHICW",
+   "name": "NewHold Investment Corp. II - Warrant",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "NHICW"
+  },
+  {
+   "symbol": "AMBC.W",
+   "name": "Ambac Financial Group, Inc. Warrants",
+   "exchange": "NYSE",
+   "yahoo_symbol": "AMBC.W"
+  },
+  {
+   "symbol": "HZON.U",
+   "name": "Horizon Acquisition Corporation II Units, each consisting of one Class A ordinary share, and one-third of one redeemable warrant",
+   "exchange": "NYSE MKT",
+   "yahoo_symbol": "HZON.U"
+  },
+  {
+   "symbol": "HZON",
+   "name": "Horizon Acquisition Corporation II Class A Ordinary Shares",
+   "exchange": "NYSE MKT",
+   "yahoo_symbol": "HZON"
+  },
+  {
+   "symbol": "NEXI",
+   "name": "NexImmune, Inc. - Common Stock",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "NEXI"
+  },
+  {
+   "symbol": "NHICU",
+   "name": "NewHold Investment Corp. II - Unit",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "NHICU"
+  },
+  {
+   "symbol": "NHIC",
+   "name": "NewHold Investment Corp. II - Class A Common Stock",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "NHIC"
+  }
+ ]
+}
