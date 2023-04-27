@@ -1,0 +1,144 @@
+{
+ "added": [
+  {
+   "symbol": "MNU.U",
+   "name": "Purpose USD Cash Management Fund",
+   "exchange": "TSX",
+   "yahoo_symbol": "MNU.U.TO",
+   "instruments": [
+    {
+     "name": "PurposeCshMgtNC HgUS",
+     "symbol": "MNU.U"
+    }
+   ]
+  },
+  {
+   "symbol": "TUEX",
+   "name": "TD Active U.S. Enhanced Dividend CAD Hedged ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "TUEX.TO",
+   "instruments": [
+    {
+     "name": "TD ActvUS EnhncDivHg",
+     "symbol": "TUEX"
+    }
+   ]
+  },
+  {
+   "symbol": "TBNK",
+   "name": "TD Canadian Bank Dividend Index ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "TBNK.TO",
+   "instruments": [
+    {
+     "name": "TD Cdn Bank Div Un",
+     "symbol": "TBNK"
+    }
+   ]
+  },
+  {
+   "symbol": "TECX",
+   "name": "TD Global Technology Leaders CAD Hedged Index ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "TECX.TO",
+   "instruments": [
+    {
+     "name": "TD Glb TechLdr CA Hg",
+     "symbol": "TECX"
+    }
+   ]
+  },
+  {
+   "symbol": "VLT",
+   "name": "Volt Lithium Corp.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "VLT.V",
+   "instruments": [
+    {
+     "name": "Volt Lithium Corp.",
+     "symbol": "VLT"
+    }
+   ]
+  },
+  {
+   "symbol": "BHRB",
+   "name": "Burke \u0026 Herbert Financial Services Corp. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "BHRB"
+  },
+  {
+   "symbol": "GIA",
+   "name": "GigCapital 5, Inc. - Common Stock",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "GIA"
+  },
+  {
+   "symbol": "NLTX",
+   "name": "Neoleukin Therapeutics, Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "NLTX"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "EUCRW",
+   "name": "Eucrates Biomedical Acquisition Corp. - Warrant",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "EUCRW"
+  },
+  {
+   "symbol": "NLTX",
+   "name": "Neoleukin Therapeutics, Inc. - Common Stock",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "NLTX"
+  },
+  {
+   "symbol": "EUCR",
+   "name": "Eucrates Biomedical Acquisition Corp. - Ordinary Shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "EUCR"
+  },
+  {
+   "symbol": "IQMD",
+   "name": "Intelligent Medicine Acquisition Corp. - Class A Common Stock",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "IQMD"
+  },
+  {
+   "symbol": "IMH",
+   "name": "Impac Mortgage Holdings, Inc. Common Stock ",
+   "exchange": "NYSE MKT",
+   "yahoo_symbol": "IMH"
+  },
+  {
+   "symbol": "IQMDW",
+   "name": "Intelligent Medicine Acquisition Corp. - Warrant",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "IQMDW"
+  },
+  {
+   "symbol": "EUCRU",
+   "name": "Eucrates Biomedical Acquisition Corp. - Unit",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "EUCRU"
+  },
+  {
+   "symbol": "CPR",
+   "name": "Allied Copper Corp.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "CPR.V",
+   "instruments": [
+    {
+     "name": "Allied Copper Corp.",
+     "symbol": "CPR"
+    }
+   ]
+  },
+  {
+   "symbol": "IQMDU",
+   "name": "Intelligent Medicine Acquisition Corp. - Unit",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "IQMDU"
+  }
+ ]
+}
