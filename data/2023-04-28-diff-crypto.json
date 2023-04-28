@@ -1,0 +1,33 @@
+{
+ "added": [
+  {
+   "symbol": "SUDO",
+   "name": "sudoswap (SUDO)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "BANKETH",
+   "name": "BankEth (BANKETH)"
+  },
+  {
+   "symbol": "IDXS",
+   "name": "In-Dex Sale (IDXS)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "G",
+   "name": "GRN Grid (G)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "DOG",
+   "name": "The Doge NFT (DOG)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "FIDLE",
+   "name": "Fidlecoin (FIDLE)",
+   "built_on": "BNB"
+  }
+ ]
+}
