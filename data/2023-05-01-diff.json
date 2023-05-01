@@ -1,0 +1,206 @@
+{
+ "added": [
+  {
+   "symbol": "FIN",
+   "name": "European Energy Metals Corp.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "FIN.V",
+   "instruments": [
+    {
+     "name": "European Energy Metals Corp.",
+     "symbol": "FIN"
+    }
+   ]
+  },
+  {
+   "symbol": "FCLI",
+   "name": "Full Circle Lithium Corp.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "FCLI.V",
+   "instruments": [
+    {
+     "name": "Full Circle Lithium Corp.",
+     "symbol": "FCLI"
+    }
+   ]
+  },
+  {
+   "symbol": "RACY",
+   "name": "Relativity Acquisition Corp. - Class A Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "RACY"
+  },
+  {
+   "symbol": "RACYU",
+   "name": "Relativity Acquisition Corp. - Unit",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "RACYU"
+  },
+  {
+   "symbol": "RACYW",
+   "name": "Relativity Acquisition Corp. - Warrant",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "RACYW"
+  },
+  {
+   "symbol": "TRNR",
+   "name": "Interactive Strength Inc. - Common Stock",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "TRNR"
+  },
+  {
+   "symbol": "ITCL",
+   "name": "Banco Itau Chile American Depositary Shares (each representing 1,500 shares of Common Stock)",
+   "exchange": "NYSE",
+   "yahoo_symbol": "ITCL"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "SKYAW",
+   "name": "Skydeck Acquisition Corp. - Warrants",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "SKYAW"
+  },
+  {
+   "symbol": "ORIAW",
+   "name": "Orion Biotech Opportunities Corp. - Warrant",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "ORIAW"
+  },
+  {
+   "symbol": "SKYA",
+   "name": "Skydeck Acquisition Corp. - Class A Ordinary Shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "SKYA"
+  },
+  {
+   "symbol": "QQC",
+   "name": "Simplify Nasdaq 100 PLUS Convexity ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "QQC"
+  },
+  {
+   "symbol": "ESGO.P",
+   "name": "ESG Capital 1 Inc.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "ESGO.P.V",
+   "instruments": [
+    {
+     "name": "ESG Capital 1 Inc.",
+     "symbol": "ESGO.P"
+    }
+   ]
+  },
+  {
+   "symbol": "CIIG",
+   "name": "CIIG Capital Partners II, Inc. - Class A Common Stock",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "CIIG"
+  },
+  {
+   "symbol": "ITCB",
+   "name": "Itau CorpBanca American Depositary Shares (each representing 1,500 shares of Common Stock, no par value)",
+   "exchange": "NYSE",
+   "yahoo_symbol": "ITCB"
+  },
+  {
+   "symbol": "CIIGW",
+   "name": "CIIG Capital Partners II, Inc. - Warrant",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "CIIGW"
+  },
+  {
+   "symbol": "RACY",
+   "name": "Relativity Acquisition Corp. - Class A Common Stock",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "RACY"
+  },
+  {
+   "symbol": "RACYW",
+   "name": "Relativity Acquisition Corp. - Warrant",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "RACYW"
+  },
+  {
+   "symbol": "CIIGU",
+   "name": "CIIG Capital Partners II, Inc. - Unit",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "CIIGU"
+  },
+  {
+   "symbol": "ORIA",
+   "name": "Orion Biotech Opportunities Corp. - Class A Ordinary Share",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "ORIA"
+  },
+  {
+   "symbol": "SKYAU",
+   "name": "Skydeck Acquisition Corp. - Units",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "SKYAU"
+  },
+  {
+   "symbol": "ORIAU",
+   "name": "Orion Biotech Opportunities Corp. - Units",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "ORIAU"
+  },
+  {
+   "symbol": "HILO",
+   "name": "Hilo Mining Ltd.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "HILO.V",
+   "instruments": [
+    {
+     "name": "Hilo Mining Ltd.",
+     "symbol": "HILO"
+    }
+   ]
+  },
+  {
+   "symbol": "RACYU",
+   "name": "Relativity Acquisition Corp. - Unit",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "RACYU"
+  },
+  {
+   "symbol": "QQD",
+   "name": "Simplify Nasdaq 100 PLUS Downside Convexity ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "QQD"
+  },
+  {
+   "symbol": "ACOG",
+   "name": "Alpha Cognition Inc.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "ACOG.V",
+   "instruments": [
+    {
+     "name": "Alpha Cognition Inc.",
+     "symbol": "ACOG"
+    },
+    {
+     "name": "Alpha Cognition Inc. wt 01Oct2023",
+     "symbol": "ACOG.WT"
+    }
+   ]
+  },
+  {
+   "symbol": "CBD.U",
+   "name": "HempFusion Wellness Inc.",
+   "exchange": "TSX",
+   "yahoo_symbol": "CBD.U.TO",
+   "instruments": [
+    {
+     "name": "HempFusion Well J US",
+     "symbol": "CBD.U"
+    },
+    {
+     "name": "HempFusionJ US IPOWt",
+     "symbol": "CBD.WT.V"
+    }
+   ]
+  }
+ ]
+}

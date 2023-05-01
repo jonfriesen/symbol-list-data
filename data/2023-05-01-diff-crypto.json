@@ -1,0 +1,38 @@
+{
+ "added": [
+  {
+   "symbol": "GETH",
+   "name": "Guarded Ether (GETH)"
+  },
+  {
+   "symbol": "FAST",
+   "name": "PodFast (FAST)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "DOGECEO",
+   "name": "Doge CEO (DOGECEO)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "BANK",
+   "name": "Float Protocol (BANK)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "XACT",
+   "name": "XactToken (XACT)",
+   "built_on": "MATIC"
+  },
+  {
+   "symbol": "DOGETH",
+   "name": "EtherDoge (DOGETH)"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "FAST",
+   "name": "PodFast (FAST)"
+  }
+ ]
+}
