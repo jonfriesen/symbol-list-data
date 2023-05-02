@@ -1,0 +1,96 @@
+{
+ "added": [
+  {
+   "symbol": "TMTC",
+   "name": "TMT Acquisition Corp - Ordinary Shares",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "TMTC"
+  },
+  {
+   "symbol": "TMTCR",
+   "name": "TMT Acquisition Corp - Rights",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "TMTCR"
+  },
+  {
+   "symbol": "ZAPP",
+   "name": "Zapp Electric Vehicles Group Limited - Ordinary shares",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "ZAPP"
+  },
+  {
+   "symbol": "ZAPPW",
+   "name": "Zapp Electric Vehicles Group Limited - Warrant",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "ZAPPW"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "CHEKZ",
+   "name": "Check-Cap Ltd. - Series C Warrant",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "CHEKZ"
+  },
+  {
+   "symbol": "IMV",
+   "name": "IMV Inc.",
+   "exchange": "TSX",
+   "yahoo_symbol": "IMV.TO",
+   "instruments": [
+    {
+     "name": "IMV Inc. J",
+     "symbol": "IMV"
+    }
+   ]
+  },
+  {
+   "symbol": "INAQ.U",
+   "name": "Insight Acquisition Corp. Units",
+   "exchange": "NYSE",
+   "yahoo_symbol": "INAQ.U"
+  },
+  {
+   "symbol": "TRAQ.W",
+   "name": "Trine II Acquisition Corp. Redeemable Warrants, each whole warrant exercisable for one Class A Ordinary Share at an exercise price of $11.50 per share",
+   "exchange": "NYSE",
+   "yahoo_symbol": "TRAQ.W"
+  },
+  {
+   "symbol": "TRAQ",
+   "name": "Trine II Acquisition Corp. Class A Ordinary Shares",
+   "exchange": "NYSE",
+   "yahoo_symbol": "TRAQ"
+  },
+  {
+   "symbol": "OSH",
+   "name": "Oak Street Health, Inc. Common Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "OSH"
+  },
+  {
+   "symbol": "LMST",
+   "name": "Limestone Bancorp, Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "LMST"
+  },
+  {
+   "symbol": "INAQ",
+   "name": "Insight Acquisition Corp. Class A Common Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "INAQ"
+  },
+  {
+   "symbol": "IBIT",
+   "name": "Defiance Daily Short Digitizing the Economy ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "IBIT"
+  },
+  {
+   "symbol": "TRAQ.U",
+   "name": "Trine II Acquisition Corp. Units, each consisting of one Class A Ordinary Share and one-half of one redeemable warrant",
+   "exchange": "NYSE",
+   "yahoo_symbol": "TRAQ.U"
+  }
+ ]
+}
