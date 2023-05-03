@@ -1,0 +1,28 @@
+{
+ "added": [
+  {
+   "symbol": "BANKETH",
+   "name": "BankEth (BANKETH)"
+  },
+  {
+   "symbol": "GETH",
+   "name": "Guarded Ether (GETH)"
+  },
+  {
+   "symbol": "DOGETH",
+   "name": "EtherDoge (DOGETH)"
+  },
+  {
+   "symbol": "USDT",
+   "name": "Tether (USDT)",
+   "built_on": "OMNI"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "USDT",
+   "name": "Tether (USDT)",
+   "built_on": "ETH"
+  }
+ ]
+}
