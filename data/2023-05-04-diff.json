@@ -1,0 +1,126 @@
+{
+ "added": [
+  {
+   "symbol": "OSIX",
+   "name": "Oceansix Future Paths Ltd.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "OSIX.V",
+   "instruments": [
+    {
+     "name": "Oceansix Future Paths Ltd.",
+     "symbol": "OSIX"
+    }
+   ]
+  },
+  {
+   "symbol": "KVUE",
+   "name": "Kenvue Inc. Common Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "KVUE"
+  },
+  {
+   "symbol": "CGEN",
+   "name": "Compugen Ltd. - Ordinary Shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "CGEN"
+  },
+  {
+   "symbol": "EVGN",
+   "name": "Evogene Ltd. - Ordinary Shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "EVGN"
+  },
+  {
+   "symbol": "LPTX",
+   "name": "Leap Therapeutics, Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "LPTX"
+  },
+  {
+   "symbol": "SPPI",
+   "name": "Spectrum Pharmaceuticals, Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "SPPI"
+  },
+  {
+   "symbol": "UTRS",
+   "name": "Minerva Surgical, Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "UTRS"
+  },
+  {
+   "symbol": "ZYNE",
+   "name": "Zynerba Pharmaceuticals, Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "ZYNE"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "VLATU",
+   "name": "Valor Latitude Acquisition Corp. - Unit",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "VLATU"
+  },
+  {
+   "symbol": "VLATW",
+   "name": "Valor Latitude Acquisition Corp. - Warrant",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "VLATW"
+  },
+  {
+   "symbol": "UTRS",
+   "name": "Minerva Surgical, Inc. - Common Stock",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "UTRS"
+  },
+  {
+   "symbol": "LPTX",
+   "name": "Leap Therapeutics, Inc. - Common Stock",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "LPTX"
+  },
+  {
+   "symbol": "VLAT",
+   "name": "Valor Latitude Acquisition Corp. - Class A Ordinary Shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "VLAT"
+  },
+  {
+   "symbol": "AKMY",
+   "name": "K.B. Recycling Industries Ltd.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "AKMY.V",
+   "instruments": [
+    {
+     "name": "K.B. Recycling Industries Ltd.",
+     "symbol": "AKMY"
+    }
+   ]
+  },
+  {
+   "symbol": "CGEN",
+   "name": "Compugen Ltd. - Ordinary Shares",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "CGEN"
+  },
+  {
+   "symbol": "EVGN",
+   "name": "Evogene Ltd. - Ordinary Shares",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "EVGN"
+  },
+  {
+   "symbol": "ZYNE",
+   "name": "Zynerba Pharmaceuticals, Inc. - Common Stock",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "ZYNE"
+  },
+  {
+   "symbol": "SPPI",
+   "name": "Spectrum Pharmaceuticals, Inc. - Common Stock",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "SPPI"
+  }
+ ]
+}
