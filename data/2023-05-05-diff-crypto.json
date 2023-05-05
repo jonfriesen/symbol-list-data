@@ -1,0 +1,47 @@
+{
+ "added": [
+  {
+   "symbol": "CRADLE",
+   "name": "Cradle of Sins (CRADLE)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "ZKBOB",
+   "name": "BOB (ZKBOB)"
+  },
+  {
+   "symbol": "BANK",
+   "name": "Float Protocol (BANK)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "DROPS",
+   "name": "Drops (DROPS)"
+  },
+  {
+   "symbol": "DOGETH",
+   "name": "EtherDoge (DOGETH)"
+  },
+  {
+   "symbol": "G",
+   "name": "GRN Grid (G)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "OCTA",
+   "name": "OctaSpace (OCTA)"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "DOP",
+   "name": "Drops (DOP)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "BOB",
+   "name": "BOB (BOB)",
+   "built_on": "MATIC"
+  }
+ ]
+}
