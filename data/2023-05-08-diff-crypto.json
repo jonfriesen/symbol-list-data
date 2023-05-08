@@ -1,0 +1,33 @@
+{
+ "added": [
+  {
+   "symbol": "BANKETH",
+   "name": "BankEth (BANKETH)"
+  },
+  {
+   "symbol": "MONG",
+   "name": "MongCoin (MONG)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "G",
+   "name": "GRN Grid (G)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "DONTBUYMEME",
+   "name": "Meme (DONTBUYMEME)"
+  },
+  {
+   "symbol": "DOG",
+   "name": "The Doge NFT (DOG)",
+   "built_on": "ETH"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "MEME",
+   "name": "Meme (MEME)"
+  }
+ ]
+}

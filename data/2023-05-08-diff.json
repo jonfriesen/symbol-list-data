@@ -1,0 +1,76 @@
+{
+ "added": [
+  {
+   "symbol": "MPM.WT",
+   "name": "Millennial Precious Metals Corp.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "MPM.WT.V",
+   "instruments": [
+    {
+     "name": "Millennial Precious Metals Corp. wt 16Jun2024",
+     "symbol": "MPM.WT"
+    }
+   ]
+  },
+  {
+   "symbol": "ALCYU",
+   "name": "Alchemy Investments Acquisition Corp 1 - Units",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "ALCYU"
+  },
+  {
+   "symbol": "SLRN",
+   "name": "ACELYRIN, INC. - Common Stock",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "SLRN"
+  },
+  {
+   "symbol": "TPCS",
+   "name": "TechPrecision Corporation - Common stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "TPCS"
+  },
+  {
+   "symbol": "VSTM",
+   "name": "Verastem, Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "VSTM"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "VSTM",
+   "name": "Verastem, Inc. - Common Stock",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "VSTM"
+  },
+  {
+   "symbol": "HTC",
+   "name": "HTC Purenergy Inc.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "HTC.V",
+   "instruments": [
+    {
+     "name": "HTC Purenergy Inc",
+     "symbol": "HTC"
+    }
+   ]
+  },
+  {
+   "symbol": "MPM",
+   "name": "Millennial Precious Metals Corp.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "MPM.V",
+   "instruments": [
+    {
+     "name": "Millennial Precious Metals Corp.",
+     "symbol": "MPM"
+    },
+    {
+     "name": "Millennial Precious Metals Corp. wt 16Jun2024",
+     "symbol": "MPM.WT"
+    }
+   ]
+  }
+ ]
+}
