@@ -1,0 +1,58 @@
+{
+ "removed": [
+  {
+   "symbol": "TGR.W",
+   "name": "Kimbell Tiger Acquisition Corporation Warrants, each whole warrant exercisable for one share of Class A common stock at an exercise price of $11.50 per share",
+   "exchange": "NYSE",
+   "yahoo_symbol": "TGR.W"
+  },
+  {
+   "symbol": "TGR.U",
+   "name": "Kimbell Tiger Acquisition Corporation Units, each consisting of one share of Class A common stock and one-half of one redeemable warrant",
+   "exchange": "NYSE",
+   "yahoo_symbol": "TGR.U"
+  },
+  {
+   "symbol": "EVOJW",
+   "name": "Evo Acquisition Corp. - Warrant",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "EVOJW"
+  },
+  {
+   "symbol": "MAXR",
+   "name": "Maxar Technologies Inc.",
+   "exchange": "TSX",
+   "yahoo_symbol": "MAXR.TO",
+   "instruments": [
+    {
+     "name": "Maxar Technologies",
+     "symbol": "MAXR"
+    }
+   ]
+  },
+  {
+   "symbol": "EVOJU",
+   "name": "Evo Acquisition Corp. - Unit",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "EVOJU"
+  },
+  {
+   "symbol": "STR.W",
+   "name": "Sitio Royalties Corp. Warrant",
+   "exchange": "NYSE MKT",
+   "yahoo_symbol": "STR.W"
+  },
+  {
+   "symbol": "EVOJ",
+   "name": "Evo Acquisition Corp. - Class A Common stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "EVOJ"
+  },
+  {
+   "symbol": "TGR",
+   "name": "Kimbell Tiger Acquisition Corporation Class A Common Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "TGR"
+  }
+ ]
+}
