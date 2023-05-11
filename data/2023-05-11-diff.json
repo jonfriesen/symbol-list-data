@@ -1,0 +1,142 @@
+{
+ "added": [
+  {
+   "symbol": "REE",
+   "name": "REE Automotive Ltd. - Class A Ordinary Shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "REE"
+  },
+  {
+   "symbol": "ROSE",
+   "name": "Rose Hill Acquisition Corporation - Class A Ordinary Shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "ROSE"
+  },
+  {
+   "symbol": "ROSEU",
+   "name": "Rose Hill Acquisition Corporation - Unit",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "ROSEU"
+  },
+  {
+   "symbol": "ROSEW",
+   "name": "Rose Hill Acquisition Corporation - Warrant",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "ROSEW"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "NXH",
+   "name": "Next Hydrogen Solutions Inc.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "NXH.V",
+   "instruments": [
+    {
+     "name": "Next Hydrogen Solutions Inc.",
+     "symbol": "NXH"
+    }
+   ]
+  },
+  {
+   "symbol": "SCZ",
+   "name": "Santacruz Silver Mining Ltd.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "SCZ.V",
+   "instruments": [
+    {
+     "name": "Santacruz Silver Mining Ltd.",
+     "symbol": "SCZ"
+    }
+   ]
+  },
+  {
+   "symbol": "IMV",
+   "name": "IMV Inc. - Common Shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "IMV"
+  },
+  {
+   "symbol": "ROSEU",
+   "name": "Rose Hill Acquisition Corporation - Unit",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "ROSEU"
+  },
+  {
+   "symbol": "TAU",
+   "name": "Thesis Gold Inc.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "TAU.V",
+   "instruments": [
+    {
+     "name": "Thesis Gold Inc.",
+     "symbol": "TAU"
+    }
+   ]
+  },
+  {
+   "symbol": "SGE",
+   "name": "Strong Global Entertainment, Inc. Class A Common Voting Shares",
+   "exchange": "NYSE MKT",
+   "yahoo_symbol": "SGE"
+  },
+  {
+   "symbol": "AUL",
+   "name": "Aurelius Minerals Inc.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "AUL.V",
+   "instruments": [
+    {
+     "name": "Aurelius Minerals Inc.",
+     "symbol": "AUL"
+    }
+   ]
+  },
+  {
+   "symbol": "RLP",
+   "name": "Realia Properties Inc.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "RLP.V",
+   "instruments": [
+    {
+     "name": "Realia Properties Inc.",
+     "symbol": "RLP"
+    },
+    {
+     "name": "Realia Properties Inc. db. 30Sept2025",
+     "symbol": "RLP.DB.B"
+    }
+   ]
+  },
+  {
+   "symbol": "VDKA",
+   "name": "Forbidden Spirits Distilling Corp.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "VDKA.V",
+   "instruments": [
+    {
+     "name": "Forbidden Spirits Distilling Corp.",
+     "symbol": "VDKA"
+    }
+   ]
+  },
+  {
+   "symbol": "ROSEW",
+   "name": "Rose Hill Acquisition Corporation - Warrant",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "ROSEW"
+  },
+  {
+   "symbol": "REE",
+   "name": "REE Automotive Ltd. - Class A Ordinary Shares",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "REE"
+  },
+  {
+   "symbol": "ROSE",
+   "name": "Rose Hill Acquisition Corporation - Class A Ordinary Shares",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "ROSE"
+  }
+ ]
+}

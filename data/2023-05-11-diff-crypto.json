@@ -1,0 +1,42 @@
+{
+ "added": [
+  {
+   "symbol": "PEPE",
+   "name": "Pepe (PEPE)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "BANK",
+   "name": "Float Protocol (BANK)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "DONTBUYMEME",
+   "name": "Meme (DONTBUYMEME)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "MEME",
+   "name": "Memetic (MEME)"
+  },
+  {
+   "symbol": "G",
+   "name": "GRN Grid (G)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "DOGETH",
+   "name": "EtherDoge (DOGETH)"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "DONTBUYMEME",
+   "name": "Meme (DONTBUYMEME)"
+  },
+  {
+   "symbol": "PEPE",
+   "name": "Memetic (PEPE)"
+  }
+ ]
+}
