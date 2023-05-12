@@ -1,0 +1,108 @@
+{
+ "added": [
+  {
+   "symbol": "AUNK.P",
+   "name": "Ankh II Capital Inc.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "AUNK.P.V",
+   "instruments": [
+    {
+     "name": "Ankh II Capital Inc.",
+     "symbol": "AUNK.P"
+    }
+   ]
+  },
+  {
+   "symbol": "BCAL",
+   "name": "Southern California Bancorp - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "BCAL"
+  },
+  {
+   "symbol": "BDGS",
+   "name": "Bridges Capital Tactical ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "BDGS"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "NWX",
+   "name": "Newport Exploration Ltd.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "NWX.V",
+   "instruments": [
+    {
+     "name": "Newport Exploration Ltd.",
+     "symbol": "NWX"
+    }
+   ]
+  },
+  {
+   "symbol": "CORE",
+   "name": "Paycore Minerals Inc.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "CORE.V",
+   "instruments": [
+    {
+     "name": "Paycore Minerals Inc.",
+     "symbol": "CORE"
+    }
+   ]
+  },
+  {
+   "symbol": "TRE",
+   "name": "Toubani Resources Inc.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "TRE.V",
+   "instruments": [
+    {
+     "name": "Toubani Resources Inc.",
+     "symbol": "TRE"
+    }
+   ]
+  },
+  {
+   "symbol": "PER",
+   "name": "Peruvian Metals Corp.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "PER.V",
+   "instruments": [
+    {
+     "name": "Peruvian Metals Corp.",
+     "symbol": "PER"
+    }
+   ]
+  },
+  {
+   "symbol": "SI",
+   "name": "Silvergate Capital Corporation Class A Common Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "SI"
+  },
+  {
+   "symbol": "AMI",
+   "name": "Athabasca Minerals Inc.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "AMI.V",
+   "instruments": [
+    {
+     "name": "Athabasca Minerals Inc",
+     "symbol": "AMI"
+    }
+   ]
+  },
+  {
+   "symbol": "MIMO.W",
+   "name": "Airspan Networks Holdings Inc. Warrants",
+   "exchange": "NYSE MKT",
+   "yahoo_symbol": "MIMO.W"
+  },
+  {
+   "symbol": "SI$A",
+   "name": "Silvergate Capital Corporation Depositary Shares, Each Representing a 1/40th Interest in a Share of 5.375% Fixed Rate Non-Cumulative Perpetual Preferred Stock, Series A",
+   "exchange": "NYSE",
+   "yahoo_symbol": "SI$A"
+  }
+ ]
+}

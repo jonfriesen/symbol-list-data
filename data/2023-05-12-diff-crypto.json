@@ -1,0 +1,59 @@
+{
+ "added": [
+  {
+   "symbol": "FND",
+   "name": "Rare FND (FND)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "G1X",
+   "name": "GoldFinX (G1X)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "SEI",
+   "name": "Sei (SEI)"
+  },
+  {
+   "symbol": "BANK",
+   "name": "Float Protocol (BANK)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "EVEREST",
+   "name": "Everest (EVEREST)"
+  },
+  {
+   "symbol": "FUNDREQUEST",
+   "name": "FundRequest (FUNDREQUEST)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "GETH",
+   "name": "Guarded Ether (GETH)"
+  },
+  {
+   "symbol": "DOGETH",
+   "name": "EtherDoge (DOGETH)"
+  },
+  {
+   "symbol": "APRICOT",
+   "name": "Apricot Finance (APRICOT)",
+   "built_on": "SOL"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "APRICOT",
+   "name": "Apricot Finance (APRICOT)"
+  },
+  {
+   "symbol": "GIX",
+   "name": "GoldFinX (GIX)"
+  },
+  {
+   "symbol": "FND",
+   "name": "FundRequest (FND)"
+  }
+ ]
+}
