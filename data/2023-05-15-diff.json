@@ -1,0 +1,152 @@
+{
+ "added": [
+  {
+   "symbol": "AVA",
+   "name": "Avante Mining Corp.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "AVA.V",
+   "instruments": [
+    {
+     "name": "Avante Mining Corp.",
+     "symbol": "AVA"
+    }
+   ]
+  },
+  {
+   "symbol": "NWX",
+   "name": "Newport Exploration Ltd.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "NWX.V",
+   "instruments": [
+    {
+     "name": "Newport Exploration Ltd.",
+     "symbol": "NWX"
+    }
+   ]
+  },
+  {
+   "symbol": "FORL",
+   "name": "Four Leaf Acquisition Corporation - Class A Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "FORL"
+  },
+  {
+   "symbol": "FORLW",
+   "name": "Four Leaf Acquisition Corporation - Warrants",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "FORLW"
+  },
+  {
+   "symbol": "NXU",
+   "name": "Nxu, Inc.  - Class A Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "NXU"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "LVACW",
+   "name": "LAVA Medtech Acquisition Corp. - Warrants",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "LVACW"
+  },
+  {
+   "symbol": "GASX",
+   "name": "NG Energy International Corp.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "GASX.V",
+   "instruments": [
+    {
+     "name": "NG Energy International Corp.",
+     "symbol": "GASX"
+    },
+    {
+     "name": "NG Energy International Corp. db 20May2027",
+     "symbol": "GASX.DB"
+    },
+    {
+     "name": "NG Energy International Corp. wt 20May2027",
+     "symbol": "GASX.WT.A"
+    }
+   ]
+  },
+  {
+   "symbol": "BNNRU",
+   "name": "Banner Acquisition Corp. - Units",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "BNNRU"
+  },
+  {
+   "symbol": "SGN",
+   "name": "Scorpio Gold Corporation",
+   "exchange": "TSXV",
+   "yahoo_symbol": "SGN.V",
+   "instruments": [
+    {
+     "name": "Scorpio Gold Corporation",
+     "symbol": "SGN"
+    }
+   ]
+  },
+  {
+   "symbol": "LVACU",
+   "name": "LAVA Medtech Acquisition Corp. - Unit",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "LVACU"
+  },
+  {
+   "symbol": "BNNR",
+   "name": "Banner Acquisition Corp. - Class A Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "BNNR"
+  },
+  {
+   "symbol": "TBMCU",
+   "name": "Trailblazer Merger Corporation I - Unit",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "TBMCU"
+  },
+  {
+   "symbol": "VYNT",
+   "name": "Vyant Bio, Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "VYNT"
+  },
+  {
+   "symbol": "AMV",
+   "name": "Atlis Motor Vehicles, Inc. - Class A Common Stock",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "AMV"
+  },
+  {
+   "symbol": "ACP",
+   "name": "Arcpacific Resources Corp.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "ACP.V",
+   "instruments": [
+    {
+     "name": "Arcpacific Resources Corp.",
+     "symbol": "ACP"
+    }
+   ]
+  },
+  {
+   "symbol": "BNNRW",
+   "name": "Banner Acquisition Corp. - Warrants",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "BNNRW"
+  },
+  {
+   "symbol": "LVAC",
+   "name": "LAVA Medtech Acquisition Corp. - Class A Common Stock",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "LVAC"
+  },
+  {
+   "symbol": "SUMO",
+   "name": "Sumo Logic, Inc. - Common Stock",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "SUMO"
+  }
+ ]
+}

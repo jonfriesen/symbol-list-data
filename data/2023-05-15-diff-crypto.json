@@ -1,0 +1,88 @@
+{
+ "added": [
+  {
+   "symbol": "OPENGO",
+   "name": "OPEN Governance Token (OPENGO)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "ID",
+   "name": "SPACE (ID)"
+  },
+  {
+   "symbol": "EVEREST",
+   "name": "Everest (EVEREST)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "G",
+   "name": "GRN Grid (G)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "KARATE",
+   "name": "Karate Combat (KARATE)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "DOGETH",
+   "name": "EtherDoge (DOGETH)"
+  },
+  {
+   "symbol": "CHE",
+   "name": "CherrySwap (CHE)"
+  },
+  {
+   "symbol": "LKR",
+   "name": "Polkalokr (LKR)"
+  },
+  {
+   "symbol": "SMARTSHARE",
+   "name": "Smartshare (SMARTSHARE)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "BANKETH",
+   "name": "BankEth (BANKETH)"
+  },
+  {
+   "symbol": "OPENDAO",
+   "name": "OpenDAO (OPENDAO)",
+   "built_on": "ETH"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "OPENDAO",
+   "name": "OPEN Governance Token (OPENDAO)"
+  },
+  {
+   "symbol": "ID",
+   "name": "SPACE (ID)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "OPENDAOSOS",
+   "name": "OpenDAO (OPENDAOSOS)"
+  },
+  {
+   "symbol": "EVEREST",
+   "name": "Everest (EVEREST)"
+  },
+  {
+   "symbol": "CHE",
+   "name": "CherrySwap (CHE)",
+   "built_on": "OKT"
+  },
+  {
+   "symbol": "SSP",
+   "name": "Smartshare (SSP)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "LKR",
+   "name": "Polkalokr (LKR)",
+   "built_on": "BNB"
+  }
+ ]
+}
