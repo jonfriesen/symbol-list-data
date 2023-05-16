@@ -1,0 +1,138 @@
+{
+ "added": [
+  {
+   "symbol": "EML",
+   "name": "Electric Metals (USA) Limited",
+   "exchange": "TSXV",
+   "yahoo_symbol": "EML.V",
+   "instruments": [
+    {
+     "name": "Electric Metals (USA) Limited",
+     "symbol": "EML"
+    }
+   ]
+  },
+  {
+   "symbol": "IVCP",
+   "name": "Swiftmerge Acquisition Corp. - Class A Ordinary Share",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "IVCP"
+  },
+  {
+   "symbol": "IVCPU",
+   "name": "Swiftmerge Acquisition Corp. - Unit",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "IVCPU"
+  },
+  {
+   "symbol": "IVCPW",
+   "name": "Swiftmerge Acquisition Corp. - Warrants",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "IVCPW"
+  },
+  {
+   "symbol": "TBMC",
+   "name": "Trailblazer Merger Corporation I - Class A Common Stock",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "TBMC"
+  },
+  {
+   "symbol": "TBMCR",
+   "name": "Trailblazer Merger Corporation I - Rights",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "TBMCR"
+  },
+  {
+   "symbol": "RVTY",
+   "name": "Revvity, Inc. Common Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "RVTY"
+  },
+  {
+   "symbol": "SGE",
+   "name": "Strong Global Entertainment, Inc. Class A Common Voting Shares",
+   "exchange": "NYSE MKT",
+   "yahoo_symbol": "SGE"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "NSC",
+   "name": "Nevada Silver Corporation",
+   "exchange": "TSXV",
+   "yahoo_symbol": "NSC.V",
+   "instruments": [
+    {
+     "name": "Nevada Silver Corporation",
+     "symbol": "NSC"
+    }
+   ]
+  },
+  {
+   "symbol": "IVCPW",
+   "name": "Swiftmerge Acquisition Corp. - Warrants",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "IVCPW"
+  },
+  {
+   "symbol": "VMGAU",
+   "name": "VMG Consumer Acquisition Corp. - Unit",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "VMGAU"
+  },
+  {
+   "symbol": "IVCP",
+   "name": "Swiftmerge Acquisition Corp. - Class A Ordinary Share",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "IVCP"
+  },
+  {
+   "symbol": "VMGAW",
+   "name": "VMG Consumer Acquisition Corp. - Warrant",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "VMGAW"
+  },
+  {
+   "symbol": "PKI",
+   "name": "PerkinElmer, Inc. Common Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "PKI"
+  },
+  {
+   "symbol": "VMGA",
+   "name": "VMG Consumer Acquisition Corp. - Class A Common Stock",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "VMGA"
+  },
+  {
+   "symbol": "VNTR",
+   "name": "Venator Materials PLC Ordinary Shares",
+   "exchange": "NYSE",
+   "yahoo_symbol": "VNTR"
+  },
+  {
+   "symbol": "TTD",
+   "name": "Tinkerine Studios Ltd.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "TTD.V",
+   "instruments": [
+    {
+     "name": "Tinkerine Studios Ltd.",
+     "symbol": "TTD"
+    }
+   ]
+  },
+  {
+   "symbol": "IVCPU",
+   "name": "Swiftmerge Acquisition Corp. - Unit",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "IVCPU"
+  },
+  {
+   "symbol": "TA",
+   "name": "TravelCenters of America Inc.  - Common Stock",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "TA"
+  }
+ ]
+}
