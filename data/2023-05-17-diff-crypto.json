@@ -1,0 +1,36 @@
+{
+ "added": [
+  {
+   "symbol": "STFX",
+   "name": "STFX (STFX)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "GETH",
+   "name": "Guarded Ether (GETH)"
+  },
+  {
+   "symbol": "METOLD",
+   "name": "Metronome (METOLD)"
+  },
+  {
+   "symbol": "PLSC",
+   "name": "Pulsechain (PLSC)"
+  },
+  {
+   "symbol": "DOG",
+   "name": "The Doge NFT (DOG)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "BANK",
+   "name": "Float Protocol (BANK)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "WSBABY",
+   "name": "Wall Street Baby (WSBABY)",
+   "built_on": "ETH"
+  }
+ ]
+}

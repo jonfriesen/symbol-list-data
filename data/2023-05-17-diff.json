@@ -1,0 +1,100 @@
+{
+ "removed": [
+  {
+   "symbol": "LOTA",
+   "name": "Delota Corp.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "LOTA.V",
+   "instruments": [
+    {
+     "name": "Delota Corp.",
+     "symbol": "LOTA"
+    }
+   ]
+  },
+  {
+   "symbol": "HEMC",
+   "name": "Horizons Emerging Markets Leaders ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "HEMC.TO",
+   "instruments": [
+    {
+     "name": "HoriznEmrgMktLd A Un",
+     "symbol": "HEMC"
+    }
+   ]
+  },
+  {
+   "symbol": "WORK.UN",
+   "name": "Workplace Technology Dividend Fund",
+   "exchange": "TSX",
+   "yahoo_symbol": "WORK.UN.TO",
+   "instruments": [
+    {
+     "name": "Workplace TechDiv Un",
+     "symbol": "WORK.UN"
+    }
+   ]
+  },
+  {
+   "symbol": "FOXO.W",
+   "name": "FOXO Technologies Inc. Redeemable Warrants, each whole warrant exercisable for one share of Class A Common Stock at an exercise price of $11.50",
+   "exchange": "NYSE MKT",
+   "yahoo_symbol": "FOXO.W"
+  },
+  {
+   "symbol": "HWF",
+   "name": "Middlefield Health \u0026 Wellness ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "HWF.TO",
+   "instruments": [
+    {
+     "name": "Middlefield HealthUn",
+     "symbol": "HWF"
+    }
+   ]
+  },
+  {
+   "symbol": "AGR.UN",
+   "name": "Sustainable Agriculture \u0026 Wellness Dividend Fund",
+   "exchange": "TSX",
+   "yahoo_symbol": "AGR.UN.TO",
+   "instruments": [
+    {
+     "name": "Sustain Agri\u0026Wel Div",
+     "symbol": "AGR.UN"
+    }
+   ]
+  },
+  {
+   "symbol": "APC",
+   "name": "Advanced Proteome Therapeutics Corporation",
+   "exchange": "TSXV",
+   "yahoo_symbol": "APC.V",
+   "instruments": [
+    {
+     "name": "Advanced Proteome Therapeutics Corporation",
+     "symbol": "APC"
+    }
+   ]
+  },
+  {
+   "symbol": "PRO",
+   "name": "Pershimex Resources Corporation",
+   "exchange": "TSXV",
+   "yahoo_symbol": "PRO.V",
+   "instruments": [
+    {
+     "name": "Pershimex Resources Corporation",
+     "symbol": "PRO"
+    }
+   ]
+  },
+  {
+   "symbol": "AUD",
+   "name": "Audacy Common Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "AUD"
+  }
+ ]
+}
