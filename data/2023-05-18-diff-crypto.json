@@ -1,0 +1,21 @@
+{
+ "added": [
+  {
+   "symbol": "GETH",
+   "name": "Guarded Ether (GETH)"
+  },
+  {
+   "symbol": "CGPT",
+   "name": "ChainGPT (CGPT)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "DOGETH",
+   "name": "EtherDoge (DOGETH)"
+  },
+  {
+   "symbol": "BANKETH",
+   "name": "BankEth (BANKETH)"
+  }
+ ]
+}
