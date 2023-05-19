@@ -1,0 +1,114 @@
+{
+ "added": [
+  {
+   "symbol": "ATCU",
+   "name": "Alta Copper Corp.",
+   "exchange": "TSX",
+   "yahoo_symbol": "ATCU.TO",
+   "instruments": [
+    {
+     "name": "Candente Copper J",
+     "symbol": "ATCU"
+    }
+   ]
+  },
+  {
+   "symbol": "MGRM",
+   "name": "Monogram Orthopaedics Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "MGRM"
+  },
+  {
+   "symbol": "TALK",
+   "name": "Talkspace, Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "TALK"
+  },
+  {
+   "symbol": "TALKW",
+   "name": "Talkspace, Inc. - Warrant",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "TALKW"
+  },
+  {
+   "symbol": "NHS.V",
+   "name": "Neuberger Berman High Yield Strategies Fund Rights (expiring June 21, 2023) Rights when issued",
+   "exchange": "NYSE MKT",
+   "yahoo_symbol": "NHS.V"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "TVC",
+   "name": "Three Valley Copper Corp.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "TVC.V",
+   "instruments": [
+    {
+     "name": "Three Valley Copper Corp.",
+     "symbol": "TVC"
+    }
+   ]
+  },
+  {
+   "symbol": "CYAD",
+   "name": "Celyad Oncology SA - American Depositary Shares",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "CYAD"
+  },
+  {
+   "symbol": "AXAC",
+   "name": "AXIOS Sustainable Growth Acquisition Corporation Class A Ordinary Shares",
+   "exchange": "NYSE",
+   "yahoo_symbol": "AXAC"
+  },
+  {
+   "symbol": "TALK",
+   "name": "Talkspace, Inc. - Common Stock",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "TALK"
+  },
+  {
+   "symbol": "AXAC.W",
+   "name": "AXIOS Sustainable Growth Acquisition Corporation Redeemable warrants, each whole warrant exercisable for one Class A ordinary share at an exercise price of $11.50",
+   "exchange": "NYSE",
+   "yahoo_symbol": "AXAC.W"
+  },
+  {
+   "symbol": "IDW",
+   "name": "IDW Media Holdings Class B Common Stock",
+   "exchange": "NYSE MKT",
+   "yahoo_symbol": "IDW"
+  },
+  {
+   "symbol": "APTX",
+   "name": "Aptinyx Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "APTX"
+  },
+  {
+   "symbol": "AXAC.R",
+   "name": "AXIOS Sustainable Growth Acquisition Corporation Rights to receive one-tenth (1/10) of one Class A ordinary share",
+   "exchange": "NYSE",
+   "yahoo_symbol": "AXAC.R"
+  },
+  {
+   "symbol": "TALKW",
+   "name": "Talkspace, Inc. - Warrant",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "TALKW"
+  },
+  {
+   "symbol": "DNT",
+   "name": "Candente Copper Corp.",
+   "exchange": "TSX",
+   "yahoo_symbol": "DNT.TO",
+   "instruments": [
+    {
+     "name": "Candente Copper J",
+     "symbol": "DNT"
+    }
+   ]
+  }
+ ]
+}
