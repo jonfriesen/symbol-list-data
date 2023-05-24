@@ -1,0 +1,150 @@
+{
+ "added": [
+  {
+   "symbol": "HTC",
+   "name": "HTC Purenergy Inc.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "HTC.V",
+   "instruments": [
+    {
+     "name": "HTC Purenergy Inc",
+     "symbol": "HTC"
+    }
+   ]
+  },
+  {
+   "symbol": "LWR",
+   "name": "Lake Winn Resources Corp.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "LWR.V",
+   "instruments": [
+    {
+     "name": "Lake Winn Resources Corp.",
+     "symbol": "LWR"
+    }
+   ]
+  },
+  {
+   "symbol": "RRCC.P",
+   "name": "Raging Rhino Capital Corp.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "RRCC.P.V",
+   "instruments": [
+    {
+     "name": "Raging Rhino Capital Corp.",
+     "symbol": "RRCC.P"
+    }
+   ]
+  },
+  {
+   "symbol": "LAES",
+   "name": "SEALSQ Corp - Ordinary Shares",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "LAES"
+  },
+  {
+   "symbol": "SHUA",
+   "name": "SHUAA Partners Acquisition Corp I - Class A Ordinary Share",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "SHUA"
+  },
+  {
+   "symbol": "SHUAU",
+   "name": "SHUAA Partners Acquisition Corp I - Unit",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "SHUAU"
+  },
+  {
+   "symbol": "SHUAW",
+   "name": "SHUAA Partners Acquisition Corp I - Warrant",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "SHUAW"
+  },
+  {
+   "symbol": "TYGO",
+   "name": "Tigo Energy, Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "TYGO"
+  },
+  {
+   "symbol": "TYGOW",
+   "name": "Tigo Energy, Inc. - Warrant",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "TYGOW"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "WKEYV",
+   "name": "WISeKey International Holding Ltd - Ex-distribution When Issued",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "WKEYV"
+  },
+  {
+   "symbol": "AQUA",
+   "name": "Evoqua Water Technologies Corp. Common Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "AQUA"
+  },
+  {
+   "symbol": "NH",
+   "name": "NantHealth, Inc. - Common Stock",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "NH"
+  },
+  {
+   "symbol": "SHUAU",
+   "name": "SHUAA Partners Acquisition Corp I - Unit",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "SHUAU"
+  },
+  {
+   "symbol": "ROCGU",
+   "name": "Roth CH Acquisition IV Co. - Unit",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "ROCGU"
+  },
+  {
+   "symbol": "ROCGW",
+   "name": "Roth CH Acquisition IV Co. - Warrant",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "ROCGW"
+  },
+  {
+   "symbol": "ROCG",
+   "name": "Roth CH Acquisition IV Co. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "ROCG"
+  },
+  {
+   "symbol": "PAS",
+   "name": "Pascal Biosciences Inc.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "PAS.V",
+   "instruments": [
+    {
+     "name": "Pascal Biosciences Inc.",
+     "symbol": "PAS"
+    }
+   ]
+  },
+  {
+   "symbol": "SHUAW",
+   "name": "SHUAA Partners Acquisition Corp I - Warrant",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "SHUAW"
+  },
+  {
+   "symbol": "LAESV",
+   "name": "SEALSQ Corp - Ordinary shares When Issued",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "LAESV"
+  },
+  {
+   "symbol": "SHUA",
+   "name": "SHUAA Partners Acquisition Corp I - Class A Ordinary Share",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "SHUA"
+  }
+ ]
+}
