@@ -1,0 +1,58 @@
+{
+ "added": [
+  {
+   "symbol": "PLUTUS",
+   "name": "PlutusDAO (PLUTUS)",
+   "built_on": "ARB"
+  },
+  {
+   "symbol": "ZKBOB",
+   "name": "BOB (ZKBOB)",
+   "built_on": "MATIC"
+  },
+  {
+   "symbol": "DOGETH",
+   "name": "EtherDoge (DOGETH)"
+  },
+  {
+   "symbol": "GETH",
+   "name": "Guarded Ether (GETH)"
+  },
+  {
+   "symbol": "DROPS",
+   "name": "Drops (DROPS)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "POLKER",
+   "name": "Polker (POLKER)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "PLS",
+   "name": "Pulsechain (PLS)"
+  },
+  {
+   "symbol": "BANKETH",
+   "name": "BankEth (BANKETH)"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "ZKBOB",
+   "name": "BOB (ZKBOB)"
+  },
+  {
+   "symbol": "PLSC",
+   "name": "Pulsechain (PLSC)"
+  },
+  {
+   "symbol": "DROPS",
+   "name": "Drops (DROPS)"
+  },
+  {
+   "symbol": "POLKER",
+   "name": "Polker (POLKER)"
+  }
+ ]
+}

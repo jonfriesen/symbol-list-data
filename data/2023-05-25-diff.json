@@ -1,0 +1,100 @@
+{
+ "added": [
+  {
+   "symbol": "OXSQR",
+   "name": "Oxford Square Capital Corp. - Right",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "OXSQR"
+  },
+  {
+   "symbol": "ATS",
+   "name": "ATS Corporation Common Shares",
+   "exchange": "NYSE",
+   "yahoo_symbol": "ATS"
+  },
+  {
+   "symbol": "KNF.V",
+   "name": "Knife Riv Holding Co. Common Stock When-Issued",
+   "exchange": "NYSE",
+   "yahoo_symbol": "KNF.V"
+  },
+  {
+   "symbol": "MDU.V",
+   "name": "MDU Resources Group, Inc. Common Stock When-Issued",
+   "exchange": "NYSE",
+   "yahoo_symbol": "MDU.V"
+  },
+  {
+   "symbol": "GTM.P",
+   "name": "G2M Cap Corp.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "GTM.P.V",
+   "instruments": [
+    {
+     "name": "G2M Cap Corp.",
+     "symbol": "GTM.P"
+    }
+   ]
+  },
+  {
+   "symbol": "PRV.DB",
+   "name": "PRO Real Estate Investment Trust",
+   "exchange": "TSX",
+   "yahoo_symbol": "PRV.DB.TO",
+   "instruments": [
+    {
+     "name": "PRO Real Est Tr Deb",
+     "symbol": "PRV.DB"
+    },
+    {
+     "name": "PRO Real Est Tr Un",
+     "symbol": "PRV.UN"
+    }
+   ]
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "PRV.UN",
+   "name": "PRO Real Estate Investment Trust",
+   "exchange": "TSX",
+   "yahoo_symbol": "PRV.UN.TO",
+   "instruments": [
+    {
+     "name": "PRO Real Est Tr Un",
+     "symbol": "PRV.UN"
+    }
+   ]
+  },
+  {
+   "symbol": "EINC",
+   "name": "E Automotive Inc.",
+   "exchange": "TSX",
+   "yahoo_symbol": "EINC.TO",
+   "instruments": [
+    {
+     "name": "E Automotive Inc. J",
+     "symbol": "EINC"
+    }
+   ]
+  },
+  {
+   "symbol": "MTU",
+   "name": "Manitou Gold Inc.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "MTU.V",
+   "instruments": [
+    {
+     "name": "Manitou Gold Inc",
+     "symbol": "MTU"
+    }
+   ]
+  },
+  {
+   "symbol": "ATNX",
+   "name": "Athenex, Inc. - Common Stock",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "ATNX"
+  }
+ ]
+}
