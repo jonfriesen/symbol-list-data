@@ -1,0 +1,96 @@
+{
+ "added": [
+  {
+   "symbol": "TAU",
+   "name": "Thesis Gold Inc.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "TAU.V",
+   "instruments": [
+    {
+     "name": "Thesis Gold Inc.",
+     "symbol": "TAU"
+    }
+   ]
+  },
+  {
+   "symbol": "IPXXU",
+   "name": "Inflection Point Acquisition Corp. II - Unit",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "IPXXU"
+  },
+  {
+   "symbol": "ATMU",
+   "name": "Atmus Filtration Technologies Inc. Common Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "ATMU"
+  },
+  {
+   "symbol": "AZTR",
+   "name": "Azitra Inc Common Stock",
+   "exchange": "NYSE MKT",
+   "yahoo_symbol": "AZTR"
+  },
+  {
+   "symbol": "COE",
+   "name": "51Talk Online Education Group American depositary shares, each representing 60 Class A ordinary shares",
+   "exchange": "NYSE MKT",
+   "yahoo_symbol": "COE"
+  },
+  {
+   "symbol": "NHS.R",
+   "name": "Neuberger Berman High Yield Strategies Fund Rights (expiring June 21, 2023) Rights",
+   "exchange": "NYSE MKT",
+   "yahoo_symbol": "NHS.R"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "LTRY",
+   "name": "Lottery.com, Inc.  - Common Stock",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "LTRY"
+  },
+  {
+   "symbol": "NHS.V",
+   "name": "Neuberger Berman High Yield Strategies Fund Rights (expiring June 21, 2023) Rights when issued",
+   "exchange": "NYSE MKT",
+   "yahoo_symbol": "NHS.V"
+  },
+  {
+   "symbol": "TANNL",
+   "name": "TravelCenters of America Inc.  - 8.00% Senior Notes due 2029",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "TANNL"
+  },
+  {
+   "symbol": "COE",
+   "name": "51Talk Online Education Group American depositary shares, each representing 60 Class A ordinary shares",
+   "exchange": "NYSE",
+   "yahoo_symbol": "COE"
+  },
+  {
+   "symbol": "TANNI",
+   "name": "TravelCenters of America Inc.  - 8.25% Senior Notes due 2028",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "TANNI"
+  },
+  {
+   "symbol": "LTRYW",
+   "name": "Lottery.com, Inc.  - Warrant",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "LTRYW"
+  },
+  {
+   "symbol": "TANNZ",
+   "name": "TravelCenters of America Inc.  - 8.00% Senior Notes due 2030",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "TANNZ"
+  },
+  {
+   "symbol": "SIRE",
+   "name": "Sisecam Resources LP Common Units representing limited partner interests",
+   "exchange": "NYSE",
+   "yahoo_symbol": "SIRE"
+  }
+ ]
+}

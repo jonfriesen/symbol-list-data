@@ -1,0 +1,45 @@
+{
+ "added": [
+  {
+   "symbol": "PANDOP",
+   "name": "PandoProject (PANDOP)"
+  },
+  {
+   "symbol": "MEED",
+   "name": "Meeds DAO (MEED)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "LOKR",
+   "name": "Polkalokr (LOKR)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "VNM",
+   "name": "Venom (VNM)"
+  },
+  {
+   "symbol": "DOGETH",
+   "name": "EtherDoge (DOGETH)"
+  },
+  {
+   "symbol": "GETH",
+   "name": "Guarded Ether (GETH)"
+  },
+  {
+   "symbol": "DIMO",
+   "name": "DIMO (DIMO)",
+   "built_on": "MATIC"
+  },
+  {
+   "symbol": "BANKETH",
+   "name": "BankEth (BANKETH)"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "LKR",
+   "name": "Polkalokr (LKR)"
+  }
+ ]
+}
