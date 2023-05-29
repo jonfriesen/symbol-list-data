@@ -1,0 +1,54 @@
+{
+ "added": [
+  {
+   "symbol": "MCAD",
+   "name": "Premium Cash Management Fund",
+   "exchange": "TSX",
+   "yahoo_symbol": "MCAD.TO",
+   "instruments": [
+    {
+     "name": "Premium CashMgt Unhg",
+     "symbol": "MCAD"
+    }
+   ]
+  },
+  {
+   "symbol": "MUSD.U",
+   "name": "US Premium Cash Management Fund",
+   "exchange": "TSX",
+   "yahoo_symbol": "MUSD.U.TO",
+   "instruments": [
+    {
+     "name": "US PremiumCshMgUH US",
+     "symbol": "MUSD.U"
+    }
+   ]
+  },
+  {
+   "symbol": "VOXR",
+   "name": "Vox Royalty Corp.",
+   "exchange": "TSX",
+   "yahoo_symbol": "VOXR.TO",
+   "instruments": [
+    {
+     "name": "Vox Royalty Corp. J",
+     "symbol": "VOXR"
+    }
+   ]
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "VOX",
+   "name": "Vox Royalty Corp.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "VOX.V",
+   "instruments": [
+    {
+     "name": "Vox Royalty Corp.",
+     "symbol": "VOX"
+    }
+   ]
+  }
+ ]
+}
