@@ -1,0 +1,90 @@
+{
+ "added": [
+  {
+   "symbol": "NXH",
+   "name": "Next Hydrogen Solutions Inc.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "NXH.V",
+   "instruments": [
+    {
+     "name": "Next Hydrogen Solutions Inc.",
+     "symbol": "NXH"
+    }
+   ]
+  },
+  {
+   "symbol": "ALL$J",
+   "name": "Allstate Corporation (The) Depositary Shares each representing a 1/1,000th interest in a share of Fixed Rate Noncumulative Perpetual Preferred Stock, Series J",
+   "exchange": "NYSE",
+   "yahoo_symbol": "ALL$J"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "SGHLU",
+   "name": "Signal Hill Acquisition Corp. - Unit",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "SGHLU"
+  },
+  {
+   "symbol": "PNTM.U",
+   "name": "Pontem Corporation Units, each consisting of one Class A ordinary share, and one-third of one redeemable warrant",
+   "exchange": "NYSE",
+   "yahoo_symbol": "PNTM.U"
+  },
+  {
+   "symbol": "PSPC.U",
+   "name": "Post Holdings Partnering Corporation Units, each consisting of one share of Series A common stock, and one-third of one redeemable warrant",
+   "exchange": "NYSE",
+   "yahoo_symbol": "PSPC.U"
+  },
+  {
+   "symbol": "PNTM",
+   "name": "Pontem Corporation Class A Ordinary Shares",
+   "exchange": "NYSE",
+   "yahoo_symbol": "PNTM"
+  },
+  {
+   "symbol": "SGHL",
+   "name": "Signal Hill Acquisition Corp. - Class A Common Stock",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "SGHL"
+  },
+  {
+   "symbol": "PNTM.W",
+   "name": "Pontem Corporation Warrants, each whole warrant exercisable for one Class A ordinary share at an exercise price of $11.50",
+   "exchange": "NYSE",
+   "yahoo_symbol": "PNTM.W"
+  },
+  {
+   "symbol": "AZTR",
+   "name": "Azitra Inc Common Stock",
+   "exchange": "NYSE MKT",
+   "yahoo_symbol": "AZTR"
+  },
+  {
+   "symbol": "PSPC",
+   "name": "Post Holdings Partnering Corporation Series A Common Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "PSPC"
+  },
+  {
+   "symbol": "NVNOW",
+   "name": "enVVeno Medical Corporation - Warrants",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "NVNOW"
+  },
+  {
+   "symbol": "SGHLW",
+   "name": "Signal Hill Acquisition Corp. - Warrant",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "SGHLW"
+  },
+  {
+   "symbol": "PSPC.W",
+   "name": "Post Holdings Partnering Corporation Redeemable Warrants, each whole warrant exercisable for one share of Series A common stock at an exercise price of $11.50",
+   "exchange": "NYSE",
+   "yahoo_symbol": "PSPC.W"
+  }
+ ]
+}
