@@ -1,0 +1,50 @@
+{
+ "added": [
+  {
+   "symbol": "TKN",
+   "name": "Ninepoint Web3 Innovators Fund",
+   "exchange": "TSX",
+   "yahoo_symbol": "TKN.TO",
+   "instruments": [
+    {
+     "name": "Ninepoint Bitcoin Un",
+     "symbol": "TKN"
+    },
+    {
+     "name": "Ninepoint Bitcoin US",
+     "symbol": "TKN.U"
+    }
+   ]
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "STET.W",
+   "name": "ST Energy Transition I Ltd. Redeemable warrants, each whole warrant exercisable for one Class A ordinary share at an exercise price of $11.50, included as part of the SAIL securities",
+   "exchange": "NYSE",
+   "yahoo_symbol": "STET.W"
+  },
+  {
+   "symbol": "BITC",
+   "name": "Ninepoint Bitcoin ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "BITC.TO",
+   "instruments": [
+    {
+     "name": "Ninepoint Bitcoin Un",
+     "symbol": "BITC"
+    },
+    {
+     "name": "Ninepoint Bitcoin US",
+     "symbol": "BITC.U"
+    }
+   ]
+  },
+  {
+   "symbol": "BRMK",
+   "name": "Broadmark Realty Capital Inc. Common Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "BRMK"
+  }
+ ]
+}
