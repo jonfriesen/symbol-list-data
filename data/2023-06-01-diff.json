@@ -1,0 +1,84 @@
+{
+ "added": [
+  {
+   "symbol": "CBUS",
+   "name": "Cibus, Inc. - Class A Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "CBUS"
+  },
+  {
+   "symbol": "KNF",
+   "name": "Knife Riv Holding Co. Common Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "KNF"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "GRCYU",
+   "name": "Greencity Acquisition Corporation - Unit",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "GRCYU"
+  },
+  {
+   "symbol": "BSX$A",
+   "name": "Boston Scientific Corporation 5.50% Mandatory Convertible Preferred Stock, Series A",
+   "exchange": "NYSE",
+   "yahoo_symbol": "BSX$A"
+  },
+  {
+   "symbol": "MDU.V",
+   "name": "MDU Resources Group, Inc. Common Stock When-Issued",
+   "exchange": "NYSE",
+   "yahoo_symbol": "MDU.V"
+  },
+  {
+   "symbol": "GRCYW",
+   "name": "Greencity Acquisition Corporation - Warrants",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "GRCYW"
+  },
+  {
+   "symbol": "CLXT",
+   "name": "Calyxt, Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "CLXT"
+  },
+  {
+   "symbol": "MNTV",
+   "name": "Momentive Global Inc.  - Common Stock",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "MNTV"
+  },
+  {
+   "symbol": "GRCY",
+   "name": "Greencity Acquisition Corporation - Ordinary Shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "GRCY"
+  },
+  {
+   "symbol": "KNF.V",
+   "name": "Knife Riv Holding Co. Common Stock When-Issued",
+   "exchange": "NYSE",
+   "yahoo_symbol": "KNF.V"
+  },
+  {
+   "symbol": "BDXB",
+   "name": "Becton, Dickinson and Company Depositary Shares, each Representing a 1/20th Interest in a Share of 6.00% Mandatory Convertible Preferred Stock, Series B",
+   "exchange": "NYSE",
+   "yahoo_symbol": "BDXB"
+  },
+  {
+   "symbol": "NCG",
+   "name": "NCM Core Global",
+   "exchange": "TSX",
+   "yahoo_symbol": "NCG.TO",
+   "instruments": [
+    {
+     "name": "NCM Core Glb ETF Ser",
+     "symbol": "NCG"
+    }
+   ]
+  }
+ ]
+}

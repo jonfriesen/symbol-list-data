@@ -1,0 +1,74 @@
+{
+ "added": [
+  {
+   "symbol": "METFI",
+   "name": "MetFi (METFI)"
+  },
+  {
+   "symbol": "EYETOKEN",
+   "name": "EYE Token (EYETOKEN)"
+  },
+  {
+   "symbol": "DOG",
+   "name": "The Doge NFT (DOG)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "CHERRY",
+   "name": "CherrySwap (CHERRY)",
+   "built_on": "OKT"
+  },
+  {
+   "symbol": "ANRX",
+   "name": "AnRKey X (ANRX)"
+  },
+  {
+   "symbol": "G",
+   "name": "GRN Grid (G)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "TRDL",
+   "name": "Strudel Finance (TRDL)"
+  },
+  {
+   "symbol": "B",
+   "name": "BankCoin (B)"
+  },
+  {
+   "symbol": "BANK",
+   "name": "Float Protocol (BANK)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "BASED",
+   "name": "Based Money (BASED)"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "ROPE",
+   "name": "Rope Token (ROPE)"
+  },
+  {
+   "symbol": "CHE",
+   "name": "CherrySwap (CHE)"
+  },
+  {
+   "symbol": "$TRDL",
+   "name": "Strudel Finance ($TRDL)"
+  },
+  {
+   "symbol": "$ANRX",
+   "name": "AnRKey X ($ANRX)"
+  },
+  {
+   "symbol": "$BASED",
+   "name": "Based Money ($BASED)"
+  },
+  {
+   "symbol": "B@",
+   "name": "BankCoin (B@)"
+  }
+ ]
+}
