@@ -1,0 +1,90 @@
+{
+ "added": [
+  {
+   "symbol": "ELTX",
+   "name": "Elicio Therapeutics, Inc. - Common Stock",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "ELTX"
+  },
+  {
+   "symbol": "XELB",
+   "name": "Xcel Brands, Inc - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "XELB"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "JWACR",
+   "name": "Jupiter Wellness Acquisition Corp. - Right",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "JWACR"
+  },
+  {
+   "symbol": "TCRR",
+   "name": "TCR2 Therapeutics Inc. - Common Stock",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "TCRR"
+  },
+  {
+   "symbol": "TCEC",
+   "name": "Tisdale Clean Energy Corp.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "TCEC.V",
+   "instruments": [
+    {
+     "name": "Tisdale Clean Energy Corp.",
+     "symbol": "TCEC"
+    }
+   ]
+  },
+  {
+   "symbol": "JWAC",
+   "name": "Jupiter Wellness Acquisition Corp. - Class A Common Stock",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "JWAC"
+  },
+  {
+   "symbol": "QTEKW",
+   "name": "QualTek Services Inc. - Warrant",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "QTEKW"
+  },
+  {
+   "symbol": "ANGN",
+   "name": "Angion Biomedica Corp. - Common Stock",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "ANGN"
+  },
+  {
+   "symbol": "XELB",
+   "name": "Xcel Brands, Inc - Common Stock",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "XELB"
+  },
+  {
+   "symbol": "QTEK",
+   "name": "QualTek Services Inc. - Common stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "QTEK"
+  },
+  {
+   "symbol": "BLCM",
+   "name": "Bellicum Pharmaceuticals, Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "BLCM"
+  },
+  {
+   "symbol": "MGI",
+   "name": "Moneygram International, Inc. - Common Stock",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "MGI"
+  },
+  {
+   "symbol": "KBAL",
+   "name": "Kimball International, Inc. - Class B Common Stock",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "KBAL"
+  }
+ ]
+}

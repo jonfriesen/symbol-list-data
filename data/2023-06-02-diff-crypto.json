@@ -1,0 +1,66 @@
+{
+ "added": [
+  {
+   "symbol": "EYE",
+   "name": "MEDIA EYE (EYE)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "PETT",
+   "name": "Pett Network (PETT)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "PRIME",
+   "name": "Echelon Prime (PRIME)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "PORTU",
+   "name": "Portuma (PORTU)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "PRIMECHAIN",
+   "name": "PrimeChain (PRIMECHAIN)"
+  },
+  {
+   "symbol": "DOGETH",
+   "name": "EtherDoge (DOGETH)"
+  },
+  {
+   "symbol": "G",
+   "name": "GRN Grid (G)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "BANKETH",
+   "name": "BankEth (BANKETH)"
+  },
+  {
+   "symbol": "BOBT",
+   "name": "BOB Token (BOBT)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "HOSKY",
+   "name": "Hosky (HOSKY)",
+   "built_on": "ADA"
+  },
+  {
+   "symbol": "SNEK",
+   "name": "Snek (SNEK)",
+   "built_on": "ADA"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "PRIME",
+   "name": "PrimeChain (PRIME)"
+  },
+  {
+   "symbol": "EYE",
+   "name": "MEDIA EYE (EYE)"
+  }
+ ]
+}
