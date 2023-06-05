@@ -1,0 +1,48 @@
+{
+ "added": [
+  {
+   "symbol": "CJET",
+   "name": "Chijet Motor Company, Inc. - Ordinary Shares",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "CJET"
+  },
+  {
+   "symbol": "GAINL",
+   "name": "Gladstone Investment Corporation - 8.00% Notes due 2028",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "GAINL"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "PHGE.W",
+   "name": "BiomX Inc. Warrants",
+   "exchange": "NYSE MKT",
+   "yahoo_symbol": "PHGE.W"
+  },
+  {
+   "symbol": "SPCM",
+   "name": "Sound Point Acquisition Corp I, Ltd - Class A Ordinary Share",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "SPCM"
+  },
+  {
+   "symbol": "SPCMU",
+   "name": "Sound Point Acquisition Corp I, Ltd - Unit",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "SPCMU"
+  },
+  {
+   "symbol": "EOCW.W",
+   "name": "Elliott Opportunity II Corp. Redeemable warrants, each whole warrant exercisable for one Class A ordinary share at an exercise price of $11.50",
+   "exchange": "NYSE",
+   "yahoo_symbol": "EOCW.W"
+  },
+  {
+   "symbol": "SPCMW",
+   "name": "Sound Point Acquisition Corp I, Ltd - Warrant",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "SPCMW"
+  }
+ ]
+}
