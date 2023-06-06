@@ -1,0 +1,78 @@
+{
+ "added": [
+  {
+   "symbol": "PYPD",
+   "name": "PolyPid Ltd. - Ordinary Shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "PYPD"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "DBD",
+   "name": "Diebold Nixdorf Incorporated Common Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "DBD"
+  },
+  {
+   "symbol": "RGG",
+   "name": "React Gaming Group Inc.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "RGG.V",
+   "instruments": [
+    {
+     "name": "React Gaming Group Inc.",
+     "symbol": "RGG"
+    }
+   ]
+  },
+  {
+   "symbol": "BPAC",
+   "name": "Bullpen Parlay Acquisition Company - Class A Ordinary Share",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "BPAC"
+  },
+  {
+   "symbol": "BPACU",
+   "name": "Bullpen Parlay Acquisition Company - Unit",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "BPACU"
+  },
+  {
+   "symbol": "BPACW",
+   "name": "Bullpen Parlay Acquisition Company - Warrant",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "BPACW"
+  },
+  {
+   "symbol": "PYPD",
+   "name": "PolyPid Ltd. - Ordinary Shares",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "PYPD"
+  },
+  {
+   "symbol": "VONE",
+   "name": "Voyager Metals Inc.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "VONE.V",
+   "instruments": [
+    {
+     "name": "Voyager Metals Inc.",
+     "symbol": "VONE"
+    }
+   ]
+  },
+  {
+   "symbol": "HULK",
+   "name": "Pontus Protein Ltd.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "HULK.V",
+   "instruments": [
+    {
+     "name": "Pontus Protein Ltd.",
+     "symbol": "HULK"
+    }
+   ]
+  }
+ ]
+}

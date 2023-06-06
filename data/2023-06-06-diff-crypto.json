@@ -1,0 +1,28 @@
+{
+ "added": [
+  {
+   "symbol": "DOG",
+   "name": "The Doge NFT (DOG)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "WOMB",
+   "name": "Wombat Exchange (WOMB)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "STKK",
+   "name": "Streakk (STKK)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "BANKETH",
+   "name": "BankEth (BANKETH)"
+  },
+  {
+   "symbol": "G",
+   "name": "GRN Grid (G)",
+   "built_on": "ETH"
+  }
+ ]
+}
