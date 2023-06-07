@@ -1,0 +1,38 @@
+{
+ "added": [
+  {
+   "symbol": "SHERA",
+   "name": "Shera Tokens (SHERA)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "NTO",
+   "name": "Neton (NTO)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "G",
+   "name": "GRN Grid (G)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "DOG",
+   "name": "The Doge NFT (DOG)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "NEUTRO",
+   "name": "Neutro Protocol (NEUTRO)"
+  },
+  {
+   "symbol": "BANKETH",
+   "name": "BankEth (BANKETH)"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "NTO",
+   "name": "Neutro Protocol (NTO)"
+  }
+ ]
+}

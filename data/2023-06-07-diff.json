@@ -1,0 +1,88 @@
+{
+ "added": [
+  {
+   "symbol": "FI",
+   "name": "Fiserv, Inc. Common Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "FI"
+  },
+  {
+   "symbol": "SYBX",
+   "name": "Synlogic, Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "SYBX"
+  },
+  {
+   "symbol": "MATR",
+   "name": "Shawcor Ltd.",
+   "exchange": "TSX",
+   "yahoo_symbol": "MATR.TO",
+   "instruments": [
+    {
+     "name": "Shawcor Ltd.",
+     "symbol": "MATR"
+    }
+   ]
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "SCL",
+   "name": "Shawcor Ltd.",
+   "exchange": "TSX",
+   "yahoo_symbol": "SCL.TO",
+   "instruments": [
+    {
+     "name": "Shawcor Ltd.",
+     "symbol": "SCL"
+    }
+   ]
+  },
+  {
+   "symbol": "FISV",
+   "name": "Fiserv, Inc. - Common Stock",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "FISV"
+  },
+  {
+   "symbol": "MCLD",
+   "name": "mCloud Technologies Corp.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "MCLD.V",
+   "instruments": [
+    {
+     "name": "mCloud Technologies Corp.",
+     "symbol": "MCLD"
+    },
+    {
+     "name": "Mcloud Technologies Corp wt 14Jan2025",
+     "symbol": "MCLD.WT"
+    }
+   ]
+  },
+  {
+   "symbol": "SYBX",
+   "name": "Synlogic, Inc. - Common Stock",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "SYBX"
+  },
+  {
+   "symbol": "FAF",
+   "name": "Fire \u0026 Flower Holdings Corp.",
+   "exchange": "TSX",
+   "yahoo_symbol": "FAF.TO",
+   "instruments": [
+    {
+     "name": "Fire \u0026 Flower Hldg J",
+     "symbol": "FAF"
+    }
+   ]
+  },
+  {
+   "symbol": "SNMP",
+   "name": "Evolve Transition Infrastructure LP Common Stock",
+   "exchange": "NYSE MKT",
+   "yahoo_symbol": "SNMP"
+  }
+ ]
+}
