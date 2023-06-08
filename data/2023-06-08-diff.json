@@ -1,0 +1,114 @@
+{
+ "added": [
+  {
+   "symbol": "CLIC",
+   "name": "Comet Lithium Corporation",
+   "exchange": "TSXV",
+   "yahoo_symbol": "CLIC.V",
+   "instruments": [
+    {
+     "name": "Comet Lithium Corporation",
+     "symbol": "CLIC"
+    }
+   ]
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "XTT",
+   "name": "X-Terra Resources Inc.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "XTT.V",
+   "instruments": [
+    {
+     "name": "X-Terra Resources Inc.",
+     "symbol": "XTT"
+    }
+   ]
+  },
+  {
+   "symbol": "AVAC",
+   "name": "Avalon Acquisition Inc. - Class A Common Stock",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "AVAC"
+  },
+  {
+   "symbol": "OZON",
+   "name": "Ozon Holdings PLC - ADS, each ADS representing one ordinary share",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "OZON"
+  },
+  {
+   "symbol": "TIL",
+   "name": "Till Capital Corporation",
+   "exchange": "TSXV",
+   "yahoo_symbol": "TIL.V",
+   "instruments": [
+    {
+     "name": "Till Capital Corporation",
+     "symbol": "TIL"
+    }
+   ]
+  },
+  {
+   "symbol": "AVACU",
+   "name": "Avalon Acquisition Inc. - Units",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "AVACU"
+  },
+  {
+   "symbol": "HHR",
+   "name": "HeadHunter Group PLC - American Depositary Shares",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "HHR"
+  },
+  {
+   "symbol": "BDOP",
+   "name": "Black Diamond Distressed Opportunities Fund",
+   "exchange": "TSX",
+   "yahoo_symbol": "BDOP.TO",
+   "instruments": [
+    {
+     "name": "BlackDiamnDstressOpp",
+     "symbol": "BDOP"
+    }
+   ]
+  },
+  {
+   "symbol": "STET",
+   "name": "ST Energy Transition I Ltd. Class A Ordinary Shares",
+   "exchange": "NYSE",
+   "yahoo_symbol": "STET"
+  },
+  {
+   "symbol": "STET.U",
+   "name": "ST Energy Transition I Ltd. SAIL securities, each consisting of one Class A ordinary share and one-half of one redeemable warrant",
+   "exchange": "NYSE",
+   "yahoo_symbol": "STET.U"
+  },
+  {
+   "symbol": "AVACW",
+   "name": "Avalon Acquisition Inc. - Warrant",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "AVACW"
+  },
+  {
+   "symbol": "CO",
+   "name": "Global Cord Blood Corporation Common Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "CO"
+  },
+  {
+   "symbol": "PSYF.P",
+   "name": "GHP Noetic Science-Psychedelic Pharma Inc.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "PSYF.P.V",
+   "instruments": [
+    {
+     "name": "GHP Noetic Science-Psychedelic Pharma Inc.",
+     "symbol": "PSYF.P"
+    }
+   ]
+  }
+ ]
+}
