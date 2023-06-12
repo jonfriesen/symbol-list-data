@@ -1,0 +1,148 @@
+{
+ "added": [
+  {
+   "symbol": "FOM",
+   "name": "Foran Mining Corporation",
+   "exchange": "TSX",
+   "yahoo_symbol": "FOM.TO",
+   "instruments": [
+    {
+     "name": "Foran Mining Corp J",
+     "symbol": "FOM"
+    }
+   ]
+  },
+  {
+   "symbol": "AACT",
+   "name": "Ares Acquisition Corporation II Class A Ordinary Shares",
+   "exchange": "NYSE",
+   "yahoo_symbol": "AACT"
+  },
+  {
+   "symbol": "AACT.W",
+   "name": "Ares Acquisition Corporation II Redeemable Warrants, each whole warrant exercisable for one Class A ordinary share at an exercise price of $11.50",
+   "exchange": "NYSE",
+   "yahoo_symbol": "AACT.W"
+  },
+  {
+   "symbol": "EVE",
+   "name": "EVe Mobility Acquisition Corp Class A Ordinary Shares",
+   "exchange": "NYSE MKT",
+   "yahoo_symbol": "EVE"
+  },
+  {
+   "symbol": "EVE.U",
+   "name": "EVe Mobility Acquisition Corp Units, each consisting of one Class A ordinary share and one-half of one redeemable warrant(",
+   "exchange": "NYSE MKT",
+   "yahoo_symbol": "EVE.U"
+  },
+  {
+   "symbol": "EVE.W",
+   "name": "EVe Mobility Acquisition Corp Redeemable warrants, each whole warrant exercisable for one Class A ordinary share at an exercise price of $11.50",
+   "exchange": "NYSE MKT",
+   "yahoo_symbol": "EVE.W"
+  },
+  {
+   "symbol": "STEL",
+   "name": "Stellar Bancorp, Inc. Common Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "STEL"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "ATIP.W",
+   "name": "ATI Physical Therapy, Inc. Warrants",
+   "exchange": "NYSE",
+   "yahoo_symbol": "ATIP.W"
+  },
+  {
+   "symbol": "EVE.W",
+   "name": "EVe Mobility Acquisition Corp Redeemable warrants, each whole warrant exercisable for one Class A ordinary share at an exercise price of $11.50",
+   "exchange": "NYSE",
+   "yahoo_symbol": "EVE.W"
+  },
+  {
+   "symbol": "GROV.W",
+   "name": "Grove Collaborative Holdings, Inc. Redeemable Warrants, each whole warrant exercisable for one share of Class A Common Stock at an exercise price of $11.50",
+   "exchange": "NYSE",
+   "yahoo_symbol": "GROV.W"
+  },
+  {
+   "symbol": "SNRHU",
+   "name": "Senior Connect Acquisition Corp. I - Unit",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "SNRHU"
+  },
+  {
+   "symbol": "ABTC",
+   "name": "Accelerate Carbon-Negative Bitcoin ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "ABTC.TO",
+   "instruments": [
+    {
+     "name": "AccelerateCarbnNegCA",
+     "symbol": "ABTC"
+    },
+    {
+     "name": "AccelerateCarbnNegUS",
+     "symbol": "ABTC.U"
+    }
+   ]
+  },
+  {
+   "symbol": "KSPN",
+   "name": "Kaspien Holdings Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "KSPN"
+  },
+  {
+   "symbol": "EVE.U",
+   "name": "EVe Mobility Acquisition Corp Units, each consisting of one Class A ordinary share and one-half of one redeemable warrant(",
+   "exchange": "NYSE",
+   "yahoo_symbol": "EVE.U"
+  },
+  {
+   "symbol": "CS",
+   "name": "Credit Suisse Group American Depositary Shares",
+   "exchange": "NYSE",
+   "yahoo_symbol": "CS"
+  },
+  {
+   "symbol": "SNRHW",
+   "name": "Senior Connect Acquisition Corp. I - Warrant",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "SNRHW"
+  },
+  {
+   "symbol": "SNRH",
+   "name": "Senior Connect Acquisition Corp. I - Class A Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "SNRH"
+  },
+  {
+   "symbol": "FOM",
+   "name": "Foran Mining Corporation",
+   "exchange": "TSXV",
+   "yahoo_symbol": "FOM.V",
+   "instruments": [
+    {
+     "name": "Foran Mining Corporation",
+     "symbol": "FOM"
+    }
+   ]
+  },
+  {
+   "symbol": "EVE",
+   "name": "EVe Mobility Acquisition Corp Class A Ordinary Shares",
+   "exchange": "NYSE",
+   "yahoo_symbol": "EVE"
+  },
+  {
+   "symbol": "STEL",
+   "name": "Stellar Bancorp, Inc. - Common Stock",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "STEL"
+  }
+ ]
+}

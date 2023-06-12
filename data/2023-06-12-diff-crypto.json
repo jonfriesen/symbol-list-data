@@ -1,0 +1,50 @@
+{
+ "added": [
+  {
+   "symbol": "GENIE",
+   "name": "The Genie (GENIE)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "CICHAIN",
+   "name": "CIChain (CICHAIN)"
+  },
+  {
+   "symbol": "CAPRICOIN",
+   "name": "CapriCoin (CAPRICOIN)"
+  },
+  {
+   "symbol": "EXCHANGEN",
+   "name": "ExchangeN (EXCHANGEN)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "DIGNITY",
+   "name": "Dignity (DIGNITY)"
+  },
+  {
+   "symbol": "DIG",
+   "name": "DIEGO (DIG)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "GETH",
+   "name": "Guarded Ether (GETH)"
+  },
+  {
+   "symbol": "BANK",
+   "name": "Float Protocol (BANK)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "DOGETH",
+   "name": "EtherDoge (DOGETH)"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "DIG",
+   "name": "Dignity (DIG)"
+  }
+ ]
+}
