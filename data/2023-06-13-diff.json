@@ -1,0 +1,84 @@
+{
+ "added": [
+  {
+   "symbol": "COEP",
+   "name": "Coeptis Therapeutics Holdings, Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "COEP"
+  },
+  {
+   "symbol": "COEPW",
+   "name": "Coeptis Therapeutics Holdings, Inc. - Warrants",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "COEPW"
+  },
+  {
+   "symbol": "FBOT",
+   "name": "Fidelity Disruptive Automation ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "FBOT"
+  },
+  {
+   "symbol": "FDCF",
+   "name": "Fidelity Disruptive Communications ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "FDCF"
+  },
+  {
+   "symbol": "FDFF",
+   "name": "Fidelity Disruptive Finance ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "FDFF"
+  },
+  {
+   "symbol": "FDTX",
+   "name": "Fidelity Disruptive Technology ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "FDTX"
+  },
+  {
+   "symbol": "FMED",
+   "name": "Fidelity Disruptive Medicine ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "FMED"
+  },
+  {
+   "symbol": "INDV",
+   "name": "Indivior PLC - Ordinary Shares",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "INDV"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "COEPW",
+   "name": "Coeptis Therapeutics Holdings, Inc. - Warrants",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "COEPW"
+  },
+  {
+   "symbol": "COEP",
+   "name": "Coeptis Therapeutics Holdings, Inc. - Common Stock",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "COEP"
+  },
+  {
+   "symbol": "RJAC",
+   "name": "Jackson Acquisition Company Class A Common Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "RJAC"
+  },
+  {
+   "symbol": "GTXAP",
+   "name": "Garrett Motion Inc. - Series A Cumulative Convertible Preferred Stock",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "GTXAP"
+  },
+  {
+   "symbol": "RJAC.U",
+   "name": "Jackson Acquisition Company Units, each consisting of one share of Class A common stock and one-half of one redeemable warrant",
+   "exchange": "NYSE",
+   "yahoo_symbol": "RJAC.U"
+  }
+ ]
+}

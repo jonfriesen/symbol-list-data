@@ -1,0 +1,32 @@
+{
+ "added": [
+  {
+   "symbol": "DOGETH",
+   "name": "EtherDoge (DOGETH)"
+  },
+  {
+   "symbol": "CAPTAINPLANET",
+   "name": "Captain Planet (CAPTAINPLANET)",
+   "built_on": "EGLD"
+  },
+  {
+   "symbol": "GETH",
+   "name": "Guarded Ether (GETH)"
+  },
+  {
+   "symbol": "EXN",
+   "name": "Exeno (EXN)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "BANKETH",
+   "name": "BankEth (BANKETH)"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "EXN",
+   "name": "Exeno (EXN)"
+  }
+ ]
+}
