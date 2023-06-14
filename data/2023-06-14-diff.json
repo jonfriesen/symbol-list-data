@@ -1,0 +1,30 @@
+{
+ "added": [
+  {
+   "symbol": "CISSV",
+   "name": "C3is Inc. - Common Stock When Issued",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "CISSV"
+  },
+  {
+   "symbol": "IMPPV",
+   "name": "Imperial Petroleum Inc. - Ex-distribution When Issued",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "IMPPV"
+  },
+  {
+   "symbol": "PRVT",
+   "name": "Private Real Estate Strategy via Liquid REITs ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "PRVT"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "HSKA",
+   "name": "Heska Corporation - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "HSKA"
+  }
+ ]
+}

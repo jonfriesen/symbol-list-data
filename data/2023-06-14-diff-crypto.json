@@ -1,0 +1,34 @@
+{
+ "added": [
+  {
+   "symbol": "WELLTOKEN",
+   "name": "Well (WELLTOKEN)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "CTP",
+   "name": "Ctomorrow Platform (CTP)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "G",
+   "name": "GRN Grid (G)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "BANK",
+   "name": "Float Protocol (BANK)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "DOGETH",
+   "name": "EtherDoge (DOGETH)"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "CTP",
+   "name": "Ctomorrow Platform (CTP)"
+  }
+ ]
+}
