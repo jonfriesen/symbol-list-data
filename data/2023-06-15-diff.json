@@ -1,0 +1,160 @@
+{
+ "added": [
+  {
+   "symbol": "PER",
+   "name": "Peruvian Metals Corp.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "PER.V",
+   "instruments": [
+    {
+     "name": "Peruvian Metals Corp.",
+     "symbol": "PER"
+    }
+   ]
+  },
+  {
+   "symbol": "SPLT",
+   "name": "Brompton Split Corp. Preferred Share ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "SPLT.TO",
+   "instruments": [
+    {
+     "name": "Brompton SpltPref Un",
+     "symbol": "SPLT"
+    }
+   ]
+  },
+  {
+   "symbol": "UMAX",
+   "name": "Hamilton Utilities Yield Maximizer ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "UMAX.TO",
+   "instruments": [
+    {
+     "name": "Hamilton UtilYldMx E",
+     "symbol": "UMAX"
+    }
+   ]
+  },
+  {
+   "symbol": "SOIL",
+   "name": "Saturn Oil \u0026 Gas Inc.",
+   "exchange": "TSX",
+   "yahoo_symbol": "SOIL.TO",
+   "instruments": [
+    {
+     "name": "Saturn Oil \u0026 Gas Inc",
+     "symbol": "SOIL"
+    },
+    {
+     "name": "Saturn Oil\u0026Gas A Wt",
+     "symbol": "SOIL.WT.A"
+    },
+    {
+     "name": "Saturn Oil\u0026Gas B Wt",
+     "symbol": "SOIL.WT.B"
+    }
+   ]
+  },
+  {
+   "symbol": "CALC",
+   "name": "CalciMedica, Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "CALC"
+  },
+  {
+   "symbol": "ESHAU",
+   "name": "ESH Acquisition Corp. - Unit",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "ESHAU"
+  },
+  {
+   "symbol": "CAVA",
+   "name": "CAVA Group, Inc. Common Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "CAVA"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "CYXT",
+   "name": "Cyxtera Technologies, Inc. - Class A Common Stock",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "CYXT"
+  },
+  {
+   "symbol": "DCP$B",
+   "name": "DCP Midstream LP 7.875% Series B Fixed-to-Floating Rate Cumulative Redeemable Perpetual Preferred Units",
+   "exchange": "NYSE",
+   "yahoo_symbol": "DCP$B"
+  },
+  {
+   "symbol": "SOIL",
+   "name": "Saturn Oil \u0026 Gas Inc.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "SOIL.V",
+   "instruments": [
+    {
+     "name": "Saturn Oil \u0026 Gas Inc.",
+     "symbol": "SOIL"
+    },
+    {
+     "name": "Saturn Oil \u0026 Gas Inc. wt 10Mar2025",
+     "symbol": "SOIL.WT.A"
+    },
+    {
+     "name": "Saturn Oil \u0026 Gas Inc. wt 07Jul2023",
+     "symbol": "SOIL.WT.B"
+    }
+   ]
+  },
+  {
+   "symbol": "DCP",
+   "name": "DCP Midstream,  LP Common Units ",
+   "exchange": "NYSE",
+   "yahoo_symbol": "DCP"
+  },
+  {
+   "symbol": "RUTH",
+   "name": "Ruth's Hospitality Group, Inc. - Common Stock",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "RUTH"
+  },
+  {
+   "symbol": "WRAC.W",
+   "name": "Williams Rowland Acquisition Corp. Redeemable Warrants, each exercisable for one share of Common Stock at an exercise price of $11.50",
+   "exchange": "NYSE MKT",
+   "yahoo_symbol": "WRAC.W"
+  },
+  {
+   "symbol": "APTV$A",
+   "name": "Aptiv PLC 5.50% Series A Mandatory Convertible Preferred Shares",
+   "exchange": "NYSE",
+   "yahoo_symbol": "APTV$A"
+  },
+  {
+   "symbol": "HTGM",
+   "name": "HTG Molecular Diagnostics, Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "HTGM"
+  },
+  {
+   "symbol": "DMS.W",
+   "name": "Digital Media Solutions, Inc. Warrants, ",
+   "exchange": "NYSE",
+   "yahoo_symbol": "DMS.W"
+  },
+  {
+   "symbol": "UNAM",
+   "name": "Unico American Corporation - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "UNAM"
+  },
+  {
+   "symbol": "OXSQR",
+   "name": "Oxford Square Capital Corp. - Right",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "OXSQR"
+  }
+ ]
+}

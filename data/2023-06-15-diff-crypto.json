@@ -1,0 +1,72 @@
+{
+ "added": [
+  {
+   "symbol": "ID",
+   "name": "SPACE (ID)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "G",
+   "name": "GRN Grid (G)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "HALO",
+   "name": "Halo Coin (HALO)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "PRX",
+   "name": "Parex (PRX)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "DOGETH",
+   "name": "EtherDoge (DOGETH)"
+  },
+  {
+   "symbol": "BANK",
+   "name": "Float Protocol (BANK)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "WELL",
+   "name": "Moonwell (WELL)",
+   "built_on": "GLMR"
+  },
+  {
+   "symbol": "HALOPLATFORM",
+   "name": "Halo Platform (HALOPLATFORM)"
+  },
+  {
+   "symbol": "PRINTERIUM",
+   "name": "Printerium (PRINTERIUM)"
+  },
+  {
+   "symbol": "LMTOKEN",
+   "name": "LM Token (LMTOKEN)"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "HALO",
+   "name": "Halo Platform (HALO)"
+  },
+  {
+   "symbol": "WELL",
+   "name": "Moonwell (WELL)"
+  },
+  {
+   "symbol": "ID",
+   "name": "SPACE (ID)"
+  },
+  {
+   "symbol": "PRP",
+   "name": "Papyrus (PRP)"
+  },
+  {
+   "symbol": "PRX",
+   "name": "Printerium (PRX)"
+  }
+ ]
+}
