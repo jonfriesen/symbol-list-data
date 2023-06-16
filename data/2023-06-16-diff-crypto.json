@@ -1,0 +1,54 @@
+{
+ "added": [
+  {
+   "symbol": "PRP",
+   "name": "Pepe Prime (PRP)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "ETHERKING",
+   "name": "Ether Kingdoms Token (ETHERKING)"
+  },
+  {
+   "symbol": "RETH",
+   "name": "Rocket Pool ETH (RETH)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "IMPT",
+   "name": "IMPT (IMPT)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "REALMS",
+   "name": "Realms of Ethernity (REALMS)"
+  },
+  {
+   "symbol": "LAELAPS",
+   "name": "Laelaps (LAELAPS)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "BANKETH",
+   "name": "BankEth (BANKETH)"
+  },
+  {
+   "symbol": "DOGETH",
+   "name": "EtherDoge (DOGETH)"
+  },
+  {
+   "symbol": "GETH",
+   "name": "Guarded Ether (GETH)"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "RETH",
+   "name": "Realms of Ethernity (RETH)"
+  },
+  {
+   "symbol": "IMPT",
+   "name": "Ether Kingdoms Token (IMPT)"
+  }
+ ]
+}
