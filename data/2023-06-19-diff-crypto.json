@@ -1,0 +1,30 @@
+{
+ "added": [
+  {
+   "symbol": "CHEEL",
+   "name": "Cheelee (CHEEL)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "MOOX",
+   "name": "Moox Protocol (MOOX)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "RXD",
+   "name": "Radiant (RXD)"
+  },
+  {
+   "symbol": "BANKETH",
+   "name": "BankEth (BANKETH)"
+  },
+  {
+   "symbol": "DOGETH",
+   "name": "EtherDoge (DOGETH)"
+  },
+  {
+   "symbol": "GETH",
+   "name": "Guarded Ether (GETH)"
+  }
+ ]
+}

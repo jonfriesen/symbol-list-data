@@ -1,0 +1,72 @@
+{
+ "added": [
+  {
+   "symbol": "ZYUS",
+   "name": "ZYUS Life Sciences Corporation",
+   "exchange": "TSXV",
+   "yahoo_symbol": "ZYUS.V",
+   "instruments": [
+    {
+     "name": "ZYUS Life Sciences Corporation",
+     "symbol": "ZYUS"
+    }
+   ]
+  },
+  {
+   "symbol": "BOF",
+   "name": "BranchOut Food Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "BOF"
+  },
+  {
+   "symbol": "FTREV",
+   "name": "Fortrea Holdings Inc. - Common Stock When Issued",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "FTREV"
+  },
+  {
+   "symbol": "METBV",
+   "name": "Ramaco Resources, Inc. - Class B Common Stock When Issued",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "METBV"
+  },
+  {
+   "symbol": "METCV",
+   "name": "Ramaco Resources, Inc. - Class A Common Stock Ex-Distribution When Issued",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "METCV"
+  },
+  {
+   "symbol": "ODVWW",
+   "name": "Osisko Development Corp. - Warrant",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "ODVWW"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "PCO",
+   "name": "Phoenix Canada Oil Company Limited",
+   "exchange": "TSXV",
+   "yahoo_symbol": "PCO.V",
+   "instruments": [
+    {
+     "name": "Phoenix Canada Oil Company Limited",
+     "symbol": "PCO"
+    }
+   ]
+  },
+  {
+   "symbol": "HIP.WT.A",
+   "name": "Newstrike Brands Ltd.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "HIP.WT.A.V",
+   "instruments": [
+    {
+     "name": "Newstrike Brands Ltd. wt ex 2023jun19 .wt.a",
+     "symbol": "HIP.WT.A"
+    }
+   ]
+  }
+ ]
+}
