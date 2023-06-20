@@ -1,0 +1,174 @@
+{
+ "added": [
+  {
+   "symbol": "LH.V",
+   "name": "Laboratory Corporation of America Holdings Common Stock When-Issued",
+   "exchange": "NYSE",
+   "yahoo_symbol": "LH.V"
+  },
+  {
+   "symbol": "NVRI",
+   "name": "Enviri Corporation Common Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "NVRI"
+  },
+  {
+   "symbol": "TIL",
+   "name": "Till Capital Corporation",
+   "exchange": "TSXV",
+   "yahoo_symbol": "TIL.V",
+   "instruments": [
+    {
+     "name": "Till Capital Corporation",
+     "symbol": "TIL"
+    }
+   ]
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "TOACW",
+   "name": "Talon 1 Acquisition Corp. - Warrant",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "TOACW"
+  },
+  {
+   "symbol": "PFES",
+   "name": "AXS 2X PFE Bear Daily ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "PFES"
+  },
+  {
+   "symbol": "HCNEU",
+   "name": "Jaws Hurricane Acquisition Corp. - Unit",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "HCNEU"
+  },
+  {
+   "symbol": "SOGU",
+   "name": "AXS Short De-SPAC Daily ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "SOGU"
+  },
+  {
+   "symbol": "RXDX",
+   "name": "Prometheus Biosciences, Inc. - Common Stock",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "RXDX"
+  },
+  {
+   "symbol": "TOACU",
+   "name": "Talon 1 Acquisition Corp. - Unit",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "TOACU"
+  },
+  {
+   "symbol": "AHRN",
+   "name": "Ahren Acquisition Corp. - Class A Ordinary Shares",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "AHRN"
+  },
+  {
+   "symbol": "SWEB",
+   "name": "AXS Short China Internet ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "SWEB"
+  },
+  {
+   "symbol": "AHRNU",
+   "name": "Ahren Acquisition Corp. - Unit",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "AHRNU"
+  },
+  {
+   "symbol": "HCNEW",
+   "name": "Jaws Hurricane Acquisition Corp. - Warrant",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "HCNEW"
+  },
+  {
+   "symbol": "PFEL",
+   "name": "AXS 2X PFE Bull Daily ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "PFEL"
+  },
+  {
+   "symbol": "TOAC",
+   "name": "Talon 1 Acquisition Corp. - Class A Ordinary Shares",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "TOAC"
+  },
+  {
+   "symbol": "PYPS",
+   "name": "AXS 1.5X PYPL Bear Daily ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "PYPS"
+  },
+  {
+   "symbol": "OWLT.W",
+   "name": "Owlet, Inc. Warrants",
+   "exchange": "NYSE",
+   "yahoo_symbol": "OWLT.W"
+  },
+  {
+   "symbol": "HVBC",
+   "name": "HV Bancorp, Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "HVBC"
+  },
+  {
+   "symbol": "HCNE",
+   "name": "Jaws Hurricane Acquisition Corp. - Class A Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "HCNE"
+  },
+  {
+   "symbol": "HSC",
+   "name": "Harsco Corporation Common Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "HSC"
+  },
+  {
+   "symbol": "NKEL",
+   "name": "AXS 2X NKE Bull Daily ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "NKEL"
+  },
+  {
+   "symbol": "AHRNW",
+   "name": "Ahren Acquisition Corp. - Warrants",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "AHRNW"
+  },
+  {
+   "symbol": "MLACW",
+   "name": "Malacca Straits Acquisition Company Limited - Warrants",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "MLACW"
+  },
+  {
+   "symbol": "NKEQ",
+   "name": "AXS 2X NKE Bear Daily ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "NKEQ"
+  },
+  {
+   "symbol": "TSLI",
+   "name": "GraniteShares 1x Short TSLA Daily ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "TSLI"
+  },
+  {
+   "symbol": "MLAC",
+   "name": "Malacca Straits Acquisition Company Limited - Class A Ordinary Shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "MLAC"
+  },
+  {
+   "symbol": "MLACU",
+   "name": "Malacca Straits Acquisition Company Limited - Units",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "MLACU"
+  }
+ ]
+}

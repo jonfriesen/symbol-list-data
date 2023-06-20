@@ -1,0 +1,36 @@
+{
+ "added": [
+  {
+   "symbol": "BANKETH",
+   "name": "BankEth (BANKETH)"
+  },
+  {
+   "symbol": "GETH",
+   "name": "Guarded Ether (GETH)"
+  },
+  {
+   "symbol": "WOID",
+   "name": "WORLD ID (WOID)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "DOGETH",
+   "name": "EtherDoge (DOGETH)"
+  },
+  {
+   "symbol": "STEPR",
+   "name": "Step (STEPR)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "GIGX",
+   "name": "GigXCoin (GIGX)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "KITA",
+   "name": "KITA INU (KITA)",
+   "built_on": "BNB"
+  }
+ ]
+}
