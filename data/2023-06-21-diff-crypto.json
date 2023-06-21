@@ -1,0 +1,75 @@
+{
+ "added": [
+  {
+   "symbol": "REDDIT",
+   "name": "Reddit (REDDIT)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "STEWIE",
+   "name": "Stewie Coin (STEWIE)"
+  },
+  {
+   "symbol": "4CHAN",
+   "name": "4Chan (4CHAN)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "BIG",
+   "name": "Big Eyes (BIG)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "RHINO",
+   "name": "RHINO (RHINO)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "FERC",
+   "name": "FairERC20 (FERC)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "VCORE",
+   "name": "VCORE (VCORE)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "MESSI",
+   "name": "MESSI COIN (MESSI)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "EML",
+   "name": "EML Protocol (EML)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "BANKETH",
+   "name": "BankEth (BANKETH)"
+  },
+  {
+   "symbol": "GETH",
+   "name": "Guarded Ether (GETH)"
+  },
+  {
+   "symbol": "LADYS",
+   "name": "Milady Meme Coin (LADYS)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "BEAI",
+   "name": "BeNFT Solutions (BEAI)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "SGO",
+   "name": "SafuuGO (SGO)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "DOGETH",
+   "name": "EtherDoge (DOGETH)"
+  }
+ ]
+}

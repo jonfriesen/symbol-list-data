@@ -1,0 +1,168 @@
+{
+ "added": [
+  {
+   "symbol": "CNJ.P",
+   "name": "CNJ Capital Investments Inc.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "CNJ.P.V",
+   "instruments": [
+    {
+     "name": "CNJ Capital Investments Inc.",
+     "symbol": "CNJ.P"
+    }
+   ]
+  },
+  {
+   "symbol": "DTWO",
+   "name": "D2 Lithium Corp.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "DTWO.V",
+   "instruments": [
+    {
+     "name": "D2 Lithium Corp.",
+     "symbol": "DTWO"
+    }
+   ]
+  },
+  {
+   "symbol": "QIPT",
+   "name": "Quipt Home Medical Corp.",
+   "exchange": "TSX",
+   "yahoo_symbol": "QIPT.TO",
+   "instruments": [
+    {
+     "name": "Quipt Home Medical J",
+     "symbol": "QIPT"
+    }
+   ]
+  },
+  {
+   "symbol": "DTI",
+   "name": "Drilling Tools International Holdings, Inc.  - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "DTI"
+  },
+  {
+   "symbol": "FDIF",
+   "name": "Fidelity Disruptors ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "FDIF"
+  },
+  {
+   "symbol": "BSAQ",
+   "name": "Black Spade Acquisition Co Class A Ordinary Shares",
+   "exchange": "NYSE MKT",
+   "yahoo_symbol": "BSAQ"
+  },
+  {
+   "symbol": "BSAQ.U",
+   "name": "Black Spade Acquisition Co Units, each consisting of one Class A ordinary share and one-half of one redeemable warrant",
+   "exchange": "NYSE MKT",
+   "yahoo_symbol": "BSAQ.U"
+  },
+  {
+   "symbol": "BSAQ.W",
+   "name": "Black Spade Acquisition Co Warrants",
+   "exchange": "NYSE MKT",
+   "yahoo_symbol": "BSAQ.W"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "ROCAU",
+   "name": "ROC Energy Acquisition Corp. - Unit",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "ROCAU"
+  },
+  {
+   "symbol": "BSAQ",
+   "name": "Black Spade Acquisition Co Class A Ordinary Shares",
+   "exchange": "NYSE",
+   "yahoo_symbol": "BSAQ"
+  },
+  {
+   "symbol": "RNDM",
+   "name": "Developed International Equity Select ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "RNDM"
+  },
+  {
+   "symbol": "BSAQ.W",
+   "name": "Black Spade Acquisition Co Warrants",
+   "exchange": "NYSE",
+   "yahoo_symbol": "BSAQ.W"
+  },
+  {
+   "symbol": "PAC",
+   "name": "Pacton Gold Inc.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "PAC.V",
+   "instruments": [
+    {
+     "name": "Pacton Gold Inc.",
+     "symbol": "PAC"
+    }
+   ]
+  },
+  {
+   "symbol": "QIPT",
+   "name": "Quipt Home Medical Corp.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "QIPT.V",
+   "instruments": [
+    {
+     "name": "Quipt Home Medical Corp.",
+     "symbol": "QIPT"
+    }
+   ]
+  },
+  {
+   "symbol": "ONCR",
+   "name": "Oncorus, Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "ONCR"
+  },
+  {
+   "symbol": "ROCAR",
+   "name": "ROC Energy Acquisition Corp. - Rights",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "ROCAR"
+  },
+  {
+   "symbol": "HX",
+   "name": "HeliosX Lithium \u0026 Technologies Corp.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "HX.V",
+   "instruments": [
+    {
+     "name": "HeliosX Lithium \u0026 Technologies Corp.",
+     "symbol": "HX"
+    }
+   ]
+  },
+  {
+   "symbol": "BSAQ.U",
+   "name": "Black Spade Acquisition Co Units, each consisting of one Class A ordinary share and one-half of one redeemable warrant",
+   "exchange": "NYSE",
+   "yahoo_symbol": "BSAQ.U"
+  },
+  {
+   "symbol": "ROCC",
+   "name": "Ranger Oil Corporation - Class A Common Stock",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "ROCC"
+  },
+  {
+   "symbol": "NHS.R",
+   "name": "Neuberger Berman High Yield Strategies Fund Rights (expiring June 21, 2023) Rights",
+   "exchange": "NYSE MKT",
+   "yahoo_symbol": "NHS.R"
+  },
+  {
+   "symbol": "ROC",
+   "name": "ROC Energy Acquisition Corp. - Common Stock",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "ROC"
+  }
+ ]
+}
