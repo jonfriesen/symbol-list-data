@@ -1,0 +1,64 @@
+{
+ "added": [
+  {
+   "symbol": "KUSA",
+   "name": "Kusa Inu (KUSA)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "GETH",
+   "name": "Guarded Ether (GETH)"
+  },
+  {
+   "symbol": "BANKETH",
+   "name": "BankEth (BANKETH)"
+  },
+  {
+   "symbol": "STRAY",
+   "name": "Stray Dog (STRAY)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "STEWIE",
+   "name": "Stewie Coin (STEWIE)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "UNLEASH",
+   "name": "UnleashClub (UNLEASH)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "UWU",
+   "name": "uwu (UWU)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "FXY",
+   "name": "Floxypay (FXY)"
+  },
+  {
+   "symbol": "DOGETH",
+   "name": "EtherDoge (DOGETH)"
+  },
+  {
+   "symbol": "BULLS",
+   "name": "Bull Coin (BULLS)",
+   "built_on": "ETH"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "STRAY",
+   "name": "Animal Token (STRAY)"
+  },
+  {
+   "symbol": "STEWIE",
+   "name": "Stewie Coin (STEWIE)"
+  },
+  {
+   "symbol": "BULLS",
+   "name": "BullshitCoin (BULLS)"
+  }
+ ]
+}

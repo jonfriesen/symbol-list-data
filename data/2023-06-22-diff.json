@@ -1,0 +1,66 @@
+{
+ "added": [
+  {
+   "symbol": "CISS",
+   "name": "C3is Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "CISS"
+  },
+  {
+   "symbol": "METCB",
+   "name": "Ramaco Resources, Inc. - Class B Common Stock",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "METCB"
+  },
+  {
+   "symbol": "MTBL",
+   "name": "Moatable, Inc. American Depositary Share (each representing forty-five (45) Class A Ordinary Shares)",
+   "exchange": "NYSE",
+   "yahoo_symbol": "MTBL"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "METCV",
+   "name": "Ramaco Resources, Inc. - Class A Common Stock Ex-Distribution When Issued",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "METCV"
+  },
+  {
+   "symbol": "IMPPV",
+   "name": "Imperial Petroleum Inc. - Ex-distribution When Issued",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "IMPPV"
+  },
+  {
+   "symbol": "RENN",
+   "name": "Renren Inc. American Depositary Shares, each representing fifteen Class A ordinary shares",
+   "exchange": "NYSE",
+   "yahoo_symbol": "RENN"
+  },
+  {
+   "symbol": "CISSV",
+   "name": "C3is Inc. - Common Stock When Issued",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "CISSV"
+  },
+  {
+   "symbol": "METBV",
+   "name": "Ramaco Resources, Inc. - Class B Common Stock When Issued",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "METBV"
+  },
+  {
+   "symbol": "CMMC",
+   "name": "Copper Mountain Mining Corporation",
+   "exchange": "TSX",
+   "yahoo_symbol": "CMMC.TO",
+   "instruments": [
+    {
+     "name": "Copper Mountain J",
+     "symbol": "CMMC"
+    }
+   ]
+  }
+ ]
+}
