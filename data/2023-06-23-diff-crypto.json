@@ -1,0 +1,76 @@
+{
+ "added": [
+  {
+   "symbol": "QUANT",
+   "name": "Quant Finance (QUANT)"
+  },
+  {
+   "symbol": "FXY",
+   "name": "Floxypay (FXY)",
+   "built_on": "MATIC"
+  },
+  {
+   "symbol": "DOGETH",
+   "name": "EtherDoge (DOGETH)"
+  },
+  {
+   "symbol": "HOBO",
+   "name": "HOBO THE BEAR (HOBO)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "KWENTA",
+   "name": "Kwenta (KWENTA)",
+   "built_on": "OP"
+  },
+  {
+   "symbol": "G",
+   "name": "GRN Grid (G)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "LITHO",
+   "name": "Lithosphere (LITHO)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "ASTRAFER",
+   "name": "Astrafer (ASTRAFER)",
+   "built_on": "MATIC"
+  },
+  {
+   "symbol": "X",
+   "name": "X Coin (X)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "BANKETH",
+   "name": "BankEth (BANKETH)"
+  },
+  {
+   "symbol": "PAAL",
+   "name": "PAAL AI (PAAL)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "GPBP",
+   "name": "Genius Playboy Billionaire Philanthropist (GPBP)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "SCAM",
+   "name": "Scam Coin (SCAM)",
+   "built_on": "ETH"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "FXY",
+   "name": "Floxypay (FXY)"
+  },
+  {
+   "symbol": "LITHO",
+   "name": "Lithosphere (LITHO)"
+  }
+ ]
+}

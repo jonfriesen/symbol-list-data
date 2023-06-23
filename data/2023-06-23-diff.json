@@ -1,0 +1,96 @@
+{
+ "added": [
+  {
+   "symbol": "KALM.P",
+   "name": "Kalma Capital Corp.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "KALM.P.V",
+   "instruments": [
+    {
+     "name": "Kalma Capital Corp.",
+     "symbol": "KALM.P"
+    }
+   ]
+  },
+  {
+   "symbol": "ZWQT",
+   "name": "BMO Global Enhanced Income Fund",
+   "exchange": "TSX",
+   "yahoo_symbol": "ZWQT.TO",
+   "instruments": [
+    {
+     "name": "BMO Glbl Enhanc Incm",
+     "symbol": "ZWQT"
+    }
+   ]
+  },
+  {
+   "symbol": "ZUGE",
+   "name": "BMO U.S. Equity Growth MFR Fund",
+   "exchange": "TSX",
+   "yahoo_symbol": "ZUGE.TO",
+   "instruments": [
+    {
+     "name": "BMO US Eqty GrowMFR",
+     "symbol": "ZUGE"
+    }
+   ]
+  },
+  {
+   "symbol": "ZUVE",
+   "name": "BMO U.S. Equity Value MFR Fund",
+   "exchange": "TSX",
+   "yahoo_symbol": "ZUVE.TO",
+   "instruments": [
+    {
+     "name": "BMO US Eqty Val MFR",
+     "symbol": "ZUVE"
+    }
+   ]
+  },
+  {
+   "symbol": "VFLO",
+   "name": "VictoryShares Free Cash Flow ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "VFLO"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "JUGGU",
+   "name": "Jaws Juggernaut Acquisition Corporation - Unit",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "JUGGU"
+  },
+  {
+   "symbol": "JUGG",
+   "name": "Jaws Juggernaut Acquisition Corporation - Class A Ordinary Share",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "JUGG"
+  },
+  {
+   "symbol": "RGX",
+   "name": "Regenx Tech Corp.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "RGX.V",
+   "instruments": [
+    {
+     "name": "Regenx Tech Corp.",
+     "symbol": "RGX"
+    }
+   ]
+  },
+  {
+   "symbol": "JUGGW",
+   "name": "Jaws Juggernaut Acquisition Corporation - Warrant",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "JUGGW"
+  },
+  {
+   "symbol": "HEXO",
+   "name": "HEXO Corp. - Common Shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "HEXO"
+  }
+ ]
+}
