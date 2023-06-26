@@ -1,0 +1,32 @@
+{
+ "added": [
+  {
+   "symbol": "QUANT",
+   "name": "Quant Finance (QUANT)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "DOGETH",
+   "name": "EtherDoge (DOGETH)"
+  },
+  {
+   "symbol": "BANKETH",
+   "name": "BankEth (BANKETH)"
+  },
+  {
+   "symbol": "X",
+   "name": "X Coin (X)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "GETH",
+   "name": "Guarded Ether (GETH)"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "QUANT",
+   "name": "Quant Finance (QUANT)"
+  }
+ ]
+}

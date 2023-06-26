@@ -1,0 +1,114 @@
+{
+ "added": [
+  {
+   "symbol": "CSLM",
+   "name": "Consilium Acquisition Corp I, Ltd. - Class A Ordinary Share",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "CSLM"
+  },
+  {
+   "symbol": "CSLMR",
+   "name": "Consilium Acquisition Corp I, Ltd. - Right",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "CSLMR"
+  },
+  {
+   "symbol": "CSLMU",
+   "name": "Consilium Acquisition Corp I, Ltd. - Unit",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "CSLMU"
+  },
+  {
+   "symbol": "CSLMW",
+   "name": "Consilium Acquisition Corp I, Ltd. - Warrant",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "CSLMW"
+  },
+  {
+   "symbol": "ICOP",
+   "name": "iShares Copper and Metals Mining ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "ICOP"
+  },
+  {
+   "symbol": "ILIT",
+   "name": "iShares Lithium Miners and Producers ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "ILIT"
+  },
+  {
+   "symbol": "TOON",
+   "name": "Kartoon Studios, Inc. Common Stock",
+   "exchange": "NYSE MKT",
+   "yahoo_symbol": "TOON"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "CSLMW",
+   "name": "Consilium Acquisition Corp I, Ltd. - Warrant",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "CSLMW"
+  },
+  {
+   "symbol": "CSLM",
+   "name": "Consilium Acquisition Corp I, Ltd. - Class A Ordinary Share",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "CSLM"
+  },
+  {
+   "symbol": "ALTIW",
+   "name": "AlTi Global, Inc. - Warrant",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "ALTIW"
+  },
+  {
+   "symbol": "CSLMU",
+   "name": "Consilium Acquisition Corp I, Ltd. - Unit",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "CSLMU"
+  },
+  {
+   "symbol": "ONCS",
+   "name": "OncoSec Medical Incorporated - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "ONCS"
+  },
+  {
+   "symbol": "NIQ",
+   "name": "Nuveenn Intermediate Duration Quality Municipal Term Fund Common Shares of Beneficial Interest",
+   "exchange": "NYSE",
+   "yahoo_symbol": "NIQ"
+  },
+  {
+   "symbol": "FXCO",
+   "name": "Financial Strategies Acquisition Corp. - Class A Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "FXCO"
+  },
+  {
+   "symbol": "FXCOW",
+   "name": "Financial Strategies Acquisition Corp. - Warrants",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "FXCOW"
+  },
+  {
+   "symbol": "GNUS",
+   "name": "Genius Brands International, Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "GNUS"
+  },
+  {
+   "symbol": "CSLMR",
+   "name": "Consilium Acquisition Corp I, Ltd. - Right",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "CSLMR"
+  },
+  {
+   "symbol": "FXCOR",
+   "name": "Financial Strategies Acquisition Corp. - Rights",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "FXCOR"
+  }
+ ]
+}
