@@ -1,0 +1,47 @@
+{
+ "added": [
+  {
+   "symbol": "FUMO",
+   "name": "Alien Milady Fumo (FUMO)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "SHS",
+   "name": "SHEESH (SHS)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "G",
+   "name": "GRN Grid (G)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "HIPPO",
+   "name": "HIPPO (HIPPO)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "ALINK",
+   "name": "Aave LINK v1 (ALINK)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "9GAG",
+   "name": "9GAG (9GAG)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "DOG",
+   "name": "The Doge NFT (DOG)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "XETH",
+   "name": "Xplosive Ethereum (XETH)"
+  },
+  {
+   "symbol": "BANKETH",
+   "name": "BankEth (BANKETH)"
+  }
+ ]
+}

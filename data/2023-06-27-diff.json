@@ -1,0 +1,76 @@
+{
+ "added": [
+  {
+   "symbol": "HEXO.WT.A",
+   "name": "HEXO Corp.",
+   "exchange": "TSX",
+   "yahoo_symbol": "HEXO.WT.A.TO",
+   "instruments": [
+    {
+     "name": "HEXO Corp. A Wt ",
+     "symbol": "HEXO.WT.A"
+    }
+   ]
+  },
+  {
+   "symbol": "ALCY",
+   "name": "Alchemy Investments Acquisition Corp 1 - Class A Ordinary Shares",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "ALCY"
+  },
+  {
+   "symbol": "ALCYW",
+   "name": "Alchemy Investments Acquisition Corp 1 - Warrants",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "ALCYW"
+  },
+  {
+   "symbol": "ALLR",
+   "name": "Allarity Therapeutics, Inc. - Common stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "ALLR"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "ALLR",
+   "name": "Allarity Therapeutics, Inc. - Common stock",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "ALLR"
+  },
+  {
+   "symbol": "THCHW",
+   "name": "TH International Limited - Warrant",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "THCHW"
+  },
+  {
+   "symbol": "UP.W",
+   "name": "Wheels Up Experience Inc. Warrants",
+   "exchange": "NYSE",
+   "yahoo_symbol": "UP.W"
+  },
+  {
+   "symbol": "HEXO",
+   "name": "HEXO Corp.",
+   "exchange": "TSX",
+   "yahoo_symbol": "HEXO.TO",
+   "instruments": [
+    {
+     "name": "HEXO Corp.",
+     "symbol": "HEXO"
+    },
+    {
+     "name": "HEXO Corp. A Wt ",
+     "symbol": "HEXO.WT.A"
+    }
+   ]
+  },
+  {
+   "symbol": "CTIC",
+   "name": "CTI BioPharma Corp. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "CTIC"
+  }
+ ]
+}
