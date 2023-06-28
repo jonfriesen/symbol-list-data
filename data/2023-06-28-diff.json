@@ -1,0 +1,114 @@
+{
+ "added": [
+  {
+   "symbol": "CLM",
+   "name": "Consolidated Lithium Metals Inc.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "CLM.V",
+   "instruments": [
+    {
+     "name": "Consolidated Lithium Metals Inc.",
+     "symbol": "CLM"
+    }
+   ]
+  },
+  {
+   "symbol": "MDK.P",
+   "name": "MDK Acquisition Inc.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "MDK.P.V",
+   "instruments": [
+    {
+     "name": "MDK Acquisition Inc.",
+     "symbol": "MDK.P"
+    }
+   ]
+  },
+  {
+   "symbol": "KYCH",
+   "name": "Keyarch Acquisition Corporation - Ordinary Shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "KYCH"
+  },
+  {
+   "symbol": "KYCHR",
+   "name": "Keyarch Acquisition Corporation - Rights",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "KYCHR"
+  },
+  {
+   "symbol": "KYCHU",
+   "name": "Keyarch Acquisition Corporation - Unit",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "KYCHU"
+  },
+  {
+   "symbol": "KYCHW",
+   "name": "Keyarch Acquisition Corporation - Warrant",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "KYCHW"
+  },
+  {
+   "symbol": "BWA.V",
+   "name": "BorgWarner Inc. Common Stock When-Issued",
+   "exchange": "NYSE",
+   "yahoo_symbol": "BWA.V"
+  },
+  {
+   "symbol": "NE.A",
+   "name": "Noble Corporation plc Tranche 2 Warrants",
+   "exchange": "NYSE",
+   "yahoo_symbol": "NE.A"
+  },
+  {
+   "symbol": "NE.W",
+   "name": "Noble Corporation plc Tranche 1 Warrants",
+   "exchange": "NYSE",
+   "yahoo_symbol": "NE.W"
+  },
+  {
+   "symbol": "PHIN.V",
+   "name": "PHINIA Inc. Common Stock When-Issued",
+   "exchange": "NYSE",
+   "yahoo_symbol": "PHIN.V"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "KYCHU",
+   "name": "Keyarch Acquisition Corporation - Unit",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "KYCHU"
+  },
+  {
+   "symbol": "JOR",
+   "name": "Jourdan Resources Inc.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "JOR.V",
+   "instruments": [
+    {
+     "name": "Jourdan Resources Inc",
+     "symbol": "JOR"
+    }
+   ]
+  },
+  {
+   "symbol": "KYCHW",
+   "name": "Keyarch Acquisition Corporation - Warrant",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "KYCHW"
+  },
+  {
+   "symbol": "KYCHR",
+   "name": "Keyarch Acquisition Corporation - Rights",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "KYCHR"
+  },
+  {
+   "symbol": "KYCH",
+   "name": "Keyarch Acquisition Corporation - Ordinary Shares",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "KYCH"
+  }
+ ]
+}

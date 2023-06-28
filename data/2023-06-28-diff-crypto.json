@@ -1,0 +1,55 @@
+{
+ "added": [
+  {
+   "symbol": "TOX",
+   "name": "INTOverse (TOX)"
+  },
+  {
+   "symbol": "420CHAN",
+   "name": "420chan (420CHAN)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "TOMI",
+   "name": "tomiNet (TOMI)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "PEPE20",
+   "name": "Pepe 2.0 (PEPE20)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "KUJI",
+   "name": "Kujira (KUJI)"
+  },
+  {
+   "symbol": "AKNC",
+   "name": "Aave KNC v1 (AKNC)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "X",
+   "name": "X Coin (X)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "DOG",
+   "name": "The Doge NFT (DOG)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "GETH",
+   "name": "Guarded Ether (GETH)"
+  },
+  {
+   "symbol": "BANKETH",
+   "name": "BankEth (BANKETH)"
+  },
+  {
+   "symbol": "AUSDC",
+   "name": "Aave USDC v1 (AUSDC)",
+   "built_on": "ETH"
+  }
+ ]
+}
