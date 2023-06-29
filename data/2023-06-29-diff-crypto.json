@@ -1,0 +1,61 @@
+{
+ "added": [
+  {
+   "symbol": "MIRACLE",
+   "name": "MIRACLE (MIRACLE)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "AETH",
+   "name": "Aave ETH (AETH)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "MAV",
+   "name": "Maverick Protocol (MAV)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "WPLS",
+   "name": "Wrapped Pulse (WPLS)"
+  },
+  {
+   "symbol": "FAKE",
+   "name": "FAKE COIN (FAKE)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "BANKETH",
+   "name": "BankEth (BANKETH)"
+  },
+  {
+   "symbol": "POKEMON",
+   "name": "Pokemon (POKEMON)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "MULTIV",
+   "name": "Multiverse (MULTIV)"
+  },
+  {
+   "symbol": "DOG",
+   "name": "The Doge NFT (DOG)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "X",
+   "name": "X Coin (X)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "GETH",
+   "name": "Guarded Ether (GETH)"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "AETH",
+   "name": "Aave ETH (AETH)"
+  }
+ ]
+}

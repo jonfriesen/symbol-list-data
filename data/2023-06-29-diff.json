@@ -1,0 +1,198 @@
+{
+ "added": [
+  {
+   "symbol": "FIHL",
+   "name": "Fidelis Insurance Holdings Limited Common Shares",
+   "exchange": "NYSE",
+   "yahoo_symbol": "FIHL"
+  },
+  {
+   "symbol": "KGS",
+   "name": "Kodiak Gas Services, Inc. Common Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "KGS"
+  },
+  {
+   "symbol": "SVV",
+   "name": "Savers Value Village, Inc. Common Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "SVV"
+  },
+  {
+   "symbol": "AIVC",
+   "name": "AI Artificial Intelligence Ventures Inc.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "AIVC.V",
+   "instruments": [
+    {
+     "name": "AI Artificial Intelligence Ventures Inc.",
+     "symbol": "AIVC"
+    }
+   ]
+  },
+  {
+   "symbol": "BCC",
+   "name": "Benz Capital Corp.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "BCC.V",
+   "instruments": [
+    {
+     "name": "Benz Capital Corp.",
+     "symbol": "BCC"
+    }
+   ]
+  },
+  {
+   "symbol": "BIRD",
+   "name": "Thunderbird Minerals Corp.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "BIRD.V",
+   "instruments": [
+    {
+     "name": "Thunderbird Minerals Corp.",
+     "symbol": "BIRD"
+    }
+   ]
+  },
+  {
+   "symbol": "UPT.P",
+   "name": "Upstart Investments Inc.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "UPT.P.V",
+   "instruments": [
+    {
+     "name": "Upstart Investments Inc.",
+     "symbol": "UPT.P"
+    }
+   ]
+  },
+  {
+   "symbol": "BUJAU",
+   "name": "Bukit Jalil Global Acquisition 1 Ltd. - Unit",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "BUJAU"
+  },
+  {
+   "symbol": "GENK",
+   "name": "GEN Restaurant Group, Inc. - Class A Common Stock",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "GENK"
+  },
+  {
+   "symbol": "GODN",
+   "name": "Golden Star Acquisition Corporation - Ordinary Shares",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "GODN"
+  },
+  {
+   "symbol": "GODNR",
+   "name": "Golden Star Acquisition Corporation - Rights",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "GODNR"
+  },
+  {
+   "symbol": "JG",
+   "name": "Aurora Mobile Limited - American Depositary Shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "JG"
+  },
+  {
+   "symbol": "PHXM",
+   "name": "PHAXIAM Therapeutics S.A. - American Depositary Shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "PHXM"
+  },
+  {
+   "symbol": "XOS",
+   "name": "Xos, Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "XOS"
+  },
+  {
+   "symbol": "XOSWW",
+   "name": "Xos, Inc. - Warrants",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "XOSWW"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "BCC.P",
+   "name": "Benz Capital Corp.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "BCC.P.V",
+   "instruments": [
+    {
+     "name": "Benz Capital Corp.",
+     "symbol": "BCC.P"
+    }
+   ]
+  },
+  {
+   "symbol": "XM",
+   "name": "Qualtrics International Inc. - Class A Common Stock",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "XM"
+  },
+  {
+   "symbol": "ERYP",
+   "name": "Erytech Pharma S.A. - American Depositary Shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "ERYP"
+  },
+  {
+   "symbol": "MVM",
+   "name": "MillenMin Ventures Inc.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "MVM.V",
+   "instruments": [
+    {
+     "name": "MillenMin Ventures Inc",
+     "symbol": "MVM"
+    }
+   ]
+  },
+  {
+   "symbol": "XOSWW",
+   "name": "Xos, Inc. - Warrants",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "XOSWW"
+  },
+  {
+   "symbol": "ENTXW",
+   "name": "Entera Bio Ltd. - Warrant",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "ENTXW"
+  },
+  {
+   "symbol": "ESGW",
+   "name": "ESG Global Impact Capital Inc.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "ESGW.V",
+   "instruments": [
+    {
+     "name": "ESG Global Impact Capital Inc",
+     "symbol": "ESGW"
+    }
+   ]
+  },
+  {
+   "symbol": "BLU",
+   "name": "BELLUS Health Inc. - Common Shares",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "BLU"
+  },
+  {
+   "symbol": "XOS",
+   "name": "Xos, Inc. - Common Stock",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "XOS"
+  },
+  {
+   "symbol": "JG",
+   "name": "Aurora Mobile Limited - American Depositary Shares",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "JG"
+  }
+ ]
+}
