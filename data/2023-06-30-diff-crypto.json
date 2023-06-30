@@ -1,0 +1,30 @@
+{
+ "added": [
+  {
+   "symbol": "BANKETH",
+   "name": "BankEth (BANKETH)"
+  },
+  {
+   "symbol": "XETH",
+   "name": "Xplosive Ethereum (XETH)"
+  },
+  {
+   "symbol": "GETH",
+   "name": "Guarded Ether (GETH)"
+  },
+  {
+   "symbol": "DOGETH",
+   "name": "EtherDoge (DOGETH)"
+  },
+  {
+   "symbol": "MONG20",
+   "name": "Mongoose 2.0 (MONG20)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "MOTG",
+   "name": "MetaOctagon (MOTG)",
+   "built_on": "ETH"
+  }
+ ]
+}

@@ -1,0 +1,66 @@
+{
+ "added": [
+  {
+   "symbol": "VTMX",
+   "name": "Corporacion Inmobiliaria Vesta, S.A.B de C.V. American Depositary Shares, each representing ten (10) Common Shares",
+   "exchange": "NYSE",
+   "yahoo_symbol": "VTMX"
+  },
+  {
+   "symbol": "IBTO",
+   "name": "iShares iBonds Dec 2033 Term Treasury ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "IBTO"
+  },
+  {
+   "symbol": "RTC",
+   "name": "Baijiayun Group Ltd - Class Ordinary Shares",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "RTC"
+  },
+  {
+   "symbol": "SNCE",
+   "name": "Science 37 Holdings, Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "SNCE"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "RTC",
+   "name": "Baijiayun Group Ltd - Class Ordinary Shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "RTC"
+  },
+  {
+   "symbol": "BLU",
+   "name": "BELLUS Health Inc.",
+   "exchange": "TSX",
+   "yahoo_symbol": "BLU.TO",
+   "instruments": [
+    {
+     "name": "BELLUS Health Inc.",
+     "symbol": "BLU"
+    }
+   ]
+  },
+  {
+   "symbol": "INDT",
+   "name": "INDUS Realty Trust, Inc. - Common Stock",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "INDT"
+  },
+  {
+   "symbol": "BBLN",
+   "name": "Babylon Holdings Limited Class A Ordinary Shares",
+   "exchange": "NYSE",
+   "yahoo_symbol": "BBLN"
+  },
+  {
+   "symbol": "SNCE",
+   "name": "Science 37 Holdings, Inc. - Common Stock",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "SNCE"
+  }
+ ]
+}
