@@ -1,0 +1,144 @@
+{
+ "added": [
+  {
+   "symbol": "AENT",
+   "name": "Alliance Entertainment Holding Corporation - common stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "AENT"
+  },
+  {
+   "symbol": "AENTW",
+   "name": "Alliance Entertainment Holding Corporation - Warrants",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "AENTW"
+  },
+  {
+   "symbol": "BGC",
+   "name": "BGC Group, Inc. - Class A Common Stock",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "BGC"
+  },
+  {
+   "symbol": "BTM",
+   "name": "Bitcoin Depot Inc. - Class A Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "BTM"
+  },
+  {
+   "symbol": "BTMWW",
+   "name": "Bitcoin Depot Inc. - Warrant",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "BTMWW"
+  },
+  {
+   "symbol": "FTRE",
+   "name": "Fortrea Holdings Inc. - Common Stock",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "FTRE"
+  },
+  {
+   "symbol": "INTS",
+   "name": "Intensity Therapeutics, Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "INTS"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "EOCW",
+   "name": "Elliott Opportunity II Corp. Class A Ordinary Shares",
+   "exchange": "NYSE",
+   "yahoo_symbol": "EOCW"
+  },
+  {
+   "symbol": "BNSO",
+   "name": "Bonso Electronics International, Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "BNSO"
+  },
+  {
+   "symbol": "LH.V",
+   "name": "Laboratory Corporation of America Holdings Common Stock When-Issued",
+   "exchange": "NYSE",
+   "yahoo_symbol": "LH.V"
+  },
+  {
+   "symbol": "BGCP",
+   "name": "BGC Partners, Inc. - Class A Common Stock",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "BGCP"
+  },
+  {
+   "symbol": "GSRMR",
+   "name": "GSR II Meteora Acquisition Corp. - Right",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "GSRMR"
+  },
+  {
+   "symbol": "EOCW.U",
+   "name": "Elliott Opportunity II Corp. Units, each consisting of one Class A ordinary share and one-fourth of one redeemable warrant",
+   "exchange": "NYSE",
+   "yahoo_symbol": "EOCW.U"
+  },
+  {
+   "symbol": "USX",
+   "name": "U.S. Xpress Enterprises, Inc. Class A Common Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "USX"
+  },
+  {
+   "symbol": "DNAD",
+   "name": "Social Capital Suvretta Holdings Corp. IV - Class A Ordinary Shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "DNAD"
+  },
+  {
+   "symbol": "GSRM",
+   "name": "GSR II Meteora Acquisition Corp. - Class A Common Stock",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "GSRM"
+  },
+  {
+   "symbol": "GSRMU",
+   "name": "GSR II Meteora Acquisition Corp. - Unit",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "GSRMU"
+  },
+  {
+   "symbol": "SRGA",
+   "name": "Surgalign Holdings, Inc. - Common Stock",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "SRGA"
+  },
+  {
+   "symbol": "IIVI",
+   "name": "Coherent Corp. 6.00% Series A Mandatory Convertible Preferred Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "IIVI"
+  },
+  {
+   "symbol": "TCFC",
+   "name": "The Community Financial Corporation - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "TCFC"
+  },
+  {
+   "symbol": "DNAB",
+   "name": "Social Capital Suvretta Holdings Corp. II - Class A Ordinary Shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "DNAB"
+  },
+  {
+   "symbol": "GSRMW",
+   "name": "GSR II Meteora Acquisition Corp. - Warrant",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "GSRMW"
+  },
+  {
+   "symbol": "FTREV",
+   "name": "Fortrea Holdings Inc. - Common Stock When Issued",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "FTREV"
+  }
+ ]
+}

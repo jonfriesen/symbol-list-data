@@ -1,0 +1,58 @@
+{
+ "added": [
+  {
+   "symbol": "ALPHA",
+   "name": "Alpha Finance Lab (ALPHA)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "PINO",
+   "name": "Pinocchu (PINO)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "SELF",
+   "name": "SELFCrypto (SELF)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "JARED",
+   "name": "Jared From Subway (JARED)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "RAP",
+   "name": "Philosoraptor (RAP)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "G",
+   "name": "GRN Grid (G)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "BANKETH",
+   "name": "BankEth (BANKETH)"
+  },
+  {
+   "symbol": "DOGETH",
+   "name": "EtherDoge (DOGETH)"
+  },
+  {
+   "symbol": "X",
+   "name": "X Coin (X)",
+   "built_on": "ETH"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "RAP",
+   "name": "Rapture (RAP)"
+  },
+  {
+   "symbol": "ALPHA",
+   "name": "Alpha Finance Lab (ALPHA)",
+   "built_on": "ETH"
+  }
+ ]
+}
