@@ -1,0 +1,126 @@
+{
+ "added": [
+  {
+   "symbol": "GNFI",
+   "name": "Genifi Inc.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "GNFI.V",
+   "instruments": [
+    {
+     "name": "Genifi Inc.",
+     "symbol": "GNFI"
+    }
+   ]
+  },
+  {
+   "symbol": "CHE.DB.E",
+   "name": "Chemtrade Logistics Income Fund",
+   "exchange": "TSX",
+   "yahoo_symbol": "CHE.DB.E.TO",
+   "instruments": [
+    {
+     "name": "Chemtrade Lgst6.5Deb",
+     "symbol": "CHE.DB.E"
+    },
+    {
+     "name": "Chemtrade Lgst 8.5Db",
+     "symbol": "CHE.DB.F"
+    },
+    {
+     "name": "Chemtrade Lgst6.25Db",
+     "symbol": "CHE.DB.G"
+    },
+    {
+     "name": "Chemtrade Lgst 7% Db",
+     "symbol": "CHE.DB.H"
+    },
+    {
+     "name": "Chemtrade Logistc Un",
+     "symbol": "CHE.UN"
+    }
+   ]
+  },
+  {
+   "symbol": "TSND",
+   "name": "TerrAscend Corp.",
+   "exchange": "TSX",
+   "yahoo_symbol": "TSND.TO",
+   "instruments": [
+    {
+     "name": "TerrAscend Corp. J",
+     "symbol": "TSND"
+    }
+   ]
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "XYZ",
+   "name": "Anacortes Mining Corp.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "XYZ.V",
+   "instruments": [
+    {
+     "name": "Anacortes Mining Corp.",
+     "symbol": "XYZ"
+    }
+   ]
+  },
+  {
+   "symbol": "CHE.DB.D",
+   "name": "Chemtrade Logistics Income Fund",
+   "exchange": "TSX",
+   "yahoo_symbol": "CHE.DB.D.TO",
+   "instruments": [
+    {
+     "name": "Chemtrade Lgst4.75Db",
+     "symbol": "CHE.DB.D"
+    },
+    {
+     "name": "Chemtrade Lgst6.5Deb",
+     "symbol": "CHE.DB.E"
+    },
+    {
+     "name": "Chemtrade Lgst 8.5Db",
+     "symbol": "CHE.DB.F"
+    },
+    {
+     "name": "Chemtrade Lgst6.25Db",
+     "symbol": "CHE.DB.G"
+    },
+    {
+     "name": "Chemtrade Lgst 7% Db",
+     "symbol": "CHE.DB.H"
+    },
+    {
+     "name": "Chemtrade Logistc Un",
+     "symbol": "CHE.UN"
+    }
+   ]
+  },
+  {
+   "symbol": "PGV",
+   "name": "Prodigy Ventures Inc.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "PGV.V",
+   "instruments": [
+    {
+     "name": "Prodigy Ventures Inc.",
+     "symbol": "PGV"
+    }
+   ]
+  },
+  {
+   "symbol": "SGI",
+   "name": "Superior Gold Inc.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "SGI.V",
+   "instruments": [
+    {
+     "name": "Superior Gold Inc.",
+     "symbol": "SGI"
+    }
+   ]
+  }
+ ]
+}

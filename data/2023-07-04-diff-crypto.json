@@ -1,0 +1,100 @@
+{
+ "added": [
+  {
+   "symbol": "CVAULT",
+   "name": "cVault.finance (CVAULT)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "WOO",
+   "name": "WOO Network (WOO)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "LM",
+   "name": "LeisureMeta (LM)"
+  },
+  {
+   "symbol": "MULTIV",
+   "name": "Multiverse (MULTIV)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "CORE",
+   "name": "Coreum (CORE)"
+  },
+  {
+   "symbol": "BANKETH",
+   "name": "BankEth (BANKETH)"
+  },
+  {
+   "symbol": "DEEZ",
+   "name": "DEEZ NUTS (DEEZ)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "BAD",
+   "name": "Bad Idea AI (BAD)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "LMTOKEN",
+   "name": "LM Token (LMTOKEN)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "DOGETH",
+   "name": "EtherDoge (DOGETH)"
+  },
+  {
+   "symbol": "X",
+   "name": "X Coin (X)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "COMBO",
+   "name": "Furucombo (COMBO)"
+  },
+  {
+   "symbol": "GETH",
+   "name": "Guarded Ether (GETH)"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "COMBO",
+   "name": "Furucombo (COMBO)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "LMTOKEN",
+   "name": "LM Token (LMTOKEN)"
+  },
+  {
+   "symbol": "PNP",
+   "name": "LogisticsX (PNP)"
+  },
+  {
+   "symbol": "WOO",
+   "name": "WOO Network (WOO)"
+  },
+  {
+   "symbol": "MULTIV",
+   "name": "Multiverse (MULTIV)"
+  },
+  {
+   "symbol": "LM",
+   "name": "LeisureMeta (LM)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "CVAULT",
+   "name": "cVault.finance (CVAULT)"
+  },
+  {
+   "symbol": "CORE",
+   "name": "Coreum (CORE)",
+   "built_on": "ETH"
+  }
+ ]
+}
