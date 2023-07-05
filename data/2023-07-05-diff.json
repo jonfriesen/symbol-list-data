@@ -1,0 +1,102 @@
+{
+ "added": [
+  {
+   "symbol": "SNYB",
+   "name": "Shiny Health \u0026 Wellness Corp.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "SNYB.V",
+   "instruments": [
+    {
+     "name": "Shiny Health \u0026 Wellness Corp.",
+     "symbol": "SNYB"
+    }
+   ]
+  },
+  {
+   "symbol": "ABL",
+   "name": "Abacus Life, Inc. - Class A Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "ABL"
+  },
+  {
+   "symbol": "ABLLW",
+   "name": "Abacus Life, Inc. - Warrant",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "ABLLW"
+  },
+  {
+   "symbol": "SNCR",
+   "name": "Synchronoss Technologies, Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "SNCR"
+  },
+  {
+   "symbol": "PHIN",
+   "name": "PHINIA Inc. Common Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "PHIN"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "ERESU",
+   "name": "East Resources Acquisition Company - Unit",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "ERESU"
+  },
+  {
+   "symbol": "PHIN.V",
+   "name": "PHINIA Inc. Common Stock When-Issued",
+   "exchange": "NYSE",
+   "yahoo_symbol": "PHIN.V"
+  },
+  {
+   "symbol": "MOS",
+   "name": "Mobi724 Global Solutions Inc.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "MOS.V",
+   "instruments": [
+    {
+     "name": "MOBI724 Global Solutions Inc.",
+     "symbol": "MOS"
+    }
+   ]
+  },
+  {
+   "symbol": "SNCR",
+   "name": "Synchronoss Technologies, Inc. - Common Stock",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "SNCR"
+  },
+  {
+   "symbol": "GRNT.W",
+   "name": "Granite Ridge Resources, Inc. Warrants to purchase Common Stock, each whole warrant exercisable for one share of common stock at an exercise price of $11.50 per share",
+   "exchange": "NYSE",
+   "yahoo_symbol": "GRNT.W"
+  },
+  {
+   "symbol": "ERES",
+   "name": "East Resources Acquisition Company - Class A Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "ERES"
+  },
+  {
+   "symbol": "BWA.V",
+   "name": "BorgWarner Inc. Common Stock When-Issued",
+   "exchange": "NYSE",
+   "yahoo_symbol": "BWA.V"
+  },
+  {
+   "symbol": "ERESW",
+   "name": "East Resources Acquisition Company - Warrant",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "ERESW"
+  },
+  {
+   "symbol": "SQZ",
+   "name": "SQZ Biotechnologies Company Common Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "SQZ"
+  }
+ ]
+}
