@@ -1,0 +1,182 @@
+{
+ "added": [
+  {
+   "symbol": "APRE",
+   "name": "Aprea Therapeutics, Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "APRE"
+  },
+  {
+   "symbol": "CNCL",
+   "name": "Horizons Enhanced Canadian Large Cap Equity Covered Call ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "CNCL.TO",
+   "instruments": [
+    {
+     "name": "Horizn CdnLgCpEqCvCl",
+     "symbol": "CNCL"
+    }
+   ]
+  },
+  {
+   "symbol": "BNKL",
+   "name": "Horizons Enhanced Equal Weight Banks Index ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "BNKL.TO",
+   "instruments": [
+    {
+     "name": "Horizn EnEqWgtBnkIdx",
+     "symbol": "BNKL"
+    }
+   ]
+  },
+  {
+   "symbol": "BKCL",
+   "name": "Horizons Enhanced Equal Weight Canadian Banks Covered Call ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "BKCL.TO",
+   "instruments": [
+    {
+     "name": "Horizn =WgtCdnBkCall",
+     "symbol": "BKCL"
+    }
+   ]
+  },
+  {
+   "symbol": "CANL",
+   "name": "Horizons Enhanced S\u0026P/TSX 60 Index ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "CANL.TO",
+   "instruments": [
+    {
+     "name": "Horizn EnhnS\u0026P/TSX60",
+     "symbol": "CANL"
+    }
+   ]
+  },
+  {
+   "symbol": "USCL",
+   "name": "Horizons Enhanced US Large Cap Equity Covered Call ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "USCL.TO",
+   "instruments": [
+    {
+     "name": "HoriznUS LgCpEqCvrCl",
+     "symbol": "USCL"
+    }
+   ]
+  },
+  {
+   "symbol": "HBNK",
+   "name": "Horizons Equal Weight Banks Index ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "HBNK.TO",
+   "instruments": [
+    {
+     "name": "Horizn EqWgtBanksIdx",
+     "symbol": "HBNK"
+    }
+   ]
+  },
+  {
+   "symbol": "URC",
+   "name": "Uranium Royalty Corp.",
+   "exchange": "TSX",
+   "yahoo_symbol": "URC.TO",
+   "instruments": [
+    {
+     "name": "Uranium Rylty Corp J",
+     "symbol": "URC"
+    },
+    {
+     "name": "Uranium Rylty J Wt",
+     "symbol": "URC.WT"
+    }
+   ]
+  },
+  {
+   "symbol": "LZM",
+   "name": "Lifezone Metals Limited Ordinary Shares",
+   "exchange": "NYSE",
+   "yahoo_symbol": "LZM"
+  },
+  {
+   "symbol": "LZM.W",
+   "name": "Lifezone Metals Limited Warrants",
+   "exchange": "NYSE",
+   "yahoo_symbol": "LZM.W"
+  },
+  {
+   "symbol": "OBDC",
+   "name": "Blue Owl Capital Corporation Common Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "OBDC"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "GER",
+   "name": "Goldman Sachs MLP Energy Renaissance Fund",
+   "exchange": "NYSE",
+   "yahoo_symbol": "GER"
+  },
+  {
+   "symbol": "URC",
+   "name": "Uranium Royalty Corp.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "URC.V",
+   "instruments": [
+    {
+     "name": "Uranium Royalty Corp.",
+     "symbol": "URC"
+    },
+    {
+     "name": "Uranium Royalty Corp. wt 06Dec2024",
+     "symbol": "URC.WT"
+    }
+   ]
+  },
+  {
+   "symbol": "APRE",
+   "name": "Aprea Therapeutics, Inc. - Common Stock",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "APRE"
+  },
+  {
+   "symbol": "GOGN",
+   "name": "GoGreen Investments Corporation Class A Ordinary Shares",
+   "exchange": "NYSE",
+   "yahoo_symbol": "GOGN"
+  },
+  {
+   "symbol": "ORCC",
+   "name": "Owl Rock Capital Corporation Common Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "ORCC"
+  },
+  {
+   "symbol": "DSEY",
+   "name": "Diversey Holdings, Ltd. - Ordinary Shares",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "DSEY"
+  },
+  {
+   "symbol": "ROP",
+   "name": "Roper Technologies, Inc. Common Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "ROP"
+  },
+  {
+   "symbol": "GOGN.W",
+   "name": "GoGreen Investments Corporation Redeemable Warrants",
+   "exchange": "NYSE",
+   "yahoo_symbol": "GOGN.W"
+  },
+  {
+   "symbol": "GOGN.U",
+   "name": "GoGreen Investments Corporation Units, each consisting of one Class A ordinary share and one half of one redeemable warrant",
+   "exchange": "NYSE",
+   "yahoo_symbol": "GOGN.U"
+  }
+ ]
+}
