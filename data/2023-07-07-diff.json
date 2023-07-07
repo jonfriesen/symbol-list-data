@@ -1,0 +1,88 @@
+{
+ "added": [
+  {
+   "symbol": "ELVA",
+   "name": "Electrovaya Inc. - Common Shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "ELVA"
+  },
+  {
+   "symbol": "PWM",
+   "name": "Prestige Wealth Inc. - Ordinary Shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "PWM"
+  },
+  {
+   "symbol": "ROP",
+   "name": "Roper Technologies, Inc. - Common Stock",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "ROP"
+  },
+  {
+   "symbol": "TCRT",
+   "name": "Alaunos Therapeutics, Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "TCRT"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "TCRT",
+   "name": "Alaunos Therapeutics, Inc. - Common Stock",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "TCRT"
+  },
+  {
+   "symbol": "CORS.W",
+   "name": "Corsair Partnering Corporation Redeemable warrants, each whole warrant exercisable for one Class A ordinary share at an exercise price of $11.50",
+   "exchange": "NYSE",
+   "yahoo_symbol": "CORS.W"
+  },
+  {
+   "symbol": "CORS",
+   "name": "Corsair Partnering Corporation Class A Ordinary Shares",
+   "exchange": "NYSE",
+   "yahoo_symbol": "CORS"
+  },
+  {
+   "symbol": "MNC",
+   "name": "Magnetic North Acquisition Corp.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "MNC.V",
+   "instruments": [
+    {
+     "name": "Magnetic North Acquisition Corp.",
+     "symbol": "MNC"
+    },
+    {
+     "name": "Magnetic North Acquisition Corp pref a",
+     "symbol": "MNC.PR.A"
+    }
+   ]
+  },
+  {
+   "symbol": "NYMX",
+   "name": "Nymox Pharmaceutical Corporation - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "NYMX"
+  },
+  {
+   "symbol": "TNP$D",
+   "name": "Tsakos Energy Navigation Ltd 8.75% Series D Cumulative Redeemable Perpetual Preferred Shares",
+   "exchange": "NYSE",
+   "yahoo_symbol": "TNP$D"
+  },
+  {
+   "symbol": "CORS.U",
+   "name": "Corsair Partnering Corporation Units, each consisting of one Class A ordinary share and one-third of one redeemable warrant",
+   "exchange": "NYSE",
+   "yahoo_symbol": "CORS.U"
+  },
+  {
+   "symbol": "RIDE",
+   "name": "Lordstown Motors Corp. - Class A Common Stock",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "RIDE"
+  }
+ ]
+}

@@ -1,0 +1,62 @@
+{
+ "added": [
+  {
+   "symbol": "BAMBOO",
+   "name": "BambooDeFi (BAMBOO)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "DOG",
+   "name": "The Doge NFT (DOG)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "MMAI",
+   "name": "MetamonkeyAi (MMAI)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "X",
+   "name": "X Coin (X)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "BANKETH",
+   "name": "BankEth (BANKETH)"
+  },
+  {
+   "symbol": "GAYPEPE",
+   "name": "Gay Pepe (GAYPEPE)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "PEEPA",
+   "name": "Peepa (PEEPA)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "DOGE20",
+   "name": "Doge 2.0 (DOGE20)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "GETH",
+   "name": "Guarded Ether (GETH)"
+  },
+  {
+   "symbol": "MTB",
+   "name": "MetaBridge (MTB)",
+   "built_on": "BNB"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "MMAI",
+   "name": "MetamonkeyAi (MMAI)"
+  },
+  {
+   "symbol": "BAMBOO",
+   "name": "BambooDeFi (BAMBOO)"
+  }
+ ]
+}
