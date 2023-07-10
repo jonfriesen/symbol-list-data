@@ -1,0 +1,134 @@
+{
+ "added": [
+  {
+   "symbol": "BNXA",
+   "name": "Banxa Holdings Inc.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "BNXA.V",
+   "instruments": [
+    {
+     "name": "Banxa Holdings Inc.",
+     "symbol": "BNXA"
+    }
+   ]
+  },
+  {
+   "symbol": "GASX",
+   "name": "NG Energy International Corp.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "GASX.V",
+   "instruments": [
+    {
+     "name": "NG Energy International Corp.",
+     "symbol": "GASX"
+    },
+    {
+     "name": "NG Energy International Corp. db 20May2027",
+     "symbol": "GASX.DB"
+    },
+    {
+     "name": "NG Energy International Corp. wt 20May2027",
+     "symbol": "GASX.WT.A"
+    }
+   ]
+  },
+  {
+   "symbol": "ACAC",
+   "name": "Acri Capital Acquisition Corporation - Class A Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "ACAC"
+  },
+  {
+   "symbol": "ACACU",
+   "name": "Acri Capital Acquisition Corporation - Unit",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "ACACU"
+  },
+  {
+   "symbol": "ACACW",
+   "name": "Acri Capital Acquisition Corporation - Warrant",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "ACACW"
+  },
+  {
+   "symbol": "SURF",
+   "name": "Surface Oncology, Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "SURF"
+  },
+  {
+   "symbol": "EG",
+   "name": "Everest Group, Ltd. Common Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "EG"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "BTMDW",
+   "name": "Biote Corp. - Warrant",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "BTMDW"
+  },
+  {
+   "symbol": "UVN",
+   "name": "Uravan Minerals Inc.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "UVN.V",
+   "instruments": [
+    {
+     "name": "Uravan Minerals Inc.",
+     "symbol": "UVN"
+    }
+   ]
+  },
+  {
+   "symbol": "VECT",
+   "name": "VectivBio Holding AG - Ordinary Shares",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "VECT"
+  },
+  {
+   "symbol": "ACACW",
+   "name": "Acri Capital Acquisition Corporation - Warrant",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "ACACW"
+  },
+  {
+   "symbol": "ACACU",
+   "name": "Acri Capital Acquisition Corporation - Unit",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "ACACU"
+  },
+  {
+   "symbol": "SURF",
+   "name": "Surface Oncology, Inc. - Common Stock",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "SURF"
+  },
+  {
+   "symbol": "IMBIL",
+   "name": "iMedia Brands, Inc. - 8.5% Senior Notes Due 2026",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "IMBIL"
+  },
+  {
+   "symbol": "IMBI",
+   "name": "iMedia Brands, Inc. - Class A Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "IMBI"
+  },
+  {
+   "symbol": "ACAC",
+   "name": "Acri Capital Acquisition Corporation - Class A Common Stock",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "ACAC"
+  },
+  {
+   "symbol": "RE",
+   "name": "Everest Re Group, Ltd. Common Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "RE"
+  }
+ ]
+}
