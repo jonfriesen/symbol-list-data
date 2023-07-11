@@ -1,0 +1,132 @@
+{
+ "added": [
+  {
+   "symbol": "MEEC",
+   "name": "Midwest Energy Emissions Corp",
+   "exchange": "TSXV",
+   "yahoo_symbol": "MEEC.V",
+   "instruments": [
+    {
+     "name": "Midwest Energy Emissions Corp.",
+     "symbol": "MEEC"
+    }
+   ]
+  },
+  {
+   "symbol": "GCTB",
+   "name": "Guardian Ultra-Short Canadian T-Bill Fund",
+   "exchange": "TSX",
+   "yahoo_symbol": "GCTB.TO",
+   "instruments": [
+    {
+     "name": "Guard Ult-Sh CdnT-bl",
+     "symbol": "GCTB"
+    }
+   ]
+  },
+  {
+   "symbol": "GUTB.U",
+   "name": "Guardian Ultra-Short U.S. T-Bill Fund",
+   "exchange": "TSX",
+   "yahoo_symbol": "GUTB.U.TO",
+   "instruments": [
+    {
+     "name": "Guard Ult-Sh US T-Bl",
+     "symbol": "GUTB.U"
+    }
+   ]
+  },
+  {
+   "symbol": "MRT",
+   "name": "Marti Technologies, Inc. Class A Ordinary Shares",
+   "exchange": "NYSE MKT",
+   "yahoo_symbol": "MRT"
+  },
+  {
+   "symbol": "MRT.W",
+   "name": "Marti Technologies, Inc. Warrants, each whole warrant exercisable for one class A ordinary share at an exercise price of $11.50",
+   "exchange": "NYSE MKT",
+   "yahoo_symbol": "MRT.W"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "BWACU",
+   "name": "Better World Acquisition Corp. - Unit",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "BWACU"
+  },
+  {
+   "symbol": "GLTA",
+   "name": "Galata Acquisition Corp. Class A Ordinary Shares",
+   "exchange": "NYSE MKT",
+   "yahoo_symbol": "GLTA"
+  },
+  {
+   "symbol": "ATC",
+   "name": "ATAC Resources Ltd.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "ATC.V",
+   "instruments": [
+    {
+     "name": "ATAC Resources Ltd.",
+     "symbol": "ATC"
+    }
+   ]
+  },
+  {
+   "symbol": "CRECW",
+   "name": "Crescera Capital Acquisition Corp - Warrant",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "CRECW"
+  },
+  {
+   "symbol": "GLTA.W",
+   "name": "Galata Acquisition Corp. Warrants, each whole warrant exercisable for one class A ordinary share at an exercise price of $11.50",
+   "exchange": "NYSE MKT",
+   "yahoo_symbol": "GLTA.W"
+  },
+  {
+   "symbol": "CRECU",
+   "name": "Crescera Capital Acquisition Corp - Unit",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "CRECU"
+  },
+  {
+   "symbol": "GLTA.U",
+   "name": "Galata Acquisition Corp. Units, each consisting of one share of Class A Common Stock and one-third of one Warrant",
+   "exchange": "NYSE MKT",
+   "yahoo_symbol": "GLTA.U"
+  },
+  {
+   "symbol": "GPV",
+   "name": "GreenPower Motor Company Inc.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "GPV.V",
+   "instruments": [
+    {
+     "name": "GreenPower Motor Company Inc.",
+     "symbol": "GPV"
+    }
+   ]
+  },
+  {
+   "symbol": "BWAC",
+   "name": "Better World Acquisition Corp. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "BWAC"
+  },
+  {
+   "symbol": "CREC",
+   "name": "Crescera Capital Acquisition Corp - Class A Ordinary Shares",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "CREC"
+  },
+  {
+   "symbol": "BWACW",
+   "name": "Better World Acquisition Corp. - Warrants",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "BWACW"
+  }
+ ]
+}
