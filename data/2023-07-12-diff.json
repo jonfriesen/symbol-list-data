@@ -1,0 +1,122 @@
+{
+ "added": [
+  {
+   "symbol": "QQQT",
+   "name": "Evolve NASDAQ Technology Index Fund",
+   "exchange": "TSX",
+   "yahoo_symbol": "QQQT.TO",
+   "instruments": [
+    {
+     "name": "Evolve NAS Tech Heg",
+     "symbol": "QQQT"
+    },
+    {
+     "name": "Evolve NAS Tech Unhg",
+     "symbol": "QQQT.B"
+    },
+    {
+     "name": "EvolveNAS TechUnhgUS",
+     "symbol": "QQQT.U"
+    }
+   ]
+  },
+  {
+   "symbol": "FXCO",
+   "name": "Financial Strategies Acquisition Corp. - Class A Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "FXCO"
+  },
+  {
+   "symbol": "FXCOR",
+   "name": "Financial Strategies Acquisition Corp. - Rights",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "FXCOR"
+  },
+  {
+   "symbol": "FXCOW",
+   "name": "Financial Strategies Acquisition Corp. - Warrants",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "FXCOW"
+  },
+  {
+   "symbol": "EIRE.P",
+   "name": "Monaghan Capital Fund Ltd.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "EIRE.P.V",
+   "instruments": [
+    {
+     "name": "Monaghan Capital Fund Ltd.",
+     "symbol": "EIRE.P"
+    }
+   ]
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "TRIG.P",
+   "name": "Gravitas III Capital Corp.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "TRIG.P.V",
+   "instruments": [
+    {
+     "name": "Gravitas III Capital Corp.",
+     "symbol": "TRIG.P"
+    }
+   ]
+  },
+  {
+   "symbol": "ISEE",
+   "name": "IVERIC bio, Inc. - Common Stock",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "ISEE"
+  },
+  {
+   "symbol": "ALPS.U",
+   "name": "Alpine Summit Energy Partners Inc.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "ALPS.U.V",
+   "instruments": [
+    {
+     "name": "Alpine Summit Energy Partners, Inc.",
+     "symbol": "ALPS.U"
+    }
+   ]
+  },
+  {
+   "symbol": "EDY",
+   "name": "Eddy Smart Home Solutions Ltd.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "EDY.V",
+   "instruments": [
+    {
+     "name": "Eddy Smart Home Solutions Ltd.",
+     "symbol": "EDY"
+    }
+   ]
+  },
+  {
+   "symbol": "HWKZ",
+   "name": "Hawks Acquisition Corp Class A Common Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "HWKZ"
+  },
+  {
+   "symbol": "HWKZ.U",
+   "name": "Hawks Acquisition Corp Units, each consisting of one share of Class A common stock and one-half of one redeemable public warrant",
+   "exchange": "NYSE",
+   "yahoo_symbol": "HWKZ.U"
+  },
+  {
+   "symbol": "DOMA.W",
+   "name": "Doma Holdings, Inc. Warrants",
+   "exchange": "NYSE",
+   "yahoo_symbol": "DOMA.W"
+  },
+  {
+   "symbol": "TTCF",
+   "name": "Tattooed Chef, Inc. - Class A Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "TTCF"
+  }
+ ]
+}
