@@ -1,0 +1,48 @@
+{
+ "added": [
+  {
+   "symbol": "BOWNU",
+   "name": "Bowen Acquisition Corp - Unit",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "BOWNU"
+  },
+  {
+   "symbol": "SXTP",
+   "name": "60 Degrees Pharmaceuticals, Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "SXTP"
+  },
+  {
+   "symbol": "SXTPW",
+   "name": "60 Degrees Pharmaceuticals, Inc. - Warrant",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "SXTPW"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "MEOAW",
+   "name": "Minority Equality Opportunities Acquisition Inc. - Warrants",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "MEOAW"
+  },
+  {
+   "symbol": "GLOP",
+   "name": "GasLog Partners LP Common Units representing limited partnership interests",
+   "exchange": "NYSE",
+   "yahoo_symbol": "GLOP"
+  },
+  {
+   "symbol": "MEOAU",
+   "name": "Minority Equality Opportunities Acquisition Inc. - Units",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "MEOAU"
+  },
+  {
+   "symbol": "MEOA",
+   "name": "Minority Equality Opportunities Acquisition Inc. - Class A Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "MEOA"
+  }
+ ]
+}

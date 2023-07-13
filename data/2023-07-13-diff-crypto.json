@@ -1,0 +1,31 @@
+{
+ "added": [
+  {
+   "symbol": "ETHX",
+   "name": "Stader ETHx (ETHX)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "X",
+   "name": "AI-X (X)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "GETH",
+   "name": "Guarded Ether (GETH)"
+  },
+  {
+   "symbol": "MONKEYS",
+   "name": "Monkeys Token (MONKEYS)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "BANKETH",
+   "name": "BankEth (BANKETH)"
+  },
+  {
+   "symbol": "DOGETH",
+   "name": "EtherDoge (DOGETH)"
+  }
+ ]
+}
