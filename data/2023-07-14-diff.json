@@ -1,0 +1,60 @@
+{
+ "added": [
+  {
+   "symbol": "AGLE",
+   "name": "Aeglea BioTherapeutics, Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "AGLE"
+  },
+  {
+   "symbol": "CALY",
+   "name": "BlackRock Short-Term California Muni Bond ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "CALY"
+  },
+  {
+   "symbol": "CHPS",
+   "name": "Xtrackers Semiconductor Select Equity ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "CHPS"
+  },
+  {
+   "symbol": "PSWD",
+   "name": "Xtrackers Cybersecurity Select Equity ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "PSWD"
+  },
+  {
+   "symbol": "UPGR",
+   "name": "Xtrackers US Green Infrastructure Select Equity ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "UPGR"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "AGLE",
+   "name": "Aeglea BioTherapeutics, Inc. - Common Stock",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "AGLE"
+  },
+  {
+   "symbol": "SCAQU",
+   "name": "Stratim Cloud Acquisition Corp. - Unit",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "SCAQU"
+  },
+  {
+   "symbol": "SCAQ",
+   "name": "Stratim Cloud Acquisition Corp. - Class A Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "SCAQ"
+  },
+  {
+   "symbol": "SCAQW",
+   "name": "Stratim Cloud Acquisition Corp. - Warrant",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "SCAQW"
+  }
+ ]
+}
