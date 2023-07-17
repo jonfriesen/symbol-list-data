@@ -1,0 +1,130 @@
+{
+ "added": [
+  {
+   "symbol": "RAGE",
+   "name": "Renegade Gold Inc.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "RAGE.V",
+   "instruments": [
+    {
+     "name": "Renegade Gold Inc.",
+     "symbol": "RAGE"
+    }
+   ]
+  },
+  {
+   "symbol": "APGE",
+   "name": "Apogee Therapeutics, Inc. - Common Stock",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "APGE"
+  },
+  {
+   "symbol": "CTCX",
+   "name": "Carmell Therapeutics Corporation - Class A Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "CTCX"
+  },
+  {
+   "symbol": "CTCXW",
+   "name": "Carmell Therapeutics Corporation - Warrant",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "CTCXW"
+  },
+  {
+   "symbol": "NETDU",
+   "name": "Nabors Energy Transition Corp. II - Unit",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "NETDU"
+  },
+  {
+   "symbol": "SGMT",
+   "name": "Sagimet Biosciences Inc. - Series A Common Stock",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "SGMT"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "ARYE",
+   "name": "ARYA Sciences Acquisition Corp V - Class A Ordinary Shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "ARYE"
+  },
+  {
+   "symbol": "FMIV",
+   "name": "Forum Merger IV Corporation - Class A Common stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "FMIV"
+  },
+  {
+   "symbol": "FMIVW",
+   "name": "Forum Merger IV Corporation - Warrant",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "FMIVW"
+  },
+  {
+   "symbol": "FMIVU",
+   "name": "Forum Merger IV Corporation - Unit",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "FMIVU"
+  },
+  {
+   "symbol": "ALPAW",
+   "name": "Alpha Healthcare Acquisition Corp. III - Warrant",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "ALPAW"
+  },
+  {
+   "symbol": "TGM",
+   "name": "Trillium Gold Mines Inc.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "TGM.V",
+   "instruments": [
+    {
+     "name": "Trillium Gold Mines Inc.",
+     "symbol": "TGM"
+    }
+   ]
+  },
+  {
+   "symbol": "FRXI",
+   "name": "FRX Innovations Inc.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "FRXI.V",
+   "instruments": [
+    {
+     "name": "FRX Innovations Inc.",
+     "symbol": "FRXI"
+    },
+    {
+     "name": "FRX Innovations Inc. wt 16May2024",
+     "symbol": "FRXI.WT"
+    }
+   ]
+  },
+  {
+   "symbol": "BICK",
+   "name": "First Trust BICK Index Fund",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "BICK"
+  },
+  {
+   "symbol": "ALPA",
+   "name": "Alpha Healthcare Acquisition Corp. III - Class A Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "ALPA"
+  },
+  {
+   "symbol": "AZRE",
+   "name": "Azure Power Global Limited Equity Shares",
+   "exchange": "NYSE",
+   "yahoo_symbol": "AZRE"
+  },
+  {
+   "symbol": "ALPAU",
+   "name": "Alpha Healthcare Acquisition Corp. III - Units",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "ALPAU"
+  }
+ ]
+}
