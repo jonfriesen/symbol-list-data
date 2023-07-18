@@ -1,0 +1,64 @@
+{
+ "added": [
+  {
+   "symbol": "FRXI",
+   "name": "FRX Innovations Inc.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "FRXI.V",
+   "instruments": [
+    {
+     "name": "FRX Innovations Inc.",
+     "symbol": "FRXI"
+    },
+    {
+     "name": "FRX Innovations Inc. wt 16May2024",
+     "symbol": "FRXI.WT"
+    }
+   ]
+  },
+  {
+   "symbol": "IPXX",
+   "name": "Inflection Point Acquisition Corp. II - Class A Ordinary Shares",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "IPXX"
+  },
+  {
+   "symbol": "IPXXW",
+   "name": "Inflection Point Acquisition Corp. II - Warrant",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "IPXXW"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "FACT.W",
+   "name": "Freedom Acquisition I Corp. Warrants",
+   "exchange": "NYSE",
+   "yahoo_symbol": "FACT.W"
+  },
+  {
+   "symbol": "FACT",
+   "name": "Freedom Acquisition I Corp. Cl A Common Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "FACT"
+  },
+  {
+   "symbol": "FACT.U",
+   "name": "Freedom Acquisition I Corp. Units, each consisting of one Class A ordinary share and one-fourth of one redeemable warrant",
+   "exchange": "NYSE",
+   "yahoo_symbol": "FACT.U"
+  },
+  {
+   "symbol": "MLVF",
+   "name": "Malvern Bancorp, Inc. - Common Stock",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "MLVF"
+  },
+  {
+   "symbol": "TESS",
+   "name": "TESSCO Technologies Incorporated - Common Stock",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "TESS"
+  }
+ ]
+}
