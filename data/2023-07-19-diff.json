@@ -1,0 +1,84 @@
+{
+ "added": [
+  {
+   "symbol": "LGN",
+   "name": "Logan Energy Corp.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "LGN.V",
+   "instruments": [
+    {
+     "name": "Logan Energy Corp.",
+     "symbol": "LGN"
+    }
+   ]
+  },
+  {
+   "symbol": "CSLR",
+   "name": "Complete Solaria, Inc. - Common Stock",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "CSLR"
+  },
+  {
+   "symbol": "CSLRW",
+   "name": "Complete Solaria, Inc. - Warrant",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "CSLRW"
+  },
+  {
+   "symbol": "SWVL",
+   "name": "Swvl Holdings Corp - Class A Common Shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "SWVL"
+  },
+  {
+   "symbol": "SWVLW",
+   "name": "Swvl Holdings Corp - Warrant",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "SWVLW"
+  },
+  {
+   "symbol": "GMNG",
+   "name": "Gamelancer Media Corp.",
+   "exchange": "TSX",
+   "yahoo_symbol": "GMNG.TO",
+   "instruments": [
+    {
+     "name": "Gamelancer Media J",
+     "symbol": "GMNG"
+    }
+   ]
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "ARDS",
+   "name": "Aridis Pharmaceuticals Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "ARDS"
+  },
+  {
+   "symbol": "SWVL",
+   "name": "Swvl Holdings Corp - Class A Common Shares",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "SWVL"
+  },
+  {
+   "symbol": "BATRA",
+   "name": "Liberty Media Corporation - Series A Liberty Braves Common Stock",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "BATRA"
+  },
+  {
+   "symbol": "SWVLW",
+   "name": "Swvl Holdings Corp - Warrant",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "SWVLW"
+  },
+  {
+   "symbol": "BATRK",
+   "name": "Liberty Media Corporation - Series C Liberty Braves Common Stock",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "BATRK"
+  }
+ ]
+}
