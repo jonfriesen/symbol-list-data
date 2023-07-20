@@ -1,0 +1,132 @@
+{
+ "added": [
+  {
+   "symbol": "CAM",
+   "name": "Cascadia Minerals Ltd.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "CAM.V",
+   "instruments": [
+    {
+     "name": "Cascadia Minerals Ltd.",
+     "symbol": "CAM"
+    }
+   ]
+  },
+  {
+   "symbol": "CNST.P",
+   "name": "Constellation Capital Corp.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "CNST.P.V",
+   "instruments": [
+    {
+     "name": "Constellation Capital Corp.",
+     "symbol": "CNST.P"
+    }
+   ]
+  },
+  {
+   "symbol": "BATRA",
+   "name": "Atlanta Braves Holdings, Inc. - Series A Common Stock",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "BATRA"
+  },
+  {
+   "symbol": "BATRK",
+   "name": "Atlanta Braves Holdings, Inc. - Series C Common Stock",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "BATRK"
+  },
+  {
+   "symbol": "ODD",
+   "name": "ODDITY Tech Ltd. - Class A Ordinary Shares",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "ODD"
+  },
+  {
+   "symbol": "PSQH",
+   "name": "PSQ Holdings, Inc. Class A Common Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "PSQH"
+  },
+  {
+   "symbol": "PSQH.W",
+   "name": "PSQ Holdings, Inc. Warrants, each exercisable for one share of Class A common stock at an exercise price of $11.50 per share",
+   "exchange": "NYSE",
+   "yahoo_symbol": "PSQH.W"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "VBOCU",
+   "name": "Viscogliosi Brothers Acquisition Corp - Unit",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "VBOCU"
+  },
+  {
+   "symbol": "CLBR.U",
+   "name": "Colombier Acquisition Corp. Units, each consisting of one share of Class A common stock, and one-third of one redeemable warrant",
+   "exchange": "NYSE",
+   "yahoo_symbol": "CLBR.U"
+  },
+  {
+   "symbol": "CLBR",
+   "name": "Colombier Acquisition Corp. Class A Common Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "CLBR"
+  },
+  {
+   "symbol": "SPN",
+   "name": "Snipp Interactive Inc.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "SPN.V",
+   "instruments": [
+    {
+     "name": "Snipp Interactive Inc.",
+     "symbol": "SPN"
+    }
+   ]
+  },
+  {
+   "symbol": "CLBR.W",
+   "name": "Colombier Acquisition Corp. Warrants, each exercisable for one share of Class A common stock at an exercise price of $11.50 per share",
+   "exchange": "NYSE",
+   "yahoo_symbol": "CLBR.W"
+  },
+  {
+   "symbol": "NSP",
+   "name": "Naturally Splendid Enterprises Ltd.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "NSP.V",
+   "instruments": [
+    {
+     "name": "Naturally Splendid Enterprises Ltd.",
+     "symbol": "NSP"
+    }
+   ]
+  },
+  {
+   "symbol": "VBOC",
+   "name": "Viscogliosi Brothers Acquisition Corp - Common Stock",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "VBOC"
+  },
+  {
+   "symbol": "MDGSW",
+   "name": "Medigus Ltd. - Series C Warrant",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "MDGSW"
+  },
+  {
+   "symbol": "VBOCW",
+   "name": "Viscogliosi Brothers Acquisition Corp - Warrant",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "VBOCW"
+  },
+  {
+   "symbol": "LSI",
+   "name": "Life Storage, Inc. Common Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "LSI"
+  }
+ ]
+}
