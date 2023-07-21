@@ -1,0 +1,174 @@
+{
+ "added": [
+  {
+   "symbol": "BGE",
+   "name": "Blue Sky Global Energy Corp.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "BGE.V",
+   "instruments": [
+    {
+     "name": "Blue Sky Global Energy Corp.",
+     "symbol": "BGE"
+    }
+   ]
+  },
+  {
+   "symbol": "GHML",
+   "name": "Golden Horse Minerals Limited",
+   "exchange": "TSXV",
+   "yahoo_symbol": "GHML.V",
+   "instruments": [
+    {
+     "name": "Golden Horse Minerals Limited",
+     "symbol": "GHML"
+    }
+   ]
+  },
+  {
+   "symbol": "GPV",
+   "name": "GreenPower Motor Company Inc.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "GPV.V",
+   "instruments": [
+    {
+     "name": "GreenPower Motor Company Inc.",
+     "symbol": "GPV"
+    }
+   ]
+  },
+  {
+   "symbol": "MTK",
+   "name": "Montauk Metals Inc.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "MTK.V",
+   "instruments": [
+    {
+     "name": "Montauk Metals Inc.",
+     "symbol": "MTK"
+    }
+   ]
+  },
+  {
+   "symbol": "BGLC",
+   "name": "BioNexus Gene Lab Corp - Common stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "BGLC"
+  },
+  {
+   "symbol": "ATEK",
+   "name": "Athena Technology Acquisition Corp. II Class A Common Stock",
+   "exchange": "NYSE MKT",
+   "yahoo_symbol": "ATEK"
+  },
+  {
+   "symbol": "ATEK.U",
+   "name": "Athena Technology Acquisition Corp. II Units, each consisting of one share of Class A common stock, and one-half of one Redeemable Warrant",
+   "exchange": "NYSE MKT",
+   "yahoo_symbol": "ATEK.U"
+  },
+  {
+   "symbol": "ATEK.W",
+   "name": "Athena Technology Acquisition Corp. II Redeemable Warrants",
+   "exchange": "NYSE MKT",
+   "yahoo_symbol": "ATEK.W"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "BGRY",
+   "name": "Berkshire Grey, Inc. - Class A Common Stock",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "BGRY"
+  },
+  {
+   "symbol": "ATEK",
+   "name": "Athena Technology Acquisition Corp. II Class A Common Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "ATEK"
+  },
+  {
+   "symbol": "AMO",
+   "name": "Altan Rio Minerals Limited",
+   "exchange": "TSXV",
+   "yahoo_symbol": "AMO.V",
+   "instruments": [
+    {
+     "name": "Altan Rio Minerals Limited",
+     "symbol": "AMO"
+    }
+   ]
+  },
+  {
+   "symbol": "VXTR",
+   "name": "Voxtur Analytics Corp.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "VXTR.V",
+   "instruments": [
+    {
+     "name": "Voxtur Analytics Corp.",
+     "symbol": "VXTR"
+    }
+   ]
+  },
+  {
+   "symbol": "GLW",
+   "name": "Galway Gold Inc.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "GLW.V",
+   "instruments": [
+    {
+     "name": "Galway Gold Inc.",
+     "symbol": "GLW"
+    }
+   ]
+  },
+  {
+   "symbol": "MRS",
+   "name": "Mission Ready Solutions Inc.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "MRS.V",
+   "instruments": [
+    {
+     "name": "Mission Ready Solutions Inc.",
+     "symbol": "MRS"
+    }
+   ]
+  },
+  {
+   "symbol": "SEV",
+   "name": "Sono Group N.V. - Common Shares",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "SEV"
+  },
+  {
+   "symbol": "ATEK.W",
+   "name": "Athena Technology Acquisition Corp. II Redeemable Warrants",
+   "exchange": "NYSE",
+   "yahoo_symbol": "ATEK.W"
+  },
+  {
+   "symbol": "ALPS",
+   "name": "Alpine Summit Energy Partners, Inc. - Class A Subordinate Voting Shares",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "ALPS"
+  },
+  {
+   "symbol": "ESHAU",
+   "name": "ESH Acquisition Corp. - Unit",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "ESHAU"
+  },
+  {
+   "symbol": "BGRYW",
+   "name": "Berkshire Grey, Inc. - Warrant",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "BGRYW"
+  },
+  {
+   "symbol": "ATEK.U",
+   "name": "Athena Technology Acquisition Corp. II Units, each consisting of one share of Class A common stock, and one-half of one Redeemable Warrant",
+   "exchange": "NYSE",
+   "yahoo_symbol": "ATEK.U"
+  }
+ ]
+}
