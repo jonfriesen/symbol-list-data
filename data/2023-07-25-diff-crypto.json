@@ -1,0 +1,58 @@
+{
+ "added": [
+  {
+   "symbol": "FURU",
+   "name": "Furucombo (FURU)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "X",
+   "name": "AI-X (X)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "COMBO",
+   "name": "COMBO (COMBO)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "WLD",
+   "name": "Worldcoin (WLD)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "DOG",
+   "name": "The Doge NFT (DOG)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "GETH",
+   "name": "Guarded Ether (GETH)"
+  },
+  {
+   "symbol": "ACQ",
+   "name": "Acquire.Fi (ACQ)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "ARNM",
+   "name": "Arenum (ARNM)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "BANKETH",
+   "name": "BankEth (BANKETH)"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "COCOS",
+   "name": "COCOS BCX (COCOS)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "COMBO",
+   "name": "Furucombo (COMBO)"
+  }
+ ]
+}

@@ -1,0 +1,102 @@
+{
+ "added": [
+  {
+   "symbol": "AVR",
+   "name": "Avaron Mining Corp.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "AVR.V",
+   "instruments": [
+    {
+     "name": "Avaron Mining Corp.",
+     "symbol": "AVR"
+    }
+   ]
+  },
+  {
+   "symbol": "ONYX",
+   "name": "Onyx Gold Corp.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "ONYX.V",
+   "instruments": [
+    {
+     "name": "Onyx Gold Corp",
+     "symbol": "ONYX"
+    }
+   ]
+  },
+  {
+   "symbol": "CMNY",
+   "name": "CI Money Market ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "CMNY.TO",
+   "instruments": [
+    {
+     "name": "CI Money Mkt ETF Un",
+     "symbol": "CMNY"
+    }
+   ]
+  },
+  {
+   "symbol": "UMNY.U",
+   "name": "CI U.S. Money Market ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "UMNY.U.TO",
+   "instruments": [
+    {
+     "name": "CI US Money Mkt US",
+     "symbol": "UMNY.U"
+    }
+   ]
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "GGAAW",
+   "name": "Genesis Growth Tech Acquisition Corp. - Warrant",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "GGAAW"
+  },
+  {
+   "symbol": "GGAAU",
+   "name": "Genesis Growth Tech Acquisition Corp. - Unit",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "GGAAU"
+  },
+  {
+   "symbol": "GRNAW",
+   "name": "GreenLight Biosciences Holdings, PBC - Warrant",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "GRNAW"
+  },
+  {
+   "symbol": "GRNA",
+   "name": "GreenLight Biosciences Holdings, PBC - Common Stock",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "GRNA"
+  },
+  {
+   "symbol": "GGAA",
+   "name": "Genesis Growth Tech Acquisition Corp. - Class A Ordinary Shares",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "GGAA"
+  },
+  {
+   "symbol": "WLMS",
+   "name": "Williams Industrial Services Group Inc. Common Stock",
+   "exchange": "NYSE MKT",
+   "yahoo_symbol": "WLMS"
+  },
+  {
+   "symbol": "BCC",
+   "name": "Benz Capital Corp.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "BCC.V",
+   "instruments": [
+    {
+     "name": "Benz Capital Corp.",
+     "symbol": "BCC"
+    }
+   ]
+  }
+ ]
+}
