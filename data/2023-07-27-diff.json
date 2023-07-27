@@ -1,0 +1,138 @@
+{
+ "added": [
+  {
+   "symbol": "PDVN.P",
+   "name": "Pardus Ventures Inc.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "PDVN.P.V",
+   "instruments": [
+    {
+     "name": "Pardus Ventures Inc.",
+     "symbol": "PDVN.P"
+    }
+   ]
+  },
+  {
+   "symbol": "YSK.P",
+   "name": "Space Kingdom Digital Capital Corp.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "YSK.P.V",
+   "instruments": [
+    {
+     "name": "Space Kingdom Digital Capital Corp.",
+     "symbol": "YSK.P"
+    }
+   ]
+  },
+  {
+   "symbol": "IIMF",
+   "name": "Invesco International Developed Dynamic-Multifactor Index ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "IIMF.TO",
+   "instruments": [
+    {
+     "name": "InvescoIntlDevDynmMF",
+     "symbol": "IIMF"
+    },
+    {
+     "name": "InvescoIntlDevDynmHg",
+     "symbol": "IIMF.F"
+    }
+   ]
+  },
+  {
+   "symbol": "IGET",
+   "name": "Invesco Morningstar Global Energy Transition Index ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "IGET.TO",
+   "instruments": [
+    {
+     "name": "Invesco MS Glb Engy",
+     "symbol": "IGET"
+    },
+    {
+     "name": "Invesco MS Enrgy Heg",
+     "symbol": "IGET.F"
+    }
+   ]
+  },
+  {
+   "symbol": "IUMF",
+   "name": "Invesco Russell 1000 Dynamic-Multifactor Index ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "IUMF.TO",
+   "instruments": [
+    {
+     "name": "InvescoRus1000DynmMF",
+     "symbol": "IUMF"
+    },
+    {
+     "name": "InvescoRus1000DyMFHg",
+     "symbol": "IUMF.F"
+    }
+   ]
+  },
+  {
+   "symbol": "SDOT",
+   "name": "Sadot Group Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "SDOT"
+  },
+  {
+   "symbol": "CCIF",
+   "name": "Carlyle Credit Income Fund Shares of Beneficial Interest",
+   "exchange": "NYSE",
+   "yahoo_symbol": "CCIF"
+  },
+  {
+   "symbol": "SRFM",
+   "name": "Surf Air Mobility Inc. Common Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "SRFM"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "BLNG",
+   "name": "Belong Acquisition Corp. - Class A Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "BLNG"
+  },
+  {
+   "symbol": "TDW.A",
+   "name": "Tidewater Inc. Series A Warrants to purchase shares of common stock (expiring July 31, 2023)",
+   "exchange": "NYSE",
+   "yahoo_symbol": "TDW.A"
+  },
+  {
+   "symbol": "TDW.B",
+   "name": "Tidewater Inc. Series B Warrants to purchase shares of common stock (expiring July 31, 2023)",
+   "exchange": "NYSE",
+   "yahoo_symbol": "TDW.B"
+  },
+  {
+   "symbol": "BLNGU",
+   "name": "Belong Acquisition Corp. - Units",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "BLNGU"
+  },
+  {
+   "symbol": "BLNGW",
+   "name": "Belong Acquisition Corp. - Warrant",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "BLNGW"
+  },
+  {
+   "symbol": "VCIF",
+   "name": "Carlyle Credit Income Fund Shares of Beneficial Interest",
+   "exchange": "NYSE",
+   "yahoo_symbol": "VCIF"
+  },
+  {
+   "symbol": "GRIL",
+   "name": "Muscle Maker, Inc - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "GRIL"
+  }
+ ]
+}
