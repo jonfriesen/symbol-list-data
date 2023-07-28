@@ -1,0 +1,42 @@
+{
+ "added": [
+  {
+   "symbol": "PRZO",
+   "name": "ParaZero Technologies Ltd. - Ordinary Shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "PRZO"
+  },
+  {
+   "symbol": "USFI",
+   "name": "BrandywineGLOBAL - U.S. Fixed Income ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "USFI"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "ADILW",
+   "name": "Adial Pharmaceuticals, Inc - Warrant",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "ADILW"
+  },
+  {
+   "symbol": "ABST",
+   "name": "Absolute Software Corporation - Common Stock",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "ABST"
+  },
+  {
+   "symbol": "AJRD",
+   "name": "Aerojet Rocketdyne Holdings, Inc. Common Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "AJRD"
+  },
+  {
+   "symbol": "BBIG",
+   "name": "Vinco Ventures, Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "BBIG"
+  }
+ ]
+}
