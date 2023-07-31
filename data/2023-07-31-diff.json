@@ -1,0 +1,126 @@
+{
+ "added": [
+  {
+   "symbol": "PWIK.P",
+   "name": "Prestwick Capital Corporation Limited",
+   "exchange": "TSXV",
+   "yahoo_symbol": "PWIK.P.V",
+   "instruments": [
+    {
+     "name": "Prestwick Capital Corporation Limited",
+     "symbol": "PWIK.P"
+    }
+   ]
+  },
+  {
+   "symbol": "SABS",
+   "name": "SAB Biotherapeutics, Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "SABS"
+  },
+  {
+   "symbol": "SABSW",
+   "name": "SAB Biotherapeutics, Inc. - Warrant",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "SABSW"
+  },
+  {
+   "symbol": "ZLS",
+   "name": "Zalatoris II Acquisition Corp - Class A Ordinary Shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "ZLS"
+  },
+  {
+   "symbol": "ZLSWU",
+   "name": "Zalatoris II Acquisition Corp - Unit",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "ZLSWU"
+  },
+  {
+   "symbol": "ZLSWW",
+   "name": "Zalatoris II Acquisition Corp - Warrant",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "ZLSWW"
+  },
+  {
+   "symbol": "SN",
+   "name": "SharkNinja, Inc. Ordinary Shares",
+   "exchange": "NYSE",
+   "yahoo_symbol": "SN"
+  },
+  {
+   "symbol": "SNMP",
+   "name": "Evolve Transition Infrastructure LP Common Units representing Class B Limited Liability Company Interests",
+   "exchange": "NYSE MKT",
+   "yahoo_symbol": "SNMP"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "XPAXW",
+   "name": "XPAC Acquisition Corp. - Warrant",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "XPAXW"
+  },
+  {
+   "symbol": "ABST",
+   "name": "Absolute Software Corporation",
+   "exchange": "TSX",
+   "yahoo_symbol": "ABST.TO",
+   "instruments": [
+    {
+     "name": "Absolute Software J",
+     "symbol": "ABST"
+    }
+   ]
+  },
+  {
+   "symbol": "XPAX",
+   "name": "XPAC Acquisition Corp. - Class A Ordinary Shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "XPAX"
+  },
+  {
+   "symbol": "SABSW",
+   "name": "SAB Biotherapeutics, Inc. - Warrant",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "SABSW"
+  },
+  {
+   "symbol": "XPAXU",
+   "name": "XPAC Acquisition Corp. - Unit",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "XPAXU"
+  },
+  {
+   "symbol": "DALS",
+   "name": "DA32 Life Science Tech Acquisition Corp. - Class A Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "DALS"
+  },
+  {
+   "symbol": "JRO",
+   "name": "Nuveen Floating Rate Income Opportuntiy Fund Shares of Beneficial Interest",
+   "exchange": "NYSE",
+   "yahoo_symbol": "JRO"
+  },
+  {
+   "symbol": "JSD",
+   "name": "Nuveen Short Duration Credit Opportunities Fund Common Shares of Beneficial Interest",
+   "exchange": "NYSE",
+   "yahoo_symbol": "JSD"
+  },
+  {
+   "symbol": "NSL",
+   "name": "Nuveen Senior Income Fund Common Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "NSL"
+  },
+  {
+   "symbol": "SABS",
+   "name": "SAB Biotherapeutics, Inc. - Common Stock",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "SABS"
+  }
+ ]
+}

@@ -1,0 +1,44 @@
+{
+ "added": [
+  {
+   "symbol": "C98",
+   "name": "Coin98 (C98)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "MLK",
+   "name": "MiL.k (MLK)",
+   "built_on": "LUNIVERSE"
+  },
+  {
+   "symbol": "BANK",
+   "name": "Float Protocol (BANK)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "X",
+   "name": "AI-X (X)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "G",
+   "name": "GRN Grid (G)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "DOGETH",
+   "name": "EtherDoge (DOGETH)"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "MLK",
+   "name": "MiL.k (MLK)"
+  },
+  {
+   "symbol": "C98",
+   "name": "Coin98 (C98)",
+   "built_on": "BNB"
+  }
+ ]
+}
