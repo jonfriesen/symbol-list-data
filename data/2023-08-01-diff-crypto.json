@@ -1,0 +1,50 @@
+{
+ "added": [
+  {
+   "symbol": "GETH",
+   "name": "Guarded Ether (GETH)"
+  },
+  {
+   "symbol": "BANK",
+   "name": "Float Protocol (BANK)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "MANTLE",
+   "name": "Mantle (MANTLE)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "ARKM",
+   "name": "Arkham (ARKM)"
+  },
+  {
+   "symbol": "XETH",
+   "name": "Xplosive Ethereum (XETH)"
+  },
+  {
+   "symbol": "DOGETH",
+   "name": "EtherDoge (DOGETH)"
+  },
+  {
+   "symbol": "AMO",
+   "name": "AMO Coin (AMO)"
+  },
+  {
+   "symbol": "BIT",
+   "name": "BitDAO (BIT)"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "BIT",
+   "name": "BitDAO (BIT)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "AMO",
+   "name": "AMO Coin (AMO)",
+   "built_on": "ETH"
+  }
+ ]
+}

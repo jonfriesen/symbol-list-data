@@ -1,0 +1,96 @@
+{
+ "added": [
+  {
+   "symbol": "VXTR",
+   "name": "Voxtur Analytics Corp.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "VXTR.V",
+   "instruments": [
+    {
+     "name": "Voxtur Analytics Corp.",
+     "symbol": "VXTR"
+    }
+   ]
+  },
+  {
+   "symbol": "JPEF",
+   "name": "JPMorgan Equity Focus ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "JPEF"
+  },
+  {
+   "symbol": "EICB",
+   "name": "Eagle Point Income Company Inc. 7.75% Series B Term Preferred Stock Due 2028",
+   "exchange": "NYSE",
+   "yahoo_symbol": "EICB"
+  },
+  {
+   "symbol": "ELIQ",
+   "name": "Electriq Power Holdings, Inc. Class A Common Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "ELIQ"
+  },
+  {
+   "symbol": "ELIQ.W",
+   "name": "Electriq Power Holdings, Inc. Warrants",
+   "exchange": "NYSE MKT",
+   "yahoo_symbol": "ELIQ.W"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "SHPW.W",
+   "name": "Shapeways Holdings, Inc. Redeemable Warrants, each whole warrant exercisable for one share of Common Stock at an exercise price of $11.50",
+   "exchange": "NYSE",
+   "yahoo_symbol": "SHPW.W"
+  },
+  {
+   "symbol": "PHC",
+   "name": "Pathway Health Corp.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "PHC.V",
+   "instruments": [
+    {
+     "name": "Pathway Health Corp.",
+     "symbol": "PHC"
+    }
+   ]
+  },
+  {
+   "symbol": "UNVR",
+   "name": "Univar Solutions Inc. Common Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "UNVR"
+  },
+  {
+   "symbol": "TLGA",
+   "name": "TLG Acquisition One Corp. Class A Common Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "TLGA"
+  },
+  {
+   "symbol": "NBRV",
+   "name": "Nabriva Therapeutics plc - Ordinary Shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "NBRV"
+  },
+  {
+   "symbol": "OFED",
+   "name": "Oconee Federal Financial Corp. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "OFED"
+  },
+  {
+   "symbol": "TLGA.U",
+   "name": "TLG Acquisition One Corp. Units, each consisting of one share of Class A common stock and one-third of one redeemable warrant",
+   "exchange": "NYSE",
+   "yahoo_symbol": "TLGA.U"
+  },
+  {
+   "symbol": "SHPW",
+   "name": "Shapeways Holdings, Inc. Common Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "SHPW"
+  }
+ ]
+}
