@@ -1,0 +1,236 @@
+{
+ "added": [
+  {
+   "symbol": "BVFL",
+   "name": "BV Financial, Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "BVFL"
+  },
+  {
+   "symbol": "CTNT",
+   "name": "Cheetah Net Supply Chain Service Inc. - Class A Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "CTNT"
+  },
+  {
+   "symbol": "HRYU",
+   "name": "Hanryu Holdings, Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "HRYU"
+  },
+  {
+   "symbol": "MAMA",
+   "name": "Mama's Creations, Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "MAMA"
+  },
+  {
+   "symbol": "MGTA",
+   "name": "Magenta Therapeutics, Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "MGTA"
+  },
+  {
+   "symbol": "PXDT",
+   "name": "Pixie Dust Technologies, Inc. - ADS, each representing one common share",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "PXDT"
+  },
+  {
+   "symbol": "ROE",
+   "name": "Astoria US Quality Kings ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "ROE"
+  },
+  {
+   "symbol": "SHPW",
+   "name": "Shapeways Holdings, Inc. - common stock",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "SHPW"
+  },
+  {
+   "symbol": "SHPWW",
+   "name": "Shapeways Holdings, Inc. - Warrants",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "SHPWW"
+  },
+  {
+   "symbol": "ALUR",
+   "name": "Allurion Technologies, Inc. Common Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "ALUR"
+  },
+  {
+   "symbol": "ALUR.W",
+   "name": "Allurion Technologies, Inc. Warrants, each whole warrant exercisable to purchase 1.420455 shares of common stock at an exercise price of $8.10 per share of common stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "ALUR.W"
+  },
+  {
+   "symbol": "QFTA",
+   "name": "Quantum FinTech Acquisition Corporation Common Stock",
+   "exchange": "NYSE MKT",
+   "yahoo_symbol": "QFTA"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "APPH",
+   "name": "AppHarvest, Inc. - Common Stock",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "APPH"
+  },
+  {
+   "symbol": "TBP",
+   "name": "Tetra Bio-Pharma Inc.",
+   "exchange": "TSX",
+   "yahoo_symbol": "TBP.TO",
+   "instruments": [
+    {
+     "name": "Tetra Bio-Pharma J",
+     "symbol": "TBP"
+    },
+    {
+     "name": "Tetra Bio-PharmJ WtC",
+     "symbol": "TBP.WT.C"
+    }
+   ]
+  },
+  {
+   "symbol": "AFF",
+   "name": "Affinity Metals Corp.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "AFF.V",
+   "instruments": [
+    {
+     "name": "Affinity Metals Corp.",
+     "symbol": "AFF"
+    }
+   ]
+  },
+  {
+   "symbol": "MMMB",
+   "name": "MamaMancini's Holdings, Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "MMMB"
+  },
+  {
+   "symbol": "HVAX",
+   "name": "Horizons Global Vaccines and Infectious Diseases Index ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "HVAX.TO",
+   "instruments": [
+    {
+     "name": "HoriznGlb Vaccines A",
+     "symbol": "HVAX"
+    }
+   ]
+  },
+  {
+   "symbol": "BLDR",
+   "name": "Horizons North American Infrastructure Development Index ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "BLDR.TO",
+   "instruments": [
+    {
+     "name": "HoriznNA InfrasDev A",
+     "symbol": "BLDR"
+    }
+   ]
+  },
+  {
+   "symbol": "SPPI",
+   "name": "Spectrum Pharmaceuticals, Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "SPPI"
+  },
+  {
+   "symbol": "CPUH",
+   "name": "Compute Health Acquisition Corp. Class A Common Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "CPUH"
+  },
+  {
+   "symbol": "NPF.U",
+   "name": "NextPoint Financial Inc.",
+   "exchange": "TSX",
+   "yahoo_symbol": "NPF.U.TO",
+   "instruments": [
+    {
+     "name": "NextPoint Fin J US",
+     "symbol": "NPF.U"
+    },
+    {
+     "name": "NextPoint FinJ Wt US",
+     "symbol": "NPF.WT.U"
+    }
+   ]
+  },
+  {
+   "symbol": "QFTA",
+   "name": "Quantum FinTech Acquisition Corporation Common Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "QFTA"
+  },
+  {
+   "symbol": "APPHW",
+   "name": "AppHarvest, Inc. - Warrants",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "APPHW"
+  },
+  {
+   "symbol": "MGTA",
+   "name": "Magenta Therapeutics, Inc. - Common Stock",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "MGTA"
+  },
+  {
+   "symbol": "CPUH.U",
+   "name": "Compute Health Acquisition Corp. Units, each consisting of one share of Class A common stock and one-quarter of one redeemable warrant",
+   "exchange": "NYSE",
+   "yahoo_symbol": "CPUH.U"
+  },
+  {
+   "symbol": "REUN",
+   "name": "Reunion Neuroscience Inc. - Common Shares",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "REUN"
+  },
+  {
+   "symbol": "QFTA.U",
+   "name": "Quantum FinTech Acquisition Corporation Units, each consisting of one share of Common Stock and one Warrant",
+   "exchange": "NYSE",
+   "yahoo_symbol": "QFTA.U"
+  },
+  {
+   "symbol": "HMPT",
+   "name": "Home Point Capital Inc. - Common Stock",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "HMPT"
+  },
+  {
+   "symbol": "CPUH.W",
+   "name": "Compute Health Acquisition Corp. Redeemable warrants, each whole warrant exercisable for one share of Class A common stock at an exercise price of $11.50",
+   "exchange": "NYSE",
+   "yahoo_symbol": "CPUH.W"
+  },
+  {
+   "symbol": "HDOC",
+   "name": "Horizons GX Telemedicine and Digital Health Index ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "HDOC.TO",
+   "instruments": [
+    {
+     "name": "HoriznGX TelmedDgtUn",
+     "symbol": "HDOC"
+    }
+   ]
+  },
+  {
+   "symbol": "UTAAW",
+   "name": "UTA Acquisition Corporation - Warrants",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "UTAAW"
+  }
+ ]
+}
