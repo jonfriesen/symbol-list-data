@@ -1,0 +1,66 @@
+{
+ "added": [
+  {
+   "symbol": "ALFA.P",
+   "name": "Odessa Capital Ltd.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "ALFA.P.V",
+   "instruments": [
+    {
+     "name": "Odessa Capital Ltd.",
+     "symbol": "ALFA.P"
+    }
+   ]
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "UNS",
+   "name": "Uni-Select Inc.",
+   "exchange": "TSX",
+   "yahoo_symbol": "UNS.TO",
+   "instruments": [
+    {
+     "name": "Uni-Select Inc.",
+     "symbol": "UNS"
+    }
+   ]
+  },
+  {
+   "symbol": "EMBK",
+   "name": "Embark Technology, Inc. - Common Stock",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "EMBK"
+  },
+  {
+   "symbol": "BLOK",
+   "name": "GlobalBlock Digital Asset Trading Limited",
+   "exchange": "TSXV",
+   "yahoo_symbol": "BLOK.V",
+   "instruments": [
+    {
+     "name": "GlobalBlock Digital Asset Trading Limited",
+     "symbol": "BLOK"
+    }
+   ]
+  },
+  {
+   "symbol": "REUN",
+   "name": "Reunion Neuroscience Inc.",
+   "exchange": "TSX",
+   "yahoo_symbol": "REUN.TO",
+   "instruments": [
+    {
+     "name": "Reunion Neuros Inc J",
+     "symbol": "REUN"
+    }
+   ]
+  },
+  {
+   "symbol": "EMBKW",
+   "name": "Embark Technology, Inc. - Warrant",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "EMBKW"
+  }
+ ]
+}
