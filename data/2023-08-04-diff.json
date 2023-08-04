@@ -1,0 +1,96 @@
+{
+ "added": [
+  {
+   "symbol": "LDWY",
+   "name": "Lendway, Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "LDWY"
+  },
+  {
+   "symbol": "MIRA",
+   "name": "MIRA Pharmaceuticals, Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "MIRA"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "GENQW",
+   "name": "Genesis Unicorn Capital Corp. - Warrants",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "GENQW"
+  },
+  {
+   "symbol": "ISIG",
+   "name": "Insignia Systems, Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "ISIG"
+  },
+  {
+   "symbol": "ARBGW",
+   "name": "Aequi Acquisition Corp. - warrants",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "ARBGW"
+  },
+  {
+   "symbol": "LSXMK",
+   "name": "Liberty Media Corporation - Series C Liberty SiriusXM Common Stock",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "LSXMK"
+  },
+  {
+   "symbol": "ARBGU",
+   "name": "Aequi Acquisition Corp. - Unit",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "ARBGU"
+  },
+  {
+   "symbol": "LSXMA",
+   "name": "Liberty Media Corporation - Series A Liberty SiriusXM Common Stock",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "LSXMA"
+  },
+  {
+   "symbol": "FWONA",
+   "name": "Liberty Media Corporation - Series A Liberty Formula One Common Stock",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "FWONA"
+  },
+  {
+   "symbol": "FWONK",
+   "name": "Liberty Media Corporation - Series C Liberty Formula One Common Stock",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "FWONK"
+  },
+  {
+   "symbol": "GENQU",
+   "name": "Genesis Unicorn Capital Corp. - Unit",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "GENQU"
+  },
+  {
+   "symbol": "WTT",
+   "name": "Wireless Telecom Group,  Inc. Common Stock",
+   "exchange": "NYSE MKT",
+   "yahoo_symbol": "WTT"
+  },
+  {
+   "symbol": "ARBG",
+   "name": "Aequi Acquisition Corp. - common stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "ARBG"
+  },
+  {
+   "symbol": "GENQ",
+   "name": "Genesis Unicorn Capital Corp. - Class A Common Stock",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "GENQ"
+  },
+  {
+   "symbol": "LSXMB",
+   "name": "Liberty Media Corporation - Series B Liberty SiriusXM Common Stock",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "LSXMB"
+  }
+ ]
+}

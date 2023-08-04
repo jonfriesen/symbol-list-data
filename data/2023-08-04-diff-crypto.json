@@ -1,0 +1,39 @@
+{
+ "added": [
+  {
+   "symbol": "DOG",
+   "name": "The Doge NFT (DOG)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "DBEAR",
+   "name": "DBear Coin (DBEAR)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "ORBS",
+   "name": "Orbs (ORBS)"
+  },
+  {
+   "symbol": "G",
+   "name": "GRN Grid (G)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "BANKETH",
+   "name": "BankEth (BANKETH)"
+  },
+  {
+   "symbol": "X",
+   "name": "AI-X (X)",
+   "built_on": "ETH"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "ORBS",
+   "name": "Orbs (ORBS)",
+   "built_on": "ETH"
+  }
+ ]
+}
