@@ -1,0 +1,102 @@
+{
+ "added": [
+  {
+   "symbol": "ESGL",
+   "name": "ESGL Holdings Limited - Class A Ordinary Shares",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "ESGL"
+  },
+  {
+   "symbol": "ESGLW",
+   "name": "ESGL Holdings Limited - Warrants",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "ESGLW"
+  },
+  {
+   "symbol": "FWONA",
+   "name": "Liberty Media Corporation - Series A Liberty Formula One Common Stock",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "FWONA"
+  },
+  {
+   "symbol": "FWONK",
+   "name": "Liberty Media Corporation - Series C Liberty Formula One Common Stock",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "FWONK"
+  },
+  {
+   "symbol": "LLYVA",
+   "name": "Liberty Media Corporation - Series A Liberty Live Common Stock",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "LLYVA"
+  },
+  {
+   "symbol": "LLYVK",
+   "name": "Liberty Media Corporation - Series C Liberty Live Common Stock",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "LLYVK"
+  },
+  {
+   "symbol": "LSXMA",
+   "name": "Liberty Media Corporation - Series A Liberty SiriusXM Common Stock",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "LSXMA"
+  },
+  {
+   "symbol": "LSXMB",
+   "name": "Liberty Media Corporation - Series B Liberty SiriusXM Common Stock",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "LSXMB"
+  },
+  {
+   "symbol": "LSXMK",
+   "name": "Liberty Media Corporation - Series C Liberty SiriusXM Common Stock",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "LSXMK"
+  },
+  {
+   "symbol": "RENB",
+   "name": "Renovaro Biosciences Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "RENB"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "BWCAU",
+   "name": "Blue Whale Acquisition Corp I - Unit",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "BWCAU"
+  },
+  {
+   "symbol": "BWCAW",
+   "name": "Blue Whale Acquisition Corp I - Warrant",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "BWCAW"
+  },
+  {
+   "symbol": "ENOB",
+   "name": "Enochian Biosciences, Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "ENOB"
+  },
+  {
+   "symbol": "IRNT",
+   "name": "IronNet, Inc. Common Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "IRNT"
+  },
+  {
+   "symbol": "BWC",
+   "name": "Blue Whale Acquisition Corp I - Class A Ordinary Shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "BWC"
+  },
+  {
+   "symbol": "IRNT.W",
+   "name": "IronNet, Inc. Redeemable Warrants, each whole warrant exercisable for shares of Class A Common Stock at an exercise price of $11.50 per share",
+   "exchange": "NYSE",
+   "yahoo_symbol": "IRNT.W"
+  }
+ ]
+}
