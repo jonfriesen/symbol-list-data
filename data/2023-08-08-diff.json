@@ -1,0 +1,72 @@
+{
+ "added": [
+  {
+   "symbol": "EVP.P",
+   "name": "EVP Capital Inc.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "EVP.P.V",
+   "instruments": [
+    {
+     "name": "EVP Capital Inc.",
+     "symbol": "EVP.P"
+    }
+   ]
+  },
+  {
+   "symbol": "GATE",
+   "name": "Marblegate Acquisition Corp. - Class A Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "GATE"
+  },
+  {
+   "symbol": "GATEU",
+   "name": "Marblegate Acquisition Corp. - Unit",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "GATEU"
+  },
+  {
+   "symbol": "GATEW",
+   "name": "Marblegate Acquisition Corp. - Warrant",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "GATEW"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "PDCE",
+   "name": "PDC Energy, Inc. - Common Stock",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "PDCE"
+  },
+  {
+   "symbol": "GATEU",
+   "name": "Marblegate Acquisition Corp. - Unit",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "GATEU"
+  },
+  {
+   "symbol": "GATE",
+   "name": "Marblegate Acquisition Corp. - Class A Common Stock",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "GATE"
+  },
+  {
+   "symbol": "UPI",
+   "name": "Universal Proptech Inc.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "UPI.V",
+   "instruments": [
+    {
+     "name": "Universal Proptech Inc.",
+     "symbol": "UPI"
+    }
+   ]
+  },
+  {
+   "symbol": "GATEW",
+   "name": "Marblegate Acquisition Corp. - Warrant",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "GATEW"
+  }
+ ]
+}

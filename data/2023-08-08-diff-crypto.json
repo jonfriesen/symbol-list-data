@@ -1,0 +1,32 @@
+{
+ "added": [
+  {
+   "symbol": "LSETH",
+   "name": "Liquid Staked ETH (LSETH)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "BANK",
+   "name": "Float Protocol (BANK)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "PYUSD",
+   "name": "PayPal USD (PYUSD)"
+  },
+  {
+   "symbol": "GETH",
+   "name": "Guarded Ether (GETH)"
+  },
+  {
+   "symbol": "DOG",
+   "name": "The Doge NFT (DOG)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "X",
+   "name": "AI-X (X)",
+   "built_on": "ETH"
+  }
+ ]
+}
