@@ -1,0 +1,47 @@
+{
+ "added": [
+  {
+   "symbol": "X",
+   "name": "AI-X (X)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "PHA",
+   "name": "Phala Network (PHA)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "DOGETH",
+   "name": "EtherDoge (DOGETH)"
+  },
+  {
+   "symbol": "COREUM",
+   "name": "Coreum (COREUM)",
+   "built_on": "XRP"
+  },
+  {
+   "symbol": "BANKETH",
+   "name": "BankEth (BANKETH)"
+  },
+  {
+   "symbol": "G",
+   "name": "GRN Grid (G)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "MBOX",
+   "name": "MOBOX (MBOX)",
+   "built_on": "BNB"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "MBOX",
+   "name": "MOBOX (MBOX)"
+  },
+  {
+   "symbol": "PHA",
+   "name": "Phala Network (PHA)"
+  }
+ ]
+}

@@ -1,0 +1,96 @@
+{
+ "added": [
+  {
+   "symbol": "RGC",
+   "name": "Relevant Gold Corp.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "RGC.V",
+   "instruments": [
+    {
+     "name": "Relevant Gold Corp.",
+     "symbol": "RGC"
+    }
+   ]
+  },
+  {
+   "symbol": "APM",
+   "name": "Aptorum Group Limited - Class A Ordinary Shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "APM"
+  },
+  {
+   "symbol": "FEME",
+   "name": "Forstrong Emerging Markets Equity ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "FEME.TO",
+   "instruments": [
+    {
+     "name": "Forstrong EmrgMkt Eq",
+     "symbol": "FEME"
+    }
+   ]
+  },
+  {
+   "symbol": "FINE",
+   "name": "Forstrong Global Ex-North America Equity ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "FINE.TO",
+   "instruments": [
+    {
+     "name": "Forstrng GlbEx-NA Eq",
+     "symbol": "FINE"
+    }
+   ]
+  },
+  {
+   "symbol": "FGRW",
+   "name": "Forstrong Global Growth ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "FGRW.TO",
+   "instruments": [
+    {
+     "name": "Forstrong GlbGrowth",
+     "symbol": "FGRW"
+    }
+   ]
+  },
+  {
+   "symbol": "FINC",
+   "name": "Forstrong Global Income ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "FINC.TO",
+   "instruments": [
+    {
+     "name": "Forstrong Glbl Incm",
+     "symbol": "FINC"
+    }
+   ]
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "APM",
+   "name": "Aptorum Group Limited - Class A Ordinary Shares",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "APM"
+  },
+  {
+   "symbol": "DICE",
+   "name": "DICE Therapeutics, Inc. - Common Stock",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "DICE"
+  },
+  {
+   "symbol": "LTCH",
+   "name": "Latch, Inc. - Common Stock",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "LTCH"
+  },
+  {
+   "symbol": "LTCHW",
+   "name": "Latch, Inc. - Warrant",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "LTCHW"
+  }
+ ]
+}
