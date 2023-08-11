@@ -1,0 +1,132 @@
+{
+ "added": [
+  {
+   "symbol": "BUZ.P",
+   "name": "Buzz Capital Inc.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "BUZ.P.V",
+   "instruments": [
+    {
+     "name": "Buzz Capital Inc.",
+     "symbol": "BUZ.P"
+    }
+   ]
+  },
+  {
+   "symbol": "JHC",
+   "name": "Jinhua Capital Corporation",
+   "exchange": "TSXV",
+   "yahoo_symbol": "JHC.V",
+   "instruments": [
+    {
+     "name": "Jinhua Capital Corporation",
+     "symbol": "JHC"
+    }
+   ]
+  },
+  {
+   "symbol": "SHL",
+   "name": "Spruce Ridge Resources Ltd.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "SHL.V",
+   "instruments": [
+    {
+     "name": "Spruce Ridge Resources Ltd. ",
+     "symbol": "SHL"
+    }
+   ]
+  },
+  {
+   "symbol": "JTAI",
+   "name": "Jet.AI Inc. - Common Stock",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "JTAI"
+  },
+  {
+   "symbol": "JTAIW",
+   "name": "Jet.AI Inc. - Warrant",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "JTAIW"
+  },
+  {
+   "symbol": "LQR",
+   "name": "LQR House Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "LQR"
+  },
+  {
+   "symbol": "TLSI",
+   "name": "TriSalus Life Sciences, Inc. - Common Stock",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "TLSI"
+  },
+  {
+   "symbol": "TLSIW",
+   "name": "TriSalus Life Sciences, Inc. - Warrant",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "TLSIW"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "OXAC",
+   "name": "Oxbridge Acquisition Corp. - Class A Ordinary Shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "OXAC"
+  },
+  {
+   "symbol": "MTAC",
+   "name": "MedTech Acquisition Corporation - Class A Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "MTAC"
+  },
+  {
+   "symbol": "MIMO.B",
+   "name": "Airspan Networks Holdings Inc. Warrants, each whole warrant exercisable for one share of common stock at an exercise price of $15.00",
+   "exchange": "NYSE MKT",
+   "yahoo_symbol": "MIMO.B"
+  },
+  {
+   "symbol": "WCE",
+   "name": "Wescan Energy Corp.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "WCE.V",
+   "instruments": [
+    {
+     "name": "Wescan Energy Corp.",
+     "symbol": "WCE"
+    }
+   ]
+  },
+  {
+   "symbol": "MTACU",
+   "name": "MedTech Acquisition Corporation - Unit",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "MTACU"
+  },
+  {
+   "symbol": "OXACW",
+   "name": "Oxbridge Acquisition Corp. - Warrant",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "OXACW"
+  },
+  {
+   "symbol": "MIMO.A",
+   "name": "Airspan Networks Holdings Inc. Warrants, each whole warrant exercisable for one share of common stock at an exercise price of $12.50",
+   "exchange": "NYSE MKT",
+   "yahoo_symbol": "MIMO.A"
+  },
+  {
+   "symbol": "MTACW",
+   "name": "MedTech Acquisition Corporation - Warrant",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "MTACW"
+  },
+  {
+   "symbol": "OXACU",
+   "name": "Oxbridge Acquisition Corp. - Unit",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "OXACU"
+  }
+ ]
+}

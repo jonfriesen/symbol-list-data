@@ -1,0 +1,74 @@
+{
+ "added": [
+  {
+   "symbol": "KINGF",
+   "name": "King Finance (KINGF)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "BBFT",
+   "name": "Block Busters Tech Token (BBFT)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "COSS",
+   "name": "COS (COSS)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "BROCK",
+   "name": "Bitrock (BROCK)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "CRVUSD",
+   "name": "crvUSD (CRVUSD)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "XTM",
+   "name": "TORUM (XTM)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "BANKETH",
+   "name": "BankEth (BANKETH)"
+  },
+  {
+   "symbol": "G",
+   "name": "GRN Grid (G)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "DOG",
+   "name": "The Doge NFT (DOG)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "X",
+   "name": "AI-X (X)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "PLSX",
+   "name": "PulseX (PLSX)",
+   "built_on": "PLS"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "XTM",
+   "name": "TORUM (XTM)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "CONT",
+   "name": "Contentos (CONT)"
+  },
+  {
+   "symbol": "KING",
+   "name": "King Finance (KING)",
+   "built_on": "BNB"
+  }
+ ]
+}
