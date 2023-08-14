@@ -1,0 +1,126 @@
+{
+ "added": [
+  {
+   "symbol": "JTAIZ",
+   "name": "Jet.AI Inc. - Merger Consideration Warrants",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "JTAIZ"
+  },
+  {
+   "symbol": "DBD",
+   "name": "Diebold Nixdorf Incorporated Common stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "DBD"
+  },
+  {
+   "symbol": "HHH",
+   "name": "Howard Hughes Holdings Inc. Common Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "HHH"
+  },
+  {
+   "symbol": "AMR",
+   "name": "AM Resources Corp.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "AMR.V",
+   "instruments": [
+    {
+     "name": "AM Resources Corp.",
+     "symbol": "AMR"
+    }
+   ]
+  },
+  {
+   "symbol": "SNAG",
+   "name": "Silver North Resources Ltd.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "SNAG.V",
+   "instruments": [
+    {
+     "name": "Silver North Resources Ltd.",
+     "symbol": "SNAG"
+    }
+   ]
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "CPAA",
+   "name": "Conyers Park III Acquisition Corp. - Class A Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "CPAA"
+  },
+  {
+   "symbol": "CPAAU",
+   "name": "Conyers Park III Acquisition Corp. - Unit",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "CPAAU"
+  },
+  {
+   "symbol": "SGTX",
+   "name": "Sigilon Therapeutics, Inc. - Common Stock",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "SGTX"
+  },
+  {
+   "symbol": "PYPT",
+   "name": "AXS 1.5X PYPL Bull Daily ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "PYPT"
+  },
+  {
+   "symbol": "ANZ",
+   "name": "Alianza Minerals Ltd.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "ANZ.V",
+   "instruments": [
+    {
+     "name": "Alianza Minerals Ltd.",
+     "symbol": "ANZ"
+    }
+   ]
+  },
+  {
+   "symbol": "SOLOW",
+   "name": "Electrameccanica Vehicles Corp. Ltd. - Warrants",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "SOLOW"
+  },
+  {
+   "symbol": "IDBA",
+   "name": "IDEX Biometrics ASA - American Depositary Shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "IDBA"
+  },
+  {
+   "symbol": "HHC",
+   "name": "Howard Hughes Corporation (The) Common Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "HHC"
+  },
+  {
+   "symbol": "CPAAW",
+   "name": "Conyers Park III Acquisition Corp. - Warrants",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "CPAAW"
+  },
+  {
+   "symbol": "KDNY",
+   "name": "Chinook Therapeutics, Inc. - Common Stock",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "KDNY"
+  },
+  {
+   "symbol": "REAX",
+   "name": "The Real Brokerage Inc.",
+   "exchange": "TSX",
+   "yahoo_symbol": "REAX.TO",
+   "instruments": [
+    {
+     "name": "The Real Brokerage J",
+     "symbol": "REAX"
+    }
+   ]
+  }
+ ]
+}

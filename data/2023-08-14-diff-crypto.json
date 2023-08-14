@@ -1,0 +1,40 @@
+{
+ "added": [
+  {
+   "symbol": "KING",
+   "name": "KING (KING)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "XTM",
+   "name": "TORUM (XTM)",
+   "built_on": "MATIC"
+  },
+  {
+   "symbol": "X",
+   "name": "AI-X (X)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "GETH",
+   "name": "Guarded Ether (GETH)"
+  },
+  {
+   "symbol": "DOG",
+   "name": "The Doge NFT (DOG)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "BANK",
+   "name": "Float Protocol (BANK)",
+   "built_on": "ETH"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "XTM",
+   "name": "TORUM (XTM)",
+   "built_on": "BNB"
+  }
+ ]
+}
