@@ -1,0 +1,96 @@
+{
+ "added": [
+  {
+   "symbol": "PLSR",
+   "name": "Pulsar Helium Inc.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "PLSR.V",
+   "instruments": [
+    {
+     "name": "Pulsar Helium Inc.",
+     "symbol": "PLSR"
+    }
+   ]
+  },
+  {
+   "symbol": "ACIC",
+   "name": "American Coastal Insurance Corporation - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "ACIC"
+  },
+  {
+   "symbol": "KVUE.V",
+   "name": "Kenvue Inc. Common Stock When Issued",
+   "exchange": "NYSE",
+   "yahoo_symbol": "KVUE.V"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "BSAQ.W",
+   "name": "Black Spade Acquisition Co Warrants",
+   "exchange": "NYSE MKT",
+   "yahoo_symbol": "BSAQ.W"
+  },
+  {
+   "symbol": "SAL",
+   "name": "Salisbury Bancorp, Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "SAL"
+  },
+  {
+   "symbol": "MSVB",
+   "name": "Mid-Southern Bancorp, Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "MSVB"
+  },
+  {
+   "symbol": "INCR.U",
+   "name": "Intercure Ltd.",
+   "exchange": "TSX",
+   "yahoo_symbol": "INCR.U.TO",
+   "instruments": [
+    {
+     "name": "Intercure J Ord USF",
+     "symbol": "INCR.U"
+    }
+   ]
+  },
+  {
+   "symbol": "UIHC",
+   "name": "United Insurance Holdings Corp. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "UIHC"
+  },
+  {
+   "symbol": "BSAQ.U",
+   "name": "Black Spade Acquisition Co Units, each consisting of one Class A ordinary share and one-half of one redeemable warrant",
+   "exchange": "NYSE MKT",
+   "yahoo_symbol": "BSAQ.U"
+  },
+  {
+   "symbol": "APMIU",
+   "name": "AxonPrime Infrastructure Acquisition Corporation - Unit",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "APMIU"
+  },
+  {
+   "symbol": "RCA",
+   "name": "Ready Capital Corporation 7.00% Convertible Senior Notes due 2023",
+   "exchange": "NYSE",
+   "yahoo_symbol": "RCA"
+  },
+  {
+   "symbol": "AEPPZ",
+   "name": "American Electric Power Company, Inc. - Corporate Unit",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "AEPPZ"
+  },
+  {
+   "symbol": "BSAQ",
+   "name": "Black Spade Acquisition Co Class A Ordinary Shares",
+   "exchange": "NYSE MKT",
+   "yahoo_symbol": "BSAQ"
+  }
+ ]
+}
