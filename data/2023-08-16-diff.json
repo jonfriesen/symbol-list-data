@@ -1,0 +1,78 @@
+{
+ "added": [
+  {
+   "symbol": "CANC",
+   "name": "Tema Oncology ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "CANC"
+  },
+  {
+   "symbol": "SPGC",
+   "name": "Sacks Parente Golf, Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "SPGC"
+  },
+  {
+   "symbol": "SRM",
+   "name": "SRM Entertainment, Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "SRM"
+  },
+  {
+   "symbol": "VFS",
+   "name": "VinFast Auto Ltd. - Ordinary Shares",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "VFS"
+  },
+  {
+   "symbol": "VFSWW",
+   "name": "VinFast Auto Ltd. - Warrant",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "VFSWW"
+  },
+  {
+   "symbol": "APO$A",
+   "name": "Apollo Global Management, Inc. 6.75% Series A Mandatory Convertible Preferred Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "APO$A"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "YELL",
+   "name": "Yellow Corporation - Common Stock",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "YELL"
+  },
+  {
+   "symbol": "PCGU",
+   "name": "Pacific Gas \u0026 Electric Co. Equity Unit",
+   "exchange": "NYSE",
+   "yahoo_symbol": "PCGU"
+  },
+  {
+   "symbol": "AFTR.U",
+   "name": "AfterNext HealthTech Acquisition Corp. Units, each consisting of one Class A ordinary share and one-third of one redeemable warrant",
+   "exchange": "NYSE",
+   "yahoo_symbol": "AFTR.U"
+  },
+  {
+   "symbol": "POL.W",
+   "name": "Polished Inc. Warrants to Purchase Common Stock",
+   "exchange": "NYSE MKT",
+   "yahoo_symbol": "POL.W"
+  },
+  {
+   "symbol": "AFTR.W",
+   "name": "AfterNext HealthTech Acquisition Corp. Redeemable warrants, each whole warrant exercisable for one Class A ordinary share at an exercise price of $11.50",
+   "exchange": "NYSE",
+   "yahoo_symbol": "AFTR.W"
+  },
+  {
+   "symbol": "AFTR",
+   "name": "AfterNext HealthTech Acquisition Corp. Class A Ordinary Shares",
+   "exchange": "NYSE",
+   "yahoo_symbol": "AFTR"
+  }
+ ]
+}
