@@ -1,0 +1,72 @@
+{
+ "added": [
+  {
+   "symbol": "AISX",
+   "name": "Aisix Solutions Inc.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "AISX.V",
+   "instruments": [
+    {
+     "name": "Aisix Solutions Inc.",
+     "symbol": "AISX"
+    }
+   ]
+  },
+  {
+   "symbol": "SRQ",
+   "name": "SRQ Resources Inc.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "SRQ.V",
+   "instruments": [
+    {
+     "name": "SRQ Resources Inc.",
+     "symbol": "SRQ"
+    }
+   ]
+  },
+  {
+   "symbol": "CRVO",
+   "name": "CervoMed Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "CRVO"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "DFFN",
+   "name": "Diffusion Pharmaceuticals Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "DFFN"
+  },
+  {
+   "symbol": "MVAI",
+   "name": "Minerva Intelligence Inc.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "MVAI.V",
+   "instruments": [
+    {
+     "name": "Minerva Intelligence Inc.",
+     "symbol": "MVAI"
+    }
+   ]
+  },
+  {
+   "symbol": "PTRA",
+   "name": "Proterra Inc - Common Stock",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "PTRA"
+  },
+  {
+   "symbol": "ACU",
+   "name": "Aurora Solar Technologies Inc.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "ACU.V",
+   "instruments": [
+    {
+     "name": "Aurora Solar Technologies Inc.",
+     "symbol": "ACU"
+    }
+   ]
+  }
+ ]
+}
