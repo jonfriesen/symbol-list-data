@@ -1,0 +1,120 @@
+{
+ "added": [
+  {
+   "symbol": "BOWN",
+   "name": "Bowen Acquisition Corp - Ordinary Shares",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "BOWN"
+  },
+  {
+   "symbol": "BOWNR",
+   "name": "Bowen Acquisition Corp - Rights",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "BOWNR"
+  },
+  {
+   "symbol": "GECCZ",
+   "name": "Great Elm Capital Corp. - 8.75% Notes due 2028",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "GECCZ"
+  },
+  {
+   "symbol": "LGVNV",
+   "name": "Longeveron Inc. - Subscription Right When Issued",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "LGVNV"
+  },
+  {
+   "symbol": "SEZL",
+   "name": "Sezzle Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "SEZL"
+  },
+  {
+   "symbol": "VTAK",
+   "name": "Catheter Precision, Inc. Common Stock",
+   "exchange": "NYSE MKT",
+   "yahoo_symbol": "VTAK"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "APMI",
+   "name": "AxonPrime Infrastructure Acquisition Corporation - Class A Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "APMI"
+  },
+  {
+   "symbol": "UBP",
+   "name": "Urstadt Biddle Properties Inc. Common Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "UBP"
+  },
+  {
+   "symbol": "HMACR",
+   "name": "Hainan Manaslu Acquisition Corp. - Right",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "HMACR"
+  },
+  {
+   "symbol": "HMACW",
+   "name": "Hainan Manaslu Acquisition Corp. - Warrant",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "HMACW"
+  },
+  {
+   "symbol": "RMED",
+   "name": "Ra Medical Systems, Inc. Common Stock",
+   "exchange": "NYSE MKT",
+   "yahoo_symbol": "RMED"
+  },
+  {
+   "symbol": "APMIW",
+   "name": "AxonPrime Infrastructure Acquisition Corporation - Warrants",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "APMIW"
+  },
+  {
+   "symbol": "HMAC",
+   "name": "Hainan Manaslu Acquisition Corp. - Ordinary shares",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "HMAC"
+  },
+  {
+   "symbol": "BNGOW",
+   "name": "Bionano Genomics, Inc. - Warrant",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "BNGOW"
+  },
+  {
+   "symbol": "UBP$K",
+   "name": "Urstadt Biddle Properties Inc. 5.875% Series K Cumulative Redeemable Preferred Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "UBP$K"
+  },
+  {
+   "symbol": "HMACU",
+   "name": "Hainan Manaslu Acquisition Corp. - Unit",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "HMACU"
+  },
+  {
+   "symbol": "UBA",
+   "name": "Urstadt Biddle Properties Inc. Common Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "UBA"
+  },
+  {
+   "symbol": "UBP$H",
+   "name": "Urstadt Biddle Properties Inc. 6.250% Series H Cumulative Redeemable Preferred Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "UBP$H"
+  },
+  {
+   "symbol": "ARNC",
+   "name": "Arconic Corporation Common Stock ",
+   "exchange": "NYSE",
+   "yahoo_symbol": "ARNC"
+  }
+ ]
+}
