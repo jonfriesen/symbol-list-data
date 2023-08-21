@@ -1,0 +1,48 @@
+{
+ "added": [
+  {
+   "symbol": "JNJ.Z",
+   "name": "Johnson \u0026 Johnson Common Stock When-Distributed",
+   "exchange": "NYSE",
+   "yahoo_symbol": "JNJ.Z"
+  },
+  {
+   "symbol": "ABLV",
+   "name": "Able View Global Inc. - Class B Ordinary Shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "ABLV"
+  },
+  {
+   "symbol": "ABLVW",
+   "name": "Able View Global Inc. - Warrant",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "ABLVW"
+  },
+  {
+   "symbol": "CNFRZ",
+   "name": "Conifer Holdings, Inc. - 9.75% Senior Unsecured Notes due 2028",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "CNFRZ"
+  },
+  {
+   "symbol": "GLADZ",
+   "name": "Gladstone Capital Corporation - 7.75% Notes due 2028",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "GLADZ"
+  },
+  {
+   "symbol": "NNAGU",
+   "name": "99 Acquisition Group Inc. - Unit",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "NNAGU"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "AMRS",
+   "name": "Amyris, Inc. - Common Stock",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "AMRS"
+  }
+ ]
+}
