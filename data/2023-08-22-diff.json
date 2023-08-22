@@ -1,0 +1,120 @@
+{
+ "added": [
+  {
+   "symbol": "BUJA",
+   "name": "Bukit Jalil Global Acquisition 1 Ltd. - Ordinary Shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "BUJA"
+  },
+  {
+   "symbol": "BUJAR",
+   "name": "Bukit Jalil Global Acquisition 1 Ltd. - Rights",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "BUJAR"
+  },
+  {
+   "symbol": "BUJAW",
+   "name": "Bukit Jalil Global Acquisition 1 Ltd. - Warrants",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "BUJAW"
+  },
+  {
+   "symbol": "FMST",
+   "name": "Foremost Lithium Resource \u0026 Technology Ltd. - Common stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "FMST"
+  },
+  {
+   "symbol": "LGVNR",
+   "name": "Longeveron Inc. - Subscription Right",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "LGVNR"
+  },
+  {
+   "symbol": "PMGM",
+   "name": "Priveterra Acquisition Corp. II - Class A Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "PMGM"
+  },
+  {
+   "symbol": "PMGMU",
+   "name": "Priveterra Acquisition Corp. II - Unit",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "PMGMU"
+  },
+  {
+   "symbol": "PMGMW",
+   "name": "Priveterra Acquisition Corp. II - Warrant to purchase Class A common stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "PMGMW"
+  },
+  {
+   "symbol": "REGCO",
+   "name": "Regency Centers Corporation - 5.875% Series B Cumulative Redeemable Preferred Stock",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "REGCO"
+  },
+  {
+   "symbol": "REGCP",
+   "name": "Regency Centers Corporation - 6.25% Series A Cumulative Redeemable Preferred Stock",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "REGCP"
+  },
+  {
+   "symbol": "FFWM",
+   "name": "First Foundation Inc. Common Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "FFWM"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "TMKRU",
+   "name": "Priveterra Acquisition Corp. II - Unit",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "TMKRU"
+  },
+  {
+   "symbol": "LGVNV",
+   "name": "Longeveron Inc. - Subscription Right When Issued",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "LGVNV"
+  },
+  {
+   "symbol": "TMKR",
+   "name": "Priveterra Acquisition Corp. II - Class A Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "TMKR"
+  },
+  {
+   "symbol": "TMKRW",
+   "name": "Priveterra Acquisition Corp. II - Warrant to purchase Class A common stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "TMKRW"
+  },
+  {
+   "symbol": "FRGAP",
+   "name": "Franchise Group, Inc. - 7.50% Series A Cumulative Perpetual Preferred Stock",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "FRGAP"
+  },
+  {
+   "symbol": "ACGN",
+   "name": "Aceragen, Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "ACGN"
+  },
+  {
+   "symbol": "FFWM",
+   "name": "First Foundation Inc. - Common Stock",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "FFWM"
+  },
+  {
+   "symbol": "FRG",
+   "name": "Franchise Group, Inc. - Common Stock",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "FRG"
+  }
+ ]
+}
