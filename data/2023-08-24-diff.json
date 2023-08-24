@@ -1,0 +1,108 @@
+{
+ "added": [
+  {
+   "symbol": "AMTI",
+   "name": "Applied Molecular Transport Inc. - common stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "AMTI"
+  },
+  {
+   "symbol": "BETR",
+   "name": "Better Home \u0026 Finance Holding Company - Class A Common Stock",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "BETR"
+  },
+  {
+   "symbol": "BETRW",
+   "name": "Better Home \u0026 Finance Holding Company - Warrant",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "BETRW"
+  },
+  {
+   "symbol": "LGRO",
+   "name": "Level Four Large Cap Growth Active ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "LGRO"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "APGN",
+   "name": "Apexigen, Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "APGN"
+  },
+  {
+   "symbol": "AGAC",
+   "name": "African Gold Acquisition Corporation Class A Ordinary Shares",
+   "exchange": "NYSE",
+   "yahoo_symbol": "AGAC"
+  },
+  {
+   "symbol": "AURC",
+   "name": "Aurora Acquisition Corp. - Class A Ordinary Shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "AURC"
+  },
+  {
+   "symbol": "KVUE.V",
+   "name": "Kenvue Inc. Common Stock When Issued",
+   "exchange": "NYSE",
+   "yahoo_symbol": "KVUE.V"
+  },
+  {
+   "symbol": "APGNW",
+   "name": "Apexigen, Inc. - Warrant",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "APGNW"
+  },
+  {
+   "symbol": "AGAC.U",
+   "name": "African Gold Acquisition Corporation Units, each consisting of one Class A ordinary share and three-quarters of one redeemable warrant",
+   "exchange": "NYSE",
+   "yahoo_symbol": "AGAC.U"
+  },
+  {
+   "symbol": "AMTI",
+   "name": "Applied Molecular Transport Inc. - common stock",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "AMTI"
+  },
+  {
+   "symbol": "GMVD",
+   "name": "G Medical Innovations Holdings Ltd. - Ordinary Shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "GMVD"
+  },
+  {
+   "symbol": "FORG",
+   "name": "ForgeRock, Inc. Class A Common Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "FORG"
+  },
+  {
+   "symbol": "AURCW",
+   "name": "Aurora Acquisition Corp. - Warrant",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "AURCW"
+  },
+  {
+   "symbol": "JNJ.Z",
+   "name": "Johnson \u0026 Johnson Common Stock When-Distributed",
+   "exchange": "NYSE",
+   "yahoo_symbol": "JNJ.Z"
+  },
+  {
+   "symbol": "AURCU",
+   "name": "Aurora Acquisition Corp. - Unit",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "AURCU"
+  },
+  {
+   "symbol": "GMVDW",
+   "name": "G Medical Innovations Holdings Ltd. - Warrants",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "GMVDW"
+  }
+ ]
+}
