@@ -1,0 +1,114 @@
+{
+ "added": [
+  {
+   "symbol": "OPTG",
+   "name": "Optegra Ventures Inc.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "OPTG.V",
+   "instruments": [
+    {
+     "name": "Optegra Ventures Inc.",
+     "symbol": "OPTG"
+    }
+   ]
+  },
+  {
+   "symbol": "HEQT",
+   "name": "Horizons All-Equity Asset Allocation ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "HEQT.TO",
+   "instruments": [
+    {
+     "name": "Horizon GrowTRI A Un",
+     "symbol": "HEQT"
+    }
+   ]
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "LATGW",
+   "name": "LatAmGrowth SPAC - Warrants",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "LATGW"
+  },
+  {
+   "symbol": "WAVC",
+   "name": "Waverley Capital Acquisition Corp. 1 Class A Ordinary Shares",
+   "exchange": "NYSE",
+   "yahoo_symbol": "WAVC"
+  },
+  {
+   "symbol": "GFX.W",
+   "name": "Golden Falcon Acquisition Corp. Warrants, each whole warrant exercisable for one share of Class A Common Stock at an exercise price of $11.50",
+   "exchange": "NYSE",
+   "yahoo_symbol": "GFX.W"
+  },
+  {
+   "symbol": "GFX.U",
+   "name": "Golden Falcon Acquisition Corp. Units, each consisting of one share of Class A Common Stock and one-half of one Warrant",
+   "exchange": "NYSE",
+   "yahoo_symbol": "GFX.U"
+  },
+  {
+   "symbol": "GFX",
+   "name": "Golden Falcon Acquisition Corp. Class A Common Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "GFX"
+  },
+  {
+   "symbol": "APE",
+   "name": "AMC Entertainment Holdings, Inc. AMC Preferred Equity Units, each constituting a depositary share representing a 1/100th interest in a share of Series A Convertible Participating Preferred Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "APE"
+  },
+  {
+   "symbol": "HGRO",
+   "name": "Horizons Growth TRI ETF Portfolio",
+   "exchange": "TSX",
+   "yahoo_symbol": "HGRO.TO",
+   "instruments": [
+    {
+     "name": "Horizon GrowTRI A Un",
+     "symbol": "HGRO"
+    }
+   ]
+  },
+  {
+   "symbol": "WAVC.W",
+   "name": "Waverley Capital Acquisition Corp. 1 Warrants, each whole warrant exercisable for one Class A Ordinary Share at an exercise price of $11.50 per share",
+   "exchange": "NYSE",
+   "yahoo_symbol": "WAVC.W"
+  },
+  {
+   "symbol": "ESX",
+   "name": "Essex Minerals Inc.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "ESX.V",
+   "instruments": [
+    {
+     "name": "Essex Minerals Inc.",
+     "symbol": "ESX"
+    }
+   ]
+  },
+  {
+   "symbol": "BNCH",
+   "name": "Benchmark Metals Inc.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "BNCH.V",
+   "instruments": [
+    {
+     "name": "Benchmark Metals Inc.",
+     "symbol": "BNCH"
+    }
+   ]
+  },
+  {
+   "symbol": "WAVC.U",
+   "name": "Waverley Capital Acquisition Corp. 1 Units, each consisting of one Class A Ordinary Share and one-third of one redeemable warrant",
+   "exchange": "NYSE",
+   "yahoo_symbol": "WAVC.U"
+  }
+ ]
+}
