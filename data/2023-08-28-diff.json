@@ -1,0 +1,96 @@
+{
+ "added": [
+  {
+   "symbol": "GOVI",
+   "name": "Invesco Equal Weight 0-30 Year Treasury ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "GOVI"
+  },
+  {
+   "symbol": "BEEP",
+   "name": "Mobile Infrastructure Corporation Common Stock",
+   "exchange": "NYSE MKT",
+   "yahoo_symbol": "BEEP"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "PNACU",
+   "name": "Prime Number Acquisition I Corp. - Unit",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "PNACU"
+  },
+  {
+   "symbol": "PNACR",
+   "name": "Prime Number Acquisition I Corp. - Right",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "PNACR"
+  },
+  {
+   "symbol": "PNACW",
+   "name": "Prime Number Acquisition I Corp. - Warrant",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "PNACW"
+  },
+  {
+   "symbol": "SEAC",
+   "name": "SeaChange International, Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "SEAC"
+  },
+  {
+   "symbol": "FGMC",
+   "name": "FG Merger Corp. - Common Stock",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "FGMC"
+  },
+  {
+   "symbol": "FWAC",
+   "name": "Fifth Wall Acquisition Corp. III - Class A Ordinary Shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "FWAC"
+  },
+  {
+   "symbol": "FGMCW",
+   "name": "FG Merger Corp. - Warrant",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "FGMCW"
+  },
+  {
+   "symbol": "PNAC",
+   "name": "Prime Number Acquisition I Corp. - Class A Common Stock",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "PNAC"
+  },
+  {
+   "symbol": "HEAL",
+   "name": "Purpose Healthcare Innovation Yield Fund",
+   "exchange": "TSX",
+   "yahoo_symbol": "HEAL.TO",
+   "instruments": [
+    {
+     "name": "Purpose HlthcrInnov",
+     "symbol": "HEAL"
+    }
+   ]
+  },
+  {
+   "symbol": "FXLV",
+   "name": "F45 Training Holdings Inc. Common Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "FXLV"
+  },
+  {
+   "symbol": "FGMCU",
+   "name": "FG Merger Corp. - Unit",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "FGMCU"
+  },
+  {
+   "symbol": "PLW",
+   "name": "Invesco 1-30 Laddered Treasury ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "PLW"
+  }
+ ]
+}
