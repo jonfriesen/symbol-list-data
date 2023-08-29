@@ -1,0 +1,78 @@
+{
+ "added": [
+  {
+   "symbol": "ICCT",
+   "name": "FG Merger Corp. - Common stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "ICCT"
+  },
+  {
+   "symbol": "NCNC",
+   "name": "noco-noco Inc. - Ordinary Share",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "NCNC"
+  },
+  {
+   "symbol": "NCNCW",
+   "name": "noco-noco Inc. - Warrant",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "NCNCW"
+  },
+  {
+   "symbol": "WHFCL",
+   "name": "WhiteHorse Finance, Inc. - 7.875% Notes due 2028",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "WHFCL"
+  },
+  {
+   "symbol": "AMTB",
+   "name": "Amerant Bancorp Inc. Class A Common Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "AMTB"
+  },
+  {
+   "symbol": "APOS",
+   "name": "Apollo Global Management, Inc. 7.625% Fixed-Rate Resettable Junior Subordinated Notes due 2053",
+   "exchange": "NYSE",
+   "yahoo_symbol": "APOS"
+  },
+  {
+   "symbol": "EXTO",
+   "name": "Almacenes Exito S.A. American Depositary Share, each representing eight (8) Common Shares",
+   "exchange": "NYSE",
+   "yahoo_symbol": "EXTO"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "EXTO.V",
+   "name": "Almacenes Exito S.A. American Depositary Share, each representing eight (8) Common Shares When-Issued",
+   "exchange": "NYSE",
+   "yahoo_symbol": "EXTO.V"
+  },
+  {
+   "symbol": "CBD.V",
+   "name": "Companhia Brasileira de Distribuicao American Depositary Shares (Each representing one Common Share) When-Issued",
+   "exchange": "NYSE",
+   "yahoo_symbol": "CBD.V"
+  },
+  {
+   "symbol": "MNK",
+   "name": "Mallinckrodt plc Ordinary Shares",
+   "exchange": "NYSE MKT",
+   "yahoo_symbol": "MNK"
+  },
+  {
+   "symbol": "AMTB",
+   "name": "Amerant Bancorp Inc. - Class A Common Stock",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "AMTB"
+  },
+  {
+   "symbol": "OIG",
+   "name": "Orbital Infrastructure Group, Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "OIG"
+  }
+ ]
+}
