@@ -1,0 +1,42 @@
+{
+ "added": [
+  {
+   "symbol": "RRL",
+   "name": "Resolute Resources Ltd.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "RRL.V",
+   "instruments": [
+    {
+     "name": "Resolute Resources Ltd.",
+     "symbol": "RRL"
+    }
+   ]
+  },
+  {
+   "symbol": "COR",
+   "name": "Cencora, Inc. Common Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "COR"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "CRSS.P",
+   "name": "Crossover Acquisitions Inc.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "CRSS.P.V",
+   "instruments": [
+    {
+     "name": "Crossover Acquisitions Inc.",
+     "symbol": "CRSS.P"
+    }
+   ]
+  },
+  {
+   "symbol": "ABC",
+   "name": "AmerisourceBergen Corporation Common Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "ABC"
+  }
+ ]
+}
