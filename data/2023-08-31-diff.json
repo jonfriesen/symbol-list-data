@@ -1,0 +1,36 @@
+{
+ "added": [
+  {
+   "symbol": "IVP",
+   "name": "Inspire Veterinary Partners, Inc. - Class A Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "IVP"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "FXCOR",
+   "name": "Financial Strategies Acquisition Corp. - Rights",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "FXCOR"
+  },
+  {
+   "symbol": "FXCOW",
+   "name": "Financial Strategies Acquisition Corp. - Warrants",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "FXCOW"
+  },
+  {
+   "symbol": "FXCO",
+   "name": "Financial Strategies Acquisition Corp. - Class A Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "FXCO"
+  },
+  {
+   "symbol": "FIVR",
+   "name": "Strategy Shares Nasdaq 5HANDL Index ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "FIVR"
+  }
+ ]
+}
