@@ -1,0 +1,180 @@
+{
+ "added": [
+  {
+   "symbol": "RARE",
+   "name": "Tactical Resources Corp.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "RARE.V",
+   "instruments": [
+    {
+     "name": "Tactical Resources Corp.",
+     "symbol": "RARE"
+    }
+   ]
+  },
+  {
+   "symbol": "TBAL",
+   "name": "TD Balanced ETF Portfolio",
+   "exchange": "TSX",
+   "yahoo_symbol": "TBAL.TO",
+   "instruments": [
+    {
+     "name": "TD One-Click Mod ETF",
+     "symbol": "TBAL"
+    }
+   ]
+  },
+  {
+   "symbol": "TCON",
+   "name": "TD Conservative ETF Portfolio",
+   "exchange": "TSX",
+   "yahoo_symbol": "TCON.TO",
+   "instruments": [
+    {
+     "name": "TD One-Click Conserv",
+     "symbol": "TCON"
+    }
+   ]
+  },
+  {
+   "symbol": "TGRO",
+   "name": "TD Growth ETF Portfolio",
+   "exchange": "TSX",
+   "yahoo_symbol": "TGRO.TO",
+   "instruments": [
+    {
+     "name": "TD One-Click Aggres",
+     "symbol": "TGRO"
+    }
+   ]
+  },
+  {
+   "symbol": "RDUS",
+   "name": "Schnitzer Steel Industries, Inc. - Class A Common Stock",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "RDUS"
+  },
+  {
+   "symbol": "TFFP",
+   "name": "TFF Pharmaceuticals, Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "TFFP"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "EDTX",
+   "name": "EdtechX Holdings Acquisition Corp. II - Class A common stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "EDTX"
+  },
+  {
+   "symbol": "FOCS",
+   "name": "Focus Financial Partners Inc. - Common Stock",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "FOCS"
+  },
+  {
+   "symbol": "EDTXU",
+   "name": "EdtechX Holdings Acquisition Corp. II - Unit",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "EDTXU"
+  },
+  {
+   "symbol": "CCAIW",
+   "name": "Cascadia Acquisition Corp. - Warrant",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "CCAIW"
+  },
+  {
+   "symbol": "TOCC",
+   "name": "TD One-Click Conservative ETF Portfolio",
+   "exchange": "TSX",
+   "yahoo_symbol": "TOCC.TO",
+   "instruments": [
+    {
+     "name": "TD One-Click Conserv",
+     "symbol": "TOCC"
+    }
+   ]
+  },
+  {
+   "symbol": "TFFP",
+   "name": "TFF Pharmaceuticals, Inc. - Common Stock",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "TFFP"
+  },
+  {
+   "symbol": "TOCM",
+   "name": "TD One-Click Moderate ETF Portfolio",
+   "exchange": "TSX",
+   "yahoo_symbol": "TOCM.TO",
+   "instruments": [
+    {
+     "name": "TD One-Click Mod ETF",
+     "symbol": "TOCM"
+    }
+   ]
+  },
+  {
+   "symbol": "EDTXW",
+   "name": "EdtechX Holdings Acquisition Corp. II - Warrant",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "EDTXW"
+  },
+  {
+   "symbol": "SCHN",
+   "name": "Schnitzer Steel Industries, Inc. - Class A Common Stock",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "SCHN"
+  },
+  {
+   "symbol": "CCAI",
+   "name": "Cascadia Acquisition Corp. - Class A Common Stock",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "CCAI"
+  },
+  {
+   "symbol": "TOCA",
+   "name": "TD One-Click Aggressive ETF Portfolio",
+   "exchange": "TSX",
+   "yahoo_symbol": "TOCA.TO",
+   "instruments": [
+    {
+     "name": "TD One-Click Aggres",
+     "symbol": "TOCA"
+    }
+   ]
+  },
+  {
+   "symbol": "PRDS",
+   "name": "Pardes Biosciences, Inc. - Common Stock",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "PRDS"
+  },
+  {
+   "symbol": "CCAIU",
+   "name": "Cascadia Acquisition Corp. - Unit",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "CCAIU"
+  },
+  {
+   "symbol": "NEE$Q",
+   "name": "NextEra Energy, Inc. 6.219% Corporate Units",
+   "exchange": "NYSE",
+   "yahoo_symbol": "NEE$Q"
+  },
+  {
+   "symbol": "NEX",
+   "name": "NexTier Oilfield Solutions Inc. Common Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "NEX"
+  },
+  {
+   "symbol": "SABRP",
+   "name": "Sabre Corporation - 6.50% Series A Mandatory Convertible Preferred Stock",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "SABRP"
+  }
+ ]
+}
