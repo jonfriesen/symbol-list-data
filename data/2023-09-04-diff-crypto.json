@@ -1,0 +1,41 @@
+{
+ "added": [
+  {
+   "symbol": "GRIMACE",
+   "name": "Grimace (GRIMACE)",
+   "built_on": "DOGE"
+  },
+  {
+   "symbol": "GETH",
+   "name": "Guarded Ether (GETH)"
+  },
+  {
+   "symbol": "ELS",
+   "name": "Ethlas (ELS)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "ELYSIUM",
+   "name": "Elysium (ELYSIUM)"
+  },
+  {
+   "symbol": "BANK",
+   "name": "Float Protocol (BANK)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "DOGETH",
+   "name": "EtherDoge (DOGETH)"
+  },
+  {
+   "symbol": "XETH",
+   "name": "Xplosive Ethereum (XETH)"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "ELS",
+   "name": "Elysium (ELS)"
+  }
+ ]
+}
