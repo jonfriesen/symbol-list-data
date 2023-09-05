@@ -1,0 +1,60 @@
+{
+ "added": [
+  {
+   "symbol": "WTO",
+   "name": "UTime Limited - Ordinary Shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "WTO"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "SBIGW",
+   "name": "SpringBig Holdings, Inc. - Warrant",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "SBIGW"
+  },
+  {
+   "symbol": "HCG",
+   "name": "Home Capital Group Inc.",
+   "exchange": "TSX",
+   "yahoo_symbol": "HCG.TO",
+   "instruments": [
+    {
+     "name": "Home Capital Group",
+     "symbol": "HCG"
+    }
+   ]
+  },
+  {
+   "symbol": "UTME",
+   "name": "UTime Limited - Ordinary Shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "UTME"
+  },
+  {
+   "symbol": "NUVA",
+   "name": "NuVasive, Inc. - Common Stock",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "NUVA"
+  },
+  {
+   "symbol": "BKI",
+   "name": "Black Knight, Inc. Common Stock ",
+   "exchange": "NYSE",
+   "yahoo_symbol": "BKI"
+  },
+  {
+   "symbol": "SBIG",
+   "name": "SpringBig Holdings, Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "SBIG"
+  },
+  {
+   "symbol": "ROIVW",
+   "name": "Roivant Sciences Ltd. - Warrant",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "ROIVW"
+  }
+ ]
+}
