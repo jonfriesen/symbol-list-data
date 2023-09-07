@@ -1,0 +1,126 @@
+{
+ "added": [
+  {
+   "symbol": "ELUT",
+   "name": "Elutia, Inc. - Class A Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "ELUT"
+  },
+  {
+   "symbol": "SCNI",
+   "name": "Scinai Immunotherapeutics Ltd. - American Depositary Shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "SCNI"
+  },
+  {
+   "symbol": "XFIX",
+   "name": "F/m Opportunistic Income ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "XFIX"
+  },
+  {
+   "symbol": "HTL",
+   "name": "Hamilton Thorne Ltd.",
+   "exchange": "TSX",
+   "yahoo_symbol": "HTL.TO",
+   "instruments": [
+    {
+     "name": "Hamilton Thorne Ltd.",
+     "symbol": "HTL"
+    }
+   ]
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "NSTC",
+   "name": "Northern Star Investment Corp. III Class A Common Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "NSTC"
+  },
+  {
+   "symbol": "PLAN",
+   "name": "Progressive Planet Solutions Inc.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "PLAN.V",
+   "instruments": [
+    {
+     "name": "Progressive Planet Solutions Inc.",
+     "symbol": "PLAN"
+    }
+   ]
+  },
+  {
+   "symbol": "GECCN",
+   "name": "Great Elm Capital Corp. - Notes",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "GECCN"
+  },
+  {
+   "symbol": "NSTC.U",
+   "name": "Northern Star Investment Corp. III Units, each consisting of one share of Class A common stock and one-sixth of one redeemable warrant",
+   "exchange": "NYSE",
+   "yahoo_symbol": "NSTC.U"
+  },
+  {
+   "symbol": "YFI",
+   "name": "Edgewater Wireless Systems Inc.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "YFI.V",
+   "instruments": [
+    {
+     "name": "Edgewater Wireless Systems Inc.",
+     "symbol": "YFI"
+    }
+   ]
+  },
+  {
+   "symbol": "HTL",
+   "name": "Hamilton Thorne Ltd.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "HTL.V",
+   "instruments": [
+    {
+     "name": "Hamilton Thorne Ltd",
+     "symbol": "HTL"
+    }
+   ]
+  },
+  {
+   "symbol": "AZYO",
+   "name": "Aziyo Biologics, Inc. - Class A Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "AZYO"
+  },
+  {
+   "symbol": "GYA",
+   "name": "Guyana Goldstrike Inc.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "GYA.V",
+   "instruments": [
+    {
+     "name": "Guyana Goldstrike Inc.",
+     "symbol": "GYA"
+    }
+   ]
+  },
+  {
+   "symbol": "ISD",
+   "name": "iSign Media Solutions Inc.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "ISD.V",
+   "instruments": [
+    {
+     "name": "iSign Media Solutions Inc.",
+     "symbol": "ISD"
+    }
+   ]
+  },
+  {
+   "symbol": "BVXV",
+   "name": "BiondVax Pharmaceuticals Ltd. - American Depositary Shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "BVXV"
+  }
+ ]
+}
