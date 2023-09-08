@@ -1,0 +1,72 @@
+{
+ "added": [
+  {
+   "symbol": "BETS",
+   "name": "Bit Brother Limited - Class A Ordinary Shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "BETS"
+  },
+  {
+   "symbol": "DMK",
+   "name": "DMK Pharmaceuticals Corporation - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "DMK"
+  },
+  {
+   "symbol": "SWIN",
+   "name": "Solowin Holdings - Ordinary Share",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "SWIN"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "SQD",
+   "name": "SQI Diagnostics Inc.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "SQD.V",
+   "instruments": [
+    {
+     "name": "SQI Diagnostics Inc",
+     "symbol": "SQD"
+    }
+   ]
+  },
+  {
+   "symbol": "LOV",
+   "name": "Spark Networks SE - ADS",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "LOV"
+  },
+  {
+   "symbol": "HOC",
+   "name": "Hunter Technology Corp.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "HOC.V",
+   "instruments": [
+    {
+     "name": "Hunter Technology Corp.",
+     "symbol": "HOC"
+    }
+   ]
+  },
+  {
+   "symbol": "BTB",
+   "name": "Bit Brother Limited - Class A Ordinary Shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "BTB"
+  },
+  {
+   "symbol": "IBET",
+   "name": "iBET Sports Betting \u0026 Gaming ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "IBET"
+  },
+  {
+   "symbol": "ADMP",
+   "name": "Adamis Pharmaceuticals Corporation - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "ADMP"
+  }
+ ]
+}
