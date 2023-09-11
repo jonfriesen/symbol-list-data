@@ -1,0 +1,110 @@
+{
+ "added": [
+  {
+   "symbol": "PODC",
+   "name": "Courtside Group, Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "PODC"
+  },
+  {
+   "symbol": "SLE",
+   "name": "Super League Enterprise, Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "SLE"
+  },
+  {
+   "symbol": "AAUC",
+   "name": "Allied Gold Corporation",
+   "exchange": "TSX",
+   "yahoo_symbol": "AAUC.TO",
+   "instruments": [
+    {
+     "name": "Allied Gold Corp",
+     "symbol": "AAUC"
+    },
+    {
+     "name": "Allied Gld Crp Db US",
+     "symbol": "AAUC.DB.U"
+    }
+   ]
+  },
+  {
+   "symbol": "BNKR",
+   "name": "Bunker Hill Mining Corp.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "BNKR.V",
+   "instruments": [
+    {
+     "name": "Bunker Hill Mining Corp.",
+     "symbol": "BNKR"
+    }
+   ]
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "GOGR",
+   "name": "Osisko Green Acquisition Limited",
+   "exchange": "TSX",
+   "yahoo_symbol": "GOGR.TO",
+   "instruments": [
+    {
+     "name": "Osisko GrnAcq J A RV",
+     "symbol": "GOGR"
+    },
+    {
+     "name": "Osisko GreenAcq J Wt",
+     "symbol": "GOGR.WT"
+    }
+   ]
+  },
+  {
+   "symbol": "SLGG",
+   "name": "Super League Gaming, Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "SLGG"
+  },
+  {
+   "symbol": "SURF",
+   "name": "Surface Oncology, Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "SURF"
+  },
+  {
+   "symbol": "ATAQ.U",
+   "name": "Altimar Acquisition Corp. III Units, each consisting of one Class A Ordinary Share and one-fourth of one redeemable warrant",
+   "exchange": "NYSE",
+   "yahoo_symbol": "ATAQ.U"
+  },
+  {
+   "symbol": "ATAQ",
+   "name": "Altimar Acquisition Corp. III Class A Ordinary Shares",
+   "exchange": "NYSE",
+   "yahoo_symbol": "ATAQ"
+  },
+  {
+   "symbol": "USCM",
+   "name": "US Critical Metals Corp.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "USCM.V",
+   "instruments": [
+    {
+     "name": "US Critical Metals Corp.",
+     "symbol": "USCM"
+    }
+   ]
+  },
+  {
+   "symbol": "ILLM",
+   "name": "illumin Holdings Inc. - Common Shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "ILLM"
+  },
+  {
+   "symbol": "TYGOW",
+   "name": "Tigo Energy, Inc. - Warrant",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "TYGOW"
+  }
+ ]
+}
