@@ -1,0 +1,160 @@
+{
+ "added": [
+  {
+   "symbol": "PLAN",
+   "name": "Progressive Planet Solutions Inc.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "PLAN.V",
+   "instruments": [
+    {
+     "name": "Progressive Planet Solutions Inc.",
+     "symbol": "PLAN"
+    }
+   ]
+  },
+  {
+   "symbol": "XQQU",
+   "name": "iShares NASDAQ 100 Index ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "XQQU.TO",
+   "instruments": [
+    {
+     "name": "iShrs NASDAQ 100 Idx",
+     "symbol": "XQQU"
+    },
+    {
+     "name": "iShr NASDAQ 100 USF",
+     "symbol": "XQQU.U"
+    }
+   ]
+  },
+  {
+   "symbol": "XUSF",
+   "name": "iShares S\u0026P U.S. Financials Index ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "XUSF.TO",
+   "instruments": [
+    {
+     "name": "iShr S\u0026P US Fin Indx",
+     "symbol": "XUSF"
+    }
+   ]
+  },
+  {
+   "symbol": "XETM",
+   "name": "iShares S\u0026P/TSX Energy Transition Materials Index ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "XETM.TO",
+   "instruments": [
+    {
+     "name": "iShr SP/TSX EngyMtrl",
+     "symbol": "XETM"
+    }
+   ]
+  },
+  {
+   "symbol": "XCHP",
+   "name": "iShares Semiconductor Index ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "XCHP.TO",
+   "instruments": [
+    {
+     "name": "iShr Semiconductr Un",
+     "symbol": "XCHP"
+    }
+   ]
+  },
+  {
+   "symbol": "XAD",
+   "name": "iShares U.S. Aerospace \u0026 Defense Index ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "XAD.TO",
+   "instruments": [
+    {
+     "name": "iShrs US AeroDefence",
+     "symbol": "XAD"
+    }
+   ]
+  },
+  {
+   "symbol": "GNL$D",
+   "name": "Global Net Lease, Inc. 7.50% Series D Cumulative Redeemable Perpetual Preferred Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "GNL$D"
+  },
+  {
+   "symbol": "GNL$E",
+   "name": "Global Net Lease, Inc. 7.375% Series E Cumulative Redeemable Perpetual Preferred Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "GNL$E"
+  },
+  {
+   "symbol": "TKO",
+   "name": "TKO Group Holdings, Inc. Class A Common Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "TKO"
+  },
+  {
+   "symbol": "DNTH",
+   "name": "Dianthus Therapeutics, Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "DNTH"
+  },
+  {
+   "symbol": "MDAI",
+   "name": "Spectral AI, Inc. - Class A Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "MDAI"
+  },
+  {
+   "symbol": "MDAIW",
+   "name": "Spectral AI, Inc. - Warrants",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "MDAIW"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "WWE",
+   "name": "World Wrestling Entertainment, Inc. Class A Common Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "WWE"
+  },
+  {
+   "symbol": "RCLFU",
+   "name": "Rosecliff Acquisition Corp I - Units, consisting of one share Class A common stock and one-third redeemable warrants",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "RCLFU"
+  },
+  {
+   "symbol": "RCLF",
+   "name": "Rosecliff Acquisition Corp I - Class A Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "RCLF"
+  },
+  {
+   "symbol": "MGTA",
+   "name": "Magenta Therapeutics, Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "MGTA"
+  },
+  {
+   "symbol": "RCLFW",
+   "name": "Rosecliff Acquisition Corp I - Warrants",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "RCLFW"
+  },
+  {
+   "symbol": "GKO",
+   "name": "Geekco Technologies Corporation",
+   "exchange": "TSXV",
+   "yahoo_symbol": "GKO.V",
+   "instruments": [
+    {
+     "name": "Geekco Technologies Corporation",
+     "symbol": "GKO"
+    }
+   ]
+  }
+ ]
+}
