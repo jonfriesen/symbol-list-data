@@ -1,0 +1,190 @@
+{
+ "added": [
+  {
+   "symbol": "LNGE",
+   "name": "LNG Energy Group Corp.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "LNGE.V",
+   "instruments": [
+    {
+     "name": "LNG Energy Group Corp.",
+     "symbol": "LNGE"
+    },
+    {
+     "name": "LNG Energy Group Corp wt 15Aug2026",
+     "symbol": "LNGE.WT"
+    }
+   ]
+  },
+  {
+   "symbol": "NWGL",
+   "name": "Nature Wood Group Limited - American Depositary Shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "NWGL"
+  },
+  {
+   "symbol": "CLDI",
+   "name": "Calidi Biotherapeutics, Inc. Common Stock",
+   "exchange": "NYSE MKT",
+   "yahoo_symbol": "CLDI"
+  },
+  {
+   "symbol": "CLDI.W",
+   "name": "Calidi Biotherapeutics, Inc. Redeemable Warrants, each whole warrant exercisable for one share of Class A common stock at an exercise price of $11.50 per share",
+   "exchange": "NYSE MKT",
+   "yahoo_symbol": "CLDI.W"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "RUEH",
+   "name": "RBC Quant U.S. Equity Leaders (CAD Hedged) ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "RUEH.TO",
+   "instruments": [
+    {
+     "name": "RBC QuantUSEqty(C-H)",
+     "symbol": "RUEH"
+    }
+   ]
+  },
+  {
+   "symbol": "RCE",
+   "name": "RBC Quant Canadian Equity Leaders ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "RCE.TO",
+   "instruments": [
+    {
+     "name": "RBC Quant CdnEqLeadr",
+     "symbol": "RCE"
+    }
+   ]
+  },
+  {
+   "symbol": "FLAG.U",
+   "name": "First Light Acquisition Group, Inc. Units, each consisting of one share of Class A common stock and one-half of one redeemable warrant",
+   "exchange": "NYSE MKT",
+   "yahoo_symbol": "FLAG.U"
+  },
+  {
+   "symbol": "RIEH",
+   "name": "RBC Quant EAFE Equity Leaders (CAD Hedged) ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "RIEH.TO",
+   "instruments": [
+    {
+     "name": "RBC QntEAFE EQ CAHeg",
+     "symbol": "RIEH"
+    }
+   ]
+  },
+  {
+   "symbol": "RXE",
+   "name": "RBC Quant Emerging Markets Equity Leaders ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "RXE.TO",
+   "instruments": [
+    {
+     "name": "RBC QntEmrgMktEqLdr",
+     "symbol": "RXE"
+    },
+    {
+     "name": "RBC QntEmrMktEqLdrUS",
+     "symbol": "RXE.U"
+    }
+   ]
+  },
+  {
+   "symbol": "RTLPO",
+   "name": "The Necessity Retail REIT, Inc. - 7.375% Series C Cumulative Redeemable Preferred Stock",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "RTLPO"
+  },
+  {
+   "symbol": "NSTD.W",
+   "name": "Northern Star Investment Corp. IV Redeemable Warrants, each whole warrant exercisable for shares of Class A common stock at an exercise price of $11.50 per share",
+   "exchange": "NYSE",
+   "yahoo_symbol": "NSTD.W"
+  },
+  {
+   "symbol": "RTL",
+   "name": "The Necessity Retail REIT, Inc. - Class A Common Stock",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "RTL"
+  },
+  {
+   "symbol": "FLAG.W",
+   "name": "First Light Acquisition Group, Inc. Redeemable Warrants, each whole warrant exercisable for one share of Class A common stock at an exercise price of $11.50 per share",
+   "exchange": "NYSE MKT",
+   "yahoo_symbol": "FLAG.W"
+  },
+  {
+   "symbol": "NSTD.U",
+   "name": "Northern Star Investment Corp. IV Units, each consisting of one share of Class A common stock and one-sixth of one redeemable warrant",
+   "exchange": "NYSE",
+   "yahoo_symbol": "NSTD.U"
+  },
+  {
+   "symbol": "RUE",
+   "name": "RBC Quant U.S. Equity Leaders ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "RUE.TO",
+   "instruments": [
+    {
+     "name": "RBC Quant USEqLdr Un",
+     "symbol": "RUE"
+    },
+    {
+     "name": "RBC Quant USEqLdr US",
+     "symbol": "RUE.U"
+    }
+   ]
+  },
+  {
+   "symbol": "FLAG",
+   "name": "First Light Acquisition Group, Inc. Class A Common Stock",
+   "exchange": "NYSE MKT",
+   "yahoo_symbol": "FLAG"
+  },
+  {
+   "symbol": "RTLPP",
+   "name": "The Necessity Retail REIT, Inc. - 7.50% Series A Cumulative Redeemable Perpetual Preferred Stock",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "RTLPP"
+  },
+  {
+   "symbol": "RIE",
+   "name": "RBC Quant EAFE Equity Leaders ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "RIE.TO",
+   "instruments": [
+    {
+     "name": "RBC Quant EAFE Eqty",
+     "symbol": "RIE"
+    },
+    {
+     "name": "RBC QuantEAFE EqtyUS",
+     "symbol": "RIE.U"
+    }
+   ]
+  },
+  {
+   "symbol": "RQK",
+   "name": "RBC Target 2023 Corporate Bond Index ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "RQK.TO",
+   "instruments": [
+    {
+     "name": "RBC Target23 CorpBnd",
+     "symbol": "RQK"
+    }
+   ]
+  },
+  {
+   "symbol": "NSTD",
+   "name": "Northern Star Investment Corp. IV Class A Common Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "NSTD"
+  }
+ ]
+}
