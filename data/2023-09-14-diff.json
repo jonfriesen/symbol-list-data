@@ -1,0 +1,66 @@
+{
+ "added": [
+  {
+   "symbol": "COWS",
+   "name": "Amplify Cash Flow Dividend Leaders ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "COWS"
+  },
+  {
+   "symbol": "HARP",
+   "name": "Harpoon Therapeutics, Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "HARP"
+  },
+  {
+   "symbol": "NVDD",
+   "name": "Direxion Daily NVDA Bear 1X Shares",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "NVDD"
+  },
+  {
+   "symbol": "NVDU",
+   "name": "Direxion Daily NVDA Bull 1.5X Shares",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "NVDU"
+  },
+  {
+   "symbol": "SPPL",
+   "name": "SIMPPLE LTD. - Ordinary Shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "SPPL"
+  },
+  {
+   "symbol": "ARMN",
+   "name": "Aris Mining Corporation Common Shares",
+   "exchange": "NYSE MKT",
+   "yahoo_symbol": "ARMN"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "HARP",
+   "name": "Harpoon Therapeutics, Inc. - Common Stock",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "HARP"
+  },
+  {
+   "symbol": "INFI",
+   "name": "Infinity Pharmaceuticals, Inc. - Common Stock",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "INFI"
+  },
+  {
+   "symbol": "GS$J",
+   "name": "Goldman Sachs Group Inc Depositary Shs Repstg 1/1000th Pfd Ser J Fixed to Fltg Rate",
+   "exchange": "NYSE",
+   "yahoo_symbol": "GS$J"
+  },
+  {
+   "symbol": "KRBP",
+   "name": "Kiromic BioPharma, Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "KRBP"
+  }
+ ]
+}
