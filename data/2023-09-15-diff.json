@@ -1,0 +1,186 @@
+{
+ "added": [
+  {
+   "symbol": "ACU",
+   "name": "Aurora Solar Technologies Inc.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "ACU.V",
+   "instruments": [
+    {
+     "name": "Aurora Solar Technologies Inc.",
+     "symbol": "ACU"
+    }
+   ]
+  },
+  {
+   "symbol": "SNV",
+   "name": "Sonoro Energy Ltd.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "SNV.V",
+   "instruments": [
+    {
+     "name": "Sonoro Energy Ltd.",
+     "symbol": "SNV"
+    }
+   ]
+  },
+  {
+   "symbol": "ARM",
+   "name": "Arm Holdings plc - American Depositary Shares",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "ARM"
+  },
+  {
+   "symbol": "EQ",
+   "name": "Equillium, Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "EQ"
+  },
+  {
+   "symbol": "JGLO",
+   "name": "JPMorgan Global Select Equity ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "JGLO"
+  },
+  {
+   "symbol": "JIVE",
+   "name": "JPMorgan International Value ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "JIVE"
+  },
+  {
+   "symbol": "QQQY",
+   "name": "Defiance Nasdaq 100 Enhanced Options Income ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "QQQY"
+  },
+  {
+   "symbol": "SHOT",
+   "name": "Safety Shot, Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "SHOT"
+  },
+  {
+   "symbol": "SHOTW",
+   "name": "Safety Shot, Inc. - Warrant",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "SHOTW"
+  },
+  {
+   "symbol": "SMRI",
+   "name": "Bushido Capital US Equity ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "SMRI"
+  },
+  {
+   "symbol": "CDP",
+   "name": "COPT Defense Properties Common Shares of Beneficial Interest",
+   "exchange": "NYSE",
+   "yahoo_symbol": "CDP"
+  },
+  {
+   "symbol": "HYAC",
+   "name": "Haymaker Acquisition Corp. 4 Class A Ordinary Shares",
+   "exchange": "NYSE",
+   "yahoo_symbol": "HYAC"
+  },
+  {
+   "symbol": "HYAC.W",
+   "name": "Haymaker Acquisition Corp. 4 Warrants, each whole warrant exercisable for one Class A ordinary share at an exercise price of $11.50 per share",
+   "exchange": "NYSE",
+   "yahoo_symbol": "HYAC.W"
+  },
+  {
+   "symbol": "HBND",
+   "name": "Hamilton U.S. Bond Yield Maximizer ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "HBND.TO",
+   "instruments": [
+    {
+     "name": "Hamilton US BndYldMx",
+     "symbol": "HBND"
+    }
+   ]
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "JUPW",
+   "name": "Jupiter Wellness, Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "JUPW"
+  },
+  {
+   "symbol": "OPV",
+   "name": "Optimum Ventures Ltd.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "OPV.V",
+   "instruments": [
+    {
+     "name": "Optimum Ventures Ltd.",
+     "symbol": "OPV"
+    }
+   ]
+  },
+  {
+   "symbol": "PIAI.U",
+   "name": "Prime Impact Acquisition I Units, each consisting of one Class A ordinary share, and one-third of a redeemable Warrant to acquire one Class A ordinary share",
+   "exchange": "NYSE",
+   "yahoo_symbol": "PIAI.U"
+  },
+  {
+   "symbol": "PIAI.W",
+   "name": "Prime Impact Acquisition I Warrants, each whole warrant exercisable for one Class A ordinary share at an exercise price of $11.50",
+   "exchange": "NYSE",
+   "yahoo_symbol": "PIAI.W"
+  },
+  {
+   "symbol": "KKR$C",
+   "name": "KKR \u0026 Co. Inc. 6.00% Series C Mandatory Convertible Preferred Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "KKR$C"
+  },
+  {
+   "symbol": "BKSC",
+   "name": "Bank of South Carolina Corp. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "BKSC"
+  },
+  {
+   "symbol": "DRTT",
+   "name": "DIRTT Environmental Solutions Ltd. - Common Shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "DRTT"
+  },
+  {
+   "symbol": "EQ",
+   "name": "Equillium, Inc. - Common Stock",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "EQ"
+  },
+  {
+   "symbol": "OFC",
+   "name": "Corporate Office Properties Trust Common Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "OFC"
+  },
+  {
+   "symbol": "WFC$Q",
+   "name": "Wells Fargo \u0026 Company Depositary Shares Representing 1/1000th Interest Perpetual Preferred Class A Series Q Fixed to Floating",
+   "exchange": "NYSE",
+   "yahoo_symbol": "WFC$Q"
+  },
+  {
+   "symbol": "PIAI",
+   "name": "Prime Impact Acquisition I Class A Ordinary Shares",
+   "exchange": "NYSE",
+   "yahoo_symbol": "PIAI"
+  },
+  {
+   "symbol": "JUPWW",
+   "name": "Jupiter Wellness, Inc. - Warrant",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "JUPWW"
+  }
+ ]
+}
