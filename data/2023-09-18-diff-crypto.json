@@ -1,0 +1,55 @@
+{
+ "added": [
+  {
+   "symbol": "CRPT",
+   "name": "Crypterium (CRPT)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "TONE",
+   "name": "TE-FOOD (TONE)"
+  },
+  {
+   "symbol": "BETBOX",
+   "name": "betbox (BETBOX)"
+  },
+  {
+   "symbol": "GETH",
+   "name": "Guarded Ether (GETH)"
+  },
+  {
+   "symbol": "BANK",
+   "name": "Float Protocol (BANK)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "XETH",
+   "name": "Xplosive Ethereum (XETH)"
+  },
+  {
+   "symbol": "OX",
+   "name": "Open Exchange Token (OX)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "DOGETH",
+   "name": "EtherDoge (DOGETH)"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "CRPT",
+   "name": "Crypterium (CRPT)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "OX",
+   "name": "betbox (OX)"
+  },
+  {
+   "symbol": "TONE",
+   "name": "TE-FOOD (TONE)",
+   "built_on": "ETH"
+  }
+ ]
+}

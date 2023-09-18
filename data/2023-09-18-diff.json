@@ -1,0 +1,138 @@
+{
+ "added": [
+  {
+   "symbol": "ATRL",
+   "name": "SNC-Lavalin Group Inc.",
+   "exchange": "TSX",
+   "yahoo_symbol": "ATRL.TO",
+   "instruments": [
+    {
+     "name": "SNC - Lavalin Group",
+     "symbol": "ATRL"
+    }
+   ]
+  },
+  {
+   "symbol": "MI",
+   "name": "NFT Limited Class A Ordinary Share",
+   "exchange": "NYSE MKT",
+   "yahoo_symbol": "MI"
+  },
+  {
+   "symbol": "GOEV",
+   "name": "Canoo Inc.  - Class A Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "GOEV"
+  },
+  {
+   "symbol": "GOEVW",
+   "name": "Canoo Inc.  - Warrant",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "GOEVW"
+  },
+  {
+   "symbol": "KVAC",
+   "name": "Keen Vision Acquisition Corporation - Ordinary Shares",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "KVAC"
+  },
+  {
+   "symbol": "KVACW",
+   "name": "Keen Vision Acquisition Corporation - Warrant",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "KVACW"
+  },
+  {
+   "symbol": "NMRA",
+   "name": "Neumora Therapeutics, Inc. - Common Stock",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "NMRA"
+  },
+  {
+   "symbol": "RYZB",
+   "name": "RayzeBio, Inc. - Common Stock",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "RYZB"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "HHRSW",
+   "name": "Hammerhead Energy Inc. - Warrant",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "HHRSW"
+  },
+  {
+   "symbol": "GOEV",
+   "name": "Canoo Inc.  - Class A Common Stock",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "GOEV"
+  },
+  {
+   "symbol": "GOEVW",
+   "name": "Canoo Inc.  - Warrant",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "GOEVW"
+  },
+  {
+   "symbol": "TKAT",
+   "name": "Takung Art Co., Ltd. Common Stock",
+   "exchange": "NYSE MKT",
+   "yahoo_symbol": "TKAT"
+  },
+  {
+   "symbol": "SVS",
+   "name": "Solarvest BioEnergy Inc.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "SVS.V",
+   "instruments": [
+    {
+     "name": "Solarvest BioEnergy Inc",
+     "symbol": "SVS"
+    }
+   ]
+  },
+  {
+   "symbol": "SNC",
+   "name": "SNC-Lavalin Group Inc.",
+   "exchange": "TSX",
+   "yahoo_symbol": "SNC.TO",
+   "instruments": [
+    {
+     "name": "SNC - Lavalin Group",
+     "symbol": "SNC"
+    }
+   ]
+  },
+  {
+   "symbol": "SNLN",
+   "name": "Highland/iBoxx Senior Loan ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "SNLN"
+  },
+  {
+   "symbol": "UTAA",
+   "name": "UTA Acquisition Corporation - Class A Ordinary Shares",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "UTAA"
+  },
+  {
+   "symbol": "CSL",
+   "name": "Comstock Metals Ltd.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "CSL.V",
+   "instruments": [
+    {
+     "name": "Comstock Metals Ltd.",
+     "symbol": "CSL"
+    }
+   ]
+  },
+  {
+   "symbol": "UTAAU",
+   "name": "UTA Acquisition Corporation - Units",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "UTAAU"
+  }
+ ]
+}
