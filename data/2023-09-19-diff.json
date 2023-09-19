@@ -1,0 +1,48 @@
+{
+ "added": [
+  {
+   "symbol": "ACB",
+   "name": "Aurora Cannabis Inc. - Common Shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "ACB"
+  },
+  {
+   "symbol": "CCG",
+   "name": "Cheche Group Inc. - Class A Ordinary Shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "CCG"
+  },
+  {
+   "symbol": "CCGWW",
+   "name": "Cheche Group Inc. - Warrant",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "CCGWW"
+  },
+  {
+   "symbol": "FTLF",
+   "name": "FitLife Brands, Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "FTLF"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "ZEV.W",
+   "name": "Lightning eMotors, Inc. Warrants",
+   "exchange": "NYSE",
+   "yahoo_symbol": "ZEV.W"
+  },
+  {
+   "symbol": "ACB",
+   "name": "Aurora Cannabis Inc. - Common Shares",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "ACB"
+  },
+  {
+   "symbol": "ZEV",
+   "name": "Lightning eMotors, Inc Common Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "ZEV"
+  }
+ ]
+}
