@@ -1,0 +1,72 @@
+{
+ "added": [
+  {
+   "symbol": "CART",
+   "name": "Maplebear Inc. - Common Stock",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "CART"
+  },
+  {
+   "symbol": "CNGL",
+   "name": "Canna-Global Acquisition Corp - Class A Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "CNGL"
+  },
+  {
+   "symbol": "CNGLU",
+   "name": "Canna-Global Acquisition Corp - Unit",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "CNGLU"
+  },
+  {
+   "symbol": "CNGLW",
+   "name": "Canna-Global Acquisition Corp - Warrant",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "CNGLW"
+  },
+  {
+   "symbol": "DTCK",
+   "name": "Davis Commodities Limited - Ordinary Shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "DTCK"
+  },
+  {
+   "symbol": "SGBXV",
+   "name": "Safe \u0026 Green Holdings Corp. - Common Stock Ex-distribution When Issued",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "SGBXV"
+  },
+  {
+   "symbol": "SGDVV",
+   "name": "Safe and Green Development Corporation - Common Stock When Issued",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "SGDVV"
+  },
+  {
+   "symbol": "KVYO",
+   "name": "Klaviyo, Inc. Series A Common Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "KVYO"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "CNGLW",
+   "name": "Canna-Global Acquisition Corp - Warrant",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "CNGLW"
+  },
+  {
+   "symbol": "CNGLU",
+   "name": "Canna-Global Acquisition Corp - Unit",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "CNGLU"
+  },
+  {
+   "symbol": "CNGL",
+   "name": "Canna-Global Acquisition Corp - Class A Common Stock",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "CNGL"
+  }
+ ]
+}

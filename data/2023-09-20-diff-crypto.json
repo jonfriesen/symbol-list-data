@@ -1,0 +1,48 @@
+{
+ "added": [
+  {
+   "symbol": "RIF",
+   "name": "RIF Token (RIF)",
+   "built_on": "RBTC"
+  },
+  {
+   "symbol": "VCNT",
+   "name": "ViciCoin (VCNT)",
+   "built_on": "MATIC"
+  },
+  {
+   "symbol": "G",
+   "name": "GRN Grid (G)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "X",
+   "name": "AI-X (X)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "TSUGT",
+   "name": "Captain Tsubasa (TSUGT)",
+   "built_on": "MATIC"
+  },
+  {
+   "symbol": "VEXT",
+   "name": "Veloce (VEXT)",
+   "built_on": "MATIC"
+  },
+  {
+   "symbol": "DOGETH",
+   "name": "EtherDoge (DOGETH)"
+  },
+  {
+   "symbol": "BANKETH",
+   "name": "BankEth (BANKETH)"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "RIF",
+   "name": "RIF Token (RIF)"
+  }
+ ]
+}
