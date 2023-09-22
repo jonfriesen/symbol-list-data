@@ -1,0 +1,78 @@
+{
+ "added": [
+  {
+   "symbol": "CONE",
+   "name": "Canada One Mining Corp.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "CONE.V",
+   "instruments": [
+    {
+     "name": "Canada One Mining Corp.",
+     "symbol": "CONE"
+    }
+   ]
+  },
+  {
+   "symbol": "YFI",
+   "name": "Edgewater Wireless Systems Inc.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "YFI.V",
+   "instruments": [
+    {
+     "name": "Edgewater Wireless Systems Inc.",
+     "symbol": "YFI"
+    }
+   ]
+  },
+  {
+   "symbol": "ABAT",
+   "name": "American Battery Technology Company - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "ABAT"
+  },
+  {
+   "symbol": "MDBH",
+   "name": "MDB Capital Holdings, LLC - Class A common ",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "MDBH"
+  },
+  {
+   "symbol": "WABF",
+   "name": "Western Asset Bond ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "WABF"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "PRTK",
+   "name": "Paratek Pharmaceuticals, Inc.  - Common Stock",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "PRTK"
+  },
+  {
+   "symbol": "AAM$B",
+   "name": "Apollo Asset Management, Inc. 6.375% Series B Preferred Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "AAM$B"
+  },
+  {
+   "symbol": "LGVNR",
+   "name": "Longeveron Inc. - Subscription Right",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "LGVNR"
+  },
+  {
+   "symbol": "AAM$A",
+   "name": "Apollo Asset Management, Inc. 6.375% Series A Preferred Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "AAM$A"
+  },
+  {
+   "symbol": "RADI",
+   "name": "Radius Global Infrastructure, Inc. - Common Stock",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "RADI"
+  }
+ ]
+}
