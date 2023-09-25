@@ -1,0 +1,108 @@
+{
+ "added": [
+  {
+   "symbol": "CDT",
+   "name": "Conduit Pharmaceuticals Inc.  - Common Stock",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "CDT"
+  },
+  {
+   "symbol": "CDTTW",
+   "name": "Conduit Pharmaceuticals Inc.  - Warrant",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "CDTTW"
+  },
+  {
+   "symbol": "DOGZ",
+   "name": "Dogness (International) Corporation - Class A Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "DOGZ"
+  },
+  {
+   "symbol": "THAR",
+   "name": "Tharimmune, Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "THAR"
+  },
+  {
+   "symbol": "TURB",
+   "name": "Turbo Energy, S.A. - American Depositary Shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "TURB"
+  },
+  {
+   "symbol": "YHGJ",
+   "name": "Yunhong Green CTI Ltd. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "YHGJ"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "BRDS",
+   "name": "Bird Global, Inc. Class A Common Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "BRDS"
+  },
+  {
+   "symbol": "MURFU",
+   "name": "Murphy Canyon Acquisition Corp. - Unit",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "MURFU"
+  },
+  {
+   "symbol": "DOGZ",
+   "name": "Dogness (International) Corporation - Class A Common Stock",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "DOGZ"
+  },
+  {
+   "symbol": "HILS",
+   "name": "Hillstream BioPharma, Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "HILS"
+  },
+  {
+   "symbol": "MMP",
+   "name": "Magellan Midstream Partners L.P. Limited Partnership",
+   "exchange": "NYSE",
+   "yahoo_symbol": "MMP"
+  },
+  {
+   "symbol": "BRDS.W",
+   "name": "Bird Global, Inc. Warrants, each whole warrant exercisable to purchase one share of Class A Common Stock at an exercise price of $11.50 per share",
+   "exchange": "NYSE",
+   "yahoo_symbol": "BRDS.W"
+  },
+  {
+   "symbol": "APRN",
+   "name": "Blue Apron Holdings, Inc. Class A Common Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "APRN"
+  },
+  {
+   "symbol": "FATH.W",
+   "name": "Fathom Digital Manufacturing Corporation Warrants, each whole warrant exercisable for one Class A Common Stock at an exercise price of $11.50 per share",
+   "exchange": "NYSE",
+   "yahoo_symbol": "FATH.W"
+  },
+  {
+   "symbol": "MURFW",
+   "name": "Murphy Canyon Acquisition Corp. - Warrant",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "MURFW"
+  },
+  {
+   "symbol": "MURF",
+   "name": "Murphy Canyon Acquisition Corp. - Class A Common Stock",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "MURF"
+  },
+  {
+   "symbol": "CTIB",
+   "name": "Yunhong CTI Ltd. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "CTIB"
+  }
+ ]
+}

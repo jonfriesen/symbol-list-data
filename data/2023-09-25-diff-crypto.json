@@ -1,0 +1,26 @@
+{
+ "added": [
+  {
+   "symbol": "X",
+   "name": "AI-X (X)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "G",
+   "name": "GRN Grid (G)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "TOPIA",
+   "name": "Hytopia (TOPIA)"
+  },
+  {
+   "symbol": "DOGETH",
+   "name": "EtherDoge (DOGETH)"
+  },
+  {
+   "symbol": "BANKETH",
+   "name": "BankEth (BANKETH)"
+  }
+ ]
+}
