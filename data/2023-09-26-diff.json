@@ -1,0 +1,96 @@
+{
+ "added": [
+  {
+   "symbol": "APRN",
+   "name": "Blue Apron Holdings, Inc. - Class A Common Stock",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "APRN"
+  },
+  {
+   "symbol": "SWKH",
+   "name": "SWK Holdings Corporation - Common Stock",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "SWKH"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "DMS",
+   "name": "Digital Media Solutions, Inc. Class A Ordinary Shares",
+   "exchange": "NYSE",
+   "yahoo_symbol": "DMS"
+  },
+  {
+   "symbol": "ADER",
+   "name": "26 Capital Acquisition Corp. - Class A Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "ADER"
+  },
+  {
+   "symbol": "GFGDR",
+   "name": "The Growth for Good Acquisition Corporation - Right",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "GFGDR"
+  },
+  {
+   "symbol": "SUNL.W",
+   "name": "Sunlight Financial Holdings, Inc. Warrants",
+   "exchange": "NYSE",
+   "yahoo_symbol": "SUNL.W"
+  },
+  {
+   "symbol": "GFGDW",
+   "name": "The Growth for Good Acquisition Corporation - Warrant",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "GFGDW"
+  },
+  {
+   "symbol": "SWKH",
+   "name": "SWK Holdings Corporation - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "SWKH"
+  },
+  {
+   "symbol": "GFGD",
+   "name": "The Growth for Good Acquisition Corporation - Class A Ordinary Shares",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "GFGD"
+  },
+  {
+   "symbol": "GFGDU",
+   "name": "The Growth for Good Acquisition Corporation - Unit",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "GFGDU"
+  },
+  {
+   "symbol": "DBTX",
+   "name": "Decibel Therapeutics, Inc. - Common Stock",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "DBTX"
+  },
+  {
+   "symbol": "ADERU",
+   "name": "26 Capital Acquisition Corp. - Unit",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "ADERU"
+  },
+  {
+   "symbol": "COO",
+   "name": "The Cooper Companies, Inc. Common Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "COO"
+  },
+  {
+   "symbol": "ADERW",
+   "name": "26 Capital Acquisition Corp. - Warrant",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "ADERW"
+  },
+  {
+   "symbol": "SUNL",
+   "name": "Sunlight Financial Holdings, Inc. Class A Common Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "SUNL"
+  }
+ ]
+}
