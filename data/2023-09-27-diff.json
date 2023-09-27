@@ -1,0 +1,114 @@
+{
+ "added": [
+  {
+   "symbol": "VTEN.P",
+   "name": "V Ten Capital Corp.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "VTEN.P.V",
+   "instruments": [
+    {
+     "name": "V Ten Capital Corp.",
+     "symbol": "VTEN.P"
+    }
+   ]
+  },
+  {
+   "symbol": "COO",
+   "name": "The Cooper Companies, Inc.  - Common Stock",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "COO"
+  },
+  {
+   "symbol": "ARMK.V",
+   "name": "Aramark Common Stock When-Issued",
+   "exchange": "NYSE",
+   "yahoo_symbol": "ARMK.V"
+  },
+  {
+   "symbol": "DHR.V",
+   "name": "Danaher Corporation Common Stock When-Issued",
+   "exchange": "NYSE",
+   "yahoo_symbol": "DHR.V"
+  },
+  {
+   "symbol": "K.V",
+   "name": "Kellogg Company Common Stock When-Issued",
+   "exchange": "NYSE",
+   "yahoo_symbol": "K.V"
+  },
+  {
+   "symbol": "KLG.V",
+   "name": "WK Kellogg Co Common Stock When-Issued",
+   "exchange": "NYSE",
+   "yahoo_symbol": "KLG.V"
+  },
+  {
+   "symbol": "NCL",
+   "name": "Northann Corp. Common Stock",
+   "exchange": "NYSE MKT",
+   "yahoo_symbol": "NCL"
+  },
+  {
+   "symbol": "NSA$B",
+   "name": "National Storage Affiliates Trust 6.000% Series B Cumulative Redeemable Preferred Shares of Beneficial Interest",
+   "exchange": "NYSE",
+   "yahoo_symbol": "NSA$B"
+  },
+  {
+   "symbol": "VLTO.V",
+   "name": "Veralto Corp Common Stock When-Issued",
+   "exchange": "NYSE",
+   "yahoo_symbol": "VLTO.V"
+  },
+  {
+   "symbol": "VSTS.V",
+   "name": "Vestis Corporation Common Stock When-Issued",
+   "exchange": "NYSE",
+   "yahoo_symbol": "VSTS.V"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "ICNC",
+   "name": "Iconic Sports Acquisition Corp. Class A Ordinary Shares",
+   "exchange": "NYSE",
+   "yahoo_symbol": "ICNC"
+  },
+  {
+   "symbol": "ICNC.W",
+   "name": "Iconic Sports Acquisition Corp. Redeemable Warrants, each whole warrant exercisable for one Class A ordinary share at an exercise price of $11.50",
+   "exchange": "NYSE",
+   "yahoo_symbol": "ICNC.W"
+  },
+  {
+   "symbol": "ICNC.U",
+   "name": "Iconic Sports Acquisition Corp. Units",
+   "exchange": "NYSE",
+   "yahoo_symbol": "ICNC.U"
+  },
+  {
+   "symbol": "DASH",
+   "name": "DoorDash, Inc. Class A Common Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "DASH"
+  },
+  {
+   "symbol": "LMNL",
+   "name": "Liminal BioSciences Inc. - Common Shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "LMNL"
+  },
+  {
+   "symbol": "RETA",
+   "name": "Reata Pharmaceuticals, Inc. - Class A Common Stock",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "RETA"
+  },
+  {
+   "symbol": "OTMOW",
+   "name": "Otonomo Technologies Ltd. - Warrant",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "OTMOW"
+  }
+ ]
+}
