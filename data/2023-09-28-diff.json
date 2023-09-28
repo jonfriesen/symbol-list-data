@@ -1,0 +1,126 @@
+{
+ "added": [
+  {
+   "symbol": "EDY",
+   "name": "Eddy Smart Home Solutions Ltd.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "EDY.V",
+   "instruments": [
+    {
+     "name": "Eddy Smart Home Solutions Ltd.",
+     "symbol": "EDY"
+    }
+   ]
+  },
+  {
+   "symbol": "SGN",
+   "name": "Scorpio Gold Corporation",
+   "exchange": "TSXV",
+   "yahoo_symbol": "SGN.V",
+   "instruments": [
+    {
+     "name": "Scorpio Gold Corporation",
+     "symbol": "SGN"
+    }
+   ]
+  },
+  {
+   "symbol": "HPYT",
+   "name": "Harvest Premium Yield Treasury ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "HPYT.TO",
+   "instruments": [
+    {
+     "name": "Harvest PremYldTreas",
+     "symbol": "HPYT"
+    }
+   ]
+  },
+  {
+   "symbol": "DASH",
+   "name": "DoorDash, Inc. - Common Stock",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "DASH"
+  },
+  {
+   "symbol": "FREQ",
+   "name": "Frequency Therapeutics, Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "FREQ"
+  },
+  {
+   "symbol": "LRE",
+   "name": "Lead Real Estate Co., Ltd - American Depositary Shares",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "LRE"
+  },
+  {
+   "symbol": "SGD",
+   "name": "Safe and Green Development Corporation - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "SGD"
+  },
+  {
+   "symbol": "PMTU",
+   "name": "PennyMac Mortgage Investment Trust 8.50% Senior Notes due 2028",
+   "exchange": "NYSE",
+   "yahoo_symbol": "PMTU"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "SGBXV",
+   "name": "Safe \u0026 Green Holdings Corp. - Common Stock Ex-distribution When Issued",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "SGBXV"
+  },
+  {
+   "symbol": "SLVR",
+   "name": "SilverSPAC Inc. - Class A Ordinary Share",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "SLVR"
+  },
+  {
+   "symbol": "NRDY.W",
+   "name": "Nerdy Inc. Warrants, each whole warrant exercisable for one share of Class A Common Stock at an exercise price of $11.50 per share",
+   "exchange": "NYSE",
+   "yahoo_symbol": "NRDY.W"
+  },
+  {
+   "symbol": "SLVRU",
+   "name": "SilverSPAC Inc. - Unit",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "SLVRU"
+  },
+  {
+   "symbol": "SLVRW",
+   "name": "SilverSPAC Inc. - Warrant",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "SLVRW"
+  },
+  {
+   "symbol": "TRTN",
+   "name": "Triton International Limited Common Shares",
+   "exchange": "NYSE",
+   "yahoo_symbol": "TRTN"
+  },
+  {
+   "symbol": "FREQ",
+   "name": "Frequency Therapeutics, Inc. - Common Stock",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "FREQ"
+  },
+  {
+   "symbol": "SGDVV",
+   "name": "Safe and Green Development Corporation - Common Stock When Issued",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "SGDVV"
+  },
+  {
+   "symbol": "NCL",
+   "name": "Northann Corp. Common Stock",
+   "exchange": "NYSE MKT",
+   "yahoo_symbol": "NCL"
+  }
+ ]
+}

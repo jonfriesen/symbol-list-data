@@ -1,0 +1,59 @@
+{
+ "added": [
+  {
+   "symbol": "SOLX",
+   "name": "SolarX (SOLX)",
+   "built_on": "MATIC"
+  },
+  {
+   "symbol": "OXY",
+   "name": "Oxygen (OXY)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "BANKETH",
+   "name": "BankEth (BANKETH)"
+  },
+  {
+   "symbol": "PXT",
+   "name": "Pixer Eternity (PXT)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "WSM",
+   "name": "Wall Street Memes (WSM)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "X",
+   "name": "AI-X (X)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "TOPIA",
+   "name": "Hytopia (TOPIA)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "DOG",
+   "name": "The Doge NFT (DOG)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "G",
+   "name": "GRN Grid (G)",
+   "built_on": "ETH"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "OXY",
+   "name": "Oxygen (OXY)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "TOPIA",
+   "name": "Hytopia (TOPIA)"
+  }
+ ]
+}
