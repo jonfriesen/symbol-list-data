@@ -1,0 +1,66 @@
+{
+ "added": [
+  {
+   "symbol": "BTCT",
+   "name": "BTC Digital Ltd. - Ordinary Shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "BTCT"
+  },
+  {
+   "symbol": "BTCTW",
+   "name": "BTC Digital Ltd. - Warrant",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "BTCTW"
+  },
+  {
+   "symbol": "TMET",
+   "name": "iShares Transition-Enabling Metals ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "TMET"
+  },
+  {
+   "symbol": "VSME",
+   "name": "VS Media Holdings Limited - Class A Ordinary Shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "VSME"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "MCLD",
+   "name": "mCloud Technologies Corp. - Common Shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "MCLD"
+  },
+  {
+   "symbol": "MCLDP",
+   "name": "mCloud Technologies Corp. - 9.0% Series A Cumulative Perpetual Preferred Shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "MCLDP"
+  },
+  {
+   "symbol": "SYNH",
+   "name": "Syneos Health, Inc. - Class A Common Stock",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "SYNH"
+  },
+  {
+   "symbol": "METX",
+   "name": "BTC Digital Ltd. - Ordinary Shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "METX"
+  },
+  {
+   "symbol": "METXW",
+   "name": "BTC Digital Ltd. - Warrant",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "METXW"
+  },
+  {
+   "symbol": "MCLDW",
+   "name": "mCloud Technologies Corp. - Warrants",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "MCLDW"
+  }
+ ]
+}
