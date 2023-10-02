@@ -1,0 +1,286 @@
+{
+ "added": [
+  {
+   "symbol": "ZLSC",
+   "name": "BMO Long Short Canadian Equity ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "ZLSC.TO",
+   "instruments": [
+    {
+     "name": "BMO Lng Short Cdn Eq",
+     "symbol": "ZLSC"
+    }
+   ]
+  },
+  {
+   "symbol": "ZLSU",
+   "name": "BMO Long Short US Equity ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "ZLSU.TO",
+   "instruments": [
+    {
+     "name": "BMO Long Short US Eq",
+     "symbol": "ZLSU"
+    }
+   ]
+  },
+  {
+   "symbol": "ZIU",
+   "name": "BMO S\u0026P/TSX 60 Index ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "ZIU.TO",
+   "instruments": [
+    {
+     "name": "BMO S\u0026P/TSX 60 Indx",
+     "symbol": "ZIU"
+    }
+   ]
+  },
+  {
+   "symbol": "ZUCM",
+   "name": "BMO USD Cash Management ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "ZUCM.TO",
+   "instruments": [
+    {
+     "name": "BMO USD Cash Mgmt Un",
+     "symbol": "ZUCM"
+    },
+    {
+     "name": "BMO USD Cash Mgmt US",
+     "symbol": "ZUCM.U"
+    }
+   ]
+  },
+  {
+   "symbol": "VRTS",
+   "name": "Gamelancer Media Corp.",
+   "exchange": "TSX",
+   "yahoo_symbol": "VRTS.TO",
+   "instruments": [
+    {
+     "name": "Gamelancer Media J",
+     "symbol": "VRTS"
+    }
+   ]
+  },
+  {
+   "symbol": "AIDX",
+   "name": "HealWELL AI Inc.",
+   "exchange": "TSX",
+   "yahoo_symbol": "AIDX.TO",
+   "instruments": [
+    {
+     "name": "MCI Onehealth J SV A",
+     "symbol": "AIDX"
+    }
+   ]
+  },
+  {
+   "symbol": "ANL",
+   "name": "Adlai Nortye Ltd. - American Depositary Shares",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "ANL"
+  },
+  {
+   "symbol": "COCH",
+   "name": "Envoy Medical, Inc. - Class A Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "COCH"
+  },
+  {
+   "symbol": "COCHW",
+   "name": "Envoy Medical, Inc. - Warrant",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "COCHW"
+  },
+  {
+   "symbol": "ESLA",
+   "name": "Estrella Immunopharma, Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "ESLA"
+  },
+  {
+   "symbol": "ESLAW",
+   "name": "Estrella Immunopharma, Inc. - Warrant",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "ESLAW"
+  },
+  {
+   "symbol": "SYRA",
+   "name": "Syra Health Corp. - Class A Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "SYRA"
+  },
+  {
+   "symbol": "KLG",
+   "name": "WK Kellogg Co Common Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "KLG"
+  },
+  {
+   "symbol": "LAAC.V",
+   "name": "Lithium Americas (Argentina) Corp. Common Shares When-Issued",
+   "exchange": "NYSE",
+   "yahoo_symbol": "LAAC.V"
+  },
+  {
+   "symbol": "LAC.V",
+   "name": "Lithium Americas Corp. Common Shares When Issued",
+   "exchange": "NYSE",
+   "yahoo_symbol": "LAC.V"
+  },
+  {
+   "symbol": "VLTO",
+   "name": "Veralto Corp Common Stock ",
+   "exchange": "NYSE",
+   "yahoo_symbol": "VLTO"
+  },
+  {
+   "symbol": "VSTS",
+   "name": "Vestis Corporation Common Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "VSTS"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "DRDR",
+   "name": "MCI Onehealth Technologies Inc.",
+   "exchange": "TSX",
+   "yahoo_symbol": "DRDR.TO",
+   "instruments": [
+    {
+     "name": "MCI Onehealth J SV A",
+     "symbol": "DRDR"
+    }
+   ]
+  },
+  {
+   "symbol": "K.V",
+   "name": "Kellogg Company Common Stock When-Issued",
+   "exchange": "NYSE",
+   "yahoo_symbol": "K.V"
+  },
+  {
+   "symbol": "VLTO.V",
+   "name": "Veralto Corp Common Stock When-Issued",
+   "exchange": "NYSE",
+   "yahoo_symbol": "VLTO.V"
+  },
+  {
+   "symbol": "UPTD",
+   "name": "TradeUP Acquisition Corp. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "UPTD"
+  },
+  {
+   "symbol": "ANZUU",
+   "name": "Anzu Special Acquisition Corp I - Units",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "ANZUU"
+  },
+  {
+   "symbol": "MPRAW",
+   "name": "Mercato Partners Acquisition Corporation - Warrant",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "MPRAW"
+  },
+  {
+   "symbol": "GFOR.U",
+   "name": "Graf Acquisition Corp. IV Units",
+   "exchange": "NYSE",
+   "yahoo_symbol": "GFOR.U"
+  },
+  {
+   "symbol": "GMNG",
+   "name": "Gamelancer Media Corp.",
+   "exchange": "TSX",
+   "yahoo_symbol": "GMNG.TO",
+   "instruments": [
+    {
+     "name": "Gamelancer Media J",
+     "symbol": "GMNG"
+    }
+   ]
+  },
+  {
+   "symbol": "VSTS.V",
+   "name": "Vestis Corporation Common Stock When-Issued",
+   "exchange": "NYSE",
+   "yahoo_symbol": "VSTS.V"
+  },
+  {
+   "symbol": "GFOR",
+   "name": "Graf Acquisition Corp. IV Common Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "GFOR"
+  },
+  {
+   "symbol": "ANZUW",
+   "name": "Anzu Special Acquisition Corp I - Warrant",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "ANZUW"
+  },
+  {
+   "symbol": "ARMK.V",
+   "name": "Aramark Common Stock When-Issued",
+   "exchange": "NYSE",
+   "yahoo_symbol": "ARMK.V"
+  },
+  {
+   "symbol": "MPRA",
+   "name": "Mercato Partners Acquisition Corporation - Class A Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "MPRA"
+  },
+  {
+   "symbol": "KLG.V",
+   "name": "WK Kellogg Co Common Stock When-Issued",
+   "exchange": "NYSE",
+   "yahoo_symbol": "KLG.V"
+  },
+  {
+   "symbol": "UPTDW",
+   "name": "TradeUP Acquisition Corp. - Warrant",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "UPTDW"
+  },
+  {
+   "symbol": "UPTDU",
+   "name": "TradeUP Acquisition Corp. - Unit",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "UPTDU"
+  },
+  {
+   "symbol": "GFOR.W",
+   "name": "Graf Acquisition Corp. IV Warrants",
+   "exchange": "NYSE",
+   "yahoo_symbol": "GFOR.W"
+  },
+  {
+   "symbol": "ANZU",
+   "name": "Anzu Special Acquisition Corp I - Class A Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "ANZU"
+  },
+  {
+   "symbol": "MPRAU",
+   "name": "Mercato Partners Acquisition Corporation - Unit",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "MPRAU"
+  },
+  {
+   "symbol": "CNFRL",
+   "name": "Conifer Holdings, Inc. - Senior Unsecured Notes",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "CNFRL"
+  },
+  {
+   "symbol": "DHR.V",
+   "name": "Danaher Corporation Common Stock When-Issued",
+   "exchange": "NYSE",
+   "yahoo_symbol": "DHR.V"
+  }
+ ]
+}
