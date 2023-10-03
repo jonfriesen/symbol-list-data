@@ -1,0 +1,65 @@
+{
+ "added": [
+  {
+   "symbol": "KNGZ",
+   "name": "First Trust S\u0026P 500 Diversified Dividend Aristocrats ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "KNGZ"
+  },
+  {
+   "symbol": "NKGN",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "NKGN"
+  },
+  {
+   "symbol": "NKGNW",
+   "name": "NKGen Biotech, Inc. - Warrants",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "NKGNW"
+  },
+  {
+   "symbol": "NVNI",
+   "name": "Nvni Group Limited - Ordinary Shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "NVNI"
+  },
+  {
+   "symbol": "NVNIW",
+   "name": "Nvni Group Limited - Warrants",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "NVNIW"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "LFACU",
+   "name": "LF Capital Acquisition Corp. II - Units",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "LFACU"
+  },
+  {
+   "symbol": "RNDV",
+   "name": "US Equity Dividend Select ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "RNDV"
+  },
+  {
+   "symbol": "LFAC",
+   "name": "LF Capital Acquisition Corp. II - Class A Common Stock",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "LFAC"
+  },
+  {
+   "symbol": "LFACW",
+   "name": "LF Capital Acquisition Corp. II - Warrants",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "LFACW"
+  },
+  {
+   "symbol": "CELL",
+   "name": "PhenomeX Inc. - Common Stock",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "CELL"
+  }
+ ]
+}
