@@ -1,0 +1,192 @@
+{
+ "added": [
+  {
+   "symbol": "NICK",
+   "name": "Nickelex Resource Corporation",
+   "exchange": "TSXV",
+   "yahoo_symbol": "NICK.V",
+   "instruments": [
+    {
+     "name": "Nickelex Resource Corporation",
+     "symbol": "NICK"
+    }
+   ]
+  },
+  {
+   "symbol": "SEND",
+   "name": "Sendero Resources Corp.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "SEND.V",
+   "instruments": [
+    {
+     "name": "Sendero Resources Corp.",
+     "symbol": "SEND"
+    }
+   ]
+  },
+  {
+   "symbol": "MIT",
+   "name": "The Mint Corporation",
+   "exchange": "TSXV",
+   "yahoo_symbol": "MIT.V",
+   "instruments": [
+    {
+     "name": "The Mint Corporation",
+     "symbol": "MIT"
+    }
+   ]
+  },
+  {
+   "symbol": "LPAY",
+   "name": "Horizons Long-Term U.S. Treasury Premium Yield ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "LPAY.TO",
+   "instruments": [
+    {
+     "name": "Horizn LTrm US Treas",
+     "symbol": "LPAY"
+    },
+    {
+     "name": "Horizn LTrmUS TreaUS",
+     "symbol": "LPAY.U"
+    }
+   ]
+  },
+  {
+   "symbol": "MPAY",
+   "name": "Horizons Mid-Term U.S. Treasury Premium Yield ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "MPAY.TO",
+   "instruments": [
+    {
+     "name": "Horizn MTrm US Treas",
+     "symbol": "MPAY"
+    },
+    {
+     "name": "Horizn MTrmUS TreaUS",
+     "symbol": "MPAY.U"
+    }
+   ]
+  },
+  {
+   "symbol": "SPAY",
+   "name": "Horizons Short-Term U.S. Treasury Premium Yield ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "SPAY.TO",
+   "instruments": [
+    {
+     "name": "Horizon ST US Treas",
+     "symbol": "SPAY"
+    },
+    {
+     "name": "HoriznST US Treas US",
+     "symbol": "SPAY.U"
+    }
+   ]
+  },
+  {
+   "symbol": "SCR",
+   "name": "Strathcona Resources Ltd.",
+   "exchange": "TSX",
+   "yahoo_symbol": "SCR.TO",
+   "instruments": [
+    {
+     "name": "Pipestone Energy",
+     "symbol": "SCR"
+    }
+   ]
+  },
+  {
+   "symbol": "BQ",
+   "name": "Boqii Holding Limited American Depositary Shares, representing Class A Ordinary Shares",
+   "exchange": "NYSE MKT",
+   "yahoo_symbol": "BQ"
+  },
+  {
+   "symbol": "SWKHL",
+   "name": "SWK Holdings Corporation - 9.00% Senior Notes due 2027",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "SWKHL"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "IGICW",
+   "name": "International General Insurance Holdings Ltd. - Warrant expiring 3/17/2025",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "IGICW"
+  },
+  {
+   "symbol": "PIPE",
+   "name": "Pipestone Energy Corp.",
+   "exchange": "TSX",
+   "yahoo_symbol": "PIPE.TO",
+   "instruments": [
+    {
+     "name": "Pipestone Energy",
+     "symbol": "PIPE"
+    }
+   ]
+  },
+  {
+   "symbol": "VQS",
+   "name": "VIQ Solutions Inc. - Common Shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "VQS"
+  },
+  {
+   "symbol": "CGRN",
+   "name": "Capstone Green Energy Corporation - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "CGRN"
+  },
+  {
+   "symbol": "KLR.W",
+   "name": "Kaleyra, Inc. Warrants",
+   "exchange": "NYSE MKT",
+   "yahoo_symbol": "KLR.W"
+  },
+  {
+   "symbol": "HSTO",
+   "name": "Histogen Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "HSTO"
+  },
+  {
+   "symbol": "CARE",
+   "name": "Dialogue Health Technologies Inc.",
+   "exchange": "TSX",
+   "yahoo_symbol": "CARE.TO",
+   "instruments": [
+    {
+     "name": "Dialogue Hlth Tech J",
+     "symbol": "CARE"
+    }
+   ]
+  },
+  {
+   "symbol": "VQA",
+   "name": "Valterra Resource Corporation",
+   "exchange": "TSXV",
+   "yahoo_symbol": "VQA.V",
+   "instruments": [
+    {
+     "name": "Valterra Resource Corporation",
+     "symbol": "VQA"
+    }
+   ]
+  },
+  {
+   "symbol": "KLR",
+   "name": "Kaleyra, Inc. Common Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "KLR"
+  },
+  {
+   "symbol": "BQ",
+   "name": "Boqii Holding Limited American Depositary Shares, representing Class A Ordinary Shares",
+   "exchange": "NYSE",
+   "yahoo_symbol": "BQ"
+  }
+ ]
+}
