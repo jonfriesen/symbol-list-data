@@ -1,0 +1,38 @@
+{
+ "added": [
+  {
+   "symbol": "SUNDAE",
+   "name": "Sundae the Dog (SUNDAE)",
+   "built_on": "ARB"
+  },
+  {
+   "symbol": "GETH",
+   "name": "Guarded Ether (GETH)"
+  },
+  {
+   "symbol": "LIXX",
+   "name": "Libra Incentix (LIXX)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "BANK",
+   "name": "Float Protocol (BANK)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "XETH",
+   "name": "Xplosive Ethereum (XETH)"
+  },
+  {
+   "symbol": "DOG",
+   "name": "The Doge NFT (DOG)",
+   "built_on": "ETH"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "SUNDAE",
+   "name": "Sundae the Dog (SUNDAE)"
+  }
+ ]
+}

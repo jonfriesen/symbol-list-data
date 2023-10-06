@@ -1,0 +1,126 @@
+{
+ "added": [
+  {
+   "symbol": "EKG",
+   "name": "CardioComm Solutions, Inc.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "EKG.V",
+   "instruments": [
+    {
+     "name": "CardioComm Solutions, Inc.",
+     "symbol": "EKG"
+    }
+   ]
+  },
+  {
+   "symbol": "ICRS",
+   "name": "Icarus Capital Corp.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "ICRS.V",
+   "instruments": [
+    {
+     "name": "Icarus Capital Corp.",
+     "symbol": "ICRS"
+    }
+   ]
+  },
+  {
+   "symbol": "INIK",
+   "name": "PopReach Corporation",
+   "exchange": "TSXV",
+   "yahoo_symbol": "INIK.V",
+   "instruments": [
+    {
+     "name": "PopReach Corporation",
+     "symbol": "INIK"
+    }
+   ]
+  },
+  {
+   "symbol": "FRSH",
+   "name": "The Fresh Factory B.C. Ltd.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "FRSH.V",
+   "instruments": [
+    {
+     "name": "The Fresh Factory B.C. Ltd",
+     "symbol": "FRSH"
+    }
+   ]
+  },
+  {
+   "symbol": "JTEK",
+   "name": "JPMorgan U.S. Tech Leaders ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "JTEK"
+  },
+  {
+   "symbol": "MSS",
+   "name": "Maison Solutions Inc. - Class A Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "MSS"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "ICRS.P",
+   "name": "Icarus Capital Corp.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "ICRS.P.V",
+   "instruments": [
+    {
+     "name": "Icarus Capital Corp.",
+     "symbol": "ICRS.P"
+    }
+   ]
+  },
+  {
+   "symbol": "NAVB",
+   "name": "Navidea Biopharmaceuticals, Inc. Common Stock",
+   "exchange": "NYSE MKT",
+   "yahoo_symbol": "NAVB"
+  },
+  {
+   "symbol": "FZT.U",
+   "name": "FAST Acquisition Corp. II Units, each consisting of one share of Class A common stock and one-quarter of one redeemable warrant",
+   "exchange": "NYSE",
+   "yahoo_symbol": "FZT.U"
+  },
+  {
+   "symbol": "FZT.W",
+   "name": "FAST Acquisition Corp. II Redeemable warrants, each whole warrant exercisable for one share of Class A common stock, each at an exercise price of $11.50 per share",
+   "exchange": "NYSE",
+   "yahoo_symbol": "FZT.W"
+  },
+  {
+   "symbol": "FZT",
+   "name": "FAST Acquisition Corp. II Class A Common Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "FZT"
+  },
+  {
+   "symbol": "POPR",
+   "name": "PopReach Corporation",
+   "exchange": "TSXV",
+   "yahoo_symbol": "POPR.V",
+   "instruments": [
+    {
+     "name": "PopReach Corporation",
+     "symbol": "POPR"
+    }
+   ]
+  },
+  {
+   "symbol": "CXG",
+   "name": "Canxgold Mining Corp.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "CXG.V",
+   "instruments": [
+    {
+     "name": "Canxgold Mining Corp.",
+     "symbol": "CXG"
+    }
+   ]
+  }
+ ]
+}
