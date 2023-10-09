@@ -1,0 +1,126 @@
+{
+ "added": [
+  {
+   "symbol": "FBYD",
+   "name": "Falcon's Beyond Global, Inc. - Class A Common Stock",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "FBYD"
+  },
+  {
+   "symbol": "FBYDP",
+   "name": "Falcon's Beyond Global, Inc. - 8% Series A Preferred Stock",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "FBYDP"
+  },
+  {
+   "symbol": "FBYDW",
+   "name": "Falcon's Beyond Global, Inc. - Warrants",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "FBYDW"
+  },
+  {
+   "symbol": "GV",
+   "name": "Visionary Education Technology Holdings Group Inc. - Common Shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "GV"
+  },
+  {
+   "symbol": "QETAU",
+   "name": "Quetta Acquisition Corporation - Unit",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "QETAU"
+  },
+  {
+   "symbol": "SPKLU",
+   "name": "Spark I Acquisition Corp. - Unit",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "SPKLU"
+  },
+  {
+   "symbol": "RNST",
+   "name": "Renasant Corporation Common Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "RNST"
+  },
+  {
+   "symbol": "VCXB",
+   "name": "10X Capital Venture Acquisition Corp. III Class A Ordinary Shares",
+   "exchange": "NYSE MKT",
+   "yahoo_symbol": "VCXB"
+  },
+  {
+   "symbol": "VCXB.U",
+   "name": "10X Capital Venture Acquisition Corp. III Units, each consisting of one Class A ordinary share and one-half of one redeemable warrant",
+   "exchange": "NYSE MKT",
+   "yahoo_symbol": "VCXB.U"
+  },
+  {
+   "symbol": "VCXB.W",
+   "name": "10X Capital Venture Acquisition Corp. III Redeemable warrants, each whole warrant exercisable for one Class A ordinary share, each at an exercise price of $11.50 per share",
+   "exchange": "NYSE MKT",
+   "yahoo_symbol": "VCXB.W"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "CEN",
+   "name": "Center Coast Brookfield MLP \u0026 Energy Infrastructure Fund",
+   "exchange": "NYSE",
+   "yahoo_symbol": "CEN"
+  },
+  {
+   "symbol": "HZNP",
+   "name": "Horizon Therapeutics Public Limited Company - Ordinary Shares",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "HZNP"
+  },
+  {
+   "symbol": "RNST",
+   "name": "Renasant Corporation - Common Stock",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "RNST"
+  },
+  {
+   "symbol": "VCXB.U",
+   "name": "10X Capital Venture Acquisition Corp. III Units, each consisting of one Class A ordinary share and one-half of one redeemable warrant",
+   "exchange": "NYSE",
+   "yahoo_symbol": "VCXB.U"
+  },
+  {
+   "symbol": "VCXB.W",
+   "name": "10X Capital Venture Acquisition Corp. III Redeemable warrants, each whole warrant exercisable for one Class A ordinary share, each at an exercise price of $11.50 per share",
+   "exchange": "NYSE",
+   "yahoo_symbol": "VCXB.W"
+  },
+  {
+   "symbol": "VCXB",
+   "name": "10X Capital Venture Acquisition Corp. III Class A Ordinary Shares",
+   "exchange": "NYSE",
+   "yahoo_symbol": "VCXB"
+  },
+  {
+   "symbol": "BIOSU",
+   "name": "BioPlus Acquisition Corp. - Units",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "BIOSU"
+  },
+  {
+   "symbol": "VEDU",
+   "name": "Visionary Education Technology Holdings Group Inc. - Common Shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "VEDU"
+  },
+  {
+   "symbol": "BIOS",
+   "name": "BioPlus Acquisition Corp. - Class A Ordinary Shares",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "BIOS"
+  },
+  {
+   "symbol": "BIOSW",
+   "name": "BioPlus Acquisition Corp. - Warrants",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "BIOSW"
+  }
+ ]
+}
