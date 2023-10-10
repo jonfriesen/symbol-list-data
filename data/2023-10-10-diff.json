@@ -1,0 +1,100 @@
+{
+ "added": [
+  {
+   "symbol": "MNC",
+   "name": "Magnetic North Acquisition Corp.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "MNC.V",
+   "instruments": [
+    {
+     "name": "Magnetic North Acquisition Corp.",
+     "symbol": "MNC"
+    },
+    {
+     "name": "Magnetic North Acquisition Corp pref a",
+     "symbol": "MNC.PR.A"
+    }
+   ]
+  },
+  {
+   "symbol": "GPAK",
+   "name": "Gamer Pakistan Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "GPAK"
+  },
+  {
+   "symbol": "NNAG",
+   "name": "99 Acquisition Group Inc. - Class A Common Stock",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "NNAG"
+  },
+  {
+   "symbol": "NNAGR",
+   "name": "99 Acquisition Group Inc. - Right",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "NNAGR"
+  },
+  {
+   "symbol": "NNAGW",
+   "name": "99 Acquisition Group Inc. - Warrant",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "NNAGW"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "IOU",
+   "name": "IOU Financial Inc.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "IOU.V",
+   "instruments": [
+    {
+     "name": "IOU Financial Inc.",
+     "symbol": "IOU"
+    }
+   ]
+  },
+  {
+   "symbol": "JUN",
+   "name": "Juniper II Corp. Class A Common Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "JUN"
+  },
+  {
+   "symbol": "LXR",
+   "name": "LXRandCo, Inc.",
+   "exchange": "TSX",
+   "yahoo_symbol": "LXR.TO",
+   "instruments": [
+    {
+     "name": "LXRandCo, Inc. J B",
+     "symbol": "LXR"
+    }
+   ]
+  },
+  {
+   "symbol": "TRA",
+   "name": "Teras Resources Inc.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "TRA.V",
+   "instruments": [
+    {
+     "name": "Teras Resources Inc.",
+     "symbol": "TRA"
+    }
+   ]
+  },
+  {
+   "symbol": "JUN.U",
+   "name": "Juniper II Corp. Units, each consisting of one share of Class A common stock, and one-half of one redeemable warrant",
+   "exchange": "NYSE",
+   "yahoo_symbol": "JUN.U"
+  },
+  {
+   "symbol": "JUN.W",
+   "name": "Juniper II Corp. Warrants, each whole warrant exercisable for one share of Class A common stock at an exercise price of $11.50",
+   "exchange": "NYSE",
+   "yahoo_symbol": "JUN.W"
+  }
+ ]
+}
