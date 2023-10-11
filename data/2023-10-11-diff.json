@@ -1,0 +1,186 @@
+{
+ "added": [
+  {
+   "symbol": "EQCL",
+   "name": "Horizons Enhanced All-Equity Asset Allocation Covered Call ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "EQCL.TO",
+   "instruments": [
+    {
+     "name": "Horizn EqAstAlocCvCl",
+     "symbol": "EQCL"
+    }
+   ]
+  },
+  {
+   "symbol": "HEQL",
+   "name": "Horizons Enhanced All-Equity Asset Allocation ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "HEQL.TO",
+   "instruments": [
+    {
+     "name": "Horizon Eq AsstAlloc",
+     "symbol": "HEQL"
+    }
+   ]
+  },
+  {
+   "symbol": "ENCL",
+   "name": "Horizons Enhanced Canadian Oil and Gas Equity Covered Call ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "ENCL.TO",
+   "instruments": [
+    {
+     "name": "Horizn Cdn O\u0026GEqCvCl",
+     "symbol": "ENCL"
+    }
+   ]
+  },
+  {
+   "symbol": "QQCL",
+   "name": "Horizons Enhanced NASDAQ-100 Covered Call ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "QQCL.TO",
+   "instruments": [
+    {
+     "name": "Horizn NASDQ100CvrCl",
+     "symbol": "QQCL"
+    }
+   ]
+  },
+  {
+   "symbol": "GRCC",
+   "name": "Horizons Growth Asset Allocation Covered Call ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "GRCC.TO",
+   "instruments": [
+    {
+     "name": "HoriznGroAstAlocCvCl",
+     "symbol": "GRCC"
+    }
+   ]
+  },
+  {
+   "symbol": "HGRW",
+   "name": "Horizons Growth Asset Allocation ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "HGRW.TO",
+   "instruments": [
+    {
+     "name": "Horizon GroAsstAlloc",
+     "symbol": "HGRW"
+    }
+   ]
+  },
+  {
+   "symbol": "GMM",
+   "name": "Global Mofy Metaverse Limited - Ordinary Shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "GMM"
+  },
+  {
+   "symbol": "LRHC",
+   "name": "La Rosa Holdings Corp. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "LRHC"
+  },
+  {
+   "symbol": "PMEC",
+   "name": "Primech Holdings Ltd. - Ordinary Shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "PMEC"
+  },
+  {
+   "symbol": "WAVS",
+   "name": "Western Acquisition Ventures Corp. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "WAVS"
+  },
+  {
+   "symbol": "WAVSU",
+   "name": "Western Acquisition Ventures Corp. - Unit",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "WAVSU"
+  },
+  {
+   "symbol": "WAVSW",
+   "name": "Western Acquisition Ventures Corp. - Warrant",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "WAVSW"
+  },
+  {
+   "symbol": "BIRK",
+   "name": "Birkenstock Holding plc Ordinary Shares",
+   "exchange": "NYSE",
+   "yahoo_symbol": "BIRK"
+  },
+  {
+   "symbol": "NATL.V",
+   "name": "NCR Atleos Corporation Common Stock When-Issued",
+   "exchange": "NYSE",
+   "yahoo_symbol": "NATL.V"
+  },
+  {
+   "symbol": "VYX.V",
+   "name": "NCR Corporation Common Stock When-Issued",
+   "exchange": "NYSE",
+   "yahoo_symbol": "VYX.V"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "WAVSU",
+   "name": "Western Acquisition Ventures Corp. - Unit",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "WAVSU"
+  },
+  {
+   "symbol": "RNW",
+   "name": "TransAlta Renewables Inc.",
+   "exchange": "TSX",
+   "yahoo_symbol": "RNW.TO",
+   "instruments": [
+    {
+     "name": "TransAlta Renewable",
+     "symbol": "RNW"
+    }
+   ]
+  },
+  {
+   "symbol": "WAVS",
+   "name": "Western Acquisition Ventures Corp. - Common Stock",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "WAVS"
+  },
+  {
+   "symbol": "DGTL",
+   "name": "DGTL Holdings Inc.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "DGTL.V",
+   "instruments": [
+    {
+     "name": "DGTL Holdings Inc.",
+     "symbol": "DGTL"
+    }
+   ]
+  },
+  {
+   "symbol": "AALI",
+   "name": "Advance Lithium Corp.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "AALI.V",
+   "instruments": [
+    {
+     "name": "Advance Lithium Corp.",
+     "symbol": "AALI"
+    }
+   ]
+  },
+  {
+   "symbol": "WAVSW",
+   "name": "Western Acquisition Ventures Corp. - Warrant",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "WAVSW"
+  }
+ ]
+}
