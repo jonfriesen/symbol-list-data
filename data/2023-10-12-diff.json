@@ -1,0 +1,78 @@
+{
+ "added": [
+  {
+   "symbol": "MDCX",
+   "name": "Medicus Pharma Ltd.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "MDCX.V",
+   "instruments": [
+    {
+     "name": "Medicus Pharma Ltd.",
+     "symbol": "MDCX"
+    }
+   ]
+  },
+  {
+   "symbol": "ATPC",
+   "name": "Agape ATP Corporation - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "ATPC"
+  },
+  {
+   "symbol": "FEPI",
+   "name": "REX FANG \u0026 Innovation Equity Premium Income ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "FEPI"
+  },
+  {
+   "symbol": "KGEI",
+   "name": "Kolibri Global Energy Inc. - Common stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "KGEI"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "SSU.W",
+   "name": "SIGNA Sports United N.V. Redeemable Warrants, each whole warrant exercisable for one Ordinary Share at an exercise price of $11.50",
+   "exchange": "NYSE",
+   "yahoo_symbol": "SSU.W"
+  },
+  {
+   "symbol": "SSU",
+   "name": "SIGNA Sports United N.V. Ordinary Share",
+   "exchange": "NYSE",
+   "yahoo_symbol": "SSU"
+  },
+  {
+   "symbol": "SAMAW",
+   "name": "Schultze Special Purpose Acquisition Corp. II - Warrant",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "SAMAW"
+  },
+  {
+   "symbol": "NATI",
+   "name": "National Instruments Corporation - Common Stock",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "NATI"
+  },
+  {
+   "symbol": "SAMAU",
+   "name": "Schultze Special Purpose Acquisition Corp. II - Units",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "SAMAU"
+  },
+  {
+   "symbol": "SAMA",
+   "name": "Schultze Special Purpose Acquisition Corp. II - Class A Common Stock",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "SAMA"
+  },
+  {
+   "symbol": "ZYNE",
+   "name": "Zynerba Pharmaceuticals, Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "ZYNE"
+  }
+ ]
+}
