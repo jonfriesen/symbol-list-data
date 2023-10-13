@@ -1,0 +1,48 @@
+{
+ "added": [
+  {
+   "symbol": "ALCC.P",
+   "name": "A-Labs Capital IV Corp.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "ALCC.P.V",
+   "instruments": [
+    {
+     "name": "A-Labs Capital IV Corp.",
+     "symbol": "ALCC.P"
+    }
+   ]
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "MKUL",
+   "name": "Molekule Group, Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "MKUL"
+  },
+  {
+   "symbol": "BTWN",
+   "name": "Bridgetown Holdings Limited - Class A Ordinary Shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "BTWN"
+  },
+  {
+   "symbol": "EBET",
+   "name": "EBET, INC. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "EBET"
+  },
+  {
+   "symbol": "BTWNW",
+   "name": "Bridgetown Holdings Limited - Warrants",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "BTWNW"
+  },
+  {
+   "symbol": "BTWNU",
+   "name": "Bridgetown Holdings Limited - Units",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "BTWNU"
+  }
+ ]
+}
