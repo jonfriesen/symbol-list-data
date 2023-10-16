@@ -1,0 +1,78 @@
+{
+ "added": [
+  {
+   "symbol": "MNY",
+   "name": "MoneyHero Limited - Class A Ordinary Shares",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "MNY"
+  },
+  {
+   "symbol": "MNYWW",
+   "name": "MoneyHero Limited - Warrants",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "MNYWW"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "DWMC",
+   "name": "AdvisorShares Dorsey Wright Small Company ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "DWMC"
+  },
+  {
+   "symbol": "ATVI",
+   "name": "Activision Blizzard, Inc - Common Stock",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "ATVI"
+  },
+  {
+   "symbol": "DCP$C",
+   "name": "DCP Midstream LP 7.95% Series C Fixed-to-Floating Rate Cumulative Redeemable Perpetual Preferred Units",
+   "exchange": "NYSE",
+   "yahoo_symbol": "DCP$C"
+  },
+  {
+   "symbol": "MNP",
+   "name": "Western Asset Municipal Partners Fund, Inc. Common Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "MNP"
+  },
+  {
+   "symbol": "AMAO",
+   "name": "American Acquisition Opportunity Inc. - Class A Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "AMAO"
+  },
+  {
+   "symbol": "ELOX",
+   "name": "Eloxx Pharmaceuticals, Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "ELOX"
+  },
+  {
+   "symbol": "AMAOW",
+   "name": "American Acquisition Opportunity Inc. - Warrant",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "AMAOW"
+  },
+  {
+   "symbol": "AMAOU",
+   "name": "American Acquisition Opportunity Inc. - Units",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "AMAOU"
+  },
+  {
+   "symbol": "BLPH",
+   "name": "Bellerophon Therapeutics, Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "BLPH"
+  },
+  {
+   "symbol": "GENY",
+   "name": "Principal Millennial Global Growth ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "GENY"
+  }
+ ]
+}
