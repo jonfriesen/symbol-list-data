@@ -1,0 +1,37 @@
+{
+ "added": [
+  {
+   "symbol": "SAIL",
+   "name": "SAIL (SAIL)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "TIM",
+   "name": "TIMTIM GAMES (TIM)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "ZTX",
+   "name": "ZTX (ZTX)",
+   "built_on": "ARB"
+  },
+  {
+   "symbol": "XETH",
+   "name": "Xplosive Ethereum (XETH)"
+  },
+  {
+   "symbol": "DOGETH",
+   "name": "EtherDoge (DOGETH)"
+  },
+  {
+   "symbol": "BANK",
+   "name": "Float Protocol (BANK)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "G",
+   "name": "GRN Grid (G)",
+   "built_on": "ETH"
+  }
+ ]
+}

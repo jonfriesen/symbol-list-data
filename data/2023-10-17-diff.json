@@ -1,0 +1,144 @@
+{
+ "added": [
+  {
+   "symbol": "RSM",
+   "name": "Resouro Strategic Metals Inc.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "RSM.V",
+   "instruments": [
+    {
+     "name": "Resouro Strategic Metals Inc.",
+     "symbol": "RSM"
+    }
+   ]
+  },
+  {
+   "symbol": "MMV",
+   "name": "MultiMetaVerse Holdings Limited - Class A Ordinary Share",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "MMV"
+  },
+  {
+   "symbol": "NTBL",
+   "name": "Notable Labs, Inc. - Ordinary Shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "NTBL"
+  },
+  {
+   "symbol": "RENT",
+   "name": "Rent the Runway, Inc. - Class A Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "RENT"
+  },
+  {
+   "symbol": "NATL",
+   "name": "NCR Atleos Corporation Common Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "NATL"
+  },
+  {
+   "symbol": "VYX",
+   "name": "NCR Voyix Corporation Common Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "VYX"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "NZRO",
+   "name": "Strategy Shares Halt Climate Change ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "NZRO"
+  },
+  {
+   "symbol": "VBLT",
+   "name": "Vascular Biogenics Ltd. - Ordinary Shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "VBLT"
+  },
+  {
+   "symbol": "CCV.U",
+   "name": "Churchill Capital Corp V Units, each consisting of one share of Class A common stock, and one-fourth of one redeemable warrant",
+   "exchange": "NYSE",
+   "yahoo_symbol": "CCV.U"
+  },
+  {
+   "symbol": "ELYS",
+   "name": "Elys Game Technology, Corp.  - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "ELYS"
+  },
+  {
+   "symbol": "CCV",
+   "name": "Churchill Capital Corp V Class A Common Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "CCV"
+  },
+  {
+   "symbol": "NCR",
+   "name": "NCR Corporation Common Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "NCR"
+  },
+  {
+   "symbol": "CCV.W",
+   "name": "Churchill Capital Corp V Warrants, each exercisable for one share of Class A common stock at an exercise price of $11.50 per share",
+   "exchange": "NYSE",
+   "yahoo_symbol": "CCV.W"
+  },
+  {
+   "symbol": "RAU",
+   "name": "Resouro Gold Inc.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "RAU.V",
+   "instruments": [
+    {
+     "name": "Resouro Gold Inc.",
+     "symbol": "RAU"
+    }
+   ]
+  },
+  {
+   "symbol": "RENT",
+   "name": "Rent the Runway, Inc. - Class A Common Stock",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "RENT"
+  },
+  {
+   "symbol": "MMV",
+   "name": "MultiMetaVerse Holdings Limited - Class A Ordinary Share",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "MMV"
+  },
+  {
+   "symbol": "THRN",
+   "name": "Thorne Healthtech, Inc. - Common Stock",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "THRN"
+  },
+  {
+   "symbol": "VYX.V",
+   "name": "NCR Corporation Common Stock When-Issued",
+   "exchange": "NYSE",
+   "yahoo_symbol": "VYX.V"
+  },
+  {
+   "symbol": "RBT.W",
+   "name": "Rubicon Technologies, Inc. Warrants, each whole warrant exercisable to purchase one share of Class A Common Stock at an exercise price of $11.50 per share",
+   "exchange": "NYSE",
+   "yahoo_symbol": "RBT.W"
+  },
+  {
+   "symbol": "RAD",
+   "name": "Rite Aid Corporation Common Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "RAD"
+  },
+  {
+   "symbol": "NATL.V",
+   "name": "NCR Atleos Corporation Common Stock When-Issued",
+   "exchange": "NYSE",
+   "yahoo_symbol": "NATL.V"
+  }
+ ]
+}
