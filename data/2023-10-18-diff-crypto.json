@@ -1,0 +1,41 @@
+{
+ "added": [
+  {
+   "symbol": "AST",
+   "name": "AirSwap (AST)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "DOG",
+   "name": "The Doge NFT (DOG)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "GETH",
+   "name": "Guarded Ether (GETH)"
+  },
+  {
+   "symbol": "BANKETH",
+   "name": "BankEth (BANKETH)"
+  },
+  {
+   "symbol": "XETH",
+   "name": "Xplosive Ethereum (XETH)"
+  },
+  {
+   "symbol": "HARD",
+   "name": "Kava Lend (HARD)"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "AST",
+   "name": "AirSwap (AST)"
+  },
+  {
+   "symbol": "HARD",
+   "name": "Kava Lend (HARD)",
+   "built_on": "MATIC"
+  }
+ ]
+}

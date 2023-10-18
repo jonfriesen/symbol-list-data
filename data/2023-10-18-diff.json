@@ -1,0 +1,184 @@
+{
+ "added": [
+  {
+   "symbol": "FLNT",
+   "name": "Fluent, Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "FLNT"
+  },
+  {
+   "symbol": "VLX",
+   "name": "Velox Energy Materials Inc.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "VLX.V",
+   "instruments": [
+    {
+     "name": "Velox Energy Materials Inc.",
+     "symbol": "VLX"
+    }
+   ]
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "CUI",
+   "name": "Currie Rose Resources Inc.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "CUI.V",
+   "instruments": [
+    {
+     "name": "Currie Rose Resources Inc.",
+     "symbol": "CUI"
+    }
+   ]
+  },
+  {
+   "symbol": "FLNT",
+   "name": "Fluent, Inc. - Common Stock",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "FLNT"
+  },
+  {
+   "symbol": "ATHX",
+   "name": "Athersys, Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "ATHX"
+  },
+  {
+   "symbol": "XFS",
+   "name": "iShares MSCI Multifactor USA Index ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "XFS.TO",
+   "instruments": [
+    {
+     "name": "iShr MSCIMultiftrUSA",
+     "symbol": "XFS"
+    },
+    {
+     "name": "iShrMSCI MultiFtrUSF",
+     "symbol": "XFS.U"
+    }
+   ]
+  },
+  {
+   "symbol": "EMAN",
+   "name": "eMagin Corporation Common Stock",
+   "exchange": "NYSE MKT",
+   "yahoo_symbol": "EMAN"
+  },
+  {
+   "symbol": "XFI",
+   "name": "iShares MSCI Multifactor EAFE Index ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "XFI.TO",
+   "instruments": [
+    {
+     "name": "iShr MSCIMultfacEAFE",
+     "symbol": "XFI"
+    }
+   ]
+  },
+  {
+   "symbol": "XFA",
+   "name": "iShares MSCI Multifactor USA Index ETF (CAD-Hedged)",
+   "exchange": "TSX",
+   "yahoo_symbol": "XFA.TO",
+   "instruments": [
+    {
+     "name": "iShrMSCIMultiUSA C-H",
+     "symbol": "XFA"
+    }
+   ]
+  },
+  {
+   "symbol": "XFF",
+   "name": "iShares MSCI Multifactor EAFE Index ETF (CAD-Hedged)",
+   "exchange": "TSX",
+   "yahoo_symbol": "XFF.TO",
+   "instruments": [
+    {
+     "name": "iShr MSCI EAFE CA-HG",
+     "symbol": "XFF"
+    }
+   ]
+  },
+  {
+   "symbol": "CIR",
+   "name": "CIRCOR International, Inc. Common Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "CIR"
+  },
+  {
+   "symbol": "XCLR",
+   "name": "iShares ESG MSCI Canada Leaders Index ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "XCLR.TO",
+   "instruments": [
+    {
+     "name": "iShr ESGMSCI CALeadr",
+     "symbol": "XCLR"
+    }
+   ]
+  },
+  {
+   "symbol": "XFC",
+   "name": "iShares MSCI Multifactor Canada Index ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "XFC.TO",
+   "instruments": [
+    {
+     "name": "iShr MSCIMultfactrCA",
+     "symbol": "XFC"
+    }
+   ]
+  },
+  {
+   "symbol": "HCCI",
+   "name": "Heritage-Crystal Clean, Inc. - Common Stock",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "HCCI"
+  },
+  {
+   "symbol": "FSNB.U",
+   "name": "Fusion Acquisition Corp. II Units, each consisting of one share of Class A common stock and one-third of one redeemable warrant",
+   "exchange": "NYSE",
+   "yahoo_symbol": "FSNB.U"
+  },
+  {
+   "symbol": "XULR",
+   "name": "iShares ESG MSCI USA Leaders Index ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "XULR.TO",
+   "instruments": [
+    {
+     "name": "iShr ESGMSCI USA Ldr",
+     "symbol": "XULR"
+    }
+   ]
+  },
+  {
+   "symbol": "FSNB",
+   "name": "Fusion Acquisition Corp. II Class A Common Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "FSNB"
+  },
+  {
+   "symbol": "XDLR",
+   "name": "iShares ESG MSCI EAFE Leaders Index ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "XDLR.TO",
+   "instruments": [
+    {
+     "name": "iShr ESGMSCIEAFE Ldr",
+     "symbol": "XDLR"
+    }
+   ]
+  },
+  {
+   "symbol": "ALLG.W",
+   "name": "Allego N.V. Warrants, each exercisable for one Ordinary Share at an exercise price of $11.50 per share",
+   "exchange": "NYSE",
+   "yahoo_symbol": "ALLG.W"
+  }
+ ]
+}
