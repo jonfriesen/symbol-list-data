@@ -1,0 +1,32 @@
+{
+ "added": [
+  {
+   "symbol": "G",
+   "name": "GRN Grid (G)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "DEUS",
+   "name": "DEUS Finance (DEUS)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "BANKETH",
+   "name": "BankEth (BANKETH)"
+  },
+  {
+   "symbol": "DOGETH",
+   "name": "EtherDoge (DOGETH)"
+  },
+  {
+   "symbol": "XETH",
+   "name": "Xplosive Ethereum (XETH)"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "DEUS",
+   "name": "DEUS Finance (DEUS)"
+  }
+ ]
+}

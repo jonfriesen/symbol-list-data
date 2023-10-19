@@ -1,0 +1,84 @@
+{
+ "added": [
+  {
+   "symbol": "COSA",
+   "name": "Cosa Resources Corp.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "COSA.V",
+   "instruments": [
+    {
+     "name": "Cosa Resources Corp.",
+     "symbol": "COSA"
+    }
+   ]
+  },
+  {
+   "symbol": "AMAO",
+   "name": "American Acquisition Opportunity Inc.  - Common stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "AMAO"
+  },
+  {
+   "symbol": "AMAOU",
+   "name": "American Acquisition Opportunity Inc.  - Unit",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "AMAOU"
+  },
+  {
+   "symbol": "AMAOW",
+   "name": "American Acquisition Opportunity Inc.  - Warrant",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "AMAOW"
+  },
+  {
+   "symbol": "PLUR",
+   "name": "Pluri Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "PLUR"
+  },
+  {
+   "symbol": "NCL",
+   "name": "Northann Corp. Common Stock",
+   "exchange": "NYSE MKT",
+   "yahoo_symbol": "NCL"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "HPLTW",
+   "name": "Home Plate Acquisition Corporation - Warrant",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "HPLTW"
+  },
+  {
+   "symbol": "HPLT",
+   "name": "Home Plate Acquisition Corporation - Class A Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "HPLT"
+  },
+  {
+   "symbol": "HPLTU",
+   "name": "Home Plate Acquisition Corporation - Unit",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "HPLTU"
+  },
+  {
+   "symbol": "SFT",
+   "name": "Shift Technologies, Inc. - Class A Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "SFT"
+  },
+  {
+   "symbol": "PLUR",
+   "name": "Pluri Inc. - Common Stock",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "PLUR"
+  },
+  {
+   "symbol": "LOCL.W",
+   "name": "Local Bounti Corporation Redeemable Warrants, each whole warrant exercisable for one share of Common Stock at an exercise price of $11.50",
+   "exchange": "NYSE",
+   "yahoo_symbol": "LOCL.W"
+  }
+ ]
+}
