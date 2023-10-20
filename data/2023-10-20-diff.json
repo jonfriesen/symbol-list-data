@@ -1,0 +1,150 @@
+{
+ "added": [
+  {
+   "symbol": "HHH",
+   "name": "Helius Minerals Limited",
+   "exchange": "TSXV",
+   "yahoo_symbol": "HHH.V",
+   "instruments": [
+    {
+     "name": "Helius Minerals Limited",
+     "symbol": "HHH"
+    }
+   ]
+  },
+  {
+   "symbol": "EGIO",
+   "name": "Edgio, Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "EGIO"
+  },
+  {
+   "symbol": "LAES",
+   "name": "SEALSQ Corp - Ordinary Shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "LAES"
+  },
+  {
+   "symbol": "SPEC",
+   "name": "Spectaire Holdings, Inc. - Common Stock",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "SPEC"
+  },
+  {
+   "symbol": "SPECW",
+   "name": "Spectaire Holdings, Inc. - Warrants",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "SPECW"
+  },
+  {
+   "symbol": "TRML",
+   "name": "Tourmaline Bio, Inc.  - Common Stock",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "TRML"
+  },
+  {
+   "symbol": "TSLT",
+   "name": "T-REX 2X Long Tesla Daily Target ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "TSLT"
+  },
+  {
+   "symbol": "TSLZ",
+   "name": "T-Rex 2X Inverse Tesla Daily Target ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "TSLZ"
+  },
+  {
+   "symbol": "ULY",
+   "name": "Urgent.ly Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "ULY"
+  },
+  {
+   "symbol": "WBUY",
+   "name": "WEBUY GLOBAL LTD. - Ordinary Shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "WBUY"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "ACAQ.U",
+   "name": "Athena Consumer Acquisition Corp. Units, each consisting of one share of Class A common stock and one-half of one Redeemable Warrant",
+   "exchange": "NYSE MKT",
+   "yahoo_symbol": "ACAQ.U"
+  },
+  {
+   "symbol": "PCCT",
+   "name": "Perception Capital Corp. II - Class A Ordinary Shares",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "PCCT"
+  },
+  {
+   "symbol": "ANE",
+   "name": "Altan Nevada Minerals Limited",
+   "exchange": "TSXV",
+   "yahoo_symbol": "ANE.V",
+   "instruments": [
+    {
+     "name": "Altan Nevada Minerals Limited",
+     "symbol": "ANE"
+    }
+   ]
+  },
+  {
+   "symbol": "LAES",
+   "name": "SEALSQ Corp - Ordinary Shares",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "LAES"
+  },
+  {
+   "symbol": "TALS",
+   "name": "Talaris Therapeutics, Inc. - Common Stock",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "TALS"
+  },
+  {
+   "symbol": "PCCTW",
+   "name": "Perception Capital Corp. II - Warrants",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "PCCTW"
+  },
+  {
+   "symbol": "ACAQ",
+   "name": "Athena Consumer Acquisition Corp. Class A Common Stock",
+   "exchange": "NYSE MKT",
+   "yahoo_symbol": "ACAQ"
+  },
+  {
+   "symbol": "ACAQ.W",
+   "name": "Athena Consumer Acquisition Corp. Redeemable warrants",
+   "exchange": "NYSE MKT",
+   "yahoo_symbol": "ACAQ.W"
+  },
+  {
+   "symbol": "EGIO",
+   "name": "Edgio, Inc. - Common Stock",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "EGIO"
+  },
+  {
+   "symbol": "OTMO",
+   "name": "Otonomo Technologies Ltd. - Ordinary shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "OTMO"
+  },
+  {
+   "symbol": "OTRKP",
+   "name": "Ontrak, Inc. - 9.50% Series A Cumulative Perpetual Preferred Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "OTRKP"
+  },
+  {
+   "symbol": "PCCTU",
+   "name": "Perception Capital Corp. II - Units",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "PCCTU"
+  }
+ ]
+}
