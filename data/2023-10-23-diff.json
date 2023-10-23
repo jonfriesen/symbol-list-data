@@ -1,0 +1,84 @@
+{
+ "added": [
+  {
+   "symbol": "ABVX",
+   "name": "Abivax SA - American Depositary Shares",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "ABVX"
+  },
+  {
+   "symbol": "CPBI",
+   "name": "Central Plains Bancshares, Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "CPBI"
+  },
+  {
+   "symbol": "EGOX",
+   "name": "Next.e.GO N.V. - Ordinary Shares",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "EGOX"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "CHNA",
+   "name": "Loncar China BioPharma ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "CHNA"
+  },
+  {
+   "symbol": "WGRO",
+   "name": "WisdomTree U.S. Growth \u0026 Momentum Fund",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "WGRO"
+  },
+  {
+   "symbol": "NBW",
+   "name": "Neuberger Berman California Municipal Fund Inc Common Stock",
+   "exchange": "NYSE MKT",
+   "yahoo_symbol": "NBW"
+  },
+  {
+   "symbol": "NBO",
+   "name": "Neuberger Berman New York Municipal Fund Inc. Common Stock",
+   "exchange": "NYSE MKT",
+   "yahoo_symbol": "NBO"
+  },
+  {
+   "symbol": "RVLP",
+   "name": "RVL Pharmaceuticals plc - Ordinary Shares",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "RVLP"
+  },
+  {
+   "symbol": "KEN",
+   "name": "Kenadyr Metals Corp.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "KEN.V",
+   "instruments": [
+    {
+     "name": "Kenadyr Metals Corp.",
+     "symbol": "KEN"
+    }
+   ]
+  },
+  {
+   "symbol": "DXGE",
+   "name": "WisdomTree Germany Hedged Equity Fund",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "DXGE"
+  },
+  {
+   "symbol": "GHR",
+   "name": "Golden Harp Resources Inc.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "GHR.V",
+   "instruments": [
+    {
+     "name": "Golden Harp Resources Inc.",
+     "symbol": "GHR"
+    }
+   ]
+  }
+ ]
+}
