@@ -1,0 +1,144 @@
+{
+ "added": [
+  {
+   "symbol": "DXBC",
+   "name": "Dynamic Active Canadian Bond ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "DXBC.TO",
+   "instruments": [
+    {
+     "name": "Dynamic ActvCdnBond",
+     "symbol": "DXBC"
+    }
+   ]
+  },
+  {
+   "symbol": "DXGE",
+   "name": "Dynamic Active Global Equity Income ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "DXGE.TO",
+   "instruments": [
+    {
+     "name": "Dynamic ActGlbEqIncm",
+     "symbol": "DXGE"
+    }
+   ]
+  },
+  {
+   "symbol": "DXUS",
+   "name": "Dynamic Active U.S. Equity ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "DXUS.TO",
+   "instruments": [
+    {
+     "name": "Dynamic Actv US Eqty",
+     "symbol": "DXUS"
+    }
+   ]
+  },
+  {
+   "symbol": "DXBU",
+   "name": "Dynamic Active U.S. Investment Grade Corporate Bond ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "DXBU.TO",
+   "instruments": [
+    {
+     "name": "DynamicUS InvCorpBnd",
+     "symbol": "DXBU"
+    }
+   ]
+  },
+  {
+   "symbol": "PABF",
+   "name": "Purpose Active Balanced Fund",
+   "exchange": "TSX",
+   "yahoo_symbol": "PABF.TO",
+   "instruments": [
+    {
+     "name": "Purpose Actv Bal Fnd",
+     "symbol": "PABF"
+    }
+   ]
+  },
+  {
+   "symbol": "PACF",
+   "name": "Purpose Active Conservative Fund",
+   "exchange": "TSX",
+   "yahoo_symbol": "PACF.TO",
+   "instruments": [
+    {
+     "name": "Purpose ActvConserv",
+     "symbol": "PACF"
+    }
+   ]
+  },
+  {
+   "symbol": "PAGF",
+   "name": "Purpose Active Growth Fund",
+   "exchange": "TSX",
+   "yahoo_symbol": "PAGF.TO",
+   "instruments": [
+    {
+     "name": "Purpose Actv Growth",
+     "symbol": "PAGF"
+    }
+   ]
+  },
+  {
+   "symbol": "AIRE",
+   "name": "reAlpha Tech Corp. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "AIRE"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "CXAC.W",
+   "name": "C5 Acquisition Corporation Public warrants, each whole public warrant exercisable for one share of Class A Common Stock at an exercise price of $11.50 per share",
+   "exchange": "NYSE",
+   "yahoo_symbol": "CXAC.W"
+  },
+  {
+   "symbol": "SCPL",
+   "name": "SciPlay Corporation - Class A Common Stock",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "SCPL"
+  },
+  {
+   "symbol": "PFSW",
+   "name": "PFSweb, Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "PFSW"
+  },
+  {
+   "symbol": "LZRD",
+   "name": "Parabla Innovation ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "LZRD"
+  },
+  {
+   "symbol": "CXAC",
+   "name": "C5 Acquisition Corporation Class A Common Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "CXAC"
+  },
+  {
+   "symbol": "CXAC.U",
+   "name": "C5 Acquisition Corporation Units, each consisting of one share of Class A common stock and one-half of one redeemable public warrant",
+   "exchange": "NYSE",
+   "yahoo_symbol": "CXAC.U"
+  },
+  {
+   "symbol": "AKU",
+   "name": "Akumin Inc.",
+   "exchange": "TSX",
+   "yahoo_symbol": "AKU.TO",
+   "instruments": [
+    {
+     "name": "Akumin Inc. J",
+     "symbol": "AKU"
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,33 @@
+{
+ "added": [
+  {
+   "symbol": "RVC",
+   "name": "Revenue Coin (RVC)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "GETH",
+   "name": "Guarded Ether (GETH)"
+  },
+  {
+   "symbol": "DOG",
+   "name": "The Doge NFT (DOG)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "BANK",
+   "name": "Float Protocol (BANK)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "XETH",
+   "name": "Xplosive Ethereum (XETH)"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "RVC",
+   "name": "Revenue Coin (RVC)"
+  }
+ ]
+}
