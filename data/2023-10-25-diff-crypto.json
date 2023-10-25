@@ -1,0 +1,52 @@
+{
+ "added": [
+  {
+   "symbol": "XETH",
+   "name": "Xplosive Ethereum (XETH)"
+  },
+  {
+   "symbol": "BANK",
+   "name": "Float Protocol (BANK)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "TIANHE",
+   "name": "Tianhe (TIANHE)"
+  },
+  {
+   "symbol": "DOGETH",
+   "name": "EtherDoge (DOGETH)"
+  },
+  {
+   "symbol": "GETH",
+   "name": "Guarded Ether (GETH)"
+  },
+  {
+   "symbol": "BLOX",
+   "name": "The Blox Project (BLOX)",
+   "built_on": "ETH"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "WIZ",
+   "name": "WIZ Protocol (WIZ)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "DONTBUYMEME",
+   "name": "Meme (DONTBUYMEME)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "HIPPO",
+   "name": "HIPPO (HIPPO)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "UPT",
+   "name": "Universal Protocol Token (UPT)",
+   "built_on": "ETH"
+  }
+ ]
+}
