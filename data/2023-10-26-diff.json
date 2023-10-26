@@ -1,0 +1,72 @@
+{
+ "added": [
+  {
+   "symbol": "QMAX",
+   "name": "Hamilton Technology Yield Maximizer ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "QMAX.TO",
+   "instruments": [
+    {
+     "name": "Hamilton Tech YldMax",
+     "symbol": "QMAX"
+    }
+   ]
+  },
+  {
+   "symbol": "SMAX",
+   "name": "Hamilton U.S. Equity Yield Maximizer ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "SMAX.TO",
+   "instruments": [
+    {
+     "name": "Hamilton US EqYldMax",
+     "symbol": "SMAX"
+    }
+   ]
+  },
+  {
+   "symbol": "DTIL",
+   "name": "Precision BioSciences, Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "DTIL"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "DMT",
+   "name": "Small Pharma Inc.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "DMT.V",
+   "instruments": [
+    {
+     "name": "Small Pharma Inc.",
+     "symbol": "DMT"
+    }
+   ]
+  },
+  {
+   "symbol": "SKIL.W",
+   "name": "Skillsoft Corp. Warrants, each exercisable for one share of Class A common stock at an exercise price of $11.50 per share",
+   "exchange": "NYSE",
+   "yahoo_symbol": "SKIL.W"
+  },
+  {
+   "symbol": "AKU",
+   "name": "Akumin Inc. - Common Shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "AKU"
+  },
+  {
+   "symbol": "SVVC",
+   "name": "Firsthand Technology Value Fund, Inc. - Closed End Fund",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "SVVC"
+  },
+  {
+   "symbol": "DTIL",
+   "name": "Precision BioSciences, Inc. - Common Stock",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "DTIL"
+  }
+ ]
+}
