@@ -1,0 +1,198 @@
+{
+ "added": [
+  {
+   "symbol": "RMB",
+   "name": "Rumbu Holdings Ltd.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "RMB.V",
+   "instruments": [
+    {
+     "name": "Rumbu Holdings Ltd.",
+     "symbol": "RMB"
+    }
+   ]
+  },
+  {
+   "symbol": "BLCR",
+   "name": "BlackRock Large Cap Core ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "BLCR"
+  },
+  {
+   "symbol": "GDNR",
+   "name": "Gardiner Healthcare Acquisitions Corp. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "GDNR"
+  },
+  {
+   "symbol": "GDNRU",
+   "name": "Gardiner Healthcare Acquisitions Corp. - Unit",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "GDNRU"
+  },
+  {
+   "symbol": "GDNRW",
+   "name": "Gardiner Healthcare Acquisitions Corp. - Warrant",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "GDNRW"
+  },
+  {
+   "symbol": "GPIQ",
+   "name": "Goldman Sachs Nasdaq-100 Core Premium Income ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "GPIQ"
+  },
+  {
+   "symbol": "GPIX",
+   "name": "Goldman Sachs S\u0026P 500 Core Premium Income ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "GPIX"
+  },
+  {
+   "symbol": "MCAG",
+   "name": "Mountain Crest Acquisition Corp. V - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "MCAG"
+  },
+  {
+   "symbol": "MCAGR",
+   "name": "Mountain Crest Acquisition Corp. V - Right",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "MCAGR"
+  },
+  {
+   "symbol": "MCAGU",
+   "name": "Mountain Crest Acquisition Corp. V - Unit",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "MCAGU"
+  },
+  {
+   "symbol": "PEPL",
+   "name": "PepperLime Health Acquisition Corporation - Class A Ordinary Share",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "PEPL"
+  },
+  {
+   "symbol": "PEPLU",
+   "name": "PepperLime Health Acquisition Corporation - Unit",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "PEPLU"
+  },
+  {
+   "symbol": "PEPLW",
+   "name": "PepperLime Health Acquisition Corporation - Warrrant",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "PEPLW"
+  },
+  {
+   "symbol": "CCIA",
+   "name": "Carlyle Credit Income Fund 8.75% Series A Preferred Shares due 2028",
+   "exchange": "NYSE",
+   "yahoo_symbol": "CCIA"
+  },
+  {
+   "symbol": "NLOP.V",
+   "name": "Net Lease Office Properties Common Shares of Beneficial Interest When-Issued",
+   "exchange": "NYSE",
+   "yahoo_symbol": "NLOP.V"
+  },
+  {
+   "symbol": "PAPL",
+   "name": "Pineapple Financial Inc. Common Stock",
+   "exchange": "NYSE MKT",
+   "yahoo_symbol": "PAPL"
+  },
+  {
+   "symbol": "WPC.V",
+   "name": "W. P. Carey Inc. Common Stock When-Issued",
+   "exchange": "NYSE",
+   "yahoo_symbol": "WPC.V"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "PEPL",
+   "name": "PepperLime Health Acquisition Corporation - Class A Ordinary Share",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "PEPL"
+  },
+  {
+   "symbol": "GDNRW",
+   "name": "Gardiner Healthcare Acquisitions Corp. - Warrant",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "GDNRW"
+  },
+  {
+   "symbol": "GDNR",
+   "name": "Gardiner Healthcare Acquisitions Corp. - Common Stock",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "GDNR"
+  },
+  {
+   "symbol": "BRQS",
+   "name": "Borqs Technologies, Inc.  - Ordinary Shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "BRQS"
+  },
+  {
+   "symbol": "MCAGR",
+   "name": "Mountain Crest Acquisition Corp. V - Right",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "MCAGR"
+  },
+  {
+   "symbol": "SFRWW",
+   "name": "Appreciate Holdings, Inc. - Warrant",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "SFRWW"
+  },
+  {
+   "symbol": "SFR",
+   "name": "Appreciate Holdings, Inc. - Class A Common Stock",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "SFR"
+  },
+  {
+   "symbol": "MCAGU",
+   "name": "Mountain Crest Acquisition Corp. V - Unit",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "MCAGU"
+  },
+  {
+   "symbol": "MCAG",
+   "name": "Mountain Crest Acquisition Corp. V - Common Stock",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "MCAG"
+  },
+  {
+   "symbol": "RMB.P",
+   "name": "Rumbu Holdings Ltd.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "RMB.P.V",
+   "instruments": [
+    {
+     "name": "Rumbu Holdings Ltd.",
+     "symbol": "RMB.P"
+    }
+   ]
+  },
+  {
+   "symbol": "PEPLU",
+   "name": "PepperLime Health Acquisition Corporation - Unit",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "PEPLU"
+  },
+  {
+   "symbol": "GDNRU",
+   "name": "Gardiner Healthcare Acquisitions Corp. - Unit",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "GDNRU"
+  },
+  {
+   "symbol": "PEPLW",
+   "name": "PepperLime Health Acquisition Corporation - Warrrant",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "PEPLW"
+  }
+ ]
+}
