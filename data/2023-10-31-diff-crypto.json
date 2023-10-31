@@ -1,0 +1,52 @@
+{
+ "added": [
+  {
+   "symbol": "ZUC",
+   "name": "Zeux (ZUC)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "BTSE",
+   "name": "BTSE Token (BTSE)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "XETH",
+   "name": "Xplosive Ethereum (XETH)"
+  },
+  {
+   "symbol": "DOG",
+   "name": "The Doge NFT (DOG)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "BANK",
+   "name": "Float Protocol (BANK)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "AURORA",
+   "name": "Aurora (AURORA)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "G",
+   "name": "GRN Grid (G)",
+   "built_on": "ETH"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "ZUC",
+   "name": "Zeux (ZUC)"
+  },
+  {
+   "symbol": "AURORA",
+   "name": "Aurora (AURORA)"
+  },
+  {
+   "symbol": "BTSE",
+   "name": "BTSE Token (BTSE)"
+  }
+ ]
+}

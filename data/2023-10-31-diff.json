@@ -1,0 +1,150 @@
+{
+ "added": [
+  {
+   "symbol": "CTG",
+   "name": "Centenario Gold Corp.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "CTG.V",
+   "instruments": [
+    {
+     "name": "Centenario Gold Corp.",
+     "symbol": "CTG"
+    }
+   ]
+  },
+  {
+   "symbol": "SUG",
+   "name": "Sucro Limited",
+   "exchange": "TSXV",
+   "yahoo_symbol": "SUG.V",
+   "instruments": [
+    {
+     "name": "Sucro Limited",
+     "symbol": "SUG"
+    }
+   ]
+  },
+  {
+   "symbol": "IGEO",
+   "name": "IA Clarington Loomis Global Equity Opportunities Fund",
+   "exchange": "TSX",
+   "yahoo_symbol": "IGEO.TO",
+   "instruments": [
+    {
+     "name": "IA Claringtn GlbEqOp",
+     "symbol": "IGEO"
+    }
+   ]
+  },
+  {
+   "symbol": "ISCB",
+   "name": "IA Clarington Strategic Corporate Bond Fund",
+   "exchange": "TSX",
+   "yahoo_symbol": "ISCB.TO",
+   "instruments": [
+    {
+     "name": "IA Claringtn CorpBnd",
+     "symbol": "ISCB"
+    }
+   ]
+  },
+  {
+   "symbol": "IWEB",
+   "name": "IA Wealth Enhanced Bond Pool",
+   "exchange": "TSX",
+   "yahoo_symbol": "IWEB.TO",
+   "instruments": [
+    {
+     "name": "IA Wealth Bond Pool",
+     "symbol": "IWEB"
+    }
+   ]
+  },
+  {
+   "symbol": "AFIB",
+   "name": "Acutus Medical, Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "AFIB"
+  },
+  {
+   "symbol": "GYRE",
+   "name": "Gyre Therapeutics, Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "GYRE"
+  },
+  {
+   "symbol": "VMW",
+   "name": "Vmware, Inc. Common stock, Class A",
+   "exchange": "NYSE",
+   "yahoo_symbol": "VMW"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "NPA",
+   "name": "Alphinat Inc.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "NPA.V",
+   "instruments": [
+    {
+     "name": "Alphinat Inc.",
+     "symbol": "NPA"
+    }
+   ]
+  },
+  {
+   "symbol": "FRGI",
+   "name": "Fiesta Restaurant Group, Inc. - Common Stock",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "FRGI"
+  },
+  {
+   "symbol": "BOAC.U",
+   "name": "Bluescape Opportunities Acquisition Corp. Units, each consisting of one Class A ordinary share, and one-half of one redeemable warrant",
+   "exchange": "NYSE",
+   "yahoo_symbol": "BOAC.U"
+  },
+  {
+   "symbol": "CBIO",
+   "name": "Catalyst Biosciences, Inc.  - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "CBIO"
+  },
+  {
+   "symbol": "AAD.P",
+   "name": "AADirection Capital Corp.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "AAD.P.V",
+   "instruments": [
+    {
+     "name": "AADirection Capital Corp.",
+     "symbol": "AAD.P"
+    }
+   ]
+  },
+  {
+   "symbol": "BOAC",
+   "name": "Bluescape Opportunities Acquisition Corp. Class A Ordinary Shares",
+   "exchange": "NYSE",
+   "yahoo_symbol": "BOAC"
+  },
+  {
+   "symbol": "DRCTW",
+   "name": "Direct Digital Holdings, Inc. - Warrant",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "DRCTW"
+  },
+  {
+   "symbol": "BOAC.W",
+   "name": "Bluescape Opportunities Acquisition Corp. Redeemable warrants, each whole warrant exercisable for one Class A ordinary share at an exercise price of $11.50",
+   "exchange": "NYSE",
+   "yahoo_symbol": "BOAC.W"
+  },
+  {
+   "symbol": "AFIB",
+   "name": "Acutus Medical, Inc. - Common Stock",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "AFIB"
+  }
+ ]
+}
