@@ -1,0 +1,78 @@
+{
+ "added": [
+  {
+   "symbol": "ATGL",
+   "name": "Alpha Technology Group Limited - Ordinary Shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "ATGL"
+  },
+  {
+   "symbol": "ROI",
+   "name": "RiskOn International, Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "ROI"
+  },
+  {
+   "symbol": "BFX",
+   "name": "BowFlex Inc. Common Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "BFX"
+  },
+  {
+   "symbol": "PAPL",
+   "name": "Pineapple Financial Inc. Common Stock",
+   "exchange": "NYSE MKT",
+   "yahoo_symbol": "PAPL"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "NLS",
+   "name": "Nautilus, Inc. Common Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "NLS"
+  },
+  {
+   "symbol": "FRBNW",
+   "name": "Forbion European Acquisition Corp. - Warrants",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "FRBNW"
+  },
+  {
+   "symbol": "TII",
+   "name": "Terra Firma Capital Corporation",
+   "exchange": "TSXV",
+   "yahoo_symbol": "TII.V",
+   "instruments": [
+    {
+     "name": "Terra Firma Capital Corporation",
+     "symbol": "TII"
+    }
+   ]
+  },
+  {
+   "symbol": "FRBNU",
+   "name": "Forbion European Acquisition Corp. - Units",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "FRBNU"
+  },
+  {
+   "symbol": "ESTE",
+   "name": "Earthstone Energy, Inc. Class A Common Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "ESTE"
+  },
+  {
+   "symbol": "FRBN",
+   "name": "Forbion European Acquisition Corp. - Class A Ordinary Shares",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "FRBN"
+  },
+  {
+   "symbol": "BNMV",
+   "name": "BitNile Metaverse, Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "BNMV"
+  }
+ ]
+}
