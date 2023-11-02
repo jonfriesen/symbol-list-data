@@ -1,0 +1,48 @@
+{
+ "added": [
+  {
+   "symbol": "ZUZUAI",
+   "name": "ZUZUAI (ZUZUAI)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "SBC",
+   "name": "StableCoin (SBC)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "DOGETH",
+   "name": "EtherDoge (DOGETH)"
+  },
+  {
+   "symbol": "BANK",
+   "name": "Float Protocol (BANK)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "DEXT",
+   "name": "DEXTools (DEXT)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "G",
+   "name": "GRN Grid (G)",
+   "built_on": "ETH"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "SBC",
+   "name": "StableCoin (SBC)"
+  },
+  {
+   "symbol": "DEXT",
+   "name": "DEXTools (DEXT)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "ZUZUAI",
+   "name": "ZUZUAI (ZUZUAI)"
+  }
+ ]
+}

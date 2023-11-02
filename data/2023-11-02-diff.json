@@ -1,0 +1,120 @@
+{
+ "added": [
+  {
+   "symbol": "LIFT",
+   "name": "Li-FT Power Ltd.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "LIFT.V",
+   "instruments": [
+    {
+     "name": "Li-FT Power Ltd.",
+     "symbol": "LIFT"
+    }
+   ]
+  },
+  {
+   "symbol": "NSU",
+   "name": "North Shore Uranium Ltd.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "NSU.V",
+   "instruments": [
+    {
+     "name": "North Shore Uranium Ltd.",
+     "symbol": "NSU"
+    }
+   ]
+  },
+  {
+   "symbol": "ENGN",
+   "name": "enGene Holdings Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "ENGN"
+  },
+  {
+   "symbol": "ENGNW",
+   "name": "enGene Holdings Inc. - Warrants",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "ENGNW"
+  },
+  {
+   "symbol": "INO",
+   "name": "Inovio Pharmaceuticals, Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "INO"
+  },
+  {
+   "symbol": "NLOP",
+   "name": "Net Lease Office Properties Common Shares of Beneficial Interest",
+   "exchange": "NYSE",
+   "yahoo_symbol": "NLOP"
+  },
+  {
+   "symbol": "TRAK",
+   "name": "ReposiTrak Common Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "TRAK"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "NLOP.V",
+   "name": "Net Lease Office Properties Common Shares of Beneficial Interest When-Issued",
+   "exchange": "NYSE",
+   "yahoo_symbol": "NLOP.V"
+  },
+  {
+   "symbol": "PCYG",
+   "name": "Park City Group, Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "PCYG"
+  },
+  {
+   "symbol": "CLVR.P",
+   "name": "Clover Leaf Capital Corp.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "CLVR.P.V",
+   "instruments": [
+    {
+     "name": "Clover Leaf Capital Corp.",
+     "symbol": "CLVR.P"
+    }
+   ]
+  },
+  {
+   "symbol": "MDNA",
+   "name": "Medicenna Therapeutics Corp. - Common Shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "MDNA"
+  },
+  {
+   "symbol": "DEN",
+   "name": "Denbury Inc. Common Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "DEN"
+  },
+  {
+   "symbol": "INO",
+   "name": "Inovio Pharmaceuticals, Inc. - Common Stock",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "INO"
+  },
+  {
+   "symbol": "TMPO",
+   "name": "Tempo Automation Holdings, Inc. - Common Stock",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "TMPO"
+  },
+  {
+   "symbol": "WPC.V",
+   "name": "W. P. Carey Inc. Common Stock When-Issued",
+   "exchange": "NYSE",
+   "yahoo_symbol": "WPC.V"
+  },
+  {
+   "symbol": "TMPOW",
+   "name": "Tempo Automation Holdings, Inc. - Warrant",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "TMPOW"
+  }
+ ]
+}
