@@ -1,0 +1,90 @@
+{
+ "added": [
+  {
+   "symbol": "CAUD",
+   "name": "Collective Audience, Inc. - Common Stock",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "CAUD"
+  },
+  {
+   "symbol": "JDOC",
+   "name": "JPMorgan Healthcare Leaders ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "JDOC"
+  },
+  {
+   "symbol": "ET$I",
+   "name": "Energy Transfer L.P. Series I Fixed Rate Perpetual Preferred Units",
+   "exchange": "NYSE",
+   "yahoo_symbol": "ET$I"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "ASPAW",
+   "name": "Abri SPAC I, Inc. - Warrant",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "ASPAW"
+  },
+  {
+   "symbol": "TRCA",
+   "name": "Twin Ridge Capital Acquisition Corp. Class A Ordinary Shares",
+   "exchange": "NYSE",
+   "yahoo_symbol": "TRCA"
+  },
+  {
+   "symbol": "ITAQ",
+   "name": "Industrial Tech Acquisitions II, Inc. - Class A Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "ITAQ"
+  },
+  {
+   "symbol": "ITAQW",
+   "name": "Industrial Tech Acquisitions II, Inc. - Warrants",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "ITAQW"
+  },
+  {
+   "symbol": "TRCA.W",
+   "name": "Twin Ridge Capital Acquisition Corp. Warrants, each whole warrant exercisable for one Class A ordinary share at an exercise price of $11.50",
+   "exchange": "NYSE",
+   "yahoo_symbol": "TRCA.W"
+  },
+  {
+   "symbol": "CEQP$",
+   "name": "Crestwood Equity Partners LP Preferred Units representing limited partner interests",
+   "exchange": "NYSE",
+   "yahoo_symbol": "CEQP$"
+  },
+  {
+   "symbol": "TRCA.U",
+   "name": "Twin Ridge Capital Acquisition Corp. Units, each consisting of one Class A ordinary share and one-third of one redeemable warrant",
+   "exchange": "NYSE",
+   "yahoo_symbol": "TRCA.U"
+  },
+  {
+   "symbol": "CEQP",
+   "name": "Crestwood Equity Partners LP",
+   "exchange": "NYSE",
+   "yahoo_symbol": "CEQP"
+  },
+  {
+   "symbol": "ASPA",
+   "name": "Abri SPAC I, Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "ASPA"
+  },
+  {
+   "symbol": "ASPAU",
+   "name": "Abri SPAC I, Inc. - Unit",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "ASPAU"
+  },
+  {
+   "symbol": "ITAQU",
+   "name": "Industrial Tech Acquisitions II, Inc. - Units",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "ITAQU"
+  }
+ ]
+}

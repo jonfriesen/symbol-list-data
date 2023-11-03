@@ -1,0 +1,53 @@
+{
+ "added": [
+  {
+   "symbol": "POOLXT",
+   "name": "Pool-X (POOLXT)",
+   "built_on": "TRX"
+  },
+  {
+   "symbol": "DOGETH",
+   "name": "EtherDoge (DOGETH)"
+  },
+  {
+   "symbol": "POOLX",
+   "name": "Poolz Finance (POOLX)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "DEXT",
+   "name": "DEXTools (DEXT)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "BANKETH",
+   "name": "BankEth (BANKETH)"
+  },
+  {
+   "symbol": "BITCOIN",
+   "name": "HarryPotterObamaSonic10Inu (ETH) (BITCOIN)"
+  },
+  {
+   "symbol": "G",
+   "name": "GRN Grid (G)",
+   "built_on": "ETH"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "DEXT",
+   "name": "DEXTools (DEXT)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "POL",
+   "name": "Pool-X (POL)",
+   "built_on": "TRX"
+  },
+  {
+   "symbol": "BITCOIN",
+   "name": "HarryPotterObamaSonic10Inu (ETH) (BITCOIN)",
+   "built_on": "ETH"
+  }
+ ]
+}
