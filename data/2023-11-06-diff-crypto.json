@@ -1,0 +1,27 @@
+{
+ "added": [
+  {
+   "symbol": "GAC",
+   "name": "Green Art Coin (GAC)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "POL",
+   "name": "Polygon Ecosystem Token (POL)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "BANK",
+   "name": "Float Protocol (BANK)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "GETH",
+   "name": "Guarded Ether (GETH)"
+  },
+  {
+   "symbol": "DOGETH",
+   "name": "EtherDoge (DOGETH)"
+  }
+ ]
+}

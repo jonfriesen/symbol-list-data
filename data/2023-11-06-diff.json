@@ -1,0 +1,156 @@
+{
+ "added": [
+  {
+   "symbol": "AKU",
+   "name": "Akumin Inc.",
+   "exchange": "TSX",
+   "yahoo_symbol": "AKU.TO",
+   "instruments": [
+    {
+     "name": "Akumin Inc. J",
+     "symbol": "AKU"
+    }
+   ]
+  },
+  {
+   "symbol": "GKO",
+   "name": "Geekco Technologies Corporation",
+   "exchange": "TSXV",
+   "yahoo_symbol": "GKO.V",
+   "instruments": [
+    {
+     "name": "Geekco Technologies Corporation",
+     "symbol": "GKO"
+    }
+   ]
+  },
+  {
+   "symbol": "ALKSV",
+   "name": "Alkermes plc - Ordinary Shares Ex-distribution When Issued",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "ALKSV"
+  },
+  {
+   "symbol": "CREV",
+   "name": "Carbon Revolution Public Limited Company - Ordinary Shares",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "CREV"
+  },
+  {
+   "symbol": "CREVW",
+   "name": "Carbon Revolution Public Limited Company - Warrant",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "CREVW"
+  },
+  {
+   "symbol": "KRRO",
+   "name": "Korro Bio, Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "KRRO"
+  },
+  {
+   "symbol": "LXEO",
+   "name": "Lexeo Therapeutics, Inc. - Common Stock",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "LXEO"
+  },
+  {
+   "symbol": "MURAV",
+   "name": "Mural Oncology plc - Ordinary Shares When Issued",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "MURAV"
+  },
+  {
+   "symbol": "RMCO",
+   "name": "Royalty Management Holding Corporation - Class A Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "RMCO"
+  },
+  {
+   "symbol": "RMCOW",
+   "name": "Royalty Management Holding Corporation - Warrant",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "RMCOW"
+  },
+  {
+   "symbol": "BYON",
+   "name": "Beyond, Inc. Common Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "BYON"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "AMAO",
+   "name": "American Acquisition Opportunity Inc.  - Common stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "AMAO"
+  },
+  {
+   "symbol": "AMAOW",
+   "name": "American Acquisition Opportunity Inc.  - Warrant",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "AMAOW"
+  },
+  {
+   "symbol": "AMAOU",
+   "name": "American Acquisition Opportunity Inc.  - Unit",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "AMAOU"
+  },
+  {
+   "symbol": "TRHC",
+   "name": "Tabula Rasa HealthCare, Inc. - Common Stock",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "TRHC"
+  },
+  {
+   "symbol": "ARTEW",
+   "name": "Artemis Strategic Investment Corporation - Warrant",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "ARTEW"
+  },
+  {
+   "symbol": "AQNA",
+   "name": "Algonquin Power \u0026 Utilities Corp. 6.875% Fixed-to-Floating Rate Subordinated Notes Series 2018-A due October 17, 2078",
+   "exchange": "NYSE",
+   "yahoo_symbol": "AQNA"
+  },
+  {
+   "symbol": "JPS",
+   "name": "Nuveen Preferred \u0026 Income Securities Fund",
+   "exchange": "NYSE",
+   "yahoo_symbol": "JPS"
+  },
+  {
+   "symbol": "ARTEU",
+   "name": "Artemis Strategic Investment Corporation - Unit",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "ARTEU"
+  },
+  {
+   "symbol": "OSTK",
+   "name": "Overstock.com, Inc. - Common Stock",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "OSTK"
+  },
+  {
+   "symbol": "JPT",
+   "name": "Nuveen Preferred and Income Fund Common Shares of Beneficial Interest",
+   "exchange": "NYSE",
+   "yahoo_symbol": "JPT"
+  },
+  {
+   "symbol": "ARTE",
+   "name": "Artemis Strategic Investment Corporation - Class A Common Stock",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "ARTE"
+  },
+  {
+   "symbol": "FREQ",
+   "name": "Frequency Therapeutics, Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "FREQ"
+  }
+ ]
+}
