@@ -1,0 +1,46 @@
+{
+ "added": [
+  {
+   "symbol": "THE",
+   "name": "The Protocol (THE)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "BANK",
+   "name": "Float Protocol (BANK)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "DOGETH",
+   "name": "EtherDoge (DOGETH)"
+  },
+  {
+   "symbol": "XX",
+   "name": "xx network (XX)"
+  },
+  {
+   "symbol": "SRBP",
+   "name": "Super Rare Ball Potion (SRBP)"
+  },
+  {
+   "symbol": "WMX",
+   "name": "Wombex Finance (WMX)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "GETH",
+   "name": "Guarded Ether (GETH)"
+  },
+  {
+   "symbol": "GLFT",
+   "name": "Global Fan Token (GLFT)",
+   "built_on": "BITCI"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "ETI",
+   "name": "EtherInc (ETI)"
+  }
+ ]
+}

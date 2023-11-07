@@ -1,0 +1,108 @@
+{
+ "added": [
+  {
+   "symbol": "SVRS",
+   "name": "Silver Storm Mining Ltd.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "SVRS.V",
+   "instruments": [
+    {
+     "name": "Silver Storm Mining Ltd.",
+     "symbol": "SVRS"
+    }
+   ]
+  },
+  {
+   "symbol": "BRNS",
+   "name": "Barinthus Biotherapeutics plc - American Depositary Shares",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "BRNS"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "PLM",
+   "name": "Polymet Mining Corporation Ordinary Shares (Canada)",
+   "exchange": "NYSE MKT",
+   "yahoo_symbol": "PLM"
+  },
+  {
+   "symbol": "VACC",
+   "name": "Vaccitech plc - American Depositary Shares",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "VACC"
+  },
+  {
+   "symbol": "AAC.W",
+   "name": "Ares Acquisition Corporation Redeemable Warrants, each whole warrant exercisable for one Class A ordinary share at an exercise price of $11.50",
+   "exchange": "NYSE",
+   "yahoo_symbol": "AAC.W"
+  },
+  {
+   "symbol": "RY$T",
+   "name": "Royal Bank Of Canada 6.750% Fixed Rate/Floating Rate Noncumulative First Preferred Shares, Series C-2",
+   "exchange": "NYSE",
+   "yahoo_symbol": "RY$T"
+  },
+  {
+   "symbol": "LIN",
+   "name": "Linde plc Ordinary Shares",
+   "exchange": "NYSE",
+   "yahoo_symbol": "LIN"
+  },
+  {
+   "symbol": "GOG",
+   "name": "Golden Tag Resources Ltd.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "GOG.V",
+   "instruments": [
+    {
+     "name": "Golden Tag Resources Ltd.",
+     "symbol": "GOG"
+    }
+   ]
+  },
+  {
+   "symbol": "FBYDP",
+   "name": "Falcon's Beyond Global, Inc. - 8% Series A Preferred Stock",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "FBYDP"
+  },
+  {
+   "symbol": "MNOW",
+   "name": "Mednow Inc.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "MNOW.V",
+   "instruments": [
+    {
+     "name": "Mednow Inc.",
+     "symbol": "MNOW"
+    }
+   ]
+  },
+  {
+   "symbol": "AAC.U",
+   "name": "Ares Acquisition Corporation Units, each consisting of one Class A ordinary share, and one-fifth of one redeemable warrant",
+   "exchange": "NYSE",
+   "yahoo_symbol": "AAC.U"
+  },
+  {
+   "symbol": "NCM",
+   "name": "Newcrest Mining Limited",
+   "exchange": "TSX",
+   "yahoo_symbol": "NCM.TO",
+   "instruments": [
+    {
+     "name": "Newcrest Mining Ord",
+     "symbol": "NCM"
+    }
+   ]
+  },
+  {
+   "symbol": "AAC",
+   "name": "Ares Acquisition Corporation Class A Ordinary Shares",
+   "exchange": "NYSE",
+   "yahoo_symbol": "AAC"
+  }
+ ]
+}
