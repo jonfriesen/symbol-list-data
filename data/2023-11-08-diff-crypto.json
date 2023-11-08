@@ -1,0 +1,54 @@
+{
+ "added": [
+  {
+   "symbol": "AXLINU",
+   "name": "AXL INU (AXLINU)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "ETHERINC",
+   "name": "EtherInc (ETHERINC)"
+  },
+  {
+   "symbol": "BABYFLOKI",
+   "name": "BabyFloki (BABYFLOKI)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "ETI",
+   "name": "Etica (ETI)"
+  },
+  {
+   "symbol": "ORDI",
+   "name": "Ordinals  (ORDI)"
+  },
+  {
+   "symbol": "G",
+   "name": "GRN Grid (G)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "BANKETH",
+   "name": "BankEth (BANKETH)"
+  },
+  {
+   "symbol": "DOG",
+   "name": "The Doge NFT (DOG)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "EGAZ",
+   "name": "EGAZ (EGAZ)"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "BABYFLOKI",
+   "name": "BabyFloki (BABYFLOKI)"
+  },
+  {
+   "symbol": "AXLINU",
+   "name": "AXL INU (AXLINU)"
+  }
+ ]
+}

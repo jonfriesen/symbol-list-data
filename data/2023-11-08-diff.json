@@ -1,0 +1,204 @@
+{
+ "added": [
+  {
+   "symbol": "AERT",
+   "name": "Aeries Technology, Inc. - Class A Ordinary Share",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "AERT"
+  },
+  {
+   "symbol": "AERTW",
+   "name": "Aeries Technology, Inc. - Warrant",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "AERTW"
+  },
+  {
+   "symbol": "LIN",
+   "name": "Linde plc - Ordinary Shares",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "LIN"
+  },
+  {
+   "symbol": "ONMD",
+   "name": "OneMedNet Corp - Class A Common Stock",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "ONMD"
+  },
+  {
+   "symbol": "ONMDW",
+   "name": "OneMedNet Corp - Warrant",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "ONMDW"
+  },
+  {
+   "symbol": "OPTX",
+   "name": "Syntec Optics Holdings, Inc. - Class A Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "OPTX"
+  },
+  {
+   "symbol": "OPTXW",
+   "name": "Syntec Optics Holdings, Inc. - Warrant",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "OPTXW"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "PRPC.U",
+   "name": "CC Neuberger Principal Holdings III Units, each consisting of one Class A ordinary share, and one-fifth of one redeemable warrant",
+   "exchange": "NYSE",
+   "yahoo_symbol": "PRPC.U"
+  },
+  {
+   "symbol": "DXX",
+   "name": "DXStorm.com Inc.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "DXX.V",
+   "instruments": [
+    {
+     "name": "DXStorm.com Inc",
+     "symbol": "DXX"
+    }
+   ]
+  },
+  {
+   "symbol": "MLPO",
+   "name": "Credit Suisse Group Exchange Traded Notes due December 4, 2034, Linked to the S\u0026P MLP Index",
+   "exchange": "NYSE ARCA",
+   "yahoo_symbol": "MLPO"
+  },
+  {
+   "symbol": "WWACW",
+   "name": "Worldwide Webb Acquisition Corp. - Warrant",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "WWACW"
+  },
+  {
+   "symbol": "RIBT",
+   "name": "RiceBran Technologies - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "RIBT"
+  },
+  {
+   "symbol": "NEWR",
+   "name": "New Relic, Inc. Common Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "NEWR"
+  },
+  {
+   "symbol": "PRPC.W",
+   "name": "CC Neuberger Principal Holdings III Warrants, each whole warrant exercisable for one Class A ordinary share at an exercise price of $11.50",
+   "exchange": "NYSE",
+   "yahoo_symbol": "PRPC.W"
+  },
+  {
+   "symbol": "PRPC",
+   "name": "CC Neuberger Principal Holdings III Class A Ordinary Shares",
+   "exchange": "NYSE",
+   "yahoo_symbol": "PRPC"
+  },
+  {
+   "symbol": "OLITW",
+   "name": "OmniLit Acquisition Corp. - Warrants.",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "OLITW"
+  },
+  {
+   "symbol": "DKDCA",
+   "name": "Data Knights Acquisition Corp. - Class A Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "DKDCA"
+  },
+  {
+   "symbol": "SPRX",
+   "name": "Sparx Technology Inc.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "SPRX.V",
+   "instruments": [
+    {
+     "name": "Sparx Technology Inc.",
+     "symbol": "SPRX"
+    }
+   ]
+  },
+  {
+   "symbol": "WWACU",
+   "name": "Worldwide Webb Acquisition Corp. - Unit",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "WWACU"
+  },
+  {
+   "symbol": "OLIT",
+   "name": "OmniLit Acquisition Corp. - Class A Common Stock",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "OLIT"
+  },
+  {
+   "symbol": "HLGN.W",
+   "name": "Heliogen, Inc. Redeemable Warrants, each whole warrant exercisable for one share of Common Stock at an exercise price of $11.50",
+   "exchange": "NYSE",
+   "yahoo_symbol": "HLGN.W"
+  },
+  {
+   "symbol": "OLITU",
+   "name": "OmniLit Acquisition Corp. - Units",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "OLITU"
+  },
+  {
+   "symbol": "DKDCW",
+   "name": "Data Knights Acquisition Corp. - Warrant",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "DKDCW"
+  },
+  {
+   "symbol": "ACDCW",
+   "name": "ProFrac Holding Corp. - Warrant",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "ACDCW"
+  },
+  {
+   "symbol": "WWAC",
+   "name": "Worldwide Webb Acquisition Corp. - Class A Ordinary Share",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "WWAC"
+  },
+  {
+   "symbol": "DKDCU",
+   "name": "Data Knights Acquisition Corp. - Unit",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "DKDCU"
+  },
+  {
+   "symbol": "AVID",
+   "name": "Avid Technology, Inc. - Common Stock",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "AVID"
+  },
+  {
+   "symbol": "TWNK",
+   "name": "Hostess Brands, Inc. - Class A Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "TWNK"
+  },
+  {
+   "symbol": "KUU",
+   "name": "Kuuhubb Inc.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "KUU.V",
+   "instruments": [
+    {
+     "name": "Kuuhubb Inc.",
+     "symbol": "KUU"
+    }
+   ]
+  },
+  {
+   "symbol": "HLGN",
+   "name": "Heliogen, Inc. Common Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "HLGN"
+  }
+ ]
+}
