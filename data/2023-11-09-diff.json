@@ -1,0 +1,156 @@
+{
+ "added": [
+  {
+   "symbol": "DGTL",
+   "name": "DGTL Holdings Inc.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "DGTL.V",
+   "instruments": [
+    {
+     "name": "DGTL Holdings Inc.",
+     "symbol": "DGTL"
+    }
+   ]
+  },
+  {
+   "symbol": "GMI",
+   "name": "Green Mining Innovation Inc.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "GMI.V",
+   "instruments": [
+    {
+     "name": "Green Mining Innovation Inc.",
+     "symbol": "GMI"
+    }
+   ]
+  },
+  {
+   "symbol": "BEEZ",
+   "name": "Honeytree U.S. Equity ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "BEEZ"
+  },
+  {
+   "symbol": "CHR",
+   "name": "Cheer Holding, Inc.  - Ordinary Share",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "CHR"
+  },
+  {
+   "symbol": "DFGP",
+   "name": "Dimensional Global Core Plus Fixed Income ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "DFGP"
+  },
+  {
+   "symbol": "DFGX",
+   "name": "Dimensional Global ex US Core Fixed Income ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "DFGX"
+  },
+  {
+   "symbol": "DGCB",
+   "name": "Dimensional Global Credit ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "DGCB"
+  },
+  {
+   "symbol": "GVH",
+   "name": "Globavend Holdings Limited - Ord Shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "GVH"
+  },
+  {
+   "symbol": "MAGS",
+   "name": "Roundhill Magnificent Seven ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "MAGS"
+  },
+  {
+   "symbol": "NCNA",
+   "name": "NuCana plc - American Depositary Shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "NCNA"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "ICPT",
+   "name": "Intercept Pharmaceuticals, Inc. - Common Stock",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "ICPT"
+  },
+  {
+   "symbol": "WMC",
+   "name": "Western Asset Mortgage Capital Corporation Common Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "WMC"
+  },
+  {
+   "symbol": "POM",
+   "name": "Polymet Mining Corp.",
+   "exchange": "TSX",
+   "yahoo_symbol": "POM.TO",
+   "instruments": [
+    {
+     "name": "Polymet Mining J",
+     "symbol": "POM"
+    }
+   ]
+  },
+  {
+   "symbol": "NCNA",
+   "name": "NuCana plc - American Depositary Shares",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "NCNA"
+  },
+  {
+   "symbol": "INDIW",
+   "name": "indie Semiconductor, Inc. - Warrant",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "INDIW"
+  },
+  {
+   "symbol": "WE",
+   "name": "WeWork Inc. Class A Common Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "WE"
+  },
+  {
+   "symbol": "ACER",
+   "name": "Acer Therapeutics Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "ACER"
+  },
+  {
+   "symbol": "CFRX",
+   "name": "ContraFect Corporation - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "CFRX"
+  },
+  {
+   "symbol": "BIGT",
+   "name": "Roundhill BIG Tech ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "BIGT"
+  },
+  {
+   "symbol": "GSMG",
+   "name": "Glory Star New Media Group Holdings Limited - Ordinary Share",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "GSMG"
+  },
+  {
+   "symbol": "GDM",
+   "name": "Goldstar Minerals Inc.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "GDM.V",
+   "instruments": [
+    {
+     "name": "Goldstar Minerals Inc.",
+     "symbol": "GDM"
+    }
+   ]
+  }
+ ]
+}
