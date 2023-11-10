@@ -1,0 +1,84 @@
+{
+ "added": [
+  {
+   "symbol": "AITRU",
+   "name": "AI TRANSPORTATION ACQUISITION CORP - Unit",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "AITRU"
+  },
+  {
+   "symbol": "ANSCU",
+   "name": "Agriculture \u0026 Natural Solutions Acquisition Corporation - Unit",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "ANSCU"
+  },
+  {
+   "symbol": "HG",
+   "name": "Hamilton Insurance Group, Ltd. Class B Common Shares",
+   "exchange": "NYSE",
+   "yahoo_symbol": "HG"
+  },
+  {
+   "symbol": "WMC",
+   "name": "Western Asset Mortgage Capital Corporation Common Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "WMC"
+  },
+  {
+   "symbol": "KRY",
+   "name": "Koryx Copper Inc.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "KRY.V",
+   "instruments": [
+    {
+     "name": "Koryx Copper Inc.",
+     "symbol": "KRY"
+    }
+   ]
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "UFAB",
+   "name": "Unique Fabricating, Inc. Common Stock",
+   "exchange": "NYSE MKT",
+   "yahoo_symbol": "UFAB"
+  },
+  {
+   "symbol": "EQRXW",
+   "name": "EQRx, Inc.  - Warrant",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "EQRXW"
+  },
+  {
+   "symbol": "NXGN",
+   "name": "NextGen Healthcare, Inc. - Common Stock",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "NXGN"
+  },
+  {
+   "symbol": "DSM",
+   "name": "Deep-South Resources Inc.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "DSM.V",
+   "instruments": [
+    {
+     "name": "Deep-South Resources Inc.",
+     "symbol": "DSM"
+    }
+   ]
+  },
+  {
+   "symbol": "TBLTW",
+   "name": "ToughBuilt Industries, Inc. - Warrant",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "TBLTW"
+  },
+  {
+   "symbol": "EQRX",
+   "name": "EQRx, Inc.  - Common Stock",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "EQRX"
+  }
+ ]
+}
