@@ -1,0 +1,60 @@
+{
+ "added": [
+  {
+   "symbol": "CRGX",
+   "name": "CARGO Therapeutics, Inc. - Common Stock",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "CRGX"
+  },
+  {
+   "symbol": "ODVWZ",
+   "name": "Osisko Development Corp. - Warrant",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "ODVWZ"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "KMF",
+   "name": "Kayne Anderson NextGen Energy \u0026 Infrastructure, Inc.",
+   "exchange": "NYSE",
+   "yahoo_symbol": "KMF"
+  },
+  {
+   "symbol": "WIZ",
+   "name": "Merlyn.AI Bull-Rider Bear-Fighter ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "WIZ"
+  },
+  {
+   "symbol": "EDUT",
+   "name": "Global X Education ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "EDUT"
+  },
+  {
+   "symbol": "EWEB",
+   "name": "Global X Emerging Markets Internet \u0026 E-commerce ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "EWEB"
+  },
+  {
+   "symbol": "KEJI",
+   "name": "Global X China Innovation ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "KEJI"
+  },
+  {
+   "symbol": "CWC",
+   "name": "CWC Energy Services Corp.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "CWC.V",
+   "instruments": [
+    {
+     "name": "CWC Energy Services Corp.",
+     "symbol": "CWC"
+    }
+   ]
+  }
+ ]
+}
