@@ -1,0 +1,29 @@
+{
+ "added": [
+  {
+   "symbol": "SRM",
+   "name": "Serum (SRM)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "BANKETH",
+   "name": "BankEth (BANKETH)"
+  },
+  {
+   "symbol": "G",
+   "name": "GRN Grid (G)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "DOGETH",
+   "name": "EtherDoge (DOGETH)"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "SRM",
+   "name": "Serum (SRM)",
+   "built_on": "ETH"
+  }
+ ]
+}

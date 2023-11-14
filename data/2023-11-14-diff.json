@@ -1,0 +1,96 @@
+{
+ "added": [
+  {
+   "symbol": "RNAC",
+   "name": "Cartesian Therapeutics, Inc. - Common Stock",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "RNAC"
+  },
+  {
+   "symbol": "ROIV",
+   "name": "Roivant Sciences Ltd. - Common Shares",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "ROIV"
+  },
+  {
+   "symbol": "GCFE",
+   "name": "Guardian Canadian Focused Equity Fund",
+   "exchange": "TSX",
+   "yahoo_symbol": "GCFE.TO",
+   "instruments": [
+    {
+     "name": "Guardian CdnFocus Eq",
+     "symbol": "GCFE"
+    }
+   ]
+  },
+  {
+   "symbol": "GIES",
+   "name": "Guardian International Equity Select Fund",
+   "exchange": "TSX",
+   "yahoo_symbol": "GIES.TO",
+   "instruments": [
+    {
+     "name": "Guardian Intl EqSlct",
+     "symbol": "GIES"
+    }
+   ]
+  },
+  {
+   "symbol": "SGN",
+   "name": "Signing Day Sports, Inc. Common Stock",
+   "exchange": "NYSE MKT",
+   "yahoo_symbol": "SGN"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "APRN",
+   "name": "Blue Apron Holdings, Inc. - Class A Common Stock",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "APRN"
+  },
+  {
+   "symbol": "SELB",
+   "name": "Selecta Biosciences, Inc. - Common Stock",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "SELB"
+  },
+  {
+   "symbol": "SQLLW",
+   "name": "SeqLL Inc. - Warrant",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "SQLLW"
+  },
+  {
+   "symbol": "CANO.W",
+   "name": "Cano Health, Inc. Warrants",
+   "exchange": "NYSE",
+   "yahoo_symbol": "CANO.W"
+  },
+  {
+   "symbol": "SQL",
+   "name": "SeqLL Inc. - Common stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "SQL"
+  },
+  {
+   "symbol": "SMA",
+   "name": "Standard Mercantile Acquisition Corp.",
+   "exchange": "TSX",
+   "yahoo_symbol": "SMA.TO",
+   "instruments": [
+    {
+     "name": "Std Mercntl Acquis A",
+     "symbol": "SMA"
+    }
+   ]
+  },
+  {
+   "symbol": "ROIV",
+   "name": "Roivant Sciences Ltd. - Common Shares",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "ROIV"
+  }
+ ]
+}
