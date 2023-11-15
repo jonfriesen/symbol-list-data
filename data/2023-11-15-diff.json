@@ -1,0 +1,108 @@
+{
+ "added": [
+  {
+   "symbol": "JOJO.P",
+   "name": "Jo-Jo Capital Canada Ltd.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "JOJO.P.V",
+   "instruments": [
+    {
+     "name": "Jo-Jo Capital Canada Ltd.",
+     "symbol": "JOJO.P"
+    }
+   ]
+  },
+  {
+   "symbol": "DYNI",
+   "name": "IDX Dynamic Innovation ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "DYNI"
+  },
+  {
+   "symbol": "ENTR",
+   "name": "ERShares Entrepreneurs ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "ENTR"
+  },
+  {
+   "symbol": "ERSX",
+   "name": "ERShares NextGen Entrepreneurs ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "ERSX"
+  },
+  {
+   "symbol": "GLACU",
+   "name": "Global Lights Acquisition Corp - Unit",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "GLACU"
+  },
+  {
+   "symbol": "RDHL",
+   "name": "Redhill Biopharma Ltd. - American Depositary Shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "RDHL"
+  },
+  {
+   "symbol": "SHIM",
+   "name": "Shimmick Corporation - Common Stock",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "SHIM"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "CCF",
+   "name": "Chase Corporation Common Stock",
+   "exchange": "NYSE MKT",
+   "yahoo_symbol": "CCF"
+  },
+  {
+   "symbol": "TDSA",
+   "name": "Cabana Target Drawdown 5 ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "TDSA"
+  },
+  {
+   "symbol": "ALORW",
+   "name": "ALSP Orchid Acquisition Corporation I - Warrant",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "ALORW"
+  },
+  {
+   "symbol": "MAV",
+   "name": "MAV Beauty Brands Inc.",
+   "exchange": "TSX",
+   "yahoo_symbol": "MAV.TO",
+   "instruments": [
+    {
+     "name": "MAV Beauty Brands",
+     "symbol": "MAV"
+    }
+   ]
+  },
+  {
+   "symbol": "C$K",
+   "name": "Citigroup Inc. Dep Shs Repstg 1/1000th Pfd Ser K",
+   "exchange": "NYSE",
+   "yahoo_symbol": "C$K"
+  },
+  {
+   "symbol": "RDHL",
+   "name": "Redhill Biopharma Ltd. - American Depositary Shares",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "RDHL"
+  },
+  {
+   "symbol": "ALOR",
+   "name": "ALSP Orchid Acquisition Corporation I - Class A Ordinary Share",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "ALOR"
+  },
+  {
+   "symbol": "ALORU",
+   "name": "ALSP Orchid Acquisition Corporation I - Unit",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "ALORU"
+  }
+ ]
+}
