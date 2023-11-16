@@ -1,0 +1,120 @@
+{
+ "added": [
+  {
+   "symbol": "TGAF",
+   "name": "Tralucent Global Alt (Long/Short) Equity Fund",
+   "exchange": "TSX",
+   "yahoo_symbol": "TGAF.TO",
+   "instruments": [
+    {
+     "name": "Tralucent Glb L/S Eq",
+     "symbol": "TGAF"
+    }
+   ]
+  },
+  {
+   "symbol": "MURA",
+   "name": "Mural Oncology plc - Ordinary Shares",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "MURA"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "JGGCR",
+   "name": "Jaguar Global Growth Corporation I - Right",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "JGGCR"
+  },
+  {
+   "symbol": "GBAR",
+   "name": "Monarch Mining Corporation",
+   "exchange": "TSX",
+   "yahoo_symbol": "GBAR.TO",
+   "instruments": [
+    {
+     "name": "Monarch Mining CorpJ",
+     "symbol": "GBAR"
+    }
+   ]
+  },
+  {
+   "symbol": "USDP",
+   "name": "USD Partners LP Common Units representing limited partner interest",
+   "exchange": "NYSE",
+   "yahoo_symbol": "USDP"
+  },
+  {
+   "symbol": "ESN",
+   "name": "Essential Energy Services Ltd.",
+   "exchange": "TSX",
+   "yahoo_symbol": "ESN.TO",
+   "instruments": [
+    {
+     "name": "Essential Energy Ltd",
+     "symbol": "ESN"
+    }
+   ]
+  },
+  {
+   "symbol": "ALKSV",
+   "name": "Alkermes plc - Ordinary Shares Ex-distribution When Issued",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "ALKSV"
+  },
+  {
+   "symbol": "ARGO",
+   "name": "Argo Group International Holdings, Ltd.",
+   "exchange": "NYSE",
+   "yahoo_symbol": "ARGO"
+  },
+  {
+   "symbol": "BXRX",
+   "name": "Baudax Bio, Inc. - Common stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "BXRX"
+  },
+  {
+   "symbol": "JGGC",
+   "name": "Jaguar Global Growth Corporation I - Class A Ordinary Shares",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "JGGC"
+  },
+  {
+   "symbol": "JGGCU",
+   "name": "Jaguar Global Growth Corporation I - Unit",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "JGGCU"
+  },
+  {
+   "symbol": "MURAV",
+   "name": "Mural Oncology plc - Ordinary Shares When Issued",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "MURAV"
+  },
+  {
+   "symbol": "AMI",
+   "name": "Athabasca Minerals Inc.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "AMI.V",
+   "instruments": [
+    {
+     "name": "Athabasca Minerals Inc",
+     "symbol": "AMI"
+    }
+   ]
+  },
+  {
+   "symbol": "PYR",
+   "name": "PyroGenesis Canada Inc. - Common Shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "PYR"
+  },
+  {
+   "symbol": "JGGCW",
+   "name": "Jaguar Global Growth Corporation I - Warrant",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "JGGCW"
+  }
+ ]
+}
