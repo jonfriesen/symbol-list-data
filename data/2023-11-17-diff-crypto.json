@@ -1,0 +1,73 @@
+{
+ "added": [
+  {
+   "symbol": "AVT",
+   "name": "Aventus (AVT)"
+  },
+  {
+   "symbol": "BONK",
+   "name": "Bonk (BONK)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "REVOLAND",
+   "name": "Revoland Governance Token (REVOLAND)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "DAR",
+   "name": "Mines of Dalarnia (DAR)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "MAP",
+   "name": "MAP Protocol (MAP)"
+  },
+  {
+   "symbol": "BANKETH",
+   "name": "BankEth (BANKETH)"
+  },
+  {
+   "symbol": "UX",
+   "name": "Umee (UX)"
+  },
+  {
+   "symbol": "G",
+   "name": "GRN Grid (G)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "DOGETH",
+   "name": "EtherDoge (DOGETH)"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "BONK",
+   "name": "Bonk (BONK)"
+  },
+  {
+   "symbol": "REVOLAND",
+   "name": "Revoland Governance Token (REVOLAND)"
+  },
+  {
+   "symbol": "UMEE",
+   "name": "Umee (UMEE)"
+  },
+  {
+   "symbol": "AVT",
+   "name": "Aventus (AVT)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "MAP",
+   "name": "MAP Protocol (MAP)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "DAR",
+   "name": "Mines of Dalarnia (DAR)",
+   "built_on": "BNB"
+  }
+ ]
+}

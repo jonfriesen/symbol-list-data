@@ -1,0 +1,120 @@
+{
+ "added": [
+  {
+   "symbol": "ABTS",
+   "name": "Abits Group Inc - Ordinary Shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "ABTS"
+  },
+  {
+   "symbol": "CAPT",
+   "name": "Captivision Inc. - Ordinary Shares",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "CAPT"
+  },
+  {
+   "symbol": "CAPTW",
+   "name": "Captivision Inc. - Warrant",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "CAPTW"
+  },
+  {
+   "symbol": "TEDU",
+   "name": "Tarena International, Inc. - American Depositary Shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "TEDU"
+  },
+  {
+   "symbol": "BNRE.A",
+   "name": "Brookfield Reinsurance Ltd. Class A-1 Exchangeable Non-Voting Shares",
+   "exchange": "NYSE",
+   "yahoo_symbol": "BNRE.A"
+  },
+  {
+   "symbol": "DDC",
+   "name": "DDC Enterprise Limited Class A Ordinary Shares",
+   "exchange": "NYSE MKT",
+   "yahoo_symbol": "DDC"
+  },
+  {
+   "symbol": "SRV.V",
+   "name": "NXG Cushing Midstream Energy Fund Rights (expiring December 14, 2023) Rights when issued",
+   "exchange": "NYSE",
+   "yahoo_symbol": "SRV.V"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "MOXC",
+   "name": "Moxian (BVI) Inc  - Ordinary Shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "MOXC"
+  },
+  {
+   "symbol": "SHUAW",
+   "name": "SHUAA Partners Acquisition Corp I - Warrant",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "SHUAW"
+  },
+  {
+   "symbol": "SCU",
+   "name": "Sculptor Capital Management, Inc. Class A Common Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "SCU"
+  },
+  {
+   "symbol": "SHUAU",
+   "name": "SHUAA Partners Acquisition Corp I - Unit",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "SHUAU"
+  },
+  {
+   "symbol": "KBNT",
+   "name": "Kubient, Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "KBNT"
+  },
+  {
+   "symbol": "KBNTW",
+   "name": "Kubient, Inc. - Warrant",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "KBNTW"
+  },
+  {
+   "symbol": "OPAD.W",
+   "name": "Offerpad Solutions Inc. Warrants",
+   "exchange": "NYSE",
+   "yahoo_symbol": "OPAD.W"
+  },
+  {
+   "symbol": "CMRA",
+   "name": "Comera Life Sciences Holdings, Inc. - Common stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "CMRA"
+  },
+  {
+   "symbol": "CMRAW",
+   "name": "Comera Life Sciences Holdings, Inc. - Warrant",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "CMRAW"
+  },
+  {
+   "symbol": "MF",
+   "name": "Missfresh Limited - American Depositary Shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "MF"
+  },
+  {
+   "symbol": "SHUA",
+   "name": "SHUAA Partners Acquisition Corp I - Class A Ordinary Share",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "SHUA"
+  },
+  {
+   "symbol": "TEDU",
+   "name": "Tarena International, Inc. - American Depositary Shares",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "TEDU"
+  }
+ ]
+}
