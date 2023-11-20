@@ -1,0 +1,120 @@
+{
+ "added": [
+  {
+   "symbol": "MOO",
+   "name": "Moon River Capital Ltd.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "MOO.V",
+   "instruments": [
+    {
+     "name": "Moon River Capital Ltd.",
+     "symbol": "MOO"
+    }
+   ]
+  },
+  {
+   "symbol": "MEQT",
+   "name": "Mackenzie All-Equity Allocation ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "MEQT.TO",
+   "instruments": [
+    {
+     "name": "Mackenzie AllEqAlloc",
+     "symbol": "MEQT"
+    }
+   ]
+  },
+  {
+   "symbol": "QLB",
+   "name": "Mackenzie Canadian Government Long Bond Index ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "QLB.TO",
+   "instruments": [
+    {
+     "name": "MackenzieCA GvtLgBnd",
+     "symbol": "QLB"
+    }
+   ]
+  },
+  {
+   "symbol": "QASH",
+   "name": "Mackenzie Canadian Ultra Short Bond Index ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "QASH.TO",
+   "instruments": [
+    {
+     "name": "Mackenzie CA SH Bond",
+     "symbol": "QASH"
+    }
+   ]
+  },
+  {
+   "symbol": "QTLT",
+   "name": "Mackenzie US Government Long Bond Index ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "QTLT.TO",
+   "instruments": [
+    {
+     "name": "Mackenzie USGvtLgBnd",
+     "symbol": "QTLT"
+    }
+   ]
+  },
+  {
+   "symbol": "RR",
+   "name": "Richtech Robotics Inc. - Class B Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "RR"
+  },
+  {
+   "symbol": "RVMDW",
+   "name": "Revolution Medicines, Inc. - Warrant",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "RVMDW"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "LHC.U",
+   "name": "Leo Holdings Corp. II Units, each consisting of one Class A ordinary share and one-third of one redeemable warrant",
+   "exchange": "NYSE",
+   "yahoo_symbol": "LHC.U"
+  },
+  {
+   "symbol": "MOO.P",
+   "name": "Moon River Capital Ltd.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "MOO.P.V",
+   "instruments": [
+    {
+     "name": "Moon River Capital Ltd.",
+     "symbol": "MOO.P"
+    }
+   ]
+  },
+  {
+   "symbol": "LHC",
+   "name": "Leo Holdings Corp. II Class A Ordinary Shares",
+   "exchange": "NYSE",
+   "yahoo_symbol": "LHC"
+  },
+  {
+   "symbol": "ITCL",
+   "name": "Banco Itau Chile American Depositary Shares (each representing one third of a share of Common Stock)",
+   "exchange": "NYSE",
+   "yahoo_symbol": "ITCL"
+  },
+  {
+   "symbol": "CREXW",
+   "name": "Creative Realities, Inc. - Warrant",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "CREXW"
+  },
+  {
+   "symbol": "SATX.A",
+   "name": "SatixFy Communications Ltd. Warrants, each warrant to one Ordinary Share",
+   "exchange": "NYSE MKT",
+   "yahoo_symbol": "SATX.A"
+  }
+ ]
+}

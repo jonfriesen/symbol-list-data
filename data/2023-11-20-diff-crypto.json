@@ -1,0 +1,32 @@
+{
+ "added": [
+  {
+   "symbol": "FRXETH",
+   "name": "Frax Ether (FRXETH)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "VBNB",
+   "name": "Venus BNB (VBNB)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "BANKETH",
+   "name": "BankEth (BANKETH)"
+  },
+  {
+   "symbol": "DOG",
+   "name": "The Doge NFT (DOG)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "WEOS",
+   "name": "Wrapped EOS (WEOS)",
+   "built_on": "EOS"
+  },
+  {
+   "symbol": "GETH",
+   "name": "Guarded Ether (GETH)"
+  }
+ ]
+}
