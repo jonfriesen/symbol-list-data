@@ -1,0 +1,102 @@
+{
+ "added": [
+  {
+   "symbol": "CLBR.U",
+   "name": "Colombier Acquisition Corp. II Units, each consisting of one Class A ordinary share and one-third of one redeemable warrant",
+   "exchange": "NYSE",
+   "yahoo_symbol": "CLBR.U"
+  },
+  {
+   "symbol": "EXPD",
+   "name": "Expeditors International of Washington, Inc. Common Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "EXPD"
+  },
+  {
+   "symbol": "PDX",
+   "name": "PIMCO Dynamic Income Strategy Fund Common Shares of Beneficial Interest",
+   "exchange": "NYSE",
+   "yahoo_symbol": "PDX"
+  },
+  {
+   "symbol": "MNRG",
+   "name": "Monumental Energy Corp.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "MNRG.V",
+   "instruments": [
+    {
+     "name": "Monumental Energy Corp.",
+     "symbol": "MNRG"
+    }
+   ]
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "MNRL",
+   "name": "Monumental Minerals Corp.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "MNRL.V",
+   "instruments": [
+    {
+     "name": "Monumental Minerals Corp.",
+     "symbol": "MNRL"
+    }
+   ]
+  },
+  {
+   "symbol": "ROSEW",
+   "name": "Rose Hill Acquisition Corporation - Warrant",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "ROSEW"
+  },
+  {
+   "symbol": "EXPD",
+   "name": "Expeditors International of Washington, Inc. - Common Stock",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "EXPD"
+  },
+  {
+   "symbol": "FDEU",
+   "name": "First Trust Dynamic Europe Equity Income Fund Common Shares of Beneficial Interest",
+   "exchange": "NYSE",
+   "yahoo_symbol": "FDEU"
+  },
+  {
+   "symbol": "NRGX",
+   "name": "PIMCO Energy and Tactical Credit Opportunities Fund Common Shares of Beneficial Interest",
+   "exchange": "NYSE",
+   "yahoo_symbol": "NRGX"
+  },
+  {
+   "symbol": "MTRYW",
+   "name": "Monterey Innovation Acquisition Corp. - Warrant",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "MTRYW"
+  },
+  {
+   "symbol": "MTRYU",
+   "name": "Monterey Innovation Acquisition Corp. - Unit",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "MTRYU"
+  },
+  {
+   "symbol": "MTRY",
+   "name": "Monterey Innovation Acquisition Corp. - Common Stock",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "MTRY"
+  },
+  {
+   "symbol": "ROSE",
+   "name": "Rose Hill Acquisition Corporation - Class A Ordinary Shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "ROSE"
+  },
+  {
+   "symbol": "ROSEU",
+   "name": "Rose Hill Acquisition Corporation - Unit",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "ROSEU"
+  }
+ ]
+}

@@ -1,0 +1,47 @@
+{
+ "added": [
+  {
+   "symbol": "CORGIAI",
+   "name": "CorgiAI (CORGIAI)",
+   "built_on": "CRO"
+  },
+  {
+   "symbol": "G",
+   "name": "GRN Grid (G)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "WHBAR",
+   "name": "Wrapped HBAR (WHBAR)",
+   "built_on": "HBAR"
+  },
+  {
+   "symbol": "WAGMIGAMES",
+   "name": "WAGMI Game (WAGMIGAMES)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "BANKETH",
+   "name": "BankEth (BANKETH)"
+  },
+  {
+   "symbol": "DOGETH",
+   "name": "EtherDoge (DOGETH)"
+  },
+  {
+   "symbol": "PYTH",
+   "name": "Pyth Network (PYTH)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "WKAVA",
+   "name": "Wrapped Kava (WKAVA)"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "WAGMIGAMES",
+   "name": "WAGMI Game (WAGMIGAMES)"
+  }
+ ]
+}
