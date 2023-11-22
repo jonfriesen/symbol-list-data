@@ -1,0 +1,54 @@
+{
+ "added": [
+  {
+   "symbol": "ZBU",
+   "name": "Zeebu (ZBU)"
+  },
+  {
+   "symbol": "KAG",
+   "name": "Silver (KAG)"
+  },
+  {
+   "symbol": "BANK",
+   "name": "Float Protocol (BANK)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "0x0",
+   "name": "0x0.ai (0X0)"
+  },
+  {
+   "symbol": "MURA",
+   "name": "Murasaki (MURA)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "MKUSD",
+   "name": "Prisma mkUSD (MKUSD)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "GETH",
+   "name": "Guarded Ether (GETH)"
+  },
+  {
+   "symbol": "VNO",
+   "name": "Veno Finance (VNO)",
+   "built_on": "CRO"
+  },
+  {
+   "symbol": "FNSA",
+   "name": "FINSCHIA (FNSA)"
+  },
+  {
+   "symbol": "DOG",
+   "name": "The Doge NFT (DOG)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "SDEX",
+   "name": "SmarDex (SDEX)",
+   "built_on": "ETH"
+  }
+ ]
+}

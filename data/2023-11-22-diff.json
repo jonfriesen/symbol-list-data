@@ -1,0 +1,84 @@
+{
+ "added": [
+  {
+   "symbol": "ELAB",
+   "name": "Elevai Labs, Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "ELAB"
+  },
+  {
+   "symbol": "HIDE",
+   "name": "Alpha Architect High Inflation and Deflation ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "HIDE"
+  },
+  {
+   "symbol": "HRTS",
+   "name": "Tema Cardiovascular and Metabolic ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "HRTS"
+  },
+  {
+   "symbol": "IMOM",
+   "name": "Alpha Architect International Quantitative Momentum ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "IMOM"
+  },
+  {
+   "symbol": "IVAL",
+   "name": "Alpha Architect International Quantitative Value ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "IVAL"
+  },
+  {
+   "symbol": "MOOD",
+   "name": "Relative Sentiment Tactical Allocation ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "MOOD"
+  },
+  {
+   "symbol": "QMOM",
+   "name": "Alpha Architect U.S. Quantitative Momentum ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "QMOM"
+  },
+  {
+   "symbol": "QVAL",
+   "name": "Alpha Architect U.S. Quantitative Value ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "QVAL"
+  },
+  {
+   "symbol": "VMOT",
+   "name": "Alpha Architect Value Momentum Trend ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "VMOT"
+  },
+  {
+   "symbol": "SRV.R",
+   "name": "NXG Cushing Midstream Energy Fund Rights (expiring December 14, 2023) Rights",
+   "exchange": "NYSE",
+   "yahoo_symbol": "SRV.R"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "SRV.V",
+   "name": "NXG Cushing Midstream Energy Fund Rights (expiring December 14, 2023) Rights when issued",
+   "exchange": "NYSE",
+   "yahoo_symbol": "SRV.V"
+  },
+  {
+   "symbol": "SONX",
+   "name": "Sonendo, Inc. Common Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "SONX"
+  },
+  {
+   "symbol": "VMW",
+   "name": "Vmware, Inc. Common stock, Class A",
+   "exchange": "NYSE",
+   "yahoo_symbol": "VMW"
+  }
+ ]
+}
