@@ -1,0 +1,54 @@
+{
+ "added": [
+  {
+   "symbol": "ARCHCOIN",
+   "name": "ArchCoin (ARCHCOIN)"
+  },
+  {
+   "symbol": "OZO",
+   "name": "Ozone Chain (OZO)"
+  },
+  {
+   "symbol": "KAU",
+   "name": "Kinesis Gold (KAU)"
+  },
+  {
+   "symbol": "ZBU",
+   "name": "Zeebu (ZBU)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "G",
+   "name": "GRN Grid (G)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "BANK",
+   "name": "Float Protocol (BANK)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "XAUC",
+   "name": "XauCoin (XAUC)"
+  },
+  {
+   "symbol": "DOG",
+   "name": "The Doge NFT (DOG)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "DNX",
+   "name": "Dynex (DNX)"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "ZBU",
+   "name": "Zeebu (ZBU)"
+  },
+  {
+   "symbol": "XAU",
+   "name": "XauCoin (XAU)"
+  }
+ ]
+}

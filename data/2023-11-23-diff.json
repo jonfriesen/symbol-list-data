@@ -1,0 +1,30 @@
+{
+ "added": [
+  {
+   "symbol": "ABLLL",
+   "name": "Abacus Life, Inc. - 9.875% Fixed Rate Senior Notes due 2028",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "ABLLL"
+  },
+  {
+   "symbol": "CGBDL",
+   "name": "Carlyle Secured Lending, Inc. - 8.20% Notes due 2028",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "CGBDL"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "ZACA",
+   "name": "Zacapa Resources Ltd.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "ZACA.V",
+   "instruments": [
+    {
+     "name": "Zacapa Resources Ltd.",
+     "symbol": "ZACA"
+    }
+   ]
+  }
+ ]
+}
