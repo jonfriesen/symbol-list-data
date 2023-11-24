@@ -1,0 +1,22 @@
+{
+ "removed": [
+  {
+   "symbol": "AXLA",
+   "name": "Axcella Health Inc. - Common Stock",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "AXLA"
+  },
+  {
+   "symbol": "AGIL",
+   "name": "AgileThought, Inc. - Class A Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "AGIL"
+  },
+  {
+   "symbol": "AGILW",
+   "name": "AgileThought, Inc. - Warrant",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "AGILW"
+  }
+ ]
+}

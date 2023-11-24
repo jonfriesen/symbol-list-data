@@ -1,0 +1,74 @@
+{
+ "added": [
+  {
+   "symbol": "AGIX",
+   "name": "SingularityNET (AGIX)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "VERIC",
+   "name": "VeriCoin (VERIC)"
+  },
+  {
+   "symbol": "STF",
+   "name": "Structure Finance (STF)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "BANK",
+   "name": "Float Protocol (BANK)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "STARAMBA",
+   "name": "Staramba (STARAMBA)"
+  },
+  {
+   "symbol": "DOG",
+   "name": "The Doge NFT (DOG)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "CWS",
+   "name": "Crowns (CWS)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "ARKN",
+   "name": "Ark Rivals (ARKN)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "STT",
+   "name": "Statter Network  (STT)"
+  },
+  {
+   "symbol": "GETH",
+   "name": "Guarded Ether (GETH)"
+  },
+  {
+   "symbol": "VARA",
+   "name": "Vara Network (VARA)"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "CWS",
+   "name": "Crowns (CWS)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "ARKN",
+   "name": "Ark Rivals (ARKN)"
+  },
+  {
+   "symbol": "AGI",
+   "name": "SingularityNET (AGI)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "STF",
+   "name": "Structure Finance (STF)"
+  }
+ ]
+}
