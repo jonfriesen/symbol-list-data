@@ -1,0 +1,43 @@
+{
+ "added": [
+  {
+   "symbol": "LAMB",
+   "name": "Lambda (LAMB)"
+  },
+  {
+   "symbol": "VBTC",
+   "name": "Venus BTC (VBTC)"
+  },
+  {
+   "symbol": "BANK",
+   "name": "Float Protocol (BANK)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "CONUN",
+   "name": "CONUN (CONUN)",
+   "built_on": "KLAY"
+  },
+  {
+   "symbol": "GETH",
+   "name": "Guarded Ether (GETH)"
+  },
+  {
+   "symbol": "DOG",
+   "name": "The Doge NFT (DOG)",
+   "built_on": "ETH"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "CONUN",
+   "name": "CONUN (CONUN)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "LAMB",
+   "name": "Lambda (LAMB)",
+   "built_on": "ETH"
+  }
+ ]
+}

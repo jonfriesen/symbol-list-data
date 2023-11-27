@@ -1,0 +1,42 @@
+{
+ "added": [
+  {
+   "symbol": "NMFCZ",
+   "name": "New Mountain Finance Corporation - 8.250% Notes due 2028",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "NMFCZ"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "JHAA",
+   "name": "Nuveen Corporate Income 2023 Target Term Fund",
+   "exchange": "NYSE",
+   "yahoo_symbol": "JHAA"
+  },
+  {
+   "symbol": "ZIVOW",
+   "name": "Zivo Bioscience, Inc. - Warrants",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "ZIVOW"
+  },
+  {
+   "symbol": "IVI",
+   "name": "Ivrnet Inc.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "IVI.V",
+   "instruments": [
+    {
+     "name": "Ivrnet Inc.",
+     "symbol": "IVI"
+    }
+   ]
+  },
+  {
+   "symbol": "ZIVO",
+   "name": "Zivo Bioscience, Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "ZIVO"
+  }
+ ]
+}
