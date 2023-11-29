@@ -1,0 +1,48 @@
+{
+ "added": [
+  {
+   "symbol": "LUCD",
+   "name": "Lucid Diagnostics Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "LUCD"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "IFIN.W",
+   "name": "InFinT Acquisition Corporation Warrants, each whole warrant exercisable for one Class A ordinary share at an exercise price of $11.50 per whole share",
+   "exchange": "NYSE",
+   "yahoo_symbol": "IFIN.W"
+  },
+  {
+   "symbol": "LUCD",
+   "name": "Lucid Diagnostics Inc. - Common Stock",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "LUCD"
+  },
+  {
+   "symbol": "UPH.W",
+   "name": "UpHealth, Inc. Warrants ",
+   "exchange": "NYSE",
+   "yahoo_symbol": "UPH.W"
+  },
+  {
+   "symbol": "ODVWW",
+   "name": "Osisko Development Corp. - Warrant",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "ODVWW"
+  },
+  {
+   "symbol": "GETR.W",
+   "name": "Getaround, Inc. Warrants, each whole warrant exercisable for one share of Common Stock at an exercise price of $11.50 per share",
+   "exchange": "NYSE",
+   "yahoo_symbol": "GETR.W"
+  },
+  {
+   "symbol": "CWBR",
+   "name": "CohBar, Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "CWBR"
+  }
+ ]
+}

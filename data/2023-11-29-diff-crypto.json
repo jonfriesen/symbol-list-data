@@ -1,0 +1,60 @@
+{
+ "added": [
+  {
+   "symbol": "SIGN",
+   "name": "Sign Token (SIGN)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "ALKI",
+   "name": "Alkimi (ALKI)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "DRAFTC",
+   "name": "Draftcoin (DRAFTC)"
+  },
+  {
+   "symbol": "GETH",
+   "name": "Guarded Ether (GETH)"
+  },
+  {
+   "symbol": "WTC",
+   "name": "Waltonchain (WTC)"
+  },
+  {
+   "symbol": "ARIX",
+   "name": "Arix (ARIX)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "DOG",
+   "name": "The Doge NFT (DOG)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "BANK",
+   "name": "Float Protocol (BANK)",
+   "built_on": "ETH"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "ALKI",
+   "name": "Alkimi (ALKI)"
+  },
+  {
+   "symbol": "SIGN",
+   "name": "Signin (SIGN)"
+  },
+  {
+   "symbol": "WTC",
+   "name": "Waltonchain (WTC)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "ARIX",
+   "name": "Arix (ARIX)"
+  }
+ ]
+}
