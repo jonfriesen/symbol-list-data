@@ -1,0 +1,96 @@
+{
+ "added": [
+  {
+   "symbol": "BZFD",
+   "name": "BuzzFeed, Inc. - Class A Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "BZFD"
+  },
+  {
+   "symbol": "SMCO",
+   "name": "Hilton Small-MidCap Opportunity ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "SMCO"
+  },
+  {
+   "symbol": "XBP",
+   "name": "XBP Europe Holdings, Inc. - Common Stock",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "XBP"
+  },
+  {
+   "symbol": "XBPEW",
+   "name": "XBP Europe Holdings, Inc. - Warrant",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "XBPEW"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "LOCC.W",
+   "name": "Live Oak Crestview Climate Acquisition Corp. Warrants, exercisable for one share of Class A common stock at an exercise price of $11.50 per share",
+   "exchange": "NYSE",
+   "yahoo_symbol": "LOCC.W"
+  },
+  {
+   "symbol": "CFFE",
+   "name": "CF Acquisition Corp. VIII - Class A Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "CFFE"
+  },
+  {
+   "symbol": "LOCC.U",
+   "name": "Live Oak Crestview Climate Acquisition Corp. Units, each consisting of one share of Class A common stock, and one-third of one warrant",
+   "exchange": "NYSE",
+   "yahoo_symbol": "LOCC.U"
+  },
+  {
+   "symbol": "LOCC",
+   "name": "Live Oak Crestview Climate Acquisition Corp. Class A Common Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "LOCC"
+  },
+  {
+   "symbol": "TMBR",
+   "name": "Timber Pharmaceuticals, Inc. Common Stock",
+   "exchange": "NYSE MKT",
+   "yahoo_symbol": "TMBR"
+  },
+  {
+   "symbol": "BZFD",
+   "name": "BuzzFeed, Inc. - Class A Common Stock",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "BZFD"
+  },
+  {
+   "symbol": "CFFEU",
+   "name": "CF Acquisition Corp. VIII - Unit",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "CFFEU"
+  },
+  {
+   "symbol": "VRTV",
+   "name": "Veritiv Corporation Common Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "VRTV"
+  },
+  {
+   "symbol": "NEW",
+   "name": "New Target Mining Corp.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "NEW.V",
+   "instruments": [
+    {
+     "name": "New Target Mining Corp.",
+     "symbol": "NEW"
+    }
+   ]
+  },
+  {
+   "symbol": "CFFEW",
+   "name": "CF Acquisition Corp. VIII - Warrant",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "CFFEW"
+  }
+ ]
+}

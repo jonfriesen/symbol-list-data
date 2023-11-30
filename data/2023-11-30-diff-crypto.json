@@ -1,0 +1,64 @@
+{
+ "added": [
+  {
+   "symbol": "NNN",
+   "name": "Novem Gold (NNN)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "AOG",
+   "name": "AgeOfGods (AOG)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "ORB",
+   "name": "KlayCity ORB (ORB)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "RBW",
+   "name": "Crypto Unicorns Rainbow (RBW)",
+   "built_on": "MATIC"
+  },
+  {
+   "symbol": "MSQ",
+   "name": "MSquare Global (MSQ)",
+   "built_on": "MATIC"
+  },
+  {
+   "symbol": "BANKETH",
+   "name": "BankEth (BANKETH)"
+  },
+  {
+   "symbol": "DOGETH",
+   "name": "EtherDoge (DOGETH)"
+  },
+  {
+   "symbol": "G",
+   "name": "GRN Grid (G)",
+   "built_on": "ETH"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "AOG",
+   "name": "AgeOfGods (AOG)"
+  },
+  {
+   "symbol": "NNN",
+   "name": "Novem Gold (NNN)"
+  },
+  {
+   "symbol": "MSQ",
+   "name": "MSquare Global (MSQ)"
+  },
+  {
+   "symbol": "ORB",
+   "name": "KlayCity ORB (ORB)"
+  },
+  {
+   "symbol": "RBW",
+   "name": "Crypto Unicorns Rainbow (RBW)"
+  }
+ ]
+}
