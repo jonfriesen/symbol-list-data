@@ -1,0 +1,120 @@
+{
+ "added": [
+  {
+   "symbol": "BLDS",
+   "name": "Badlands Resources Inc.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "BLDS.V",
+   "instruments": [
+    {
+     "name": "Badlands Resources Inc.",
+     "symbol": "BLDS"
+    }
+   ]
+  },
+  {
+   "symbol": "FEBO",
+   "name": "Fenbo Holdings Limited - Ordinary Shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "FEBO"
+  },
+  {
+   "symbol": "QETA",
+   "name": "Quetta Acquisition Corporation - Common Stock",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "QETA"
+  },
+  {
+   "symbol": "QETAR",
+   "name": "Quetta Acquisition Corporation - Right",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "QETAR"
+  },
+  {
+   "symbol": "BANC$F",
+   "name": "Banc of California, Inc. Depositary Shares, each representing a 1/40th interest in a share of 7.75% non-cumulative perpetual preferred stock, Series F",
+   "exchange": "NYSE",
+   "yahoo_symbol": "BANC$F"
+  },
+  {
+   "symbol": "SCE$M",
+   "name": "SCE Trust VII 7.50% Trust Preference Securities",
+   "exchange": "NYSE",
+   "yahoo_symbol": "SCE$M"
+  },
+  {
+   "symbol": "WS",
+   "name": "Worthington Steel, Inc. Common Shares",
+   "exchange": "NYSE",
+   "yahoo_symbol": "WS"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "PACW",
+   "name": "PacWest Bancorp - Common Stock",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "PACW"
+  },
+  {
+   "symbol": "WS.V",
+   "name": "Worthington Steel, Inc. Common Shares When-Issued",
+   "exchange": "NYSE",
+   "yahoo_symbol": "WS.V"
+  },
+  {
+   "symbol": "GHL",
+   "name": "Greenhill \u0026 Co., Inc. Common Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "GHL"
+  },
+  {
+   "symbol": "NIMC",
+   "name": "NiSource, Inc Series A Corporate Units",
+   "exchange": "NYSE",
+   "yahoo_symbol": "NIMC"
+  },
+  {
+   "symbol": "WOR.V",
+   "name": "Worthington Industries, Inc. Common Shares When-Issued",
+   "exchange": "NYSE",
+   "yahoo_symbol": "WOR.V"
+  },
+  {
+   "symbol": "PACWP",
+   "name": "PacWest Bancorp - Depositary Shares Each Representing a 1/40th Interest in a Share of 7.75% Fixed Rate Non-Cumulative Perpetual Preferred Stock, Series A",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "PACWP"
+  },
+  {
+   "symbol": "HEP",
+   "name": "Holly Energy Partners, L.P. Common Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "HEP"
+  },
+  {
+   "symbol": "XDNA",
+   "name": "Kelly CRISPR \u0026 Gene Editing Technology ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "XDNA"
+  },
+  {
+   "symbol": "PTRS",
+   "name": "Partners Bancorp - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "PTRS"
+  },
+  {
+   "symbol": "MMV",
+   "name": "Mineral Mountain Resources Ltd.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "MMV.V",
+   "instruments": [
+    {
+     "name": "Mineral Mountain Resources Ltd.",
+     "symbol": "MMV"
+    }
+   ]
+  }
+ ]
+}
