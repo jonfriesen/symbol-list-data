@@ -1,0 +1,144 @@
+{
+ "added": [
+  {
+   "symbol": "CBRG",
+   "name": "Chain Bridge I - Class A Ordinary Shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "CBRG"
+  },
+  {
+   "symbol": "CBRGU",
+   "name": "Chain Bridge I - Units",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "CBRGU"
+  },
+  {
+   "symbol": "GSIW",
+   "name": "Garden Stage Limited - Ordinary Shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "GSIW"
+  },
+  {
+   "symbol": "SOAR",
+   "name": "Volato Group, Inc. Class A Common Stock",
+   "exchange": "NYSE MKT",
+   "yahoo_symbol": "SOAR"
+  },
+  {
+   "symbol": "SOAR.W",
+   "name": "Volato Group, Inc. Redeemable Warrants, each whole warrant exercisable for one share of Class A common stock at an exercise price of $11.50",
+   "exchange": "NYSE MKT",
+   "yahoo_symbol": "SOAR.W"
+  },
+  {
+   "symbol": "PUR",
+   "name": "Premier American Uranium Inc.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "PUR.V",
+   "instruments": [
+    {
+     "name": "Premier American Uranium Inc.",
+     "symbol": "PUR"
+    }
+   ]
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "CBRG",
+   "name": "Chain Bridge I - Class A Ordinary Shares",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "CBRG"
+  },
+  {
+   "symbol": "CORR$A",
+   "name": "CorEnergy Infrastructure Trust, Inc. Depositary Shares, each representing a 1/100th fractional interest of a share of 7.375% Series A Cumulative Redeemable Preferred Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "CORR$A"
+  },
+  {
+   "symbol": "SGIIU",
+   "name": "Seaport Global Acquisition II Corp. - Unit",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "SGIIU"
+  },
+  {
+   "symbol": "CORR",
+   "name": "CorEnergy Infrastructure Trust, Inc. Common Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "CORR"
+  },
+  {
+   "symbol": "AGD",
+   "name": "Antioquia Gold Inc.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "AGD.V",
+   "instruments": [
+    {
+     "name": "Antioquia Gold Inc",
+     "symbol": "AGD"
+    }
+   ]
+  },
+  {
+   "symbol": "CCVI.U",
+   "name": "Churchill Capital Corp VI Units, each consisting of one share of Class A common stock, and one-fifth of one redeemable warrant",
+   "exchange": "NYSE",
+   "yahoo_symbol": "CCVI.U"
+  },
+  {
+   "symbol": "HUT",
+   "name": "Hut 8 Mining Corp. - Common Shares",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "HUT"
+  },
+  {
+   "symbol": "SGIIW",
+   "name": "Seaport Global Acquisition II Corp. - Warrants",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "SGIIW"
+  },
+  {
+   "symbol": "CCVI",
+   "name": "Churchill Capital Corp VI Class A Common Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "CCVI"
+  },
+  {
+   "symbol": "PACI.U",
+   "name": "PROOF Acquisition Corp I Units, each consisting of one share of Class A common stock, $0.0001 par value, and one-half of one redeemable warrant",
+   "exchange": "NYSE",
+   "yahoo_symbol": "PACI.U"
+  },
+  {
+   "symbol": "CBRGU",
+   "name": "Chain Bridge I - Units",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "CBRGU"
+  },
+  {
+   "symbol": "PACI",
+   "name": "PROOF Acquisition Corp I Class A Common Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "PACI"
+  },
+  {
+   "symbol": "CCVI.W",
+   "name": "Churchill Capital Corp VI Warrants, each exercisable for one share of Class A common stock at an exercise price of $11.50 per share",
+   "exchange": "NYSE",
+   "yahoo_symbol": "CCVI.W"
+  },
+  {
+   "symbol": "SGII",
+   "name": "Seaport Global Acquisition II Corp. - Class A Common Stock",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "SGII"
+  },
+  {
+   "symbol": "PACI.W",
+   "name": "PROOF Acquisition Corp I Redeemable Warrants, each whole warrant exercisable for one share of Class A common stock at an exercise price of $11.50",
+   "exchange": "NYSE",
+   "yahoo_symbol": "PACI.W"
+  }
+ ]
+}
