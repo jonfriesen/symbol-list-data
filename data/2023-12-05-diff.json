@@ -1,0 +1,156 @@
+{
+ "added": [
+  {
+   "symbol": "AFJKU",
+   "name": "Aimei Health Technology Co., Ltd - Unit",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "AFJKU"
+  },
+  {
+   "symbol": "GLAC",
+   "name": "Global Lights Acquisition Corp - Ordinary Shares",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "GLAC"
+  },
+  {
+   "symbol": "GLACR",
+   "name": "Global Lights Acquisition Corp - Rights",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "GLACR"
+  },
+  {
+   "symbol": "HUT",
+   "name": "Hut 8 Corp. - Common Stock",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "HUT"
+  },
+  {
+   "symbol": "VGSR",
+   "name": "Vert Global Sustainable Real Estate ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "VGSR"
+  },
+  {
+   "symbol": "TCXT",
+   "name": "TrueContext Corporation",
+   "exchange": "TSXV",
+   "yahoo_symbol": "TCXT.V",
+   "instruments": [
+    {
+     "name": "TrueContext Corporation",
+     "symbol": "TCXT"
+    }
+   ]
+  },
+  {
+   "symbol": "PRYM",
+   "name": "Prime Mining Corp.",
+   "exchange": "TSX",
+   "yahoo_symbol": "PRYM.TO",
+   "instruments": [
+    {
+     "name": "Prime Mining Corp. J",
+     "symbol": "PRYM"
+    }
+   ]
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "PFM",
+   "name": "ProntoForms Corporation",
+   "exchange": "TSXV",
+   "yahoo_symbol": "PFM.V",
+   "instruments": [
+    {
+     "name": "ProntoForms Corporation",
+     "symbol": "PFM"
+    }
+   ]
+  },
+  {
+   "symbol": "HWELW",
+   "name": "Healthwell Acquisition Corp. I - Warrant",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "HWELW"
+  },
+  {
+   "symbol": "HWELU",
+   "name": "Healthwell Acquisition Corp. I - Unit",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "HWELU"
+  },
+  {
+   "symbol": "SOFO",
+   "name": "Sonic Foundry, Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "SOFO"
+  },
+  {
+   "symbol": "FATPU",
+   "name": "Fat Projects Acquisition Corp - Unit",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "FATPU"
+  },
+  {
+   "symbol": "FATP",
+   "name": "Fat Projects Acquisition Corp - Class A Ordinary Share",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "FATP"
+  },
+  {
+   "symbol": "SUAC.U",
+   "name": "ShoulderUp Technology Acquisition Corp. Units, each consisting of one share of Class A common stock and one-half of one redeemable warrant",
+   "exchange": "NYSE",
+   "yahoo_symbol": "SUAC.U"
+  },
+  {
+   "symbol": "GCC",
+   "name": "Golden Cariboo Resources Ltd.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "GCC.V",
+   "instruments": [
+    {
+     "name": "Golden Cariboo Resources Ltd",
+     "symbol": "GCC"
+    }
+   ]
+  },
+  {
+   "symbol": "SUAC.W",
+   "name": "ShoulderUp Technology Acquisition Corp. Redeemable Warrants, each whole warrant exercisable for one share of Class A Common Stock at an exercise price of $11.50",
+   "exchange": "NYSE",
+   "yahoo_symbol": "SUAC.W"
+  },
+  {
+   "symbol": "SUAC",
+   "name": "ShoulderUp Technology Acquisition Corp. Class A Common Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "SUAC"
+  },
+  {
+   "symbol": "WEII",
+   "name": "Wolverine Energy and Infrastructure Inc.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "WEII.V",
+   "instruments": [
+    {
+     "name": "Wolverine Energy and Infrastructure Inc.",
+     "symbol": "WEII"
+    }
+   ]
+  },
+  {
+   "symbol": "HWEL",
+   "name": "Healthwell Acquisition Corp. I - Class A Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "HWEL"
+  },
+  {
+   "symbol": "FATPW",
+   "name": "Fat Projects Acquisition Corp - Warrant",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "FATPW"
+  }
+ ]
+}
