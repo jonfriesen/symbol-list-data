@@ -1,0 +1,86 @@
+{
+ "added": [
+  {
+   "symbol": "HANDY",
+   "name": "Handy (HANDY)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "BEAMMW",
+   "name": "Beam (BEAMMW)"
+  },
+  {
+   "symbol": "XCV",
+   "name": "XCarnival (XCV)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "BANKETH",
+   "name": "BankEth (BANKETH)"
+  },
+  {
+   "symbol": "VPP",
+   "name": "Virtue Poker Points (VPP)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "CYCON",
+   "name": "CONUN (CYCON)",
+   "built_on": "KLAY"
+  },
+  {
+   "symbol": "GETH",
+   "name": "Guarded Ether (GETH)"
+  },
+  {
+   "symbol": "BITFLIP",
+   "name": "BitFlip (BITFLIP)"
+  },
+  {
+   "symbol": "FLIP",
+   "name": "Chainflip (FLIP)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "DOG",
+   "name": "The Doge NFT (DOG)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "NOS",
+   "name": "Nosana (NOS)",
+   "built_on": "SOL"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "XCV",
+   "name": "XCarnival (XCV)"
+  },
+  {
+   "symbol": "FLIP",
+   "name": "BitFlip (FLIP)"
+  },
+  {
+   "symbol": "VPP",
+   "name": "Virtue Poker Points (VPP)"
+  },
+  {
+   "symbol": "BEAM",
+   "name": "Beam (BEAM)"
+  },
+  {
+   "symbol": "HANDY",
+   "name": "Handy (HANDY)"
+  },
+  {
+   "symbol": "CONUN",
+   "name": "CONUN (CONUN)",
+   "built_on": "KLAY"
+  },
+  {
+   "symbol": "NOS",
+   "name": "Nosana (NOS)"
+  }
+ ]
+}

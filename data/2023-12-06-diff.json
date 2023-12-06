@@ -1,0 +1,66 @@
+{
+ "added": [
+  {
+   "symbol": "HLTH",
+   "name": "Cue Health Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "HLTH"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "KNSW.U",
+   "name": "KnightSwan Acquisition Corporation Units, each consisting of one share of Class A common stock and one-half of one redeemable public warrant",
+   "exchange": "NYSE",
+   "yahoo_symbol": "KNSW.U"
+  },
+  {
+   "symbol": "PRYM",
+   "name": "Prime Mining Corp.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "PRYM.V",
+   "instruments": [
+    {
+     "name": "Prime Mining Corp.",
+     "symbol": "PRYM"
+    }
+   ]
+  },
+  {
+   "symbol": "KNSW.W",
+   "name": "KnightSwan Acquisition Corporation Public warrants, each whole public warrant exercisable for one share of Class A Common Stock at an exercise price of $11.50 per share",
+   "exchange": "NYSE",
+   "yahoo_symbol": "KNSW.W"
+  },
+  {
+   "symbol": "NOVR",
+   "name": "Nova Royalty Corp.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "NOVR.V",
+   "instruments": [
+    {
+     "name": "Nova Royalty Corp.",
+     "symbol": "NOVR"
+    }
+   ]
+  },
+  {
+   "symbol": "HLTH",
+   "name": "Cue Health Inc. - Common Stock",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "HLTH"
+  },
+  {
+   "symbol": "KNSW",
+   "name": "KnightSwan Acquisition Corporation Class A Common Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "KNSW"
+  },
+  {
+   "symbol": "WMC",
+   "name": "Western Asset Mortgage Capital Corporation Common Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "WMC"
+  }
+ ]
+}
