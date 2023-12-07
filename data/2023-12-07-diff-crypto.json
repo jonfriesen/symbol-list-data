@@ -1,0 +1,51 @@
+{
+ "added": [
+  {
+   "symbol": "PRI",
+   "name": "PRIVATEUM INITIATIVE (PRI)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "BANKETH",
+   "name": "BankEth (BANKETH)"
+  },
+  {
+   "symbol": "DOG",
+   "name": "The Doge NFT (DOG)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "LAVA",
+   "name": "Lavaswap (LAVA)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "G",
+   "name": "GRN Grid (G)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "MULTIGAMES",
+   "name": "MultiGames (MULTIGAMES)",
+   "built_on": "ETH"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "XDB",
+   "name": "DragonSphere (XDB)"
+  },
+  {
+   "symbol": "LAVA",
+   "name": "Lavaswap (LAVA)"
+  },
+  {
+   "symbol": "PRI",
+   "name": "PRIVATEUM INITIATIVE (PRI)"
+  },
+  {
+   "symbol": "MLT",
+   "name": "MultiGames (MLT)"
+  }
+ ]
+}

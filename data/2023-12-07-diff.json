@@ -1,0 +1,84 @@
+{
+ "added": [
+  {
+   "symbol": "AAGR",
+   "name": "African Agriculture Holdings Inc. - Common Stock",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "AAGR"
+  },
+  {
+   "symbol": "AAGRW",
+   "name": "African Agriculture Holdings Inc. - Warrant",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "AAGRW"
+  },
+  {
+   "symbol": "HQGO",
+   "name": "Hartford US Quality Growth ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "HQGO"
+  },
+  {
+   "symbol": "QOWZ",
+   "name": "Invesco Nasdaq Free Cash Flow Achievers ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "QOWZ"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "MOBQW",
+   "name": "Mobiquity Technologies, Inc. - warrant",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "MOBQW"
+  },
+  {
+   "symbol": "VCXAU",
+   "name": "10X Capital Venture Acquisition Corp. II - Unit",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "VCXAU"
+  },
+  {
+   "symbol": "VCXA",
+   "name": "10X Capital Venture Acquisition Corp. II - Class A Ordinary Share",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "VCXA"
+  },
+  {
+   "symbol": "KORE.W",
+   "name": "KORE Group Holdings, Inc. Warrants",
+   "exchange": "NYSE",
+   "yahoo_symbol": "KORE.W"
+  },
+  {
+   "symbol": "ABCM",
+   "name": "Abcam plc - American Depositary Shares",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "ABCM"
+  },
+  {
+   "symbol": "MOBQ",
+   "name": "Mobiquity Technologies, Inc. - common stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "MOBQ"
+  },
+  {
+   "symbol": "THRM",
+   "name": "Therma Bright Inc.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "THRM.V",
+   "instruments": [
+    {
+     "name": "Therma Bright Inc.",
+     "symbol": "THRM"
+    }
+   ]
+  },
+  {
+   "symbol": "VCXAW",
+   "name": "10X Capital Venture Acquisition Corp. II - Warrant",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "VCXAW"
+  }
+ ]
+}
