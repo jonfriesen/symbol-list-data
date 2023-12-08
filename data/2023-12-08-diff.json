@@ -1,0 +1,210 @@
+{
+ "added": [
+  {
+   "symbol": "NSI",
+   "name": "National Security Emerging Markets Index ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "NSI"
+  },
+  {
+   "symbol": "VPLS",
+   "name": "Vanguard Core Plus Bond ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "VPLS"
+  },
+  {
+   "symbol": "CDLR.V",
+   "name": "Cadeler A/S American Depositary Share (each representing four (4) Ordinary Shares) When-Issued",
+   "exchange": "NYSE",
+   "yahoo_symbol": "CDLR.V"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "FSRX",
+   "name": "FinServ Acquisition Corp. II - Class A Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "FSRX"
+  },
+  {
+   "symbol": "BMAC",
+   "name": "Black Mountain Acquisition Corp. Class A Common Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "BMAC"
+  },
+  {
+   "symbol": "CFIVW",
+   "name": "CF Acquisition Corp. IV - Warrant",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "CFIVW"
+  },
+  {
+   "symbol": "LUCK",
+   "name": "Real Luck Group Ltd.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "LUCK.V",
+   "instruments": [
+    {
+     "name": "Real Luck Group Ltd.",
+     "symbol": "LUCK"
+    }
+   ]
+  },
+  {
+   "symbol": "FSRXW",
+   "name": "FinServ Acquisition Corp. II - Warrant",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "FSRXW"
+  },
+  {
+   "symbol": "BSQR",
+   "name": "BSQUARE Corporation - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "BSQR"
+  },
+  {
+   "symbol": "CFIVU",
+   "name": "CF Acquisition Corp. IV - Unit",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "CFIVU"
+  },
+  {
+   "symbol": "PSYB",
+   "name": "Psybio Therapeutics Corp.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "PSYB.V",
+   "instruments": [
+    {
+     "name": "Psybio Therapeutics Corp.",
+     "symbol": "PSYB"
+    }
+   ]
+  },
+  {
+   "symbol": "CLZ",
+   "name": "Canasil Resources Inc.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "CLZ.V",
+   "instruments": [
+    {
+     "name": "Canasil Resources Inc.",
+     "symbol": "CLZ"
+    }
+   ]
+  },
+  {
+   "symbol": "ARCE",
+   "name": "Arco Platform Limited - Class A Common Shares",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "ARCE"
+  },
+  {
+   "symbol": "VOC.P",
+   "name": "Victory Opportunities 1 Corp.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "VOC.P.V",
+   "instruments": [
+    {
+     "name": "Victory Opportunities 1 Corp.",
+     "symbol": "VOC.P"
+    }
+   ]
+  },
+  {
+   "symbol": "LIVB",
+   "name": "LIV Capital Acquisition Corp. II - Class A Ordinary Shares",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "LIVB"
+  },
+  {
+   "symbol": "AENZ",
+   "name": "Aenza S.A.A. American Depositary Shares",
+   "exchange": "NYSE",
+   "yahoo_symbol": "AENZ"
+  },
+  {
+   "symbol": "FSRXU",
+   "name": "FinServ Acquisition Corp. II - Unit",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "FSRXU"
+  },
+  {
+   "symbol": "SPG",
+   "name": "Spark Power Group Inc.",
+   "exchange": "TSX",
+   "yahoo_symbol": "SPG.TO",
+   "instruments": [
+    {
+     "name": "Spark Power Group J",
+     "symbol": "SPG"
+    }
+   ]
+  },
+  {
+   "symbol": "BMAC.U",
+   "name": "Black Mountain Acquisition Corp. Units, each consisting of one share of Class A common stock and three quarters of one warrant",
+   "exchange": "NYSE",
+   "yahoo_symbol": "BMAC.U"
+  },
+  {
+   "symbol": "FLBA",
+   "name": "Franklin Core Balanced Active ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "FLBA.TO",
+   "instruments": [
+    {
+     "name": "Franklin CoreBalActv",
+     "symbol": "FLBA"
+    }
+   ]
+  },
+  {
+   "symbol": "FLRM",
+   "name": "Franklin Risk Managed Canadian Equity Active ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "FLRM.TO",
+   "instruments": [
+    {
+     "name": "Franklin RskMngCA Eq",
+     "symbol": "FLRM"
+    }
+   ]
+  },
+  {
+   "symbol": "LIVBW",
+   "name": "LIV Capital Acquisition Corp. II - Warrants",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "LIVBW"
+  },
+  {
+   "symbol": "EWS",
+   "name": "Environmental Waste International Inc.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "EWS.V",
+   "instruments": [
+    {
+     "name": "Environmental Waste International Inc.",
+     "symbol": "EWS"
+    }
+   ]
+  },
+  {
+   "symbol": "CFIV",
+   "name": "CF Acquisition Corp. IV - Class A common stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "CFIV"
+  },
+  {
+   "symbol": "LIVBU",
+   "name": "LIV Capital Acquisition Corp. II - Unit",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "LIVBU"
+  },
+  {
+   "symbol": "BMAC.W",
+   "name": "Black Mountain Acquisition Corp. Warrants, exercisable for one share of Class A Common Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "BMAC.W"
+  }
+ ]
+}

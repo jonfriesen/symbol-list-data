@@ -1,0 +1,69 @@
+{
+ "added": [
+  {
+   "symbol": "CHMB",
+   "name": "Chumbi Valley (CHMB)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "G",
+   "name": "GRN Grid (G)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "BANKETH",
+   "name": "BankEth (BANKETH)"
+  },
+  {
+   "symbol": "XPT",
+   "name": "Cryptobuyer (XPT)"
+  },
+  {
+   "symbol": "KUBE",
+   "name": "KubeCoin (KUBE)",
+   "built_on": "ADA"
+  },
+  {
+   "symbol": "LMR",
+   "name": "Lumerin (LMR)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "DOGETH",
+   "name": "EtherDoge (DOGETH)"
+  },
+  {
+   "symbol": "DFT",
+   "name": "DigiFinexToken (DFT)",
+   "built_on": "ETH"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "KUBE",
+   "name": "KubeCoin (KUBE)"
+  },
+  {
+   "symbol": "CHMB",
+   "name": "Chumbi Valley (CHMB)"
+  },
+  {
+   "symbol": "XPT",
+   "name": "Cryptobuyer (XPT)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "DFT",
+   "name": "DigiFinexToken (DFT)"
+  },
+  {
+   "symbol": "DFXT",
+   "name": "DigiFinexToken (DFXT)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "LMR",
+   "name": "Lumerin (LMR)"
+  }
+ ]
+}
