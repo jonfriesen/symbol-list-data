@@ -1,0 +1,80 @@
+{
+ "added": [
+  {
+   "symbol": "BEX",
+   "name": "BEX token (BEX)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "LTG",
+   "name": "LiteCoin Gold (LTG)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "G",
+   "name": "GRN Grid (G)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "MELOS",
+   "name": "Melos Studio (MELOS)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "BANK",
+   "name": "Float Protocol (BANK)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "DOG",
+   "name": "The Doge NFT (DOG)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "JTO",
+   "name": "Jito (JTO)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "1717",
+   "name": "1717 Masonic Commemorative Token (1717)"
+  },
+  {
+   "symbol": "STARLY",
+   "name": "Starly (STARLY)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "SWC",
+   "name": "Scanetchain Token (SWC)"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "MELOS",
+   "name": "Melos Studio (MELOS)"
+  },
+  {
+   "symbol": "LTG",
+   "name": "LiteCoin Gold (LTG)"
+  },
+  {
+   "symbol": "STARLY",
+   "name": "Starly (STARLY)"
+  },
+  {
+   "symbol": "1717",
+   "name": "1717 Masonic Commemorative Token (1717)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "SWC",
+   "name": "Scanetchain Token (SWC)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "BEX",
+   "name": "BEX token (BEX)"
+  }
+ ]
+}

@@ -1,0 +1,108 @@
+{
+ "added": [
+  {
+   "symbol": "ECO",
+   "name": "Okeanis Eco Tankers Corp. Common Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "ECO"
+  },
+  {
+   "symbol": "SMBK",
+   "name": "SmartFinancial, Inc. Common Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "SMBK"
+  },
+  {
+   "symbol": "AIRL",
+   "name": "Themes Airlines ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "AIRL"
+  },
+  {
+   "symbol": "SPAM",
+   "name": "Themes Cybersecurity ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "SPAM"
+  },
+  {
+   "symbol": "WISE",
+   "name": "Themes Generative Artificial Intelligence ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "WISE"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "IPVF",
+   "name": "InterPrivate III Financial Partners Inc. Class A Common Stock",
+   "exchange": "NYSE MKT",
+   "yahoo_symbol": "IPVF"
+  },
+  {
+   "symbol": "SMBK",
+   "name": "SmartFinancial, Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "SMBK"
+  },
+  {
+   "symbol": "MBAC",
+   "name": "M3-Brigade Acquisition II Corp. Class A Common Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "MBAC"
+  },
+  {
+   "symbol": "IPVF.U",
+   "name": "InterPrivate III Financial Partners Inc. Units, each consisting of one share of Class A common stock and one-fifth of one redeemable warrant",
+   "exchange": "NYSE MKT",
+   "yahoo_symbol": "IPVF.U"
+  },
+  {
+   "symbol": "MOBVW",
+   "name": "Mobiv Acquisition Corp - Warrant",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "MOBVW"
+  },
+  {
+   "symbol": "MOBVU",
+   "name": "Mobiv Acquisition Corp - Unit",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "MOBVU"
+  },
+  {
+   "symbol": "IPVF.W",
+   "name": "InterPrivate III Financial Partners Inc. Warrants, each whole warrant exercisable for one share of Class A common stock at an exercise price of $11.50 per share",
+   "exchange": "NYSE MKT",
+   "yahoo_symbol": "IPVF.W"
+  },
+  {
+   "symbol": "MBAC.U",
+   "name": "M3-Brigade Acquisition II Corp. Units, each consisting of one share of Class A common stock, and one-third of one redeemable warrant",
+   "exchange": "NYSE",
+   "yahoo_symbol": "MBAC.U"
+  },
+  {
+   "symbol": "MOBV",
+   "name": "Mobiv Acquisition Corp - Class A Common Stock",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "MOBV"
+  },
+  {
+   "symbol": "CUR",
+   "name": "Consolidated Uranium Inc.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "CUR.V",
+   "instruments": [
+    {
+     "name": "Consolidated Uranium Inc.",
+     "symbol": "CUR"
+    }
+   ]
+  },
+  {
+   "symbol": "MBAC.W",
+   "name": "M3-Brigade Acquisition II Corp. Redeemable Warrants, each whole warrant exercisable for one share of Class A common stock at an exercise price of $11.50",
+   "exchange": "NYSE",
+   "yahoo_symbol": "MBAC.W"
+  }
+ ]
+}
