@@ -1,0 +1,192 @@
+{
+ "added": [
+  {
+   "symbol": "IMPT",
+   "name": "Impact Development Group Inc.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "IMPT.V",
+   "instruments": [
+    {
+     "name": "Impact Development Group Inc.",
+     "symbol": "IMPT"
+    }
+   ]
+  },
+  {
+   "symbol": "SVMH",
+   "name": "SRIVARU Holding Limited - Ordinary Shares",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "SVMH"
+  },
+  {
+   "symbol": "SVMHW",
+   "name": "SRIVARU Holding Limited - Warrant",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "SVMHW"
+  },
+  {
+   "symbol": "TDI",
+   "name": "Touchstone Dynamic International ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "TDI"
+  },
+  {
+   "symbol": "FGN",
+   "name": "F\u0026G Annuities \u0026 Life, Inc. 7.950% Senior Notes due 2053",
+   "exchange": "NYSE",
+   "yahoo_symbol": "FGN"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "ZINT",
+   "name": "BMO MSCI Next Gen Internet Innovation Index ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "ZINT.TO",
+   "instruments": [
+    {
+     "name": "BMO MSCINexGen Innov",
+     "symbol": "ZINT"
+    }
+   ]
+  },
+  {
+   "symbol": "EVLO",
+   "name": "Evelo Biosciences, Inc. - Common Stock",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "EVLO"
+  },
+  {
+   "symbol": "PP",
+   "name": "Pacific Silk Road Resources Group Inc.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "PP.V",
+   "instruments": [
+    {
+     "name": "Pacific Silk Road Resources Group Inc.",
+     "symbol": "PP"
+    }
+   ]
+  },
+  {
+   "symbol": "ZAUT",
+   "name": "BMO MSCI Tech \u0026 Industrial Innovation Index ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "ZAUT.TO",
+   "instruments": [
+    {
+     "name": "BMO MSCI Tech\u0026IndInv",
+     "symbol": "ZAUT"
+    }
+   ]
+  },
+  {
+   "symbol": "BRD",
+   "name": "Beard Energy Transition Acquisition Corp. Class A Common Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "BRD"
+  },
+  {
+   "symbol": "ZFIN",
+   "name": "BMO MSCI Fintech Innovation Index ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "ZFIN.TO",
+   "instruments": [
+    {
+     "name": "BMO MSCI Fintec Innv",
+     "symbol": "ZFIN"
+    }
+   ]
+  },
+  {
+   "symbol": "HEO",
+   "name": "H2O Innovation Inc.",
+   "exchange": "TSX",
+   "yahoo_symbol": "HEO.TO",
+   "instruments": [
+    {
+     "name": "H2O Innovation Inc.",
+     "symbol": "HEO"
+    }
+   ]
+  },
+  {
+   "symbol": "TBCPU",
+   "name": "Thunder Bridge Capital Partners III Inc. - Units",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "TBCPU"
+  },
+  {
+   "symbol": "ZGEN",
+   "name": "BMO MSCI Genomic Innovation Index ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "ZGEN.TO",
+   "instruments": [
+    {
+     "name": "BMO MSCI GenomcInnov",
+     "symbol": "ZGEN"
+    }
+   ]
+  },
+  {
+   "symbol": "TBCP",
+   "name": "Thunder Bridge Capital Partners III Inc. - Class A Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "TBCP"
+  },
+  {
+   "symbol": "KVSA",
+   "name": "Khosla Ventures Acquisition Co. - Class A Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "KVSA"
+  },
+  {
+   "symbol": "BRD.U",
+   "name": "Beard Energy Transition Acquisition Corp. Units, each consisting of one share of Class A Common Stock and one-half of one Warrant",
+   "exchange": "NYSE",
+   "yahoo_symbol": "BRD.U"
+  },
+  {
+   "symbol": "BRD.W",
+   "name": "Beard Energy Transition Acquisition Corp. Warrants, each whole warrant exercisable for one share of Class A Common Stock at an exercise price of $11.50 per share",
+   "exchange": "NYSE",
+   "yahoo_symbol": "BRD.W"
+  },
+  {
+   "symbol": "ZINN",
+   "name": "BMO MSCI Innovation Index ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "ZINN.TO",
+   "instruments": [
+    {
+     "name": "BMO MSCI Innov CA Un",
+     "symbol": "ZINN"
+    }
+   ]
+  },
+  {
+   "symbol": "YUB.P",
+   "name": "Yubba Capital Corp.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "YUB.P.V",
+   "instruments": [
+    {
+     "name": "Yubba Capital Corp.",
+     "symbol": "YUB.P"
+    }
+   ]
+  },
+  {
+   "symbol": "UPH",
+   "name": "UpHealth, Inc. Common Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "UPH"
+  },
+  {
+   "symbol": "TBCPW",
+   "name": "Thunder Bridge Capital Partners III Inc. - Warrant",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "TBCPW"
+  }
+ ]
+}
