@@ -1,0 +1,48 @@
+{
+ "added": [
+  {
+   "symbol": "RATS",
+   "name": "Rats (RATS)",
+   "built_on": "BTC"
+  },
+  {
+   "symbol": "RLB",
+   "name": "Rollbit Coin (RLB)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "DOGETH",
+   "name": "EtherDoge (DOGETH)"
+  },
+  {
+   "symbol": "UNOB",
+   "name": "Unobtanium (UNOB)"
+  },
+  {
+   "symbol": "SAUCE",
+   "name": "SaucerSwap (SAUCE)",
+   "built_on": "HBAR"
+  },
+  {
+   "symbol": "SEAM",
+   "name": "Seamless Protocol (SEAM)",
+   "built_on": "BASECHAIN"
+  },
+  {
+   "symbol": "G",
+   "name": "GRN Grid (G)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "BANK",
+   "name": "Float Protocol (BANK)",
+   "built_on": "ETH"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "UNO",
+   "name": "Unobtanium (UNO)"
+  }
+ ]
+}

@@ -1,0 +1,84 @@
+{
+ "added": [
+  {
+   "symbol": "ECDA",
+   "name": "ECD Automotive Design, Inc. - Common Stock",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "ECDA"
+  },
+  {
+   "symbol": "ECDAW",
+   "name": "ECD Automotive Design, Inc. - Warrant",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "ECDAW"
+  },
+  {
+   "symbol": "MYND",
+   "name": "Mynd.ai, Inc. American Depositary Shares",
+   "exchange": "NYSE MKT",
+   "yahoo_symbol": "MYND"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "GEHI",
+   "name": "Gravitas Education Holdings, Inc. American Depositary Share",
+   "exchange": "NYSE",
+   "yahoo_symbol": "GEHI"
+  },
+  {
+   "symbol": "FRXB.W",
+   "name": "Forest Road Acquisition Corp. II Redeemable Warrants, each whole warrant exercisable for one share of Class A Common Stock at an exercise price of $11.50",
+   "exchange": "NYSE",
+   "yahoo_symbol": "FRXB.W"
+  },
+  {
+   "symbol": "CLRG",
+   "name": "IQ U.S. Large Cap ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "CLRG"
+  },
+  {
+   "symbol": "BURU.W",
+   "name": "Nuburu, Inc. Redeemable Warrants, each whole warrant exercisable for one share of Common Stock at an exercise price of $11.50",
+   "exchange": "NYSE MKT",
+   "yahoo_symbol": "BURU.W"
+  },
+  {
+   "symbol": "FRXB.U",
+   "name": "Forest Road Acquisition Corp. II Unit",
+   "exchange": "NYSE",
+   "yahoo_symbol": "FRXB.U"
+  },
+  {
+   "symbol": "EFHTW",
+   "name": "EF Hutton Acquisition Corporation I - Warrant",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "EFHTW"
+  },
+  {
+   "symbol": "MRND",
+   "name": "IQ U.S. Mid Cap R\u0026D Leaders ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "MRND"
+  },
+  {
+   "symbol": "EFHTR",
+   "name": "EF Hutton Acquisition Corporation I - Rights",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "EFHTR"
+  },
+  {
+   "symbol": "FRXB",
+   "name": "Forest Road Acquisition Corp. II Class A Common Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "FRXB"
+  },
+  {
+   "symbol": "EFHT",
+   "name": "EF Hutton Acquisition Corporation I - Common Stock",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "EFHT"
+  }
+ ]
+}
