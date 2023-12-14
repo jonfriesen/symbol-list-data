@@ -1,0 +1,29 @@
+{
+ "added": [
+  {
+   "symbol": "EDLC",
+   "name": "Edelcoin (EDLC)"
+  },
+  {
+   "symbol": "PMG",
+   "name": "Pomerium Ecosystem Token (PMG)"
+  },
+  {
+   "symbol": "BSSB",
+   "name": "BitStable Finance (BSSB)"
+  },
+  {
+   "symbol": "DOGETH",
+   "name": "EtherDoge (DOGETH)"
+  },
+  {
+   "symbol": "G",
+   "name": "GRN Grid (G)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "BANKETH",
+   "name": "BankEth (BANKETH)"
+  }
+ ]
+}

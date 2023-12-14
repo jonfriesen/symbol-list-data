@@ -1,0 +1,162 @@
+{
+ "added": [
+  {
+   "symbol": "RSC.P",
+   "name": "Rockmount Capital Corporation",
+   "exchange": "TSXV",
+   "yahoo_symbol": "RSC.P.V",
+   "instruments": [
+    {
+     "name": "Rockmount Capital Corporation",
+     "symbol": "RSC.P"
+    }
+   ]
+  },
+  {
+   "symbol": "CURA",
+   "name": "Curaleaf Holdings, Inc.",
+   "exchange": "TSX",
+   "yahoo_symbol": "CURA.TO",
+   "instruments": [
+    {
+     "name": "Curaleaf Holdings J",
+     "symbol": "CURA"
+    }
+   ]
+  },
+  {
+   "symbol": "AUMI",
+   "name": "Themes Gold Miners ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "AUMI"
+  },
+  {
+   "symbol": "BUFC",
+   "name": "AB Conservative Buffer ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "BUFC"
+  },
+  {
+   "symbol": "CPLS",
+   "name": "AB Core Plus Bond ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "CPLS"
+  },
+  {
+   "symbol": "CZAR",
+   "name": "Themes Natural Monopoly ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "CZAR"
+  },
+  {
+   "symbol": "EYEG",
+   "name": "AB Corporate Bond ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "EYEG"
+  },
+  {
+   "symbol": "SMCF",
+   "name": "Themes US Small Cap Cash Flow Champions ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "SMCF"
+  },
+  {
+   "symbol": "USCF",
+   "name": "Themes US Cash Flow Champions ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "USCF"
+  },
+  {
+   "symbol": "USRD",
+   "name": "Themes US R\u0026D Champions ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "USRD"
+  },
+  {
+   "symbol": "DSX.W",
+   "name": "Diana Shipping inc. Warrants",
+   "exchange": "NYSE",
+   "yahoo_symbol": "DSX.W"
+  },
+  {
+   "symbol": "EFC$D",
+   "name": "Ellington Financial Inc. 7.00% Series D Cumulative Perpetual Redeemable Preferred Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "EFC$D"
+  },
+  {
+   "symbol": "EFC$E",
+   "name": "Ellington Financial Inc. 8.250% Series E Fixed-to-Floating Rate Cumulative Redeemable Preferred Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "EFC$E"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "MIRO",
+   "name": "Miromatrix Medical Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "MIRO"
+  },
+  {
+   "symbol": "CTG",
+   "name": "Computer Task Group, Incorporated - Common Stock",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "CTG"
+  },
+  {
+   "symbol": "AAIC$C",
+   "name": "Arlington Asset Investment Corp 8.250% Seies C Fixed-to-Floating Rate Cumulative Redeemable Preferred Stock   ",
+   "exchange": "NYSE",
+   "yahoo_symbol": "AAIC$C"
+  },
+  {
+   "symbol": "BIGB",
+   "name": "Roundhill BIG Bank ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "BIGB"
+  },
+  {
+   "symbol": "AAIC",
+   "name": "Arlington Asset Investment Corp Class A (new)",
+   "exchange": "NYSE",
+   "yahoo_symbol": "AAIC"
+  },
+  {
+   "symbol": "SRV.R",
+   "name": "NXG Cushing Midstream Energy Fund Rights (expiring December 14, 2023) Rights",
+   "exchange": "NYSE",
+   "yahoo_symbol": "SRV.R"
+  },
+  {
+   "symbol": "AAIC$B",
+   "name": "Arlington Asset Investment Corp 7.00% ",
+   "exchange": "NYSE",
+   "yahoo_symbol": "AAIC$B"
+  },
+  {
+   "symbol": "OPS",
+   "name": "Opsens Inc.",
+   "exchange": "TSX",
+   "yahoo_symbol": "OPS.TO",
+   "instruments": [
+    {
+     "name": "Opsens Inc. J",
+     "symbol": "OPS"
+    }
+   ]
+  },
+  {
+   "symbol": "NM",
+   "name": "Navios Maritime Holdings Inc. Common Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "NM"
+  },
+  {
+   "symbol": "ELIQ.W",
+   "name": "Electriq Power Holdings, Inc. Warrants",
+   "exchange": "NYSE MKT",
+   "yahoo_symbol": "ELIQ.W"
+  }
+ ]
+}
