@@ -1,0 +1,96 @@
+{
+ "added": [
+  {
+   "symbol": "BNZI",
+   "name": "Banzai International, Inc. - Class A Common Stock",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "BNZI"
+  },
+  {
+   "symbol": "BNZIW",
+   "name": "Banzai International, Inc. - Warrant",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "BNZIW"
+  },
+  {
+   "symbol": "BRTR",
+   "name": "BlackRock Total Return ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "BRTR"
+  },
+  {
+   "symbol": "CA",
+   "name": "Xtrackers California Municipal Bonds ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "CA"
+  },
+  {
+   "symbol": "INHD",
+   "name": "Inno Holdings Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "INHD"
+  },
+  {
+   "symbol": "QLI",
+   "name": "Qilian International Holding Group Ltd. - Ordinary Shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "QLI"
+  },
+  {
+   "symbol": "VCRB",
+   "name": "Vanguard Core Bond ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "VCRB"
+  },
+  {
+   "symbol": "ZKH",
+   "name": "ZKH Group Limited American Depositary Shares, each representing thirty-five (35) Class A Ordinary Shares",
+   "exchange": "NYSE",
+   "yahoo_symbol": "ZKH"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "VIIAW",
+   "name": "7GC \u0026 Co. Holdings Inc. - Warrant",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "VIIAW"
+  },
+  {
+   "symbol": "CIZN",
+   "name": "Citizens Holding Company - Common Stock",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "CIZN"
+  },
+  {
+   "symbol": "VII",
+   "name": "7GC \u0026 Co. Holdings Inc. - Class A common stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "VII"
+  },
+  {
+   "symbol": "SMFL",
+   "name": "Smart for Life, Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "SMFL"
+  },
+  {
+   "symbol": "SGEN",
+   "name": "Seagen Inc.  - Common Stock",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "SGEN"
+  },
+  {
+   "symbol": "VIIAU",
+   "name": "7GC \u0026 Co. Holdings Inc. - Unit",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "VIIAU"
+  },
+  {
+   "symbol": "QLI",
+   "name": "Qilian International Holding Group Ltd. - Ordinary Shares",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "QLI"
+  }
+ ]
+}

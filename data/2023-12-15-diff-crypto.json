@@ -1,0 +1,135 @@
+{
+ "added": [
+  {
+   "symbol": "PMG",
+   "name": "Pomerium Ecosystem Token (PMG)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "MLT",
+   "name": "MIcro Licensing Coin (MLT)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "GFY",
+   "name": "go fu*k yourself (GFY)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "SHOPX",
+   "name": "Splyt (SHOPX)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "MUBI",
+   "name": "Multibit (MUBI)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "KCT",
+   "name": "Konnect (KCT)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "BEAM",
+   "name": "Beam (BEAM)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "SNY",
+   "name": "Synthetify  (SNY)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "XDB",
+   "name": "DigitalBits (XDB)"
+  },
+  {
+   "symbol": "DKS",
+   "name": "DarkShield (DKS)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "STARLY",
+   "name": "Starly (STARLY)",
+   "built_on": "FLOW"
+  },
+  {
+   "symbol": "DOG",
+   "name": "The Doge NFT (DOG)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "BANK",
+   "name": "Float Protocol (BANK)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "EDLC",
+   "name": "Edelcoin (EDLC)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "PARI",
+   "name": "Paribus (PARI)"
+  },
+  {
+   "symbol": "BSSB",
+   "name": "BitStable Finance (BSSB)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "GETH",
+   "name": "Guarded Ether (GETH)"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "PMG",
+   "name": "Pomerium Ecosystem Token (PMG)"
+  },
+  {
+   "symbol": "SHOPX",
+   "name": "Splyt (SHOPX)"
+  },
+  {
+   "symbol": "BSSB",
+   "name": "BitStable Finance (BSSB)"
+  },
+  {
+   "symbol": "SNY",
+   "name": "Synthetify  (SNY)"
+  },
+  {
+   "symbol": "KCT",
+   "name": "Konnect (KCT)"
+  },
+  {
+   "symbol": "STARLY",
+   "name": "Starly (STARLY)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "EDLC",
+   "name": "Edelcoin (EDLC)"
+  },
+  {
+   "symbol": "MILC",
+   "name": "MIcro Licensing Coin (MILC)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "DKS",
+   "name": "DarkShield (DKS)"
+  },
+  {
+   "symbol": "PBX",
+   "name": "Paribus (PBX)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "XDGB",
+   "name": "DigitalBits (XDGB)"
+  }
+ ]
+}
