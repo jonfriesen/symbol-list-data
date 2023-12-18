@@ -1,0 +1,204 @@
+{
+ "added": [
+  {
+   "symbol": "ESP",
+   "name": "Brompton Energy Split Corp.",
+   "exchange": "TSX",
+   "yahoo_symbol": "ESP.TO",
+   "instruments": [
+    {
+     "name": "Brompton Oil Splt A",
+     "symbol": "ESP"
+    },
+    {
+     "name": "Brompton Oil Splt Pr",
+     "symbol": "ESP.PR.A"
+    }
+   ]
+  },
+  {
+   "symbol": "BAYAU",
+   "name": "Bayview Acquisition Corp - Unit",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "BAYAU"
+  },
+  {
+   "symbol": "CLOD",
+   "name": "Themes Cloud Computing ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "CLOD"
+  },
+  {
+   "symbol": "FINE",
+   "name": "Themes European Luxury ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "FINE"
+  },
+  {
+   "symbol": "GSIB",
+   "name": "Themes Global Systemically Important Banks ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "GSIB"
+  },
+  {
+   "symbol": "DEC",
+   "name": "Diversified Energy Company plc Ordinary Shares",
+   "exchange": "NYSE",
+   "yahoo_symbol": "DEC"
+  },
+  {
+   "symbol": "SING",
+   "name": "SinglePoint Inc. Common Stock",
+   "exchange": "BATS",
+   "yahoo_symbol": "SING"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "VAPO",
+   "name": "Vapotherm, Inc. Common Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "VAPO"
+  },
+  {
+   "symbol": "BSMN",
+   "name": "Invesco BulletShares 2023 Municipal Bond ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "BSMN"
+  },
+  {
+   "symbol": "UPWD",
+   "name": "JPMorgan Social Advancement ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "UPWD"
+  },
+  {
+   "symbol": "BSJN",
+   "name": "Invesco BulletShares 2023 High Yield Corporate Bond ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "BSJN"
+  },
+  {
+   "symbol": "GDNRW",
+   "name": "Gardiner Healthcare Acquisitions Corp. - Warrant",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "GDNRW"
+  },
+  {
+   "symbol": "GIGR",
+   "name": "Guardian i3 Global REIT ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "GIGR.TO",
+   "instruments": [
+    {
+     "name": "Guaridan i3 REIT Heg",
+     "symbol": "GIGR"
+    },
+    {
+     "name": "Guardian i3REIT Unhg",
+     "symbol": "GIGR.B"
+    }
+   ]
+  },
+  {
+   "symbol": "PCTI",
+   "name": "PCTEL, Inc. - Common Stock",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "PCTI"
+  },
+  {
+   "symbol": "GDNRU",
+   "name": "Gardiner Healthcare Acquisitions Corp. - Unit",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "GDNRU"
+  },
+  {
+   "symbol": "IMPL",
+   "name": "Impel Pharmaceuticals Inc. - Common Stock",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "IMPL"
+  },
+  {
+   "symbol": "TRKAW",
+   "name": "Troika Media Group, Inc. - Warrant",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "TRKAW"
+  },
+  {
+   "symbol": "GDNR",
+   "name": "Gardiner Healthcare Acquisitions Corp. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "GDNR"
+  },
+  {
+   "symbol": "TRKA",
+   "name": "Troika Media Group, Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "TRKA"
+  },
+  {
+   "symbol": "BSCN",
+   "name": "Invesco BulletShares 2023 Corporate Bond ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "BSCN"
+  },
+  {
+   "symbol": "HRR.UN",
+   "name": "Australian REIT Income Fund",
+   "exchange": "TSX",
+   "yahoo_symbol": "HRR.UN.TO",
+   "instruments": [
+    {
+     "name": "Australian REIT A Un",
+     "symbol": "HRR.UN"
+    }
+   ]
+  },
+  {
+   "symbol": "EDI",
+   "name": "Virtus Stone Harbor Emerging Markets Total Income Fund Common Shares of Beneficial Interest",
+   "exchange": "NYSE",
+   "yahoo_symbol": "EDI"
+  },
+  {
+   "symbol": "OSP",
+   "name": "Brompton Oil Split Corp.",
+   "exchange": "TSX",
+   "yahoo_symbol": "OSP.TO",
+   "instruments": [
+    {
+     "name": "Brompton Oil Splt A",
+     "symbol": "OSP"
+    },
+    {
+     "name": "Brompton Oil Splt Pr",
+     "symbol": "OSP.PR.A"
+    }
+   ]
+  },
+  {
+   "symbol": "CIRC",
+   "name": "JPMorgan Sustainable Consumption ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "CIRC"
+  },
+  {
+   "symbol": "IBTD",
+   "name": "iShares iBonds Dec 2023 Term Treasury ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "IBTD"
+  },
+  {
+   "symbol": "WHE",
+   "name": "Waroona Energy Inc.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "WHE.V",
+   "instruments": [
+    {
+     "name": "Waroona Energy Inc.",
+     "symbol": "WHE"
+    }
+   ]
+  }
+ ]
+}

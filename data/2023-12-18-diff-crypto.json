@@ -1,0 +1,49 @@
+{
+ "added": [
+  {
+   "symbol": "1000SATS",
+   "name": "SATS (1000SATS)"
+  },
+  {
+   "symbol": "TOKEN",
+   "name": "TokenFi (TOKEN)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "DOGETH",
+   "name": "EtherDoge (DOGETH)"
+  },
+  {
+   "symbol": "BANKETH",
+   "name": "BankEth (BANKETH)"
+  },
+  {
+   "symbol": "PSY",
+   "name": "PsyOptions (PSY)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "CEJI",
+   "name": "Ceji (CEJI)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "GETH",
+   "name": "Guarded Ether (GETH)"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "PSY",
+   "name": "PsyOptions (PSY)"
+  },
+  {
+   "symbol": "TOKEN",
+   "name": "TokenFi (TOKEN)"
+  },
+  {
+   "symbol": "CEJI",
+   "name": "Ceji (CEJI)"
+  }
+ ]
+}
