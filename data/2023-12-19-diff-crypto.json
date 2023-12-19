@@ -1,0 +1,64 @@
+{
+ "added": [
+  {
+   "symbol": "GGM",
+   "name": "Monster Galaxy (GGM)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "G",
+   "name": "GRN Grid (G)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "FREL",
+   "name": "Freela (FREL)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "HVE2",
+   "name": "Uhive (HVE2)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "DOGETH",
+   "name": "EtherDoge (DOGETH)"
+  },
+  {
+   "symbol": "BANKETH",
+   "name": "BankEth (BANKETH)"
+  },
+  {
+   "symbol": "AITECH",
+   "name": "Artificial Intelligence Utility Token (AITECH)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "ARKER",
+   "name": "Arker (ARKER)",
+   "built_on": "BNB"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "ARKER",
+   "name": "Arker (ARKER)"
+  },
+  {
+   "symbol": "HVE2",
+   "name": "Uhive (HVE2)"
+  },
+  {
+   "symbol": "FREL",
+   "name": "Freela (FREL)"
+  },
+  {
+   "symbol": "GGM",
+   "name": "Monster Galaxy (GGM)"
+  },
+  {
+   "symbol": "AITECH",
+   "name": "Artificial Intelligence Utility Token (AITECH)"
+  }
+ ]
+}

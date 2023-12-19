@@ -1,0 +1,112 @@
+{
+ "added": [
+  {
+   "symbol": "NGNE",
+   "name": "Neurogene, Inc. - Common Stock",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "NGNE"
+  },
+  {
+   "symbol": "SMFL",
+   "name": "Smart for Life, Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "SMFL"
+  },
+  {
+   "symbol": "SSB",
+   "name": "SouthState Corporation Common Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "SSB"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "NETC.W",
+   "name": "Nabors Energy Transition Corp. Warrants, exercisable for one share of Class A Common Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "NETC.W"
+  },
+  {
+   "symbol": "ACRO",
+   "name": "Acropolis Infrastructure Acquisition Corp. Class A Common Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "ACRO"
+  },
+  {
+   "symbol": "CD",
+   "name": "Chindata Group Holdings Limited - American Depositary Shares",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "CD"
+  },
+  {
+   "symbol": "NIRWW",
+   "name": "Near Intelligence, Inc. - Warrant",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "NIRWW"
+  },
+  {
+   "symbol": "CUB",
+   "name": "CubicFarm Systems Corp.",
+   "exchange": "TSX",
+   "yahoo_symbol": "CUB.TO",
+   "instruments": [
+    {
+     "name": "CubicFarm Systems J",
+     "symbol": "CUB"
+    },
+    {
+     "name": "CubicFarm Sys J Deb",
+     "symbol": "CUB.DB"
+    }
+   ]
+  },
+  {
+   "symbol": "ACRO.U",
+   "name": "Acropolis Infrastructure Acquisition Corp. Units, each consisting of one share of Class A Common Stock and one-third of one Warrant",
+   "exchange": "NYSE",
+   "yahoo_symbol": "ACRO.U"
+  },
+  {
+   "symbol": "ACRO.W",
+   "name": "Acropolis Infrastructure Acquisition Corp. Warrants",
+   "exchange": "NYSE",
+   "yahoo_symbol": "ACRO.W"
+  },
+  {
+   "symbol": "NETC",
+   "name": "Nabors Energy Transition Corp. Class A Common Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "NETC"
+  },
+  {
+   "symbol": "NETC.U",
+   "name": "Nabors Energy Transition Corp. Units, each consisting of one share of Class A common stock and one-half of one warrant",
+   "exchange": "NYSE",
+   "yahoo_symbol": "NETC.U"
+  },
+  {
+   "symbol": "SSB",
+   "name": "SouthState Corporation - Common Stock",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "SSB"
+  },
+  {
+   "symbol": "FRTX",
+   "name": "Fresh Tracks Therapeutics, Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "FRTX"
+  },
+  {
+   "symbol": "NLTX",
+   "name": "Neoleukin Therapeutics, Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "NLTX"
+  },
+  {
+   "symbol": "NIR",
+   "name": "Near Intelligence, Inc. - Common Stock",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "NIR"
+  }
+ ]
+}
