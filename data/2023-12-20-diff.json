@@ -1,0 +1,148 @@
+{
+ "added": [
+  {
+   "symbol": "CUB",
+   "name": "Cubicfarm Systems Corporation",
+   "exchange": "TSXV",
+   "yahoo_symbol": "CUB.V",
+   "instruments": [
+    {
+     "name": "CubicFarm Systems Corp.",
+     "symbol": "CUB"
+    },
+    {
+     "name": "CubicFarm Systems Corp. db 02Jun2027",
+     "symbol": "CUB.DB"
+    }
+   ]
+  },
+  {
+   "symbol": "HASH",
+   "name": "Simply Solventless Concentrates Ltd.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "HASH.V",
+   "instruments": [
+    {
+     "name": "Simply Solventless Concentrates Ltd.",
+     "symbol": "HASH"
+    }
+   ]
+  },
+  {
+   "symbol": "LGCB",
+   "name": "Linkage Global Inc - Ordinary Shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "LGCB"
+  },
+  {
+   "symbol": "MFICL",
+   "name": "MidCap Financial Investment Corporation - 8.00% Notes due 2028",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "MFICL"
+  },
+  {
+   "symbol": "MSAI",
+   "name": "Infrared Cameras Holdings, Inc. - Common Stock",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "MSAI"
+  },
+  {
+   "symbol": "MSAIW",
+   "name": "Infrared Cameras Holdings, Inc. - Warrants",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "MSAIW"
+  },
+  {
+   "symbol": "VSTE",
+   "name": "Vast Renewables Limited - Ordinary Shares",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "VSTE"
+  },
+  {
+   "symbol": "VSTEW",
+   "name": "Vast Renewables Limited - Warrants",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "VSTEW"
+  },
+  {
+   "symbol": "CDLR",
+   "name": "Cadeler A/S American Depositary Share (each representing four (4) Ordinary Shares)",
+   "exchange": "NYSE",
+   "yahoo_symbol": "CDLR"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "BHIL.W",
+   "name": "Benson Hill, Inc. Warrants, each whole warrant exercisable for one share of common stock at an exercise price of $11.50",
+   "exchange": "NYSE",
+   "yahoo_symbol": "BHIL.W"
+  },
+  {
+   "symbol": "FTCH",
+   "name": "Farfetch Limited Class A Ordinary Shares",
+   "exchange": "NYSE",
+   "yahoo_symbol": "FTCH"
+  },
+  {
+   "symbol": "SMAPW",
+   "name": "SportsMap Tech Acquisition Corp. - Warrants",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "SMAPW"
+  },
+  {
+   "symbol": "CUEN",
+   "name": "Cuentas, Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "CUEN"
+  },
+  {
+   "symbol": "SMAP",
+   "name": "SportsMap Tech Acquisition Corp. - Common Stock",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "SMAP"
+  },
+  {
+   "symbol": "CUENW",
+   "name": "Cuentas, Inc. - Warrant",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "CUENW"
+  },
+  {
+   "symbol": "MCOM",
+   "name": "micromobility.com Inc. - Class A Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "MCOM"
+  },
+  {
+   "symbol": "MCOMW",
+   "name": "micromobility.com Inc. - Warrant",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "MCOMW"
+  },
+  {
+   "symbol": "DCX.P",
+   "name": "Dash Capital Corp.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "DCX.P.V",
+   "instruments": [
+    {
+     "name": "Dash Capital Corp.",
+     "symbol": "DCX.P"
+    }
+   ]
+  },
+  {
+   "symbol": "SMAPU",
+   "name": "SportsMap Tech Acquisition Corp. - Units",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "SMAPU"
+  },
+  {
+   "symbol": "CDLR.V",
+   "name": "Cadeler A/S American Depositary Share (each representing four (4) Ordinary Shares) When-Issued",
+   "exchange": "NYSE",
+   "yahoo_symbol": "CDLR.V"
+  }
+ ]
+}

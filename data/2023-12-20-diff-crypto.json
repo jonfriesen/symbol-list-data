@@ -1,0 +1,55 @@
+{
+ "added": [
+  {
+   "symbol": "GETH",
+   "name": "Guarded Ether (GETH)"
+  },
+  {
+   "symbol": "SPELLFIRE",
+   "name": "Spellfire (SPELLFIRE)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "CNG",
+   "name": "Changer (CNG)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "LAI",
+   "name": "LayerAI (LAI)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "LGX",
+   "name": "Legion Network (LGX)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "DOG",
+   "name": "The Doge NFT (DOG)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "BANKETH",
+   "name": "BankEth (BANKETH)"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "GPT",
+   "name": "Grace Period Token (GPT)"
+  },
+  {
+   "symbol": "CNG",
+   "name": "Changer (CNG)"
+  },
+  {
+   "symbol": "LGX",
+   "name": "Legion Network (LGX)"
+  },
+  {
+   "symbol": "SPELLFIRE",
+   "name": "Spellfire (SPELLFIRE)"
+  }
+ ]
+}
