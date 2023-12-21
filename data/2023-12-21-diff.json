@@ -1,0 +1,132 @@
+{
+ "added": [
+  {
+   "symbol": "EWS",
+   "name": "Environmental Waste International Inc.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "EWS.V",
+   "instruments": [
+    {
+     "name": "Environmental Waste International Inc.",
+     "symbol": "EWS"
+    }
+   ]
+  },
+  {
+   "symbol": "LVG",
+   "name": "Lake Victoria Gold Ltd.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "LVG.V",
+   "instruments": [
+    {
+     "name": "Lake Victoria Gold Ltd.",
+     "symbol": "LVG"
+    }
+   ]
+  },
+  {
+   "symbol": "IGBT.UN",
+   "name": "2028 Investment Grade Bond Trust",
+   "exchange": "TSX",
+   "yahoo_symbol": "IGBT.UN.TO",
+   "instruments": [
+    {
+     "name": "2028 InvGrd Bnd F Un",
+     "symbol": "IGBT.UN"
+    }
+   ]
+  },
+  {
+   "symbol": "ABCS",
+   "name": "Alpha Blue Capital US Small-Mid Cap Dynamic ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "ABCS"
+  },
+  {
+   "symbol": "INTE",
+   "name": "Integral Acquisition Corporation 1 - Class A Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "INTE"
+  },
+  {
+   "symbol": "INTEU",
+   "name": "Integral Acquisition Corporation 1 - Unit",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "INTEU"
+  },
+  {
+   "symbol": "INTEW",
+   "name": "Integral Acquisition Corporation 1 - Warrant",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "INTEW"
+  },
+  {
+   "symbol": "WTBN",
+   "name": "WisdomTree Bianco Total Return Fund",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "WTBN"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "INTEU",
+   "name": "Integral Acquisition Corporation 1 - Unit",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "INTEU"
+  },
+  {
+   "symbol": "HCDIW",
+   "name": "Harbor Custom Development, Inc. - Warrant",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "HCDIW"
+  },
+  {
+   "symbol": "INTEW",
+   "name": "Integral Acquisition Corporation 1 - Warrant",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "INTEW"
+  },
+  {
+   "symbol": "TEM",
+   "name": "Tembo Gold Corp.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "TEM.V",
+   "instruments": [
+    {
+     "name": "Tembo Gold Corp.",
+     "symbol": "TEM"
+    }
+   ]
+  },
+  {
+   "symbol": "INTE",
+   "name": "Integral Acquisition Corporation 1 - Class A Common Stock",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "INTE"
+  },
+  {
+   "symbol": "HCDI",
+   "name": "Harbor Custom Development, Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "HCDI"
+  },
+  {
+   "symbol": "PFIN",
+   "name": "P \u0026 F Industries, Inc. - Class A Common Stock",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "PFIN"
+  },
+  {
+   "symbol": "HCDIP",
+   "name": "Harbor Custom Development, Inc. - 8.0% Series A Cumulative Convertible Preferred Stock, no par value",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "HCDIP"
+  },
+  {
+   "symbol": "HCDIZ",
+   "name": "Harbor Custom Development, Inc. - Warrant",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "HCDIZ"
+  }
+ ]
+}

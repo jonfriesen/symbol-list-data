@@ -1,0 +1,80 @@
+{
+ "added": [
+  {
+   "symbol": "PBX",
+   "name": "Probinex (PBX)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "BANKETH",
+   "name": "BankEth (BANKETH)"
+  },
+  {
+   "symbol": "LMWR",
+   "name": "LimeWire Token (LMWR)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "MNFT",
+   "name": "Marvelous NFTs (MNFT)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "DOGETH",
+   "name": "EtherDoge (DOGETH)"
+  },
+  {
+   "symbol": "UNO",
+   "name": "UnoRe (UNO)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "G",
+   "name": "GRN Grid (G)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "NOVA",
+   "name": "Nova Finance (NOVA)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "PARI",
+   "name": "Paribus (PARI)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "METO",
+   "name": "Metafluence (METO)",
+   "built_on": "BNB"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "METO",
+   "name": "Metafluence (METO)"
+  },
+  {
+   "symbol": "MNFT",
+   "name": "Marvelous NFTs (MNFT)"
+  },
+  {
+   "symbol": "UNORE",
+   "name": "UnoRe (UNORE)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "PARI",
+   "name": "Paribus (PARI)"
+  },
+  {
+   "symbol": "PROBIN",
+   "name": "Probinex (PROBIN)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "NOVA",
+   "name": "Nova Finance (NOVA)"
+  }
+ ]
+}
