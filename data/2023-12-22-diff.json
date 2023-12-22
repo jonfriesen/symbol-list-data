@@ -1,0 +1,222 @@
+{
+ "added": [
+  {
+   "symbol": "AISP",
+   "name": "Airship AI Holdings, Inc - Class A Common Stock",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "AISP"
+  },
+  {
+   "symbol": "AISPW",
+   "name": "Airship AI Holdings, Inc - Warrants",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "AISPW"
+  },
+  {
+   "symbol": "EM",
+   "name": "Smart Share Global Limited - American Depositary Shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "EM"
+  },
+  {
+   "symbol": "HGAS",
+   "name": "Global Gas Corporation - Class A Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "HGAS"
+  },
+  {
+   "symbol": "HGASW",
+   "name": "Global Gas Corporation - Warrant",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "HGASW"
+  },
+  {
+   "symbol": "LDTC",
+   "name": "LeddarTech Holdings Inc. - Common Shares",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "LDTC"
+  },
+  {
+   "symbol": "LDTCW",
+   "name": "LeddarTech Holdings Inc. - Warrants",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "LDTCW"
+  },
+  {
+   "symbol": "MOBX",
+   "name": "Mobix Labs, Inc. - Class A Common Stock",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "MOBX"
+  },
+  {
+   "symbol": "MOBXW",
+   "name": "Mobix Labs, Inc. - Warrants",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "MOBXW"
+  },
+  {
+   "symbol": "ONCO",
+   "name": "Onconetix, Inc.  - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "ONCO"
+  },
+  {
+   "symbol": "SFLO",
+   "name": "VictoryShares Small Cap Free Cash Flow ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "SFLO"
+  },
+  {
+   "symbol": "TXSS",
+   "name": "Texas Capital Texas Small Cap Equity Index ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "TXSS"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "HHRS",
+   "name": "Hammerhead Energy Inc. - Class A Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "HHRS"
+  },
+  {
+   "symbol": "CLAYW",
+   "name": "Chavant Capital Acquisition Corp. - Warrants",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "CLAYW"
+  },
+  {
+   "symbol": "DUNE",
+   "name": "Dune Acquisition Corporation - Class A Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "DUNE"
+  },
+  {
+   "symbol": "DUNEU",
+   "name": "Dune Acquisition Corporation - Unit",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "DUNEU"
+  },
+  {
+   "symbol": "OXSQL",
+   "name": "Oxford Square Capital Corp. - 6.50% Notes due 2024",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "OXSQL"
+  },
+  {
+   "symbol": "PRSR",
+   "name": "Prospector Capital Corp. - Class A Ordinary Shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "PRSR"
+  },
+  {
+   "symbol": "PHUNW",
+   "name": "Phunware, Inc. - Warrants",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "PHUNW"
+  },
+  {
+   "symbol": "NSTB.W",
+   "name": "Northern Star Investment Corp. II Redeemable warrants, each whole warrant exercisable for shares of Class A common stock at an exercise price of $11.50 per share",
+   "exchange": "NYSE MKT",
+   "yahoo_symbol": "NSTB.W"
+  },
+  {
+   "symbol": "NOGNW",
+   "name": "Nogin, Inc. - Warrant",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "NOGNW"
+  },
+  {
+   "symbol": "PRSRU",
+   "name": "Prospector Capital Corp. - Unit",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "PRSRU"
+  },
+  {
+   "symbol": "DUNEW",
+   "name": "Dune Acquisition Corporation - Warrant",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "DUNEW"
+  },
+  {
+   "symbol": "CLAYU",
+   "name": "Chavant Capital Acquisition Corp. - Unit",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "CLAYU"
+  },
+  {
+   "symbol": "CLAY",
+   "name": "Chavant Capital Acquisition Corp. - Ordinary Shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "CLAY"
+  },
+  {
+   "symbol": "PATI",
+   "name": "Patriot Transportation Holding, Inc. - Common Stock",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "PATI"
+  },
+  {
+   "symbol": "BWV",
+   "name": "Blue Water Biotech, Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "BWV"
+  },
+  {
+   "symbol": "BYTSU",
+   "name": "BYTE Acquisition Corp. - Units",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "BYTSU"
+  },
+  {
+   "symbol": "BYTSW",
+   "name": "BYTE Acquisition Corp. - Warrants",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "BYTSW"
+  },
+  {
+   "symbol": "EM",
+   "name": "Smart Share Global Limited - American Depositary Shares",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "EM"
+  },
+  {
+   "symbol": "VMD",
+   "name": "Viemed Healthcare, Inc.",
+   "exchange": "TSX",
+   "yahoo_symbol": "VMD.TO",
+   "instruments": [
+    {
+     "name": "Viemed Healthcare",
+     "symbol": "VMD"
+    }
+   ]
+  },
+  {
+   "symbol": "NOGN",
+   "name": "Nogin, Inc. - Common Stock",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "NOGN"
+  },
+  {
+   "symbol": "PRSRW",
+   "name": "Prospector Capital Corp. - Warrants",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "PRSRW"
+  },
+  {
+   "symbol": "BYTS",
+   "name": "BYTE Acquisition Corp. - Class A Ordinary Shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "BYTS"
+  },
+  {
+   "symbol": "MDWT",
+   "name": "Midwest Holding Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "MDWT"
+  }
+ ]
+}
