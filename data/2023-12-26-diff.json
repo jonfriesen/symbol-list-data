@@ -1,0 +1,120 @@
+{
+ "added": [
+  {
+   "symbol": "ALCE",
+   "name": "Alternus Clean Energy, Inc. - Class A Common Stock",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "ALCE"
+  },
+  {
+   "symbol": "EMKR",
+   "name": "EMCORE Corporation - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "EMKR"
+  },
+  {
+   "symbol": "NUKK",
+   "name": "Nukkleus Inc. - Ordinary Shares",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "NUKK"
+  },
+  {
+   "symbol": "NUKKW",
+   "name": "Nukkleus Inc. - Warrants",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "NUKKW"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "DISAU",
+   "name": "Disruptive Acquisition Corporation I - Unit",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "DISAU"
+  },
+  {
+   "symbol": "EMKR",
+   "name": "EMCORE Corporation - Common Stock",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "EMKR"
+  },
+  {
+   "symbol": "LVOXW",
+   "name": "LiveVox Holdings, Inc. - Warrant",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "LVOXW"
+  },
+  {
+   "symbol": "CLINU",
+   "name": "Clean Earth Acquisitions Corp. - Unit",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "CLINU"
+  },
+  {
+   "symbol": "BRLIW",
+   "name": "Brilliant Acquisition Corporation - Warrants",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "BRLIW"
+  },
+  {
+   "symbol": "CLINR",
+   "name": "Clean Earth Acquisitions Corp. - Right",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "CLINR"
+  },
+  {
+   "symbol": "DISAW",
+   "name": "Disruptive Acquisition Corporation I - Warrant",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "DISAW"
+  },
+  {
+   "symbol": "LVOXU",
+   "name": "LiveVox Holdings, Inc. - Unit",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "LVOXU"
+  },
+  {
+   "symbol": "BRLIU",
+   "name": "Brilliant Acquisition Corporation - Unit",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "BRLIU"
+  },
+  {
+   "symbol": "CLINW",
+   "name": "Clean Earth Acquisitions Corp. - Warrant",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "CLINW"
+  },
+  {
+   "symbol": "BRLI",
+   "name": "Brilliant Acquisition Corporation - Ordinary Shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "BRLI"
+  },
+  {
+   "symbol": "BRLIR",
+   "name": "Brilliant Acquisition Corporation - Rights",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "BRLIR"
+  },
+  {
+   "symbol": "CLIN",
+   "name": "Clean Earth Acquisitions Corp. - Class A Common Stock",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "CLIN"
+  },
+  {
+   "symbol": "DISA",
+   "name": "Disruptive Acquisition Corporation I - Class A Ordinary Shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "DISA"
+  },
+  {
+   "symbol": "LVOX",
+   "name": "LiveVox Holdings, Inc. - Class A Common Stock",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "LVOX"
+  }
+ ]
+}
