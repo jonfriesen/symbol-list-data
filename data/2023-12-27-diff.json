@@ -1,0 +1,72 @@
+{
+ "added": [
+  {
+   "symbol": "JOAN",
+   "name": "JOANN, Inc. - common stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "JOAN"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "JAQC",
+   "name": "Jupiter Acquisition Corporation - Common stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "JAQC"
+  },
+  {
+   "symbol": "ENERU",
+   "name": "Accretion Acquisition Corp. - Unit",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "ENERU"
+  },
+  {
+   "symbol": "JAQCU",
+   "name": "Jupiter Acquisition Corporation - Units",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "JAQCU"
+  },
+  {
+   "symbol": "JAQCW",
+   "name": "Jupiter Acquisition Corporation - Warrants",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "JAQCW"
+  },
+  {
+   "symbol": "ENER",
+   "name": "Accretion Acquisition Corp. - Common Stock",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "ENER"
+  },
+  {
+   "symbol": "AMRX",
+   "name": "Amneal Pharmaceuticals, Inc. Class A Common Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "AMRX"
+  },
+  {
+   "symbol": "ENERR",
+   "name": "Accretion Acquisition Corp. - Right",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "ENERR"
+  },
+  {
+   "symbol": "ID",
+   "name": "PARTS iD, Inc. Class A Common Stock",
+   "exchange": "NYSE MKT",
+   "yahoo_symbol": "ID"
+  },
+  {
+   "symbol": "JOAN",
+   "name": "JOANN, Inc. - common stock",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "JOAN"
+  },
+  {
+   "symbol": "ENERW",
+   "name": "Accretion Acquisition Corp. - Warrant",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "ENERW"
+  }
+ ]
+}
