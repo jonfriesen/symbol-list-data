@@ -1,0 +1,79 @@
+{
+ "added": [
+  {
+   "symbol": "XIDR",
+   "name": "XIDR (XIDR)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "sols",
+   "name": "SOLS (sols)"
+  },
+  {
+   "symbol": "Glo Dollar",
+   "name": "USDGLO (USDGLO)"
+  },
+  {
+   "symbol": "SAITA",
+   "name": "SaitaChain (SAITA)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "G",
+   "name": "GRN Grid (G)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "MOONEY",
+   "name": "Moon DAO (MOONEY)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "JOY",
+   "name": "Joystream (JOY)"
+  },
+  {
+   "symbol": "DOGETH",
+   "name": "EtherDoge (DOGETH)"
+  },
+  {
+   "symbol": "BKN",
+   "name": "Brickken (BKN)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "VOLTOLD",
+   "name": "Volt Inu (Old) (VOLTOLD)"
+  },
+  {
+   "symbol": "BANK",
+   "name": "Float Protocol (BANK)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "JOYTOKEN",
+   "name": "Joycoin (JOYTOKEN)",
+   "built_on": "ETH"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "VOLTOLD",
+   "name": "Volt Inu (Old) (VOLTOLD)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "MOONEY",
+   "name": "Moon DAO (MOONEY)"
+  },
+  {
+   "symbol": "BKN",
+   "name": "Brickken (BKN)"
+  },
+  {
+   "symbol": "JOY",
+   "name": "Joycoin (JOY)",
+   "built_on": "ETH"
+  }
+ ]
+}

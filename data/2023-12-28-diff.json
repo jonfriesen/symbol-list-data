@@ -1,0 +1,108 @@
+{
+ "added": [
+  {
+   "symbol": "AMRX",
+   "name": "Amneal Pharmaceuticals, Inc. - Class A Common Stock",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "AMRX"
+  },
+  {
+   "symbol": "IROHU",
+   "name": "Iron Horse Acquisitions Corp. - Unit",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "IROHU"
+  },
+  {
+   "symbol": "FLYX",
+   "name": "flyExclusive, Inc. Class A Common Stock",
+   "exchange": "NYSE MKT",
+   "yahoo_symbol": "FLYX"
+  },
+  {
+   "symbol": "FLYX.W",
+   "name": "flyExclusive, Inc. Redeemable warrants, each whole warrant exercisable for one Class A common stock at an exercise price of $11.50 per share",
+   "exchange": "NYSE MKT",
+   "yahoo_symbol": "FLYX.W"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "EBIX",
+   "name": "Ebix, Inc. - Common Stock",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "EBIX"
+  },
+  {
+   "symbol": "EGGF",
+   "name": "EG Acquisition Corp. Class A Common Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "EGGF"
+  },
+  {
+   "symbol": "TMRR",
+   "name": "Tempus Resources Ltd.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "TMRR.V",
+   "instruments": [
+    {
+     "name": "Tempus Resources Ltd.",
+     "symbol": "TMRR"
+    }
+   ]
+  },
+  {
+   "symbol": "EGGF.U",
+   "name": "EG Acquisition Corp. Units, each consisting of one share of Class A common stock and one-third of one redeemable warrant",
+   "exchange": "NYSE",
+   "yahoo_symbol": "EGGF.U"
+  },
+  {
+   "symbol": "PNT",
+   "name": "POINT Biopharma Global Inc.  - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "PNT"
+  },
+  {
+   "symbol": "OHAA",
+   "name": "OPY Acquisition Corp. I - Class A Common Stock",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "OHAA"
+  },
+  {
+   "symbol": "OHAAU",
+   "name": "OPY Acquisition Corp. I - Units",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "OHAAU"
+  },
+  {
+   "symbol": "OHAAW",
+   "name": "OPY Acquisition Corp. I - Warrant",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "OHAAW"
+  },
+  {
+   "symbol": "EGGF.W",
+   "name": "EG Acquisition Corp. Redeemable warrants, each whole warrant exercisable for one Class A common stock at an exercise price of $11.50 per share",
+   "exchange": "NYSE",
+   "yahoo_symbol": "EGGF.W"
+  },
+  {
+   "symbol": "ATAKW",
+   "name": "Aurora Technology Acquisition Corp. - Warrants",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "ATAKW"
+  },
+  {
+   "symbol": "HHRS",
+   "name": "Hammerhead Energy Inc.",
+   "exchange": "TSX",
+   "yahoo_symbol": "HHRS.TO",
+   "instruments": [
+    {
+     "name": "Hammerhead Engy A",
+     "symbol": "HHRS"
+    }
+   ]
+  }
+ ]
+}
