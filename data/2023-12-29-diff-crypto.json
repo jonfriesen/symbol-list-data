@@ -1,0 +1,46 @@
+{
+ "added": [
+  {
+   "symbol": "DOGETH",
+   "name": "EtherDoge (DOGETH)"
+  },
+  {
+   "symbol": "GCAKE",
+   "name": "Pancake Games (GCAKE)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "HZN",
+   "name": "Horizon Protocol (HZN)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "BANKETH",
+   "name": "BankEth (BANKETH)"
+  },
+  {
+   "symbol": "G",
+   "name": "GRN Grid (G)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "WIF",
+   "name": "dogwifhat (WIF)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "OMV1",
+   "name": "OM Token (v1) (OMV1)"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "GCAKE",
+   "name": "Pancake Games (GCAKE)"
+  },
+  {
+   "symbol": "HZN",
+   "name": "Horizon Protocol (HZN)"
+  }
+ ]
+}

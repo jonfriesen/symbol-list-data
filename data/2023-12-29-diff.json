@@ -1,0 +1,90 @@
+{
+ "added": [
+  {
+   "symbol": "NBBK",
+   "name": "NB Bancorp, Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "NBBK"
+  },
+  {
+   "symbol": "PROP",
+   "name": "Prairie Operating Co. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "PROP"
+  },
+  {
+   "symbol": "ZCAR",
+   "name": "Zoomcar Holdings, Inc. - Common Stock",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "ZCAR"
+  },
+  {
+   "symbol": "ZCARW",
+   "name": "Zoomcar Holdings, Inc. - Warrants",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "ZCARW"
+  },
+  {
+   "symbol": "ZZZ",
+   "name": "Cyber Hornet S\u0026P 500 and Bitcoin 75/25 Strategy ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "ZZZ"
+  },
+  {
+   "symbol": "ELPC",
+   "name": "Companhia Paranaense de Energia (COPEL) American Depositary Shares (each representing four (4) Common Shares)",
+   "exchange": "NYSE",
+   "yahoo_symbol": "ELPC"
+  },
+  {
+   "symbol": "DRY",
+   "name": "Dryden Gold Corp.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "DRY.V",
+   "instruments": [
+    {
+     "name": "Dryden Gold Corp.",
+     "symbol": "DRY"
+    }
+   ]
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "NETI",
+   "name": "Eneti Inc. Common Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "NETI"
+  },
+  {
+   "symbol": "IOACU",
+   "name": "Innovative International Acquisition Corp. - Unit",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "IOACU"
+  },
+  {
+   "symbol": "AMTI",
+   "name": "Applied Molecular Transport Inc. - common stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "AMTI"
+  },
+  {
+   "symbol": "IOAC",
+   "name": "Innovative International Acquisition Corp. - Class A Ordinary Shares",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "IOAC"
+  },
+  {
+   "symbol": "UTRS",
+   "name": "Minerva Surgical, Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "UTRS"
+  },
+  {
+   "symbol": "IOACW",
+   "name": "Innovative International Acquisition Corp. - Warrants",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "IOACW"
+  }
+ ]
+}
