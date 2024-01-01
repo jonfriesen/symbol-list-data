@@ -1,0 +1,50 @@
+{
+ "added": [
+  {
+   "symbol": "LP",
+   "name": "Liquid Protocol (LP)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "BPRIVA",
+   "name": "Privapp Network (BPRIVA)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "GETH",
+   "name": "Guarded Ether (GETH)"
+  },
+  {
+   "symbol": "BANKETH",
+   "name": "BankEth (BANKETH)"
+  },
+  {
+   "symbol": "LEOX",
+   "name": "Galileo (LEOX)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "DOGETH",
+   "name": "EtherDoge (DOGETH)"
+  },
+  {
+   "symbol": "INVI",
+   "name": "INVI Token (INVI)",
+   "built_on": "ETH"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "INVI",
+   "name": "INVI Token (INVI)"
+  },
+  {
+   "symbol": "LEOX",
+   "name": "Galileo (LEOX)"
+  },
+  {
+   "symbol": "BPRIVA",
+   "name": "Privapp Network (BPRIVA)"
+  }
+ ]
+}

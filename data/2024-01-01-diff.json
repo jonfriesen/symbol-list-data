@@ -1,0 +1,16 @@
+{
+ "added": [
+  {
+   "symbol": "BAYA",
+   "name": "Bayview Acquisition Corp - Class A Ordinary Share",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "BAYA"
+  },
+  {
+   "symbol": "BAYAR",
+   "name": "Bayview Acquisition Corp - Right",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "BAYAR"
+  }
+ ]
+}
