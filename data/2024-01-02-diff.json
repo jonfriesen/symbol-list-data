@@ -1,0 +1,90 @@
+{
+ "added": [
+  {
+   "symbol": "KIM$N",
+   "name": "Kimco Realty Corporation Depositary Shares, each representing 1/1,000th interest in a share of 7.25% Class N Cumulative Convertible Perpetual Preferred Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "KIM$N"
+  },
+  {
+   "symbol": "PNST",
+   "name": "Pinstripes Holdings, Inc. Class A Common Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "PNST"
+  },
+  {
+   "symbol": "PNST.W",
+   "name": "Pinstripes Holdings, Inc. Warrants, each whole warrant exercisable for one share of Class A common stock at an exercise price of $11.50 per share",
+   "exchange": "NYSE",
+   "yahoo_symbol": "PNST.W"
+  },
+  {
+   "symbol": "SABA",
+   "name": "Saba Capital Income \u0026 Opportunities Fund II Shares of Beneficial Interest",
+   "exchange": "NYSE",
+   "yahoo_symbol": "SABA"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "BYN",
+   "name": "Banyan Acquisition Corporation Class A Common Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "BYN"
+  },
+  {
+   "symbol": "BYN.U",
+   "name": "Banyan Acquisition Corporation Units, each consisting of one share of Class A common stock, and one-half of one redeemable warrant",
+   "exchange": "NYSE",
+   "yahoo_symbol": "BYN.U"
+  },
+  {
+   "symbol": "NMK$B",
+   "name": "Niagara Mohawk Holdings, Inc. Preferred Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "NMK$B"
+  },
+  {
+   "symbol": "RPT$D",
+   "name": "RPT Realty 7.25% ",
+   "exchange": "NYSE",
+   "yahoo_symbol": "RPT$D"
+  },
+  {
+   "symbol": "NMK$C",
+   "name": "Niagara Mohawk Holdings, Inc. Preferred Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "NMK$C"
+  },
+  {
+   "symbol": "RPT",
+   "name": "RPT Realty Common Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "RPT"
+  },
+  {
+   "symbol": "EU",
+   "name": "enCore Energy Corp. Common Shares",
+   "exchange": "NYSE MKT",
+   "yahoo_symbol": "EU"
+  },
+  {
+   "symbol": "DISH",
+   "name": "DISH Network Corporation - Class A Common Stock",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "DISH"
+  },
+  {
+   "symbol": "BYN.W",
+   "name": "Banyan Acquisition Corporation Warrants, each whole warrant exercisable for one share of Class A common stock at an exercise price of $11.50 per share",
+   "exchange": "NYSE",
+   "yahoo_symbol": "BYN.W"
+  },
+  {
+   "symbol": "GIM",
+   "name": "Templeton Global Income Fund, Inc. Common Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "GIM"
+  }
+ ]
+}
