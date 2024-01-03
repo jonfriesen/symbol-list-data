@@ -1,0 +1,42 @@
+{
+ "added": [
+  {
+   "symbol": "AITR",
+   "name": "AI TRANSPORTATION ACQUISITION CORP - Ordinary shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "AITR"
+  },
+  {
+   "symbol": "AITRR",
+   "name": "AI TRANSPORTATION ACQUISITION CORP - Right",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "AITRR"
+  },
+  {
+   "symbol": "EU",
+   "name": "enCore Energy Corp. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "EU"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "ADEX.W",
+   "name": "Adit EdTech Acquisition Corp. Redeemable Warrants, each whole warrant exercisable for shares of common stock at an exercise price of $11.50 per share",
+   "exchange": "NYSE MKT",
+   "yahoo_symbol": "ADEX.W"
+  },
+  {
+   "symbol": "ADEX.U",
+   "name": "Adit EdTech Acquisition Corp. Units, each consisting of one share of common stock, and one-half of one redeemable warrant",
+   "exchange": "NYSE MKT",
+   "yahoo_symbol": "ADEX.U"
+  },
+  {
+   "symbol": "ADEX",
+   "name": "Adit EdTech Acquisition Corp. Common Stock",
+   "exchange": "NYSE MKT",
+   "yahoo_symbol": "ADEX"
+  }
+ ]
+}
