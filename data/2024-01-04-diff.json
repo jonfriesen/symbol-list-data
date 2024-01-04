@@ -1,0 +1,54 @@
+{
+ "added": [
+  {
+   "symbol": "ANSC",
+   "name": "Agriculture \u0026 Natural Solutions Acquisition Corporation - Class A Ordinary Shares",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "ANSC"
+  },
+  {
+   "symbol": "ANSCW",
+   "name": "Agriculture \u0026 Natural Solutions Acquisition Corporation - Warrant",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "ANSCW"
+  },
+  {
+   "symbol": "ALTM",
+   "name": "Arcadium Lithium plc Ordinary Shares",
+   "exchange": "NYSE",
+   "yahoo_symbol": "ALTM"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "MAW",
+   "name": "Mawson Gold Limited",
+   "exchange": "TSX",
+   "yahoo_symbol": "MAW.TO",
+   "instruments": [
+    {
+     "name": "Mawson Gold Ltd. J",
+     "symbol": "MAW"
+    }
+   ]
+  },
+  {
+   "symbol": "LTHM",
+   "name": "Livent Corporation Common Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "LTHM"
+  },
+  {
+   "symbol": "MPLN.W",
+   "name": "MultiPlan Corporation Warrants",
+   "exchange": "NYSE",
+   "yahoo_symbol": "MPLN.W"
+  },
+  {
+   "symbol": "MRT.W",
+   "name": "Marti Technologies, Inc. Warrants, each whole warrant exercisable for one class A ordinary share at an exercise price of $11.50",
+   "exchange": "NYSE MKT",
+   "yahoo_symbol": "MRT.W"
+  }
+ ]
+}
