@@ -1,0 +1,66 @@
+{
+ "added": [
+  {
+   "symbol": "AOCC.P",
+   "name": "Artrari One Capital Corp.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "AOCC.P.V",
+   "instruments": [
+    {
+     "name": "Artrari One Capital Corp.",
+     "symbol": "AOCC.P"
+    }
+   ]
+  },
+  {
+   "symbol": "MAW",
+   "name": "Mawson Gold Limited",
+   "exchange": "TSXV",
+   "yahoo_symbol": "MAW.V",
+   "instruments": [
+    {
+     "name": "Mawson Gold Limited",
+     "symbol": "MAW"
+    }
+   ]
+  },
+  {
+   "symbol": "SAVAW",
+   "name": "Cassava Sciences, Inc. - Warrant",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "SAVAW"
+  },
+  {
+   "symbol": "SKRE",
+   "name": "Tuttle Capital Daily 2X Inverse Regional Banks ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "SKRE"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "SRT",
+   "name": "StarTek, Inc. Common Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "SRT"
+  },
+  {
+   "symbol": "HALL",
+   "name": "Hallmark Financial Services, Inc. - Common Stock",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "HALL"
+  },
+  {
+   "symbol": "NMRD",
+   "name": "Nemaura Medical Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "NMRD"
+  },
+  {
+   "symbol": "CHS",
+   "name": "Chico's FAS, Inc. Common Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "CHS"
+  }
+ ]
+}

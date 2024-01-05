@@ -1,0 +1,73 @@
+{
+ "added": [
+  {
+   "symbol": "MYTH",
+   "name": "Mythos (MYTH)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "MNFT",
+   "name": "Mongol NFT (MNFT)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "AKTIO",
+   "name": "AKTIO Coin (AKTIO)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "BANKETH",
+   "name": "BankEth (BANKETH)"
+  },
+  {
+   "symbol": "1CAT",
+   "name": "Bitcoin Cats (1CAT)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "MNFTS",
+   "name": "Marvelous NFTs (MNFTS)",
+   "built_on": "MATIC"
+  },
+  {
+   "symbol": "G",
+   "name": "GRN Grid (G)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "MEOW",
+   "name": "Zero Tech (MEOW)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "VANRY",
+   "name": "Vanar Chain (VANRY)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "DOG",
+   "name": "The Doge NFT (DOG)",
+   "built_on": "ETH"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "MNFT",
+   "name": "Marvelous NFTs (MNFT)",
+   "built_on": "MATIC"
+  },
+  {
+   "symbol": "AKTIO",
+   "name": "AKTIO Coin (AKTIO)"
+  },
+  {
+   "symbol": "ZERO",
+   "name": "Zero Tech (ZERO)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "MYTH",
+   "name": "Mythos (MYTH)"
+  }
+ ]
+}
