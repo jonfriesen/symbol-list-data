@@ -1,0 +1,96 @@
+{
+ "added": [
+  {
+   "symbol": "VOC.P",
+   "name": "Victory Opportunities 1 Corp.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "VOC.P.V",
+   "instruments": [
+    {
+     "name": "Victory Opportunities 1 Corp.",
+     "symbol": "VOC.P"
+    }
+   ]
+  },
+  {
+   "symbol": "SMX",
+   "name": "SMX (Security Matters) Public Limited Company - Class A Ordinary Shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "SMX"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "SMX",
+   "name": "SMX (Security Matters) Public Limited Company - Class A Ordinary Shares",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "SMX"
+  },
+  {
+   "symbol": "AKE",
+   "name": "Allkem Limited",
+   "exchange": "TSX",
+   "yahoo_symbol": "AKE.TO",
+   "instruments": [
+    {
+     "name": "Allkem Limited Ord J",
+     "symbol": "AKE"
+    }
+   ]
+  },
+  {
+   "symbol": "TDSE",
+   "name": "Cabana Target Drawdown 16 ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "TDSE"
+  },
+  {
+   "symbol": "SLGCW",
+   "name": "SomaLogic, Inc. - Warrant",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "SLGCW"
+  },
+  {
+   "symbol": "VST.A",
+   "name": "Vistra Corp. Warrants to purchase Common Stock (Expirig February 2, 2024)",
+   "exchange": "NYSE",
+   "yahoo_symbol": "VST.A"
+  },
+  {
+   "symbol": "SLGC",
+   "name": "SomaLogic, Inc. - Class A Common Stock",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "SLGC"
+  },
+  {
+   "symbol": "CLSA",
+   "name": "Cabana Target Leading Sector Aggressive ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "CLSA"
+  },
+  {
+   "symbol": "TDSD",
+   "name": "Cabana Target Drawdown 13 ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "TDSD"
+  },
+  {
+   "symbol": "CLSC",
+   "name": "Cabana Target Leading Sector Conservative ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "CLSC"
+  },
+  {
+   "symbol": "AAIN",
+   "name": "Arlington Asset Investment Corp 6.000% Senior Notes Due 2026",
+   "exchange": "NYSE",
+   "yahoo_symbol": "AAIN"
+  },
+  {
+   "symbol": "AIC",
+   "name": "Arlington Asset Investment Corp 6.750% Notes due 2025",
+   "exchange": "NYSE",
+   "yahoo_symbol": "AIC"
+  }
+ ]
+}

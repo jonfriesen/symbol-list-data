@@ -1,0 +1,47 @@
+{
+ "added": [
+  {
+   "symbol": "KYVE",
+   "name": "KYVE Network (KYVE)"
+  },
+  {
+   "symbol": "NSDX",
+   "name": "NASDEX (NSDX)",
+   "built_on": "MATIC"
+  },
+  {
+   "symbol": "BANK",
+   "name": "Float Protocol (BANK)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "ZKF",
+   "name": "ZKFair (ZKF)"
+  },
+  {
+   "symbol": "DOG",
+   "name": "The Doge NFT (DOG)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "G",
+   "name": "GRN Grid (G)",
+   "built_on": "ETH"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "NSDX",
+   "name": "NASDEX (NSDX)"
+  },
+  {
+   "symbol": "BTN",
+   "name": "Bittron (BTN)"
+  },
+  {
+   "symbol": "BTNT",
+   "name": "BitNautic (BTNT)",
+   "built_on": "ETH"
+  }
+ ]
+}
