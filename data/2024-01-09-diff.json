@@ -1,0 +1,126 @@
+{
+ "added": [
+  {
+   "symbol": "NTX",
+   "name": "NeoTerrex Minerals Inc.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "NTX.V",
+   "instruments": [
+    {
+     "name": "NeoTerrex Minerals Inc.",
+     "symbol": "NTX"
+    }
+   ]
+  },
+  {
+   "symbol": "OAC.P",
+   "name": "Oa Capital Corp.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "OAC.P.V",
+   "instruments": [
+    {
+     "name": "Oa Capital Corp.",
+     "symbol": "OAC.P"
+    }
+   ]
+  },
+  {
+   "symbol": "HWH",
+   "name": "HWH International Inc. - Common Stock",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "HWH"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "ACAXR",
+   "name": "Alset Capital Acquisition Corp. - Right",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "ACAXR"
+  },
+  {
+   "symbol": "LMDX",
+   "name": "LumiraDx Limited - Common stock",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "LMDX"
+  },
+  {
+   "symbol": "STXG",
+   "name": "Strive 1000 Growth ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "STXG"
+  },
+  {
+   "symbol": "STXV",
+   "name": "Strive 1000 Value ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "STXV"
+  },
+  {
+   "symbol": "ACAXU",
+   "name": "Alset Capital Acquisition Corp. - Unit",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "ACAXU"
+  },
+  {
+   "symbol": "ACAX",
+   "name": "Alset Capital Acquisition Corp. - Class A Common Stock",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "ACAX"
+  },
+  {
+   "symbol": "STXD",
+   "name": "Strive 1000 Dividend Growth ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "STXD"
+  },
+  {
+   "symbol": "EOX",
+   "name": "Euromax Resources Ltd.",
+   "exchange": "TSX",
+   "yahoo_symbol": "EOX.TO",
+   "instruments": [
+    {
+     "name": "Euromax Resources J",
+     "symbol": "EOX"
+    }
+   ]
+  },
+  {
+   "symbol": "STXK",
+   "name": "Strive Small-Cap ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "STXK"
+  },
+  {
+   "symbol": "RGS",
+   "name": "Regis Corporation Common Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "RGS"
+  },
+  {
+   "symbol": "ACAXW",
+   "name": "Alset Capital Acquisition Corp. - Warrant",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "ACAXW"
+  },
+  {
+   "symbol": "LMDXW",
+   "name": "LumiraDx Limited - Warrant",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "LMDXW"
+  },
+  {
+   "symbol": "FYRE.P",
+   "name": "Spitfyre Capital Inc.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "FYRE.P.V",
+   "instruments": [
+    {
+     "name": "Spitfyre Capital Inc.",
+     "symbol": "FYRE.P"
+    }
+   ]
+  }
+ ]
+}

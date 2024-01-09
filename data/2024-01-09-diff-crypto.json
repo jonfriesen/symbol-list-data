@@ -1,0 +1,73 @@
+{
+ "added": [
+  {
+   "symbol": "DCB",
+   "name": "Decubate (DCB)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "SOLR",
+   "name": "SolRazr (SOLR)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "MJT",
+   "name": "MojitoSwap (MJT)",
+   "built_on": "KCS"
+  },
+  {
+   "symbol": "WZRD",
+   "name": "Wizardia (WZRD)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "BTT",
+   "name": "BitTorrent (BTT)"
+  },
+  {
+   "symbol": "ZOON",
+   "name": "CryptoZoon (ZOON)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "DOGETH",
+   "name": "EtherDoge (DOGETH)"
+  },
+  {
+   "symbol": "GETH",
+   "name": "Guarded Ether (GETH)"
+  },
+  {
+   "symbol": "BANK",
+   "name": "Float Protocol (BANK)",
+   "built_on": "ETH"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "WZRD",
+   "name": "Wizardia (WZRD)"
+  },
+  {
+   "symbol": "SOLR",
+   "name": "SolRazr (SOLR)"
+  },
+  {
+   "symbol": "MJT",
+   "name": "MojitoSwap (MJT)"
+  },
+  {
+   "symbol": "ZOON",
+   "name": "CryptoZoon (ZOON)"
+  },
+  {
+   "symbol": "BTT",
+   "name": "BitTorrent (BTT)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "DCB",
+   "name": "Decubate (DCB)"
+  }
+ ]
+}
