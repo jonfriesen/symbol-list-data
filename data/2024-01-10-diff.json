@@ -1,0 +1,84 @@
+{
+ "added": [
+  {
+   "symbol": "EOX",
+   "name": "Euromax Resources Ltd.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "EOX.V",
+   "instruments": [
+    {
+     "name": "Euromax Resources Ltd.",
+     "symbol": "EOX"
+    }
+   ]
+  },
+  {
+   "symbol": "NEXN",
+   "name": "Nexxen International Ltd. - American Depository Shares",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "NEXN"
+  },
+  {
+   "symbol": "RGS",
+   "name": "Regis Corporation - Common Stock",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "RGS"
+  },
+  {
+   "symbol": "ROMA",
+   "name": "Roma Green Finance Limited - Ordinary Shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "ROMA"
+  },
+  {
+   "symbol": "TCTM",
+   "name": "Tarena International, Inc. - American Depositary Shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "TCTM"
+  },
+  {
+   "symbol": "TLPH",
+   "name": "Talphera, Inc. - Common Stock",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "TLPH"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "TRMR",
+   "name": "Tremor International Ltd. - American Depository Shares",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "TRMR"
+  },
+  {
+   "symbol": "TEDU",
+   "name": "Tarena International, Inc. - American Depositary Shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "TEDU"
+  },
+  {
+   "symbol": "GPP",
+   "name": "Green Plains Partners LP - Common Units",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "GPP"
+  },
+  {
+   "symbol": "CSX",
+   "name": "Clean Seed Capital Group Ltd.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "CSX.V",
+   "instruments": [
+    {
+     "name": "Clean Seed Capital Group Ltd.",
+     "symbol": "CSX"
+    }
+   ]
+  },
+  {
+   "symbol": "ACRX",
+   "name": "AcelRx Pharmaceuticals, Inc. - Common Stock",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "ACRX"
+  }
+ ]
+}

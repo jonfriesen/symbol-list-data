@@ -1,0 +1,48 @@
+{
+ "added": [
+  {
+   "symbol": "G",
+   "name": "GRN Grid (G)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "DOG",
+   "name": "The Doge NFT (DOG)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "NUNET",
+   "name": "NuNet (NUNET)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "SEOR",
+   "name": "SEOR Network (SEOR)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "UBXS",
+   "name": "UBXS (UBXS)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "BANK",
+   "name": "Float Protocol (BANK)",
+   "built_on": "ETH"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "UBXS",
+   "name": "UBXS (UBXS)"
+  },
+  {
+   "symbol": "NUNET",
+   "name": "NuNet (NUNET)"
+  },
+  {
+   "symbol": "SEOR",
+   "name": "SEOR Network (SEOR)"
+  }
+ ]
+}
