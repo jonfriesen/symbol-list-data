@@ -1,0 +1,73 @@
+{
+ "added": [
+  {
+   "symbol": "SideShift Token",
+   "name": "SIDESHIFT (SIDESHIFT)"
+  },
+  {
+   "symbol": "MYTHTOKEN",
+   "name": "Myth Token (MYTHTOKEN)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "DOMI",
+   "name": "Domi (DOMI)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "XAI",
+   "name": "Xai (XAI)",
+   "built_on": "ARB"
+  },
+  {
+   "symbol": "DOG",
+   "name": "The Doge NFT (DOG)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "G",
+   "name": "GRN Grid (G)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "ZGD",
+   "name": "ZambesiGold (ZGD)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "ALEXANDRITE",
+   "name": "Alexandrite (ALEXANDRITE)"
+  },
+  {
+   "symbol": "WBTCWXG",
+   "name": "WBTC-WXG (WBTCWXG)",
+   "built_on": "WAVES"
+  },
+  {
+   "symbol": "BANKETH",
+   "name": "BankEth (BANKETH)"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "XAI",
+   "name": "SideShift Token (XAI)"
+  },
+  {
+   "symbol": "MYTHT",
+   "name": "Myth Token (MYTHT)"
+  },
+  {
+   "symbol": "ZGD",
+   "name": "ZambesiGold (ZGD)"
+  },
+  {
+   "symbol": "ALEX",
+   "name": "Alexandrite (ALEX)"
+  },
+  {
+   "symbol": "DOMI",
+   "name": "Domi (DOMI)"
+  }
+ ]
+}
