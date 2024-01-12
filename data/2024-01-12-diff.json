@@ -1,0 +1,76 @@
+{
+ "added": [
+  {
+   "symbol": "ARL",
+   "name": "Aurum Lake Mining Corporation",
+   "exchange": "TSXV",
+   "yahoo_symbol": "ARL.V",
+   "instruments": [
+    {
+     "name": "Aurum Lake Mining Corporation",
+     "symbol": "ARL"
+    }
+   ]
+  },
+  {
+   "symbol": "BRRR",
+   "name": "Valkyrie Bitcoin Fund",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "BRRR"
+  },
+  {
+   "symbol": "IBIT",
+   "name": "iShares Bitcoin Trust - iShares Bitcoin Trust",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "IBIT"
+  },
+  {
+   "symbol": "MCHS",
+   "name": "Matthews China Discovery Active ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "MCHS"
+  },
+  {
+   "symbol": "MEMS",
+   "name": "Matthews Emerging Markets Discovery Active ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "MEMS"
+  },
+  {
+   "symbol": "SYNX",
+   "name": "Silynxcom Ltd. Ordinary Shares",
+   "exchange": "NYSE MKT",
+   "yahoo_symbol": "SYNX"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "ARL.P",
+   "name": "Aurum Lake Mining Corporation",
+   "exchange": "TSXV",
+   "yahoo_symbol": "ARL.P.V",
+   "instruments": [
+    {
+     "name": "Aurum Lake Mining Corporation",
+     "symbol": "ARL.P"
+    }
+   ]
+  },
+  {
+   "symbol": "BBTV",
+   "name": "BBTV Holdings Inc.",
+   "exchange": "TSX",
+   "yahoo_symbol": "BBTV.TO",
+   "instruments": [
+    {
+     "name": "BBTV Hldgs Inc J SV",
+     "symbol": "BBTV"
+    },
+    {
+     "name": "BBTV Hldgs Inc J Deb",
+     "symbol": "BBTV.DB"
+    }
+   ]
+  }
+ ]
+}

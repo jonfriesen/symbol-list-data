@@ -1,0 +1,60 @@
+{
+ "added": [
+  {
+   "symbol": "ALEX",
+   "name": "ALEX Lab (ALEX)",
+   "built_on": "STX"
+  },
+  {
+   "symbol": "DOGETH",
+   "name": "EtherDoge (DOGETH)"
+  },
+  {
+   "symbol": "TURBOS",
+   "name": "Turbos Finance (TURBOS)",
+   "built_on": "SUI"
+  },
+  {
+   "symbol": "BANK",
+   "name": "Float Protocol (BANK)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "BIOFI",
+   "name": "Biometric Financial (BIOFI)",
+   "built_on": "AVAX"
+  },
+  {
+   "symbol": "ROUP",
+   "name": "Roup (Ordinals) (ROUP)"
+  },
+  {
+   "symbol": "GETH",
+   "name": "Guarded Ether (GETH)"
+  },
+  {
+   "symbol": "SIDESHIFT",
+   "name": "SideShift Token (SIDESHIFT)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "PSB",
+   "name": "Planet Sandbox (PSB)",
+   "built_on": "BNB"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "SideShift Token",
+   "name": "SIDESHIFT (SIDESHIFT)"
+  },
+  {
+   "symbol": "BIOFI",
+   "name": "Biometric Financial (BIOFI)"
+  },
+  {
+   "symbol": "PSB",
+   "name": "Planet Sandbox (PSB)"
+  }
+ ]
+}
