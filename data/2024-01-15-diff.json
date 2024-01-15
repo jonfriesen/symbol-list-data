@@ -1,0 +1,30 @@
+{
+ "added": [
+  {
+   "symbol": "LOG.P",
+   "name": "Logica Ventures Corp.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "LOG.P.V",
+   "instruments": [
+    {
+     "name": "Logica Ventures Corp.",
+     "symbol": "LOG.P"
+    }
+   ]
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "HFT",
+   "name": "Hamilton Financials Innovation ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "HFT.TO",
+   "instruments": [
+    {
+     "name": "Hamilton Fin Innov ",
+     "symbol": "HFT"
+    }
+   ]
+  }
+ ]
+}
