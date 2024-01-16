@@ -1,0 +1,150 @@
+{
+ "added": [
+  {
+   "symbol": "CMOM",
+   "name": "CI U.S. Enhanced Momentum Index ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "CMOM.TO",
+   "instruments": [
+    {
+     "name": "CI US EnhncMomntm Hg",
+     "symbol": "CMOM"
+    },
+    {
+     "name": "CI US EnhncMomntm UH",
+     "symbol": "CMOM.B"
+    }
+   ]
+  },
+  {
+   "symbol": "CVLU",
+   "name": "CI U.S. Enhanced Value Index ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "CVLU.TO",
+   "instruments": [
+    {
+     "name": "CI US Enhanc Val Heg",
+     "symbol": "CVLU"
+    },
+    {
+     "name": "CI US EnhancVal UnHg",
+     "symbol": "CVLU.B"
+    }
+   ]
+  },
+  {
+   "symbol": "TBIL",
+   "name": "Harvest Canadian T-Bill ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "TBIL.TO",
+   "instruments": [
+    {
+     "name": "Harvest Cdn T-Bill",
+     "symbol": "TBIL"
+    }
+   ]
+  },
+  {
+   "symbol": "HPYM",
+   "name": "Harvest Premium Yield 7-10 Year Treasury ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "HPYM.TO",
+   "instruments": [
+    {
+     "name": "Harvst PremYld7-10Yr",
+     "symbol": "HPYM"
+    },
+    {
+     "name": "Harvst PremYld7-10US",
+     "symbol": "HPYM.U"
+    }
+   ]
+  },
+  {
+   "symbol": "GTAC",
+   "name": "Global Technology Acquisition Corp. I - Class A Ordinary Shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "GTAC"
+  },
+  {
+   "symbol": "GTACU",
+   "name": "Global Technology Acquisition Corp. I - Unit",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "GTACU"
+  },
+  {
+   "symbol": "GTACW",
+   "name": "Global Technology Acquisition Corp. I - Warrant",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "GTACW"
+  },
+  {
+   "symbol": "HOVR",
+   "name": "New Horizon Aircraft Ltd. - Class A Ordinary Shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "HOVR"
+  },
+  {
+   "symbol": "HOVRW",
+   "name": "New Horizon Aircraft Ltd. - Warrant",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "HOVRW"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "PTHRU",
+   "name": "Pono Capital Three, Inc. - Unit",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "PTHRU"
+  },
+  {
+   "symbol": "PTHR",
+   "name": "Pono Capital Three, Inc. - Class A Ordinary Shares",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "PTHR"
+  },
+  {
+   "symbol": "PTHRW",
+   "name": "Pono Capital Three, Inc. - Warrant",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "PTHRW"
+  },
+  {
+   "symbol": "CSTA",
+   "name": "Constellation Acquisition Corp I Class A Ordinary Shares",
+   "exchange": "NYSE",
+   "yahoo_symbol": "CSTA"
+  },
+  {
+   "symbol": "CSTA.U",
+   "name": "Constellation Acquisition Corp I Units, each consisting of one Class A ordinary share and one-third of one redeemable warrant",
+   "exchange": "NYSE",
+   "yahoo_symbol": "CSTA.U"
+  },
+  {
+   "symbol": "GTAC",
+   "name": "Global Technology Acquisition Corp. I - Class A Ordinary Shares",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "GTAC"
+  },
+  {
+   "symbol": "CSTA.W",
+   "name": "Constellation Acquisition Corp I Redeemable warrants, each whole warrant exercisable for one Class A ordinary share at an exercise price of $11.50",
+   "exchange": "NYSE",
+   "yahoo_symbol": "CSTA.W"
+  },
+  {
+   "symbol": "GTACW",
+   "name": "Global Technology Acquisition Corp. I - Warrant",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "GTACW"
+  },
+  {
+   "symbol": "GTACU",
+   "name": "Global Technology Acquisition Corp. I - Unit",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "GTACU"
+  }
+ ]
+}
