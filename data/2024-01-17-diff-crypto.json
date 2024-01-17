@@ -1,0 +1,60 @@
+{
+ "added": [
+  {
+   "symbol": "PERC",
+   "name": "Perion (PERC)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "MUSICOIN",
+   "name": "Musicoin (MUSICOIN)"
+  },
+  {
+   "symbol": "RSC",
+   "name": "ResearchCoin (RSC)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "G",
+   "name": "GRN Grid (G)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "BNSX",
+   "name": "Bitcoin Name Service System (BNSX)",
+   "built_on": "BTC"
+  },
+  {
+   "symbol": "BANK",
+   "name": "Float Protocol (BANK)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "MUSIC",
+   "name": "Gala Music (MUSIC)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "DOGETH",
+   "name": "EtherDoge (DOGETH)"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "BNSX",
+   "name": "Bitcoin Name Service System (BNSX)"
+  },
+  {
+   "symbol": "PERC",
+   "name": "Perion (PERC)"
+  },
+  {
+   "symbol": "RSC",
+   "name": "ResearchCoin (RSC)"
+  },
+  {
+   "symbol": "MUSIC",
+   "name": "Musicoin (MUSIC)"
+  }
+ ]
+}

@@ -1,0 +1,42 @@
+{
+ "added": [
+  {
+   "symbol": "GORV",
+   "name": "Lazydays Holdings, Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "GORV"
+  },
+  {
+   "symbol": "VRTS",
+   "name": "Virtus Investment Partners, Inc. Common Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "VRTS"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "LAZY",
+   "name": "Lazydays Holdings, Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "LAZY"
+  },
+  {
+   "symbol": "VRTS",
+   "name": "Virtus Investment Partners, Inc. - Common Stock",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "VRTS"
+  },
+  {
+   "symbol": "BVH",
+   "name": "Bluegreen Vacations Holding Corporation Class A Common Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "BVH"
+  },
+  {
+   "symbol": "ELIQ",
+   "name": "Electriq Power Holdings, Inc. Class A Common Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "ELIQ"
+  }
+ ]
+}
