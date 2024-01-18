@@ -1,0 +1,76 @@
+{
+ "added": [
+  {
+   "symbol": "UCSH.U",
+   "name": "Horizons USD High Interest Savings ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "UCSH.U.TO",
+   "instruments": [
+    {
+     "name": "Horizn USD HiIntSvUS",
+     "symbol": "UCSH.U"
+    }
+   ]
+  },
+  {
+   "symbol": "INAI",
+   "name": "Invesco Morningstar Global Next Gen AI Index ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "INAI.TO",
+   "instruments": [
+    {
+     "name": "Invesco MrnNxtGenAI",
+     "symbol": "INAI"
+    },
+    {
+     "name": "Invesco MrnNxGenAIHg",
+     "symbol": "INAI.F"
+    }
+   ]
+  },
+  {
+   "symbol": "IUFR.U",
+   "name": "Invesco US Treasury Floating Rate Note Index ETF (USD)",
+   "exchange": "TSX",
+   "yahoo_symbol": "IUFR.U.TO",
+   "instruments": [
+    {
+     "name": "Invesco USTreasNt US",
+     "symbol": "IUFR.U"
+    }
+   ]
+  },
+  {
+   "symbol": "AWIN",
+   "name": "AERWINS Technologies Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "AWIN"
+  },
+  {
+   "symbol": "OMIC",
+   "name": "Singular Genomics Systems, Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "OMIC"
+  },
+  {
+   "symbol": "PSBD",
+   "name": "Palmer Square Capital BDC Inc. Common Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "PSBD"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "OMIC",
+   "name": "Singular Genomics Systems, Inc. - Common Stock",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "OMIC"
+  },
+  {
+   "symbol": "AWIN",
+   "name": "AERWINS Technologies Inc. - Common Stock",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "AWIN"
+  }
+ ]
+}

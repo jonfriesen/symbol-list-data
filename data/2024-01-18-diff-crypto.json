@@ -1,0 +1,53 @@
+{
+ "added": [
+  {
+   "symbol": "BIDP",
+   "name": "BID Protocol (BIDP)",
+   "built_on": "BTC"
+  },
+  {
+   "symbol": "ETGM",
+   "name": "ETGM (ETGM)",
+   "built_on": "BTC"
+  },
+  {
+   "symbol": "DOG",
+   "name": "The Doge NFT (DOG)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "ATOR",
+   "name": "ATOR Protocol (ATOR)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "HON",
+   "name": "SoulSociety (HON)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "SATS",
+   "name": "SATS (Ordinals) (SATS)",
+   "built_on": "ORDI"
+  },
+  {
+   "symbol": "ISSP",
+   "name": "ISSP (ISSP)",
+   "built_on": "SUI"
+  },
+  {
+   "symbol": "GETH",
+   "name": "Guarded Ether (GETH)"
+  },
+  {
+   "symbol": "BANKETH",
+   "name": "BankEth (BANKETH)"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "SATS",
+   "name": "Satoshi (SATS)"
+  }
+ ]
+}
