@@ -1,0 +1,103 @@
+{
+ "added": [
+  {
+   "symbol": "L7",
+   "name": "L7 (L7)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "USTC",
+   "name": "TerraClassicUSD (USTC)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "LANDS",
+   "name": "Two Lands (LANDS)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "NTX",
+   "name": "NitroEX (NTX)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "BANKETH",
+   "name": "BankEth (BANKETH)"
+  },
+  {
+   "symbol": "AI",
+   "name": "AiDoge (AI)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "DOGETH",
+   "name": "EtherDoge (DOGETH)"
+  },
+  {
+   "symbol": "CIND",
+   "name": "Cindrum (CIND)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "MYRO",
+   "name": "Myro (MYRO)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "VTHO",
+   "name": "VeChainThor (VTHO)",
+   "built_on": "VET"
+  },
+  {
+   "symbol": "TERRA",
+   "name": "TERRABYTE AI (TERRA)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "GETH",
+   "name": "Guarded Ether (GETH)"
+  },
+  {
+   "symbol": "SSHIP",
+   "name": "SSHIP (SSHIP)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "BONKH",
+   "name": "BonkHoneyHNTMobileSOL (BONKH)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "MANTA",
+   "name": "Manta Network (MANTA)"
+  },
+  {
+   "symbol": "HIVEM",
+   "name": "Hivemapper (HIVEM)",
+   "built_on": "SOL"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "AI",
+   "name": "AiDoge (AI)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "VTHO",
+   "name": "VeChainThor (VTHO)"
+  },
+  {
+   "symbol": "NTX",
+   "name": "NitroEX (NTX)"
+  },
+  {
+   "symbol": "USTC",
+   "name": "TerraClassicUSD (USTC)"
+  },
+  {
+   "symbol": "CIND",
+   "name": "Cindrum (CIND)"
+  }
+ ]
+}

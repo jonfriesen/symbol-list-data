@@ -1,0 +1,108 @@
+{
+ "added": [
+  {
+   "symbol": "PWRO",
+   "name": "Power One Resources Corp.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "PWRO.V",
+   "instruments": [
+    {
+     "name": "Power One Resources Corp.",
+     "symbol": "PWRO"
+    }
+   ]
+  },
+  {
+   "symbol": "CCTG",
+   "name": "CCSC Technology International Holdings Limited - Ordinary Shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "CCTG"
+  },
+  {
+   "symbol": "GXAI",
+   "name": "Gaxos.ai Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "GXAI"
+  },
+  {
+   "symbol": "NRXP",
+   "name": "NRX Pharmaceuticals, Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "NRXP"
+  },
+  {
+   "symbol": "NRXPW",
+   "name": "NRX Pharmaceuticals, Inc. - Warrant",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "NRXPW"
+  },
+  {
+   "symbol": "SYRE",
+   "name": "Spyre Therapeutics, Inc. - Common Stock",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "SYRE"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "ATAKU",
+   "name": "Aurora Technology Acquisition Corp. - Unit",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "ATAKU"
+  },
+  {
+   "symbol": "NRXP",
+   "name": "NRX Pharmaceuticals, Inc. - Common Stock",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "NRXP"
+  },
+  {
+   "symbol": "ATAKR",
+   "name": "Aurora Technology Acquisition Corp. - Rights",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "ATAKR"
+  },
+  {
+   "symbol": "SYRE",
+   "name": "Spyre Therapeutics, Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "SYRE"
+  },
+  {
+   "symbol": "SALM",
+   "name": "Salem Media Group, Inc. - Class A Common Stock",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "SALM"
+  },
+  {
+   "symbol": "RHT",
+   "name": "Reliq Health Technologies Inc.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "RHT.V",
+   "instruments": [
+    {
+     "name": "Reliq Health Technologies Inc.",
+     "symbol": "RHT"
+    }
+   ]
+  },
+  {
+   "symbol": "NFTG",
+   "name": "The NFT Gaming Company, Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "NFTG"
+  },
+  {
+   "symbol": "ATAK",
+   "name": "Aurora Technology Acquisition Corp. - Class A Ordinary Shares",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "ATAK"
+  },
+  {
+   "symbol": "NRXPW",
+   "name": "NRX Pharmaceuticals, Inc. - Warrant",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "NRXPW"
+  }
+ ]
+}
