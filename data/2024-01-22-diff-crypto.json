@@ -1,0 +1,268 @@
+{
+ "added": [
+  {
+   "symbol": "CAVE",
+   "name": "Deepcave (CAVE)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "NIZA",
+   "name": "Niza Global (NIZA)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "GROKGROW",
+   "name": "GrokGrow (GROKGROW)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "LING",
+   "name": "Lingose (LING)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "TOSHI",
+   "name": "Toshi (TOSHI)",
+   "built_on": "BASECHAIN"
+  },
+  {
+   "symbol": "IBFN",
+   "name": "IBF Net (IBFN)",
+   "built_on": "MATIC"
+  },
+  {
+   "symbol": "NITROE",
+   "name": "NitroEX (NITROE)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "NEON",
+   "name": "Neon EVM (NEON)"
+  },
+  {
+   "symbol": "AIDOG",
+   "name": "AiDoge (AIDOG)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "ETFETH",
+   "name": "ETFETH (ETFETH)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "BANKETH",
+   "name": "BankEth (BANKETH)"
+  },
+  {
+   "symbol": "TET",
+   "name": "Tectum (TET)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "METACR",
+   "name": "Metacraft (METACR)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "WALK",
+   "name": "Walk Token (WALK)",
+   "built_on": "KLAY"
+  },
+  {
+   "symbol": "CPR",
+   "name": "Chiiper Chain (CPR)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "CAMEL",
+   "name": "The Camel (CAMEL)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "DOG",
+   "name": "The Doge NFT (DOG)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "SMARTO",
+   "name": "smARTOFGIVING (SMARTO)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "HARRYP",
+   "name": "HarryPotterObamaSonic10Inu (ERC20) (HARRYP)"
+  },
+  {
+   "symbol": "GROKFATHER",
+   "name": "Grok Father (GROKFATHER)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "GELATO",
+   "name": "Gelato (GELATO)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "ACE",
+   "name": "Fusionist (ACE)"
+  },
+  {
+   "symbol": "G",
+   "name": "GRN Grid (G)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "CAGA",
+   "name": "Crypto Asset Governance Alliance (CAGA)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "HPO",
+   "name": "Hippocrat (HPO)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "ADF",
+   "name": "Art de Finance (ADF)",
+   "built_on": "MATIC"
+  },
+  {
+   "symbol": "SHYTCOIN",
+   "name": "ShytCoin (SHYTCOIN)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "GFAL",
+   "name": "Games for a Living (GFAL)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "MODEL",
+   "name": "Model Labs (MODEL)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "RUBCASH",
+   "name": "RUBCASH (RUBCASH)",
+   "built_on": "EOS"
+  },
+  {
+   "symbol": "SHIDO",
+   "name": "Shido (SHIDO)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "XENOVERSE",
+   "name": "Xenoverse (XENOVERSE)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "STIK",
+   "name": "Staika (STIK)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "GROKX",
+   "name": "GROKX (GROKX)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "MEMET",
+   "name": "MEMETOON (MEMET)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "ACEN",
+   "name": "Acent (ACEN)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "AEUR",
+   "name": "Anchored Coins AEUR (AEUR)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "FELIX",
+   "name": "Felix 2.0 ETH (FELIX)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "XUPS",
+   "name": "Xups (XUPS)",
+   "built_on": "BTC"
+  },
+  {
+   "symbol": "SILLY",
+   "name": "Silly Dragon (SILLY)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "CYBERTRUCK",
+   "name": "Cyber Truck (CYBERTRUCK)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "FLIX",
+   "name": "OmniFlix Network (FLIX)"
+  },
+  {
+   "symbol": "RMBCASH",
+   "name": "RMBCASH (RMBCASH)",
+   "built_on": "EOS"
+  },
+  {
+   "symbol": "MYRIA",
+   "name": "Myria (MYRIA)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "USDCASH",
+   "name": "USDCASH (USDCASH)",
+   "built_on": "EOS"
+  },
+  {
+   "symbol": "GROKQUEEN",
+   "name": "Grok Queen (GROKQUEEN)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "ROTTY",
+   "name": "ROTTYCOIN (ROTTY)",
+   "built_on": "ETH"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "NUNET",
+   "name": "NuNet (NUNET)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "LING",
+   "name": "Lingose (LING)"
+  },
+  {
+   "symbol": "XENO",
+   "name": "Xenoverse (XENO)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "AI",
+   "name": "AiDoge (AI)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "GELATO",
+   "name": "Gelato (GELATO)"
+  },
+  {
+   "symbol": "ACE",
+   "name": "Acent (ACE)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "BITCOIN",
+   "name": "HarryPotterObamaSonic10Inu (ETH) (BITCOIN)"
+  }
+ ]
+}

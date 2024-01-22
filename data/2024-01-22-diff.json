@@ -1,0 +1,54 @@
+{
+ "added": [
+  {
+   "symbol": "EVMT",
+   "name": "Evome Medical Technologies Inc.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "EVMT.V",
+   "instruments": [
+    {
+     "name": "Evome Medical Technologies Inc.",
+     "symbol": "EVMT"
+    }
+   ]
+  },
+  {
+   "symbol": "JVSAU",
+   "name": "JVSPAC Acquisition Corp. - Unit",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "JVSAU"
+  },
+  {
+   "symbol": "KSPI",
+   "name": "Joint Stock Company Kaspi.kz - American Depository Shares",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "KSPI"
+  },
+  {
+   "symbol": "PABD",
+   "name": "iShares Paris-Aligned Climate MSCI World ex USA ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "PABD"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "SGMD",
+   "name": "Salona Global Medical Device Corporation",
+   "exchange": "TSXV",
+   "yahoo_symbol": "SGMD.V",
+   "instruments": [
+    {
+     "name": "Salona Global Medical Device Corporation",
+     "symbol": "SGMD"
+    }
+   ]
+  },
+  {
+   "symbol": "CETXP",
+   "name": "Cemtrex Inc. - Series 1 Preferred Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "CETXP"
+  }
+ ]
+}
