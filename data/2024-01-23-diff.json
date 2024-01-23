@@ -1,0 +1,114 @@
+{
+ "added": [
+  {
+   "symbol": "AFJK",
+   "name": "Aimei Health Technology Co., Ltd - Ordinary Share",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "AFJK"
+  },
+  {
+   "symbol": "AFJKR",
+   "name": "Aimei Health Technology Co., Ltd - Right",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "AFJKR"
+  },
+  {
+   "symbol": "O$",
+   "name": "Realty Income Corporation 6.000% Series A Cumulative Redeemable Preferred Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "O$"
+  },
+  {
+   "symbol": "ELY",
+   "name": "Electrum Discovery Corp.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "ELY.V",
+   "instruments": [
+    {
+     "name": "Electrum Discovery Corp.",
+     "symbol": "ELY"
+    }
+   ]
+  },
+  {
+   "symbol": "LOD",
+   "name": "Lode Gold Resources Inc.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "LOD.V",
+   "instruments": [
+    {
+     "name": "Lode Gold Resources Inc.",
+     "symbol": "LOD"
+    }
+   ]
+  },
+  {
+   "symbol": "NTH",
+   "name": "Nord Precious Metals Mining Inc.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "NTH.V",
+   "instruments": [
+    {
+     "name": "Nord Precious Metals Mining Inc.",
+     "symbol": "NTH"
+    }
+   ]
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "CCW",
+   "name": "Canada Silver Cobalt Works Inc.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "CCW.V",
+   "instruments": [
+    {
+     "name": "Canada Silver Cobalt Works Inc.",
+     "symbol": "CCW"
+    }
+   ]
+  },
+  {
+   "symbol": "COMSP",
+   "name": "COMSovereign Holding Corp. - 9.25% Series A Cumulative Redeemable Perpetual Preferred Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "COMSP"
+  },
+  {
+   "symbol": "SRC$A",
+   "name": "Spirit Realty Capital, Inc. 6.000% Series A Cumulative Redeemable Preferred Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "SRC$A"
+  },
+  {
+   "symbol": "SB",
+   "name": "Stratabound Minerals Corp.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "SB.V",
+   "instruments": [
+    {
+     "name": "Stratabound Minerals Corp.",
+     "symbol": "SB"
+    }
+   ]
+  },
+  {
+   "symbol": "MED",
+   "name": "Medgold Resources Corp.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "MED.V",
+   "instruments": [
+    {
+     "name": "Medgold Resources Corp.",
+     "symbol": "MED"
+    }
+   ]
+  },
+  {
+   "symbol": "SRC",
+   "name": "Spirit Realty Capital, Inc. Common Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "SRC"
+  }
+ ]
+}

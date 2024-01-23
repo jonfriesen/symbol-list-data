@@ -1,0 +1,226 @@
+{
+ "added": [
+  {
+   "symbol": "GROKOLAUS",
+   "name": "GROKolaus (GROKOLAUS)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "FUL",
+   "name": "Fulcrom Finance (FUL)",
+   "built_on": "CRO"
+  },
+  {
+   "symbol": "DEFLECT",
+   "name": "Deflect Harbor AI (DEFLECT)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "SQR",
+   "name": "Magic Square (SQR)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "XPHX",
+   "name": "PhoenixCo Token (XPHX)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "SSWP",
+   "name": "Suiswap (SSWP)",
+   "built_on": "SUI"
+  },
+  {
+   "symbol": "DOJO",
+   "name": "ProjectDojo (DOJO)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "DOGB",
+   "name": "DogeBoy (DOGB)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "CETUS",
+   "name": "Cetus Protocol (CETUS)",
+   "built_on": "SUI"
+  },
+  {
+   "symbol": "USDV",
+   "name": "Verified USD (USDV)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "GSWIFT",
+   "name": "GameSwift (GSWIFT)",
+   "built_on": "ARB"
+  },
+  {
+   "symbol": "VETH",
+   "name": "Venus ETH (VETH)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "BANKETH",
+   "name": "BankEth (BANKETH)"
+  },
+  {
+   "symbol": "SRBP",
+   "name": "Super Rare Ball Potion (SRBP)",
+   "built_on": "KCS"
+  },
+  {
+   "symbol": "KOIP",
+   "name": "KoiPond (KOIP)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "BABYBOB",
+   "name": "Baby Bob (BABYBOB)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "XMASGROK",
+   "name": "Xmas Grok (XMASGROK)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "PGOLD",
+   "name": " Polkagold (PGOLD)",
+   "built_on": "ALGO"
+  },
+  {
+   "symbol": "CLORE",
+   "name": "Clore.ai (CLORE)"
+  },
+  {
+   "symbol": "PROPC",
+   "name": "Propchain (PROPC)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "CONX",
+   "name": "Connex (CONX)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "GOW39",
+   "name": "God Of Wealth (GOW39)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "VITAFAST",
+   "name": "Molecules of Korolchuk IP-NFT (VITAFAST)"
+  },
+  {
+   "symbol": "VIC",
+   "name": "Viction (VIC)"
+  },
+  {
+   "symbol": "JESUS",
+   "name": "Jesus Coin (JESUS)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "WAIT",
+   "name": "Hourglass (WAIT)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "RBX",
+   "name": "RabbitX (RBX)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "DAIMO",
+   "name": "Diamond Token (DAIMO)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "SPARKO",
+   "name": "Sparko (SPARKO)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "ARCHL",
+   "name": "ArchLoot (ARCHL)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "THETRIBE",
+   "name": "The Tribe () (THETRIBE)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "INSP",
+   "name": "Inspect (INSP)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "UNS",
+   "name": "UNS TOKEN (UNS)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "SQUEEZER",
+   "name": "Squeezer (SQUEEZER)"
+  },
+  {
+   "symbol": "SHEI",
+   "name": "SheikhSolana (SHEI)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "HTM",
+   "name": "Hatom (HTM)",
+   "built_on": "EGLD"
+  },
+  {
+   "symbol": "G",
+   "name": "GRN Grid (G)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "IOT",
+   "name": "Helium IOT (IOT)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "SQUATCH",
+   "name": "SASQUATCH (SQUATCH)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "DOG",
+   "name": "The Doge NFT (DOG)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "RIPTO",
+   "name": "RiptoBuX (RIPTO)"
+  },
+  {
+   "symbol": "GOJOCOIN",
+   "name": "Gojo Coin (GOJOCOIN)",
+   "built_on": "BNB"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "SRBP",
+   "name": "Super Rare Ball Potion (SRBP)"
+  },
+  {
+   "symbol": "SQR",
+   "name": "Squeezer (SQR)"
+  },
+  {
+   "symbol": "RBX",
+   "name": "RiptoBuX (RBX)"
+  },
+  {
+   "symbol": "TOMO",
+   "name": "Viction (TOMO)"
+  }
+ ]
+}
