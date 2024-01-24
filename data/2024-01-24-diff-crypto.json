@@ -1,0 +1,160 @@
+{
+ "added": [
+  {
+   "symbol": "GALATA",
+   "name": "Galatasaray Fan Token (GALATA)",
+   "built_on": "CHZ"
+  },
+  {
+   "symbol": "KLEVA",
+   "name": "KLEVA Protocol (KLEVA)",
+   "built_on": "KLAY"
+  },
+  {
+   "symbol": "WEETH",
+   "name": "Wrapped eETH (WEETH)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "BBB",
+   "name": "BitBullBot (BBB)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "SCRYPTA",
+   "name": "Scrypta (SCRYPTA)"
+  },
+  {
+   "symbol": "AIPIN",
+   "name": "AI PIN (AIPIN)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "MCADE",
+   "name": "Metacade (MCADE)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "BANKETH",
+   "name": "BankEth (BANKETH)"
+  },
+  {
+   "symbol": "BANANAG",
+   "name": "Banana Gun (BANANAG)"
+  },
+  {
+   "symbol": "GTA6",
+   "name": "GTA VI (GTA6)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "NUDE",
+   "name": "0xNude (NUDE)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "ONDO",
+   "name": "Ondo (ONDO)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "AI",
+   "name": "Sleepless (AI)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "HARRYP",
+   "name": "HarryPotterObamaSonic10Inu (ERC20) (HARRYP)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "NETZ1",
+   "name": "NETZERO (NETZ1)"
+  },
+  {
+   "symbol": "NETZ",
+   "name": "MainnetZ (NETZ)"
+  },
+  {
+   "symbol": "DOGETH",
+   "name": "EtherDoge (DOGETH)"
+  },
+  {
+   "symbol": "OTK",
+   "name": "Octokn (OTK)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "PIP",
+   "name": "Pip (PIP)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "LYRA",
+   "name": "Lyra (LYRA)",
+   "built_on": "OP"
+  },
+  {
+   "symbol": "BITCOINP",
+   "name": "Bitcoin Private (BITCOINP)"
+  },
+  {
+   "symbol": "INDY",
+   "name": "Indigo Protocol (INDY)",
+   "built_on": "ADA"
+  },
+  {
+   "symbol": "LUCK",
+   "name": "Lucky Cat (LUCK)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "G",
+   "name": "GRN Grid (G)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "ABEL",
+   "name": "Abelian (ABEL)"
+  },
+  {
+   "symbol": "SPURS",
+   "name": "Tottenham Hotspur Fan Token (SPURS)",
+   "built_on": "CHZ"
+  },
+  {
+   "symbol": "SAFEGROK",
+   "name": "SafeGrok (SAFEGROK)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "GG",
+   "name": "Reboot (GG)",
+   "built_on": "ARB"
+  },
+  {
+   "symbol": "ANALOS",
+   "name": "analoS (ANALOS)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "STWEMIX",
+   "name": "Staked WEMIX (STWEMIX)",
+   "built_on": "WEMIX"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "GALATA",
+   "name": "Galatasaray Fan Token (GALATA)"
+  },
+  {
+   "symbol": "HARRYP",
+   "name": "HarryPotterObamaSonic10Inu (ERC20) (HARRYP)"
+  },
+  {
+   "symbol": "LYRA",
+   "name": "Scrypta (LYRA)"
+  }
+ ]
+}

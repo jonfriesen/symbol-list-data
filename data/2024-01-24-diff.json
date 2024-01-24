@@ -1,0 +1,66 @@
+{
+ "added": [
+  {
+   "symbol": "MNTL",
+   "name": "Tema Neuroscience and Mental Health ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "MNTL"
+  },
+  {
+   "symbol": "MFAN",
+   "name": "MFA Financial, Inc. 8.875% Senior Notes due 2029",
+   "exchange": "NYSE",
+   "yahoo_symbol": "MFAN"
+  },
+  {
+   "symbol": "MSDL",
+   "name": "Morgan Stanley Direct Lending Fund Common Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "MSDL"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "OTECW",
+   "name": "OceanTech Acquisitions I Corp. - Warrant",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "OTECW"
+  },
+  {
+   "symbol": "GSDWW",
+   "name": "Global Systems Dynamics Inc. - Warrant",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "GSDWW"
+  },
+  {
+   "symbol": "OTECU",
+   "name": "OceanTech Acquisitions I Corp. - Units",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "OTECU"
+  },
+  {
+   "symbol": "GSD",
+   "name": "Global Systems Dynamics Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "GSD"
+  },
+  {
+   "symbol": "GSDWU",
+   "name": "Global Systems Dynamics Inc. - Unit",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "GSDWU"
+  },
+  {
+   "symbol": "OTEC",
+   "name": "OceanTech Acquisitions I Corp. - Class A Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "OTEC"
+  },
+  {
+   "symbol": "MRTX",
+   "name": "Mirati Therapeutics, Inc. - Common Stock",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "MRTX"
+  }
+ ]
+}
