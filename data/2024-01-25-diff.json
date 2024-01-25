@@ -1,0 +1,108 @@
+{
+ "added": [
+  {
+   "symbol": "TRX",
+   "name": "TRX Gold Corporation",
+   "exchange": "TSX",
+   "yahoo_symbol": "TRX.TO",
+   "instruments": [
+    {
+     "name": "TRX Gold Corp J",
+     "symbol": "TRX"
+    }
+   ]
+  },
+  {
+   "symbol": "CORZ",
+   "name": "Core Scientific, Inc. - Common Stock",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "CORZ"
+  },
+  {
+   "symbol": "CORZW",
+   "name": "Core Scientific, Inc. - Tranche 1 Warrants",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "CORZW"
+  },
+  {
+   "symbol": "CORZZ",
+   "name": "Core Scientific, Inc. - Tranche 2 Warrants",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "CORZZ"
+  },
+  {
+   "symbol": "JL",
+   "name": "J-Long Group Limited - Ordinary Shares",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "JL"
+  },
+  {
+   "symbol": "SNTI",
+   "name": "Senti Biosciences, Inc.  - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "SNTI"
+  },
+  {
+   "symbol": "SOGP",
+   "name": "LIZHI INC. - American Depositary Shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "SOGP"
+  },
+  {
+   "symbol": "SUGP",
+   "name": "SU Group Holdings Limited - Ordinary Shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "SUGP"
+  },
+  {
+   "symbol": "HIX.V",
+   "name": "Western Asset High Income Fund II Inc. Rights (expiring February 26, 2024) Rights when issued",
+   "exchange": "NYSE",
+   "yahoo_symbol": "HIX.V"
+  },
+  {
+   "symbol": "NCDL",
+   "name": "Nuveen Churchill Direct Lending Corp. Common Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "NCDL"
+  },
+  {
+   "symbol": "OBDE",
+   "name": "Blue Owl Capital Corporation III Common Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "OBDE"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "TNX",
+   "name": "TRX Gold Corporation",
+   "exchange": "TSX",
+   "yahoo_symbol": "TNX.TO",
+   "instruments": [
+    {
+     "name": "TRX Gold Corp J",
+     "symbol": "TNX"
+    }
+   ]
+  },
+  {
+   "symbol": "LIZI",
+   "name": "LIZHI INC. - American Depositary Shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "LIZI"
+  },
+  {
+   "symbol": "SNTI",
+   "name": "Senti Biosciences, Inc.  - Common Stock",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "SNTI"
+  },
+  {
+   "symbol": "ORTX",
+   "name": "Orchard Therapeutics plc - American Depositary Shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "ORTX"
+  }
+ ]
+}

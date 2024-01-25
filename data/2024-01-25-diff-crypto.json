@@ -1,0 +1,232 @@
+{
+ "added": [
+  {
+   "symbol": "GOYOO",
+   "name": "GoYoo (GOYOO)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "OFN",
+   "name": "Openfabric AI (OFN)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "YUSRA",
+   "name": "YUSRA (YUSRA (1))",
+   "built_on": "WAVES"
+  },
+  {
+   "symbol": "HDN",
+   "name": "Hydranet (HDN)",
+   "built_on": "ARB"
+  },
+  {
+   "symbol": "WAGON",
+   "name": "Wagon Network (WAGON)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "GUCCI",
+   "name": "GUCCI (GUCCI)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "MELB",
+   "name": "Minelab (MELB)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "METIS",
+   "name": "Metis Token (METIS)"
+  },
+  {
+   "symbol": "WNT",
+   "name": "Wicrypt (WNT)",
+   "built_on": "ARB"
+  },
+  {
+   "symbol": "HVH",
+   "name": "HAVAH (HVH)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "MAIL",
+   "name": "CHAINMAIL (MAIL)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "SWARMM",
+   "name": "Swarm Markets (SWARMM)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "SPOL",
+   "name": "Starterpool (SPOL)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "METAMEME",
+   "name": "met a meta metameme (METAMEME)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "VMINT",
+   "name": "Volumint (VMINT)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "SAFELUNAR",
+   "name": "SafeLunar (SAFELUNAR)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "APU",
+   "name": "Apu (APU)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "VLTC",
+   "name": "VaultCoin (VLTC)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "PIKA",
+   "name": "Pikaboss (PIKA)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "VERSACE",
+   "name": "VERSACE (VERSACE)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "ORDIFI",
+   "name": "OrdinalsFi (ORDIFI)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "ALGB",
+   "name": "Algebra (ALGB)",
+   "built_on": "MATIC"
+  },
+  {
+   "symbol": "MEGABOT",
+   "name": "Megabot (MEGABOT)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "BANK",
+   "name": "Float Protocol (BANK)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "CATCOINETH",
+   "name": "Catcoin (CATCOINETH)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "BTEX",
+   "name": "BTEX (BTEX)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "PZP",
+   "name": "PlayZap (PZP)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "ELONIUM",
+   "name": "Elonium (ELONIUM)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "GRND",
+   "name": "SuperWalk (GRND)",
+   "built_on": "KLAY"
+  },
+  {
+   "symbol": "REKT",
+   "name": "REKT (REKT)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "ISKR",
+   "name": "ISKRA Token (ISKR)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "BULLMOON",
+   "name": "Bull Moon (BULLMOON)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "GETH",
+   "name": "Guarded Ether (GETH)"
+  },
+  {
+   "symbol": "MILKYWAY",
+   "name": "MilkyWayZone (MILKYWAY)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "DOG",
+   "name": "The Doge NFT (DOG)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "OPTIMOUSE",
+   "name": "Optimouse (OPTIMOUSE)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "GEOL",
+   "name": "GeoLeaf (GEOL)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "PGROK",
+   "name": "Papa Grok (PGROK)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "GRV",
+   "name": "GroveCoin (GRV)"
+  },
+  {
+   "symbol": "RSRV",
+   "name": "Reserve (RSRV)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "REFUND",
+   "name": "Refund (REFUND)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "PEIPEI",
+   "name": "PEIPEI (PEIPEI)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "BABYBONK",
+   "name": "Baby Bonk (BABYBONK)",
+   "built_on": "BNB"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "METIS",
+   "name": "Metis Token (METIS)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "VLTC",
+   "name": "VaultCoin (VLTC)"
+  },
+  {
+   "symbol": "GRV",
+   "name": "Grove (GRV)",
+   "built_on": "BNB"
+  }
+ ]
+}
