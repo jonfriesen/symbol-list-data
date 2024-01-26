@@ -1,0 +1,90 @@
+{
+ "added": [
+  {
+   "symbol": "CGON",
+   "name": "CG Oncology, Inc. - Common stock",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "CGON"
+  },
+  {
+   "symbol": "QMID",
+   "name": "WisdomTree U.S. MidCap Quality Growth Fund",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "QMID"
+  },
+  {
+   "symbol": "QSML",
+   "name": "WisdomTree U.S. SmallCap Quality Growth Fund",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "QSML"
+  },
+  {
+   "symbol": "TRES",
+   "name": "Defiance Treasury Alternative Yield ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "TRES"
+  },
+  {
+   "symbol": "TRNR",
+   "name": "Interactive Strength Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "TRNR"
+  },
+  {
+   "symbol": "YIBO",
+   "name": "Planet Image International Limited - Class A Ordinary Shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "YIBO"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "NCAC",
+   "name": "Newcourt Acquisition Corp - Class A Ordinary Share",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "NCAC"
+  },
+  {
+   "symbol": "OPA.W",
+   "name": "Magnum Opus Acquisition Limited Redeemable Warrants, each warrant exercisable for one Class A ordinary share at an exercise price of $11.50",
+   "exchange": "NYSE",
+   "yahoo_symbol": "OPA.W"
+  },
+  {
+   "symbol": "NCACU",
+   "name": "Newcourt Acquisition Corp - Unit",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "NCACU"
+  },
+  {
+   "symbol": "NCACW",
+   "name": "Newcourt Acquisition Corp - Warrant",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "NCACW"
+  },
+  {
+   "symbol": "ESMT",
+   "name": "EngageSmart, Inc. Common Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "ESMT"
+  },
+  {
+   "symbol": "OPA.U",
+   "name": "Magnum Opus Acquisition Limited Units, each consisting of one Class A ordinary share and one-half redeemable warrant",
+   "exchange": "NYSE",
+   "yahoo_symbol": "OPA.U"
+  },
+  {
+   "symbol": "TRNR",
+   "name": "Interactive Strength Inc. - Common Stock",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "TRNR"
+  },
+  {
+   "symbol": "OPA",
+   "name": "Magnum Opus Acquisition Limited Class A Ordinary Shares",
+   "exchange": "NYSE",
+   "yahoo_symbol": "OPA"
+  }
+ ]
+}

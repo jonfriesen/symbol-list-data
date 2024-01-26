@@ -1,0 +1,220 @@
+{
+ "added": [
+  {
+   "symbol": "VOCARE",
+   "name": "Vocare ex Machina (VOCARE)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "FRLONG",
+   "name": "FRLONGTOKEN (FRLONG)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "OXBT",
+   "name": "OXBT (Ordinals) (OXBT)",
+   "built_on": "BTC"
+  },
+  {
+   "symbol": "BABYMEME",
+   "name": "Baby Memecoin (BABYMEME)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "BLUEM",
+   "name": "BlueMove (BLUEM)",
+   "built_on": "APT"
+  },
+  {
+   "symbol": "METAT",
+   "name": "MetaTrace (METAT)",
+   "built_on": "MATIC"
+  },
+  {
+   "symbol": "CPR",
+   "name": "Cipher (CPR)",
+   "built_on": "MATIC"
+  },
+  {
+   "symbol": "TETHER",
+   "name": "Hermione (TETHER)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "CMCC",
+   "name": "CMC Coin (CMCC)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "SAFEREUM",
+   "name": "Safereum (SAFEREUM)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "EFC",
+   "name": "Everton Fan Token (EFC)",
+   "built_on": "CHZ"
+  },
+  {
+   "symbol": "GGH",
+   "name": "Green Grass Hopper (GGH)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "WINN",
+   "name": "Winnerz (WINN)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "VC",
+   "name": "VinuChain (VC)"
+  },
+  {
+   "symbol": "MAID",
+   "name": "MaidSafe Coin (MAID)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "RING",
+   "name": "Darwinia Network (RING)"
+  },
+  {
+   "symbol": "CRVY",
+   "name": "Curve Inu (CRVY)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "THEN",
+   "name": "THENA (THEN)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "NAVIA",
+   "name": "NaviAddress (NAVIA)"
+  },
+  {
+   "symbol": "NAVI",
+   "name": "Atlas Navi (NAVI)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "KTON",
+   "name": "Darwinia Commitment Token (KTON)",
+   "built_on": "RING"
+  },
+  {
+   "symbol": "DOG",
+   "name": "The Doge NFT (DOG)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "RENE",
+   "name": "Renewable Energy (RENE)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "SCCP",
+   "name": "S.C. Corinthians Fan Token (SCCP)",
+   "built_on": "CHZ"
+  },
+  {
+   "symbol": "CHII",
+   "name": "Chiiper Chain (CHII)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "SIMPSON6900",
+   "name": "Simpson6900  (SIMPSON6900)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "BCMC1",
+   "name": "BeforeCoinMarketCap (BCMC1)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "BANKETH",
+   "name": "BankEth (BANKETH)"
+  },
+  {
+   "symbol": "VAULTCOIN",
+   "name": "VaultCoin (VAULTCOIN)"
+  },
+  {
+   "symbol": "EMOTI",
+   "name": "EmotiCoin (EMOTI)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "CDT",
+   "name": "CheckDot (CDT)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "ODIN",
+   "name": "Odin Protocol (ODIN)"
+  },
+  {
+   "symbol": "KINGU",
+   "name": "KINGU (KINGU)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "WEFI",
+   "name": "WeFi (WEFI)",
+   "built_on": "MATIC"
+  },
+  {
+   "symbol": "G",
+   "name": "GRN Grid (G)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "NWC",
+   "name": "Newscrypto Coin (NWC)",
+   "built_on": "XLM"
+  },
+  {
+   "symbol": "BETROCK",
+   "name": "Betrock (BETROCK)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "SAM",
+   "name": "Samsunspor Fan Token (SAM)",
+   "built_on": "CHZ"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "NWC",
+   "name": "Newscrypto Coin (NWC)"
+  },
+  {
+   "symbol": "CPR",
+   "name": "Chiiper Chain (CPR)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "RING",
+   "name": "Darwinia Network (RING)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "BCMC1",
+   "name": "BeforeCoinMarketCap (BCMC1)"
+  },
+  {
+   "symbol": "KTON",
+   "name": "Darwinia Commitment Token (KTON)"
+  },
+  {
+   "symbol": "NAVI",
+   "name": "NaviAddress (NAVI)"
+  },
+  {
+   "symbol": "MAID",
+   "name": "MaidSafe Coin (MAID)"
+  }
+ ]
+}
