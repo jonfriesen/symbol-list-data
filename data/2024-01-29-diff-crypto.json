@@ -1,0 +1,117 @@
+{
+ "added": [
+  {
+   "symbol": "GROKKY",
+   "name": "GroKKy (GROKKY)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "AEROCOIN",
+   "name": "Aero Coin (AEROCOIN)"
+  },
+  {
+   "symbol": "LIBRE",
+   "name": "Libre (LIBRE)"
+  },
+  {
+   "symbol": "BONKIN",
+   "name": "Bonkinu (BONKINU)"
+  },
+  {
+   "symbol": "GEMINIT",
+   "name": "Gemini (GEMINIT)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "AERO",
+   "name": "Aerodrome Finance (AERO)",
+   "built_on": "BASECHAIN"
+  },
+  {
+   "symbol": "SCPT",
+   "name": "Script Network (SCPT)"
+  },
+  {
+   "symbol": "EXE",
+   "name": "ExeCoin (EXE)",
+   "built_on": "ICP"
+  },
+  {
+   "symbol": "GEMINI",
+   "name": "Gemini Ai (GEMINI)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "IPVOLD",
+   "name": "IPVERSE (Klaytn) (IPVOLD)",
+   "built_on": "KLAY"
+  },
+  {
+   "symbol": "DJED",
+   "name": "Djed (DJED)",
+   "built_on": "ADA"
+  },
+  {
+   "symbol": "STARSHI",
+   "name": "Starship (STARSHI)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "GRACY",
+   "name": "Gracy (GRACY)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "BANK",
+   "name": "Float Protocol (BANK)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "GETH",
+   "name": "Guarded Ether (GETH)"
+  },
+  {
+   "symbol": "COLLE",
+   "name": "Collective Care (COLLE)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "HONEYCOIN",
+   "name": "Honey (HONEYCOIN)"
+  },
+  {
+   "symbol": "DOG",
+   "name": "The Doge NFT (DOG)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "IPV",
+   "name": "IPVERSE (IPV)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "DRAGON",
+   "name": "Dragon (DRAGON)",
+   "built_on": "BNB"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "AERO",
+   "name": "Aero Coin (AERO)"
+  },
+  {
+   "symbol": "HONEY",
+   "name": "Honey (HONEY)"
+  },
+  {
+   "symbol": "IPV",
+   "name": "IPVERSE (IPV)",
+   "built_on": "KLAY"
+  },
+  {
+   "symbol": "EXE",
+   "name": "ExeCoin (EXE)"
+  }
+ ]
+}

@@ -1,0 +1,132 @@
+{
+ "added": [
+  {
+   "symbol": "FTZ",
+   "name": "Fitzroy Minerals Inc.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "FTZ.V",
+   "instruments": [
+    {
+     "name": "Fitzroy Minerals Inc.",
+     "symbol": "FTZ"
+    }
+   ]
+  },
+  {
+   "symbol": "AVBP",
+   "name": "ArriVent BioPharma, Inc. - Common Stock",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "AVBP"
+  },
+  {
+   "symbol": "BTSG",
+   "name": "BrightSpring Health Services, Inc. - Common Stock",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "BTSG"
+  },
+  {
+   "symbol": "BTSGU",
+   "name": "BrightSpring Health Services, Inc. - Tangible Equity Unit",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "BTSGU"
+  },
+  {
+   "symbol": "HAO",
+   "name": "Haoxi Health Technology Limited - Class A Ord Share",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "HAO"
+  },
+  {
+   "symbol": "PBM",
+   "name": "Psyence Biomedical Ltd. - Ordinary Shares",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "PBM"
+  },
+  {
+   "symbol": "PBMWW",
+   "name": "Psyence Biomedical Ltd. - Warrant",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "PBMWW"
+  },
+  {
+   "symbol": "REAI",
+   "name": "Intelligent Real Estate ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "REAI"
+  },
+  {
+   "symbol": "ECCF",
+   "name": "Eagle Point Credit Company Inc. 8.00% Series F Term Preferred Stock due 2029",
+   "exchange": "NYSE",
+   "yahoo_symbol": "ECCF"
+  },
+  {
+   "symbol": "FLUT",
+   "name": "Flutter Entertainment plc Ordinary Shares",
+   "exchange": "NYSE",
+   "yahoo_symbol": "FLUT"
+  },
+  {
+   "symbol": "NEUE",
+   "name": "NeueHealth, Inc. Common Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "NEUE"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "RAIN",
+   "name": "Rain Oncology Inc. - Common Stock",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "RAIN"
+  },
+  {
+   "symbol": "NOC",
+   "name": "Norseman Silver Inc.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "NOC.V",
+   "instruments": [
+    {
+     "name": "Norseman Silver Inc.",
+     "symbol": "NOC"
+    }
+   ]
+  },
+  {
+   "symbol": "PRVT",
+   "name": "Private Real Estate Strategy via Liquid REITs ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "PRVT"
+  },
+  {
+   "symbol": "GOL",
+   "name": "Gol Linhas Aereas Inteligentes S.A. Sponsored ADR representing 2 Pfd Shares",
+   "exchange": "NYSE",
+   "yahoo_symbol": "GOL"
+  },
+  {
+   "symbol": "MOZ",
+   "name": "Marathon Gold Corporation",
+   "exchange": "TSX",
+   "yahoo_symbol": "MOZ.TO",
+   "instruments": [
+    {
+     "name": "Marathon Gold Corp J",
+     "symbol": "MOZ"
+    }
+   ]
+  },
+  {
+   "symbol": "BHG",
+   "name": "Bright Health Group, Inc. Common Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "BHG"
+  },
+  {
+   "symbol": "ARAV",
+   "name": "Aravive, Inc. - Common Stock",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "ARAV"
+  }
+ ]
+}
