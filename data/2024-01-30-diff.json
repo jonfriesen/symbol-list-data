@@ -1,0 +1,114 @@
+{
+ "added": [
+  {
+   "symbol": "AMYA.P",
+   "name": "Amaya Big Sky Capital Corp.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "AMYA.P.V",
+   "instruments": [
+    {
+     "name": "Amaya Big Sky Capital Corp.",
+     "symbol": "AMYA.P"
+    }
+   ]
+  },
+  {
+   "symbol": "SPN",
+   "name": "Snipp Interactive Inc.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "SPN.V",
+   "instruments": [
+    {
+     "name": "Snipp Interactive Inc.",
+     "symbol": "SPN"
+    }
+   ]
+  },
+  {
+   "symbol": "ZAU",
+   "name": "Zodiac Gold Inc.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "ZAU.V",
+   "instruments": [
+    {
+     "name": "Zodiac Gold Inc.",
+     "symbol": "ZAU"
+    }
+   ]
+  },
+  {
+   "symbol": "AMIX",
+   "name": "Autonomix Medical, Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "AMIX"
+  },
+  {
+   "symbol": "GRDI",
+   "name": "GRIID Infrastructure Inc. - Common Stock",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "GRDI"
+  },
+  {
+   "symbol": "GRDIW",
+   "name": "GRIID Infrastructure Inc. - Warrant",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "GRDIW"
+  },
+  {
+   "symbol": "LFWD",
+   "name": "ReWalk Robotics Ltd. - Ordinary Shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "LFWD"
+  },
+  {
+   "symbol": "XTKG",
+   "name": "X3 Holdings Co., Ltd. - Ordinary Shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "XTKG"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "NSTB",
+   "name": "Northern Star Investment Corp. II Class A Common stock",
+   "exchange": "NYSE MKT",
+   "yahoo_symbol": "NSTB"
+  },
+  {
+   "symbol": "LR",
+   "name": "Luminex Resources Corp.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "LR.V",
+   "instruments": [
+    {
+     "name": "Luminex Resources Corp.",
+     "symbol": "LR"
+    }
+   ]
+  },
+  {
+   "symbol": "PBTS",
+   "name": "Powerbridge Technologies Co., Ltd. - Ordinary Shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "PBTS"
+  },
+  {
+   "symbol": "ARVL",
+   "name": "Arrival - Ordinary Shares",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "ARVL"
+  },
+  {
+   "symbol": "RWLK",
+   "name": "ReWalk Robotics Ltd. - Ordinary Shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "RWLK"
+  },
+  {
+   "symbol": "NSTB.U",
+   "name": "Northern Star Investment Corp. II Units, each consisting of one share of Class A common stock and one-fifth of one redeemable warrant",
+   "exchange": "NYSE MKT",
+   "yahoo_symbol": "NSTB.U"
+  }
+ ]
+}

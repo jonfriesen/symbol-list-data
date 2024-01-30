@@ -1,0 +1,215 @@
+{
+ "added": [
+  {
+   "symbol": "EAG",
+   "name": "Emerging Assets Group (EAG)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "CA",
+   "name": "Coupon Assets (CA)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "HAI",
+   "name": "Hacken Token (HAI)",
+   "built_on": "VET"
+  },
+  {
+   "symbol": "SKYX",
+   "name": "SKUYX (SKYX)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "AA",
+   "name": "Alva (AA)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "HYPR",
+   "name": "Hypr Network (HYPR)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "MCHC",
+   "name": "My Crypto Heroes (MCHC)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "DORKL",
+   "name": "DORK LORD (DORKL)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "SPX",
+   "name": "SPX6900 (SPX)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "BCUBE",
+   "name": "B-cube.ai (BCUBE)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "ZELIX ",
+   "name": "ZELIX (ZELIX)"
+  },
+  {
+   "symbol": "NEXBOX",
+   "name": "NexBox (NEXBOX)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "SAUBER",
+   "name": "Alfa Romeo Racing ORLEN Fan Token (SAUBER)",
+   "built_on": "CHZ"
+  },
+  {
+   "symbol": "DOG",
+   "name": "The Doge NFT (DOG)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "PAWS",
+   "name": "PawStars (PAWS)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "BABYPEPE",
+   "name": "Babypepe (BSC) (BABYPEPE)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "FUZN",
+   "name": "Fuzion (FUZN)",
+   "built_on": "KUJI"
+  },
+  {
+   "symbol": "ZOO",
+   "name": "ZooKeeper (ZOO)",
+   "built_on": "WAN"
+  },
+  {
+   "symbol": "BUGATTI",
+   "name": "BUGATTI (BUGATTI)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "MARSUPILAMI",
+   "name": "MARSUPILAMI INU (MARSUPILAMI)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "CLEO",
+   "name": "Cleo Tech (CLEO)",
+   "built_on": "MATIC"
+  },
+  {
+   "symbol": "BANKETH",
+   "name": "BankEth (BANKETH)"
+  },
+  {
+   "symbol": "GETH",
+   "name": "Guarded Ether (GETH)"
+  },
+  {
+   "symbol": "ABOND",
+   "name": "ApeBond (ABOND)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "RPG",
+   "name": "Rangers Protocol (RPG)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "ATF",
+   "name": "Alion Tech Food (ATF)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "LAUNCH",
+   "name": "Launchblock.com (LAUNCH)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "ULTIMATEBOT",
+   "name": "Ultimate Tipbot (ULTIMATEBOT)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "HAIR",
+   "name": " HairDAO (HAIR)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "EXNT",
+   "name": "EXNT (EXNT)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "MIXCOIN",
+   "name": "Mixaverse (MIXCOIN)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "GRP",
+   "name": "Grape (GRP)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "TIGERC",
+   "name": "TigerCash (TIGERC)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "SP8DE",
+   "name": "Sp8de (SP8DE)"
+  },
+  {
+   "symbol": "SHILLD",
+   "name": "SHILLD (SHILLD)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "STEALTH",
+   "name": "StealthPad (STEALTH)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "TCH",
+   "name": "Thorecash (TCH)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "BTOP",
+   "name": "Botopia.Finance (BTOP)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "CONE",
+   "name": "BitCone (CONE)",
+   "built_on": "MATIC"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "HAI",
+   "name": "Hacken Token (HAI)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "TGR",
+   "name": "Tegro (TGR)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "SPX",
+   "name": "Sp8de (SPX)"
+  },
+  {
+   "symbol": "TCH",
+   "name": "Thorecash (TCH)"
+  }
+ ]
+}
