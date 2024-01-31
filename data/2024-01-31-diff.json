@@ -1,0 +1,36 @@
+{
+ "added": [
+  {
+   "symbol": "QQQI",
+   "name": "NEOS Nasdaq 100 High Income ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "QQQI"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "COMS",
+   "name": "COMSovereign Holding Corp. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "COMS"
+  },
+  {
+   "symbol": "COMSW",
+   "name": "COMSovereign Holding Corp. - Warrants",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "COMSW"
+  },
+  {
+   "symbol": "JK",
+   "name": "Just Kitchen Holdings Corp.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "JK.V",
+   "instruments": [
+    {
+     "name": "Just Kitchen Holdings  Corp.",
+     "symbol": "JK"
+    }
+   ]
+  }
+ ]
+}
