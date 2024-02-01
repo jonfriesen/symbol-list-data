@@ -1,0 +1,162 @@
+{
+ "added": [
+  {
+   "symbol": "DAY",
+   "name": "Dayforce, Inc.",
+   "exchange": "TSX",
+   "yahoo_symbol": "DAY.TO",
+   "instruments": [
+    {
+     "name": "Ceridian HCM Hldg J",
+     "symbol": "DAY"
+    }
+   ]
+  },
+  {
+   "symbol": "PMET",
+   "name": "Patriot Battery Metals Inc.",
+   "exchange": "TSX",
+   "yahoo_symbol": "PMET.TO",
+   "instruments": [
+    {
+     "name": "Patriot Battery Mtls",
+     "symbol": "PMET"
+    }
+   ]
+  },
+  {
+   "symbol": "ARQ",
+   "name": "Arq, Inc. - Common Stock",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "ARQ"
+  },
+  {
+   "symbol": "ATLCZ",
+   "name": "Atlanticus Holdings Corporation - 9.25% Senior Notes due 2029",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "ATLCZ"
+  },
+  {
+   "symbol": "FBLG",
+   "name": "FibroBiologics, Inc. - Common Stock",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "FBLG"
+  },
+  {
+   "symbol": "HOOK",
+   "name": "HOOKIPA Pharma Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "HOOK"
+  },
+  {
+   "symbol": "TRUG",
+   "name": "TruGolf, Inc. - Class A Common Stock",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "TRUG"
+  },
+  {
+   "symbol": "UPC",
+   "name": "Universe Pharmaceuticals Inc - Ordinary Shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "UPC"
+  },
+  {
+   "symbol": "AS",
+   "name": "Amer Sports, Inc. Ordinary Shares",
+   "exchange": "NYSE",
+   "yahoo_symbol": "AS"
+  },
+  {
+   "symbol": "DAY",
+   "name": "Dayforce, Inc. Common Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "DAY"
+  },
+  {
+   "symbol": "HIX.R",
+   "name": "Western Asset High Income Fund II Inc. Rights (expiring February 26, 2024) Rights",
+   "exchange": "NYSE",
+   "yahoo_symbol": "HIX.R"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "DMAQR",
+   "name": "Deep Medicine Acquisition Corp. - Rights",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "DMAQR"
+  },
+  {
+   "symbol": "HIX.V",
+   "name": "Western Asset High Income Fund II Inc. Rights (expiring February 26, 2024) Rights when issued",
+   "exchange": "NYSE",
+   "yahoo_symbol": "HIX.V"
+  },
+  {
+   "symbol": "CDAY",
+   "name": "Ceridian HCM Holding Inc.",
+   "exchange": "TSX",
+   "yahoo_symbol": "CDAY.TO",
+   "instruments": [
+    {
+     "name": "Ceridian HCM Hldg J",
+     "symbol": "CDAY"
+    }
+   ]
+  },
+  {
+   "symbol": "ADES",
+   "name": "Advanced Emissions Solutions, Inc. - Common Stock",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "ADES"
+  },
+  {
+   "symbol": "PXI",
+   "name": "Planet Ventures inc.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "PXI.V",
+   "instruments": [
+    {
+     "name": "Planet Ventures Inc.",
+     "symbol": "PXI"
+    }
+   ]
+  },
+  {
+   "symbol": "HOOK",
+   "name": "HOOKIPA Pharma Inc. - Common Stock",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "HOOK"
+  },
+  {
+   "symbol": "DMAQ",
+   "name": "Deep Medicine Acquisition Corp. - Class A Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "DMAQ"
+  },
+  {
+   "symbol": "CDAY",
+   "name": "Ceridian HCM Holding Inc. Common Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "CDAY"
+  },
+  {
+   "symbol": "PMET",
+   "name": "Patriot Battery Metals Inc.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "PMET.V",
+   "instruments": [
+    {
+     "name": "Patriot Battery Metals Inc.",
+     "symbol": "PMET"
+    }
+   ]
+  },
+  {
+   "symbol": "UPC",
+   "name": "Universe Pharmaceuticals Inc - Ordinary Shares",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "UPC"
+  }
+ ]
+}
