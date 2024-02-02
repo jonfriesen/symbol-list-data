@@ -1,0 +1,509 @@
+{
+ "added": [
+  {
+   "symbol": "TIN",
+   "name": "Token IN (TIN)",
+   "built_on": "APT"
+  },
+  {
+   "symbol": "SFLOKI",
+   "name": "SuiFloki-Inu (SFLOKI)"
+  },
+  {
+   "symbol": "PUPPETS",
+   "name": "Puppets Coin (PUPPETS)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "GORILLA",
+   "name": "Gorilla Diamond (GORILLA)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "TCS",
+   "name": "Timechain Swap Token (TCS)",
+   "built_on": "FTM"
+  },
+  {
+   "symbol": "KFX",
+   "name": "KnoxFS (KFX)"
+  },
+  {
+   "symbol": "3D3D",
+   "name": "3d3d (3D3D)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "INSANITY",
+   "name": "Insanity Coin (INSANITY)"
+  },
+  {
+   "symbol": "GARU",
+   "name": "Garuda Coin (GARU)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "NGMI",
+   "name": "NGMI Coin (NGMI)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "SKPEPE",
+   "name": "Sheikh Pepe (SKPEPE)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "KIWI",
+   "name": "kiwi (KIWI)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "HARAM",
+   "name": "HARAM (HARAM)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "LSPHERE",
+   "name": "Lunasphere (LSPHERE)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "WALLY",
+   "name": "Wally Bot (WALLY)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "INFRA",
+   "name": "Bware (INFRA)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "EBA",
+   "name": "Elpis Battle (EBA)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "SABLE",
+   "name": "Sable Finance (SABLE)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "PRCY",
+   "name": "PRivaCY Coin (PRCY)"
+  },
+  {
+   "symbol": "ROLS",
+   "name": "RollerSwap (ROLS)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "RAGE",
+   "name": "Rage Fan (RAGE)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "HISEALS",
+   "name": "hiSEALS (HISEALS)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "DISPEPE",
+   "name": "Disabled Pepe (DISPEPE)"
+  },
+  {
+   "symbol": "NANA",
+   "name": "Bananace (NANA)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "WEN",
+   "name": "Wen (WEN)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "ENIGMA",
+   "name": "ENIGMA (ENIGMA)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "PUMBAA",
+   "name": "Pumbaa (PUMBAA)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "BOBAI",
+   "name": "Bob AI (BOBAI)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "RITO",
+   "name": "Ritocoin (RITO)"
+  },
+  {
+   "symbol": "DIFI",
+   "name": "Digital Files (DIFI)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "KEMA",
+   "name": "Kemacoin (KEMA)"
+  },
+  {
+   "symbol": "SLOTH",
+   "name": "Sloth (SLOTH)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "HTX",
+   "name": "HTX (HTX)",
+   "built_on": "TRX"
+  },
+  {
+   "symbol": "REELT",
+   "name": "Reel Token (REELT)",
+   "built_on": "MATIC"
+  },
+  {
+   "symbol": "IRA",
+   "name": "Diligence (IRA)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "MOTA",
+   "name": "MotaCoin (MOTA)"
+  },
+  {
+   "symbol": "G",
+   "name": "GRN Grid (G)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "RPILL",
+   "name": "Red Pill (RPILL)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "POPCAT",
+   "name": "Popcat (POPCAT)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "CAH",
+   "name": "Moon Tropica (CAH)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "CYRUS",
+   "name": "Cyrus Exchange (CYRUS)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "HTZ",
+   "name": "Hertz Network (HTZ)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "FOFO",
+   "name": "FOFO Token (FOFO)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "EDFI",
+   "name": "EdFi (EDFI)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "ASW",
+   "name": "AdaSwap (ASW)",
+   "built_on": "ADA"
+  },
+  {
+   "symbol": "SHACK",
+   "name": "Shackleford (SHACK)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "CORGIB",
+   "name": "The Corgi of PolkaBridge (CORGIB)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "RINU",
+   "name": "Raichu Inu (RINU)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "JW",
+   "name": "Jasan Wellness (JW)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "KERMIT",
+   "name": "KermitTheCoin (KERMIT)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "FON",
+   "name": "INOFI (FON)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "MRBOB",
+   "name": "MR BOB COIN (MRBOB)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "BEFX",
+   "name": "Belifex (BEFX)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "CRE8",
+   "name": "Creaticles (CRE8)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "SIBA",
+   "name": "SibaInu (SIBA)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "DRC",
+   "name": "DRC Mobility (DRC)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "PYME",
+   "name": "PymeDAO (PYME)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "PORK",
+   "name": "PepeFork (PORK)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "FS",
+   "name": "FantomStarter (FS)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "PEPEDERP",
+   "name": "PepeDerp (PEPEDERP)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "UTMDOGE",
+   "name": "UltramanDoge (UTMDOGE)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "ZPAY",
+   "name": "ZoidPay (ZPAY)",
+   "built_on": "VIC"
+  },
+  {
+   "symbol": "ALIT",
+   "name": "Alitas (ALIT)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "ETHI",
+   "name": "Ethical Finance (ETHI)",
+   "built_on": "MATIC"
+  },
+  {
+   "symbol": "COPIUM",
+   "name": "Copium (COPIUM)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "ALT",
+   "name": "Altlayer (ALT)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "INEX",
+   "name": "Inex Project (INEX)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "PEPEPI",
+   "name": "PEPEPi (PEPEPI)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "BUNI",
+   "name": "Bunicorn (BUNI)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "MATE",
+   "name": "Mate (MATE)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "GATSBY",
+   "name": "Gatsby Inu (GATSBY)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "REMIT",
+   "name": "BlockRemit (REMIT)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "DOG",
+   "name": "The Doge NFT (DOG)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "HINU",
+   "name": "HajiIni (HINU)"
+  },
+  {
+   "symbol": "ETPOS",
+   "name": "EtherPOS (ETPOS)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "PEPEINU",
+   "name": "PEPE inu (PEPEINU)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "SWIRLX",
+   "name": "SwirlToken (SWIRLX)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "XGPT",
+   "name": "XGPT (XGPT)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "MTVT",
+   "name": "Metaverser (MTVT)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "DZDD",
+   "name": "DZD (DZDD)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "SPIDER",
+   "name": "Spider Man (SPIDER)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "RKI",
+   "name": "RAKHI (RKI)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "EVAN",
+   "name": "Evanesco Network (EVAN)"
+  },
+  {
+   "symbol": "FONS",
+   "name": "FONSmartChain (FONS)"
+  },
+  {
+   "symbol": "GROKKING",
+   "name": "GrokKing (GROKKING)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "BFT.BITCI",
+   "name": "Brazil Fan Token (BFT.BITCI)",
+   "built_on": "BITCI"
+  },
+  {
+   "symbol": "XUI",
+   "name": "YouSUI (XUI)",
+   "built_on": "SUI"
+  },
+  {
+   "symbol": "TRACN",
+   "name": "trac (Ordinals) (TRACN)",
+   "built_on": "BTC"
+  },
+  {
+   "symbol": "PIPA",
+   "name": "Pipa Coin (PIPA)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "PEPEGRINCH",
+   "name": "Pepe Grinch (PEPEGRINCH)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "YUKKY",
+   "name": "YUKKY (YUKKY)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "FYD",
+   "name": "FYDcoin (FYD)"
+  },
+  {
+   "symbol": "FREED",
+   "name": "FreedomCoin (FREED)"
+  },
+  {
+   "symbol": "BANK",
+   "name": "Float Protocol (BANK)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "CLX",
+   "name": "Celeum (CLX)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "HOS",
+   "name": "Hotel of Secrets (HOS)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "HIBAKC",
+   "name": "hiBAKC (HIBAKC)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "POWELL",
+   "name": "Jerome Powell (POWELL)",
+   "built_on": "ETH"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "ALT",
+   "name": "Alitas (ALT)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "GORILLA",
+   "name": "Gorilla Diamond (GORILLA)"
+  },
+  {
+   "symbol": "DRC",
+   "name": "DRC Mobility (DRC)"
+  },
+  {
+   "symbol": "BFT.BITCI",
+   "name": "Brazil Fan Token (BFT.BITCI)"
+  },
+  {
+   "symbol": "ZPAY",
+   "name": "ZoidPay (ZPAY)",
+   "built_on": "TOMO"
+  },
+  {
+   "symbol": "WOLF",
+   "name": "Insanity Coin (WOLF)"
+  }
+ ]
+}
