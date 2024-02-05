@@ -1,0 +1,311 @@
+{
+ "added": [
+  {
+   "symbol": "GSTSOL",
+   "name": "Green Satoshi Token (SOL) (GSTSOL)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "UBDN",
+   "name": "UBD Network (UBDN)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "DEDE",
+   "name": "Dede (DEDE)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "GORILLAD",
+   "name": "Gorilla Diamond (GORILLAD)"
+  },
+  {
+   "symbol": "XTUSD",
+   "name": "XT Stablecoin XTUSD (XTUSD)",
+   "built_on": "XT"
+  },
+  {
+   "symbol": "STC",
+   "name": "Satoshi Island (STC)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "STUSDT",
+   "name": "Staked USDT (STUSDT)",
+   "built_on": "TRX"
+  },
+  {
+   "symbol": "NFTLOOT",
+   "name": "NFTLootBox (NFTLOOT)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "PRVC",
+   "name": "PrivaCoin (PRVC)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "STUDENTC",
+   "name": "Student Coin (STUDENTC)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "XCOM",
+   "name": "X.COM (XCOM)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "HXA",
+   "name": "HXAcoin (HXA)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "MMS",
+   "name": "Marsverse (MMS)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "GALO",
+   "name": "Clube Atlético Mineiro Fan Token (GALO)",
+   "built_on": "CHZ"
+  },
+  {
+   "symbol": "WOLFOF",
+   "name": "Wolf of Wall Street (WOLFOF)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "JOTCHUA",
+   "name": "Perro Dinero (JOTCHUA)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "LORD",
+   "name": "MEMELORD (LORD)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "WOLF",
+   "name": "Landwolf (WOLF)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "UPC",
+   "name": "UPCX (UPC)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "TOONF",
+   "name": "Toon Finance (TOONF)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "BNU",
+   "name": "ByteNext (BNU)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "SWP",
+   "name": "Kava Swap (SWP)",
+   "built_on": "KAVA"
+  },
+  {
+   "symbol": "A",
+   "name": "Alpha Token (A)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "CARO",
+   "name": "Meta Ricaro (CARO)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "ETHEROLL",
+   "name": "Etheroll (ETHEROLL)"
+  },
+  {
+   "symbol": "WAGMI",
+   "name": "Wagmi Coin (WAGMI)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "TXG",
+   "name": "TRUSTxGAMING (TXG)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "DICE",
+   "name": "Klaydice (DICE)",
+   "built_on": "KLAY"
+  },
+  {
+   "symbol": "ELET",
+   "name": "Elementeum (ELET)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "SAKAI",
+   "name": "Sakai Vault (SAKAI)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "TOUCHFAN",
+   "name": "TouchFan (TOUCHFAN)",
+   "built_on": "ZKSYNC"
+  },
+  {
+   "symbol": "HIPENGUINS",
+   "name": "hiPENGUINS (HIPENGUINS)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "CTLS",
+   "name": "Chaintools (CTLS)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "BANKETH",
+   "name": "BankEth (BANKETH)"
+  },
+  {
+   "symbol": "KINGGROK",
+   "name": "King Grok (KINGGROK)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "LFG",
+   "name": "Gamerse (LFG)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "DRAW",
+   "name": "Drawshop Kingdom Reverse (DRAW)",
+   "built_on": "KLAY"
+  },
+  {
+   "symbol": "THEBLOX",
+   "name": "The Blox Project (THEBLOX)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "WAGMIT",
+   "name": "Wagmi (WAGMIT)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "ARKI",
+   "name": "ArkiTech (ARKI)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "OVERLORD",
+   "name": "Overlord (OVERLORD)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "PYRO",
+   "name": "PYRO Network (PYRO)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "NEI",
+   "name": "Neurashi (NEI)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "ACATO",
+   "name": "ACA Token (ACATO)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "SCHO",
+   "name": "Scholarship Coin (SCHO)"
+  },
+  {
+   "symbol": "SANTAGROK",
+   "name": "Santa Grok (SANTAGROK)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "TROLLHEIM",
+   "name": "Trollheim (TROLLHEIM)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "BSCBURN",
+   "name": "BSCBURN (BSCBURN)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "DOG",
+   "name": "The Doge NFT (DOG)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "G",
+   "name": "GRN Grid (G)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "OXS",
+   "name": "0xS (OXS)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "AXIST",
+   "name": "AXIS Token (AXIST)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "GBOT",
+   "name": "GBOT (GBOT)",
+   "built_on": "ARB"
+  },
+  {
+   "symbol": "GAJ",
+   "name": "Gaj Finance (GAJ)",
+   "built_on": "MATIC"
+  },
+  {
+   "symbol": "MILEI",
+   "name": "MILEI (MILEI)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "UFARM",
+   "name": "UniFarm (UFARM)",
+   "built_on": "ETH"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "SWP",
+   "name": "Kava Swap (SWP)"
+  },
+  {
+   "symbol": "LORD",
+   "name": "Overlord (LORD)"
+  },
+  {
+   "symbol": "STUDENTC",
+   "name": "Student Coin (STUDENTC)"
+  },
+  {
+   "symbol": "GST",
+   "name": "Green Satoshi Token (SOL) (GST)"
+  },
+  {
+   "symbol": "XTUSD",
+   "name": "XT Stablecoin XTUSD (XTUSD)"
+  },
+  {
+   "symbol": "STC",
+   "name": "Satoshi Island (STC)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "DICE",
+   "name": "Etheroll (DICE)"
+  }
+ ]
+}
