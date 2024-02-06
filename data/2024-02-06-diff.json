@@ -1,0 +1,54 @@
+{
+ "added": [
+  {
+   "symbol": "CVII",
+   "name": "Churchill Capital Corp VII - Class A Common Stock",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "CVII"
+  },
+  {
+   "symbol": "CVIIU",
+   "name": "Churchill Capital Corp VII - Unit",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "CVIIU"
+  },
+  {
+   "symbol": "CVIIW",
+   "name": "Churchill Capital Corp VII - Warrant",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "CVIIW"
+  },
+  {
+   "symbol": "LEGT.U",
+   "name": "Legato Merger Corp. III Units, each consisting of one Ordinary Share and one-half of one warrant",
+   "exchange": "NYSE MKT",
+   "yahoo_symbol": "LEGT.U"
+  },
+  {
+   "symbol": "MITN",
+   "name": "AG Mortgage Investment Trust, Inc. 9.500% Senior Notes due 2029",
+   "exchange": "NYSE",
+   "yahoo_symbol": "MITN"
+  },
+  {
+   "symbol": "SCPX",
+   "name": "Scorpius Holdings, Inc. Common Stock",
+   "exchange": "NYSE MKT",
+   "yahoo_symbol": "SCPX"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "WTER",
+   "name": "The Alkaline Water Company Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "WTER"
+  },
+  {
+   "symbol": "NHWK",
+   "name": "NightHawk Biosciences, Inc. Common Stock",
+   "exchange": "NYSE MKT",
+   "yahoo_symbol": "NHWK"
+  }
+ ]
+}

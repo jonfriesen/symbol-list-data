@@ -1,0 +1,295 @@
+{
+ "added": [
+  {
+   "symbol": "DEGEN",
+   "name": "DegenReborn (DEGEN)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "RFD",
+   "name": "RefundCoin (RFD)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "YOLO",
+   "name": "YoloNolo (YOLO)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "MARTK",
+   "name": "Martkist (MARTK)"
+  },
+  {
+   "symbol": "PEPEX",
+   "name": "pepeX (PEPEX)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "VXRP",
+   "name": "Venus XRP (VXRP)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "SHUB",
+   "name": "SimpleHub (SHUB)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "HEFI",
+   "name": "HeFi (HEFI)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "RUUF",
+   "name": "RuufCoin (RUUF)",
+   "built_on": "MATIC"
+  },
+  {
+   "symbol": "REV3L",
+   "name": "REV3AL (REV3L)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "DONU",
+   "name": "Donu (DONU)"
+  },
+  {
+   "symbol": "BV3A",
+   "name": "Buccaneer V3 Arbitrum (BV3A)",
+   "built_on": "ARB"
+  },
+  {
+   "symbol": "STACKS",
+   "name": "STACKS (STACKS)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "FUZE",
+   "name": "FUZE Token (FUZE)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "SEFA",
+   "name": "Mesefa (SEFA)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "POTTER",
+   "name": "POTTER (POTTER)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "PEPPA",
+   "name": "PEPPA (PEPPA)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "SODO",
+   "name": "Scooby Doo (SODO)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "UZX",
+   "name": "UZX (UZX)",
+   "built_on": "MATIC"
+  },
+  {
+   "symbol": "PONKE",
+   "name": "Ponke (PONKE)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "SNN",
+   "name": "SeChain (SNN)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "DMAIL",
+   "name": "DMAIL Network (DMAIL)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "PEPEBURN",
+   "name": "Pepeburn (PEPEBURN)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "RFDB",
+   "name": "Refund (RFDB)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "G",
+   "name": "GRN Grid (G)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "SERSH",
+   "name": "Serenity Shield (SERSH)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "TLC",
+   "name": "Trillioner (TLC)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "H4TOKEN",
+   "name": "Hold Ignore Fud (H4TOKEN)",
+   "built_on": "CORE"
+  },
+  {
+   "symbol": "WBS",
+   "name": "Websea (WBS)",
+   "built_on": "MATIC"
+  },
+  {
+   "symbol": "GENESIS",
+   "name": "Genesis Worlds (GENESIS)",
+   "built_on": "MATIC"
+  },
+  {
+   "symbol": "SMARTMEME",
+   "name": "SmartMEME (SMARTMEME)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "FRZ",
+   "name": "Frozy Inu (FRZ)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "VADA",
+   "name": "Venus Cardano (VADA)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "JSM",
+   "name": "Joseon Mun (JSM)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "BANKETH",
+   "name": "BankEth (BANKETH)"
+  },
+  {
+   "symbol": "SAUDIBONK",
+   "name": "Saudi Bonk (SAUDIBONK)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "PRISMA",
+   "name": "Prisma Finance (PRISMA)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "MANTLE",
+   "name": "Mantle (MANTLE)"
+  },
+  {
+   "symbol": "ZETRIX",
+   "name": "Zetrix (ZETRIX)"
+  },
+  {
+   "symbol": "WEWE",
+   "name": "WEWE (WEWE)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "HKB",
+   "name": "HongKong BTC bank (HKB)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "PNDC",
+   "name": "Pond Coin (PNDC)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "PEPED",
+   "name": "PepeDAO Coin (PEPED)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "ORDS",
+   "name": "Ordiswap (ORDS)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "BABYJESUS",
+   "name": "BabyJesusCoin (BABYJESUS)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "DOG",
+   "name": "The Doge NFT (DOG)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "LESSF",
+   "name": "LessFnGas (LESSF)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "SWETH",
+   "name": "swETH (SWETH)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "VCAKE",
+   "name": "Venus CAKE (VCAKE)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "GTAI",
+   "name": "GT Protocol (GTAI)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "FLL",
+   "name": "Feellike (FLL)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "PEPVERS",
+   "name": "PepVerse (PEPVERS)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "JLP",
+   "name": "Jupiter Perps LP (JLP)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "PAYB",
+   "name": "Paybswap (PAYB)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "BLAUNCH",
+   "name": "B-LAUNCH (BLAUNCH)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "LUFFYG",
+   "name": "Luffy G5 (LUFFYG)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "DROGGY",
+   "name": "Droggy (DROGGY)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "DYM",
+   "name": "Dymension (DYM)"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "MANTLE",
+   "name": "Mantle (MANTLE)",
+   "built_on": "ETH"
+  }
+ ]
+}
