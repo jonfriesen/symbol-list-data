@@ -1,0 +1,84 @@
+{
+ "added": [
+  {
+   "symbol": "BRLS",
+   "name": "Borealis Foods Inc. - Class A Common Shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "BRLS"
+  },
+  {
+   "symbol": "BRLSW",
+   "name": "Borealis Foods Inc. - Warrant",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "BRLSW"
+  },
+  {
+   "symbol": "CCPC.P",
+   "name": "Coco Pool Corp.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "CCPC.P.V",
+   "instruments": [
+    {
+     "name": "Coco Pool Corp.",
+     "symbol": "CCPC.P"
+    }
+   ]
+  },
+  {
+   "symbol": "GFR",
+   "name": "Greenfire Resources Ltd.",
+   "exchange": "TSX",
+   "yahoo_symbol": "GFR.TO",
+   "instruments": [
+    {
+     "name": "Greenfire Res Ltd. ",
+     "symbol": "GFR"
+    }
+   ]
+  },
+  {
+   "symbol": "PMNT",
+   "name": "Perfect Moment Ltd. Common Stock",
+   "exchange": "NYSE MKT",
+   "yahoo_symbol": "PMNT"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "OXUSW",
+   "name": "Oxus Acquisition Corp. - Warrant",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "OXUSW"
+  },
+  {
+   "symbol": "KZD",
+   "name": "Kaizen Discovery Inc.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "KZD.V",
+   "instruments": [
+    {
+     "name": "Kaizen Discovery Inc.",
+     "symbol": "KZD"
+    }
+   ]
+  },
+  {
+   "symbol": "OXUS",
+   "name": "Oxus Acquisition Corp. - Class A Ordinary Shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "OXUS"
+  },
+  {
+   "symbol": "OXUSU",
+   "name": "Oxus Acquisition Corp. - Unit",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "OXUSU"
+  },
+  {
+   "symbol": "CANO",
+   "name": "Cano Health, Inc. Class A Common Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "CANO"
+  }
+ ]
+}
