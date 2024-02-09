@@ -1,0 +1,374 @@
+{
+ "added": [
+  {
+   "symbol": "TANGYUAN",
+   "name": "TangYuan (TANGYUAN)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "MIGMIG",
+   "name": "MigMig Swap (MIGMIG)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "LCSN",
+   "name": "Lacostoken (LCSN)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "DOGWIFHAT",
+   "name": "dogwifhat (DOGWIFHAT)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "CTRT",
+   "name": "Cryptrust (CTRT)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "QUIN",
+   "name": "QUINADS (QUIN)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "WFT",
+   "name": "Windfall Token (WFT)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "HXXH",
+   "name": "Pioneering D. UTXO-Based NFT Social Protocol (HXXH)",
+   "built_on": "BTC"
+  },
+  {
+   "symbol": "SHK",
+   "name": "Shrike (SHK)",
+   "built_on": "MATIC"
+  },
+  {
+   "symbol": "CT",
+   "name": "CryptoTwitter (CT)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "ANIM",
+   "name": "Animalia (ANIM)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "ENJ",
+   "name": "Enjin Coin (ENJ)"
+  },
+  {
+   "symbol": "SHVR",
+   "name": "Shivers (SHVR)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "TIDE",
+   "name": "Tidalflats (TIDE)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "OUCHI",
+   "name": "OUCHI (OUCHI)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "TRESTLE",
+   "name": "TRESTLE (TRESTLE)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "MMSS",
+   "name": "MMSS (Ordinals) (MMSS)",
+   "built_on": "BTC"
+  },
+  {
+   "symbol": "BTAD",
+   "name": "Bitcoin Adult (BTAD)"
+  },
+  {
+   "symbol": "CMIT",
+   "name": "CMITCOIN (CMIT)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "MCPC",
+   "name": "Mobile Crypto Pay Coin (MCPC)"
+  },
+  {
+   "symbol": "WASSIE",
+   "name": "WASSIE (WASSIE)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "RDGX",
+   "name": "R-DEE Protocol (RDGX)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "PTAS",
+   "name": "La Peseta (PTAS)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "ROSX",
+   "name": "Roseon (ROSX)",
+   "built_on": "ARB"
+  },
+  {
+   "symbol": "VSC",
+   "name": "Vyvo Coin (VSC)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "DOG",
+   "name": "The Doge NFT (DOG)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "TVNT",
+   "name": "TravelNote (TVNT)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "SFCP",
+   "name": "SF Capital (SFCP)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "BEEP",
+   "name": "BEEP (BEEP)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "ASEED",
+   "name": "aUSD SEED (Acala) (ASEED)"
+  },
+  {
+   "symbol": "CLY",
+   "name": "Colony (CLY)",
+   "built_on": "AVAX"
+  },
+  {
+   "symbol": "MASYA",
+   "name": "MASYA (MASYA)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "WEBD",
+   "name": "WebDollar (WEBD)"
+  },
+  {
+   "symbol": "MGPT",
+   "name": "MotoGP Fan Token (MGPT)",
+   "built_on": "BITCI"
+  },
+  {
+   "symbol": "DST",
+   "name": "Double Swap Token (DST)",
+   "built_on": "BIO"
+  },
+  {
+   "symbol": "MSHIB",
+   "name": "Magic Shiba Starter (MSHIB)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "MOROS",
+   "name": "MOROS NET (MOROS)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "YOBASE",
+   "name": "All Your Base (YOBASE)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "G",
+   "name": "GRN Grid (G)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "RJV",
+   "name": "Rejuve.AI (RJV)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "ESCE",
+   "name": "Escroco Emerald (ESCE)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "DATP",
+   "name": "Decentralized Asset Trading Platform (DATP)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "PAM",
+   "name": "PAM (PAM)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "VROOM",
+   "name": "TurboPepe (VROOM)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "POPO",
+   "name": "popo (POPO)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "BANKETH",
+   "name": "BankEth (BANKETH)"
+  },
+  {
+   "symbol": "WSTUSDT",
+   "name": "wstUSDT (WSTUSDT)",
+   "built_on": "TRX"
+  },
+  {
+   "symbol": "DCTO",
+   "name": "Decentralized Crypto Token (DCTO)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "INEDIBLE",
+   "name": "INEDIBLE (INEDIBLE)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "PEPEARMY",
+   "name": "PEPEARMY (PEPEARMY)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "GOOCH",
+   "name": "Gooch (GOOCH)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "WHEX",
+   "name": "Whale Exploder (WHEX)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "HMTT",
+   "name": "Hype Meme Token (HMTT)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "MONGBNB",
+   "name": "MongBNB (MONGBNB)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "SIMPSONSINU",
+   "name": "The Simpsons Inu (SIMPSONSINU)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "5IRE",
+   "name": "5ire (5IRE)"
+  },
+  {
+   "symbol": "DASHG",
+   "name": "Dash Green (DASHG)"
+  },
+  {
+   "symbol": "SDOPE",
+   "name": "SHIBADOGEPEPE (SDOPE)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "NLS",
+   "name": "Nolus (NLS)"
+  },
+  {
+   "symbol": "RFT",
+   "name": "Rangers Fan Token (RFT)",
+   "built_on": "BITCI"
+  },
+  {
+   "symbol": "PSUB",
+   "name": "Payment Swap Utility Board (PSUB)",
+   "built_on": "KLAY"
+  },
+  {
+   "symbol": "NIHAO",
+   "name": "NiHao (NIHAO)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "BRIUM",
+   "name": "Bearium (BRIUM)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "TRXC",
+   "name": "TRONCLASSIC (TRXC)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "MODX",
+   "name": "MODEL-X-coin (MODX)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "ANKRBNB",
+   "name": "Ankr Staked BNB (ANKRBNB)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "HACHI",
+   "name": "Hachi (HACHI)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "MLD",
+   "name": "MonoLend (MLD)",
+   "built_on": "MATIC"
+  },
+  {
+   "symbol": "DEXNET",
+   "name": "DexNet (DEXNET)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "ZKSP",
+   "name": "zkSwap (ZKSP)",
+   "built_on": "ZKSYNC"
+  },
+  {
+   "symbol": "TUCKER",
+   "name": "TUCKER CARLSON (TUCKER)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "PEPEGA",
+   "name": "Pepe GEM AI (PEPEGA)",
+   "built_on": "BNB"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "MGPT",
+   "name": "MotoGP Fan Token (MGPT)"
+  },
+  {
+   "symbol": "ENJ",
+   "name": "Enjin Coin (ENJ)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "RFT",
+   "name": "Rangers Fan Token (RFT)"
+  },
+  {
+   "symbol": "CLY",
+   "name": "Colony (CLY)"
+  }
+ ]
+}

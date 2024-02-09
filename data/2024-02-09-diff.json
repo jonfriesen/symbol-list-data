@@ -1,0 +1,206 @@
+{
+ "added": [
+  {
+   "symbol": "BST",
+   "name": "Bessor Minerals Inc.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "BST.V",
+   "instruments": [
+    {
+     "name": "Bessor Minerals Inc.",
+     "symbol": "BST"
+    }
+   ]
+  },
+  {
+   "symbol": "CYTO",
+   "name": "Cytophage Technologies Ltd.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "CYTO.V",
+   "instruments": [
+    {
+     "name": "Cytophage Technologies Ltd.",
+     "symbol": "CYTO"
+    }
+   ]
+  },
+  {
+   "symbol": "SPMC",
+   "name": "South Pacific Metals Corp.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "SPMC.V",
+   "instruments": [
+    {
+     "name": "South Pacific Metals Corp.",
+     "symbol": "SPMC"
+    }
+   ]
+  },
+  {
+   "symbol": "STLR",
+   "name": "STLLR Gold Inc.",
+   "exchange": "TSX",
+   "yahoo_symbol": "STLR.TO",
+   "instruments": [
+    {
+     "name": "Moneta Gold Inc. J",
+     "symbol": "STLR"
+    },
+    {
+     "name": "Nighthawk Gold J Wt",
+     "symbol": "STLR.WT"
+    }
+   ]
+  },
+  {
+   "symbol": "TBBB",
+   "name": "BBB Foods Inc. Class A Common Shares",
+   "exchange": "NYSE",
+   "yahoo_symbol": "TBBB"
+  },
+  {
+   "symbol": "GNLN",
+   "name": "Greenlane Holdings, Inc. - Class A Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "GNLN"
+  },
+  {
+   "symbol": "GRYP",
+   "name": "Gryphon Digital Mining, Inc - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "GRYP"
+  },
+  {
+   "symbol": "KYTX",
+   "name": "Kyverna Therapeutics, Inc. - Common Stock",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "KYTX"
+  },
+  {
+   "symbol": "MNTS",
+   "name": "Momentus Inc. - Class A Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "MNTS"
+  },
+  {
+   "symbol": "MNTSW",
+   "name": "Momentus Inc. - Warrant",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "MNTSW"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "ALYA",
+   "name": "Alithya Group inc. - Class A subordinate voting shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "ALYA"
+  },
+  {
+   "symbol": "KERNW",
+   "name": "Akerna Corp. - Warrant",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "KERNW"
+  },
+  {
+   "symbol": "ET$C",
+   "name": "Energy Transfer L.P. 7.375% Series C Fixed-to-Floating Rate Cumulative Redeemable Perpetual Preferred Unit",
+   "exchange": "NYSE",
+   "yahoo_symbol": "ET$C"
+  },
+  {
+   "symbol": "GNLN",
+   "name": "Greenlane Holdings, Inc. - Class A Common Stock",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "GNLN"
+  },
+  {
+   "symbol": "ET$D",
+   "name": "Energy Transfer L.P. 7.625% Series D Fixed-to-Floating Rate Cumulative Redeemable Perpetual Preferred Unit",
+   "exchange": "NYSE",
+   "yahoo_symbol": "ET$D"
+  },
+  {
+   "symbol": "NHK",
+   "name": "Nighthawk Gold Corp.",
+   "exchange": "TSX",
+   "yahoo_symbol": "NHK.TO",
+   "instruments": [
+    {
+     "name": "Nighthawk Gold J",
+     "symbol": "NHK"
+    },
+    {
+     "name": "Nighthawk Gold J Wt",
+     "symbol": "NHK.WT"
+    }
+   ]
+  },
+  {
+   "symbol": "NM$G",
+   "name": "Navios Maritime Holdings Inc. Sponsored ADR Representing 1/100th Perpetual Preferred Series G (Marshall Islands)",
+   "exchange": "NYSE",
+   "yahoo_symbol": "NM$G"
+  },
+  {
+   "symbol": "CIII.P",
+   "name": "Cuspis Capital III Ltd.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "CIII.P.V",
+   "instruments": [
+    {
+     "name": "Cuspis Capital III Ltd.",
+     "symbol": "CIII.P"
+    }
+   ]
+  },
+  {
+   "symbol": "NM$H",
+   "name": "Navios Maritime Holdings Inc. Sponsored ADR Representing 1/100th Perp. Preferred Series H%",
+   "exchange": "NYSE",
+   "yahoo_symbol": "NM$H"
+  },
+  {
+   "symbol": "MNTSW",
+   "name": "Momentus Inc. - Warrant",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "MNTSW"
+  },
+  {
+   "symbol": "KERN",
+   "name": "Akerna Corp. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "KERN"
+  },
+  {
+   "symbol": "KRL",
+   "name": "Kainantu Resources Ltd.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "KRL.V",
+   "instruments": [
+    {
+     "name": "Kainantu Resources Ltd.",
+     "symbol": "KRL"
+    }
+   ]
+  },
+  {
+   "symbol": "MNTS",
+   "name": "Momentus Inc. - Class A Common Stock",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "MNTS"
+  },
+  {
+   "symbol": "ME",
+   "name": "Moneta Gold Inc.",
+   "exchange": "TSX",
+   "yahoo_symbol": "ME.TO",
+   "instruments": [
+    {
+     "name": "Moneta Gold Inc. J",
+     "symbol": "ME"
+    }
+   ]
+  }
+ ]
+}
