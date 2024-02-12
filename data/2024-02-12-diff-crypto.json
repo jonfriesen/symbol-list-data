@@ -1,0 +1,148 @@
+{
+ "added": [
+  {
+   "symbol": "MIND",
+   "name": "MINDOL (MIND)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "BABYHONK",
+   "name": "Baby Honk (BABYHONK)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "FRIC",
+   "name": "Frictionless (FRIC)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "SUBS",
+   "name": "Substratum Network (SUBS)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "JUPI",
+   "name": "Jupiter (JUPI)"
+  },
+  {
+   "symbol": "ELONDRAGON",
+   "name": "ELON DRAGON (ELONDRAGON)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "HIDOODLES",
+   "name": "hiDOODLES (HIDOODLES)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "ICLICK",
+   "name": "Iclick inu (ICLICK)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "PG",
+   "name": "Pepe Grow (PG)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "MINERALS",
+   "name": "Minerals Coin (MINERALS)"
+  },
+  {
+   "symbol": "TECAR",
+   "name": "Tesla Cars (TECAR)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "ASC",
+   "name": "Ascend (ASC)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "FRENS",
+   "name": "Farmer Friends (FRENS)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "ASEED",
+   "name": "aUSD SEED (Acala) (ASEED)",
+   "built_on": "ACA"
+  },
+  {
+   "symbol": "SOR",
+   "name": "Sorcery (SOR)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "G",
+   "name": "GRN Grid (G)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "AUDF",
+   "name": "Forte AUD (AUDF)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "BEATLES",
+   "name": "JohnLennonC0IN (BEATLES)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "SAFTP",
+   "name": "Simple Agreement for Future Tokens (SAFTP)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "INSR",
+   "name": "Insurabler (INSR)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "DOGETH",
+   "name": "EtherDoge (DOGETH)"
+  },
+  {
+   "symbol": "ACALAUSD",
+   "name": "Acala Dollar (Acala) (ACALAUSD)"
+  },
+  {
+   "symbol": "JUP",
+   "name": "Jupiter (JUP)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "MXRP",
+   "name": "Monsta XRP (MXRP)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "BANK",
+   "name": "Float Protocol (BANK)",
+   "built_on": "ETH"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "MINRL",
+   "name": "Minerals Coin (MINRL)"
+  },
+  {
+   "symbol": "ASEED",
+   "name": "aUSD SEED (Acala) (ASEED)"
+  },
+  {
+   "symbol": "MIN",
+   "name": "MINDOL (MIN)"
+  },
+  {
+   "symbol": "SUB",
+   "name": "Substratum Network (SUB)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "JUP",
+   "name": "Jupiter (JUP)"
+  }
+ ]
+}

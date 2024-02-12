@@ -1,0 +1,144 @@
+{
+ "added": [
+  {
+   "symbol": "DHAI",
+   "name": "DIH Holding US, Inc. - Class A Common Stock",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "DHAI"
+  },
+  {
+   "symbol": "DHAIW",
+   "name": "DIH Holding US, Inc. - Warrant",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "DHAIW"
+  },
+  {
+   "symbol": "HLXB",
+   "name": "Helix Acquisition Corp. II - Class A Ordinary Shares",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "HLXB"
+  },
+  {
+   "symbol": "MGX",
+   "name": "Metagenomi, Inc. - Common Stock",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "MGX"
+  },
+  {
+   "symbol": "PLMJ",
+   "name": "Plum Acquisition Corp. III - Class A Ordinary Shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "PLMJ"
+  },
+  {
+   "symbol": "PLMJU",
+   "name": "Plum Acquisition Corp. III - Unit",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "PLMJU"
+  },
+  {
+   "symbol": "PLMJW",
+   "name": "Plum Acquisition Corp. III - Warrant",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "PLMJW"
+  },
+  {
+   "symbol": "TELO",
+   "name": "Telomir Pharmaceuticals, Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "TELO"
+  },
+  {
+   "symbol": "ATCH",
+   "name": "AtlasClear Holdings, Inc. Common Stock",
+   "exchange": "NYSE MKT",
+   "yahoo_symbol": "ATCH"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "HHLA.W",
+   "name": "HH\u0026L Acquisition Co. Redeemable warrants, each warrant exercisable for one Class A ordinary share at an exercise price of $11.50",
+   "exchange": "NYSE",
+   "yahoo_symbol": "HHLA.W"
+  },
+  {
+   "symbol": "IMACW",
+   "name": "IMAC Holdings, Inc. - Warrant",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "IMACW"
+  },
+  {
+   "symbol": "QFTA",
+   "name": "Quantum FinTech Acquisition Corporation Common Stock",
+   "exchange": "NYSE MKT",
+   "yahoo_symbol": "QFTA"
+  },
+  {
+   "symbol": "SFE",
+   "name": "Safeguard Scientifics, Inc. - Common stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "SFE"
+  },
+  {
+   "symbol": "NTCO",
+   "name": "Natura \u0026Co Holding S.A. American Depositary Shares ",
+   "exchange": "NYSE",
+   "yahoo_symbol": "NTCO"
+  },
+  {
+   "symbol": "APTMU",
+   "name": "Alpha Partners Technology Merger Corp. - Unit",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "APTMU"
+  },
+  {
+   "symbol": "HHLA",
+   "name": "HH\u0026L Acquisition Co. Class A Ordinary Shares",
+   "exchange": "NYSE",
+   "yahoo_symbol": "HHLA"
+  },
+  {
+   "symbol": "PMKR",
+   "name": "Playmaker Capital Inc.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "PMKR.V",
+   "instruments": [
+    {
+     "name": "Playmaker Capital Inc.",
+     "symbol": "PMKR"
+    }
+   ]
+  },
+  {
+   "symbol": "APTM",
+   "name": "Alpha Partners Technology Merger Corp. - Class A Ordinary Shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "APTM"
+  },
+  {
+   "symbol": "FCO",
+   "name": "Fabled Silver Gold Corp.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "FCO.V",
+   "instruments": [
+    {
+     "name": "Fabled Silver Gold Corp.",
+     "symbol": "FCO"
+    }
+   ]
+  },
+  {
+   "symbol": "APTMW",
+   "name": "Alpha Partners Technology Merger Corp. - Warrant",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "APTMW"
+  },
+  {
+   "symbol": "HHLA.U",
+   "name": "HH\u0026L Acquisition Co. Units, each consisting of one Class A ordinary share and one-half of one redeemable warrant",
+   "exchange": "NYSE",
+   "yahoo_symbol": "HHLA.U"
+  }
+ ]
+}
