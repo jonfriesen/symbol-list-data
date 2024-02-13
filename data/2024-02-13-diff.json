@@ -1,0 +1,102 @@
+{
+ "added": [
+  {
+   "symbol": "AERO",
+   "name": "Aero Energy Limited",
+   "exchange": "TSXV",
+   "yahoo_symbol": "AERO.V",
+   "instruments": [
+    {
+     "name": "Aero Energy Limited",
+     "symbol": "AERO"
+    }
+   ]
+  },
+  {
+   "symbol": "MLO",
+   "name": "Metalero Mining Corp.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "MLO.V",
+   "instruments": [
+    {
+     "name": "Metalero Mining Corp.",
+     "symbol": "MLO"
+    }
+   ]
+  },
+  {
+   "symbol": "PRKS",
+   "name": "United Parks \u0026 Resorts Inc. Common Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "PRKS"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "AEY",
+   "name": "ADDvantage Technologies Group, Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "AEY"
+  },
+  {
+   "symbol": "SEAS",
+   "name": "SeaWorld Entertainment, Inc. Common Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "SEAS"
+  },
+  {
+   "symbol": "CPTK",
+   "name": "Crown PropTech Acquisitions Class A Ordinary Shares",
+   "exchange": "NYSE",
+   "yahoo_symbol": "CPTK"
+  },
+  {
+   "symbol": "CPTK.U",
+   "name": "Crown PropTech Acquisitions Units, each consisting of one Class A ordinary share and one-third of one redeemable warrant",
+   "exchange": "NYSE",
+   "yahoo_symbol": "CPTK.U"
+  },
+  {
+   "symbol": "NVIV",
+   "name": "InVivo Therapeutics Holdings Corp. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "NVIV"
+  },
+  {
+   "symbol": "MDVL",
+   "name": "MedAvail Holdings, Inc.  - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "MDVL"
+  },
+  {
+   "symbol": "IMGN",
+   "name": "ImmunoGen, Inc. - Common Stock",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "IMGN"
+  },
+  {
+   "symbol": "CRTS",
+   "name": "Cortus Metals Inc.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "CRTS.V",
+   "instruments": [
+    {
+     "name": "Cortus Metals Inc.",
+     "symbol": "CRTS"
+    }
+   ]
+  },
+  {
+   "symbol": "AAU",
+   "name": "Angold Resources Ltd.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "AAU.V",
+   "instruments": [
+    {
+     "name": "Angold Resources Ltd.",
+     "symbol": "AAU"
+    }
+   ]
+  }
+ ]
+}
