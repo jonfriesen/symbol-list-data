@@ -1,0 +1,102 @@
+{
+ "added": [
+  {
+   "symbol": "CANQ",
+   "name": "Calamos Alternative Nasdaq \u0026 Bond ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "CANQ"
+  },
+  {
+   "symbol": "CRGE",
+   "name": "Charge Enterprises, Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "CRGE"
+  },
+  {
+   "symbol": "AXIL",
+   "name": "AXIL Brands, Inc. Common Stock",
+   "exchange": "NYSE MKT",
+   "yahoo_symbol": "AXIL"
+  },
+  {
+   "symbol": "UMAC",
+   "name": "Unusual Machines, Inc. Common Stock",
+   "exchange": "NYSE MKT",
+   "yahoo_symbol": "UMAC"
+  },
+  {
+   "symbol": "CUEX",
+   "name": "CopperEx Resources Corporation",
+   "exchange": "TSXV",
+   "yahoo_symbol": "CUEX.V",
+   "instruments": [
+    {
+     "name": "CopperEx Resources Corporation",
+     "symbol": "CUEX"
+    }
+   ]
+  },
+  {
+   "symbol": "GAB",
+   "name": "Gabo Mining Ltd.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "GAB.V",
+   "instruments": [
+    {
+     "name": "Gabo Mining Ltd.",
+     "symbol": "GAB"
+    }
+   ]
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "MDL",
+   "name": "Medallion Resources Ltd.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "MDL.V",
+   "instruments": [
+    {
+     "name": "Medallion Resources Ltd.",
+     "symbol": "MDL"
+    }
+   ]
+  },
+  {
+   "symbol": "CRGE",
+   "name": "Charge Enterprises, Inc. - Common Stock",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "CRGE"
+  },
+  {
+   "symbol": "NSTG",
+   "name": "NanoString Technologies, Inc. - Common Stock",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "NSTG"
+  },
+  {
+   "symbol": "IBO",
+   "name": "IBO (Listing Market - NYSE Amex Network B F) Common Stock",
+   "exchange": "NYSE MKT",
+   "yahoo_symbol": "IBO"
+  },
+  {
+   "symbol": "MARK",
+   "name": "Remark Holdings, Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "MARK"
+  },
+  {
+   "symbol": "GHM.P",
+   "name": "Gotham Resource Corp.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "GHM.P.V",
+   "instruments": [
+    {
+     "name": "Gotham Resource Corp.",
+     "symbol": "GHM.P"
+    }
+   ]
+  }
+ ]
+}

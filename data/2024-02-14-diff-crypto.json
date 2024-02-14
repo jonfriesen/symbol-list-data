@@ -1,0 +1,264 @@
+{
+ "added": [
+  {
+   "symbol": "BABYDRAGON",
+   "name": "Baby Dragon (BABYDRAGON)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "SEEDX",
+   "name": "SEEDx (SEEDX)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "POPE",
+   "name": "Popecoin (POPE)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "SHAUN",
+   "name": "SHAUN INU (SHAUN)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "TOKA",
+   "name": "Tonka Finance (TOKA)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "MGAR",
+   "name": "Metagame Arena (MGAR)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "SQUID2",
+   "name": "Squid Game 2.0 (SQUID2)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "SHANG",
+   "name": "Shanghai Inu (SHANG)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "BANK",
+   "name": "Float Protocol (BANK)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "HXD",
+   "name": "Honeyland (HXD)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "HF",
+   "name": "Have Fun (HF)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "RXO",
+   "name": "RocketXRP Official (RXO)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "ARTT",
+   "name": "ARTT Network (ARTT)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "PURSE",
+   "name": "Pundi X PURSE (PURSE)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "ACTA",
+   "name": "Acta Finance (ACTA)",
+   "built_on": "AVAX"
+  },
+  {
+   "symbol": "KEKEC",
+   "name": "THE BALKAN DWARF (KEKEC)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "FLOKIPEPE",
+   "name": "FlokiPepe (FLOKIPEPE)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "PZT",
+   "name": "Pizon (PZT)",
+   "built_on": "ARB"
+  },
+  {
+   "symbol": "OHMV2",
+   "name": "Olympus v2 (OHMv2)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "GHUB",
+   "name": "GemHUB (GHUB)",
+   "built_on": "KLAY"
+  },
+  {
+   "symbol": "CREMAT",
+   "name": "Cremation Coin (CREMAT)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "THING",
+   "name": "Nothing (THING)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "FACTR",
+   "name": "Defactor (FACTR)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "SWITCH",
+   "name": "Switch (SWITCH)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "BOBO",
+   "name": "BOBO (BOBO)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "CAPO",
+   "name": "IL CAPO OF CRYPTO (CAPO)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "REDPEPE",
+   "name": "Red Pepe (REDPEPE)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "VIZ",
+   "name": "Vision City (VIZ)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "SSE",
+   "name": "Soroosh Smart Ecosystem (SSE)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "SWU",
+   "name": "Smart World Union (SWU)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "CRI3X",
+   "name": "CRI3X (CRI3X)",
+   "built_on": "MATIC"
+  },
+  {
+   "symbol": "PTH",
+   "name": "PlasticHero (PTH)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "HQR",
+   "name": "Hayya Qatar (HQR)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "NUTGV2",
+   "name": "NUTGAIN (NUTGV2)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "ROO",
+   "name": "Lucky Roo (ROO)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "NINJAZ",
+   "name": "Danketsu (NINJAZ)",
+   "built_on": "ADA"
+  },
+  {
+   "symbol": "BCG",
+   "name": "BlockChainGames (BCG)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "G",
+   "name": "GRN Grid (G)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "CCGDS",
+   "name": "CCGDS (CCGDS)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "LENFI",
+   "name": "Lenfi (LENFI)",
+   "built_on": "ADA"
+  },
+  {
+   "symbol": "AFG",
+   "name": "Army of Fortune Gem (AFG)",
+   "built_on": "ARB"
+  },
+  {
+   "symbol": "RMV",
+   "name": "Reality Metaverse (RMV)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "CAPY",
+   "name": "Capybara (CAPY)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "OGZ",
+   "name": "OGzClub (OGZ)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "NCOP",
+   "name": "NCOP (NCOP)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "HLN",
+   "name": "Holonus (HLN)"
+  },
+  {
+   "symbol": "TED",
+   "name": "TED (TED)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "WDOG",
+   "name": "Winterdog (WDOG)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "EFBAI",
+   "name": "EuroFootball AI (EFBAI)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "QDC",
+   "name": "Quadrillion Coin (QDC)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "DOG",
+   "name": "The Doge NFT (DOG)",
+   "built_on": "ETH"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "OHMV2",
+   "name": "Olympus v2 (OHMv2)"
+  }
+ ]
+}
