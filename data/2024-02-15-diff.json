@@ -1,0 +1,234 @@
+{
+ "added": [
+  {
+   "symbol": "MSCL",
+   "name": "Satellos Bioscience Inc.",
+   "exchange": "TSX",
+   "yahoo_symbol": "MSCL.TO",
+   "instruments": [
+    {
+     "name": "Satellos Bioscience ",
+     "symbol": "MSCL"
+    }
+   ]
+  },
+  {
+   "symbol": "CERO",
+   "name": "CERo Therapeutics Holdings, Inc. - Common Stock",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "CERO"
+  },
+  {
+   "symbol": "CEROW",
+   "name": "CERo Therapeutics Holdings, Inc. - Warrants",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "CEROW"
+  },
+  {
+   "symbol": "TVGN",
+   "name": "Tevogen Bio Holdings Inc. - Common Stock",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "TVGN"
+  },
+  {
+   "symbol": "TVGNW",
+   "name": "Tevogen Bio Holdings Inc. - Warrant",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "TVGNW"
+  },
+  {
+   "symbol": "SOC",
+   "name": "Sable Offshore Corp. Common Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "SOC"
+  },
+  {
+   "symbol": "SOC.W",
+   "name": "Sable Offshore Corp. Warrants, each whole warrant exercisable for one share of Common Stock at an exercise price of $11.50",
+   "exchange": "NYSE",
+   "yahoo_symbol": "SOC.W"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "THRX",
+   "name": "Theseus Pharmaceuticals, Inc. - Common Stock",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "THRX"
+  },
+  {
+   "symbol": "LGSTW",
+   "name": "Semper Paratus Acquisition Corporation - Warrant",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "LGSTW"
+  },
+  {
+   "symbol": "HMJU",
+   "name": "BetaPro Marijuana Companies 2x Daily Bull ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "HMJU.TO",
+   "instruments": [
+    {
+     "name": "BetaPro MarijCo2xBul",
+     "symbol": "HMJU"
+    }
+   ]
+  },
+  {
+   "symbol": "HMJI",
+   "name": "BetaPro Marijuana Companies Inverse ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "HMJI.TO",
+   "instruments": [
+    {
+     "name": "BetaPro MarijCoInvrA",
+     "symbol": "HMJI"
+    }
+   ]
+  },
+  {
+   "symbol": "LGST",
+   "name": "Semper Paratus Acquisition Corporation - Class A Ordinary Shares",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "LGST"
+  },
+  {
+   "symbol": "FLME.W",
+   "name": "Flame Acquisition Corp. Warrants, each whole warrant exercisable for one share of Class A Common Stock at an exercise price of $11.50",
+   "exchange": "NYSE",
+   "yahoo_symbol": "FLME.W"
+  },
+  {
+   "symbol": "FNB$E",
+   "name": "F.N.B. Corporation Depositary Shares, each representing a 1/40th interest in a share of Fixed-to-Floating Rate Non-Cumulative Perpetual Preferred  Stock, Series E",
+   "exchange": "NYSE",
+   "yahoo_symbol": "FNB$E"
+  },
+  {
+   "symbol": "HAEB",
+   "name": "Horizons Active ESG Corporate Bond ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "HAEB.TO",
+   "instruments": [
+    {
+     "name": "HoriznActESG CrpBndA",
+     "symbol": "HAEB"
+    }
+   ]
+  },
+  {
+   "symbol": "NRAC",
+   "name": "Northern Revival Acquisition Corporation - Class A Ordinary share",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "NRAC"
+  },
+  {
+   "symbol": "FLME.U",
+   "name": "Flame Acquisition Corp. Units, each consisting of one share of Class A Common Stock, and one-half of one Warrant",
+   "exchange": "NYSE",
+   "yahoo_symbol": "FLME.U"
+  },
+  {
+   "symbol": "LGSTU",
+   "name": "Semper Paratus Acquisition Corporation - Unit",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "LGSTU"
+  },
+  {
+   "symbol": "SUNW",
+   "name": "Sunworks, Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "SUNW"
+  },
+  {
+   "symbol": "FLME",
+   "name": "Flame Acquisition Corp. Class A Common Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "FLME"
+  },
+  {
+   "symbol": "PBAX",
+   "name": "Phoenix Biotech Acquisition Corp. - Class A Common Stock",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "PBAX"
+  },
+  {
+   "symbol": "NRACU",
+   "name": "Northern Revival Acquisition Corporation - Unit",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "NRACU"
+  },
+  {
+   "symbol": "PBAXW",
+   "name": "Phoenix Biotech Acquisition Corp. - Warrants",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "PBAXW"
+  },
+  {
+   "symbol": "AESC",
+   "name": "The AES Corporation Corporate Units",
+   "exchange": "NYSE",
+   "yahoo_symbol": "AESC"
+  },
+  {
+   "symbol": "PBAXU",
+   "name": "Phoenix Biotech Acquisition Corp. - Unit",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "PBAXU"
+  },
+  {
+   "symbol": "OREA",
+   "name": "Orea Mining Corp.",
+   "exchange": "TSX",
+   "yahoo_symbol": "OREA.TO",
+   "instruments": [
+    {
+     "name": "Orea Mining Corp J",
+     "symbol": "OREA"
+    }
+   ]
+  },
+  {
+   "symbol": "BDIC",
+   "name": "Black Diamond Impact Core Equity Fund",
+   "exchange": "TSX",
+   "yahoo_symbol": "BDIC.TO",
+   "instruments": [
+    {
+     "name": "Black Dia ImpctEq Un",
+     "symbol": "BDIC"
+    }
+   ]
+  },
+  {
+   "symbol": "MSCL",
+   "name": "Satellos Bioscience Inc.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "MSCL.V",
+   "instruments": [
+    {
+     "name": "Satellos Bioscience Inc.",
+     "symbol": "MSCL"
+    }
+   ]
+  },
+  {
+   "symbol": "BDEQ",
+   "name": "Black Diamond Global Equity Fund",
+   "exchange": "TSX",
+   "yahoo_symbol": "BDEQ.TO",
+   "instruments": [
+    {
+     "name": "Black DiamndGlbEq Un",
+     "symbol": "BDEQ"
+    }
+   ]
+  },
+  {
+   "symbol": "NRACW",
+   "name": "Northern Revival Acquisition Corporation - Warrant",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "NRACW"
+  }
+ ]
+}
