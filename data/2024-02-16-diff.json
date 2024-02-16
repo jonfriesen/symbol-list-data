@@ -1,0 +1,66 @@
+{
+ "added": [
+  {
+   "symbol": "SCD",
+   "name": "Scandium Canada Ltd.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "SCD.V",
+   "instruments": [
+    {
+     "name": "Scandium Canada Ltd.",
+     "symbol": "SCD"
+    }
+   ]
+  },
+  {
+   "symbol": "CHRO",
+   "name": "Chromocell Therapeutics Corporation Common Stock",
+   "exchange": "NYSE MKT",
+   "yahoo_symbol": "CHRO"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "VSR",
+   "name": "Vanstar Mining Resources Inc.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "VSR.V",
+   "instruments": [
+    {
+     "name": "Vanstar Mining Resources Inc",
+     "symbol": "VSR"
+    }
+   ]
+  },
+  {
+   "symbol": "CHEAU",
+   "name": "Chenghe Acquisition Co. - Unit",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "CHEAU"
+  },
+  {
+   "symbol": "SNMP",
+   "name": "Evolve Transition Infrastructure LP Common Units representing Class B Limited Liability Company Interests",
+   "exchange": "NYSE MKT",
+   "yahoo_symbol": "SNMP"
+  },
+  {
+   "symbol": "IPG",
+   "name": "Imperial Mining Group Ltd.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "IPG.V",
+   "instruments": [
+    {
+     "name": "Imperial Mining Group Ltd.",
+     "symbol": "IPG"
+    }
+   ]
+  },
+  {
+   "symbol": "CHEA",
+   "name": "Chenghe Acquisition Co. - Class A Ordinary Share",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "CHEA"
+  }
+ ]
+}

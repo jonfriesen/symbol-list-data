@@ -1,0 +1,428 @@
+{
+ "added": [
+  {
+   "symbol": "PEPEDAO",
+   "name": "PEPE DAO (PEPEDAO)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "OTSEA",
+   "name": "OTSea (OTSEA)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "OREO",
+   "name": "OreoFi (OREO)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "SOCCER",
+   "name": "SoccerInu (SOCCER)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "TONS",
+   "name": "TONSniper (TONS)",
+   "built_on": "TONCOIN"
+  },
+  {
+   "symbol": "SMOG",
+   "name": "Smog (SMOG)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "LVM",
+   "name": "LakeViewMeta (LVM)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "JPGC",
+   "name": "JPGold Coin (JPGC)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "PRESALE",
+   "name": "Presale.World (PRESALE)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "BIGBANGCORE",
+   "name": "BigBang Core (BIGBANGCORE)"
+  },
+  {
+   "symbol": "LIZA",
+   "name": "Liza (LIZA)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "PPL",
+   "name": "Pink Panther Lovers (PPL)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "SKCS",
+   "name": "Staked KCS (SKCS)",
+   "built_on": "KCS"
+  },
+  {
+   "symbol": "SWIM",
+   "name": "SWIM - Spread Wisdom (SWIM)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "D2T",
+   "name": "Dash 2 Trade (D2T)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "GGPT",
+   "name": "Generative GPT (GGPT)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "LIQD",
+   "name": "Liquid Finance (LIQD)",
+   "built_on": "ARB"
+  },
+  {
+   "symbol": "MODC",
+   "name": "Modclub (MODC)",
+   "built_on": "ICP"
+  },
+  {
+   "symbol": "TRUMPCOIN",
+   "name": "TrumpCoin (TRUMPCOIN)"
+  },
+  {
+   "symbol": "HOMMIES",
+   "name": "HOMMIES (HOMMIES)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "MLXC",
+   "name": "Marvellex Classic (MLXC)"
+  },
+  {
+   "symbol": "DECODE",
+   "name": "Decode Coin (DECODE)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "ESPR",
+   "name": "Espresso Bot (ESPR)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "AKITAX",
+   "name": "Akitavax (AKITAX)",
+   "built_on": "AVAX"
+  },
+  {
+   "symbol": "ATNT",
+   "name": "Artizen (ATNT)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "JKL",
+   "name": "Jackal Protocol (JKL)"
+  },
+  {
+   "symbol": "XDAO",
+   "name": "XDAO (XDAO)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "HAYYA",
+   "name": "GO HAYYA (HAYYA)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "NSK",
+   "name": "NSKSwap (NSK)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "BABYBINANCE",
+   "name": "BABYBINANCE (BABYBINANCE)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "ARBS",
+   "name": "Arbswap (ARBS)",
+   "built_on": "ARB"
+  },
+  {
+   "symbol": "LBT",
+   "name": "Law Blocks (LBT)",
+   "built_on": "XDC"
+  },
+  {
+   "symbol": "NXN",
+   "name": "Naxion (NXN)"
+  },
+  {
+   "symbol": "KLUB",
+   "name": "KlubCoin (KLUB)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "BRANA",
+   "name": "Branaverse (BRANA)",
+   "built_on": "MATIC"
+  },
+  {
+   "symbol": "MONIE",
+   "name": "Infiblue World (MONIE)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "BOXETH",
+   "name": "Cat-in-a-Box Ether (BOXETH)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "BBC",
+   "name": "Bull BTC Club (BBC)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "XAH",
+   "name": "Xahau (XAH)"
+  },
+  {
+   "symbol": "AISHIB",
+   "name": "ARBSHIB (AISHIB)",
+   "built_on": "ARB"
+  },
+  {
+   "symbol": "STD",
+   "name": "STEED (STD)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "DOGMI",
+   "name": "DOGMI (DOGMI)",
+   "built_on": "ICP"
+  },
+  {
+   "symbol": "GPTG",
+   "name": "GPT Guru (GPTG)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "CRTB",
+   "name": "Coritiba F.C. Fan Token (CRTB)",
+   "built_on": "BITCI"
+  },
+  {
+   "symbol": "NTG",
+   "name": "NEWTOWNGAMING (NTG)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "WHEE",
+   "name": "WHEE (Ordinals) (WHEE)",
+   "built_on": "BTC"
+  },
+  {
+   "symbol": "SHIBL",
+   "name": "ShibLa (SHIBL)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "SHAN",
+   "name": "Shanum (SHAN)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "BBCG",
+   "name": "BBC Gold Coin (BBCG)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "BRCT",
+   "name": "BRC App (BRCT)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "RINIA",
+   "name": "Rinia Inu (RINIA)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "G",
+   "name": "GRN Grid (G)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "MTHN",
+   "name": "MTH Network (MTHN)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "STSTARS",
+   "name": "Stride Staked Stars (STSTARS)"
+  },
+  {
+   "symbol": "BBCT",
+   "name": "TraDove B2BCoin (BBCT)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "WCA",
+   "name": "WCAPES (WCA)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "MXZ",
+   "name": "Maximus Coin (MXZ)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "KDX",
+   "name": "eckoDAO (KDX)"
+  },
+  {
+   "symbol": "SWIFTIES",
+   "name": "Taylor Swift (SWIFTIES)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "GOETH",
+   "name": "Algomint (GOETH)",
+   "built_on": "ALGO"
+  },
+  {
+   "symbol": "BANKETH",
+   "name": "BankEth (BANKETH)"
+  },
+  {
+   "symbol": "ITHEUM",
+   "name": "Itheum (ITHEUM)",
+   "built_on": "EGLD"
+  },
+  {
+   "symbol": "ADO",
+   "name": "ADO Protocol (ADO)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "PROTEO",
+   "name": "Proteo DeFi (PROTEO)"
+  },
+  {
+   "symbol": "LIS",
+   "name": "Realis Network (LIS)"
+  },
+  {
+   "symbol": "MOONION",
+   "name": "Moonions (MOONION)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "EPIX",
+   "name": "Byepix (EPIX)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "OPEPE",
+   "name": "Optimism PEPE (OPEPE)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "HOBBES",
+   "name": "Hobbes (HOBBES)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "YDOGE",
+   "name": "Yorkie Doge (YDOGE)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "SIPHON",
+   "name": "Siphon Life Spell (SIPHON)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "ASTRADAO",
+   "name": "Astra DAO (ASTRADAO)",
+   "built_on": "ARB"
+  },
+  {
+   "symbol": "USPLUS",
+   "name": "Fluent Finance (USPLUS)",
+   "built_on": "XDC"
+  },
+  {
+   "symbol": "3AIR",
+   "name": "3air (3AIR)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "CCHG",
+   "name": "C+Charge (CCHG)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "REUNI",
+   "name": "Reunit Wallet (REUNI)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "CHICA",
+   "name": "CHICA (CHICA)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "AIBABYDOGE",
+   "name": "AIBabyDoge (AIBABYDOGE)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "MINIMYRO",
+   "name": "Mini Myro (MINIMYRO)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "KUMU",
+   "name": "Kumu Finance (KUMU)",
+   "built_on": "KLAY"
+  },
+  {
+   "symbol": "BAFC",
+   "name": "BabyApeFunClub (BAFC)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "PEEPO",
+   "name": "PEEPO (PEEPO)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "COLT",
+   "name": "Collateral Network (COLT)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "DOG",
+   "name": "The Doge NFT (DOG)",
+   "built_on": "ETH"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "TRUMP",
+   "name": "TrumpCoin (TRUMP)"
+  },
+  {
+   "symbol": "BBC",
+   "name": "BigBang Core (BBC)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "BBCT",
+   "name": "TraDove B2BCoin (BBCT)"
+  }
+ ]
+}
