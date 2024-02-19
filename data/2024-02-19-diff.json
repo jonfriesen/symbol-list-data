@@ -1,0 +1,28 @@
+{
+ "added": [
+  {
+   "symbol": "IROH",
+   "name": "Iron Horse Acquisitions Corp. - Common Stock",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "IROH"
+  },
+  {
+   "symbol": "IROHR",
+   "name": "Iron Horse Acquisitions Corp. - one right to one-fifth (1/5) of one share of common stock",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "IROHR"
+  },
+  {
+   "symbol": "IROHW",
+   "name": "Iron Horse Acquisitions Corp. - Warrant",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "IROHW"
+  },
+  {
+   "symbol": "SELX",
+   "name": "Semilux International Ltd. - Ordinary Shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "SELX"
+  }
+ ]
+}

@@ -1,0 +1,143 @@
+{
+ "added": [
+  {
+   "symbol": "OSS",
+   "name": "OSSChain (OSS)",
+   "built_on": "MATIC"
+  },
+  {
+   "symbol": "BANKETH",
+   "name": "BankEth (BANKETH)"
+  },
+  {
+   "symbol": "ROOTCOIN",
+   "name": "RootCoin (ROOTCOIN)"
+  },
+  {
+   "symbol": "SOLARE",
+   "name": "Solareum (SOLARE)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "SONICO",
+   "name": "Sonic (SONICO)",
+   "built_on": "ICP"
+  },
+  {
+   "symbol": "DYDX",
+   "name": "dYdX (DYDX)"
+  },
+  {
+   "symbol": "FELIX2",
+   "name": "Felix 2.0 ETH (FELIX2)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "CARBONGEMS",
+   "name": "Carbon GEMS (CARBONGEMS)"
+  },
+  {
+   "symbol": "SHINA",
+   "name": "Shina Inu (SHINA)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "CKETH",
+   "name": "Chain-key Ethereum (CKETH)",
+   "built_on": "ICP"
+  },
+  {
+   "symbol": "PMPY",
+   "name": "Prometheum Prodigy (PMPY)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "SKIBIDI",
+   "name": "Skibidi Toilet (SKIBIDI)",
+   "built_on": "ICP"
+  },
+  {
+   "symbol": "DOG",
+   "name": "The Doge NFT (DOG)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "ROOT",
+   "name": "The Root Network (ROOT)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "MAGICV",
+   "name": "Magicverse (MAGICV)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "BLOCX",
+   "name": "BLOCX. (BLOCX)"
+  },
+  {
+   "symbol": "TRUMP",
+   "name": "MAGA (TRUMP)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "GROKXAI",
+   "name": "Grok X Ai (GROKXAI)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "FARCA",
+   "name": "Farcana (FARCA)",
+   "built_on": "MATIC"
+  },
+  {
+   "symbol": "FELIX",
+   "name": "FelixCoin (FELIX)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "GETH",
+   "name": "Guarded Ether (GETH)"
+  },
+  {
+   "symbol": "GEMS",
+   "name": "Gems (GEMS)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "CKBTC",
+   "name": "Chain-key Bitcoin (CKBTC)",
+   "built_on": "ICP"
+  },
+  {
+   "symbol": "IMGNAI",
+   "name": "Image Generation AI (IMGNAI)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "NAZAR",
+   "name": "NAZAR PROTOCOL (NAZAR)",
+   "built_on": "BNB"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "FELIX",
+   "name": "Felix 2.0 ETH (FELIX)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "GEMS",
+   "name": "Carbon GEMS (GEMS)"
+  },
+  {
+   "symbol": "ROOT",
+   "name": "RootCoin (ROOT)"
+  },
+  {
+   "symbol": "DYDX",
+   "name": "dYdX (DYDX)",
+   "built_on": "ETH"
+  }
+ ]
+}
