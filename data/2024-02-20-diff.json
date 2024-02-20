@@ -1,0 +1,84 @@
+{
+ "added": [
+  {
+   "symbol": "MWLV",
+   "name": "Mackenzie World Low Volatility ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "MWLV.TO",
+   "instruments": [
+    {
+     "name": "Mack Wrld L Vol ETF",
+     "symbol": "MWLV"
+    }
+   ]
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "POTX",
+   "name": "Global X Cannabis ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "POTX"
+  },
+  {
+   "symbol": "GGA",
+   "name": "Goldgroup Mining Inc.",
+   "exchange": "TSX",
+   "yahoo_symbol": "GGA.TO",
+   "instruments": [
+    {
+     "name": "Goldgroup Mining J",
+     "symbol": "GGA"
+    }
+   ]
+  },
+  {
+   "symbol": "NIKL",
+   "name": "GK Resources Ltd.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "NIKL.V",
+   "instruments": [
+    {
+     "name": "GK Resources Ltd.",
+     "symbol": "NIKL"
+    }
+   ]
+  },
+  {
+   "symbol": "BFIT",
+   "name": "Global X Health \u0026 Wellness ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "BFIT"
+  },
+  {
+   "symbol": "VR",
+   "name": "Global X Metaverse ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "VR"
+  },
+  {
+   "symbol": "GRNR",
+   "name": "Global X Green Building ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "GRNR"
+  },
+  {
+   "symbol": "CHB",
+   "name": "Global X China Biotech Innovation ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "CHB"
+  },
+  {
+   "symbol": "EAR",
+   "name": "Eargo, Inc. - Common Stock",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "EAR"
+  },
+  {
+   "symbol": "CYAN",
+   "name": "Cyanotech Corporation - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "CYAN"
+  }
+ ]
+}

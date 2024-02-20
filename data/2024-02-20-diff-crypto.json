@@ -1,0 +1,57 @@
+{
+ "added": [
+  {
+   "symbol": "GALAV1",
+   "name": "Gala v1 (GALAV1)"
+  },
+  {
+   "symbol": "VT",
+   "name": "Virtual Tourist (VT)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "BUY",
+   "name": "Burency (BUY)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "G",
+   "name": "GRN Grid (G)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "DOG",
+   "name": "The Doge NFT (DOG)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "BANKETH",
+   "name": "BankEth (BANKETH)"
+  },
+  {
+   "symbol": "CRYPTOU",
+   "name": "CryptoUnity (CRYPTOU)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "BUYI",
+   "name": "Buying.com (BUYI)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "UST",
+   "name": "Wrapped UST Token (UST)",
+   "built_on": "ETH"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "BUY",
+   "name": "Burency (BUY)"
+  },
+  {
+   "symbol": "BUYI",
+   "name": "Buying.com (BUYI)"
+  }
+ ]
+}
