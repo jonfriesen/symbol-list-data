@@ -1,0 +1,72 @@
+{
+ "added": [
+  {
+   "symbol": "GGA",
+   "name": "Goldgroup Mining Inc.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "GGA.V",
+   "instruments": [
+    {
+     "name": "Goldgroup Mining Inc.",
+     "symbol": "GGA"
+    }
+   ]
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "ICVX",
+   "name": "Icosavax, Inc. - Common Stock",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "ICVX"
+  },
+  {
+   "symbol": "FRLN",
+   "name": "Freeline Therapeutics Holdings plc - ADSs",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "FRLN"
+  },
+  {
+   "symbol": "GMBL",
+   "name": "Esports Entertainment Group Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "GMBL"
+  },
+  {
+   "symbol": "GMBLP",
+   "name": "Esports Entertainment Group Inc. - 10.0% Series A Cumulative Redeemable Convertible Preferred Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "GMBLP"
+  },
+  {
+   "symbol": "GMBLW",
+   "name": "Esports Entertainment Group Inc. - Warrant",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "GMBLW"
+  },
+  {
+   "symbol": "JT",
+   "name": "Jianpu Technology Inc. American depositary shares",
+   "exchange": "NYSE",
+   "yahoo_symbol": "JT"
+  },
+  {
+   "symbol": "GMBLZ",
+   "name": "Esports Entertainment Group Inc. - Warrant",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "GMBLZ"
+  },
+  {
+   "symbol": "TWEB",
+   "name": "SoFi Web 3 ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "TWEB"
+  },
+  {
+   "symbol": "BYOB",
+   "name": "SoFi Be Your Own Boss ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "BYOB"
+  }
+ ]
+}
