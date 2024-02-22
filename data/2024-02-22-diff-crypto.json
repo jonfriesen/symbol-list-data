@@ -1,0 +1,412 @@
+{
+ "added": [
+  {
+   "symbol": "BABYCEO",
+   "name": "Baby Doge CEO (BABYCEO)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "REBUS",
+   "name": "Rebuschain (REBUS)"
+  },
+  {
+   "symbol": "DAWG",
+   "name": "Dawg Coin (DAWG)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "PLXY",
+   "name": "Plxyer (PLXY)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "XPLL",
+   "name": "ParallelChain (XPLL)"
+  },
+  {
+   "symbol": "RCM",
+   "name": "READ2N (RCM)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "BNBX",
+   "name": "Stader BNBx (BNBX)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "DOGEPAY",
+   "name": "Doge Payment (DOGEPAY)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "JCO",
+   "name": "JennyCo (JCO)",
+   "built_on": "MATIC"
+  },
+  {
+   "symbol": "BYTES",
+   "name": "Neo Tokyo (BYTES)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "ANGO",
+   "name": "Aureus Nummus Gold (ANGO)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "LCRO",
+   "name": "Liquid CRO (LCRO)",
+   "built_on": "CRO"
+  },
+  {
+   "symbol": "MMX",
+   "name": "MMX (MMX)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "BTCIX",
+   "name": "BITCOLOJIX (BTCIX)"
+  },
+  {
+   "symbol": "LOPES",
+   "name": "Leandro Lopes (LOPES)",
+   "built_on": "MATIC"
+  },
+  {
+   "symbol": "NOOT",
+   "name": "NOOT (Ordinals) (NOOT)",
+   "built_on": "BTC"
+  },
+  {
+   "symbol": "CRYN",
+   "name": "CRYN (CRYN)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "ATMCHAIN",
+   "name": "ATMChain (ATMCHAIN)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "BABYSHIB",
+   "name": "Baby Shiba Inu (BABYSHIB)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "USP",
+   "name": "USP Token (USP)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "YOTO",
+   "name": "yotoshi (YOTO)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "LIFT",
+   "name": "Uplift (LIFT)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "EQUIL",
+   "name": "Equilibrium (EQUIL)"
+  },
+  {
+   "symbol": "HONEY",
+   "name": "Hivemapper (HONEY)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "OPHX",
+   "name": "Operation Phoenix (OPHX)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "WJEWEL",
+   "name": "WJEWEL (WJEWEL)",
+   "built_on": "AVAX"
+  },
+  {
+   "symbol": "EXEN",
+   "name": "Exen Coin (EXEN)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "MILOCEO",
+   "name": "Milo CEO (MILOCEO)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "SWOT",
+   "name": "Swot AI (SWOT)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "REDLUNA",
+   "name": "Redluna (REDLUNA)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "DUBBZ",
+   "name": "Dubbz (DUBBZ)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "CIRCLE",
+   "name": "You Looked (CIRCLE)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "LEMN",
+   "name": "LEMON (LEMN)",
+   "built_on": "KLAY"
+  },
+  {
+   "symbol": "NEUROS",
+   "name": "Shockwaves (NEUROS)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "AVI",
+   "name": "Aviator (AVI)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "RIB",
+   "name": "Ribus (RIB)",
+   "built_on": "MATIC"
+  },
+  {
+   "symbol": "HASUI",
+   "name": "Haedal (HASUI)",
+   "built_on": "SUI"
+  },
+  {
+   "symbol": "CZOL",
+   "name": "Czolana (CZOL)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "SOBER",
+   "name": "Solabrador (SOBER)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "WGT",
+   "name": "Web3Games.com (WGT)",
+   "built_on": "MATIC"
+  },
+  {
+   "symbol": "SNAIL",
+   "name": "SnailBrook (v)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "404A",
+   "name": "404Aliens (404A)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "AUR",
+   "name": "AUREO (AUR)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "HUT",
+   "name": "Hibiki Run (HUT)",
+   "built_on": "MATIC"
+  },
+  {
+   "symbol": "TELLER",
+   "name": "Teller (TELLER)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "SMOL",
+   "name": "Smolcoin (SMOL)",
+   "built_on": "ARB"
+  },
+  {
+   "symbol": "EQU",
+   "name": "Equation (EQU)",
+   "built_on": "ARB"
+  },
+  {
+   "symbol": "MICKEY",
+   "name": "Steamboat Willie (MICKEY)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "WEAPON",
+   "name": "MEGAWEAPON (WEAPON)",
+   "built_on": "AVAX"
+  },
+  {
+   "symbol": "EQ",
+   "name": "Equilibrium Games (EQ)",
+   "built_on": "XRP"
+  },
+  {
+   "symbol": "MATCH",
+   "name": "Matching Game (MATCH)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "XOX",
+   "name": "XOX Labs (XOX)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "SSHIB",
+   "name": "Solana Shib (SSHIB)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "FLOYX",
+   "name": "Floyx (FLOYX)",
+   "built_on": "MATIC"
+  },
+  {
+   "symbol": "HMX",
+   "name": "HMX (HMX)",
+   "built_on": "ARB"
+  },
+  {
+   "symbol": "YAKU",
+   "name": "Yaku (YAKU)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "DEOD",
+   "name": "Decentrawood (DEOD)",
+   "built_on": "MATIC"
+  },
+  {
+   "symbol": "BNBDOG",
+   "name": "BNB DOG INU (BNBDOG)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "SPIZ",
+   "name": "SPACE-iZ (SPIZ)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "CBSL",
+   "name": "CeBioLabs (CBSL)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "BABYTRUMP",
+   "name": "BABYTRUMP (BABYTRUMP)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "RVM",
+   "name": "Realvirm (RVM)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "GGTK",
+   "name": "GGDApp (GGTK)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "BANKETH",
+   "name": "BankEth (BANKETH)"
+  },
+  {
+   "symbol": "G",
+   "name": "GRN Grid (G)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "GNOME",
+   "name": "GNOME (GNOME)",
+   "built_on": "MATIC"
+  },
+  {
+   "symbol": "MZR",
+   "name": "Mazuri GameFi (MZR)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "DOG",
+   "name": "The Doge NFT (DOG)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "OZK",
+   "name": "OrdiZK (OZK)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "GRUM",
+   "name": "Grumpy (Ordinals) (GRUM)",
+   "built_on": "BTC"
+  },
+  {
+   "symbol": "PAXU",
+   "name": "Pax Unitas (PAXU)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "DRAGY",
+   "name": "Dragy (DRAGY)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "ECLD",
+   "name": "Ethernity Cloud (ECLD)"
+  },
+  {
+   "symbol": "CRAYRABBIT",
+   "name": "CrazyRabbit (CRAYRABBIT)",
+   "built_on": "ARB"
+  },
+  {
+   "symbol": "SNST",
+   "name": "Smooth Network Solutions Token (SNST)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "GRELF",
+   "name": "GRELF (GRELF)",
+   "built_on": "HBAR"
+  },
+  {
+   "symbol": "BTCMT",
+   "name": "Minto (BTCMT)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "SPIDEY",
+   "name": "Spidey (SPIDEY)",
+   "built_on": "BNB"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "HIVEM",
+   "name": "Hivemapper (HIVEM)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "AUR",
+   "name": "AUREO (AUR)"
+  },
+  {
+   "symbol": "ETNY",
+   "name": "Ethernity Cloud (ETNY)",
+   "built_on": "MATIC"
+  },
+  {
+   "symbol": "ATMCHAIN",
+   "name": "ATMChain (ATMCHAIN)"
+  },
+  {
+   "symbol": "EQ",
+   "name": "Equilibrium (EQ)"
+  }
+ ]
+}

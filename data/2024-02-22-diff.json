@@ -1,0 +1,112 @@
+{
+ "added": [
+  {
+   "symbol": "DYCQU",
+   "name": "DT Cloud Acquisition Corporation - Unit",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "DYCQU"
+  },
+  {
+   "symbol": "WETH",
+   "name": "Wetouch Technology Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "WETH"
+  },
+  {
+   "symbol": "VHAI",
+   "name": "Vocodia Holdings Corp. Common Stock",
+   "exchange": "BATS",
+   "yahoo_symbol": "VHAI"
+  },
+  {
+   "symbol": "VHAI.A",
+   "name": "Vocodia Holdings Corp. Warrants Series A",
+   "exchange": "BATS",
+   "yahoo_symbol": "VHAI.A"
+  },
+  {
+   "symbol": "VHAI.B",
+   "name": "Vocodia Holdings Corp. Warrants Series B",
+   "exchange": "BATS",
+   "yahoo_symbol": "VHAI.B"
+  },
+  {
+   "symbol": "NPS",
+   "name": "Canadian Large Cap Leaders Split Corp.",
+   "exchange": "TSX",
+   "yahoo_symbol": "NPS.TO",
+   "instruments": [
+    {
+     "name": "Cdn LCap L SplCr ClA",
+     "symbol": "NPS"
+    },
+    {
+     "name": "Cdn LCap L SplCr Prf",
+     "symbol": "NPS.PR.A"
+    }
+   ]
+  },
+  {
+   "symbol": "NGEX",
+   "name": "NGEx Minerals Ltd.",
+   "exchange": "TSX",
+   "yahoo_symbol": "NGEX.TO",
+   "instruments": [
+    {
+     "name": "NGEx Minerals Ltd.",
+     "symbol": "NGEX"
+    }
+   ]
+  },
+  {
+   "symbol": "TCSH",
+   "name": "TD Cash Management ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "TCSH.TO",
+   "instruments": [
+    {
+     "name": "Td Cash Mgmt ETF",
+     "symbol": "TCSH"
+    }
+   ]
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "SIEN",
+   "name": "Sientra, Inc. - Common Stock",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "SIEN"
+  },
+  {
+   "symbol": "VHAQ",
+   "name": "Viveon Health Acquisition Corp. Common Stock",
+   "exchange": "NYSE MKT",
+   "yahoo_symbol": "VHAQ"
+  },
+  {
+   "symbol": "VHAQ.R",
+   "name": "Viveon Health Acquisition Corp. Rights, each exchangeable into one-twentieth of a share of Common Stock",
+   "exchange": "NYSE MKT",
+   "yahoo_symbol": "VHAQ.R"
+  },
+  {
+   "symbol": "NGEX",
+   "name": "NGEx Minerals Ltd.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "NGEX.V",
+   "instruments": [
+    {
+     "name": "NGEx Minerals Ltd.",
+     "symbol": "NGEX"
+    }
+   ]
+  },
+  {
+   "symbol": "VHAQ.U",
+   "name": "Viveon Health Acquisition Corp. Units, each consisting of one share of common stock, one Warrant entitling the holder to purchase one-half of a share of common stock, and one right to receive one-twentieth of a share of common stock",
+   "exchange": "NYSE MKT",
+   "yahoo_symbol": "VHAQ.U"
+  }
+ ]
+}
