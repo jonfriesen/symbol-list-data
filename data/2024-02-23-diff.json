@@ -1,0 +1,72 @@
+{
+ "added": [
+  {
+   "symbol": "BTFX",
+   "name": "Valkyrie Bitcoin Futures Leveraged Strategy ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "BTFX"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "LCAAW",
+   "name": "L Catterton Asia Acquisition Corp - Warrant",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "LCAAW"
+  },
+  {
+   "symbol": "SHAP.U",
+   "name": "Spree Acquisition Corp. 1 Limited Units, each consisting of one Class A ordinary share and one-half of one redeemable warrant",
+   "exchange": "NYSE",
+   "yahoo_symbol": "SHAP.U"
+  },
+  {
+   "symbol": "SHAP",
+   "name": "Spree Acquisition Corp. 1 Limited Class A Ordinary Shares",
+   "exchange": "NYSE",
+   "yahoo_symbol": "SHAP"
+  },
+  {
+   "symbol": "GRCL",
+   "name": "Gracell Biotechnologies Inc. - American Depositary Shares",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "GRCL"
+  },
+  {
+   "symbol": "FICVU",
+   "name": "Frontier Investment Corp - Units",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "FICVU"
+  },
+  {
+   "symbol": "LCAA",
+   "name": "L Catterton Asia Acquisition Corp - Class A Ordinary Shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "LCAA"
+  },
+  {
+   "symbol": "FICV",
+   "name": "Frontier Investment Corp - Class A Ordinary Shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "FICV"
+  },
+  {
+   "symbol": "SHAP.W",
+   "name": "Spree Acquisition Corp. 1 Limited Redeemable warrants, each warrant exercisable for one Class A ordinary share at an exercise price of $11.50",
+   "exchange": "NYSE",
+   "yahoo_symbol": "SHAP.W"
+  },
+  {
+   "symbol": "FICVW",
+   "name": "Frontier Investment Corp - Warrants",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "FICVW"
+  },
+  {
+   "symbol": "LCAAU",
+   "name": "L Catterton Asia Acquisition Corp - Units",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "LCAAU"
+  }
+ ]
+}
