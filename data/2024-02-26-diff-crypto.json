@@ -1,0 +1,128 @@
+{
+ "added": [
+  {
+   "symbol": "MEF",
+   "name": "MEFLEX (MEF)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "SESSIA",
+   "name": "SESSIA (SESSIA)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "DOGETH",
+   "name": "EtherDoge (DOGETH)"
+  },
+  {
+   "symbol": "NEWM",
+   "name": "NEWM (NEWM)",
+   "built_on": "ADA"
+  },
+  {
+   "symbol": "GETH",
+   "name": "Guarded Ether (GETH)"
+  },
+  {
+   "symbol": "PXL",
+   "name": "PIXEL (PXL)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "CAF",
+   "name": "Childrens Aid Foundation (CAF)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "BIDEN",
+   "name": "Dark Brandon (BIDEN)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "OSAK",
+   "name": "Osaka Protocol (OSAK)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "ATRNO",
+   "name": "AETERNUS (ATRNO)",
+   "built_on": "MATIC"
+  },
+  {
+   "symbol": "BAZED",
+   "name": "Bazed Games (BAZED)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "PIXEL",
+   "name": "PixelVerse (PIXEL)"
+  },
+  {
+   "symbol": "BANK",
+   "name": "Float Protocol (BANK)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "DEFISCALE",
+   "name": "DeFiScale (DEFISCALE)"
+  },
+  {
+   "symbol": "LODE",
+   "name": "Lodestar (LODE)",
+   "built_on": "ARB"
+  },
+  {
+   "symbol": "DFC",
+   "name": "DeFinder Capital (DFC)",
+   "built_on": "TONCOIN"
+  },
+  {
+   "symbol": "EPANUS",
+   "name": "Epanus (EPANUS)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "LOONG",
+   "name": "PlumpyDragons (LOONG)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "CHOKE",
+   "name": "Artichoke Protocol (CHOKE)",
+   "built_on": "ARB"
+  },
+  {
+   "symbol": "KICKS",
+   "name": "GetKicks (KICKS)",
+   "built_on": "BNB"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "DFC",
+   "name": "DeFiScale (DFC)"
+  },
+  {
+   "symbol": "KICKS",
+   "name": "GetKicks (KICKS)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "EPANUS",
+   "name": "Epanus (EPANUS)"
+  },
+  {
+   "symbol": "SESSIA",
+   "name": "SESSIA (SESSIA)"
+  },
+  {
+   "symbol": "PXL",
+   "name": "PIXEL (PXL)"
+  },
+  {
+   "symbol": "PIXEL",
+   "name": "PixelVerse (PIXEL)",
+   "built_on": "ETH"
+  }
+ ]
+}

@@ -1,0 +1,78 @@
+{
+ "added": [
+  {
+   "symbol": "ASTH",
+   "name": "Astrana Health Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "ASTH"
+  },
+  {
+   "symbol": "BENF",
+   "name": "Beneficient - Class A Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "BENF"
+  },
+  {
+   "symbol": "LOT",
+   "name": "Lotus Technology Inc. - American Depositary Shares",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "LOT"
+  },
+  {
+   "symbol": "LOTWW",
+   "name": "Lotus Technology Inc. - Warrants",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "LOTWW"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "ACAHU",
+   "name": "Atlantic Coastal Acquisition Corp. - Unit",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "ACAHU"
+  },
+  {
+   "symbol": "HIX.R",
+   "name": "Western Asset High Income Fund II Inc. Rights (expiring February 26, 2024) Rights",
+   "exchange": "NYSE",
+   "yahoo_symbol": "HIX.R"
+  },
+  {
+   "symbol": "ACAH",
+   "name": "Atlantic Coastal Acquisition Corp. - Class A Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "ACAH"
+  },
+  {
+   "symbol": "BENF",
+   "name": "Beneficient - Class A Common Stock",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "BENF"
+  },
+  {
+   "symbol": "GBNH",
+   "name": "Greenbrook TMS Inc. - Common Shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "GBNH"
+  },
+  {
+   "symbol": "AMEH",
+   "name": "Apollo Medical Holdings, Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "AMEH"
+  },
+  {
+   "symbol": "ERSX",
+   "name": "ERShares NextGen Entrepreneurs ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "ERSX"
+  },
+  {
+   "symbol": "ACAHW",
+   "name": "Atlantic Coastal Acquisition Corp. - Warrant",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "ACAHW"
+  }
+ ]
+}
