@@ -1,0 +1,72 @@
+{
+ "added": [
+  {
+   "symbol": "FLDB",
+   "name": "Fidelity Low Duration Bond ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "FLDB"
+  },
+  {
+   "symbol": "MTUS",
+   "name": "Metallus Inc. Common Shares",
+   "exchange": "NYSE",
+   "yahoo_symbol": "MTUS"
+  },
+  {
+   "symbol": "RES",
+   "name": "Auric Resources Corp.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "RES.V",
+   "instruments": [
+    {
+     "name": "Auric Resources Corp.",
+     "symbol": "RES"
+    }
+   ]
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "SLACW",
+   "name": "Social Leverage Acquisition Corp I - Warrant",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "SLACW"
+  },
+  {
+   "symbol": "TMST",
+   "name": "TimkenSteel Corporation Common Shares",
+   "exchange": "NYSE",
+   "yahoo_symbol": "TMST"
+  },
+  {
+   "symbol": "FORZ",
+   "name": "Forza Petroleum Limited",
+   "exchange": "TSX",
+   "yahoo_symbol": "FORZ.TO",
+   "instruments": [
+    {
+     "name": "Forza Pete Ltd.",
+     "symbol": "FORZ"
+    }
+   ]
+  },
+  {
+   "symbol": "RYZB",
+   "name": "RayzeBio, Inc. - Common Stock",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "RYZB"
+  },
+  {
+   "symbol": "SLACU",
+   "name": "Social Leverage Acquisition Corp I - Unit",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "SLACU"
+  },
+  {
+   "symbol": "SLAC",
+   "name": "Social Leverage Acquisition Corp I - Common stock",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "SLAC"
+  }
+ ]
+}
