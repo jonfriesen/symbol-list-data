@@ -1,0 +1,78 @@
+{
+ "added": [
+  {
+   "symbol": "NRES",
+   "name": "Xtrackers RREEF Global Natural Resources ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "NRES"
+  },
+  {
+   "symbol": "SMXT",
+   "name": "Solarmax Technology Inc. - Common Stock",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "SMXT"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "LCAHW",
+   "name": "Landcadia Holdings IV, Inc. - Warrant",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "LCAHW"
+  },
+  {
+   "symbol": "SZZLU",
+   "name": "Sizzle Acquisition Corp. - Unit",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "SZZLU"
+  },
+  {
+   "symbol": "GLDL",
+   "name": "Gold Line Resources Ltd.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "GLDL.V",
+   "instruments": [
+    {
+     "name": "Gold Line Resources Ltd.",
+     "symbol": "GLDL"
+    }
+   ]
+  },
+  {
+   "symbol": "ROVR",
+   "name": "Rover Group, Inc. - Class A Common Stock",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "ROVR"
+  },
+  {
+   "symbol": "LCAHU",
+   "name": "Landcadia Holdings IV, Inc. - Units",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "LCAHU"
+  },
+  {
+   "symbol": "SZZLW",
+   "name": "Sizzle Acquisition Corp. - Warrant",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "SZZLW"
+  },
+  {
+   "symbol": "ROI",
+   "name": "RiskOn International, Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "ROI"
+  },
+  {
+   "symbol": "SZZL",
+   "name": "Sizzle Acquisition Corp. - Common stock",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "SZZL"
+  },
+  {
+   "symbol": "LCA",
+   "name": "Landcadia Holdings IV, Inc. - Class A Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "LCA"
+  }
+ ]
+}

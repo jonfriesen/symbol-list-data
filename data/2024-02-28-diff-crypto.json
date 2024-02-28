@@ -1,0 +1,278 @@
+{
+ "added": [
+  {
+   "symbol": "PME",
+   "name": "DogePome (PME)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "LPL",
+   "name": "LinkPool (LPL)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "GROOOOOK",
+   "name": "Groooook (GROOOOOK)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "SUMMER",
+   "name": "Summer (SUMMER)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "PPIZZA",
+   "name": "P Pizza (PPIZZA)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "VX",
+   "name": "ViteX Coin (VX)",
+   "built_on": "VITE"
+  },
+  {
+   "symbol": "SUNOLD",
+   "name": "Sun Token (SUNOLD)",
+   "built_on": "TRX"
+  },
+  {
+   "symbol": "BITO",
+   "name": "BitoPro Exchange Token (BITO)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "ACRIA",
+   "name": "Acria.AI (ACRIA)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "CONK",
+   "name": "ShibaPoconk (CONK)",
+   "built_on": "FTM"
+  },
+  {
+   "symbol": "BEMD",
+   "name": "Betterment Digital (BEMD)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "DHN",
+   "name": "Dohrnii (DHN)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "BREWLABS",
+   "name": "Brewlabs (BREWLABS)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "AFP",
+   "name": "Animal Farm Pigs (AFP)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "BNBP",
+   "name": "BNBPot (BNBP)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "RIM",
+   "name": "MetaRim (RIM)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "NOLA",
+   "name": "Nola (NOLA)",
+   "built_on": "ARB"
+  },
+  {
+   "symbol": "DGNX",
+   "name": "DegenX (DGNX)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "RDF",
+   "name": "ReadFi (RDF)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "HOW",
+   "name": "HowInu (HOW)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "NOKA",
+   "name": "Noka Solana AI (NOKA)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "DOD",
+   "name": "Day Of Defeat 2.0 (DOD)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "SRG",
+   "name": "Street Runner NFT (SRG)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "QDT",
+   "name": "QCHAIN (QDT)"
+  },
+  {
+   "symbol": "MUMU",
+   "name": "Mumu (MUMU)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "G",
+   "name": "GRN Grid (G)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "WISTA",
+   "name": "Wistaverse (WISTA)",
+   "built_on": "MATIC"
+  },
+  {
+   "symbol": "WINTER",
+   "name": "Winter (WINTER)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "JEN",
+   "name": "JEN COIN (JEN)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "WSTOR",
+   "name": "StorageChain (WSTOR)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "UMMA",
+   "name": "UMMA Token (UMMA)",
+   "built_on": "MATIC"
+  },
+  {
+   "symbol": "ZRO",
+   "name": "Protocol Zero (ZRO)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "SILV2",
+   "name": "Escrowed Illuvium 2 (SILV2)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "WATER",
+   "name": "doginwotah (WATER)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "HOME",
+   "name": "OtterHome (HOME)",
+   "built_on": "ARB"
+  },
+  {
+   "symbol": "GWGW",
+   "name": "GoWrap (GWGW)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "BANK",
+   "name": "Float Protocol (BANK)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "VPK",
+   "name": "Vulture Peak (VPK)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "BABI",
+   "name": "Babylons (BABI)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "INUS",
+   "name": "MultiPlanetary Inus (INUS)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "MFET",
+   "name": "MultiFunctional Environmental Token (MFET)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "FXB",
+   "name": "FxBox (FXB)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "GARY",
+   "name": "Gary (GARY)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "SPONGE",
+   "name": "Sponge (SPONGE)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "NERO",
+   "name": "Nero Token (NERO)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "XDG",
+   "name": "Decentral Games Governance (XDG)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "M87",
+   "name": "MESSIER (M87)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "EXA",
+   "name": "Exactly Protocol (EXA)",
+   "built_on": "OP"
+  },
+  {
+   "symbol": "DOGETH",
+   "name": "EtherDoge (DOGETH)"
+  },
+  {
+   "symbol": "NVG",
+   "name": "NightVerse Game (NVG)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "SQTS",
+   "name": "Sqts (Ordinals) (SQTS)",
+   "built_on": "BTC"
+  },
+  {
+   "symbol": "SFIT",
+   "name": "Sense4FIT (SFIT)",
+   "built_on": "EGLD"
+  },
+  {
+   "symbol": "SVN",
+   "name": "Savanna (SVN)",
+   "built_on": "CRO"
+  },
+  {
+   "symbol": "DMOON",
+   "name": "Dollarmoon (DMOON)",
+   "built_on": "BNB"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "SUNOLD",
+   "name": "Sun Token (SUNOLD)"
+  }
+ ]
+}
