@@ -1,0 +1,233 @@
+{
+ "added": [
+  {
+   "symbol": "USK",
+   "name": "USK (USK)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "ALOT",
+   "name": "Dexalot (ALOT)",
+   "built_on": "AVAX"
+  },
+  {
+   "symbol": "VSUI",
+   "name": "Volo Staked SUI (VSUI)",
+   "built_on": "SUI"
+  },
+  {
+   "symbol": "AGB",
+   "name": "Apes Go Bananas (AGB)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "KOY",
+   "name": "Koyo (KOY)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "LAKE",
+   "name": "Data Lake (LAKE)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "FARMING",
+   "name": "Farming Bad (FARMING)"
+  },
+  {
+   "symbol": "BFK WARZONE",
+   "name": "BFK Warzone (BFK WARZONE)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "ROND",
+   "name": "ROND (ROND)",
+   "built_on": "MATIC"
+  },
+  {
+   "symbol": "HEMULE",
+   "name": "Hemule (HEMULE)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "DADA",
+   "name": "DADA (DADA)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "FOOM",
+   "name": "FOOM (FOOM)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "SFTMX",
+   "name": "Stader sFTMX (SFTMX)",
+   "built_on": "FTM"
+  },
+  {
+   "symbol": "MOONED",
+   "name": "MoonEdge (MOONED)",
+   "built_on": "MATIC"
+  },
+  {
+   "symbol": "ENRX",
+   "name": "Enrex (ENRX)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "FUFU",
+   "name": "Fufu Token (FUFU)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "AIUS",
+   "name": "Arbius (AIUS)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "DFB",
+   "name": "Facebook Tokenized Stock Defichain (DFB)",
+   "built_on": "DFI"
+  },
+  {
+   "symbol": "DOGETH",
+   "name": "EtherDoge (DOGETH)"
+  },
+  {
+   "symbol": "GETH",
+   "name": "Guarded Ether (GETH)"
+  },
+  {
+   "symbol": "YUMMI",
+   "name": "Yummi Universe (YUMMI)",
+   "built_on": "ADA"
+  },
+  {
+   "symbol": "BHIG",
+   "name": "BuckHathCoin (BHIG)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "BEFY",
+   "name": "Befy Protocol (BEFY)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "TAONU",
+   "name": "TAO INU (TAONU)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "MAXX",
+   "name": "MAXX Finance (MAXX)",
+   "built_on": "MATIC"
+  },
+  {
+   "symbol": "ZEFI",
+   "name": "ZCore Finance (ZEFI)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "GBL",
+   "name": "Global Token (GBL)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "PREME",
+   "name": "PREME Token (PREME)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "BANKETH",
+   "name": "BankEth (BANKETH)"
+  },
+  {
+   "symbol": "AITEK",
+   "name": "AI Technology (AITEK)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "BEANS",
+   "name": "Moonbeans (BEANS)",
+   "built_on": "GLMR"
+  },
+  {
+   "symbol": "BTCVB",
+   "name": "BitcoinVB (BTCVB)"
+  },
+  {
+   "symbol": "GUC",
+   "name": "Green Universe Coin (GUC)"
+  },
+  {
+   "symbol": "METH",
+   "name": "Mantle Staked Ether (METH)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "SLT",
+   "name": "Social Lending Network (SLT)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "ROKO",
+   "name": "Roko (ROKO)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "2OMB",
+   "name": "2omb Finance (2OMB)",
+   "built_on": "FTM"
+  },
+  {
+   "symbol": "ZKID",
+   "name": "zkSync id (ZKID)",
+   "built_on": "ZKSYNC"
+  },
+  {
+   "symbol": "BIBI",
+   "name": "BIBI (BIBI)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "MUNITY",
+   "name": "Metahorse Unity (MUNITY)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "GAU",
+   "name": "Gamer Arena (GAU)",
+   "built_on": "AVAX"
+  },
+  {
+   "symbol": "WPI",
+   "name": "Wrapped Pi (WPI)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "FIBO",
+   "name": "FibSWAP DEx (FIBO)",
+   "built_on": "MATIC"
+  },
+  {
+   "symbol": "FARMS",
+   "name": "Farmsent (FARMS)",
+   "built_on": "MATIC"
+  },
+  {
+   "symbol": "SOCOLA",
+   "name": "SOCOLA INU (SOCOLA)",
+   "built_on": "SOL"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "METH",
+   "name": "Farming Bad (METH)"
+  },
+  {
+   "symbol": "SLT",
+   "name": "Social Lending Network (SLT)"
+  }
+ ]
+}

@@ -1,0 +1,156 @@
+{
+ "added": [
+  {
+   "symbol": "GINX",
+   "name": "SGI Enhanced Global Income ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "GINX"
+  },
+  {
+   "symbol": "KACL",
+   "name": "Kairous Acquisition Corp. Limited - Ordinary Shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "KACL"
+  },
+  {
+   "symbol": "KACLR",
+   "name": "Kairous Acquisition Corp. Limited - Rights",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "KACLR"
+  },
+  {
+   "symbol": "KACLU",
+   "name": "Kairous Acquisition Corp. Limited - Unit",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "KACLU"
+  },
+  {
+   "symbol": "KACLW",
+   "name": "Kairous Acquisition Corp. Limited - Warrants",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "KACLW"
+  },
+  {
+   "symbol": "MAGQ",
+   "name": "Roundhill Daily Inverse Magnificent Seven ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "MAGQ"
+  },
+  {
+   "symbol": "MAGX",
+   "name": "Roundhill Daily 2X Long Magnificent Seven ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "MAGX"
+  },
+  {
+   "symbol": "USDX",
+   "name": "SGI Enhanced Core ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "USDX"
+  },
+  {
+   "symbol": "ZVSA",
+   "name": "ZyVersa Therapeutics, Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "ZVSA"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "RYDE",
+   "name": "Ryde Group Ltd. Class A Ordinary Shares",
+   "exchange": "NYSE MKT",
+   "yahoo_symbol": "RYDE"
+  },
+  {
+   "symbol": "ARIZR",
+   "name": "Arisz Acquisition Corp. - Right",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "ARIZR"
+  },
+  {
+   "symbol": "ARIZU",
+   "name": "Arisz Acquisition Corp. - Unit",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "ARIZU"
+  },
+  {
+   "symbol": "KACLU",
+   "name": "Kairous Acquisition Corp. Limited - Unit",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "KACLU"
+  },
+  {
+   "symbol": "ZVSA",
+   "name": "ZyVersa Therapeutics, Inc. - Common Stock",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "ZVSA"
+  },
+  {
+   "symbol": "ARIZW",
+   "name": "Arisz Acquisition Corp. - Warrant",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "ARIZW"
+  },
+  {
+   "symbol": "KACLR",
+   "name": "Kairous Acquisition Corp. Limited - Rights",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "KACLR"
+  },
+  {
+   "symbol": "WRAC.U",
+   "name": "Williams Rowland Acquisition Corp. Units, each consisting of one share of common stock and one-half of one redeemable warrant",
+   "exchange": "NYSE MKT",
+   "yahoo_symbol": "WRAC.U"
+  },
+  {
+   "symbol": "WRAC",
+   "name": "Williams Rowland Acquisition Corp. Common Stock",
+   "exchange": "NYSE MKT",
+   "yahoo_symbol": "WRAC"
+  },
+  {
+   "symbol": "KACL",
+   "name": "Kairous Acquisition Corp. Limited - Ordinary Shares",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "KACL"
+  },
+  {
+   "symbol": "ARIZ",
+   "name": "Arisz Acquisition Corp. - Common Stock",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "ARIZ"
+  },
+  {
+   "symbol": "TIO",
+   "name": "Tingo Group, Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "TIO"
+  },
+  {
+   "symbol": "KACLW",
+   "name": "Kairous Acquisition Corp. Limited - Warrants",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "KACLW"
+  },
+  {
+   "symbol": "DOC",
+   "name": "Physicians Realty Trust Common Shares of Beneficial Interest",
+   "exchange": "NYSE",
+   "yahoo_symbol": "DOC"
+  },
+  {
+   "symbol": "LBC",
+   "name": "Luther Burbank Corporation - Common Stock",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "LBC"
+  },
+  {
+   "symbol": "FGH",
+   "name": "FG Group Holdings Inc. Common Stock",
+   "exchange": "NYSE MKT",
+   "yahoo_symbol": "FGH"
+  }
+ ]
+}
