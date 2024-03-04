@@ -1,0 +1,198 @@
+{
+ "added": [
+  {
+   "symbol": "NIOCTIB",
+   "name": "nioctiB (NIOCTIB)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "BES",
+   "name": "battle esports coin (BES)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "MINS",
+   "name": "Minswap (MINS)",
+   "built_on": "ADA"
+  },
+  {
+   "symbol": "ANUS",
+   "name": "URANUS (ANUS)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "ANKRMATIC",
+   "name": "Ankr Staked MATIC (ANKRMATIC)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "50X",
+   "name": "50x.com (50X)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "BMBO",
+   "name": "Bamboo Coin (BMBO)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "AVR",
+   "name": "Avrora Metaverse (AVR)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "OMMI",
+   "name": "Ommniverse (OMMI)",
+   "built_on": "MATIC"
+  },
+  {
+   "symbol": "AFYON",
+   "name": "Afyonspor Fan Token (AFYON)",
+   "built_on": "BITCI"
+  },
+  {
+   "symbol": "AXSV1",
+   "name": "Axie Infinity Shards v1 (AXSV1)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "CUMINU",
+   "name": "CumInu (CUMINU)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "TESLAI",
+   "name": "Tesla AI (TESLAI)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "VAPE",
+   "name": "VAPE (VAPE)",
+   "built_on": "AVAX"
+  },
+  {
+   "symbol": "VPND",
+   "name": "VaporNodes (VPND)",
+   "built_on": "AVAX"
+  },
+  {
+   "symbol": "TOTEM",
+   "name": "DragonMaster (TOTEM)",
+   "built_on": "MATIC"
+  },
+  {
+   "symbol": "CAWCEO",
+   "name": "CAW CEO (CAWCEO)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "LOTTY",
+   "name": "Lotty (LOTTY)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "DOGETH",
+   "name": "EtherDoge (DOGETH)"
+  },
+  {
+   "symbol": "SIZE",
+   "name": "SIZE (SIZE)",
+   "built_on": "ARB"
+  },
+  {
+   "symbol": "GLIDE",
+   "name": "Glide Finance (GLIDE)",
+   "built_on": "ELA"
+  },
+  {
+   "symbol": "GFLY",
+   "name": "BattleFly (GFLY)",
+   "built_on": "ARB"
+  },
+  {
+   "symbol": "MRUN",
+   "name": "Metarun (MRUN)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "G",
+   "name": "GRN Grid (G)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "PACT",
+   "name": "impactMarket (PACT)",
+   "built_on": "CELO"
+  },
+  {
+   "symbol": "DEXIO",
+   "name": "Dexioprotocol (DEXIO)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "SSLX",
+   "name": "StarSlax (SSLX)"
+  },
+  {
+   "symbol": "SLN",
+   "name": "Smart Layer Network (SLN)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "CHARGED",
+   "name": "GoCharge Tech (CHARGED)",
+   "built_on": "EGLD"
+  },
+  {
+   "symbol": "404BLOCKS",
+   "name": "404Blocks (404BLOCKS)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "MEMEETF",
+   "name": "Meme ETF (MEMEETF)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "DEGA",
+   "name": "Dega (DEGA)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "KLP",
+   "name": "Kulupu (KLP)"
+  },
+  {
+   "symbol": "DTG",
+   "name": "Defi Tiger (DTG)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "STRDY",
+   "name": "Sturdy (STRDY)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "BANK",
+   "name": "Float Protocol (BANK)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "HUDI",
+   "name": "Hudi (HUDI)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "HSUI",
+   "name": "Suicune (HSUI)",
+   "built_on": "SUI"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "KLP",
+   "name": "Kulupu (KLP)",
+   "built_on": "ETH"
+  }
+ ]
+}

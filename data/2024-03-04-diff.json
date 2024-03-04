@@ -1,0 +1,148 @@
+{
+ "added": [
+  {
+   "symbol": "FUFU",
+   "name": "BitFuFu Inc. - Class A Ordinary Shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "FUFU"
+  },
+  {
+   "symbol": "FUFUW",
+   "name": "BitFuFu Inc. - Warrant",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "FUFUW"
+  },
+  {
+   "symbol": "KSCP",
+   "name": "Knightscope, Inc. - Class A Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "KSCP"
+  },
+  {
+   "symbol": "SHRY",
+   "name": "First Trust Bloomberg Shareholder Yield ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "SHRY"
+  },
+  {
+   "symbol": "TBRG",
+   "name": "TruBridge, Inc. - Common Stock",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "TBRG"
+  },
+  {
+   "symbol": "GT",
+   "name": "GT Resources Inc.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "GT.V",
+   "instruments": [
+    {
+     "name": "GT Resources Inc.",
+     "symbol": "GT"
+    }
+   ]
+  },
+  {
+   "symbol": "BODI",
+   "name": "The Beachbody Company, Inc. Class A Common Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "BODI"
+  },
+  {
+   "symbol": "DOC",
+   "name": "Healthpeak Properties, Inc. Common Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "DOC"
+  },
+  {
+   "symbol": "RYDE",
+   "name": "Ryde Group Ltd. Class A Ordinary Shares",
+   "exchange": "NYSE MKT",
+   "yahoo_symbol": "RYDE"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "POL",
+   "name": "Polished Inc. Common Stock",
+   "exchange": "NYSE MKT",
+   "yahoo_symbol": "POL"
+  },
+  {
+   "symbol": "RCACU",
+   "name": "Revelstone Capital Acquisition Corp. - Unit",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "RCACU"
+  },
+  {
+   "symbol": "PDM",
+   "name": "Palladium One Mining Inc.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "PDM.V",
+   "instruments": [
+    {
+     "name": "Palladium One Mining Inc.",
+     "symbol": "PDM"
+    }
+   ]
+  },
+  {
+   "symbol": "PEAK",
+   "name": "Healthpeak Properties, Inc. Common Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "PEAK"
+  },
+  {
+   "symbol": "BODY",
+   "name": "The Beachbody Company, Inc. Class A Common Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "BODY"
+  },
+  {
+   "symbol": "RNLC",
+   "name": "Large Cap US Equity Select ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "RNLC"
+  },
+  {
+   "symbol": "VMH.U",
+   "name": "VM Hotel Acquisition Corp.",
+   "exchange": "TSX",
+   "yahoo_symbol": "VMH.U.TO",
+   "instruments": [
+    {
+     "name": "VM Htl AcquisJ RV US",
+     "symbol": "VMH.U"
+    },
+    {
+     "name": "VM Htl AcquisJ US Wt",
+     "symbol": "VMH.WT.U"
+    }
+   ]
+  },
+  {
+   "symbol": "RCACW",
+   "name": "Revelstone Capital Acquisition Corp. - Warrant",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "RCACW"
+  },
+  {
+   "symbol": "KSCP",
+   "name": "Knightscope, Inc. - Class A Common Stock",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "KSCP"
+  },
+  {
+   "symbol": "CPSI",
+   "name": "Computer Programs and Systems, Inc. - Common Stock",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "CPSI"
+  },
+  {
+   "symbol": "RCAC",
+   "name": "Revelstone Capital Acquisition Corp. - Class A Common Stock",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "RCAC"
+  }
+ ]
+}
