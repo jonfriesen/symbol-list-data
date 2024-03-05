@@ -1,0 +1,42 @@
+{
+ "added": [
+  {
+   "symbol": "QTI",
+   "name": "QT Imaging Holdings, Inc. - Common Stock",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "QTI"
+  },
+  {
+   "symbol": "SASK",
+   "name": "Atha Energy Corp.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "SASK.V",
+   "instruments": [
+    {
+     "name": "Atha Energy Corp.",
+     "symbol": "SASK"
+    }
+   ]
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "GIA",
+   "name": "GigCapital 5, Inc. - Common Stock",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "GIA"
+  },
+  {
+   "symbol": "SAIC",
+   "name": "Science Applications International Corporation Common Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "SAIC"
+  },
+  {
+   "symbol": "VAQC",
+   "name": "Vector Acquisition Corporation II - Class A Ordinary Shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "VAQC"
+  }
+ ]
+}

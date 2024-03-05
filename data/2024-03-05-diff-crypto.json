@@ -1,0 +1,358 @@
+{
+ "added": [
+  {
+   "symbol": "PRDS",
+   "name": "Brise Paradise (PRDS)",
+   "built_on": "BRISE"
+  },
+  {
+   "symbol": "SWPR",
+   "name": "Swapr (SWPR)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "FDC",
+   "name": "Fidance (FDC)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "LONGFU",
+   "name": "LONGFU (LONGFU)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "STIC",
+   "name": "StickMan (STIC)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "WDOT",
+   "name": "WDOT (WDOT)",
+   "built_on": "ASTR"
+  },
+  {
+   "symbol": "GORA",
+   "name": "Gora (GORA)",
+   "built_on": "ALGO"
+  },
+  {
+   "symbol": "BB",
+   "name": "Baby Bali (BB)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "DRAM",
+   "name": "DRAM (DRAM)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "OGSM",
+   "name": "OGSMINEM (OGSM)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "STA",
+   "name": "Defi STOA (STA)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "QUA",
+   "name": "Quantum Tech (QUA)",
+   "built_on": "MATIC"
+  },
+  {
+   "symbol": "HOUSE",
+   "name": "Klaymore Stakehouse (HOUSE)",
+   "built_on": "KLAY"
+  },
+  {
+   "symbol": "CATO",
+   "name": "CATO (CATO)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "DELOT",
+   "name": "DELOT.IO (DELOT)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "SANJI",
+   "name": "Sanji Inu (SANJI)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "ZCULT",
+   "name": "Zkcult (ZCULT)",
+   "built_on": "ZKSYNC"
+  },
+  {
+   "symbol": "BIXI",
+   "name": "Bixi (BIXI)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "AROR",
+   "name": "Arora (AROR)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "SANTA",
+   "name": "SANTA CHRISTMAS INU (SANTA)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "SLPV1",
+   "name": "Smooth Love Potion v1 (SLPV1)"
+  },
+  {
+   "symbol": "WMXWOM",
+   "name": "Wombex WOM (WMXWOM)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "SLCL",
+   "name": "Solcial (SLCL)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "ELK",
+   "name": "Elk Finance (ELK)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "NEXTEXV1",
+   "name": "Next.exchange Token v1 (NEXTEXV1)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "POLYCUB",
+   "name": "PolyCub (POLYCUB)",
+   "built_on": "MATIC"
+  },
+  {
+   "symbol": "C2H6",
+   "name": "Ethane (C2H6)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "GETH",
+   "name": "Guarded Ether (GETH)"
+  },
+  {
+   "symbol": "SRT",
+   "name": "Smart Reward Token (SRT)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "APP",
+   "name": "SappChat (APP)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "ZIK",
+   "name": "Ziktalk (ZIK)",
+   "built_on": "LUK"
+  },
+  {
+   "symbol": "GUISE",
+   "name": "GUISE (GUISE)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "DOG",
+   "name": "The Doge NFT (DOG)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "BNBDOGE",
+   "name": "BNBdoge (BNBDOGE)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "QWLA",
+   "name": "Qawalla (QWLA)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "OMNOM",
+   "name": "Doge Eat Doge (OMNOM)",
+   "built_on": "DOGE"
+  },
+  {
+   "symbol": "PUNCH",
+   "name": "PUNCHWORD (PUNCH)",
+   "built_on": "FTM"
+  },
+  {
+   "symbol": "CENTRA",
+   "name": "Centra (CENTRA)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "ADR",
+   "name": "Adroverse (ADR)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "FOXGIRL",
+   "name": "FoxGirl (FOXGIRL)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "APTOGE",
+   "name": "Aptoge (APTOGE)",
+   "built_on": "APT"
+  },
+  {
+   "symbol": "TITI",
+   "name": "TiTi Protocol (TITI)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "BOOT",
+   "name": "Bostrom (BOOT)"
+  },
+  {
+   "symbol": "ZARP",
+   "name": "ZARP Stablecoin (ZARP)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "WADA",
+   "name": "Wrapped Cardano (WADA)",
+   "built_on": "ADA"
+  },
+  {
+   "symbol": "1MT",
+   "name": "1Move (1MT)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "PIKO",
+   "name": "Pinnako (PIKO)",
+   "built_on": "ZKSYNC"
+  },
+  {
+   "symbol": "VBSWAP",
+   "name": "vBSWAP (VBSWAP)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "CAIR",
+   "name": "Crypto-AI-Robo.com (CAIR)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "WSHIB",
+   "name": "wShiba (WSHIB)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "DWARS",
+   "name": "Dynasty Wars (DWARS)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "1NFT",
+   "name": "1NFT (1NFT)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "D2O",
+   "name": "DAM Finance (D2O)"
+  },
+  {
+   "symbol": "CRONA",
+   "name": "CronaSwap (CRONA)",
+   "built_on": "CRO"
+  },
+  {
+   "symbol": "BANK",
+   "name": "Float Protocol (BANK)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "QSR",
+   "name": "Quasar (QSR)"
+  },
+  {
+   "symbol": "TETHYS",
+   "name": "Tethys (TETHYS)",
+   "built_on": "METIS"
+  },
+  {
+   "symbol": "PORTALTOKEN",
+   "name": "Portal (PORTALTOKEN)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "MPWR",
+   "name": "Empower (MPWR)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "CPIGGY",
+   "name": "Vix Finance (CPIGGY)",
+   "built_on": "ADA"
+  },
+  {
+   "symbol": "PSPS",
+   "name": "BobaCat (PSPS)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "MINE",
+   "name": "SpaceMine (MINE)",
+   "built_on": "ETH"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "APP",
+   "name": "SappChat (APP)"
+  },
+  {
+   "symbol": "SRT",
+   "name": "Smart Reward Token (SRT)"
+  },
+  {
+   "symbol": "FDC",
+   "name": "Fidance (FDC)"
+  },
+  {
+   "symbol": "ZIK",
+   "name": "Ziktalk (ZIK)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "QUA",
+   "name": "Quantum Tech (QUA)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "STA",
+   "name": "Defi STOA (STA)"
+  },
+  {
+   "symbol": "CREAL",
+   "name": "Celo Brazilian Real (CREAL)",
+   "built_on": "CELO"
+  },
+  {
+   "symbol": "CENTRA",
+   "name": "Centra (CENTRA)"
+  },
+  {
+   "symbol": "BB",
+   "name": "Baby Bali (BB)"
+  },
+  {
+   "symbol": "PRDS",
+   "name": "Brise Paradise (PRDS)"
+  },
+  {
+   "symbol": "MINE",
+   "name": "SpaceMine (MINE)"
+  }
+ ]
+}
