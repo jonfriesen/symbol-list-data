@@ -1,0 +1,66 @@
+{
+ "added": [
+  {
+   "symbol": "SIG",
+   "name": "Sitka Gold Corp.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "SIG.V",
+   "instruments": [
+    {
+     "name": "Sitka Gold Corp.",
+     "symbol": "SIG"
+    }
+   ]
+  },
+  {
+   "symbol": "ALGS",
+   "name": "Aligos Therapeutics, Inc. - Common stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "ALGS"
+  },
+  {
+   "symbol": "LGCL",
+   "name": "Lucas GC Limited - Ordinary Shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "LGCL"
+  },
+  {
+   "symbol": "SAIC",
+   "name": "Science Applications International Corporation - Common Stock",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "SAIC"
+  },
+  {
+   "symbol": "TPGXL",
+   "name": "TPG Inc. - 6.950% Fixed-Rate Junior Subordinated Notes due 2064",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "TPGXL"
+  },
+  {
+   "symbol": "VWE",
+   "name": "Vintage Wine Estates, Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "VWE"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "VWE",
+   "name": "Vintage Wine Estates, Inc. - Common Stock",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "VWE"
+  },
+  {
+   "symbol": "ALGS",
+   "name": "Aligos Therapeutics, Inc. - Common stock",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "ALGS"
+  },
+  {
+   "symbol": "BFX",
+   "name": "BowFlex Inc. Common Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "BFX"
+  }
+ ]
+}
