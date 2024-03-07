@@ -1,0 +1,84 @@
+{
+ "added": [
+  {
+   "symbol": "ALTR.P",
+   "name": "Alterego Ventures 24 Corp.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "ALTR.P.V",
+   "instruments": [
+    {
+     "name": "Alterego Ventures 24 Corp.",
+     "symbol": "ALTR.P"
+    }
+   ]
+  },
+  {
+   "symbol": "COPP",
+   "name": "Sprott Copper Miners ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "COPP"
+  },
+  {
+   "symbol": "NCPB",
+   "name": "Nuveen Core Plus Bond ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "NCPB"
+  },
+  {
+   "symbol": "NPFI",
+   "name": "Nuveen Preferred and Income ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "NPFI"
+  },
+  {
+   "symbol": "NSCR",
+   "name": "Nuveen Sustainable Core ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "NSCR"
+  },
+  {
+   "symbol": "NUSB",
+   "name": "Nuveen Ultra Short Income ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "NUSB"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "ALBA.P",
+   "name": "A-Labs Capital V Corp.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "ALBA.P.V",
+   "instruments": [
+    {
+     "name": "A-Labs Capital V Corp.",
+     "symbol": "ALBA.P"
+    }
+   ]
+  },
+  {
+   "symbol": "GROY.W",
+   "name": "Gold Royalty Corp. Warrants, each warrant exercisable for one common share at an exercise price of $7.50",
+   "exchange": "NYSE MKT",
+   "yahoo_symbol": "GROY.W"
+  },
+  {
+   "symbol": "NEPT",
+   "name": "Neptune Wellness Solutions Inc. - Ordinary Shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "NEPT"
+  },
+  {
+   "symbol": "BETS",
+   "name": "Bit Brother Limited - Class A Ordinary Shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "BETS"
+  },
+  {
+   "symbol": "PBLA",
+   "name": "Panbela Therapeutics, Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "PBLA"
+  }
+ ]
+}
