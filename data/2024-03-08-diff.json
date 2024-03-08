@@ -1,0 +1,178 @@
+{
+ "added": [
+  {
+   "symbol": "FEXD",
+   "name": "Fintech Ecosystem Development Corp. - Class A Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "FEXD"
+  },
+  {
+   "symbol": "FEXDR",
+   "name": "Fintech Ecosystem Development Corp. - Right",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "FEXDR"
+  },
+  {
+   "symbol": "FEXDU",
+   "name": "Fintech Ecosystem Development Corp. - Units",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "FEXDU"
+  },
+  {
+   "symbol": "FEXDW",
+   "name": "Fintech Ecosystem Development Corp. - Warrant",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "FEXDW"
+  },
+  {
+   "symbol": "SLNA",
+   "name": "Selina Hospitality PLC - Ordinary Shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "SLNA"
+  },
+  {
+   "symbol": "ZGLD",
+   "name": "BMO Gold Bullion ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "ZGLD.TO",
+   "instruments": [
+    {
+     "name": "BMO Gld Bull ETF CAD",
+     "symbol": "ZGLD"
+    },
+    {
+     "name": "BMO Gld Bull ETF USD",
+     "symbol": "ZGLD.U"
+    }
+   ]
+  },
+  {
+   "symbol": "ZGLH",
+   "name": "BMO Gold Bullion Hedged to CAD ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "ZGLH.TO",
+   "instruments": [
+    {
+     "name": "BMO Gld Bull Hdg ETF",
+     "symbol": "ZGLH"
+    }
+   ]
+  },
+  {
+   "symbol": "ATMU.V",
+   "name": "Atmus Filtration Technologies Inc. Common Stock When Issued",
+   "exchange": "NYSE",
+   "yahoo_symbol": "ATMU.V"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "VIV",
+   "name": "Avivagen Inc.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "VIV.V",
+   "instruments": [
+    {
+     "name": "Avivagen Inc.",
+     "symbol": "VIV"
+    }
+   ]
+  },
+  {
+   "symbol": "FEXD",
+   "name": "Fintech Ecosystem Development Corp. - Class A Common Stock",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "FEXD"
+  },
+  {
+   "symbol": "SAGA",
+   "name": "Sagaliam Acquisition Corp. - Class A Common Stock",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "SAGA"
+  },
+  {
+   "symbol": "FEXDR",
+   "name": "Fintech Ecosystem Development Corp. - Right",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "FEXDR"
+  },
+  {
+   "symbol": "EXPR",
+   "name": "Express, Inc. Common Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "EXPR"
+  },
+  {
+   "symbol": "SAGAR",
+   "name": "Sagaliam Acquisition Corp. - Rights",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "SAGAR"
+  },
+  {
+   "symbol": "SAGAU",
+   "name": "Sagaliam Acquisition Corp. - Units",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "SAGAU"
+  },
+  {
+   "symbol": "OOOO",
+   "name": "OOOOO Entertainment Commerce Limited",
+   "exchange": "TSXV",
+   "yahoo_symbol": "OOOO.V",
+   "instruments": [
+    {
+     "name": "OOOOO Entertainment Commerce Limited",
+     "symbol": "OOOO"
+    }
+   ]
+  },
+  {
+   "symbol": "FEXDW",
+   "name": "Fintech Ecosystem Development Corp. - Warrant",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "FEXDW"
+  },
+  {
+   "symbol": "AMAM",
+   "name": "Ambrx Biopharma, Inc.  - Common Stock",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "AMAM"
+  },
+  {
+   "symbol": "TBLL",
+   "name": "Tombill Mines Limited",
+   "exchange": "TSXV",
+   "yahoo_symbol": "TBLL.V",
+   "instruments": [
+    {
+     "name": "Tombill Mines Limited",
+     "symbol": "TBLL"
+    }
+   ]
+  },
+  {
+   "symbol": "LKY",
+   "name": "Lucky Minerals Inc.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "LKY.V",
+   "instruments": [
+    {
+     "name": "Lucky Minerals Inc.",
+     "symbol": "LKY"
+    }
+   ]
+  },
+  {
+   "symbol": "SLNA",
+   "name": "Selina Hospitality PLC - Ordinary Shares",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "SLNA"
+  },
+  {
+   "symbol": "FEXDU",
+   "name": "Fintech Ecosystem Development Corp. - Units",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "FEXDU"
+  }
+ ]
+}
