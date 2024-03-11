@@ -1,0 +1,105 @@
+{
+ "added": [
+  {
+   "symbol": "BYTE",
+   "name": "Byte (BYTE)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "SOLS",
+   "name": "sols (SOLS)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "SOLSCC",
+   "name": "sols (SOLSCC)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "BANK",
+   "name": "Float Protocol (BANK)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "REKT2",
+   "name": "REKT 2.0 (REKT2)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "STOSMO",
+   "name": "Stride Staked OSMO (STOSMO)"
+  },
+  {
+   "symbol": "DOG",
+   "name": "The Doge NFT (DOG)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "VENTI",
+   "name": "VentiSwap (VENTI)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "HIPP",
+   "name": "El Hippo (HIPP)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "REKT",
+   "name": "REKT (REKT)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "MIN",
+   "name": "MINDOL (MIN)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "TATSU",
+   "name": "Taτsu (TATSU)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "VESTARIN",
+   "name": "Vestarin (VESTARIN)"
+  },
+  {
+   "symbol": "VESTA",
+   "name": "Vestate (VESTA)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "G",
+   "name": "GRN Grid (G)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "VONSPEED",
+   "name": "Andrea Von Speed (VONSPEED)",
+   "built_on": "SOL"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "sols",
+   "name": "SOLS (sols)"
+  },
+  {
+   "symbol": "VESTA",
+   "name": "Vestarin (VESTA)"
+  },
+  {
+   "symbol": "REKT",
+   "name": "REKT (REKT)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "LKK",
+   "name": "Lykke (LKK)"
+  },
+  {
+   "symbol": "VST",
+   "name": "VentiSwap (VST)"
+  }
+ ]
+}

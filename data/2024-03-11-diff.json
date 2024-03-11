@@ -1,0 +1,48 @@
+{
+ "added": [
+  {
+   "symbol": "VATE.R",
+   "name": "INNOVATE Corp. Rights (expiring March 25, 2024)",
+   "exchange": "NYSE",
+   "yahoo_symbol": "VATE.R"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "TGVC",
+   "name": "TG Venture Acquisition Corp. - Class A Common Stock",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "TGVC"
+  },
+  {
+   "symbol": "PHXM",
+   "name": "PHAXIAM Therapeutics S.A. - American Depositary Shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "PHXM"
+  },
+  {
+   "symbol": "TGVCW",
+   "name": "TG Venture Acquisition Corp. - Warrants",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "TGVCW"
+  },
+  {
+   "symbol": "FAZEW",
+   "name": "FaZe Holdings Inc. - Warrant",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "FAZEW"
+  },
+  {
+   "symbol": "FAZE",
+   "name": "FaZe Holdings Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "FAZE"
+  },
+  {
+   "symbol": "TGVCU",
+   "name": "TG Venture Acquisition Corp. - Units",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "TGVCU"
+  }
+ ]
+}
