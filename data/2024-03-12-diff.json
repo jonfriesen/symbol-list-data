@@ -1,0 +1,162 @@
+{
+ "added": [
+  {
+   "symbol": "GLLI",
+   "name": "Globalink Investment Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "GLLI"
+  },
+  {
+   "symbol": "GLLIR",
+   "name": "Globalink Investment Inc. - Rights",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "GLLIR"
+  },
+  {
+   "symbol": "GLLIU",
+   "name": "Globalink Investment Inc. - Units",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "GLLIU"
+  },
+  {
+   "symbol": "GLLIW",
+   "name": "Globalink Investment Inc. - Warrants",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "GLLIW"
+  },
+  {
+   "symbol": "JVSA",
+   "name": "JVSPAC Acquisition Corp. - Class A Ordinary Share",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "JVSA"
+  },
+  {
+   "symbol": "JVSAR",
+   "name": "JVSPAC Acquisition Corp. - Right",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "JVSAR"
+  },
+  {
+   "symbol": "AGT",
+   "name": "Applied Graphite Technologies Corporation",
+   "exchange": "TSXV",
+   "yahoo_symbol": "AGT.V",
+   "instruments": [
+    {
+     "name": "Applied Graphite Technologies Corporation",
+     "symbol": "AGT"
+    }
+   ]
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "CURO",
+   "name": "CURO Group Holdings Corp. Common Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "CURO"
+  },
+  {
+   "symbol": "GLLI",
+   "name": "Globalink Investment Inc. - Common Stock",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "GLLI"
+  },
+  {
+   "symbol": "IRRX.U",
+   "name": "Integrated Rail and Resources Acquisition Corp. Units, each consisting of one share of Class A common stock and one half of one redeemable warrant",
+   "exchange": "NYSE",
+   "yahoo_symbol": "IRRX.U"
+  },
+  {
+   "symbol": "HARP",
+   "name": "Harpoon Therapeutics, Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "HARP"
+  },
+  {
+   "symbol": "LBBBR",
+   "name": "Lakeshore Acquisition II Corp. - Rights",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "LBBBR"
+  },
+  {
+   "symbol": "IRRX",
+   "name": "Integrated Rail and Resources Acquisition Corp. Class A Common Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "IRRX"
+  },
+  {
+   "symbol": "GLLIR",
+   "name": "Globalink Investment Inc. - Rights",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "GLLIR"
+  },
+  {
+   "symbol": "GLLIW",
+   "name": "Globalink Investment Inc. - Warrants",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "GLLIW"
+  },
+  {
+   "symbol": "AUD.P",
+   "name": "Audrey Capital Corporation",
+   "exchange": "TSXV",
+   "yahoo_symbol": "AUD.P.V",
+   "instruments": [
+    {
+     "name": "Audrey Capital Corporation",
+     "symbol": "AUD.P"
+    }
+   ]
+  },
+  {
+   "symbol": "EACPW",
+   "name": "Edify Acquisition Corp. - Warrant",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "EACPW"
+  },
+  {
+   "symbol": "LBBBW",
+   "name": "Lakeshore Acquisition II Corp. - Warrants",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "LBBBW"
+  },
+  {
+   "symbol": "LBBB",
+   "name": "Lakeshore Acquisition II Corp. - Ordinary Shares",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "LBBB"
+  },
+  {
+   "symbol": "GLLIU",
+   "name": "Globalink Investment Inc. - Units",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "GLLIU"
+  },
+  {
+   "symbol": "EAC",
+   "name": "Edify Acquisition Corp. - Class A Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "EAC"
+  },
+  {
+   "symbol": "LBBBU",
+   "name": "Lakeshore Acquisition II Corp. - Unit",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "LBBBU"
+  },
+  {
+   "symbol": "EACPU",
+   "name": "Edify Acquisition Corp. - Units",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "EACPU"
+  },
+  {
+   "symbol": "IRRX.W",
+   "name": "Integrated Rail and Resources Acquisition Corp. Redeemable warrants, each whole warrant exercisable for one share of Class A common stock at an exercise price of $11.50",
+   "exchange": "NYSE",
+   "yahoo_symbol": "IRRX.W"
+  }
+ ]
+}
