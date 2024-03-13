@@ -1,0 +1,72 @@
+{
+ "added": [
+  {
+   "symbol": "BETR",
+   "name": "Better Home \u0026 Finance Holding Company - Class A Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "BETR"
+  },
+  {
+   "symbol": "NMHI",
+   "name": "Nature's Miracle Holding Inc. - Common Stock",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "NMHI"
+  },
+  {
+   "symbol": "NMHIW",
+   "name": "Nature's Miracle Holding Inc. - Warrants",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "NMHIW"
+  },
+  {
+   "symbol": "NTRP",
+   "name": "NextTrip, Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "NTRP"
+  },
+  {
+   "symbol": "XTIA",
+   "name": "XTI Aerospace, Inc. Common Stock  - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "XTIA"
+  },
+  {
+   "symbol": "ALP$A",
+   "name": "Albemarle Corporation Depositary Shares each representing a 1/20th of 7.25% Series A Mandatory Convertible Preferred Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "ALP$A"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "SNCE",
+   "name": "Science 37 Holdings, Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "SNCE"
+  },
+  {
+   "symbol": "SOVO",
+   "name": "Sovos Brands, Inc. - Common Stock",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "SOVO"
+  },
+  {
+   "symbol": "SASI",
+   "name": "Sigma Additive Solutions, Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "SASI"
+  },
+  {
+   "symbol": "BETR",
+   "name": "Better Home \u0026 Finance Holding Company - Class A Common Stock",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "BETR"
+  },
+  {
+   "symbol": "INPX",
+   "name": "Inpixon  - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "INPX"
+  }
+ ]
+}
