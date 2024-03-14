@@ -1,0 +1,96 @@
+{
+ "added": [
+  {
+   "symbol": "KBRA",
+   "name": "Kubera Gold Corp.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "KBRA.V",
+   "instruments": [
+    {
+     "name": "Kubera Gold Corp.",
+     "symbol": "KBRA"
+    }
+   ]
+  },
+  {
+   "symbol": "ZEO",
+   "name": "Zeo Energy Corporation - Class A Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "ZEO"
+  },
+  {
+   "symbol": "ZEOWW",
+   "name": "Zeo Energy Corporation - Warrants",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "ZEOWW"
+  },
+  {
+   "symbol": "ALB$A",
+   "name": "Albemarle Corporation Depositary Shares each representing a 1/20th of 7.25% Series A Mandatory Convertible Preferred Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "ALB$A"
+  },
+  {
+   "symbol": "CMI.Z",
+   "name": "Cummins Inc. Common Stock When-Distributed",
+   "exchange": "NYSE",
+   "yahoo_symbol": "CMI.Z"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "ALTUW",
+   "name": "Altitude Acquisition Corp. - Warrant",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "ALTUW"
+  },
+  {
+   "symbol": "ALP$A",
+   "name": "Albemarle Corporation Depositary Shares each representing a 1/20th of 7.25% Series A Mandatory Convertible Preferred Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "ALP$A"
+  },
+  {
+   "symbol": "ESACU",
+   "name": "ESGEN Acquisition Corporation - Unit",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "ESACU"
+  },
+  {
+   "symbol": "ESAC",
+   "name": "ESGEN Acquisition Corporation - Class A Ordinary Shares",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "ESAC"
+  },
+  {
+   "symbol": "THWWW",
+   "name": "Target Hospitality Corp. - Warrant expiring 3/15/2024",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "THWWW"
+  },
+  {
+   "symbol": "ESACW",
+   "name": "ESGEN Acquisition Corporation - Warrants",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "ESACW"
+  },
+  {
+   "symbol": "TGH",
+   "name": "Textainer Group Holdings Limited Common Shares",
+   "exchange": "NYSE",
+   "yahoo_symbol": "TGH"
+  },
+  {
+   "symbol": "ALTUU",
+   "name": "Altitude Acquisition Corp. - Unit",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "ALTUU"
+  },
+  {
+   "symbol": "ALTU",
+   "name": "Altitude Acquisition Corp. - Class A Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "ALTU"
+  }
+ ]
+}

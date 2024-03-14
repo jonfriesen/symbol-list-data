@@ -1,0 +1,318 @@
+{
+ "added": [
+  {
+   "symbol": "LSTAR",
+   "name": "Learning Star (LSTAR)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "FTVT",
+   "name": "FashionTV Token (FTVT)",
+   "built_on": "AVAX"
+  },
+  {
+   "symbol": "DAPPSY",
+   "name": "Dappsy (DAPPSY)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "CATSHIRA",
+   "name": "Shira Cat (CATSHIRA)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "KGT",
+   "name": "Kaby Gaming Token (KGT)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "AVAI",
+   "name": "Orca AVAI (AVAI)",
+   "built_on": "AVAX"
+  },
+  {
+   "symbol": "HUH",
+   "name": "HUH Token (HUH)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "SO",
+   "name": "Shiny Ore (SO)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "TQRT",
+   "name": "TokoQrt (TQRT)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "PEPE20",
+   "name": "Pepe 2.0 (PEPE20)"
+  },
+  {
+   "symbol": "LUSH",
+   "name": "Lush AI (LUSH)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "ARTDRAW",
+   "name": "ArtDraw (ARTDRAW)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "VNY",
+   "name": "Vanity (VNY)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "FAYD",
+   "name": "Fayda (FAYD)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "LADA",
+   "name": "LadderCaster (LADA)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "AMG",
+   "name": "DeHeroGame Amazing Token (AMG)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "UNICE",
+   "name": "UNICE (UNICE)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "ALPHABET",
+   "name": "Alphabet (ALPHABET)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "ECS",
+   "name": "eCredits (ECS)"
+  },
+  {
+   "symbol": "MSGO",
+   "name": "MetaSetGO (MSGO)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "POOP",
+   "name": "Poopsicle (POOP)",
+   "built_on": "FTM"
+  },
+  {
+   "symbol": "FLN",
+   "name": "Falcon (FLN)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "GROKBOY",
+   "name": "GrokBoy (GROKBOY)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "MONGOOSE",
+   "name": "Mongoose (MONGOOSE)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "MMA",
+   "name": "Meme Alliance (MMA)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "ASTX",
+   "name": "Asterix Labs (ASTX)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "ALVA",
+   "name": "Alvara Protocol (ALVA)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "BCL",
+   "name": "Bitcoin Legend (BCL)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "BNBDRGN",
+   "name": "BNBDragon (BNBDRGN)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "SOLCASH",
+   "name": "SOLCash (SOLCASH)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "DEER",
+   "name": "ToxicDeer Finance (DEER)",
+   "built_on": "CRO"
+  },
+  {
+   "symbol": "AKI",
+   "name": "Aki Network (AKI)",
+   "built_on": "MATIC"
+  },
+  {
+   "symbol": "DOGEFORK",
+   "name": "DogeFork (DOGEFORK)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "SHIBU",
+   "name": "SHIBU INU (SHIBU)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "CATMAN",
+   "name": "Catman (CATMAN)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "PORKINU",
+   "name": "PepeFork INU (PORKINU)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "LGC",
+   "name": "LiveGreen Coin (LGC)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "DXS",
+   "name": "Dx Spot (DXS)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "SORACEO",
+   "name": "SORA CEO (SORACEO)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "AITIGER",
+   "name": "BNB Tiger AI (AITIGER)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "G",
+   "name": "GRN Grid (G)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "CRAZYDOGE",
+   "name": "CRAZY DOGE (CRAZYDOGE)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "GEZY",
+   "name": "EZZY GAME GEZY (GEZY)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "FROZE",
+   "name": "FrozenAi (FROZE)",
+   "built_on": "ARB"
+  },
+  {
+   "symbol": "DECHAT",
+   "name": "Dechat (DECHAT)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "AEG",
+   "name": "Aether Games (AEG)",
+   "built_on": "MATIC"
+  },
+  {
+   "symbol": "FATHOM",
+   "name": "Fathom (FATHOM)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "CAKESWAP",
+   "name": "CakeSwap (CAKESWAP)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "NIK",
+   "name": "NIKPLACE (NIK)",
+   "built_on": "KLAY"
+  },
+  {
+   "symbol": "VSHARE",
+   "name": "V3S Share (VSHARE)",
+   "built_on": "CRO"
+  },
+  {
+   "symbol": "ERROR404",
+   "name": "ERROR404 MEME (ERROR404)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "BANKETH",
+   "name": "BankEth (BANKETH)"
+  },
+  {
+   "symbol": "GNFT",
+   "name": "GNFT (GNFT)",
+   "built_on": "MATIC"
+  },
+  {
+   "symbol": "SAPPC",
+   "name": "SappChat (SAPPC)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "DEFROGS",
+   "name": "DeFrogs (DEFROGS)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "CHINAZILLA",
+   "name": "ChinaZilla (CHINAZILLA)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "DOG",
+   "name": "The Doge NFT (DOG)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "TLW",
+   "name": "TILWIKI (TLW)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "CRAZYBONK",
+   "name": "CRAZY BONK (CRAZYBONK)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "ENDCEX",
+   "name": "Endpoint CeX Fan Token (ENDCEX)",
+   "built_on": "CHZ"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "APP",
+   "name": "SappChat (APP)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "PEPE20",
+   "name": "Pepe 2.0 (PEPE20)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "CREAL",
+   "name": "Celo Brazilian Real (CREAL)",
+   "built_on": "CELO"
+  }
+ ]
+}
