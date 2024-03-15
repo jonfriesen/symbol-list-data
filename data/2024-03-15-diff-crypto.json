@@ -1,0 +1,157 @@
+{
+ "added": [
+  {
+   "symbol": "FLOKITA",
+   "name": "FLOKITA (FLOKITA)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "METAQ",
+   "name": "MetaQ (METAQ)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "EXGO",
+   "name": "EXGOLAND (EXGO)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "BABYWIF",
+   "name": "babydogwifhat (BABYWIF)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "PIGEON",
+   "name": "Pigeon In Yellow Boots (PIGEON)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "PUFETH",
+   "name": "pufETH (PUFETH)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "FAKEAI",
+   "name": "DeepFakeAI (FAKEAI)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "BLENDR",
+   "name": "Blendr Network (BLENDR)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "AIAT",
+   "name": "AI Analysis Token (AIAT)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "VANA",
+   "name": "Nirvana (VANA)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "PEPE2",
+   "name": "Pepe 2.0 (PEPE2)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "MCIV",
+   "name": "Mars Civ Project (MCIV)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "CREAL",
+   "name": "Celo Brazilian Real (CREAL)",
+   "built_on": "CELO"
+  },
+  {
+   "symbol": "NOCHILL",
+   "name": "AVAX HAS NO CHILL (NOCHILL)",
+   "built_on": "AVAX"
+  },
+  {
+   "symbol": "QORPO",
+   "name": "QORPO WORLD (QORPO)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "AXGT",
+   "name": "AxonDAO Governance Token (AXGT)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "APP",
+   "name": "Moon App (APP)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "DECL",
+   "name": "Decimal token (DECL)"
+  },
+  {
+   "symbol": "BRETT",
+   "name": "Brett (BRETT)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "UPDOG",
+   "name": "What's Updog (UPDOG)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "GETH",
+   "name": "Guarded Ether (GETH)"
+  },
+  {
+   "symbol": "NAVX",
+   "name": "NAVI Protocol (NAVX)",
+   "built_on": "SUI"
+  },
+  {
+   "symbol": "PATEX",
+   "name": "Patex (PATEX)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "CWIF",
+   "name": "catwifhat (CWIF)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "SUSDE",
+   "name": "Ethena Staked USDe (SUSDE)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "BANKETH",
+   "name": "BankEth (BANKETH)"
+  },
+  {
+   "symbol": "LENDS",
+   "name": "Lends (LENDS)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "DOG",
+   "name": "The Doge NFT (DOG)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "NAO",
+   "name": "Nettensor (NAO)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "CRH",
+   "name": "Crypto Hunters Coin (CRH)",
+   "built_on": "BNB"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "PEPE20",
+   "name": "Pepe 2.0 (PEPE20)"
+  }
+ ]
+}

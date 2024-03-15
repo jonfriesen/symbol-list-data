@@ -1,0 +1,156 @@
+{
+ "added": [
+  {
+   "symbol": "AIRJ",
+   "name": "Montana Technologies Corp - Class A Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "AIRJ"
+  },
+  {
+   "symbol": "AIRJW",
+   "name": "Montana Technologies Corp - Warrant",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "AIRJW"
+  },
+  {
+   "symbol": "BNAI",
+   "name": "Brand Engagement Network Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "BNAI"
+  },
+  {
+   "symbol": "BNAIW",
+   "name": "Brand Engagement Network Inc. - Warrant",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "BNAIW"
+  },
+  {
+   "symbol": "GTI",
+   "name": "Graphjet Technology - Class A Ordinary Shares",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "GTI"
+  },
+  {
+   "symbol": "USIN",
+   "name": "WisdomTree 7-10 Year Laddered Treasury Fund",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "USIN"
+  },
+  {
+   "symbol": "USSH",
+   "name": "WisdomTree 1-3 Year Laddered Treasury Fund",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "USSH"
+  },
+  {
+   "symbol": "ATHS",
+   "name": "Athene Holding Ltd. 7.250% Fixed-Rate Reset Junior Subordinated Debentures due 2064",
+   "exchange": "NYSE",
+   "yahoo_symbol": "ATHS"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "NI$B",
+   "name": "NiSource, Inc Depositary Shares representing 1/1,000th ownership interest in a share of 6.50% Series B Preferred Stock and 1/1,000th ownership interest in a share of Series B-1 Preferred Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "NI$B"
+  },
+  {
+   "symbol": "ENCP",
+   "name": "Energem Corp - Class A Ordinary Shares",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "ENCP"
+  },
+  {
+   "symbol": "DHCA",
+   "name": "DHC Acquisition Corp. - Class A ordinary share",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "DHCA"
+  },
+  {
+   "symbol": "STT$D",
+   "name": "State Street Corporation Depositary Shares representing 1/4000th Perpetual Preferred Series D",
+   "exchange": "NYSE",
+   "yahoo_symbol": "STT$D"
+  },
+  {
+   "symbol": "ENCPU",
+   "name": "Energem Corp - Unit",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "ENCPU"
+  },
+  {
+   "symbol": "XPDB",
+   "name": "Power \u0026 Digital Infrastructure Acquisition II Corp. - Class A common stock",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "XPDB"
+  },
+  {
+   "symbol": "XPDBW",
+   "name": "Power \u0026 Digital Infrastructure Acquisition II Corp. - Warrant",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "XPDBW"
+  },
+  {
+   "symbol": "ENCPW",
+   "name": "Energem Corp - Warrant",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "ENCPW"
+  },
+  {
+   "symbol": "DHCAW",
+   "name": "DHC Acquisition Corp. - Warrant",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "DHCAW"
+  },
+  {
+   "symbol": "GGAC",
+   "name": "Guardian Fundamental All Country Equity ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "GGAC.TO",
+   "instruments": [
+    {
+     "name": "GuardianFndmtlEqUnhg",
+     "symbol": "GGAC"
+    }
+   ]
+  },
+  {
+   "symbol": "WFC$R",
+   "name": "Wells Fargo \u0026 Company Dep Shs Repstg 1/1000th Int Perp Pfd Cl A (Ser R Fixed To Flltg)",
+   "exchange": "NYSE",
+   "yahoo_symbol": "WFC$R"
+  },
+  {
+   "symbol": "AIG$A",
+   "name": "American International Group, Inc. Depositary Shares Each Representing a 1/1,000th Interest in a Share of Series A 5.85% Non-Cumulative Perpetual Preferred Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "AIG$A"
+  },
+  {
+   "symbol": "GGEM",
+   "name": "Guardian Fundamental Emerging Markets Equity ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "GGEM.TO",
+   "instruments": [
+    {
+     "name": "Guardian EmgMkt Unhg",
+     "symbol": "GGEM"
+    }
+   ]
+  },
+  {
+   "symbol": "DHCAU",
+   "name": "DHC Acquisition Corp. - Unit",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "DHCAU"
+  },
+  {
+   "symbol": "XPDBU",
+   "name": "Power \u0026 Digital Infrastructure Acquisition II Corp. - Unit",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "XPDBU"
+  }
+ ]
+}
