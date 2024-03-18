@@ -1,0 +1,60 @@
+{
+ "added": [
+  {
+   "symbol": "Q",
+   "name": "Quetzal Copper Corp.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "Q.V",
+   "instruments": [
+    {
+     "name": "Quetzal Copper Corp.",
+     "symbol": "Q"
+    }
+   ]
+  },
+  {
+   "symbol": "HPH",
+   "name": "Highest Performances Holdings Inc. - American Depository Shares",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "HPH"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "ANKH.P",
+   "name": "Ankh Capital Inc.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "ANKH.P.V",
+   "instruments": [
+    {
+     "name": "Ankh Capital Inc.",
+     "symbol": "ANKH.P"
+    }
+   ]
+  },
+  {
+   "symbol": "CTOS.W",
+   "name": "Custom Truck One Source, Inc. Warrants",
+   "exchange": "NYSE",
+   "yahoo_symbol": "CTOS.W"
+  },
+  {
+   "symbol": "CYT",
+   "name": "Cyteir Therapeutics, Inc. - Common Stock",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "CYT"
+  },
+  {
+   "symbol": "PUYI",
+   "name": "Puyi Inc. - American Depository Shares",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "PUYI"
+  },
+  {
+   "symbol": "BTTX",
+   "name": "Better Therapeutics, Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "BTTX"
+  }
+ ]
+}

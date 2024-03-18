@@ -1,0 +1,85 @@
+{
+ "added": [
+  {
+   "symbol": "SMURFCATSOL",
+   "name": "Real Smurf Cat (SMURFCATSOL)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "FLOKIX",
+   "name": "FLOKI X (FLOKIX)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "GROKCOIN",
+   "name": "Grok Coin (GROKCOIN)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "UTX",
+   "name": "UTIX (UTX)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "BONKGROK",
+   "name": "Bonk Grok (BONKGROK)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "GONE",
+   "name": "GONE (GONE)",
+   "built_on": "MATIC"
+  },
+  {
+   "symbol": "COQ",
+   "name": "Coq Inu (COQ)",
+   "built_on": "AVAX"
+  },
+  {
+   "symbol": "BANKETH",
+   "name": "BankEth (BANKETH)"
+  },
+  {
+   "symbol": "GETH",
+   "name": "Guarded Ether (GETH)"
+  },
+  {
+   "symbol": "SMURFCATETH",
+   "name": "Real Smurf Cat (SMURFCATETH)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "TELEBTC",
+   "name": "teleBTC (TELEBTC)",
+   "built_on": "MATIC"
+  },
+  {
+   "symbol": "BUNDL",
+   "name": "Bundl Tools (BUNDL)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "BURNNY",
+   "name": "Burnny Inu (BURNNY)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "SMURFCATBSC",
+   "name": "Real Smurf Cat (SMURFCATBSC)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "XENO",
+   "name": "Xeno (XENO)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "DOGETH",
+   "name": "EtherDoge (DOGETH)"
+  },
+  {
+   "symbol": "AIPG",
+   "name": "AI Power Grid (AIPG)"
+  }
+ ]
+}
