@@ -1,0 +1,126 @@
+{
+ "added": [
+  {
+   "symbol": "KSUM",
+   "name": "Alset Capital Inc.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "KSUM.V",
+   "instruments": [
+    {
+     "name": "Alset Capital Inc.",
+     "symbol": "KSUM"
+    }
+   ]
+  },
+  {
+   "symbol": "COS",
+   "name": "Coniagas Battery Metals Inc.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "COS.V",
+   "instruments": [
+    {
+     "name": "Coniagas Battery Metals Inc.",
+     "symbol": "COS"
+    }
+   ]
+  },
+  {
+   "symbol": "AMDL",
+   "name": "GraniteShares 2x Long AMD Daily ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "AMDL"
+  },
+  {
+   "symbol": "AMZZ",
+   "name": "GraniteShares 2x Long AMZN Daily ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "AMZZ"
+  },
+  {
+   "symbol": "MSFL",
+   "name": "GraniteShares 2x Long MSFT Daily ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "MSFL"
+  },
+  {
+   "symbol": "NITO",
+   "name": "N2OFF, Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "NITO"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "CMI.Z",
+   "name": "Cummins Inc. Common Stock When-Distributed",
+   "exchange": "NYSE",
+   "yahoo_symbol": "CMI.Z"
+  },
+  {
+   "symbol": "ATMU.V",
+   "name": "Atmus Filtration Technologies Inc. Common Stock When Issued",
+   "exchange": "NYSE",
+   "yahoo_symbol": "ATMU.V"
+  },
+  {
+   "symbol": "ROSS.U",
+   "name": "Ross Acquisition Corp II Units",
+   "exchange": "NYSE",
+   "yahoo_symbol": "ROSS.U"
+  },
+  {
+   "symbol": "SVFD",
+   "name": "Save Foods, Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "SVFD"
+  },
+  {
+   "symbol": "BCEL",
+   "name": "Atreca, Inc. - Class A Common Stock",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "BCEL"
+  },
+  {
+   "symbol": "LIAN",
+   "name": "LianBio - American Depositary Shares",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "LIAN"
+  },
+  {
+   "symbol": "AYX",
+   "name": "Alteryx, Inc. Class A Common Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "AYX"
+  },
+  {
+   "symbol": "SPLK",
+   "name": "Splunk Inc. - Common Stock",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "SPLK"
+  },
+  {
+   "symbol": "ROSS.W",
+   "name": "Ross Acquisition Corp II Warrants, each whole warrant exercisable for one Class A ordinary share at an exercise price of $11.50 per share",
+   "exchange": "NYSE",
+   "yahoo_symbol": "ROSS.W"
+  },
+  {
+   "symbol": "ROSS",
+   "name": "Ross Acquisition Corp II Class A Ordinary Shares",
+   "exchange": "NYSE",
+   "yahoo_symbol": "ROSS"
+  },
+  {
+   "symbol": "KRTX",
+   "name": "Karuna Therapeutics, Inc. - Common Stock",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "KRTX"
+  },
+  {
+   "symbol": "BKCC",
+   "name": "BlackRock Capital Investment Corporation - Closed End Fund",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "BKCC"
+  }
+ ]
+}
