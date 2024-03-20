@@ -1,0 +1,42 @@
+{
+ "added": [
+  {
+   "symbol": "FNM",
+   "name": "First Nordic Metals Corp.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "FNM.V",
+   "instruments": [
+    {
+     "name": "First Nordic Metals Corp.",
+     "symbol": "FNM"
+    }
+   ]
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "BME",
+   "name": "Barsele Minerals Corp.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "BME.V",
+   "instruments": [
+    {
+     "name": "Barsele Minerals Corp.",
+     "symbol": "BME"
+    }
+   ]
+  },
+  {
+   "symbol": "NER",
+   "name": "Newmac Resources Inc.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "NER.V",
+   "instruments": [
+    {
+     "name": "Newmac Resources Inc.",
+     "symbol": "NER"
+    }
+   ]
+  }
+ ]
+}
