@@ -1,0 +1,254 @@
+{
+ "added": [
+  {
+   "symbol": "CVSHOT",
+   "name": "CV SHOTS (CVSHOT)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "KPHI",
+   "name": "Kephi Gallery (KPHI)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "PS1",
+   "name": "POLYSPORTS (PS1)",
+   "built_on": "MATIC"
+  },
+  {
+   "symbol": "SUTEKU",
+   "name": "Suteku (SUTEKU)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "ABCD",
+   "name": "Crypto Inu (ABCD)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "DGOLD",
+   "name": "PolyDragon (DGOLD)",
+   "built_on": "MATIC"
+  },
+  {
+   "symbol": "SATSALL",
+   "name": "ALL BEST ICO SATOSHI (SATSALL)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "BURNZ",
+   "name": "BURNZ (BURNZ)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "MLTPX",
+   "name": "MoonLift Capital (MLTPX)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "DOGERA",
+   "name": "Dogera (DOGERA)",
+   "built_on": "ZKSYNC"
+  },
+  {
+   "symbol": "OCW",
+   "name": "Online Cold Wallet (OCW)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "ZKPAD",
+   "name": "zkLaunchpad (ZKPAD)",
+   "built_on": "ZKSYNC"
+  },
+  {
+   "symbol": "TATA",
+   "name": "TATA Coin (TATA)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "MSCT",
+   "name": "MUSE ENT NFT (MSCT)",
+   "built_on": "TRX"
+  },
+  {
+   "symbol": "CUBEAUTO",
+   "name": "Cube (CUBEAUTO)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "FATHER",
+   "name": "DogeFather (FATHER)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "VTU",
+   "name": "Virtu (VTU)",
+   "built_on": "MATIC"
+  },
+  {
+   "symbol": "DAW",
+   "name": "Daw Currency (DAW)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "DEXSHARE",
+   "name": "dexSHARE (DEXSHARE)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "SOLIDSEX",
+   "name": "SOLIDsex: Tokenized veSOLID (SOLIDSEX)",
+   "built_on": "FTM"
+  },
+  {
+   "symbol": "MARIO",
+   "name": "MARIO CEO (MARIO)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "JIND",
+   "name": "JINDO INU (JIND)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "GTAVI",
+   "name": "GTAVI (GTAVI)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "ZGEM",
+   "name": "GemSwap (ZGEM)",
+   "built_on": "ZKSYNC"
+  },
+  {
+   "symbol": "REDFLOKI",
+   "name": "Red Floki (REDFLOKI)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "BABYBITC",
+   "name": "BabyBitcoin (BABYBITC)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "BONKFORK",
+   "name": "BonkFork (BONKFORK)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "ROVI",
+   "name": "ROVI (ROVI)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "CUAN",
+   "name": "CuanSwap.com (CUAN)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "PWINGS",
+   "name": "JetSwap pWings (PWINGS)",
+   "built_on": "MATIC"
+  },
+  {
+   "symbol": "BANK",
+   "name": "Float Protocol (BANK)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "USV",
+   "name": "Universal Store of Value (USV)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "PIRATECOIN",
+   "name": "Pirate Coin Games (PIRATECOIN)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "VRSE",
+   "name": "CronosVerse (VRSE)",
+   "built_on": "CRO"
+  },
+  {
+   "symbol": "VALAS",
+   "name": "Valas Finance (VALAS)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "REAPER",
+   "name": "Grim Finance (REAPER)",
+   "built_on": "FTM"
+  },
+  {
+   "symbol": "FPAD",
+   "name": "FantomPAD (FPAD)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "BABYOKX",
+   "name": "BABYOKX (BABYOKX)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "XCAL",
+   "name": "3xcalibur (XCAL)",
+   "built_on": "ARB"
+  },
+  {
+   "symbol": "SPIDERMAN",
+   "name": "SPIDERMAN BITCOIN (SPIDERMAN)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "METRO",
+   "name": "Metropoly (METRO)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "3CEO",
+   "name": "FLOKI SHIBA PEPE CEO (3CEO)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "BNBCAT",
+   "name": "BNBcat (BNBCAT)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "DOGETH",
+   "name": "EtherDoge (DOGETH)"
+  },
+  {
+   "symbol": "BMICKEY",
+   "name": "Baby Mickey (BMICKEY)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "SOULO",
+   "name": "SouloCoin (SOULO)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "G",
+   "name": "GRN Grid (G)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "BLACKROCK",
+   "name": "BlackRock (BLACKROCK)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "STRI",
+   "name": "Strite (STRI)",
+   "built_on": "BNB"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "CUBEAUTO",
+   "name": "Cube (CUBEAUTO)"
+  }
+ ]
+}

@@ -1,0 +1,90 @@
+{
+ "added": [
+  {
+   "symbol": "ANOR",
+   "name": "AnorTech Inc.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "ANOR.V",
+   "instruments": [
+    {
+     "name": "AnorTech Inc.",
+     "symbol": "ANOR"
+    }
+   ]
+  },
+  {
+   "symbol": "ALAB",
+   "name": "Astera Labs, Inc. - Common Stock",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "ALAB"
+  },
+  {
+   "symbol": "CNFR",
+   "name": "Conifer Holdings, Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "CNFR"
+  },
+  {
+   "symbol": "INTJ",
+   "name": "Intelligent Group Limited - Ordinary Shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "INTJ"
+  },
+  {
+   "symbol": "IQQQ",
+   "name": "ProShares Nasdaq-100 High Income ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "IQQQ"
+  },
+  {
+   "symbol": "RDDT",
+   "name": "Reddit, Inc. Class A Common Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "RDDT"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "HUD",
+   "name": "Hudson Resources Inc.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "HUD.V",
+   "instruments": [
+    {
+     "name": "Hudson Resources Inc.",
+     "symbol": "HUD"
+    }
+   ]
+  },
+  {
+   "symbol": "CNFR",
+   "name": "Conifer Holdings, Inc. - Common Stock",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "CNFR"
+  },
+  {
+   "symbol": "HCMAW",
+   "name": "HCM Acquisition Corp - Warrant",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "HCMAW"
+  },
+  {
+   "symbol": "VATE.R",
+   "name": "INNOVATE Corp. Rights (expiring March 25, 2024)",
+   "exchange": "NYSE",
+   "yahoo_symbol": "VATE.R"
+  },
+  {
+   "symbol": "HCMA",
+   "name": "HCM Acquisition Corp - Class A Ordinary Shares",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "HCMA"
+  },
+  {
+   "symbol": "HCMAU",
+   "name": "HCM Acquisition Corp - Unit",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "HCMAU"
+  }
+ ]
+}
