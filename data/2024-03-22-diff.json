@@ -1,0 +1,186 @@
+{
+ "added": [
+  {
+   "symbol": "HEMP",
+   "name": "Hempalta Corp.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "HEMP.V",
+   "instruments": [
+    {
+     "name": "Hempalta Corp.",
+     "symbol": "HEMP"
+    }
+   ]
+  },
+  {
+   "symbol": "RAMP",
+   "name": "Ramp Metals Inc.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "RAMP.V",
+   "instruments": [
+    {
+     "name": "Ramp Metals Inc.",
+     "symbol": "RAMP"
+    }
+   ]
+  },
+  {
+   "symbol": "AVXC",
+   "name": "Avantis Emerging Markets ex-China Equity ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "AVXC"
+  },
+  {
+   "symbol": "BKHAU",
+   "name": "Black Hawk Acquisition Corporation - Units",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "BKHAU"
+  },
+  {
+   "symbol": "GLTO",
+   "name": "Galecto, Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "GLTO"
+  },
+  {
+   "symbol": "IBAT",
+   "name": "iShares Energy Storage \u0026 Materials ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "IBAT"
+  },
+  {
+   "symbol": "LENZ",
+   "name": "LENZ Therapeutics, Inc. - Common Stock",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "LENZ"
+  },
+  {
+   "symbol": "LOBO",
+   "name": "LOBO EV TECHNOLOGIES LTD. - Ordinary shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "LOBO"
+  },
+  {
+   "symbol": "MRNO",
+   "name": "Murano Global Investments PLC - Ordinary Shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "MRNO"
+  },
+  {
+   "symbol": "MRNOW",
+   "name": "Murano Global Investments PLC - Warrants",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "MRNOW"
+  },
+  {
+   "symbol": "AUNA",
+   "name": "Auna SA Class A Ordinary Shares",
+   "exchange": "NYSE",
+   "yahoo_symbol": "AUNA"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "GLTO",
+   "name": "Galecto, Inc. - Common Stock",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "GLTO"
+  },
+  {
+   "symbol": "PEPL",
+   "name": "PepperLime Health Acquisition Corporation - Class A Ordinary Share",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "PEPL"
+  },
+  {
+   "symbol": "GRPH",
+   "name": "Graphite Bio, Inc. - Common Stock",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "GRPH"
+  },
+  {
+   "symbol": "NBLY",
+   "name": "Neighbourly Pharmacy Inc.",
+   "exchange": "TSX",
+   "yahoo_symbol": "NBLY.TO",
+   "instruments": [
+    {
+     "name": "Neighbourly Pharm J",
+     "symbol": "NBLY"
+    }
+   ]
+  },
+  {
+   "symbol": "PORT",
+   "name": "Southport Acquisition Corporation Class A Common Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "PORT"
+  },
+  {
+   "symbol": "PORT.W",
+   "name": "Southport Acquisition Corporation Warrants, each exercisable for one share of Class A common stock at an exercise price of $11.50",
+   "exchange": "NYSE",
+   "yahoo_symbol": "PORT.W"
+  },
+  {
+   "symbol": "BLAZ.P",
+   "name": "Trail Blazing Ventures Ltd.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "BLAZ.P.V",
+   "instruments": [
+    {
+     "name": "Trail Blazing Ventures Ltd.",
+     "symbol": "BLAZ.P"
+    }
+   ]
+  },
+  {
+   "symbol": "ADOC",
+   "name": "Edoc Acquisition Corp. - Class A Ordinary Share",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "ADOC"
+  },
+  {
+   "symbol": "PORT.U",
+   "name": "Southport Acquisition Corporation Units, each consisting of one share of Class A common stock, and one-half of one warrant",
+   "exchange": "NYSE",
+   "yahoo_symbol": "PORT.U"
+  },
+  {
+   "symbol": "PEPLW",
+   "name": "PepperLime Health Acquisition Corporation - Warrrant",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "PEPLW"
+  },
+  {
+   "symbol": "AAC.P",
+   "name": "Anacott Acquisition Corporation",
+   "exchange": "TSXV",
+   "yahoo_symbol": "AAC.P.V",
+   "instruments": [
+    {
+     "name": "Anacott Acquisition Corporation",
+     "symbol": "AAC.P"
+    }
+   ]
+  },
+  {
+   "symbol": "ADOCR",
+   "name": "Edoc Acquisition Corp. - Right",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "ADOCR"
+  },
+  {
+   "symbol": "ADOCW",
+   "name": "Edoc Acquisition Corp. - Warrant",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "ADOCW"
+  },
+  {
+   "symbol": "PEPLU",
+   "name": "PepperLime Health Acquisition Corporation - Unit",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "PEPLU"
+  }
+ ]
+}

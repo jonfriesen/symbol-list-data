@@ -1,0 +1,265 @@
+{
+ "added": [
+  {
+   "symbol": "RUSD",
+   "name": "Reflecto USD (RUSD)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "MINIPEPE",
+   "name": "MiniPepe (MINIPEPE)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "HATCHY",
+   "name": "Hatchyverse (HATCHY)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "FIF",
+   "name": "flokiwifhat (FIF)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "HVI",
+   "name": "Hungarian Vizsla Inu (HVI)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "OSEAN",
+   "name": "OSEAN (OSEAN)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "BRICKS",
+   "name": "MyBricks (BRICKS)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "FROGGY",
+   "name": "Froggy (FROGGY)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "KOGE",
+   "name": "BNB48 Club Token (KOGE)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "CLIMB",
+   "name": "CLIMB TOKEN FINANCE (CLIMB)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "DROVERS",
+   "name": "Drover Inu (DROVERS)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "BANKETH",
+   "name": "BankEth (BANKETH)"
+  },
+  {
+   "symbol": "FERT",
+   "name": "Chikn Fert (FERT)",
+   "built_on": "AVAX"
+  },
+  {
+   "symbol": "GEARBOX",
+   "name": "Gearbox Protocol (GEARBOX)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "OCTAVUS",
+   "name": "Octavus Prime (OCTAVUS)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "GROKSORAX",
+   "name": "GROKSORAX (GROKSORAX)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "JERRY",
+   "name": "Jerry Inu (JERRY)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "AREA",
+   "name": "Areon Network (AREA)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "KINGTRUMP",
+   "name": "King Trump (KINGTRUMP)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "ADDY",
+   "name": "Adamant (ADDY)",
+   "built_on": "MATIC"
+  },
+  {
+   "symbol": "BITBULL",
+   "name": "Bitbull (BITBULL)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "ZUCKPEPE",
+   "name": "ZuckPepe (ZUCKPEPE)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "FLOKICASH",
+   "name": "Floki Cash (FLOKICASH)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "FLOKIM",
+   "name": "Flokimooni (FLOKIM)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "BLI",
+   "name": "BALI TOKEN (BLI)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "THECA",
+   "name": "Theca (THECA)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "BNBSNAKE",
+   "name": "BNB SNAKE (BNBSNAKE)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "MECHA",
+   "name": "Mechanium (MECHA)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "SAUDISHIB",
+   "name": "Saudi Shiba Inu (SAUDISHIB)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "SCRAP",
+   "name": "Scrap (SCRAP)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "MGOD",
+   "name": "MetaGods (MGOD)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "MITHRIL",
+   "name": "CLIMBERS (MITHRIL)",
+   "built_on": "MATIC"
+  },
+  {
+   "symbol": "CZUSD",
+   "name": "CZUSD (CZUSD)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "ZKLAB",
+   "name": "zkSync Labs (ZKLAB)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "DOGETH",
+   "name": "EtherDoge (DOGETH)"
+  },
+  {
+   "symbol": "MKC",
+   "name": "Meta Kongz (MKC)",
+   "built_on": "KLAY"
+  },
+  {
+   "symbol": "OAS",
+   "name": "Oasis City (OAS)"
+  },
+  {
+   "symbol": "SAFEMOONCASH",
+   "name": "SafeMoonCash (SAFEMOONCASH)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "XRISE",
+   "name": "Xrise (XRISE)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "TIUSD",
+   "name": "TiUSD (TIUSD)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "KINGPEPE",
+   "name": "KING PEPE (KINGPEPE)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "GMFAM",
+   "name": "GMFAM (GMFAM)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "CRHT",
+   "name": "CryptHub (CRHT)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "URFA",
+   "name": "Urfaspor Token (URFA)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "KMC",
+   "name": "Kitsumon (KMC)",
+   "built_on": "MATIC"
+  },
+  {
+   "symbol": "NSI",
+   "name": "nSights DeFi Trader (NSI)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "SWOLE",
+   "name": "Swole Doge (SWOLE)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "RIZE",
+   "name": "Rizespor Token (RIZE)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "GERMANY",
+   "name": "Germany Rabbit Token (GERMANY)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "BCRO",
+   "name": "Bonded Cronos (BCRO)",
+   "built_on": "CRO"
+  },
+  {
+   "symbol": "GAMERFI",
+   "name": "GamerFI (GAMERFI)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "MSCP",
+   "name": "Moonscape (MSCP)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "GETH",
+   "name": "Guarded Ether (GETH)"
+  }
+ ]
+}
