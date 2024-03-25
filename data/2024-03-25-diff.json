@@ -1,0 +1,214 @@
+{
+ "added": [
+  {
+   "symbol": "AGET",
+   "name": "AGEDB Technology Ltd.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "AGET.V",
+   "instruments": [
+    {
+     "name": "AGEDB Technology Ltd.",
+     "symbol": "AGET"
+    }
+   ]
+  },
+  {
+   "symbol": "ARTI",
+   "name": "Evolve Artificial Intelligence Fund",
+   "exchange": "TSX",
+   "yahoo_symbol": "ARTI.TO",
+   "instruments": [
+    {
+     "name": "Evl Art Int Fnd UN",
+     "symbol": "ARTI"
+    }
+   ]
+  },
+  {
+   "symbol": "COOT",
+   "name": "Australian Oilseeds Holdings Limited - Ordinary Shares",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "COOT"
+  },
+  {
+   "symbol": "COOTW",
+   "name": "Australian Oilseeds Holdings Limited - Warrant",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "COOTW"
+  },
+  {
+   "symbol": "CPAY",
+   "name": "Corpay, Inc. Common Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "CPAY"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "BBIG",
+   "name": "Horizons Global BBIG Technology ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "BBIG.TO",
+   "instruments": [
+    {
+     "name": "HoriznGlbBBIG TechCA",
+     "symbol": "BBIG"
+    },
+    {
+     "name": "HoriznGlbBBIG TechUS",
+     "symbol": "BBIG.U"
+    }
+   ]
+  },
+  {
+   "symbol": "HUF",
+   "name": "Horizons Active Ultra-Short Term US Investment Grade Bond ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "HUF.TO",
+   "instruments": [
+    {
+     "name": "Horizons UltST USBnd",
+     "symbol": "HUF"
+    },
+    {
+     "name": "Horizons UltST BndUS",
+     "symbol": "HUF.U"
+    }
+   ]
+  },
+  {
+   "symbol": "HARC",
+   "name": "Horizons Absolute Return Global Currency ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "HARC.TO",
+   "instruments": [
+    {
+     "name": "Horizons AbsolGlbCur",
+     "symbol": "HARC"
+    }
+   ]
+  },
+  {
+   "symbol": "VJET",
+   "name": "voxeljet AG - American Depositary Shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "VJET"
+  },
+  {
+   "symbol": "HARB",
+   "name": "Horizons Tactical Absolute Return Bond ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "HARB.TO",
+   "instruments": [
+    {
+     "name": "Horizon TacTotRetBnd",
+     "symbol": "HARB"
+    },
+    {
+     "name": "Horizn TacAbsolBndDv",
+     "symbol": "HARB.J"
+    },
+    {
+     "name": "HoriznTacTotRetUH US",
+     "symbol": "HARB.U"
+    }
+   ]
+  },
+  {
+   "symbol": "CBAY",
+   "name": "CymaBay Therapeutics Inc. - Common Stock",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "CBAY"
+  },
+  {
+   "symbol": "ADC.P",
+   "name": "Adagio Capital Inc.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "ADC.P.V",
+   "instruments": [
+    {
+     "name": "Adagio Capital Inc.",
+     "symbol": "ADC.P"
+    }
+   ]
+  },
+  {
+   "symbol": "HYI",
+   "name": "Horizons Active High Yield Bond ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "HYI.TO",
+   "instruments": [
+    {
+     "name": "Horizon HighYldBnd E",
+     "symbol": "HYI"
+    }
+   ]
+  },
+  {
+   "symbol": "MESH",
+   "name": "Evolve Metaverse ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "MESH.TO",
+   "instruments": [
+    {
+     "name": "Evolve MetaversCA Hg",
+     "symbol": "MESH"
+    }
+   ]
+  },
+  {
+   "symbol": "HYDR",
+   "name": "Horizons Global Hydrogen Index ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "HYDR.TO",
+   "instruments": [
+    {
+     "name": "Horizns GlblHydrogen",
+     "symbol": "HYDR"
+    }
+   ]
+  },
+  {
+   "symbol": "BTI",
+   "name": "Bioasis Technologies Inc.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "BTI.V",
+   "instruments": [
+    {
+     "name": "Bioasis Technologies Inc.",
+     "symbol": "BTI"
+    }
+   ]
+  },
+  {
+   "symbol": "RIB.UN",
+   "name": "Ridgewood Canadian Investment Grade Bond Fund",
+   "exchange": "TSX",
+   "yahoo_symbol": "RIB.UN.TO",
+   "instruments": [
+    {
+     "name": "Ridgewood Cdn Bnd Un",
+     "symbol": "RIB.UN"
+    }
+   ]
+  },
+  {
+   "symbol": "FLT",
+   "name": "FleetCor Technologies, Inc. Common Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "FLT"
+  },
+  {
+   "symbol": "HSL",
+   "name": "Horizons Active Floating Rate Senior Loan ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "HSL.TO",
+   "instruments": [
+    {
+     "name": "Horizn ActvFltLoan E",
+     "symbol": "HSL"
+    }
+   ]
+  }
+ ]
+}
