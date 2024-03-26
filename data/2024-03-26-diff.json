@@ -1,0 +1,180 @@
+{
+ "added": [
+  {
+   "symbol": "TBLL",
+   "name": "Tombill Mines Limited",
+   "exchange": "TSXV",
+   "yahoo_symbol": "TBLL.V",
+   "instruments": [
+    {
+     "name": "Tombill Mines Limited",
+     "symbol": "TBLL"
+    }
+   ]
+  },
+  {
+   "symbol": "UIG",
+   "name": "Urban Infrastructure Group Inc.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "UIG.V",
+   "instruments": [
+    {
+     "name": "Urban Infrastructure Group Inc.",
+     "symbol": "UIG"
+    }
+   ]
+  },
+  {
+   "symbol": "DJT",
+   "name": "Trump Media \u0026 Technology Group Corp. - Class A Common Stock",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "DJT"
+  },
+  {
+   "symbol": "DJTWW",
+   "name": "Trump Media \u0026 Technology Group Corp. - Warrants",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "DJTWW"
+  },
+  {
+   "symbol": "QTTB",
+   "name": "Q32 Bio Inc. - Common Stock",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "QTTB"
+  },
+  {
+   "symbol": "DXYZ",
+   "name": "Destiny Tech100 Inc. Common Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "DXYZ"
+  },
+  {
+   "symbol": "MMM.V",
+   "name": "3M Company Common Stock When-Issued",
+   "exchange": "NYSE",
+   "yahoo_symbol": "MMM.V"
+  },
+  {
+   "symbol": "SOLV.V",
+   "name": "Solventum Corporation Common Stock When-Issued",
+   "exchange": "NYSE",
+   "yahoo_symbol": "SOLV.V"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "CLMT",
+   "name": "Purpose Energy Transition Fund",
+   "exchange": "TSX",
+   "yahoo_symbol": "CLMT.TO",
+   "instruments": [
+    {
+     "name": "Purpose Energy Trans",
+     "symbol": "CLMT"
+    }
+   ]
+  },
+  {
+   "symbol": "DWAC",
+   "name": "Digital World Acquisition Corp. - Class A Common Stock",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "DWAC"
+  },
+  {
+   "symbol": "KIQ",
+   "name": "Kelso Technologies Inc Ordinary Shares",
+   "exchange": "NYSE MKT",
+   "yahoo_symbol": "KIQ"
+  },
+  {
+   "symbol": "IPCI",
+   "name": "IntelliPharmaCeutics International Inc.",
+   "exchange": "TSX",
+   "yahoo_symbol": "IPCI.TO",
+   "instruments": [
+    {
+     "name": "IntelliPharma Intl J",
+     "symbol": "IPCI"
+    }
+   ]
+  },
+  {
+   "symbol": "CHY",
+   "name": "Cypress Hills Resource Corp.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "CHY.V",
+   "instruments": [
+    {
+     "name": "Cypress Hills Resource Corp",
+     "symbol": "CHY"
+    }
+   ]
+  },
+  {
+   "symbol": "FIXX",
+   "name": "Homology Medicines, Inc. - Common Stock",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "FIXX"
+  },
+  {
+   "symbol": "FSR",
+   "name": "Fisker Inc. Class A Common Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "FSR"
+  },
+  {
+   "symbol": "FDGE",
+   "name": "Farmers Edge Inc.",
+   "exchange": "TSX",
+   "yahoo_symbol": "FDGE.TO",
+   "instruments": [
+    {
+     "name": "Farmers Edge Inc. J",
+     "symbol": "FDGE"
+    }
+   ]
+  },
+  {
+   "symbol": "AGRX",
+   "name": "Agile Therapeutics, Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "AGRX"
+  },
+  {
+   "symbol": "YGF",
+   "name": "YanGuFang International Group Co., Ltd. - Ordinary Shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "YGF"
+  },
+  {
+   "symbol": "DWACU",
+   "name": "Digital World Acquisition Corp. - Units",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "DWACU"
+  },
+  {
+   "symbol": "MIXT",
+   "name": "MiX Telematics Limited American Depositary Shares, each representing 25 Ordinary Shares",
+   "exchange": "NYSE",
+   "yahoo_symbol": "MIXT"
+  },
+  {
+   "symbol": "DWACW",
+   "name": "Digital World Acquisition Corp. - Warrants",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "DWACW"
+  },
+  {
+   "symbol": "DPCC.P",
+   "name": "Deal Pro Capital Corporation",
+   "exchange": "TSXV",
+   "yahoo_symbol": "DPCC.P.V",
+   "instruments": [
+    {
+     "name": "Deal Pro Capital Corporation",
+     "symbol": "DPCC.P"
+    }
+   ]
+  }
+ ]
+}
