@@ -1,0 +1,118 @@
+{
+ "added": [
+  {
+   "symbol": "IBACU",
+   "name": "IB Acquisition Corp. - Unit",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "IBACU"
+  },
+  {
+   "symbol": "BEPJ",
+   "name": "Brookfield BRP Holdings (Canada) Inc. 7.250% Perpetual Subordinated Notes",
+   "exchange": "NYSE",
+   "yahoo_symbol": "BEPJ"
+  },
+  {
+   "symbol": "GCTS",
+   "name": "GCT Semiconductor Holding, Inc. Common Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "GCTS"
+  },
+  {
+   "symbol": "GCTS.W",
+   "name": "GCT Semiconductor Holding, Inc. Warrants, each whole warrant exercisable for one share of Common Stock at an exercise price of $11.50",
+   "exchange": "NYSE",
+   "yahoo_symbol": "GCTS.W"
+  },
+  {
+   "symbol": "GE.V",
+   "name": "General Electric Company Common Stock When-Issued",
+   "exchange": "NYSE",
+   "yahoo_symbol": "GE.V"
+  },
+  {
+   "symbol": "GEV.V",
+   "name": "GE Vernova Inc. Common Stock When-Issued",
+   "exchange": "NYSE",
+   "yahoo_symbol": "GEV.V"
+  },
+  {
+   "symbol": "MGRE",
+   "name": "Affiliated Managers Group, Inc. 6.750% Junior Subordinated Notes due 2064",
+   "exchange": "NYSE",
+   "yahoo_symbol": "MGRE"
+  },
+  {
+   "symbol": "SER",
+   "name": "Serina Therapeutics, Inc. Common Stock",
+   "exchange": "NYSE MKT",
+   "yahoo_symbol": "SER"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "DSLV",
+   "name": "Denarius Metals Corp.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "DSLV.V",
+   "instruments": [
+    {
+     "name": "Denarius Metals Corp.",
+     "symbol": "DSLV"
+    },
+    {
+     "name": "Denarius Metals Corp. wt 17Mar2026",
+     "symbol": "DSLV.WT"
+    }
+   ]
+  },
+  {
+   "symbol": "LIBYU",
+   "name": "Liberty Resources Acquisition Corp. - Unit",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "LIBYU"
+  },
+  {
+   "symbol": "LIBY",
+   "name": "Liberty Resources Acquisition Corp. - Class A Common Stock",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "LIBY"
+  },
+  {
+   "symbol": "AGE",
+   "name": "AgeX Therapeutics, Inc. Common Stock",
+   "exchange": "NYSE MKT",
+   "yahoo_symbol": "AGE"
+  },
+  {
+   "symbol": "CNDB.U",
+   "name": "Concord Acquisition Corp III Units, each consisting of one share of Class A Common Stock and one-half of one Warrant",
+   "exchange": "NYSE",
+   "yahoo_symbol": "CNDB.U"
+  },
+  {
+   "symbol": "LIBYW",
+   "name": "Liberty Resources Acquisition Corp. - Warrant",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "LIBYW"
+  },
+  {
+   "symbol": "SOLO",
+   "name": "Electrameccanica Vehicles Corp. Ltd. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "SOLO"
+  },
+  {
+   "symbol": "CNDB",
+   "name": "Concord Acquisition Corp III Class A Common Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "CNDB"
+  },
+  {
+   "symbol": "CNDB.W",
+   "name": "Concord Acquisition Corp III Warrants, each whole warrant exercisable for one share of Class A Common Stock at an exercise price of $11.50",
+   "exchange": "NYSE",
+   "yahoo_symbol": "CNDB.W"
+  }
+ ]
+}
