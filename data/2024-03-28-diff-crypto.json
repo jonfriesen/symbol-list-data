@@ -1,0 +1,303 @@
+{
+ "added": [
+  {
+   "symbol": "SOLSPONGE",
+   "name": "Solsponge (SOLSPONGE)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "SOAI",
+   "name": "SOAI (SOAI)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "VEKTOR",
+   "name": "VEKTOR (VEKTOR)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "EDGESOL",
+   "name": "Edgevana Staked SOL (EDGESOL)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "TREMP",
+   "name": "MEGE (TREMP)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "MNI",
+   "name": "Map Node (MNI)",
+   "built_on": "MATIC"
+  },
+  {
+   "symbol": "DBOE",
+   "name": "DBOE (DBOE)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "JFIVE",
+   "name": "Jonny Five (JFIVE)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "VESTATE",
+   "name": "Vestate (VESTATE)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "SEBA",
+   "name": "Seba (SEBA)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "BCAU",
+   "name": "BetaCarbon (BCAU)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "ARKEN",
+   "name": "Arken Finance (ARKEN)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "LUNAR",
+   "name": "Lunar (LUNAR)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "BEFI",
+   "name": "BeFi Labs (BEFI)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "DORK",
+   "name": "DORK (DORK)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "MDTK",
+   "name": "MDtoken (MDTK)",
+   "built_on": "WAVES"
+  },
+  {
+   "symbol": "EZETH",
+   "name": "Renzo Restaked ETH (EZETH)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "SLIME",
+   "name": "Snail Trail (SLIME)",
+   "built_on": "AVAX"
+  },
+  {
+   "symbol": "IRISTOKEN",
+   "name": "Iris Ecosystem (IRISTOKEN)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "JITOSOL",
+   "name": "Jito Staked SOL (JITOSOL)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "OTB",
+   "name": "OTCBTC Token (OTB)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "PYRAMID",
+   "name": "Pyramid (PYRAMID)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "CRONK",
+   "name": "CRONK (CRONK)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "GUARD",
+   "name": "Guardian (GUARD)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "WOR",
+   "name": "Hollywood Capital Group WARRIOR (WOR)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "PEPI",
+   "name": "PEPI (PEPI)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "CATPAY",
+   "name": "CATpay (CATPAY)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "CHILL",
+   "name": "ChillPill (CHILL)",
+   "built_on": "FTM"
+  },
+  {
+   "symbol": "DOGALD",
+   "name": "dogald trump (DOGALD)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "HIKARI",
+   "name": "Hikari Protocol (HIKARI)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "1MCT",
+   "name": "MicroCreditToken (1MCT)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "MCEUR",
+   "name": "Moola Celo EUR (MCEUR)",
+   "built_on": "CELO"
+  },
+  {
+   "symbol": "MPX",
+   "name": "Morphex (MPX)",
+   "built_on": "FTM"
+  },
+  {
+   "symbol": "MSHEESHA",
+   "name": "Sheesha Finance Polygon (MSHEESHA)",
+   "built_on": "MATIC"
+  },
+  {
+   "symbol": "BODEN",
+   "name": "Jeo Boden (BODEN)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "EOTH",
+   "name": "Echo Of The Horizon (EOTH)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "MEGAHERO",
+   "name": "MEGAHERO (MEGAHERO)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "MTRA",
+   "name": "MetaRare (MTRA)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "JUSDC",
+   "name": "Jones USDC (JUSDC)",
+   "built_on": "ARB"
+  },
+  {
+   "symbol": "NMSP",
+   "name": "Nemesis PRO (NMSP)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "PROPHET",
+   "name": "PROPHET (PROPHET)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "1MIL",
+   "name": "1MillionNFTs (1MIL)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "COPYCAT",
+   "name": "Copycat Finance (COPYCAT)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "DOGETH",
+   "name": "EtherDoge (DOGETH)"
+  },
+  {
+   "symbol": "Y2K",
+   "name": "Y2K (Y2K)",
+   "built_on": "ARB"
+  },
+  {
+   "symbol": "GMRX",
+   "name": "Gaimin (GMRX)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "WPOKT",
+   "name": "wrapped POKT (WPOKT)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "FRTN",
+   "name": "EbisusBay Fortune (FRTN)",
+   "built_on": "CRO"
+  },
+  {
+   "symbol": "BCITY",
+   "name": "Bitcoin City Coin (BCITY)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "APRS",
+   "name": "Aperios (APRS)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "GETH",
+   "name": "Guarded Ether (GETH)"
+  },
+  {
+   "symbol": "WASTR",
+   "name": "Wrapped Astar (WASTR)",
+   "built_on": "ASTR"
+  },
+  {
+   "symbol": "DIBBLE",
+   "name": "Dibbles (DIBBLE)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "HOSTAI",
+   "name": "Host AI (HOSTAI)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "KWAI",
+   "name": "KWAI (KWAI)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "FINK",
+   "name": "FINK (FINK)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "BANKETH",
+   "name": "BankEth (BANKETH)"
+  },
+  {
+   "symbol": "ALTMAN",
+   "name": "SAM (ALTMAN)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "MELANIA",
+   "name": "Melania Trump (MELANIA)",
+   "built_on": "ETH"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "VESTA",
+   "name": "Vestate (VESTA)",
+   "built_on": "ETH"
+  }
+ ]
+}
