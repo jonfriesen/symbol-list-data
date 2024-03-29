@@ -1,0 +1,212 @@
+{
+ "added": [
+  {
+   "symbol": "ASVA",
+   "name": "Asva (ASVA)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "TRUMPDOGE",
+   "name": "Trump Doge (TRUMPDOGE)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "BabySlerf",
+   "name": "BabySlerf (BabySlerf)"
+  },
+  {
+   "symbol": "THE9",
+   "name": "THE9 (THE9)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "FLT",
+   "name": "Fluence (FLT)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "YIELDX",
+   "name": "Yield Finance (YIELDX)",
+   "built_on": "PLS"
+  },
+  {
+   "symbol": "DPEX",
+   "name": "DPEX (DPEX)",
+   "built_on": "MATIC"
+  },
+  {
+   "symbol": "DMA",
+   "name": "Dragoma (DMA)",
+   "built_on": "MATIC"
+  },
+  {
+   "symbol": "TRSCT",
+   "name": "Transactra Finance (TRSCT)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "VIDA",
+   "name": "Vidiachange (VIDA)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "WHTGRPXL",
+   "name": "White Tiger Pixel (WHTGRPXL)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "PGEN",
+   "name": "Polygen (PGEN)",
+   "built_on": "MATIC"
+  },
+  {
+   "symbol": "HECT",
+   "name": "Hectic Turkey (HECT)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "LIQR",
+   "name": "Topshelf Finance (LIQR)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "DOG",
+   "name": "The Doge NFT (DOG)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "FLUTTERCOIN",
+   "name": "FlutterCoin (FLUTTERCOIN)"
+  },
+  {
+   "symbol": "PUFFIN",
+   "name": "Puffin Global (PUFFIN)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "BLF",
+   "name": "Baby Luffy (BLF)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "HOMIECOIN",
+   "name": "Homie Wars (HOMIECOIN)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "BANK",
+   "name": "Float Protocol (BANK)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "SHARDS",
+   "name": "SolChicks Shards (SHARDS)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "USN",
+   "name": "USN (USN)",
+   "built_on": "NEAR"
+  },
+  {
+   "symbol": "TRWP",
+   "name": "Danol Tremp (TRWP)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "ETRL",
+   "name": "Ethereal (ETRL)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "BRETTA",
+   "name": "Bretta (BRETTA)",
+   "built_on": "BASECHAIN"
+  },
+  {
+   "symbol": "YAW",
+   "name": "Yawww (YAW)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "SPHERE",
+   "name": "Sphere Finance (SPHERE)",
+   "built_on": "MATIC"
+  },
+  {
+   "symbol": "G",
+   "name": "GRN Grid (G)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "TINY",
+   "name": "TinyBits (TINY)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "CNYD",
+   "name": "Chinese NY Dragon (CNYD)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "BESHARE",
+   "name": "Beshare Token (BESHARE)"
+  },
+  {
+   "symbol": "ADACASH",
+   "name": "ADACash (ADACASH)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "NUDES",
+   "name": "NUDES (NUDES)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "SEG",
+   "name": "Solar Energy (SEG)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "AIDOGEX",
+   "name": "AI DogeX (AIDOGEX)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "ETHFI",
+   "name": "Ether.fi (ETHFI)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "NGA",
+   "name": "NGA Tiger (NGA)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "SKRY",
+   "name": "Sakaryaspor Token (SKRY)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "YURI",
+   "name": "YURI (YURI)",
+   "built_on": "ARB"
+  },
+  {
+   "symbol": "TITTY",
+   "name": "TamaKitty (TITTY)",
+   "built_on": "TRX"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "BLOCKSQUARE",
+   "name": "Blocksquare Token (BLOCKSQUARE)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "FLT",
+   "name": "FlutterCoin (FLT)"
+  }
+ ]
+}

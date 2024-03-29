@@ -1,0 +1,22 @@
+{
+ "added": [
+  {
+   "symbol": "BOLD",
+   "name": "Boundless Bio, Inc. - Common Stock",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "BOLD"
+  },
+  {
+   "symbol": "INRO",
+   "name": "BlackRock U.S. Industry Rotation ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "INRO"
+  },
+  {
+   "symbol": "UBXG",
+   "name": "U-BX Technology Ltd. - Ordinary Shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "UBXG"
+  }
+ ]
+}
