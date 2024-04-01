@@ -1,0 +1,74 @@
+{
+ "added": [
+  {
+   "symbol": "TAX",
+   "name": "MetaToll (TAX)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "CRNCHY",
+   "name": "Crunchy Network (CRNCHY)",
+   "built_on": "XTZ"
+  },
+  {
+   "symbol": "BST",
+   "name": "Blocksquare Token (BST)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "MLOKY",
+   "name": "MLOKY (MLOKY)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "DOG",
+   "name": "The Doge NFT (DOG)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "KNS",
+   "name": "Kenshi (KNS)",
+   "built_on": "ARB"
+  },
+  {
+   "symbol": "QUO",
+   "name": "Quoll Finance (QUO)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "BANK",
+   "name": "Float Protocol (BANK)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "MDUS",
+   "name": "MEDIEUS (MDUS)",
+   "built_on": "MATIC"
+  },
+  {
+   "symbol": "VITY",
+   "name": "Vitteey (VITY)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "GETH",
+   "name": "Guarded Ether (GETH)"
+  },
+  {
+   "symbol": "BIB",
+   "name": "BIB Token (BIB)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "RIF3",
+   "name": "MetaTariffv3 (RIF3)",
+   "built_on": "BNB"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "BST",
+   "name": "Blocksquare Token (BST)"
+  }
+ ]
+}

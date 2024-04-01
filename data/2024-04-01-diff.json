@@ -1,0 +1,148 @@
+{
+ "added": [
+  {
+   "symbol": "ALCE",
+   "name": "Alternus Clean Energy, Inc. - Class A Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "ALCE"
+  },
+  {
+   "symbol": "CWBC",
+   "name": "Community West Bancshares - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "CWBC"
+  },
+  {
+   "symbol": "DTCR",
+   "name": "Global X Data Center \u0026 Digital Infrastructure ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "DTCR"
+  },
+  {
+   "symbol": "SOLV",
+   "name": "Solventum Corporation Common Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "SOLV"
+  },
+  {
+   "symbol": "HC",
+   "name": "Hypercharge Networks Corp.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "HC.V",
+   "instruments": [
+    {
+     "name": "Hypercharge Networks Corp.",
+     "symbol": "HC"
+    }
+   ]
+  },
+  {
+   "symbol": "COIN",
+   "name": "Tokens.com Corp.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "COIN.V",
+   "instruments": [
+    {
+     "name": "Tokens.com Corp.",
+     "symbol": "COIN"
+    },
+    {
+     "name": "Tokens.com Corp. wt 15Nov2024",
+     "symbol": "COIN.WT"
+    }
+   ]
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "PARAP",
+   "name": "Paramount Global - 5.75% Series A Mandatory Convertible Preferred Stock",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "PARAP"
+  },
+  {
+   "symbol": "CPE",
+   "name": "Callon Petroleum Company Common Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "CPE"
+  },
+  {
+   "symbol": "GTH",
+   "name": "Genetron Holdings Limited - American Depositary Shares",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "GTH"
+  },
+  {
+   "symbol": "MMM.V",
+   "name": "3M Company Common Stock When-Issued",
+   "exchange": "NYSE",
+   "yahoo_symbol": "MMM.V"
+  },
+  {
+   "symbol": "VPN",
+   "name": "Global X Data Center REITs \u0026 Digital Infrastructure ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "VPN"
+  },
+  {
+   "symbol": "WNNR.W",
+   "name": "Andretti Acquisition Corp. Redeemable public warrants, each whole warrant exercisable for one Class A Ordinary Share at an exercise price of $11.50 per share",
+   "exchange": "NYSE",
+   "yahoo_symbol": "WNNR.W"
+  },
+  {
+   "symbol": "WNNR",
+   "name": "Andretti Acquisition Corp. Class A Ordinary Shares",
+   "exchange": "NYSE",
+   "yahoo_symbol": "WNNR"
+  },
+  {
+   "symbol": "CVCY",
+   "name": "Central Valley Community Bancorp - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "CVCY"
+  },
+  {
+   "symbol": "ALCE",
+   "name": "Alternus Clean Energy, Inc. - Class A Common Stock",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "ALCE"
+  },
+  {
+   "symbol": "C$J",
+   "name": "Citigroup Inc. Dep Shs Repstg 1/1000 Pfd Ser J Fixed/Fltg",
+   "exchange": "NYSE",
+   "yahoo_symbol": "C$J"
+  },
+  {
+   "symbol": "GAME",
+   "name": "GameSquare Holdings Inc.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "GAME.V",
+   "instruments": [
+    {
+     "name": "GameSquare Holdings Inc.",
+     "symbol": "GAME"
+    }
+   ]
+  },
+  {
+   "symbol": "WNNR.U",
+   "name": "Andretti Acquisition Corp. Units, each consisting of one Class A ordinary share and one-half of one redeemable public warrant",
+   "exchange": "NYSE",
+   "yahoo_symbol": "WNNR.U"
+  },
+  {
+   "symbol": "CWBC",
+   "name": "Community West Bancshares - Common Stock",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "CWBC"
+  },
+  {
+   "symbol": "SOLV.V",
+   "name": "Solventum Corporation Common Stock When-Issued",
+   "exchange": "NYSE",
+   "yahoo_symbol": "SOLV.V"
+  }
+ ]
+}
