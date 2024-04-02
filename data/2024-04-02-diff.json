@@ -1,0 +1,120 @@
+{
+ "added": [
+  {
+   "symbol": "NXTT",
+   "name": "Next Technology Holding Inc. - Ordinary Shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "NXTT"
+  },
+  {
+   "symbol": "TRINZ",
+   "name": "Trinity Capital Inc. - 7.875% Notes due 2029",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "TRINZ"
+  },
+  {
+   "symbol": "ZPTA",
+   "name": "Zapata Computing Holdings Inc.  - Common Stock",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "ZPTA"
+  },
+  {
+   "symbol": "ZPTAW",
+   "name": "Zapata Computing Holdings Inc.  - Warrant",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "ZPTAW"
+  },
+  {
+   "symbol": "GEV",
+   "name": "GE Vernova Inc. Common Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "GEV"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "MCAFR",
+   "name": "Mountain Crest Acquisition Corp. IV - Rights",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "MCAFR"
+  },
+  {
+   "symbol": "WETG",
+   "name": "WeTrade Group Inc. - Ordinary Shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "WETG"
+  },
+  {
+   "symbol": "MIMO",
+   "name": "Airspan Networks Holdings Inc. Common Stock",
+   "exchange": "NYSE MKT",
+   "yahoo_symbol": "MIMO"
+  },
+  {
+   "symbol": "MVLAW",
+   "name": "Movella Holdings Inc. - Warrant",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "MVLAW"
+  },
+  {
+   "symbol": "DSKE",
+   "name": "Daseke, Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "DSKE"
+  },
+  {
+   "symbol": "GEV.V",
+   "name": "GE Vernova Inc. Common Stock When-Issued",
+   "exchange": "NYSE",
+   "yahoo_symbol": "GEV.V"
+  },
+  {
+   "symbol": "AMNB",
+   "name": "American National Bankshares, Inc. - Common Stock",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "AMNB"
+  },
+  {
+   "symbol": "MBINP",
+   "name": "Merchants Bancorp - 7.00% Fixed-to-Floating Rate Series A Non-Cumulative Perpetual Preferred Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "MBINP"
+  },
+  {
+   "symbol": "MCAF",
+   "name": "Mountain Crest Acquisition Corp. IV - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "MCAF"
+  },
+  {
+   "symbol": "GE.V",
+   "name": "General Electric Company Common Stock When-Issued",
+   "exchange": "NYSE",
+   "yahoo_symbol": "GE.V"
+  },
+  {
+   "symbol": "CCLP",
+   "name": "CSI Compressco LP - common units",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "CCLP"
+  },
+  {
+   "symbol": "MCAFU",
+   "name": "Mountain Crest Acquisition Corp. IV - Unit",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "MCAFU"
+  },
+  {
+   "symbol": "MVLA",
+   "name": "Movella Holdings Inc. - Common Stock",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "MVLA"
+  },
+  {
+   "symbol": "CSTR",
+   "name": "CapStar Financial Holdings, Inc. - Common Stock",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "CSTR"
+  }
+ ]
+}
