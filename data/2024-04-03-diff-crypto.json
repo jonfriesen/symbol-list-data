@@ -1,0 +1,322 @@
+{
+ "added": [
+  {
+   "symbol": "LARO",
+   "name": "Anito Legends (LARO)",
+   "built_on": "MATIC"
+  },
+  {
+   "symbol": "VIKKY",
+   "name": "VikkyToken (VIKKY)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "L3USD",
+   "name": "L3USD (L3USD)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "PKG",
+   "name": "PKG Token (PKG)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "RUNY",
+   "name": "Runy (RUNY)",
+   "built_on": "MATIC"
+  },
+  {
+   "symbol": "HOOF",
+   "name": "Metaderby Hoof (HOOF)",
+   "built_on": "AVAX"
+  },
+  {
+   "symbol": "NAVY",
+   "name": "BoatPilot Token (NAVY)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "IQ50",
+   "name": "IQ50 (IQ50)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "LINEA",
+   "name": "Linea (LINEA)"
+  },
+  {
+   "symbol": "FGC",
+   "name": "FantasyGold (FGC)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "DAISY",
+   "name": "Daisy Launch Pad (DAISY)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "BSHIB",
+   "name": "Based Shiba Inu (BSHIB)",
+   "built_on": "BASECHAIN"
+  },
+  {
+   "symbol": "CYMT",
+   "name": "CyberMusic (CYMT)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "CIOTX",
+   "name": "Crosschain IOTX (CIOTX)",
+   "built_on": "MATIC"
+  },
+  {
+   "symbol": "DIGEX",
+   "name": "Digex (DIGEX)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "WHX",
+   "name": "WHITEX (WHX)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "YLC",
+   "name": "YoloCash (YLC)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "TCAT",
+   "name": "The Currency Analytics (TCAT)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "BVM",
+   "name": "BVM (BVM)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "GBPU",
+   "name": "Upper Pound (GBPU)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "IMMO",
+   "name": "ImmortalDAO Finance (IMMO)",
+   "built_on": "CELO"
+  },
+  {
+   "symbol": "TAIL",
+   "name": "Tail (TAIL)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "BABYFLOKIZILLA",
+   "name": "BabyFlokiZilla (BABYFLOKIZILLA)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "OBTC",
+   "name": "Obitan Chain (OBTC)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "MTIX",
+   "name": "Matrix Token (MTIX)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "BSHARE",
+   "name": "Bomb Money (BSHARE)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "OSL",
+   "name": "OSL AI (OSL)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "XPA",
+   "name": "XPA (XPA)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "FTXT",
+   "name": "FUTURAX (FTXT)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "HMNG",
+   "name": "HummingBirdFinance (HMNG)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "BANKETH",
+   "name": "BankEth (BANKETH)"
+  },
+  {
+   "symbol": "FUNDX",
+   "name": "Funder One Capital (FUNDX)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "YUKI",
+   "name": "YUKI (YUKI)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "WBOND",
+   "name": "War Bond Token (WBOND)",
+   "built_on": "FTM"
+  },
+  {
+   "symbol": "VANCAT",
+   "name": "Vancat (VANCAT)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "LMEOW",
+   "name": "lmeow (LMEOW)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "BOAI",
+   "name": "BOLICAI (BOAI)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "HAVY",
+   "name": "Havy (HAVY)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "CRAZYDRAGON",
+   "name": "CRAZY DRAGON (CRAZYDRAGON)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "SING",
+   "name": "SingularFarm (SING)",
+   "built_on": "MATIC"
+  },
+  {
+   "symbol": "DSYNC",
+   "name": "Destra Network (DSYNC)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "USDTV",
+   "name": "TetherTV (USDTV)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "WNEAR",
+   "name": "Wrapped Near (WNEAR)",
+   "built_on": "AURORA"
+  },
+  {
+   "symbol": "KNDC",
+   "name": "KanadeCoin (KNDC)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "DOG",
+   "name": "The Doge NFT (DOG)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "AXLUSDC",
+   "name": "Axelar Wrapped USDC (AXLUSDC)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "CABO",
+   "name": "CatBonk (CABO)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "KXC",
+   "name": "KingXChain (KXC)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "ANDY",
+   "name": "ANDY (ANDY)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "G",
+   "name": "GRN Grid (G)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "BITORB",
+   "name": "BitOrbit (BITORB)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "PPM",
+   "name": "Punk Panda Messenger (PPM)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "DRACE",
+   "name": "DeathRoad (DRACE)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "BONUS",
+   "name": "BonusBlock (BONUS)",
+   "built_on": "ARB"
+  },
+  {
+   "symbol": "MECH",
+   "name": "Mech Master (MECH)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "WOL",
+   "name": "World of Legends (WOL)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "NSH",
+   "name": "NOSHIT (NSH)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "ACPT",
+   "name": "Crypto Accept (ACPT)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "SHIBAC",
+   "name": "SHIBA CLASSIC (SHIBAC)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "MSG",
+   "name": "MsgSender (MSG)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "WCORE",
+   "name": "Wrapped Core (WCORE)",
+   "built_on": "CORE"
+  },
+  {
+   "symbol": "NORMIE",
+   "name": "Normie (NORMIE)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "PAPA",
+   "name": "Papa Bear (PAPA)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "CLEV",
+   "name": "CLever Token (CLEV)",
+   "built_on": "ETH"
+  }
+ ]
+}

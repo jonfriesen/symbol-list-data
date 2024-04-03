@@ -1,0 +1,78 @@
+{
+ "added": [
+  {
+   "symbol": "EHLS",
+   "name": "Even Herd Long Short ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "EHLS"
+  },
+  {
+   "symbol": "FAAS",
+   "name": "DigiAsia Corp. - Ordinary Shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "FAAS"
+  },
+  {
+   "symbol": "FAASW",
+   "name": "DigiAsia Corp. - Warrant",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "FAASW"
+  },
+  {
+   "symbol": "MAMO",
+   "name": "Massimo Group - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "MAMO"
+  },
+  {
+   "symbol": "TRAW",
+   "name": "Traws Pharma, Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "TRAW"
+  },
+  {
+   "symbol": "ZBAO",
+   "name": "Zhibao Technology Inc. - Class A Ordinary Shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "ZBAO"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "APACU",
+   "name": "StoneBridge Acquisition Corporation - Unit",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "APACU"
+  },
+  {
+   "symbol": "HEXO.WT.A",
+   "name": "HEXO Corp.",
+   "exchange": "TSX",
+   "yahoo_symbol": "HEXO.WT.A.TO",
+   "instruments": [
+    {
+     "name": "HEXO Corp. A Wt ",
+     "symbol": "HEXO.WT.A"
+    }
+   ]
+  },
+  {
+   "symbol": "APACW",
+   "name": "StoneBridge Acquisition Corporation - Warrant",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "APACW"
+  },
+  {
+   "symbol": "APAC",
+   "name": "StoneBridge Acquisition Corporation - Class A Ordinary Shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "APAC"
+  },
+  {
+   "symbol": "ONTX",
+   "name": "Onconova Therapeutics, Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "ONTX"
+  }
+ ]
+}
