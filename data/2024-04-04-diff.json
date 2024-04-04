@@ -1,0 +1,96 @@
+{
+ "added": [
+  {
+   "symbol": "DPCS",
+   "name": "DP Cap Acquisition Corp I - Class A Ordinary Shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "DPCS"
+  },
+  {
+   "symbol": "DPCSU",
+   "name": "DP Cap Acquisition Corp I - Unit",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "DPCSU"
+  },
+  {
+   "symbol": "DPCSW",
+   "name": "DP Cap Acquisition Corp I - Warrants",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "DPCSW"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "ASCAR",
+   "name": "A SPAC I Acquisition Corp. - Right",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "ASCAR"
+  },
+  {
+   "symbol": "MBTC",
+   "name": "Nocturne Acquisition Corporation - Ordinary Shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "MBTC"
+  },
+  {
+   "symbol": "MBTCU",
+   "name": "Nocturne Acquisition Corporation - Unit",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "MBTCU"
+  },
+  {
+   "symbol": "MTBL",
+   "name": "Moatable, Inc. American Depositary Share (each representing forty-five (45) Class A Ordinary Shares)",
+   "exchange": "NYSE",
+   "yahoo_symbol": "MTBL"
+  },
+  {
+   "symbol": "ASCAW",
+   "name": "A SPAC I Acquisition Corp. - Warrant",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "ASCAW"
+  },
+  {
+   "symbol": "DPCSU",
+   "name": "DP Cap Acquisition Corp I - Unit",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "DPCSU"
+  },
+  {
+   "symbol": "KNTE",
+   "name": "Kinnate Biopharma Inc. - Common Stock",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "KNTE"
+  },
+  {
+   "symbol": "DPCSW",
+   "name": "DP Cap Acquisition Corp I - Warrants",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "DPCSW"
+  },
+  {
+   "symbol": "MBTCR",
+   "name": "Nocturne Acquisition Corporation - Right",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "MBTCR"
+  },
+  {
+   "symbol": "ASCA",
+   "name": "A SPAC I Acquisition Corp. - Class A Ordinary Share",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "ASCA"
+  },
+  {
+   "symbol": "DPCS",
+   "name": "DP Cap Acquisition Corp I - Class A Ordinary Shares",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "DPCS"
+  },
+  {
+   "symbol": "ASCAU",
+   "name": "A SPAC I Acquisition Corp. - Unit",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "ASCAU"
+  }
+ ]
+}
