@@ -1,0 +1,90 @@
+{
+ "added": [
+  {
+   "symbol": "NIVF",
+   "name": "NewGenIvf Group Limited - Class A Ordinary Shares",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "NIVF"
+  },
+  {
+   "symbol": "NIVFW",
+   "name": "NewGenIvf Group Limited - Warrants",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "NIVFW"
+  },
+  {
+   "symbol": "YJ",
+   "name": "Yunji Inc. - American Depository Shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "YJ"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "KYCH",
+   "name": "Keyarch Acquisition Corporation - Ordinary Shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "KYCH"
+  },
+  {
+   "symbol": "YJ",
+   "name": "Yunji Inc. - American Depository Shares",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "YJ"
+  },
+  {
+   "symbol": "KYCHW",
+   "name": "Keyarch Acquisition Corporation - Warrant",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "KYCHW"
+  },
+  {
+   "symbol": "KYCHU",
+   "name": "Keyarch Acquisition Corporation - Unit",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "KYCHU"
+  },
+  {
+   "symbol": "VIEW",
+   "name": "View, Inc. - Class A Common Stock",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "VIEW"
+  },
+  {
+   "symbol": "VIEWW",
+   "name": "View, Inc. - Warrant",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "VIEWW"
+  },
+  {
+   "symbol": "AAU",
+   "name": "Almaden Minerals, Ltd. Common Shares",
+   "exchange": "NYSE MKT",
+   "yahoo_symbol": "AAU"
+  },
+  {
+   "symbol": "KYCHR",
+   "name": "Keyarch Acquisition Corporation - Rights",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "KYCHR"
+  },
+  {
+   "symbol": "CASA",
+   "name": "Casa Systems, Inc. - Common Stock",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "CASA"
+  },
+  {
+   "symbol": "MVP",
+   "name": "MediaValet Inc.",
+   "exchange": "TSX",
+   "yahoo_symbol": "MVP.TO",
+   "instruments": [
+    {
+     "name": "MediaValet Inc. J",
+     "symbol": "MVP"
+    }
+   ]
+  }
+ ]
+}

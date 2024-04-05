@@ -1,0 +1,220 @@
+{
+ "added": [
+  {
+   "symbol": "RWAS",
+   "name": "RWA Finance (RWAS)",
+   "built_on": "ARB"
+  },
+  {
+   "symbol": "SMM",
+   "name": "TrendingTool.io (SMM)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "BUGS",
+   "name": "Bugs Bunny (BUGS)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "4MW",
+   "name": "For Meta World (4MW)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "REIGN",
+   "name": "Reign of Terror (REIGN)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "GYSR",
+   "name": "GYSR (GYSR)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "WOOL",
+   "name": "Wolf Game Wool (WOOL)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "TRUMPSHIBA",
+   "name": "Trump Shiba (TRUMPSHIBA)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "TWELVE",
+   "name": "TWELVE ZODIAC (TWELVE)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "GETH",
+   "name": "Guarded Ether (GETH)"
+  },
+  {
+   "symbol": "MAF",
+   "name": "MetaMAFIA (MAF)",
+   "built_on": "KLAY"
+  },
+  {
+   "symbol": "MBOT",
+   "name": "MoonBot (MBOT)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "LESBIAN",
+   "name": "Lesbian Inu (LESBIAN)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "HAMI",
+   "name": "Hamachi Finance (HAMI)",
+   "built_on": "ARB"
+  },
+  {
+   "symbol": "PUMA",
+   "name": "Puma (PUMA)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "OLEA",
+   "name": "Olea Token (OLEA)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "KISHU",
+   "name": "Kishu Inu (KISHU)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "NEC",
+   "name": "Nectar (NEC)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "W3M",
+   "name": "Web3Met (W3M)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "WSBS",
+   "name": "Wall Street Bets Solana (WSBS)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "XCASTR",
+   "name": "Astar (XCASTR)",
+   "built_on": "GLMR"
+  },
+  {
+   "symbol": "KCAT",
+   "name": "KING OF CATS (KCAT)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "BICS",
+   "name": "Biceps (BICS)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "DOGETH",
+   "name": "EtherDoge (DOGETH)"
+  },
+  {
+   "symbol": "SNAKES",
+   "name": "Snakes Game (SNAKES)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "GTBOT",
+   "name": "Gaming-T-Bot (GTBOT)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "BKPT",
+   "name": "Biokript (BKPT)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "ADVT",
+   "name": "Advantis (ADVT)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "NOSO",
+   "name": "Noso (NOSO)"
+  },
+  {
+   "symbol": "BANK",
+   "name": "Float Protocol (BANK)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "OASIS",
+   "name": "Oasis (OASIS)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "SU",
+   "name": "Smol Su (SU)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "YIKES",
+   "name": "Yikes Dog (YIKES)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "BARC",
+   "name": "The Blu Arctic Water Company (BARC)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "GLINK",
+   "name": "Gemlink (GLINK)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "DUNG",
+   "name": "Scarab Tools (DUNG)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "BOOP",
+   "name": "Boop (BOOP)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "RMATIC",
+   "name": "StaFi Staked MATIC (RMATIC)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "PIF",
+   "name": "Pepe Wif Hat (PIF)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "DUGE",
+   "name": "DUGE (DUGE)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "SLB",
+   "name": "Solberg (SLB)",
+   "built_on": "SOL"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "WOOL",
+   "name": "Wolf Game Wool (WOOL)"
+  },
+  {
+   "symbol": "KISHU",
+   "name": "Kishu Inu (KISHU)"
+  },
+  {
+   "symbol": "NEC",
+   "name": "Nectar (NEC)"
+  }
+ ]
+}
