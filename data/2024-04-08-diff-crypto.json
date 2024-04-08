@@ -1,0 +1,89 @@
+{
+ "added": [
+  {
+   "symbol": "STREETH",
+   "name": "STREETH (STREETH)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "SLP",
+   "name": "Smooth Love Potion (SLP)",
+   "built_on": "RONIN"
+  },
+  {
+   "symbol": "DYNEX",
+   "name": "Dynex GPU (DYNEX)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "FINALE",
+   "name": "Ben's Finale (FINALE)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "YOSHI",
+   "name": "Yoshi.exchange (YOSHI)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "BANK",
+   "name": "Float Protocol (BANK)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "SHARBI",
+   "name": "SHARBI (SHARBI)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "KITTI",
+   "name": "KITTI TOKEN (KITTI)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "ZNX",
+   "name": "ZENEX (ZNX)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "GOOGLY",
+   "name": "Googly Cat (GOOGLY)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "GETH",
+   "name": "Guarded Ether (GETH)"
+  },
+  {
+   "symbol": "AITK",
+   "name": "AITK (AITK)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "SISC",
+   "name": "Shirushi Coin (SISC)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "DOGETH",
+   "name": "EtherDoge (DOGETH)"
+  },
+  {
+   "symbol": "MIRACLE",
+   "name": "MIRACLE (MIRACLE)",
+   "built_on": "SOL"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "MIRACLE",
+   "name": "MIRACLE (MIRACLE)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "SLP",
+   "name": "Smooth Love Potion (SLP)",
+   "built_on": "ETH"
+  }
+ ]
+}
