@@ -1,0 +1,247 @@
+{
+ "added": [
+  {
+   "symbol": "BUDG",
+   "name": "Bulldogswap (BUDG)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "PAPPAY",
+   "name": "PAPPAY (PAPPAY)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "XNV",
+   "name": "Nerva (XNV)"
+  },
+  {
+   "symbol": "VITAL",
+   "name": "Vital Network (VITAL)",
+   "built_on": "EGLD"
+  },
+  {
+   "symbol": "SKID",
+   "name": "Success Kid (SKID)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "FINN",
+   "name": "Huckleberry (FINN)",
+   "built_on": "MOVR"
+  },
+  {
+   "symbol": "SWTS",
+   "name": "SWEETS (SWTS)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "ZEDX",
+   "name": "ZEDXION (ZEDX)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "COINYE",
+   "name": "Coinye West (COINYE)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "FOLO",
+   "name": "Alpha Impact (FOLO)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "BINO",
+   "name": "Binopoly (BINO)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "CAKEW",
+   "name": "CakeWSwap (CAKEW)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "VIRES",
+   "name": "Vires Finance (VIRES)",
+   "built_on": "WAVES"
+  },
+  {
+   "symbol": "KFR",
+   "name": "KING FOREVER (KFR)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "YAKS",
+   "name": "YakDAO (YAKS)",
+   "built_on": "ARB"
+  },
+  {
+   "symbol": "CPOO",
+   "name": "Cockapoo (CPOO)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "CLBR",
+   "name": "Colibri Protocol (CLBR)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "STUD",
+   "name": "Studyum (STUD)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "GIAC",
+   "name": "Gorilla In A Coupe (GIAC)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "PYI",
+   "name": "PYRIN (PYI)"
+  },
+  {
+   "symbol": "XRLM",
+   "name": "xRealm.ai (XRLM)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "SWAMP",
+   "name": "Swampy (SWAMP)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "DOG",
+   "name": "The Doge NFT (DOG)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "CLCT",
+   "name": "CollectCoin (CLCT)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "SERVE",
+   "name": "Metavice (SERVE)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "WHOREN",
+   "name": "elizabath whoren (WHOREN)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "XSLR",
+   "name": "NovaXSolar (XSLR)",
+   "built_on": "AVAX"
+  },
+  {
+   "symbol": "FOA",
+   "name": "Fragments of arker (FOA)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "HZD",
+   "name": "HorizonDollar (HZD)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "GOIN",
+   "name": "GOinfluencer (GOIN)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "DFNDR",
+   "name": "Defender Bot (DFNDR)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "BANKETH",
+   "name": "BankEth (BANKETH)"
+  },
+  {
+   "symbol": "GNUS",
+   "name": "GENIUS TOKEN (GNUS)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "BOOK",
+   "name": "Solbook (BOOK)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "ORBK",
+   "name": "Ordibank (ORBK)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "LEZGI",
+   "name": "LEZGI Token (LEZGI)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "HWL",
+   "name": "Howl City (HWL)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "FWATCH",
+   "name": "Foliowatch (FWATCH)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "QDROP",
+   "name": "QuizDrop (QDROP)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "CHFU",
+   "name": "Upper Swiss Franc (CHFU)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "PAYX",
+   "name": "Paypex (PAYX)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "SEAMLESS",
+   "name": "SeamlessSwap (SEAMLESS)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "EMN.CUR",
+   "name": "Eastman Chemical (EMN.CUR)"
+  },
+  {
+   "symbol": "ADON",
+   "name": "Adonis (ADON)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "CROX",
+   "name": "CroxSwap (CROX)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "RASTA",
+   "name": "ZionLabs Token (RASTA)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "MGLC",
+   "name": "MetaverseMGL (MGLC)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "G",
+   "name": "GRN Grid (G)",
+   "built_on": "ETH"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "EMN.CUR",
+   "name": "Eastman Chemical (EMN.CUR)",
+   "built_on": "ETH"
+  }
+ ]
+}

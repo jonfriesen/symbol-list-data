@@ -1,0 +1,222 @@
+{
+ "added": [
+  {
+   "symbol": "PINN",
+   "name": "Pinnacle Silver and Gold Corp.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "PINN.V",
+   "instruments": [
+    {
+     "name": "Pinnacle Silver and Gold Corp.",
+     "symbol": "PINN"
+    }
+   ]
+  },
+  {
+   "symbol": "GTWO",
+   "name": "G2 Goldfields Inc.",
+   "exchange": "TSX",
+   "yahoo_symbol": "GTWO.TO",
+   "instruments": [
+    {
+     "name": "G2 Goldfields Inc.",
+     "symbol": "GTWO"
+    }
+   ]
+  },
+  {
+   "symbol": "TBCE",
+   "name": "TD Target 2025 Investment Grade Bond ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "TBCE.TO",
+   "instruments": [
+    {
+     "name": "TdTgt 25 InvGr B Etf",
+     "symbol": "TBCE"
+    }
+   ]
+  },
+  {
+   "symbol": "TBUE.U",
+   "name": "TD Target 2025 U.S. Investment Grade Bond ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "TBUE.U.TO",
+   "instruments": [
+    {
+     "name": "TdTgtUS25 InvGrB Etf",
+     "symbol": "TBUE.U"
+    }
+   ]
+  },
+  {
+   "symbol": "TBCF",
+   "name": "TD Target 2026 Investment Grade Bond ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "TBCF.TO",
+   "instruments": [
+    {
+     "name": "TdTgt 26 InvGr B Etf",
+     "symbol": "TBCF"
+    }
+   ]
+  },
+  {
+   "symbol": "TBUF.U",
+   "name": "TD Target 2026 U.S. Investment Grade Bond ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "TBUF.U.TO",
+   "instruments": [
+    {
+     "name": "TdTgtUS26 InvGrB Etf",
+     "symbol": "TBUF.U"
+    }
+   ]
+  },
+  {
+   "symbol": "TBCG",
+   "name": "TD Target 2027 Investment Grade Bond ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "TBCG.TO",
+   "instruments": [
+    {
+     "name": "TdTgt 27 InvGr B Etf",
+     "symbol": "TBCG"
+    }
+   ]
+  },
+  {
+   "symbol": "TBUG.U",
+   "name": "TD Target 2027 U.S. Investment Grade Bond ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "TBUG.U.TO",
+   "instruments": [
+    {
+     "name": "TdTgtUS27 InvGrB Etf",
+     "symbol": "TBUG.U"
+    }
+   ]
+  },
+  {
+   "symbol": "GAQ",
+   "name": "Generation Asia I Acquisition Limited - Class A Ordinary Shares",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "GAQ"
+  },
+  {
+   "symbol": "MSAI",
+   "name": "MultiSensor AI Holdings, Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "MSAI"
+  },
+  {
+   "symbol": "MSAIW",
+   "name": "MultiSensor AI Holdings, Inc. - Warrants",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "MSAIW"
+  },
+  {
+   "symbol": "SUUN",
+   "name": "SolarBank Corporation - Common Stock",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "SUUN"
+  },
+  {
+   "symbol": "HAFN",
+   "name": "Hafnia Limited Common Shares",
+   "exchange": "NYSE",
+   "yahoo_symbol": "HAFN"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "MSAI",
+   "name": "MultiSensor AI Holdings, Inc. - Common Stock",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "MSAI"
+  },
+  {
+   "symbol": "NRG",
+   "name": "Newrange Gold Corp.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "NRG.V",
+   "instruments": [
+    {
+     "name": "Newrange Gold Corp.",
+     "symbol": "NRG"
+    }
+   ]
+  },
+  {
+   "symbol": "MSAIW",
+   "name": "MultiSensor AI Holdings, Inc. - Warrants",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "MSAIW"
+  },
+  {
+   "symbol": "ORM",
+   "name": "Orford Mining Corporation",
+   "exchange": "TSXV",
+   "yahoo_symbol": "ORM.V",
+   "instruments": [
+    {
+     "name": "Orford Mining Corporation",
+     "symbol": "ORM"
+    }
+   ]
+  },
+  {
+   "symbol": "AVHI",
+   "name": "Achari Ventures Holdings Corp. I - Common Stock",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "AVHI"
+  },
+  {
+   "symbol": "AVHIW",
+   "name": "Achari Ventures Holdings Corp. I - Warrant",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "AVHIW"
+  },
+  {
+   "symbol": "GTWO",
+   "name": "G2 Goldfields Inc.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "GTWO.V",
+   "instruments": [
+    {
+     "name": "G2 Goldfields Inc.",
+     "symbol": "GTWO"
+    }
+   ]
+  },
+  {
+   "symbol": "EGLE",
+   "name": "Eagle Bulk Shipping Inc. Common Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "EGLE"
+  },
+  {
+   "symbol": "AVHIU",
+   "name": "Achari Ventures Holdings Corp. I - Unit",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "AVHIU"
+  },
+  {
+   "symbol": "SCTL",
+   "name": "Societal CDMO, Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "SCTL"
+  },
+  {
+   "symbol": "PETVW",
+   "name": "PetVivo Holdings, Inc. - Warrant",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "PETVW"
+  },
+  {
+   "symbol": "PETV",
+   "name": "PetVivo Holdings, Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "PETV"
+  }
+ ]
+}
