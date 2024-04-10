@@ -1,0 +1,197 @@
+{
+ "added": [
+  {
+   "symbol": "PDD",
+   "name": "PDDOLLAR (PDD)",
+   "built_on": "MATIC"
+  },
+  {
+   "symbol": "SHICO",
+   "name": "ShibaCorgi (SHICO)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "DOGO",
+   "name": "DogemonGo (DOGO)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "NEOK",
+   "name": "NEOKingdom DAO (NEOK)",
+   "built_on": "INJ"
+  },
+  {
+   "symbol": "DOGETH",
+   "name": "EtherDoge (DOGETH)"
+  },
+  {
+   "symbol": "CANCER",
+   "name": "Cancer (CANCER)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "W",
+   "name": "Wormhole (W)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "SHIBGF",
+   "name": "Shiba Girlfriend (SHIBGF)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "SLERF2",
+   "name": "SLERF 2.0 (SLERF2)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "CROCO",
+   "name": "Croco (CROCO)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "ANKRFTM",
+   "name": "Ankr Staked FTM (ANKRFTM)",
+   "built_on": "FTM"
+  },
+  {
+   "symbol": "TNSR",
+   "name": "Tensor (TNSR)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "BNBFROG",
+   "name": "BNBFROG (BNBFROG)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "7",
+   "name": "Lucky7 (7)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "VEGE",
+   "name": "Vege Token (VEGE)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "WHTETGRMOON",
+   "name": "WHITE TIGER MOON (WHTETGRMOON)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "GRAIN",
+   "name": "Granary (GRAIN)",
+   "built_on": "FTM"
+  },
+  {
+   "symbol": "AIAI",
+   "name": "All In AI (AIAI)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "PIGE",
+   "name": "Pige (PIGE)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "ETHFAI",
+   "name": "ETHforestAI (ETHFAI)",
+   "built_on": "ARB"
+  },
+  {
+   "symbol": "MYROO",
+   "name": "Myro Dog (MYROO)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "SZCB",
+   "name": "Zugacoin (SZCB)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "STORY",
+   "name": "Story (STORY)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "SSU",
+   "name": "Sunny Side up (SSU)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "GETH",
+   "name": "Guarded Ether (GETH)"
+  },
+  {
+   "symbol": "AIDOGEXLM",
+   "name": "AIDOGE Stellar (AIDOGEXLM)",
+   "built_on": "XLM"
+  },
+  {
+   "symbol": "BTNTV2",
+   "name": "BitNautic Token (BTNTV2)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "BANK",
+   "name": "Float Protocol (BANK)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "AGVE",
+   "name": "Agave (AGVE)",
+   "built_on": "GNO"
+  },
+  {
+   "symbol": "WCDONALDS",
+   "name": "WC Donalds (WCDONALDS)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "BOME",
+   "name": "BOOK OF MEME (BOME)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "EV",
+   "name": "EVAI (EV)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "FLOKIMOON",
+   "name": "FLOKIMOON (FLOKIMOON)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "BCY",
+   "name": "BitCrystals (BCY)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "TSUBASAUT",
+   "name": "TSUBASA Utility Token (TSUBASAUT)",
+   "built_on": "MATIC"
+  },
+  {
+   "symbol": "AP",
+   "name": "AppleSwap AI (AP)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "REAU",
+   "name": "Vira-lata Finance (REAU)",
+   "built_on": "BNB"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "DOGO",
+   "name": "DogemonGo (DOGO)"
+  },
+  {
+   "symbol": "BCY",
+   "name": "BitCrystals (BCY)"
+  }
+ ]
+}

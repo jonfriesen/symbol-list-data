@@ -1,0 +1,58 @@
+{
+ "added": [
+  {
+   "symbol": "FAN",
+   "name": "First Atlantic Nickel Corp.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "FAN.V",
+   "instruments": [
+    {
+     "name": "First Atlantic Nickel Corp.",
+     "symbol": "FAN"
+    }
+   ]
+  },
+  {
+   "symbol": "DGR",
+   "name": "CI WisdomTree U.S. Quality Dividend Growth Index ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "DGR.TO",
+   "instruments": [
+    {
+     "name": "CI WisdomTrUSDivGrHG",
+     "symbol": "DGR"
+    },
+    {
+     "name": "CI WisdomTrUSDivN-HG",
+     "symbol": "DGR.B"
+    }
+   ]
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "AVA",
+   "name": "Avante Mining Corp.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "AVA.V",
+   "instruments": [
+    {
+     "name": "Avante Mining Corp.",
+     "symbol": "AVA"
+    }
+   ]
+  },
+  {
+   "symbol": "ATE",
+   "name": "Antibe Therapeutics Inc.",
+   "exchange": "TSX",
+   "yahoo_symbol": "ATE.TO",
+   "instruments": [
+    {
+     "name": "Antibe Therapeutic J",
+     "symbol": "ATE"
+    }
+   ]
+  }
+ ]
+}
