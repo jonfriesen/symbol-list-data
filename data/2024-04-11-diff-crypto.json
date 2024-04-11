@@ -1,0 +1,323 @@
+{
+ "added": [
+  {
+   "symbol": "TYBGSc",
+   "name": "Base Goddess (TYBGS)"
+  },
+  {
+   "symbol": "LAMBO",
+   "name": "LAMBO (LAMBO)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "INDU",
+   "name": "INDU4.0 (INDU)",
+   "built_on": "MATIC"
+  },
+  {
+   "symbol": "CRMS",
+   "name": "Cryptomus (CRMS)",
+   "built_on": "MATIC"
+  },
+  {
+   "symbol": "GAYSLER",
+   "name": "Gaysler (GAYSLER)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "NTD",
+   "name": "Neural Tensor Dynamics (NTD)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "YU",
+   "name": "BOUNTYKINDS (YU)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "PAGE",
+   "name": "Page (PAGE)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "DAOSOL",
+   "name": "MonkeDAO (DAOSOL)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "HOBA",
+   "name": "Honey Badger (HOBA)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "PWH",
+   "name": "pepewifhat (PWH)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "CROWN",
+   "name": "Crown by Third Time Games (CROWN)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "DARIK",
+   "name": "Darik (DARIK)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "MEW",
+   "name": "cat in a dogs world (MEW)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "TRUF",
+   "name": "Truflation (TRUF)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "PUPS",
+   "name": "PUPS (Ordinals) (PUPS)",
+   "built_on": "BTC"
+  },
+  {
+   "symbol": "OGCINU",
+   "name": "The OG Cheems Inu (OGCINU)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "NIBI",
+   "name": "Nibiru Chain (NIBI)"
+  },
+  {
+   "symbol": "CLAY",
+   "name": "Clay Nation (CLAY)",
+   "built_on": "ADA"
+  },
+  {
+   "symbol": "ERZ",
+   "name": "Erzurumspor Token (ERZ)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "SVY",
+   "name": "Savvy (SVY)",
+   "built_on": "ARB"
+  },
+  {
+   "symbol": "ESAI",
+   "name": "Ethscan AI (ESAI)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "KINGSLERF",
+   "name": "King Slerf (KINGSLERF)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "PLSB",
+   "name": "PulseBitcoin (PLSB)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "BANKETH",
+   "name": "BankEth (BANKETH)"
+  },
+  {
+   "symbol": "IDOL",
+   "name": "IDOLINU (IDOL)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "EIM",
+   "name": "Expert Infra (EIM)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "BTYC",
+   "name": "BigTycoon (BTYC)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "SNSY",
+   "name": "Sensay (SNSY)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "ROY",
+   "name": "Crypto Royale (ROY)",
+   "built_on": "ONE"
+  },
+  {
+   "symbol": "SORADOGE",
+   "name": "Sora Doge (SORADOGE)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "BABYX",
+   "name": "Baby X (BABYX)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "BUFFET",
+   "name": "Worried (BUFFET)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "DSK",
+   "name": "Darüşşafaka Spor Kulübü Token (DSK)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "BIRDDOG",
+   "name": "Bird Dog (BIRDDOG)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "IVIP",
+   "name": "iVipCoin (IVIP)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "DOGETH",
+   "name": "EtherDoge (DOGETH)"
+  },
+  {
+   "symbol": "COURAGE",
+   "name": "Courage the Cowardly Dog (COURAGE)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "DOGAI",
+   "name": "Dogai (DOGAI)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "GMNT",
+   "name": "Gmining (GMNT)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "BNBTC",
+   "name": "BNbitcoin (BNBTC)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "NCOR",
+   "name": "NovaCore (NCOR)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "CATPEPE",
+   "name": "CAT PEPE (CATPEPE)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "VITRA",
+   "name": "Vitra Studios (VITRA)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "DOGEKING",
+   "name": "DogeKing (DOGEKING)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "CNCL",
+   "name": "The Ordinals Council (CNCL)",
+   "built_on": "BTC"
+  },
+  {
+   "symbol": "MIF",
+   "name": "monkeywifhat (MIF)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "GREG",
+   "name": "greg (GREG)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "USTX",
+   "name": "UpStableToken (USTX)",
+   "built_on": "TRX"
+  },
+  {
+   "symbol": "VSTA",
+   "name": "Vesta Finance (VSTA)",
+   "built_on": "ARB"
+  },
+  {
+   "symbol": "FSM",
+   "name": "Floki SafeMoon (FSM)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "Z3",
+   "name": "Z-Cubed (Z3)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "FLRBRG",
+   "name": "Floor Cheese Burger (FLRBRG)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "SANDY",
+   "name": "Sandy (SANDY)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "DEAI",
+   "name": "Zero1 Lab (DEAI)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "SMH",
+   "name": "Spacemesh (SMH)"
+  },
+  {
+   "symbol": "YUZU",
+   "name": "YuzuSwap (YUZU)",
+   "built_on": "ROSE"
+  },
+  {
+   "symbol": "MIY",
+   "name": "Icel Idman Yurdu Token (MIY)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "LOLA",
+   "name": "Lola (LOLA)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "PACM",
+   "name": "Pacman Blastoff (PACM)",
+   "built_on": "BLAST"
+  },
+  {
+   "symbol": "RGEN",
+   "name": "Paragen (RGEN)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "GETH",
+   "name": "Guarded Ether (GETH)"
+  },
+  {
+   "symbol": "FSCC",
+   "name": "Fisco Coin (FSCC)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "SLERF",
+   "name": "SLERF (SLERF)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "TW",
+   "name": "Winners Coin (TW)",
+   "built_on": "BNB"
+  }
+ ]
+}
