@@ -1,0 +1,404 @@
+{
+ "added": [
+  {
+   "symbol": "MOBY",
+   "name": "Moby (MOBY)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "GSTBSC",
+   "name": "Green Satoshi Token (BSC) (GSTBSC)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "AFNTY",
+   "name": "Affinity (AFNTY)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "BITCAT",
+   "name": "Bitcat (BITCAT)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "MSHIP",
+   "name": "MetaShipping (MSHIP)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "CHUCHU",
+   "name": "CHUCHU (CHUCHU)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "PINKSALE",
+   "name": "PinkSale (PINKSALE)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "NUB",
+   "name": " nubcat (NUB)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "SYNTH",
+   "name": "Synthswap (SYNTH)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "UNITARYSTATUS",
+   "name": "UnitaryStatus Dollar (UNITARYSTATUS)"
+  },
+  {
+   "symbol": "COBE",
+   "name": "Castle of Blackwater (COBE)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "GENI",
+   "name": "Genius (GENI)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "ARMA",
+   "name": "Aarma (ARMA)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "KTC",
+   "name": "KTX.Finance (KTC)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "SQT",
+   "name": "SubQuery Network (SQT)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "SLORK",
+   "name": "SLORK (SLORK)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "JBOT",
+   "name": "JACKBOT (JBOT)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "PENIS",
+   "name": "PenisGrow (PENIS)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "GBC",
+   "name": "Green Blue Coin (GBC)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "TNGBL",
+   "name": "Tangible (TNGBL)",
+   "built_on": "MATIC"
+  },
+  {
+   "symbol": "FANX",
+   "name": "FrontFanz (FANX)",
+   "built_on": "MATIC"
+  },
+  {
+   "symbol": "BWJ",
+   "name": "Baby WOJ (BWJ)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "SPRITZMOON",
+   "name": "SpritzMoon Crypto Token (SPRITZMOON)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "TRUMPEPE",
+   "name": "Trump Pepe (TRUMPEPE)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "BONKKONG",
+   "name": "BONK KONG (BONKKONG)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "BOMEOW",
+   "name": "Book of Meow (BOMEOW)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "BABYBNBTIGER",
+   "name": "BabyBNBTiger (BABYBNBTIGER)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "BABYSLERF",
+   "name": "BabySlerf (BABYSLERF)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "BBTF",
+   "name": "Block Buster Tech Inc (BBTF)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "CATKING",
+   "name": "CAT KING (CATKING)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "PIGS",
+   "name": "Elon Vitalik Pigs (PIGS)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "GS1",
+   "name": "NFTGamingStars (GS1)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "SAFEMUUN",
+   "name": "Safemuun (SAFEMUUN)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "AIS",
+   "name": "AISwap (AIS)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "DEGENR",
+   "name": "DegenReborn (DEGENR)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "BABYGOLDEN",
+   "name": "Baby Golden Coin (BABYGOLDEN)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "DOGETH",
+   "name": "EtherDoge (DOGETH)"
+  },
+  {
+   "symbol": "XRAY",
+   "name": "Ray Network (XRAY)",
+   "built_on": "ADA"
+  },
+  {
+   "symbol": "YAMA",
+   "name": "YAMA Inu (YAMA)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "CIRCUS",
+   "name": "Cirque Du Sol (CIRCUS)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "MILE",
+   "name": "milestoneBased (MILE)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "G",
+   "name": "GRN Grid (G)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "0XSEARCH",
+   "name": "Search (0XSEARCH)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "REDO",
+   "name": "Resistance Dog (REDO)",
+   "built_on": "TONCOIN"
+  },
+  {
+   "symbol": "BENDOG",
+   "name": "Ben the Dog (BENDOG)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "ROOST",
+   "name": "Roost Coin (ROOST)",
+   "built_on": "BASECHAIN"
+  },
+  {
+   "symbol": "ARTY",
+   "name": "Artyfact (ARTY)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "G3",
+   "name": "GAM3S.GG (G3)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "GARWIF",
+   "name": "Garfield Wif Hat (GARWIF)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "ASDEX",
+   "name": "AstraDEX (ASDEX)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "TEMP",
+   "name": "Tempus (TEMP)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "OORT",
+   "name": "OORT (OORT)"
+  },
+  {
+   "symbol": "DTORO",
+   "name": "DexToro (DTORO)",
+   "built_on": "OP"
+  },
+  {
+   "symbol": "CTG",
+   "name": "City Tycoon Games (CTG)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "RITZ",
+   "name": "Ritz.Game (RITZ)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "SNOOPY",
+   "name": "Snoopy (SNOOPY)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "SEKAI",
+   "name": "Sekai DAO (SEKAI)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "SBF",
+   "name": "SBF In Jail (SBF)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "TIPSY",
+   "name": "TipsyCoin (TIPSY)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "ELON404",
+   "name": "Elon404 (ELON404)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "TX20",
+   "name": "Trex20 (TX20)",
+   "built_on": "BTC"
+  },
+  {
+   "symbol": "BENG",
+   "name": "Based Peng (BENG)",
+   "built_on": "BASECHAIN"
+  },
+  {
+   "symbol": "BABYSHIV",
+   "name": "Baby Shiva (BABYSHIV)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "FP",
+   "name": "Fren Pet (FP)",
+   "built_on": "BASECHAIN"
+  },
+  {
+   "symbol": "MONKE",
+   "name": "Monkecoin (MONKE)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "TOSDIS",
+   "name": "TosDis (TOSDIS)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "COST",
+   "name": "Costco Hot Dog (COST)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "BDID",
+   "name": "BDID (BDID)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "TUNE",
+   "name": "Bitune (TUNE)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "VAN",
+   "name": "Vanspor Token (VAN)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "VYFI",
+   "name": "VyFinance (VYFI)",
+   "built_on": "ADA"
+  },
+  {
+   "symbol": "SBIO",
+   "name": "Vector Space Biosciences, Inc. (SBIO)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "BANK",
+   "name": "Float Protocol (BANK)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "DUKO",
+   "name": "DUKO (DUKO)",
+   "built_on": "SOL"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "DEGEN",
+   "name": "DegenReborn (DEGEN)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "MATTER",
+   "name": "AntiMatter (MATTER)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "GSTBSC",
+   "name": "Green Satoshi Token (BSC) (GSTBSC)"
+  },
+  {
+   "symbol": "DIS",
+   "name": "TosDis (DIS)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "BabySlerf",
+   "name": "BabySlerf (BabySlerf)"
+  },
+  {
+   "symbol": "USDE",
+   "name": "UnitaryStatus Dollar (USDE)"
+  },
+  {
+   "symbol": "ARTY",
+   "name": "Artyfact (ARTY)"
+  }
+ ]
+}

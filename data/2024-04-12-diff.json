@@ -1,0 +1,42 @@
+{
+ "added": [
+  {
+   "symbol": "SKYE",
+   "name": "Skye Bioscience, Inc. - Common Stock",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "SKYE"
+  },
+  {
+   "symbol": "ULS",
+   "name": "UL Solutions Inc. Class A Common Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "ULS"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "LEJU",
+   "name": "Leju Holdings Limited American Depositary Shares, each representing one Ordinary share",
+   "exchange": "NYSE",
+   "yahoo_symbol": "LEJU"
+  },
+  {
+   "symbol": "IBT",
+   "name": "IBEX Technologies Inc.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "IBT.V",
+   "instruments": [
+    {
+     "name": "IBEX Technologies Inc",
+     "symbol": "IBT"
+    }
+   ]
+  },
+  {
+   "symbol": "ACOR",
+   "name": "Acorda Therapeutics, Inc. - Common Stock",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "ACOR"
+  }
+ ]
+}
