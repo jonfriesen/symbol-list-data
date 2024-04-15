@@ -1,0 +1,88 @@
+{
+ "added": [
+  {
+   "symbol": "GSTETH",
+   "name": "Green Satoshi Token (ETH) (GSTETH)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "EVERY",
+   "name": "Everyworld (EVERY)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "DOGETH",
+   "name": "EtherDoge (DOGETH)"
+  },
+  {
+   "symbol": "DEGEN",
+   "name": "Degen (DEGEN)",
+   "built_on": "BASECHAIN"
+  },
+  {
+   "symbol": "DIS",
+   "name": "DisChain (DIS)"
+  },
+  {
+   "symbol": "CBDG",
+   "name": "CBD Global (CBDG)"
+  },
+  {
+   "symbol": "SATOSHI",
+   "name": "Satoshi Nakamoto (SATOSHI)"
+  },
+  {
+   "symbol": "DAW",
+   "name": "DAWKOINS (DAW)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "MYLO",
+   "name": "MYLOCAT (MYLO)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "DAWCURRENCY",
+   "name": "Daw Currency (DAWCURRENCY)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "CAU",
+   "name": "Canxium (CAU)"
+  },
+  {
+   "symbol": "OMNINET",
+   "name": "Omni Network (OMNINET)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "BANKETH",
+   "name": "BankEth (BANKETH)"
+  },
+  {
+   "symbol": "SOLGOAT",
+   "name": "SOLGOAT (SOLGOAT)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "USDE",
+   "name": "Ethena USDe (USDE)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "GETH",
+   "name": "Guarded Ether (GETH)"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "GSTETH",
+   "name": "Green Satoshi Token (ETH) (GSTETH)"
+  },
+  {
+   "symbol": "DAW",
+   "name": "Daw Currency (DAW)",
+   "built_on": "BNB"
+  }
+ ]
+}

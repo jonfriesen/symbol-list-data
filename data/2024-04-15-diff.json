@@ -1,0 +1,120 @@
+{
+ "added": [
+  {
+   "symbol": "CCSB",
+   "name": "Carbon Collective Short Duration Green Bond ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "CCSB"
+  },
+  {
+   "symbol": "DYCQ",
+   "name": "DT Cloud Acquisition Corporation - Ordinary shares",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "DYCQ"
+  },
+  {
+   "symbol": "DYCQR",
+   "name": "DT Cloud Acquisition Corporation - Right",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "DYCQR"
+  },
+  {
+   "symbol": "NEWZ",
+   "name": "StockSnips AI-Powered Sentiment US All Cap ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "NEWZ"
+  },
+  {
+   "symbol": "YYAI",
+   "name": "Connexa Sports Technologies Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "YYAI"
+  },
+  {
+   "symbol": "HBIE",
+   "name": "Harvest Balanced Income \u0026 Growth Enhanced ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "HBIE.TO",
+   "instruments": [
+    {
+     "name": "Harv Bl Inc GrEh Etf",
+     "symbol": "HBIE"
+    }
+   ]
+  },
+  {
+   "symbol": "HBIG",
+   "name": "Harvest Balanced Income \u0026 Growth ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "HBIG.TO",
+   "instruments": [
+    {
+     "name": "Harv Bl Inc \u0026 Gr Etf",
+     "symbol": "HBIG"
+    }
+   ]
+  },
+  {
+   "symbol": "HIND",
+   "name": "Harvest Industrial Leaders Income ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "HIND.TO",
+   "instruments": [
+    {
+     "name": "Harv Ind Ldr Inc Etf",
+     "symbol": "HIND"
+    }
+   ]
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "AMPE",
+   "name": "Ampio Pharmaceuticals, Inc.",
+   "exchange": "NYSE MKT",
+   "yahoo_symbol": "AMPE"
+  },
+  {
+   "symbol": "STIXW",
+   "name": "Semantix, Inc. - Warrant",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "STIXW"
+  },
+  {
+   "symbol": "TGH$B",
+   "name": "Textainer Group Holdings Limited Depositary Shares, each representing a 1/1,000th interest in a share of 6.250% Series B Cumulative Redeemable Perpetual Preference Shares",
+   "exchange": "NYSE",
+   "yahoo_symbol": "TGH$B"
+  },
+  {
+   "symbol": "NXTP",
+   "name": "NextPlay Technologies, Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "NXTP"
+  },
+  {
+   "symbol": "GLP$A",
+   "name": "Global Partners LP 9.75% Series A Fixed-to-Floating Rate Cumulative Redeemable Perpetual Preferred Units representing limited partner interests",
+   "exchange": "NYSE",
+   "yahoo_symbol": "GLP$A"
+  },
+  {
+   "symbol": "TGH$A",
+   "name": "Textainer Group Holdings Limited Depositary Shares, each representing a 1/1000th interest in a share of 7.000% Series A Cumulative Redeemable Perpetual Preference Shares",
+   "exchange": "NYSE",
+   "yahoo_symbol": "TGH$A"
+  },
+  {
+   "symbol": "CNXA",
+   "name": "Connexa Sports Technologies Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "CNXA"
+  },
+  {
+   "symbol": "STIX",
+   "name": "Semantix, Inc. - Ordinary Shares",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "STIX"
+  }
+ ]
+}
