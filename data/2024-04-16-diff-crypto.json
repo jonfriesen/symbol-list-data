@@ -1,0 +1,202 @@
+{
+ "added": [
+  {
+   "symbol": "PBIRB",
+   "name": "Parrotly (PBIRB)",
+   "built_on": "MATIC"
+  },
+  {
+   "symbol": "HWT",
+   "name": "Honor World Token (HWT)",
+   "built_on": "ARB"
+  },
+  {
+   "symbol": "YYAVAX",
+   "name": "Yield Yak AVAX (YYAVAX)",
+   "built_on": "AVAX"
+  },
+  {
+   "symbol": "RPTR",
+   "name": "Raptor Finance (RPTR)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "ATMA",
+   "name": "ATMA (ATMA)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "DOG",
+   "name": "The Doge NFT (DOG)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "BLAZE",
+   "name": "Blaze (BLAZE)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "REDFEG",
+   "name": "RedFEG (REDFEG)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "BANK",
+   "name": "Float Protocol (BANK)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "TRANS",
+   "name": "Trans Pepe (TRANS)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "BRRR",
+   "name": "Burrow (BRRR)"
+  },
+  {
+   "symbol": "A2A",
+   "name": "A2A (A2A)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "IBIT",
+   "name": "InfinityBit Token (IBIT)"
+  },
+  {
+   "symbol": "MCELO",
+   "name": "Moola Celo (MCELO)",
+   "built_on": "CELO"
+  },
+  {
+   "symbol": "GOLDY",
+   "name": "DeFi Land Gold (GOLDY)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "MNRCH",
+   "name": "Monarch (MNRCH)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "TELO",
+   "name": "Telo Meme Coin (TELO)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "EDOGE",
+   "name": "ElonDoge (EDOGE)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "LDXG",
+   "name": "LondonCoinGold (LDXG)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "XMETA",
+   "name": "TTX METAVERSE (XMETA)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "NEKOS",
+   "name": "Nekocoin (NEKOS)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "BTAMA",
+   "name": "Basetama (BTAMA)",
+   "built_on": "BASECHAIN"
+  },
+  {
+   "symbol": "PRED",
+   "name": "Predictcoin (PRED)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "DOGSWAG",
+   "name": "DogSwaghat (DOGSWAG)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "CPOS",
+   "name": "Cpos Cloud Payment (CPOS)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "SPCT",
+   "name": "Spectra Chain (SPCT)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "XSHIB",
+   "name": "XSHIB (XSHIB)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "RENEC",
+   "name": "RENEC (RENEC)"
+  },
+  {
+   "symbol": "SATOSHINAKAMOTO",
+   "name": "Satoshi Nakamoto (SATOSHINAKAMOTO)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "AGON",
+   "name": "Arabian Dragon (AGON)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "G",
+   "name": "GRN Grid (G)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "EDI",
+   "name": "Freight Trust \u0026 Clearing Network (EDI)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "BOMEDOGE",
+   "name": "BOOK OF DOGE MEMES (BOMEDOGE)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "LUCHOW",
+   "name": "LunaChow (LUCHOW)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "DOSHIB",
+   "name": "DogeShiba (DOSHIB)",
+   "built_on": "DOGE"
+  },
+  {
+   "symbol": "PEPEMOON",
+   "name": "PEPEMOON (PEPEMOON)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "ATID",
+   "name": "AstridDAO Token (ATID)",
+   "built_on": "ASTR"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "SATOSHI",
+   "name": "Satoshi Nakamoto (SATOSHI)"
+  },
+  {
+   "symbol": "BRRR",
+   "name": "Burrow (BRRR)",
+   "built_on": "NEAR"
+  },
+  {
+   "symbol": "IBIT",
+   "name": "InfinityBit Token (IBIT)",
+   "built_on": "ETH"
+  }
+ ]
+}

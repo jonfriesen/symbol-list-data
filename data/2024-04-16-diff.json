@@ -1,0 +1,18 @@
+{
+ "added": [
+  {
+   "symbol": "IFN.V",
+   "name": "India Fund, Inc. (The) Rights (expiring May 14, 2024) Rights when issued",
+   "exchange": "NYSE",
+   "yahoo_symbol": "IFN.V"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "MOTS",
+   "name": "Motus GI Holdings, Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "MOTS"
+  }
+ ]
+}
