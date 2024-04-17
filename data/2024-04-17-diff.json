@@ -1,0 +1,42 @@
+{
+ "added": [
+  {
+   "symbol": "AILE",
+   "name": "iLearningEngines Holdings, Inc. - Class A Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "AILE"
+  },
+  {
+   "symbol": "AILEW",
+   "name": "iLearningEngines Holdings, Inc. - Warrant",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "AILEW"
+  },
+  {
+   "symbol": "TWG",
+   "name": "Top Wealth Group Holding Limited - Ordinary Shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "TWG"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "ARRW",
+   "name": "Arrowroot Acquisition Corp. - Class A common stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "ARRW"
+  },
+  {
+   "symbol": "ARRWU",
+   "name": "Arrowroot Acquisition Corp. - Unit",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "ARRWU"
+  },
+  {
+   "symbol": "ARRWW",
+   "name": "Arrowroot Acquisition Corp. - Warrant",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "ARRWW"
+  }
+ ]
+}

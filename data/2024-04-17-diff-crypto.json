@@ -1,0 +1,286 @@
+{
+ "added": [
+  {
+   "symbol": "BRATT",
+   "name": "Son of Brett (BRATT)",
+   "built_on": "BASECHAIN"
+  },
+  {
+   "symbol": "VONE",
+   "name": "Vone (VONE)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "BABYBOME",
+   "name": "Book of Baby Memes (BABYBOME)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "BOYS",
+   "name": "CRASHBOYS (BOYS)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "VEGAS",
+   "name": "Vegasino (VEGAS)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "PEPESORA",
+   "name": "Pepe Sora AI (PEPESORA)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "DCOIN",
+   "name": "Crypto Delivery (DCOIN)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "AGO",
+   "name": "AgoDefi (AGO)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "CATHERO",
+   "name": "Cat Hero (CATHERO)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "GLE",
+   "name": "Green Life Energy (GLE)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "DCLOUD",
+   "name": "DecentraCloud (DCLOUD)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "SLERFFORK",
+   "name": "SlerfFork (SLERFFORK)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "BOJAK",
+   "name": "Based Wojak (BOJAK)",
+   "built_on": "BASECHAIN"
+  },
+  {
+   "symbol": "TRUMPTECH",
+   "name": "Trump Tech (TRUMPTECH)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "EVERETH",
+   "name": "EverETH Reflect (EVERETH)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "MINO",
+   "name": "MINO INU (MINO)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "BALIN",
+   "name": "Balin Bank (BALIN)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "STYLE",
+   "name": "Style (STYLE)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "ALME",
+   "name": "Alita (ALME)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "ALDIN",
+   "name": "Alaaddin.ai (ALDIN)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "WOME",
+   "name": "WAR OF MEME (WOME)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "AMOGUS",
+   "name": "Sussy Baka Impostor (AMOGUS)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "O",
+   "name": "Childhoods End (O)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "DOLLUR",
+   "name": "Dollur Go Brrr (DOLLUR)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "CRICKETS",
+   "name": "Kermit (CRICKETS)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "OMNIX",
+   "name": "OmniBotX (OMNIX)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "RBLZ",
+   "name": "RebelSatoshi (RBLZ)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "DRIFT",
+   "name": "Drift protocol (DRIFT)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "WX",
+   "name": "WX Token (WX)",
+   "built_on": "WAVES"
+  },
+  {
+   "symbol": "BOMK",
+   "name": "BOMK (BOMK)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "SGROK",
+   "name": "Super Grok (SGROK)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "LSWAP",
+   "name": "LoopSwap (LSWAP)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "BESA",
+   "name": "Besa Gaming (BESA)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "FLINU",
+   "name": "FLOKI INU (FLINU)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "COME",
+   "name": "Community of Meme (COME)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "ARON",
+   "name": "Astronaut Aron (ARON)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "GETH",
+   "name": "Guarded Ether (GETH)"
+  },
+  {
+   "symbol": "FGT",
+   "name": "Flozo Game Token (FGT)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "PRCL",
+   "name": "Parcl (PRCL)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "DOGETH",
+   "name": "EtherDoge (DOGETH)"
+  },
+  {
+   "symbol": "EWIF",
+   "name": "elonwifcoin (EWIF)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "SHIBK",
+   "name": "ShibaKeanu (SHIBK)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "FILES",
+   "name": "Solfiles (FILES)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "JOHM",
+   "name": "Johm lemmon (JOHM)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "PECL",
+   "name": "PECland (PECL)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "BOKI",
+   "name": "BOOK OF KILLER (BOKI)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "SOLAMB",
+   "name": "SOLAMB (SOLAMB)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "EWON",
+   "name": "Ewon Mucks (EWON)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "YUGE",
+   "name": "YUGE COIN (YUGE)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "SOLPENG",
+   "name": "SOLPENG (SOLPENG)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "THINKWAREAI",
+   "name": "ThinkwareAI (THINKWAREAI)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "BANKETH",
+   "name": "BankEth (BANKETH)"
+  },
+  {
+   "symbol": "WFO",
+   "name": "WoofOracle (WFO)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "TOB",
+   "name": "Tom On Base (TOB)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "WWD",
+   "name": "Wolf Works DAO (WWD)",
+   "built_on": "MATIC"
+  },
+  {
+   "symbol": "TMRW",
+   "name": "TMRW Coin (TMRW)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "JK",
+   "name": "JK Coin (JK)",
+   "built_on": "BNB"
+  }
+ ]
+}
