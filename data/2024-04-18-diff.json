@@ -1,0 +1,126 @@
+{
+ "added": [
+  {
+   "symbol": "DMEU",
+   "name": "Desjardins American Equity Index ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "DMEU.TO",
+   "instruments": [
+    {
+     "name": "Des Amer Eq Idx Etf",
+     "symbol": "DMEU"
+    }
+   ]
+  },
+  {
+   "symbol": "DCBC",
+   "name": "Desjardins Canadian Corporate Bond Index ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "DCBC.TO",
+   "instruments": [
+    {
+     "name": "DesCad CrpBnd IdxEtf",
+     "symbol": "DCBC"
+    }
+   ]
+  },
+  {
+   "symbol": "DMEC",
+   "name": "Desjardins Canadian Equity Index ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "DMEC.TO",
+   "instruments": [
+    {
+     "name": "Des Cad Eq Idx Etf",
+     "symbol": "DMEC"
+    }
+   ]
+  },
+  {
+   "symbol": "DMEI",
+   "name": "Desjardins International Equity Index ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "DMEI.TO",
+   "instruments": [
+    {
+     "name": "Des Int Eq Index Etf",
+     "symbol": "DMEI"
+    }
+   ]
+  },
+  {
+   "symbol": "BBGI",
+   "name": "Beasley Broadcast Group, Inc. - Class A Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "BBGI"
+  },
+  {
+   "symbol": "JUNE",
+   "name": "Junee Limited - Ordinary Shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "JUNE"
+  },
+  {
+   "symbol": "XLYO",
+   "name": "Xylo Technologies Ltd. - American Depositary Shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "XLYO"
+  },
+  {
+   "symbol": "CTRI",
+   "name": "Centuri Holdings, Inc. Common Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "CTRI"
+  },
+  {
+   "symbol": "IBTA",
+   "name": "Ibotta, Inc. Class A Common Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "IBTA"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "OSAAW",
+   "name": "ProSomnus, Inc. - Warrant",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "OSAAW"
+  },
+  {
+   "symbol": "HTY",
+   "name": "John Hancock Tax-Advantaged Global Shareholder Yield Fund Common Shares of Beneficial Interest",
+   "exchange": "NYSE",
+   "yahoo_symbol": "HTY"
+  },
+  {
+   "symbol": "OSA",
+   "name": "ProSomnus, Inc. - Common Stock",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "OSA"
+  },
+  {
+   "symbol": "MGAM",
+   "name": "Mobile Global Esports Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "MGAM"
+  },
+  {
+   "symbol": "MDGS",
+   "name": "Medigus Ltd. - American Depositary Shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "MDGS"
+  },
+  {
+   "symbol": "BBGI",
+   "name": "Beasley Broadcast Group, Inc. - Class A Common Stock",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "BBGI"
+  },
+  {
+   "symbol": "BEEMW",
+   "name": "Beam Global - Warrant",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "BEEMW"
+  }
+ ]
+}

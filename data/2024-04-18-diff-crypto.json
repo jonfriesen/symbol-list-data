@@ -1,0 +1,468 @@
+{
+ "added": [
+  {
+   "symbol": "BASEAI",
+   "name": "BaseAI (BASEAI)",
+   "built_on": "BASECHAIN"
+  },
+  {
+   "symbol": "BUB",
+   "name": "BUBCAT (BUB)",
+   "built_on": "BASECHAIN"
+  },
+  {
+   "symbol": "SIU",
+   "name": "Siu (SIU)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "PANO",
+   "name": "PanoVerse (PANO)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "OCD",
+   "name": "On-Chain Dynamics (OCD)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "SWH",
+   "name": "simbawifhat (SWH)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "PALMY",
+   "name": "Palmy (PALMY)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "BSB",
+   "name": "Based Street Bets (BSB)",
+   "built_on": "BASECHAIN"
+  },
+  {
+   "symbol": "SHARK",
+   "name": "Sharky (SHARK)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "CATELON",
+   "name": "CatElonMars (CATELON)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "POKERFI",
+   "name": "PokerFi (POKERFI)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "VDZ",
+   "name": "Voidz (VDZ)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "MDAI",
+   "name": "MindAI (MDAI)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "BASEDAI",
+   "name": "BasedAI (BASEDAI)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "HUMP",
+   "name": "Hump (HUMP)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "CATHAT",
+   "name": "catwifhat (CATHAT)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "JEET",
+   "name": "Jeet (JEET)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "JOOPS",
+   "name": "JOOPS (JOOPS)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "SIUUU",
+   "name": "Crustieno Renaldo (SIUUU)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "YAOYAO",
+   "name": "Yaoyao's Cat (YAOYAO)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "CHAT",
+   "name": "OpenChat (CHAT)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "GUARDAI",
+   "name": "GuardAI (GUARDAI)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "WIFS",
+   "name": "dogwifscarf (WIFS)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "MASA",
+   "name": "Masa (MASA)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "KNFT",
+   "name": "KStarNFT (KNFT)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "JUICE",
+   "name": "Juice Finance (JUICE)",
+   "built_on": "BLAST"
+  },
+  {
+   "symbol": "MAGAIBA",
+   "name": "Magaiba (MAGAIBA)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "MEOWG",
+   "name": "MeowGangs (MEOWG)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "21X",
+   "name": "21X (21X)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "THAVAGE",
+   "name": "Mike Tython (THAVAGE)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "POAI",
+   "name": "Port AI (POAI)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "DEFIDO",
+   "name": "DeFido (DEFIDO)",
+   "built_on": "BASECHAIN"
+  },
+  {
+   "symbol": "SUNOLD",
+   "name": "Sun Token (SUNOLD)"
+  },
+  {
+   "symbol": "GORGONZOLA",
+   "name": "Heroes 3 Foundation (GORGONZOLA)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "LEND",
+   "name": "Aave (LEND)"
+  },
+  {
+   "symbol": "KITTENWIF",
+   "name": "KittenWifHat (KITTENWIF)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "PAJAMAS",
+   "name": "The First Youtube Cat (PAJAMAS)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "FXC",
+   "name": "Flexacoin (FXC)"
+  },
+  {
+   "symbol": "STATS",
+   "name": "Stats (STATS)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "BCOQ",
+   "name": "BLACK COQINU (BCOQ)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "G",
+   "name": "GRN Grid (G)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "HOCAI",
+   "name": "Heroes of Crypto AI (HOCAI)",
+   "built_on": "BASECHAIN"
+  },
+  {
+   "symbol": "CRAZYPEPE",
+   "name": "CrazyPepe (CRAZYPEPE)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "NEXTEXV1",
+   "name": "Next.exchange Token v1 (NEXTEXV1)"
+  },
+  {
+   "symbol": "FM",
+   "name": "Flowmatic (FM)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "ATECH",
+   "name": "AvaxTech (ATECH)",
+   "built_on": "AVAX"
+  },
+  {
+   "symbol": "GPO",
+   "name": "GoldPesa Option (GPO)",
+   "built_on": "MATIC"
+  },
+  {
+   "symbol": "PEKO",
+   "name": "Pepe Neko (PEKO)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "O4DX",
+   "name": "O4DX (O4DX)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "ARCAS",
+   "name": "Arcas (ARCAS)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "BANKETH",
+   "name": "BankEth (BANKETH)"
+  },
+  {
+   "symbol": "FUBAO",
+   "name": "FUBAO (FUBAO)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "BOWE",
+   "name": "Book of Whales (BOWE)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "OZMPC",
+   "name": "Ozempic (OZMPC)",
+   "built_on": "BASECHAIN"
+  },
+  {
+   "symbol": "SENSOR",
+   "name": "Sensor Protocol (SENSOR)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "KNOB",
+   "name": "KNOB (KNOB)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "2192",
+   "name": "LERNITAS (2192)",
+   "built_on": "OP"
+  },
+  {
+   "symbol": "DARE",
+   "name": "The Dare (DARE)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "CATDOGE",
+   "name": "CAT DOGE (CATDOGE)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "OHM",
+   "name": "Olympus (OHM)"
+  },
+  {
+   "symbol": "VUZZ",
+   "name": "Vuzz AI (VUZZ)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "BPINKY",
+   "name": "BPINKY (BPINKY)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "CODEG",
+   "name": "CodeGenie (CODEG)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "ODGN",
+   "name": "OrdiGen (ODGN)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "WWF",
+   "name": "WWF (WWF)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "ELEPEPE",
+   "name": "ElephantPepe (ELEPEPE)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "TRUCE",
+   "name": "WORLD PEACE PROJECT (TRUCE)",
+   "built_on": "ARB"
+  },
+  {
+   "symbol": "BIBO",
+   "name": "Bible of Memes (BIBO)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "WIFSA",
+   "name": "dogwifsaudihat (WIFSA)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "ISHI",
+   "name": "Ishi (ISHI)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "TIPINU",
+   "name": "Tip Inu (TIPINU)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "SOLKIT",
+   "name": "Solana Kit (SOLKIT)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "R4RE",
+   "name": "R4RE Token (R4RE)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "9DOGS",
+   "name": "NINE DOGS (9DOGS)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "FBG",
+   "name": "Fort Block Games (FBG)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "AXSV1",
+   "name": "Axie Infinity Shards v1 (AXSV1)"
+  },
+  {
+   "symbol": "ZEUS",
+   "name": "Zeus Network (ZEUS)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "TBANK",
+   "name": "TaoBank (TBANK)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "GBOY",
+   "name": "GameBoy (GBOY)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "OVN",
+   "name": "Overnight (OVN)",
+   "built_on": "OP"
+  },
+  {
+   "symbol": "SONICWIF",
+   "name": "SonicWifHat (SONICWIF)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "BTCAT",
+   "name": "Bitcoin Cat (BTCAT)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "SECOND",
+   "name": "MetaDOS (SECOND)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "MONKU",
+   "name": "Monku (MONKU)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "DOGETH",
+   "name": "EtherDoge (DOGETH)"
+  },
+  {
+   "symbol": "HMKR",
+   "name": "Hitmakr (HMKR)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "BJ",
+   "name": "Blocjerk (BJ)",
+   "built_on": "ETH"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "FXC",
+   "name": "Flexacoin (FXC)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "SUNOLD",
+   "name": "Sun Token (SUNOLD)",
+   "built_on": "TRX"
+  },
+  {
+   "symbol": "NEXTEXV1",
+   "name": "Next.exchange Token v1 (NEXTEXV1)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "AXSV1",
+   "name": "Axie Infinity Shards v1 (AXSV1)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "OHM",
+   "name": "Olympus (OHM)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "LEND",
+   "name": "Aave (LEND)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "CHAT",
+   "name": "OpenChat (CHAT)",
+   "built_on": "ETH"
+  }
+ ]
+}
