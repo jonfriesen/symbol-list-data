@@ -1,0 +1,48 @@
+{
+ "added": [
+  {
+   "symbol": "IFN.R",
+   "name": "India Fund, Inc. (The) Rights (expiring May 14, 2024) Rights",
+   "exchange": "NYSE",
+   "yahoo_symbol": "IFN.R"
+  },
+  {
+   "symbol": "TRSG",
+   "name": "Tungray Technologies Inc - Class A Ordinary Shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "TRSG"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "DCFCW",
+   "name": "Tritium DCFC Limited - Warrant",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "DCFCW"
+  },
+  {
+   "symbol": "DCFC",
+   "name": "Tritium DCFC Limited - Ordinary Shares",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "DCFC"
+  },
+  {
+   "symbol": "IFN.V",
+   "name": "India Fund, Inc. (The) Rights (expiring May 14, 2024) Rights when issued",
+   "exchange": "NYSE",
+   "yahoo_symbol": "IFN.V"
+  },
+  {
+   "symbol": "UNV",
+   "name": "Universal Copper Ltd.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "UNV.V",
+   "instruments": [
+    {
+     "name": "Universal Copper Ltd.",
+     "symbol": "UNV"
+    }
+   ]
+  }
+ ]
+}

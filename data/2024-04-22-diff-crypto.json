@@ -1,0 +1,132 @@
+{
+ "added": [
+  {
+   "symbol": "UCORE",
+   "name": "UnityCore Protocol (UCORE)",
+   "built_on": "CORE"
+  },
+  {
+   "symbol": "CHOY",
+   "name": "Bok Choy (CHOY)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "ECG",
+   "name": "EcoSmart (ECG)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "WBESC",
+   "name": "Wrapped BESC (WBESC)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "GICT",
+   "name": "GICTrade (GICT)"
+  },
+  {
+   "symbol": "PBAR",
+   "name": "Pangolin Hedera (PBAR)",
+   "built_on": "HBAR"
+  },
+  {
+   "symbol": "GND",
+   "name": "GND Protoco (GND)",
+   "built_on": "ARB"
+  },
+  {
+   "symbol": "DEED",
+   "name": "Deed (Ordinals) (DEED)",
+   "built_on": "BTC"
+  },
+  {
+   "symbol": "CRAZYCAT",
+   "name": "CRAZY CAT (CRAZYCAT)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "PEUSD",
+   "name": "peg-eUSD (PEUSD)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "BONE",
+   "name": "Bone ShibaSwap (BONE)"
+  },
+  {
+   "symbol": "SCFX",
+   "name": "Shui CFX (SCFX)",
+   "built_on": "CFX"
+  },
+  {
+   "symbol": "BANKETH",
+   "name": "BankEth (BANKETH)"
+  },
+  {
+   "symbol": "ORDI2",
+   "name": "ORDI 2.0 (ORDI2)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "PEPEW",
+   "name": "PEPEPOW (PEPEW)"
+  },
+  {
+   "symbol": "DONALD",
+   "name": "DONALD TRUMP (DONALD)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "GETH",
+   "name": "Guarded Ether (GETH)"
+  },
+  {
+   "symbol": "WETHW",
+   "name": "Wrapped EthereumPoW (WETHW)",
+   "built_on": "OKT"
+  },
+  {
+   "symbol": "PLA",
+   "name": "PlayDapp (PLA)"
+  },
+  {
+   "symbol": "WWEMIX",
+   "name": "WWEMIX (WWEMIX)",
+   "built_on": "WEMIX"
+  },
+  {
+   "symbol": "SMA",
+   "name": "Soma Network (SMA)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "DOGETH",
+   "name": "EtherDoge (DOGETH)"
+  },
+  {
+   "symbol": "USDTZ",
+   "name": "USDtez (USDTZ)",
+   "built_on": "XTZ"
+  },
+  {
+   "symbol": "FEGV1",
+   "name": "FEG Token v1 (FEGV1)"
+  },
+  {
+   "symbol": "BTNT",
+   "name": "BitNautic Token (BTNT)"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "PLA",
+   "name": "PlayDapp (PLA)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "BONE",
+   "name": "Bone ShibaSwap (BONE)",
+   "built_on": "ETH"
+  }
+ ]
+}
