@@ -1,0 +1,365 @@
+{
+ "added": [
+  {
+   "symbol": "ALBEDO",
+   "name": "ALBEDO (ALBEDO)",
+   "built_on": "BITCI"
+  },
+  {
+   "symbol": "PEPEBNB",
+   "name": "Pepe The Frog (PEPEBNB)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "IVPAY",
+   "name": "ivendPay (IVPAY)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "XPND",
+   "name": "Time Raiders (XPND)",
+   "built_on": "MATIC"
+  },
+  {
+   "symbol": "GOMD",
+   "name": "GOMDori (GOMD)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "WBONES",
+   "name": "Wrapped BONES (WBONES)",
+   "built_on": "BONE"
+  },
+  {
+   "symbol": "LIGMA",
+   "name": "Ligma Node (LIGMA)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "CROB",
+   "name": "Crob Coin (CROB)",
+   "built_on": "CRO"
+  },
+  {
+   "symbol": "COINSCOPE",
+   "name": "Coinscope (COINSCOPE)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "OCH",
+   "name": "Orchai (OCH)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "PUN",
+   "name": "Punkko (PUN)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "GAGA",
+   "name": "Gaga (GAGA)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "RENT",
+   "name": "Rent AI (RENT)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "XAR",
+   "name": "Arcana Network (XAR)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "G",
+   "name": "GRN Grid (G)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "NFE",
+   "name": "Edu3Labs (NFE)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "DEVVE",
+   "name": "Devve (DEVVE)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "MEOWIF",
+   "name": "Meowifhat (MEOWIF)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "SVPN",
+   "name": "Shadow Node (SVPN)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "M",
+   "name": "MetaVerse-M (M)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "DPDBC",
+   "name": "PDBC Defichain (DPDBC)",
+   "built_on": "DFI"
+  },
+  {
+   "symbol": "SOLCEX",
+   "name": "SolCex (SOLCEX)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "POU",
+   "name": "Pou (POU)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "WLUNC",
+   "name": "Wrapped LUNA Classic (WLUNC)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "MAZZE",
+   "name": "Mazze (MAZZE)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "BODA",
+   "name": "Based Yoda (BODA)",
+   "built_on": "BASECHAIN"
+  },
+  {
+   "symbol": "EGGY",
+   "name": "EGGY (EGGY)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "BCUT",
+   "name": "bitsCrunch (BCUT)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "KATYCAT",
+   "name": "Katy Perry Fans (KATYCAT)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "WBCH",
+   "name": "Wrapped Bitcoin Cash (WBCH)"
+  },
+  {
+   "symbol": "NEURAL",
+   "name": "NeuralAI (NEURAL)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "DVNQ",
+   "name": "Vanguard Real Estate Tokenized Stock Defichain () (DVNQ)",
+   "built_on": "DFI"
+  },
+  {
+   "symbol": "NITEFEEDER",
+   "name": "Nitefeeder (NITEFEEDER)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "OBEMA",
+   "name": "burek obema (OBEMA)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "BISO",
+   "name": "BISOSwap (BISO)",
+   "built_on": "BTC"
+  },
+  {
+   "symbol": "FAND",
+   "name": "Fandomdao (FAND)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "HNX",
+   "name": "HeartX Utility Token (HNX)",
+   "built_on": "ZKSYNC"
+  },
+  {
+   "symbol": "OFE",
+   "name": "Ofero (OFE)",
+   "built_on": "EGLD"
+  },
+  {
+   "symbol": "BRAINERS",
+   "name": "Brainers (BRAINERS)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "BRUNE",
+   "name": "BitRunes (BRUNE)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "WBONE",
+   "name": "Shibarium Wrapped BONE (WBONE)",
+   "built_on": "BONE"
+  },
+  {
+   "symbol": "KNINE",
+   "name": "K9 Finance (KNINE)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "AABL",
+   "name": "Abble (AABL)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "GUUFY",
+   "name": "Guufy (GUUFY)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "DEEM",
+   "name": "iShares MSCI Emerging Markets ETF Defichain (DEEM)",
+   "built_on": "DFI"
+  },
+  {
+   "symbol": "LADYF",
+   "name": "Milady Wif Hat (LADYF)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "SOMM",
+   "name": "Sommelier (SOMM)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "MOW",
+   "name": "mouse in a cats world (MOW)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "SCRAPPY",
+   "name": "Scrappy (SCRAPPY)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "MCTP",
+   "name": "Metacraft (MCTP)",
+   "built_on": "MATIC"
+  },
+  {
+   "symbol": "BIR",
+   "name": "Birake (BIR)"
+  },
+  {
+   "symbol": "XRPCHAIN",
+   "name": "Ripple Chain (XRPCHAIN)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "DOGETH",
+   "name": "EtherDoge (DOGETH)"
+  },
+  {
+   "symbol": "BOME2",
+   "name": "Book of Meme 2.0 (BOME2)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "PDA",
+   "name": "PlayDapp (PDA)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "ETX",
+   "name": "Ethrix (ETX)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "DOGINME",
+   "name": "doginme (DOGINME)",
+   "built_on": "BASECHAIN"
+  },
+  {
+   "symbol": "BINU",
+   "name": "Blast Inu (BINU)",
+   "built_on": "BLAST"
+  },
+  {
+   "symbol": "WFUSE",
+   "name": "Wrapped Fuse (WFUSE)",
+   "built_on": "FUSE"
+  },
+  {
+   "symbol": "SMILEK",
+   "name": "Smilek to the Bank (SMILEK)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "XTTB20",
+   "name": "XTblock (XTTB20)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "SLEX",
+   "name": "SLEX Token (SLEX)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "MIIDAS",
+   "name": "Miidas NFT (MIIDAS)",
+   "built_on": "CORE"
+  },
+  {
+   "symbol": "PUNKAI",
+   "name": "PunkAI (PUNKAI)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "XGOLD",
+   "name": "XGOLD COIN (XGOLD)",
+   "built_on": "XRP"
+  },
+  {
+   "symbol": "NOIS",
+   "name": "Nois Network (NOIS)"
+  },
+  {
+   "symbol": "LUIS",
+   "name": "Tongue Cat (LUIS)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "RIVUS",
+   "name": "RivusDAO (RIVUS)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "GUAP",
+   "name": "Guapcoin (GUAP)"
+  },
+  {
+   "symbol": "BANK",
+   "name": "Float Protocol (BANK)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "UPTOS",
+   "name": "UPTOS (UPTOS)",
+   "built_on": "APT"
+  },
+  {
+   "symbol": "BFICGOLD",
+   "name": "BFICGOLD (BFICGOLD)",
+   "built_on": "BFIC"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "COINSCOPE",
+   "name": "Coinscope (COINSCOPE)"
+  }
+ ]
+}

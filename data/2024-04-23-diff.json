@@ -1,0 +1,102 @@
+{
+ "added": [
+  {
+   "symbol": "BOTT",
+   "name": "Themes Robotics \u0026 Automation ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "BOTT"
+  },
+  {
+   "symbol": "MFI",
+   "name": "mF International Limited - Ordinary Shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "MFI"
+  },
+  {
+   "symbol": "YYGH",
+   "name": "YY Group Holding Limited - Class A Ordinary Shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "YYGH"
+  },
+  {
+   "symbol": "FAS",
+   "name": "First Andes Silver Ltd.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "FAS.V",
+   "instruments": [
+    {
+     "name": "First Andes Silver Ltd.",
+     "symbol": "FAS"
+    }
+   ]
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "MPCF",
+   "name": "Mackenzie Portfolio Completion ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "MPCF.TO",
+   "instruments": [
+    {
+     "name": "Mackenzie PortflComp",
+     "symbol": "MPCF"
+    }
+   ]
+  },
+  {
+   "symbol": "RMGCU",
+   "name": "RMG Acquisition Corp. III - Unit",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "RMGCU"
+  },
+  {
+   "symbol": "RMGC",
+   "name": "RMG Acquisition Corp. III - Class A Ordinary Shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "RMGC"
+  },
+  {
+   "symbol": "MNTR",
+   "name": "Mantaro Precious Metals Corp.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "MNTR.V",
+   "instruments": [
+    {
+     "name": "Mantaro Precious Metals Corp.",
+     "symbol": "MNTR"
+    }
+   ]
+  },
+  {
+   "symbol": "RMGCW",
+   "name": "RMG Acquisition Corp. III - Warrant",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "RMGCW"
+  },
+  {
+   "symbol": "THNK",
+   "name": "Think Research Corporation",
+   "exchange": "TSXV",
+   "yahoo_symbol": "THNK.V",
+   "instruments": [
+    {
+     "name": "Think Research Corporation",
+     "symbol": "THNK"
+    }
+   ]
+  },
+  {
+   "symbol": "CSML",
+   "name": "IQ U.S. Small Cap ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "CSML"
+  },
+  {
+   "symbol": "ONDR",
+   "name": "Sushi Ginza Onodera, Inc. Common Stock",
+   "exchange": "NYSE MKT",
+   "yahoo_symbol": "ONDR"
+  }
+ ]
+}
