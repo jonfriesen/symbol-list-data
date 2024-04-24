@@ -1,0 +1,159 @@
+{
+ "added": [
+  {
+   "symbol": "AQUACITY",
+   "name": "Aquacity (AQUACITY)"
+  },
+  {
+   "symbol": "TXL",
+   "name": "Tixl (TXL)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "XRDOGE",
+   "name": "XRdoge (XRDOGE)",
+   "built_on": "XRP"
+  },
+  {
+   "symbol": "WPEPE",
+   "name": "Wrapped Pepe (WPEPE)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "FTTOKEN",
+   "name": "Finance Token (FTTOKEN)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "RYU",
+   "name": "The Blue Dragon (RYU)",
+   "built_on": "BASECHAIN"
+  },
+  {
+   "symbol": "BANK",
+   "name": "Float Protocol (BANK)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "BSWT",
+   "name": "BaySwap (BSWT)",
+   "built_on": "SUI"
+  },
+  {
+   "symbol": "DOG",
+   "name": "The Doge NFT (DOG)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "WPKT",
+   "name": "Wrapped PKT (WPKT)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "AVM",
+   "name": "AVM (Atomicals) (AVM)",
+   "built_on": "BTC"
+  },
+  {
+   "symbol": "RWB",
+   "name": "RawBlock (RWB)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "WBT",
+   "name": "WhiteBIT Token (WBT)"
+  },
+  {
+   "symbol": "MINER",
+   "name": "MINER (MINER)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "EFT",
+   "name": "ETH Fan Token Ecosystem (EFT)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "CRBRUS",
+   "name": "Cerberus (CRBRUS)"
+  },
+  {
+   "symbol": "MOLLY",
+   "name": "Molly (MOLLY)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "ZKS",
+   "name": "ZKSpace (ZKS)"
+  },
+  {
+   "symbol": "NEFTY",
+   "name": "NeftyBlocks (NEFTY)",
+   "built_on": "WAXP"
+  },
+  {
+   "symbol": "GETH",
+   "name": "Guarded Ether (GETH)"
+  },
+  {
+   "symbol": "BABYBOMEOW",
+   "name": "Baby of BOMEOW (BABYBOMEOW)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "SHNT",
+   "name": "Sats Hunters (SHNT)",
+   "built_on": "BTC"
+  },
+  {
+   "symbol": "CCAT",
+   "name": "Crypto Cat (CCAT)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "TRUMPJR",
+   "name": "TrumpJr (TRUMPJR)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "BNN",
+   "name": "Banyan Network (BNN)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "YPC",
+   "name": "YoungParrot (YPC)",
+   "built_on": "CORE"
+  },
+  {
+   "symbol": "TYOGHOUL",
+   "name": "TYO GHOUL (TYOGHOUL)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "XTECH",
+   "name": "X-TECH (XTECH)",
+   "built_on": "ETH"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "ZKS",
+   "name": "ZKSpace (ZKS)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "BNN",
+   "name": "Banyan Network (BNN)"
+  },
+  {
+   "symbol": "WBT",
+   "name": "WhiteBIT Token (WBT)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "TXL",
+   "name": "Tixl (TXL)"
+  }
+ ]
+}

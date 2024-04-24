@@ -1,0 +1,168 @@
+{
+ "added": [
+  {
+   "symbol": "RUQN",
+   "name": "RBC Target 2025 U.S. Corporate Bond ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "RUQN.TO",
+   "instruments": [
+    {
+     "name": "RBC Tgt 25USCrpCaBnd",
+     "symbol": "RUQN"
+    },
+    {
+     "name": "RBC Tgt25USCrpUSBnd",
+     "symbol": "RUQN.U"
+    }
+   ]
+  },
+  {
+   "symbol": "RUQO",
+   "name": "RBC Target 2026 U.S. Corporate Bond ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "RUQO.TO",
+   "instruments": [
+    {
+     "name": "RBC Tgt26USCrpCa Bnd",
+     "symbol": "RUQO"
+    },
+    {
+     "name": "RBC Tgt26USCrpUS Bnd",
+     "symbol": "RUQO.U"
+    }
+   ]
+  },
+  {
+   "symbol": "RUQP",
+   "name": "RBC Target 2027 U.S. Corporate Bond ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "RUQP.TO",
+   "instruments": [
+    {
+     "name": "RBC Tgt2027USCopBnCA",
+     "symbol": "RUQP"
+    },
+    {
+     "name": "RBC Tgt2027USCopBnUS",
+     "symbol": "RUQP.U"
+    }
+   ]
+  },
+  {
+   "symbol": "RUQQ",
+   "name": "RBC Target 2028 U.S. Corporate Bond ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "RUQQ.TO",
+   "instruments": [
+    {
+     "name": "RBC Tgt2028USCopBnCA",
+     "symbol": "RUQQ"
+    },
+    {
+     "name": "RBC Tgt2028USCopBnUS",
+     "symbol": "RUQQ.U"
+    }
+   ]
+  },
+  {
+   "symbol": "RUQR",
+   "name": "RBC Target 2029 U.S. Corporate Bond ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "RUQR.TO",
+   "instruments": [
+    {
+     "name": "RBC Tgt2029USCopBnCA",
+     "symbol": "RUQR"
+    },
+    {
+     "name": "RBC Tgt2029USCopBnUS",
+     "symbol": "RUQR.U"
+    }
+   ]
+  },
+  {
+   "symbol": "RQS",
+   "name": "RBC Target 2030 Canadian Corporate Bond Index ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "RQS.TO",
+   "instruments": [
+    {
+     "name": "RBC Tg30CDNCorpCaBnd",
+     "symbol": "RQS"
+    }
+   ]
+  },
+  {
+   "symbol": "RGQS",
+   "name": "RBC Target 2030 Canadian Government Bond ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "RGQS.TO",
+   "instruments": [
+    {
+     "name": "RBC Tgt30CDNGovCaBnd",
+     "symbol": "RGQS"
+    }
+   ]
+  },
+  {
+   "symbol": "RUQS",
+   "name": "RBC Target 2030 U.S. Corporate Bond ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "RUQS.TO",
+   "instruments": [
+    {
+     "name": "RBC Tgt2030USCopBnCA",
+     "symbol": "RUQS"
+    },
+    {
+     "name": "RBC Tgt2030USCopBnUS",
+     "symbol": "RUQS.U"
+    }
+   ]
+  },
+  {
+   "symbol": "MFAO",
+   "name": "MFA Financial, Inc. 9.000% Senior Notes due 2029",
+   "exchange": "NYSE",
+   "yahoo_symbol": "MFAO"
+  },
+  {
+   "symbol": "TOPS",
+   "name": "TOP Ships, Inc. Common Stock",
+   "exchange": "NYSE MKT",
+   "yahoo_symbol": "TOPS"
+  },
+  {
+   "symbol": "NCI",
+   "name": "Neo-Concept International Group Holdings Limited - Ordinary Shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "NCI"
+  },
+  {
+   "symbol": "OPTZ",
+   "name": "Optimize Strategy Index ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "OPTZ"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "TOPS",
+   "name": "TOP Ships Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "TOPS"
+  },
+  {
+   "symbol": "DSAQ.U",
+   "name": "Direct Selling Acquisition Corp. Units, each consisting of one share of Class A common stock and one-half of redeemable warrant",
+   "exchange": "NYSE",
+   "yahoo_symbol": "DSAQ.U"
+  },
+  {
+   "symbol": "DSAQ",
+   "name": "Direct Selling Acquisition Corp. Class A Common Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "DSAQ"
+  }
+ ]
+}
