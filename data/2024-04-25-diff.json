@@ -1,0 +1,66 @@
+{
+ "added": [
+  {
+   "symbol": "SPI",
+   "name": "SPI Energy Co., Ltd. - Ordinary Shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "SPI"
+  },
+  {
+   "symbol": "DSAQ",
+   "name": "Direct Selling Acquisition Corp. Class A Common Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "DSAQ"
+  },
+  {
+   "symbol": "DSAQ.U",
+   "name": "Direct Selling Acquisition Corp. Units, each consisting of one share of Class A common stock and one-half of redeemable warrant",
+   "exchange": "NYSE",
+   "yahoo_symbol": "DSAQ.U"
+  },
+  {
+   "symbol": "LOAR",
+   "name": "Loar Holdings Inc. Common Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "LOAR"
+  },
+  {
+   "symbol": "RBRK",
+   "name": "Rubrik, Inc. Class A Common Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "RBRK"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "SPI",
+   "name": "SPI Energy Co., Ltd. - Ordinary Shares",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "SPI"
+  },
+  {
+   "symbol": "USCTW",
+   "name": "Roth CH Acquisition Co. - Warrant",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "USCTW"
+  },
+  {
+   "symbol": "USCT",
+   "name": "Roth CH Acquisition Co. - Class A Ordinary Shares",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "USCT"
+  },
+  {
+   "symbol": "VIAO",
+   "name": "VIA optronics AG American Depositary Shares, each representing one-fifth of an Ordinary Share",
+   "exchange": "NYSE",
+   "yahoo_symbol": "VIAO"
+  },
+  {
+   "symbol": "USCTU",
+   "name": "Roth CH Acquisition Co. - Unit",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "USCTU"
+  }
+ ]
+}

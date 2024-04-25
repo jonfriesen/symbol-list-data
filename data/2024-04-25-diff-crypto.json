@@ -1,0 +1,409 @@
+{
+ "added": [
+  {
+   "symbol": "PREAI",
+   "name": "Predict Crypto (PREAI)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "ICNX",
+   "name": "Icon.X World (ICNX)",
+   "built_on": "MATIC"
+  },
+  {
+   "symbol": "CEICAT",
+   "name": "CEILING CAT (CEICAT)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "SUBF",
+   "name": "Super Best Friends (SUBF)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "TBCI",
+   "name": "tbci (TBCI)",
+   "built_on": "BTC"
+  },
+  {
+   "symbol": "BOP",
+   "name": "Boring Protocol (BOP)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "YEPE",
+   "name": "Yellow Pepe (YEPE)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "THIK",
+   "name": "ThikDik (THIK)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "VIZION",
+   "name": "ViZion Protocol (VIZION)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "ZKB",
+   "name": "ZKBase (ZKB)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "ZILPEPE",
+   "name": "ZilPepe (ZILPEPE)",
+   "built_on": "ZIL"
+  },
+  {
+   "symbol": "SA",
+   "name": "Superalgos (SA)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "GPUCOIN",
+   "name": "GPU Coin (GPUCOIN)"
+  },
+  {
+   "symbol": "SOFTCO",
+   "name": "SOFT COQ INU (SOFTCO)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "AZURE",
+   "name": "Azure Wallet (AZURE)"
+  },
+  {
+   "symbol": "KLS",
+   "name": "Karlsen (KLS)"
+  },
+  {
+   "symbol": "XLIST",
+   "name": "XList (XLIST)",
+   "built_on": "XRP"
+  },
+  {
+   "symbol": "VLK",
+   "name": "Vulkania (VLK)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "ZEBU",
+   "name": "ZEBU (ZEBU)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "SFEX",
+   "name": "SafeLaunch (SFEX)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "WANKO",
+   "name": "WANKO•MANKO•RUNES (WANKO)"
+  },
+  {
+   "symbol": "XSTUSD",
+   "name": "SORA Synthetic USD (XSTUSD)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "AKREP",
+   "name": "Antalyaspor Token (AKREP)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "AMBO",
+   "name": "Sheertopia (AMBO)",
+   "built_on": "MATIC"
+  },
+  {
+   "symbol": "BOGE",
+   "name": "Boge (BOGE)",
+   "built_on": "BASECHAIN"
+  },
+  {
+   "symbol": "GLB",
+   "name": "Golden Ball (GLB)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "QUEEN",
+   "name": "Queen of Engrand (QUEEN)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "MERGE",
+   "name": "Merge (MERGE)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "BOLBOL",
+   "name": "BOLBOL (BOLBOL)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "ASSET",
+   "name": "iAssets (ASSET)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "BANANAS",
+   "name": "Monkey Peepo (BANANAS)",
+   "built_on": "BASECHAIN"
+  },
+  {
+   "symbol": "FLOVI",
+   "name": "Flovi inu (FLOVI)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "XALGO",
+   "name": "Wrapped ALGO (XALGO)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "DOG",
+   "name": "The Doge NFT (DOG)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "DFSM",
+   "name": "DFS MAFIA (DFSM)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "FOTTIE",
+   "name": "Fottie (FOTTIE)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "NIRV",
+   "name": "Nirvana NIRV (NIRV)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "FIA",
+   "name": "FIA Protocol (FIA)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "AUTISM",
+   "name": "AUTISM (AUTISM)",
+   "built_on": "INJ"
+  },
+  {
+   "symbol": "WIK",
+   "name": "Wicked Bet (WIK)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "FPI",
+   "name": "Frax Price Index (FPI)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "RIOT",
+   "name": "Riot Racers (RIOT)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "BONKFA",
+   "name": "Bonk of America (BONKFA)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "369",
+   "name": "Nikola Tesla Token (369)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "PVC",
+   "name": "PVC Meta (PVC)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "ZKARCH",
+   "name": "zkArchive (ZKARCH)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "TRUMPCAT",
+   "name": "TRUMPCAT (TRUMPCAT)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "DGEN",
+   "name": "The MVP Society (DGEN)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "OXO",
+   "name": "OXO Network (OXO)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "CAESAR",
+   "name": "Caesar's Arena (CAESAR)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "BANKETH",
+   "name": "BankEth (BANKETH)"
+  },
+  {
+   "symbol": "SQUIBONK",
+   "name": "SQUIBONK (SQUIBONK)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "SHOKI",
+   "name": "Shoki (SHOKI)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "BANX",
+   "name": "Banx.gg (BANX)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "GENZ",
+   "name": "GENZ Token (GENZ)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "MUNK",
+   "name": "Dramatic Chipmunk (MUNK)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "MABA",
+   "name": "Make America Based Again (MABA)",
+   "built_on": "BASECHAIN"
+  },
+  {
+   "symbol": "LSR",
+   "name": "LaserEyes (LSR)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "FTH",
+   "name": "Fintyhub Token (FTH)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "CUB",
+   "name": "Cub Finance (CUB)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "BSCAKE",
+   "name": "Bunscake (BSCAKE)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "WNOW",
+   "name": "WalletNow (WNOW)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "BLOO",
+   "name": "bloo foster coin (BLOO)",
+   "built_on": "BASECHAIN"
+  },
+  {
+   "symbol": "G",
+   "name": "GRN Grid (G)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "SNMT",
+   "name": "Satoshi Nakamoto Token (SNMT)",
+   "built_on": "BTC"
+  },
+  {
+   "symbol": "AGII",
+   "name": "AGII (AGII)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "GAUSS",
+   "name": "Gauss0x (GAUSS)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "RU",
+   "name": "RIFI United (RU)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "CRK",
+   "name": "Croking (CRK)",
+   "built_on": "CRO"
+  },
+  {
+   "symbol": "OSIS",
+   "name": "OSIS (OSIS)"
+  },
+  {
+   "symbol": "BODE",
+   "name": "Book of Derp (BODE)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "SOLARA",
+   "name": "Solara (SOLARA)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "DEFEND",
+   "name": "Blockdefend AI (DEFEND)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "LYZI",
+   "name": "Lyzi (LYZI)",
+   "built_on": "XTZ"
+  },
+  {
+   "symbol": "WINU",
+   "name": "Walter Inu (WINU)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "BNUSD",
+   "name": "Balanced Dollars (BNUSD)",
+   "built_on": "ICX"
+  },
+  {
+   "symbol": "XGRO",
+   "name": "Growth DeFi (XGRO)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "BG",
+   "name": "BunnyPark Game (BG)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "ELTG",
+   "name": "Graphen (ELTG)",
+   "built_on": "BRISE"
+  },
+  {
+   "symbol": "YTS",
+   "name": "YetiSwap (YTS)",
+   "built_on": "AVAX"
+  },
+  {
+   "symbol": "KORA",
+   "name": "Kortana (KORA)",
+   "built_on": "ARB"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "GPU",
+   "name": "GPU Coin (GPU)"
+  }
+ ]
+}
