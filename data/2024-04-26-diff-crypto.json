@@ -1,0 +1,47 @@
+{
+ "added": [
+  {
+   "symbol": "MVP",
+   "name": "MVP Coin (MVP)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "DOG",
+   "name": "The Doge NFT (DOG)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "GETH",
+   "name": "Guarded Ether (GETH)"
+  },
+  {
+   "symbol": "TEDDY",
+   "name": "Teddy Doge (TEDDY)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "TEDDYV2",
+   "name": "Teddy Doge v2 (TEDDYV2)"
+  },
+  {
+   "symbol": "BANK",
+   "name": "Float Protocol (BANK)",
+   "built_on": "ETH"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "TEDDYV2",
+   "name": "Teddy Doge v2 (TEDDYV2)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "TEDDY",
+   "name": "Teddy Doge (TEDDY)"
+  },
+  {
+   "symbol": "MVP",
+   "name": "MVP Coin (MVP)"
+  }
+ ]
+}

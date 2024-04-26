@@ -1,0 +1,36 @@
+{
+ "added": [
+  {
+   "symbol": "MRX",
+   "name": "Marex Group plc - Ordinary Shares",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "MRX"
+  },
+  {
+   "symbol": "ZONE",
+   "name": "CleanCore Solutions Inc. Class B Common Stock",
+   "exchange": "NYSE MKT",
+   "yahoo_symbol": "ZONE"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "SECO",
+   "name": "Secoo Holding Limited - American Depositary Shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "SECO"
+  },
+  {
+   "symbol": "BPTS",
+   "name": "Biophytis SA - American Depositary Share",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "BPTS"
+  },
+  {
+   "symbol": "NGMS",
+   "name": "NeoGames S.A. - Ordinary Shares",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "NGMS"
+  }
+ ]
+}
