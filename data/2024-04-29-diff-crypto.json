@@ -1,0 +1,288 @@
+{
+ "added": [
+  {
+   "symbol": "EVRY",
+   "name": "Evrynet (EVRY)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "CYC",
+   "name": "Cyclone Protocol (CYC)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "WHITE",
+   "name": "Whiteheart (WHITE)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "CAST",
+   "name": "Castello Coin (CAST)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "OVR",
+   "name": "Ovr (OVR)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "CUM",
+   "name": "Cumbackbears (CUM)",
+   "built_on": "BASECHAIN"
+  },
+  {
+   "symbol": "BLKC",
+   "name": "BlackHat Coin (BLKC)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "MWAVE",
+   "name": "MeshWave (MWAVE)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "BULT",
+   "name": "Bullit (BULT)",
+   "built_on": "THETA"
+  },
+  {
+   "symbol": "DOGETH",
+   "name": "EtherDoge (DOGETH)"
+  },
+  {
+   "symbol": "DYP",
+   "name": "Dypius (DYP)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "USTC",
+   "name": "TerraClassicUSD (USTC)",
+   "built_on": "LUNC"
+  },
+  {
+   "symbol": "BANANAG",
+   "name": "Banana Gun (BANANAG)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "USTB",
+   "name": "Superstate Short Duration U.S. Government Securities Fund (USTB)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "ECET",
+   "name": "Evercraft Ecotechnologies (ECET)",
+   "built_on": "MATIC"
+  },
+  {
+   "symbol": "MVERSE",
+   "name": "MindVerse (MVERSE)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "BANKETH",
+   "name": "BankEth (BANKETH)"
+  },
+  {
+   "symbol": "MERL",
+   "name": "Merlin Chain (MERL)"
+  },
+  {
+   "symbol": "SOWA",
+   "name": "Sowa AI (SOWA)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "GETH",
+   "name": "Guarded Ether (GETH)"
+  },
+  {
+   "symbol": "MVPC",
+   "name": "MVP Coin (MVPC)"
+  },
+  {
+   "symbol": "CHURRO",
+   "name": "CHURRO-The Jupiter Dog (CHURRO)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "LOKA",
+   "name": "League of Kingdoms (LOKA)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "XUV",
+   "name": "XUV Coin (XUV)"
+  },
+  {
+   "symbol": "KTN",
+   "name": "Kattana (KTN)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "CHEWY",
+   "name": "Chewy (CHEWY)",
+   "built_on": "APT"
+  },
+  {
+   "symbol": "MONONOKEINU",
+   "name": "Mononoke Inu (MONONOKEINU)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "AUCTION",
+   "name": "Bounce (AUCTION)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "5IRE",
+   "name": "5ire (5IRE)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "EQZ",
+   "name": "Equalizer (EQZ)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "NDS",
+   "name": "NodeStation AI (NDS)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "HGOLD",
+   "name": "HollyGold (HGOLD)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "NEX",
+   "name": "Nash Exchange (NEX)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "DAPPX",
+   "name": "dAppstore (DAPPX)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "WITCH",
+   "name": "Witch (WITCH)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "PYUSD",
+   "name": "PayPal USD (PYUSD)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "COT",
+   "name": "CoTrader (COT)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "UFI",
+   "name": "PureFi (UFI)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "GAINS",
+   "name": "Gains (GAINS)",
+   "built_on": "ETH"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "MONONOKEINU",
+   "name": "Mononoke Inu (MONONOKEINU)"
+  },
+  {
+   "symbol": "LOKA",
+   "name": "League of Kingdoms (LOKA)"
+  },
+  {
+   "symbol": "BANANAG",
+   "name": "Banana Gun (BANANAG)"
+  },
+  {
+   "symbol": "WHITE",
+   "name": "Whiteheart (WHITE)"
+  },
+  {
+   "symbol": "EQZ",
+   "name": "Equalizer (EQZ)"
+  },
+  {
+   "symbol": "GAINS",
+   "name": "Gains (GAINS)"
+  },
+  {
+   "symbol": "BLKC",
+   "name": "BlackHat Coin (BLKC)"
+  },
+  {
+   "symbol": "COT",
+   "name": "CoTrader (COT)"
+  },
+  {
+   "symbol": "PYUSD",
+   "name": "PayPal USD (PYUSD)"
+  },
+  {
+   "symbol": "DYP",
+   "name": "Dypius (DYP)"
+  },
+  {
+   "symbol": "HGOLD",
+   "name": "HollyGold (HGOLD)"
+  },
+  {
+   "symbol": "OVR",
+   "name": "Ovr (OVR)"
+  },
+  {
+   "symbol": "UFI",
+   "name": "PureFi (UFI)"
+  },
+  {
+   "symbol": "EVRY",
+   "name": "Evrynet (EVRY)"
+  },
+  {
+   "symbol": "AUCTION",
+   "name": "Bounce (AUCTION)"
+  },
+  {
+   "symbol": "USTC",
+   "name": "TerraClassicUSD (USTC)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "DAPPX",
+   "name": "dAppstore (DAPPX)"
+  },
+  {
+   "symbol": "WITCH",
+   "name": "Witch (WITCH)"
+  },
+  {
+   "symbol": "NEX",
+   "name": "Nash Exchange (NEX)"
+  },
+  {
+   "symbol": "CAST",
+   "name": "Castello Coin (CAST)"
+  },
+  {
+   "symbol": "KTN",
+   "name": "Kattana (KTN)"
+  },
+  {
+   "symbol": "CYC",
+   "name": "Cyclone Protocol (CYC)"
+  },
+  {
+   "symbol": "5IRE",
+   "name": "5ire (5IRE)"
+  }
+ ]
+}
