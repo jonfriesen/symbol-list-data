@@ -1,0 +1,369 @@
+{
+ "added": [
+  {
+   "symbol": "YODE",
+   "name": "YodeSwap (YODE)",
+   "built_on": "DOGE"
+  },
+  {
+   "symbol": "KALIS",
+   "name": "KALICHAIN (KALIS)"
+  },
+  {
+   "symbol": "BIST",
+   "name": "Bistroo (BIST)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "FRIES",
+   "name": "Soltato FRIES (FRIES)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "PEPY",
+   "name": "Pepy (PEPY)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "GPTPLUS",
+   "name": "GPTPlus (GPTPLUS)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "ZFLOKI",
+   "name": "zkFloki (ZFLOKI)",
+   "built_on": "ZKSYNC"
+  },
+  {
+   "symbol": "ADAPAD",
+   "name": "ADAPad (ADAPAD)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "SAFE",
+   "name": "Safe (SAFE)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "SAFECOIN",
+   "name": "SafeCoin (SAFECOIN)"
+  },
+  {
+   "symbol": "HBD",
+   "name": "Hive Dollar (HBD)",
+   "built_on": "HIVE"
+  },
+  {
+   "symbol": "BOOM",
+   "name": "BOOM DAO (BOOM)",
+   "built_on": "ICP"
+  },
+  {
+   "symbol": "FOFAR",
+   "name": "Fofar (FOFAR)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "ALAN",
+   "name": "Alan the Alien (ALAN)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "XY",
+   "name": "XY Finance (XY)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "XTRACK",
+   "name": "Xtrack AI (XTRACK)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "MEWSWIFHAT",
+   "name": "cats wif hats in a dogs world (MEWSWIFHAT)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "BOOMCOIN",
+   "name": "Boom Token (BOOMCOIN)"
+  },
+  {
+   "symbol": "WOS",
+   "name": "Wolf Of Solana (WOS)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "SWAI",
+   "name": "Safe Water AI (SWAI)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "LETSGO",
+   "name": "Lets Go Brandon (LETSGO)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "PERI",
+   "name": "PERI Finance (PERI)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "BIFIF",
+   "name": "BiFi (BIFIF)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "USTCW",
+   "name": "TerraClassicUSD Wormhole (USTCW)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "TUP",
+   "name": "Tenup (TUP)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "DPS",
+   "name": "DEEPSPACE (DPS)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "FGM",
+   "name": "Feels Good Man (FGM)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "OPCAT",
+   "name": "OPCAT (OPCAT)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "ALB",
+   "name": "Alien Base (ALB)",
+   "built_on": "BASECHAIN"
+  },
+  {
+   "symbol": "UNISTAKE",
+   "name": "Unistake (UNISTAKE)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "JOKERCOIN",
+   "name": "JokerCoin (JOKERCOIN)"
+  },
+  {
+   "symbol": "PUSSY",
+   "name": "Pussy Financial (PUSSY)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "PHAUNTEM",
+   "name": "Phauntem (PHAUNTEM)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "UST",
+   "name": "Wrapped UST Token (UST)"
+  },
+  {
+   "symbol": "MTLX",
+   "name": "Mettalex (MTLX)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "MAGATRUMP",
+   "name": "MAGA Trump (MAGATRUMP)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "KZEN",
+   "name": "Kaizen (KZEN)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "LUBE",
+   "name": "Joe Lube Coin (LUBE)",
+   "built_on": "LINEA"
+  },
+  {
+   "symbol": "GETH",
+   "name": "Guarded Ether (GETH)"
+  },
+  {
+   "symbol": "CATWARRIOR",
+   "name": "Cat warrior (CATWARRIOR)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "AURABAL",
+   "name": "Aura BAL (AURABAL)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "CINU",
+   "name": "CHEEMS INU (CINU)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "BOMA",
+   "name": "Book of Maga (BOMA)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "VATR",
+   "name": "Vatra INU (VATR)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "MEREDITH",
+   "name": "Taylor Swift's Cat MEREDITH (MEREDITH)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "VLXPAD",
+   "name": "VelasPad (VLXPAD)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "DTX",
+   "name": "DataBroker DAO (DTX)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "NERDS",
+   "name": "NERDS (NERDS)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "TEDDYV1",
+   "name": "Teddy Doge (TEDDYV1)"
+  },
+  {
+   "symbol": "MUMU",
+   "name": "Mumu (MUMU)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "BABYTROLL",
+   "name": "Baby Troll (BABYTROLL)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "PEPECAT",
+   "name": "PEPE CAT (PEPECAT)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "DOG",
+   "name": "The Doge NFT (DOG)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "XRUNE",
+   "name": "Thorstarter (XRUNE)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "BANK",
+   "name": "Float Protocol (BANK)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "TOLO",
+   "name": "Tolo Yacoloco (TOLO)",
+   "built_on": "SOL"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "DTX",
+   "name": "DataBroker DAO (DTX)"
+  },
+  {
+   "symbol": "KZEN",
+   "name": "Kaizen (KZEN)"
+  },
+  {
+   "symbol": "XRUNE",
+   "name": "Thorstarter (XRUNE)"
+  },
+  {
+   "symbol": "JOK",
+   "name": "JokerCoin (JOK)"
+  },
+  {
+   "symbol": "UNISTAKE",
+   "name": "Unistake (UNISTAKE)"
+  },
+  {
+   "symbol": "DPS",
+   "name": "DEEPSPACE (DPS)"
+  },
+  {
+   "symbol": "MTLX",
+   "name": "Mettalex (MTLX)"
+  },
+  {
+   "symbol": "SAFE",
+   "name": "SafeCoin (SAFE)"
+  },
+  {
+   "symbol": "TEDDYV2",
+   "name": "Teddy Doge v2 (TEDDYV2)"
+  },
+  {
+   "symbol": "BIST",
+   "name": "Bistroo (BIST)"
+  },
+  {
+   "symbol": "VLXPAD",
+   "name": "VelasPad (VLXPAD)"
+  },
+  {
+   "symbol": "MUMU",
+   "name": "Mumu (MUMU)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "UST",
+   "name": "Wrapped UST Token (UST)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "CINU",
+   "name": "CHEEMS INU (CINU)"
+  },
+  {
+   "symbol": "HBD",
+   "name": "Hive Dollar (HBD)"
+  },
+  {
+   "symbol": "ADAPAD",
+   "name": "ADAPad (ADAPAD)"
+  },
+  {
+   "symbol": "BIFIF",
+   "name": "BiFi (BIFIF)"
+  },
+  {
+   "symbol": "XY",
+   "name": "XY Finance (XY)"
+  },
+  {
+   "symbol": "BOOM",
+   "name": "Boom Token (BOOM)"
+  },
+  {
+   "symbol": "PUSSY",
+   "name": "Pussy Financial (PUSSY)"
+  },
+  {
+   "symbol": "PERI",
+   "name": "PERI Finance (PERI)"
+  },
+  {
+   "symbol": "TUP",
+   "name": "Tenup (TUP)"
+  }
+ ]
+}

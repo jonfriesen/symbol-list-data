@@ -1,0 +1,60 @@
+{
+ "added": [
+  {
+   "symbol": "NTB",
+   "name": "New Tymbal Resources Ltd.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "NTB.V",
+   "instruments": [
+    {
+     "name": "New Tymbal Resources Ltd.",
+     "symbol": "NTB"
+    }
+   ]
+  },
+  {
+   "symbol": "GIGC",
+   "name": "Guardian Investment Grade Corporate Bond Fund",
+   "exchange": "TSX",
+   "yahoo_symbol": "GIGC.TO",
+   "instruments": [
+    {
+     "name": "Guard Inv Gr CorpBnd",
+     "symbol": "GIGC"
+    }
+   ]
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "DSAQ",
+   "name": "Direct Selling Acquisition Corp. Class A Common Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "DSAQ"
+  },
+  {
+   "symbol": "AJXA",
+   "name": "Great Ajax Corp. 7.25% Convertible Senior Notes due 2024",
+   "exchange": "NYSE",
+   "yahoo_symbol": "AJXA"
+  },
+  {
+   "symbol": "TYMB",
+   "name": "Tymbal Resources Ltd.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "TYMB.V",
+   "instruments": [
+    {
+     "name": "Tymbal Resources Ltd.",
+     "symbol": "TYMB"
+    }
+   ]
+  },
+  {
+   "symbol": "DSAQ.U",
+   "name": "Direct Selling Acquisition Corp. Units, each consisting of one share of Class A common stock and one-half of redeemable warrant",
+   "exchange": "NYSE",
+   "yahoo_symbol": "DSAQ.U"
+  }
+ ]
+}
