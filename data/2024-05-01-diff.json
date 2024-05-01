@@ -1,0 +1,120 @@
+{
+ "added": [
+  {
+   "symbol": "PSTR",
+   "name": "PeakShares Sector Rotation ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "PSTR"
+  },
+  {
+   "symbol": "YAY",
+   "name": "THS Maple Holdings Ltd.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "YAY.V",
+   "instruments": [
+    {
+     "name": "THS Maple Holdings Ltd.",
+     "symbol": "YAY"
+    }
+   ]
+  },
+  {
+   "symbol": "PPLN",
+   "name": "Global X Pipelines \u0026 Energy Services Index ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "PPLN.TO",
+   "instruments": [
+    {
+     "name": "Horizn PplnEngyServA",
+     "symbol": "PPLN"
+    }
+   ]
+  },
+  {
+   "symbol": "VIK",
+   "name": "Viking Holdings Ltd Ordinary Shares",
+   "exchange": "NYSE",
+   "yahoo_symbol": "VIK"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "FUV",
+   "name": "Arcimoto, Inc. - Common Stock",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "FUV"
+  },
+  {
+   "symbol": "FHN$D",
+   "name": "First Horizon Corporation Depositary Shares, each representing a 1/400th interest in a share of Non-Cumulative Perpetual Preferred Stock, Series D",
+   "exchange": "NYSE",
+   "yahoo_symbol": "FHN$D"
+  },
+  {
+   "symbol": "YAY.P",
+   "name": "Toronto CleanTech Capital Inc.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "YAY.P.V",
+   "instruments": [
+    {
+     "name": "Toronto Cleantech Capital Inc.",
+     "symbol": "YAY.P"
+    }
+   ]
+  },
+  {
+   "symbol": "IBACU",
+   "name": "IB Acquisition Corp. - Unit",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "IBACU"
+  },
+  {
+   "symbol": "C",
+   "name": "Contact Gold Corp.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "C.V",
+   "instruments": [
+    {
+     "name": "Contact Gold Corp.",
+     "symbol": "C"
+    }
+   ]
+  },
+  {
+   "symbol": "PGSS",
+   "name": "Pegasus Digital Mobility Acquisition Corp. Class A Ordinary Shares",
+   "exchange": "NYSE",
+   "yahoo_symbol": "PGSS"
+  },
+  {
+   "symbol": "PGSS.U",
+   "name": "Pegasus Digital Mobility Acquisition Corp. Units",
+   "exchange": "NYSE",
+   "yahoo_symbol": "PGSS.U"
+  },
+  {
+   "symbol": "PGSS.W",
+   "name": "Pegasus Digital Mobility Acquisition Corp. Redeemable Warrants",
+   "exchange": "NYSE",
+   "yahoo_symbol": "PGSS.W"
+  },
+  {
+   "symbol": "EGOX",
+   "name": "Next.e.GO N.V. - Ordinary Shares",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "EGOX"
+  },
+  {
+   "symbol": "HOG",
+   "name": "Horizons Pipelines \u0026 Energy Services Index ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "HOG.TO",
+   "instruments": [
+    {
+     "name": "Horizn PplnEngyServA",
+     "symbol": "HOG"
+    }
+   ]
+  }
+ ]
+}

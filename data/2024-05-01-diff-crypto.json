@@ -1,0 +1,370 @@
+{
+ "added": [
+  {
+   "symbol": "XROOTAI",
+   "name": "XRootAI (XROOTAI)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "SOLNIC",
+   "name": "Solnic (SOLNIC)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "DOG",
+   "name": "The Doge NFT (DOG)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "TWOCAT",
+   "name": "TwoTalkingCats (TWOCAT)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "OGPU",
+   "name": "OPEN GPU (OGPU)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "KMNO",
+   "name": "Kamino (KMNO)"
+  },
+  {
+   "symbol": "DAVINCI",
+   "name": "Davincigraph (DAVINCI)",
+   "built_on": "HBAR"
+  },
+  {
+   "symbol": "INOVAI",
+   "name": "INOVAI (INOVAI)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "MNTA",
+   "name": "MantaDAO (MNTA)"
+  },
+  {
+   "symbol": "MBAPEPE",
+   "name": "MBAPEPE (MBAPEPE)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "KIT",
+   "name": "Kitsune (KIT)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "OTTERSPACE",
+   "name": "Otter Space (OTTERSPACE)",
+   "built_on": "BASECHAIN"
+  },
+  {
+   "symbol": "OXN",
+   "name": "0xNumber (OXN)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "SHORK",
+   "name": "shork (SHORK)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "WISP",
+   "name": "Whisper (WISP)",
+   "built_on": "ZKSYNC"
+  },
+  {
+   "symbol": "FXST",
+   "name": "FX Stock Token (FXST)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "BCLAT",
+   "name": "BOMBOCLAT (BCLAT)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "QRO",
+   "name": "Querio (QRO)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "BABYBTC",
+   "name": "BABYBTC (BABYBTC)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "BULLYINGCAT",
+   "name": "Bullying Cat (BULLYINGCAT)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "GTTM",
+   "name": "Going To The Moon (GTTM)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "CRUIZ",
+   "name": "Cruiz (CRUIZ)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "BNBBONK",
+   "name": "BNB BONK (BNBBONK)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "BODOG",
+   "name": "Book of Doge (BODOG)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "CATEX",
+   "name": "CATEX (CATEX)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "BOYSCLUB",
+   "name": "Matt Furie's Boys Club (BOYSCLUB)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "COMEW",
+   "name": "Coin In Meme World (COMEW)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "HOTKEY",
+   "name": "HotKeySwap (HOTKEY)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "CREW",
+   "name": "CREW INU (CREW)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "JELLI",
+   "name": "JELLI (JELLI)",
+   "built_on": "BASECHAIN"
+  },
+  {
+   "symbol": "FLOKA",
+   "name": "FLOKA (FLOKA)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "TRYHARDS",
+   "name": "TryHards (TRYHARDS)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "LOE",
+   "name": "Legends of Elysium (LOE)",
+   "built_on": "MATIC"
+  },
+  {
+   "symbol": "WZETA",
+   "name": "Wrapped Zeta (WZETA)",
+   "built_on": "ZETA"
+  },
+  {
+   "symbol": "AWP",
+   "name": "Ansem Wif Photographer (AWP)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "VAMPIRE",
+   "name": "Vampire Inu (VAMPIRE)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "REZ",
+   "name": "Renzo (REZ)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "CONDO",
+   "name": "CONDO (CONDO)",
+   "built_on": "BASECHAIN"
+  },
+  {
+   "symbol": "SBEFE",
+   "name": "BEFE (SBEFE)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "2MOON",
+   "name": "The Moon Metaverse (2MOON)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "SOLALA",
+   "name": "Solala (SOLALA)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "WCKB",
+   "name": "Wrapped Nervos Network (WCKB)",
+   "built_on": "CKB"
+  },
+  {
+   "symbol": "B01",
+   "name": "b0rder1ess (B01)",
+   "built_on": "MATIC"
+  },
+  {
+   "symbol": "STZETA",
+   "name": "ZetaEarn (STZETA)",
+   "built_on": "ZETA"
+  },
+  {
+   "symbol": "GRAI",
+   "name": "Gravita Protocol (GRAI)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "KENKA",
+   "name": "KENKA METAVERSE (KENKA)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "BZET",
+   "name": "Bzetcoin (BZET)"
+  },
+  {
+   "symbol": "BUF",
+   "name": "Buftoad (BUF)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "RATWIF",
+   "name": "RatWifHat (RATWIF)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "WCAT",
+   "name": "Sol Cat Warrior (WCAT)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "G",
+   "name": "GRN Grid (G)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "BANKETH",
+   "name": "BankEth (BANKETH)"
+  },
+  {
+   "symbol": "BLBY",
+   "name": "Badluckbaby (BLBY)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "CATME",
+   "name": "ELON’S CAT (CATME)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "JIZZUS",
+   "name": "JIZZUS CHRIST (JIZZUS)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "MTGX",
+   "name": "Montage Token (MTGX)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "MAGACAT",
+   "name": "MAGACAT (MAGACAT)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "APD",
+   "name": "Aptopad (APD)",
+   "built_on": "APT"
+  },
+  {
+   "symbol": "MSTETH",
+   "name": "Eigenpie mstETH (MSTETH)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "DETENSOR",
+   "name": "DeTensor (DETENSOR)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "GOLDCAT",
+   "name": "GOLD CAT (GOLDCAT)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "SPONGEBOB",
+   "name": "Spongebob Squarepants (SPONGEBOB)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "DONUTS",
+   "name": "The Simpsons (DONUTS)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "PMR",
+   "name": "Pomerium Utility Token (PMR)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "TONALD",
+   "name": "Tonald Trump (TONALD)",
+   "built_on": "TONCOIN"
+  },
+  {
+   "symbol": "WZEDX",
+   "name": "Wrapped Zedxion (WZEDX)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "AXO",
+   "name": "Axo (AXO)",
+   "built_on": "ADA"
+  },
+  {
+   "symbol": "WFLAMA",
+   "name": "WIFLAMA (WFLAMA)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "AIMR",
+   "name": "MeromAI (AIMR)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "TOLYCAT",
+   "name": "Toly's Cat (TOLYCAT)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "GENOME",
+   "name": "GenomesDao (GENOME)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "BOCA",
+   "name": "BookOfPussyCats (BOCA)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "SOLY",
+   "name": "Solamander (SOLY)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "MARGA",
+   "name": "Margaritis (MARGA)",
+   "built_on": "TONCOIN"
+  }
+ ]
+}
