@@ -1,0 +1,29 @@
+{
+ "added": [
+  {
+   "symbol": "DOPE",
+   "name": "DopeCoin (DOPE)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "DOG",
+   "name": "The Doge NFT (DOG)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "BANK",
+   "name": "Float Protocol (BANK)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "GETH",
+   "name": "Guarded Ether (GETH)"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "DOPE",
+   "name": "DopeCoin (DOPE)"
+  }
+ ]
+}

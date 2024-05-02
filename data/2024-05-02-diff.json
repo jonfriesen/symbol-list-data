@@ -1,0 +1,114 @@
+{
+ "added": [
+  {
+   "symbol": "AFMD",
+   "name": "Affimed N.V. - Common Stock",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "AFMD"
+  },
+  {
+   "symbol": "ERNZ",
+   "name": "TrueShares Active Yield ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "ERNZ"
+  },
+  {
+   "symbol": "IBAC",
+   "name": "IB Acquisition Corp. - Common Stock",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "IBAC"
+  },
+  {
+   "symbol": "IBACR",
+   "name": "IB Acquisition Corp. - Right",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "IBACR"
+  },
+  {
+   "symbol": "SHMD",
+   "name": "SCHMID Group N.V. - Class A Ordinary Shares",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "SHMD"
+  },
+  {
+   "symbol": "SHMDW",
+   "name": "SCHMID Group N.V. - Warrants",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "SHMDW"
+  },
+  {
+   "symbol": "WEEI",
+   "name": "Westwood Salient Enhanced Energy Income ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "WEEI"
+  },
+  {
+   "symbol": "KTRI",
+   "name": "Kootenay Resources Inc.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "KTRI.V",
+   "instruments": [
+    {
+     "name": "Kootenay Resources Inc.",
+     "symbol": "KTRI"
+    }
+   ]
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "AFMD",
+   "name": "Affimed N.V. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "AFMD"
+  },
+  {
+   "symbol": "LGVC",
+   "name": "LAMF Global Ventures Corp. I - Class A Ordinary Shares",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "LGVC"
+  },
+  {
+   "symbol": "TCN",
+   "name": "Tricon Residential Inc. Common Shares",
+   "exchange": "NYSE",
+   "yahoo_symbol": "TCN"
+  },
+  {
+   "symbol": "RACYW",
+   "name": "Relativity Acquisition Corp. - Warrant",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "RACYW"
+  },
+  {
+   "symbol": "LGVCU",
+   "name": "LAMF Global Ventures Corp. I - Unit",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "LGVCU"
+  },
+  {
+   "symbol": "RACY",
+   "name": "Relativity Acquisition Corp. - Class A Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "RACY"
+  },
+  {
+   "symbol": "LGVCW",
+   "name": "LAMF Global Ventures Corp. I - Warrant",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "LGVCW"
+  },
+  {
+   "symbol": "PXMD",
+   "name": "PaxMedica, Inc. - Common stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "PXMD"
+  },
+  {
+   "symbol": "RACYU",
+   "name": "Relativity Acquisition Corp. - Unit",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "RACYU"
+  }
+ ]
+}
