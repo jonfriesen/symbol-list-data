@@ -1,0 +1,90 @@
+{
+ "added": [
+  {
+   "symbol": "CCIXU",
+   "name": "Churchill Capital Corp IX - Unit",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "CCIXU"
+  },
+  {
+   "symbol": "ESGL",
+   "name": "ESGL Holdings Limited - Class A Ordinary Shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "ESGL"
+  },
+  {
+   "symbol": "ESGLW",
+   "name": "ESGL Holdings Limited - Warrants",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "ESGLW"
+  },
+  {
+   "symbol": "NUVO",
+   "name": "Holdco Nuvo Group D.G Ltd. - Ordinary Shares",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "NUVO"
+  },
+  {
+   "symbol": "NUVOW",
+   "name": "Holdco Nuvo Group D.G Ltd. - Warrants",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "NUVOW"
+  },
+  {
+   "symbol": "SOWG",
+   "name": "Sow Good Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "SOWG"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "ESGL",
+   "name": "ESGL Holdings Limited - Class A Ordinary Shares",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "ESGL"
+  },
+  {
+   "symbol": "PXD",
+   "name": "Pioneer Natural Resources Company Common Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "PXD"
+  },
+  {
+   "symbol": "ESGLW",
+   "name": "ESGL Holdings Limited - Warrants",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "ESGLW"
+  },
+  {
+   "symbol": "SAVAW",
+   "name": "Cassava Sciences, Inc. - Warrant",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "SAVAW"
+  },
+  {
+   "symbol": "AEL",
+   "name": "American Equity Investment Life Holding Company Common Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "AEL"
+  },
+  {
+   "symbol": "TCN",
+   "name": "Tricon Residential Inc.",
+   "exchange": "TSX",
+   "yahoo_symbol": "TCN.TO",
+   "instruments": [
+    {
+     "name": "Tricon Residential ",
+     "symbol": "TCN"
+    }
+   ]
+  },
+  {
+   "symbol": "NS",
+   "name": "Nustar Energy L.P.  Common Units",
+   "exchange": "NYSE",
+   "yahoo_symbol": "NS"
+  }
+ ]
+}

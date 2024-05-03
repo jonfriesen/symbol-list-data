@@ -1,0 +1,365 @@
+{
+ "added": [
+  {
+   "symbol": "UIBT",
+   "name": "Unibit (UIBT)",
+   "built_on": "ARB"
+  },
+  {
+   "symbol": "NUUM",
+   "name": "MNet (NUUM)"
+  },
+  {
+   "symbol": "GFOX",
+   "name": "Galaxy Fox (GFOX)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "MANIA",
+   "name": "ScapesMania (MANIA)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "FTHM",
+   "name": "Fathom Protocol (FTHM)",
+   "built_on": "XDC"
+  },
+  {
+   "symbol": "BUIDL",
+   "name": "Starter.xyz (BUIDL)",
+   "built_on": "BASECHAIN"
+  },
+  {
+   "symbol": "MEMERUNE",
+   "name": "MEME•ECONOMICS (MEMERUNE)",
+   "built_on": "BTC"
+  },
+  {
+   "symbol": "EQ9",
+   "name": "EQ9 (EQ9)",
+   "built_on": "MATIC"
+  },
+  {
+   "symbol": "DONGO",
+   "name": "Dongo AI (DONGO)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "WKAS",
+   "name": "Wrapped Kaspa (WKAS)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "DUBX",
+   "name": "DUBXCOIN (DUBX)"
+  },
+  {
+   "symbol": "BABYRWA",
+   "name": "BabyRWA (BABYRWA)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "DOPECOIN",
+   "name": "DopeCoin (DOPECOIN)"
+  },
+  {
+   "symbol": "KAIJU",
+   "name": "KAIJUNO8 (KAIJU)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "SNORT",
+   "name": "SNORT (SNORT)",
+   "built_on": "BASECHAIN"
+  },
+  {
+   "symbol": "WGLMR",
+   "name": "Wrapped Moonbeam (WGLMR)",
+   "built_on": "GLMR"
+  },
+  {
+   "symbol": "PYRV1",
+   "name": "Vulcan Forged v1 (PYRV1)"
+  },
+  {
+   "symbol": "PONCHO",
+   "name": "Poncho (PONCHO)",
+   "built_on": "BASECHAIN"
+  },
+  {
+   "symbol": "NAZA",
+   "name": "NAZA (NAZA)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "NEGED",
+   "name": "Neged (NEGED)",
+   "built_on": "BASECHAIN"
+  },
+  {
+   "symbol": "NSO",
+   "name": "NeverSurrenderOne's (NSO)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "PIIN",
+   "name": "piin (Ordinals) (PIIN)",
+   "built_on": "BTC"
+  },
+  {
+   "symbol": "WXDC",
+   "name": "Wrapped XDC (WXDC)",
+   "built_on": "XDC"
+  },
+  {
+   "symbol": "SYNO",
+   "name": "Synonym Finance (SYNO)",
+   "built_on": "ARB"
+  },
+  {
+   "symbol": "TGRAM",
+   "name": "TG20 TGram (TGRAM)",
+   "built_on": "TONCOIN"
+  },
+  {
+   "symbol": "KMNO",
+   "name": "Kamino (KMNO)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "STAY",
+   "name": "NFsTay (STAY)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "PIA",
+   "name": "Olympia AI (PIA)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "BABYSOL",
+   "name": "Baby Solana (BABYSOL)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "MASSA",
+   "name": "Massa (MASSA)"
+  },
+  {
+   "symbol": "LBM",
+   "name": "Libertum (LBM)",
+   "built_on": "BASECHAIN"
+  },
+  {
+   "symbol": "MCUSD",
+   "name": "Moola Celo USD (MCUSD)",
+   "built_on": "CELO"
+  },
+  {
+   "symbol": "ORFY",
+   "name": "Ordify (ORFY)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "PRZS",
+   "name": "Perezoso (PRZS)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "VCAT",
+   "name": "Vibing Cat (VCAT)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "XBNB",
+   "name": "PhoenixBNB (XBNB)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "DJT",
+   "name": "Save America (DJT)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "AIKEK",
+   "name": "AlphaKEK.AI (AIKEK)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "LORGY",
+   "name": "Memeolorgy (LORGY)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "BANKETH",
+   "name": "BankEth (BANKETH)"
+  },
+  {
+   "symbol": "GARFIELD",
+   "name": "Garfield Cat (GARFIELD)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "TIGRA",
+   "name": "Tigra (TIGRA)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "NEADRAM",
+   "name": "The Ennead (NEADRAM)",
+   "built_on": "ARB"
+  },
+  {
+   "symbol": "STORE",
+   "name": "Bit Store (STORE)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "RAFF",
+   "name": "Ton Raffles (RAFF)",
+   "built_on": "TONCOIN"
+  },
+  {
+   "symbol": "COZY",
+   "name": "Cozy Pepe (COZY)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "XNP",
+   "name": "ExenPay Token (XNP)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "SPAD",
+   "name": "SolPad (SPAD)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "BRAWL",
+   "name": "BitBrawl (BRAWL)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "LAPTOP",
+   "name": "Hunter Biden's Laptop (LAPTOP)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "BOSOL",
+   "name": "Book of Solana (BOSOL)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "LLT",
+   "name": "LILLIUS (LLT)",
+   "built_on": "MATIC"
+  },
+  {
+   "symbol": "YOM",
+   "name": "YOM (YOM)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "MAJO",
+   "name": "Majo (MAJO)",
+   "built_on": "BTC"
+  },
+  {
+   "symbol": "OME",
+   "name": "o-mee (OME)",
+   "built_on": "MATIC"
+  },
+  {
+   "symbol": "PEPEWIFHAT",
+   "name": "Pepewifhat (PEPEWIFHAT)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "G",
+   "name": "GRN Grid (G)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "MSTAR",
+   "name": "MerlinStarter (MSTAR)"
+  },
+  {
+   "symbol": "DVK",
+   "name": "Devikins (DVK)",
+   "built_on": "KLV"
+  },
+  {
+   "symbol": "MEMD",
+   "name": "MemeDAO (MEMD)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "DOG",
+   "name": "The Doge NFT (DOG)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "AIRB",
+   "name": "BillionAir (AIRB)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "DCM",
+   "name": "Ducky City (DCM)",
+   "built_on": "BASECHAIN"
+  },
+  {
+   "symbol": "LNDRR",
+   "name": "Lendr Network (LNDRR)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "CHEERS",
+   "name": "DICAPRIO CHEERS (CHEERS)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "TPRO",
+   "name": "TPRO Network (TPRO)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "LOWQ",
+   "name": "lowq frends (LOWQ)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "DPLN",
+   "name": "DePlan (DPLN)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "RIDE",
+   "name": "Holoride (RIDE)",
+   "built_on": "EGLD"
+  },
+  {
+   "symbol": "TEQ",
+   "name": "Teq Network (TEQ)",
+   "built_on": "ETH"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "STORE",
+   "name": "Bit Store (STORE)"
+  },
+  {
+   "symbol": "KMNO",
+   "name": "Kamino (KMNO)"
+  },
+  {
+   "symbol": "MCUSD",
+   "name": "Moola Celo USD (MCUSD)"
+  },
+  {
+   "symbol": "RIDE",
+   "name": "Holoride (RIDE)"
+  }
+ ]
+}
