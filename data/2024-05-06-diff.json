@@ -1,0 +1,84 @@
+{
+ "added": [
+  {
+   "symbol": "AGMI",
+   "name": "Themes Silver Miners ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "AGMI"
+  },
+  {
+   "symbol": "MESA",
+   "name": "Mesa Air Group, Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "MESA"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "FPL",
+   "name": "First Trust New Opportunities MLP \u0026 Energy Fund Common Shares of Beneficial Interest",
+   "exchange": "NYSE",
+   "yahoo_symbol": "FPL"
+  },
+  {
+   "symbol": "MESA",
+   "name": "Mesa Air Group, Inc. - Common Stock",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "MESA"
+  },
+  {
+   "symbol": "NB",
+   "name": "NioCorp Developments Ltd.",
+   "exchange": "TSX",
+   "yahoo_symbol": "NB.TO",
+   "instruments": [
+    {
+     "name": "NioCorp Dev Ltd. J",
+     "symbol": "NB"
+    }
+   ]
+  },
+  {
+   "symbol": "CONXU",
+   "name": "CONX Corp. - Unit",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "CONXU"
+  },
+  {
+   "symbol": "FIF",
+   "name": "First Trust Energy Infrastructure Fund Common Shares of Beneficial Interest",
+   "exchange": "NYSE",
+   "yahoo_symbol": "FIF"
+  },
+  {
+   "symbol": "FEI",
+   "name": "First Trust MLP and Energy Income Fund Common Shares of Beneficial Interest",
+   "exchange": "NYSE",
+   "yahoo_symbol": "FEI"
+  },
+  {
+   "symbol": "CONX",
+   "name": "CONX Corp. - Class A Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "CONX"
+  },
+  {
+   "symbol": "CONXW",
+   "name": "CONX Corp. - Warrant",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "CONXW"
+  },
+  {
+   "symbol": "FEN",
+   "name": "First Trust Energy Income and Growth Fund",
+   "exchange": "NYSE MKT",
+   "yahoo_symbol": "FEN"
+  },
+  {
+   "symbol": "SMMF",
+   "name": "Summit Financial Group, Inc. - Common Stock",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "SMMF"
+  }
+ ]
+}

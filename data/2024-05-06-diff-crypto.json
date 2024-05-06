@@ -1,0 +1,221 @@
+{
+ "added": [
+  {
+   "symbol": "EMRLD",
+   "name": "The Emerald Company (EMRLD)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "WCFX",
+   "name": "Wrapped Conflux (WCFX)",
+   "built_on": "CFX"
+  },
+  {
+   "symbol": "TMNG",
+   "name": "TMN Global (TMNG)",
+   "built_on": "MATIC"
+  },
+  {
+   "symbol": "NEXUSAI",
+   "name": "NexusAI (NEXUSAI)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "TADA",
+   "name": "Ta-da (TADA)",
+   "built_on": "EGLD"
+  },
+  {
+   "symbol": "QAI",
+   "name": "QuantixAI (QAI)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "RSG",
+   "name": "RSG TOKEN (RSG)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "MOCHICAT",
+   "name": "MochiCat (MOCHICAT)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "USH",
+   "name": "unshETHing_Token (USH)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "ZEND",
+   "name": "zkLend (ZEND)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "BDROP",
+   "name": "BlockDrop (BDROP)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "NUC",
+   "name": "NuCoin (NUC)"
+  },
+  {
+   "symbol": "MK",
+   "name": "Meme Kombat (MK)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "GGMT",
+   "name": "GG MetaGame (GGMT)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "ROM",
+   "name": "ROMCOIN (ROM)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "SOH",
+   "name": "Stohn Coin (SOH)"
+  },
+  {
+   "symbol": "MEMAGX",
+   "name": "Meta Masters Guild Games (MEMAGX)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "UNIETH",
+   "name": "Universal ETH (UNIETH)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "LUAUSD",
+   "name": "Lumi Finance (LUAUSD)",
+   "built_on": "ARB"
+  },
+  {
+   "symbol": "SIXPACK",
+   "name": "SIXPACK (SIXPACK)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "RDDT",
+   "name": "Reddit (RDDT)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "XCDOT",
+   "name": "xcDOT (XCDOT)",
+   "built_on": "GLMR"
+  },
+  {
+   "symbol": "BANK",
+   "name": "Float Protocol (BANK)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "WELSH",
+   "name": "Welshcorgicoin (WELSH)",
+   "built_on": "STX"
+  },
+  {
+   "symbol": "PLANE",
+   "name": "Paper Plane (PLANE)",
+   "built_on": "TONCOIN"
+  },
+  {
+   "symbol": "DIRTY",
+   "name": "Dirty Street Cats (DIRTY)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "MEH",
+   "name": "meh (MEH)",
+   "built_on": "TONCOIN"
+  },
+  {
+   "symbol": "DICK",
+   "name": "adDICKted (DICK)",
+   "built_on": "TONCOIN"
+  },
+  {
+   "symbol": "BD20",
+   "name": "BRC-20 DEX (BD20)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "TANPIN",
+   "name": "Tanpin (TANPIN)",
+   "built_on": "MATIC"
+  },
+  {
+   "symbol": "CHET",
+   "name": "ChetGPT (CHET)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "EPEP",
+   "name": "Epep (EPEP)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "TPU",
+   "name": "TensorSpace (TPU)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "SHRIMP",
+   "name": "SHRIMP (SHRIMP)",
+   "built_on": "APT"
+  },
+  {
+   "symbol": "SORAI",
+   "name": "Sora AI (SORAI)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "GETH",
+   "name": "Guarded Ether (GETH)"
+  },
+  {
+   "symbol": "LOAF",
+   "name": "LOAF CAT (LOAF)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "INTELLIQUE",
+   "name": "KARASOU (INTELLIQUE)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "BORKIE",
+   "name": "Borkie (BORKIE)",
+   "built_on": "BASECHAIN"
+  },
+  {
+   "symbol": "RTF",
+   "name": "Ready to Fight (RTF)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "DOG",
+   "name": "The Doge NFT (DOG)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "HEGE",
+   "name": "Hege (HEGE)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "TRUNK",
+   "name": "Elephant Money (TRUNK)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "ISME",
+   "name": "Root Protocol (ISME)",
+   "built_on": "ETH"
+  }
+ ]
+}
