@@ -1,0 +1,42 @@
+{
+ "added": [
+  {
+   "symbol": "CIAI",
+   "name": "CI Global Artificial Intelligence ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "CIAI.TO",
+   "instruments": [
+    {
+     "name": "CI ArtInt ETF C$SRUN",
+     "symbol": "CIAI"
+    }
+   ]
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "OMQS",
+   "name": "OMNIQ Corp. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "OMQS"
+  },
+  {
+   "symbol": "NU",
+   "name": "NeutriSci International Inc.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "NU.V",
+   "instruments": [
+    {
+     "name": "NeutriSci International Inc.",
+     "symbol": "NU"
+    }
+   ]
+  },
+  {
+   "symbol": "AGTI",
+   "name": "Agiliti, Inc. Common Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "AGTI"
+  }
+ ]
+}

@@ -1,0 +1,267 @@
+{
+ "added": [
+  {
+   "symbol": "BENTO",
+   "name": "Bento (BENTO)",
+   "built_on": "BASECHAIN"
+  },
+  {
+   "symbol": "NIPPY",
+   "name": "Cat On Catnip (NIPPY)",
+   "built_on": "BASECHAIN"
+  },
+  {
+   "symbol": "WARPIE",
+   "name": "Warpie (WARPIE)",
+   "built_on": "BASECHAIN"
+  },
+  {
+   "symbol": "KARRAT",
+   "name": "KARRAT (KARRAT)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "SMX",
+   "name": "Snapmuse.io (SMX)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "PONZI",
+   "name": "Ponzi (PONZI)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "HYCO",
+   "name": "HYPERCOMIC (HYCO)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "CRYO",
+   "name": "CryoDAO (CRYO)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "IKI",
+   "name": "ikipay (IKI)",
+   "built_on": "TRX"
+  },
+  {
+   "symbol": "SHIB1",
+   "name": "Shib1 (SHIB1)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "BLKC",
+   "name": "BlackHat Coin (BLKC)"
+  },
+  {
+   "symbol": "RMK",
+   "name": "KIM YONG EN (RMK)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "VDT",
+   "name": "Vendetta (VDT)",
+   "built_on": "MATIC"
+  },
+  {
+   "symbol": "CLNX",
+   "name": "Coloniume Network (CLNX)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "SYN",
+   "name": "Synapse (SYN)"
+  },
+  {
+   "symbol": "TONY",
+   "name": "TONY THE DUCK (TONY)",
+   "built_on": "TONCOIN"
+  },
+  {
+   "symbol": "FUNGI",
+   "name": "Fungi (FUNGI)",
+   "built_on": "BASECHAIN"
+  },
+  {
+   "symbol": "MADPEPE",
+   "name": "Mad Pepe (MADPEPE)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "PATEK",
+   "name": "Silly Patek (PATEK)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "DOG",
+   "name": "The Doge NFT (DOG)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "GCAT",
+   "name": "Giga Cat on Base (GCAT)",
+   "built_on": "BASECHAIN"
+  },
+  {
+   "symbol": "STBOT",
+   "name": "SolTradingBot (STBOT)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "DOGEGROK",
+   "name": "Doge Grok (DOGEGROK)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "HMM",
+   "name": "HMM (HMM)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "UDS",
+   "name": "Undeads Games (UDS)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "SKO",
+   "name": "Sugar Kingdom Odyssey (SKO)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "APPA",
+   "name": "Dappad (APPA)",
+   "built_on": "ZKSYNC"
+  },
+  {
+   "symbol": "OBICOIN",
+   "name": "OBI Real Estate (OBICOIN)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "BARRON",
+   "name": "Time Traveler (BARRON)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "FROGO",
+   "name": "Frogo (FROGO)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "BADCAT",
+   "name": "Andy’s Alter Ego (BADCAT)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "AGG",
+   "name": "AGG (AGG)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "KEEMJONG",
+   "name": "KEEM JONG UNN (KEEMJONG)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "SOLBULL",
+   "name": "SOLBULL (SOLBULL)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "SSNC",
+   "name": "SatoshiSync (SSNC)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "DOBEN",
+   "name": "dark boden (DOBEN)"
+  },
+  {
+   "symbol": "Y8U",
+   "name": "Y8U (Y8U)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "GIOVE",
+   "name": "GIOVE (GIOVE)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "STTON",
+   "name": "bemo staked TON (STTON)",
+   "built_on": "TONCOIN"
+  },
+  {
+   "symbol": "CAKE",
+   "name": "PancakeSwap (CAKE)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "CDCETH",
+   "name": "Crypto.com Staked ETH (CDCETH)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "BANK",
+   "name": "Float Protocol (BANK)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "PONGO",
+   "name": "Pongo (PONGO)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "BOZY",
+   "name": "Book of Crazy (BOZY)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "G",
+   "name": "GRN Grid (G)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "BABYGUMMY",
+   "name": "BABY GUMMY (BABYGUMMY)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "CYCAT",
+   "name": "Chi Yamada Cat (CYCAT)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "FTG",
+   "name": "fantomGO (FTG)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "ORBIT",
+   "name": "Orbit Protocol (ORBIT)",
+   "built_on": "BLAST"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "CAKE",
+   "name": "PancakeSwap (CAKE)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "SYN",
+   "name": "Synapse (SYN)",
+   "built_on": "OP"
+  },
+  {
+   "symbol": "BLKC",
+   "name": "BlackHat Coin (BLKC)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "FTG",
+   "name": "fantomGO (FTG)"
+  }
+ ]
+}
