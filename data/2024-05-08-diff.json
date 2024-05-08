@@ -1,0 +1,106 @@
+{
+ "added": [
+  {
+   "symbol": "IS",
+   "name": "Infrastructure Dividend Split Corp.",
+   "exchange": "TSX",
+   "yahoo_symbol": "IS.TO",
+   "instruments": [
+    {
+     "name": "Infr're DivSplit A U",
+     "symbol": "IS"
+    },
+    {
+     "name": "Infr're DivSplit PrS",
+     "symbol": "IS.PR.A"
+    }
+   ]
+  },
+  {
+   "symbol": "IGTA",
+   "name": "Inception Growth Acquisition Limited - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "IGTA"
+  },
+  {
+   "symbol": "IGTAR",
+   "name": "Inception Growth Acquisition Limited - Rights",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "IGTAR"
+  },
+  {
+   "symbol": "IGTAU",
+   "name": "Inception Growth Acquisition Limited - Units",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "IGTAU"
+  },
+  {
+   "symbol": "IGTAW",
+   "name": "Inception Growth Acquisition Limited - Warrants",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "IGTAW"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "GOWC.P",
+   "name": "Can-Gow Capital Inc.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "GOWC.P.V",
+   "instruments": [
+    {
+     "name": "Can-Gow Capital Inc.",
+     "symbol": "GOWC.P"
+    }
+   ]
+  },
+  {
+   "symbol": "EFV",
+   "name": "EF EnergyFunders Ventures, Inc.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "EFV.V",
+   "instruments": [
+    {
+     "name": "EF EnergyFunders Ventures, Inc.",
+     "symbol": "EFV"
+    }
+   ]
+  },
+  {
+   "symbol": "IGTAR",
+   "name": "Inception Growth Acquisition Limited - Rights",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "IGTAR"
+  },
+  {
+   "symbol": "DVG",
+   "name": "Divergent Energy Services Corp.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "DVG.V",
+   "instruments": [
+    {
+     "name": "Divergent Energy Services Corp.",
+     "symbol": "DVG"
+    }
+   ]
+  },
+  {
+   "symbol": "IGTAW",
+   "name": "Inception Growth Acquisition Limited - Warrants",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "IGTAW"
+  },
+  {
+   "symbol": "IGTA",
+   "name": "Inception Growth Acquisition Limited - Common Stock",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "IGTA"
+  },
+  {
+   "symbol": "IGTAU",
+   "name": "Inception Growth Acquisition Limited - Units",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "IGTAU"
+  }
+ ]
+}

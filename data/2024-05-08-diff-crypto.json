@@ -1,0 +1,309 @@
+{
+ "added": [
+  {
+   "symbol": "COINVEST",
+   "name": "Coinvest (COINVEST)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "IOEN",
+   "name": "Internet of Energy Network (IOEN)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "RSIC",
+   "name": "RSIC•GENESIS•RUNE (RSIC)"
+  },
+  {
+   "symbol": "HAROLD",
+   "name": "Harold (HAROLD)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "DPS",
+   "name": "DEEPSPACE (DPS)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "GOOGLE",
+   "name": "Deepmind Ai (GOOGLE)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "EXVG",
+   "name": "Exverse (EXVG)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "BOBS",
+   "name": "Bob's Repair (BOBS)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "MEWING",
+   "name": "MEWING (MEWING)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "FJO",
+   "name": "Fjord Foundry (FJO)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "INTRO",
+   "name": "1INTRO (INTRO)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "KUSUNOKI",
+   "name": "Kusunoki Samurai (KUSUNOKI)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "PBUX",
+   "name": "Playbux (PBUX)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "WUF",
+   "name": "WUFFI (WUF)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "AVALOX",
+   "name": "AVALOX (AVALOX)",
+   "built_on": "AVAX"
+  },
+  {
+   "symbol": "CATGPT",
+   "name": "CatGPT (CATGPT)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "BITREWARDS",
+   "name": "BitRewards (BITREWARDS)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "POOWEL",
+   "name": "Joram Poowel (POOWEL)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "GCRE",
+   "name": "Gluwa Creditcoin Vesting Token (GCRE)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "CARLO",
+   "name": "Carlo (CARLO)",
+   "built_on": "BASECHAIN"
+  },
+  {
+   "symbol": "AXM",
+   "name": "Axiome (AXM)"
+  },
+  {
+   "symbol": "XRGB",
+   "name": "XRGB (XRGB)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "KHAI",
+   "name": "khai (KHAI)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "CRGPT",
+   "name": "CryptoGPT (CRGPT)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "VLXPAD",
+   "name": "VelasPad (VLXPAD)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "BRIUN",
+   "name": "Briun Armstrung (BRIUN)",
+   "built_on": "BASECHAIN"
+  },
+  {
+   "symbol": "ERIC",
+   "name": "Elon's Pet Fish ERIC (ERIC)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "PMOON",
+   "name": "Pookimoon (PMOON)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "SOLGUN",
+   "name": "Solgun (SOLGUN)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "CATA",
+   "name": "CATAMOTO (CATA)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "ARKY",
+   "name": "Arky (ARKY)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "DOG",
+   "name": "The Doge NFT (DOG)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "REFLECT",
+   "name": "REFLECT (REFLECT)",
+   "built_on": "BASECHAIN"
+  },
+  {
+   "symbol": "DOODOO",
+   "name": "Doodoo (DOODOO)",
+   "built_on": "APT"
+  },
+  {
+   "symbol": "THREE",
+   "name": "Three Protocol Token  (THREE)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "G",
+   "name": "GRN Grid (G)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "FLUFFYS",
+   "name": "Fluffys (FLUFFYS)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "BTR",
+   "name": "BTRIPS (BTR)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "COMAI",
+   "name": "Commune AI (COMAI)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "MZERO",
+   "name": "MetaZero (MZERO)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "CARTAXI",
+   "name": "CarTaxi (CARTAXI)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "EGON",
+   "name": "EgonCoin (EGON)"
+  },
+  {
+   "symbol": "ELGATO",
+   "name": "el gato (ELGATO)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "AIMARKET",
+   "name": "Acria.AI AIMARKET (AIMARKET)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "QUBIC",
+   "name": "Qubic (QUBIC)"
+  },
+  {
+   "symbol": "TOOKER",
+   "name": "tooker kurlson (TOOKER)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "PAWSTA",
+   "name": "dogeatingpasta (PAWSTA)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "MV",
+   "name": "GensoKishi Metaverse (MV)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "AUTHORSHIP",
+   "name": "Authorship (AUTHORSHIP)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "LL",
+   "name": "LightLink (LL)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "BOBE",
+   "name": "BOOK OF BILLIONAIRES (BOBE)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "WMN",
+   "name": "WebMind Network (WMN)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "BANKETH",
+   "name": "BankEth (BANKETH)"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "IOEN",
+   "name": "Internet of Energy Network (IOEN)"
+  },
+  {
+   "symbol": "VLXPAD",
+   "name": "VelasPad (VLXPAD)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "BTR",
+   "name": "BTRIPS (BTR)"
+  },
+  {
+   "symbol": "BITREWARDS",
+   "name": "BitRewards (BITREWARDS)"
+  },
+  {
+   "symbol": "DPS",
+   "name": "DEEPSPACE (DPS)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "CARTAXI",
+   "name": "CarTaxi (CARTAXI)"
+  },
+  {
+   "symbol": "MV",
+   "name": "GensoKishi Metaverse (MV)",
+   "built_on": "MATIC"
+  },
+  {
+   "symbol": "COINVEST",
+   "name": "Coinvest (COINVEST)"
+  },
+  {
+   "symbol": "BOBS",
+   "name": "Bob's Repair (BOBS)"
+  },
+  {
+   "symbol": "AUTHORSHIP",
+   "name": "Authorship (AUTHORSHIP)"
+  }
+ ]
+}
