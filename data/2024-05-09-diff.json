@@ -1,0 +1,244 @@
+{
+ "added": [
+  {
+   "symbol": "NNE",
+   "name": "Nano Nuclear Energy Inc. - common stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "NNE"
+  },
+  {
+   "symbol": "ONAU",
+   "name": "OnGold Resources Ltd.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "ONAU.V",
+   "instruments": [
+    {
+     "name": "OnGold Resources Ltd.",
+     "symbol": "ONAU"
+    }
+   ]
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "AIBBR",
+   "name": "AIB Acquisition Corporation - Right",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "AIBBR"
+  },
+  {
+   "symbol": "ETAO",
+   "name": "Etao International Co., Ltd. - Ordinary Shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "ETAO"
+  },
+  {
+   "symbol": "AIB",
+   "name": "AIB Acquisition Corporation - Class A Ordinary Shares",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "AIB"
+  },
+  {
+   "symbol": "VAXX",
+   "name": "Vaxxinity, Inc. - Class A Common Stock",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "VAXX"
+  },
+  {
+   "symbol": "AMR",
+   "name": "AM Resources Corp.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "AMR.V",
+   "instruments": [
+    {
+     "name": "AM Resources Corp.",
+     "symbol": "AMR"
+    }
+   ]
+  },
+  {
+   "symbol": "PEAS",
+   "name": "Global Food and Ingredients Ltd.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "PEAS.V",
+   "instruments": [
+    {
+     "name": "Global Food and Ingredients Ltd.",
+     "symbol": "PEAS"
+    }
+   ]
+  },
+  {
+   "symbol": "AFIB",
+   "name": "Acutus Medical, Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "AFIB"
+  },
+  {
+   "symbol": "AXM",
+   "name": "AXMIN Inc.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "AXM.V",
+   "instruments": [
+    {
+     "name": "AXMIN Inc.",
+     "symbol": "AXM"
+    }
+   ]
+  },
+  {
+   "symbol": "BECN",
+   "name": "Beacn Wizardry \u0026 Magic Inc.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "BECN.V",
+   "instruments": [
+    {
+     "name": "Beacn Wizardry \u0026 Magic Inc.",
+     "symbol": "BECN"
+    }
+   ]
+  },
+  {
+   "symbol": "GER",
+   "name": "Glen Eagle Resources Inc.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "GER.V",
+   "instruments": [
+    {
+     "name": "Glen Eagle Resources Inc",
+     "symbol": "GER"
+    }
+   ]
+  },
+  {
+   "symbol": "EP",
+   "name": "Empire Metals Corp.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "EP.V",
+   "instruments": [
+    {
+     "name": "Empire Metals Corp.",
+     "symbol": "EP"
+    }
+   ]
+  },
+  {
+   "symbol": "GMI",
+   "name": "Green Mining Innovation Inc.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "GMI.V",
+   "instruments": [
+    {
+     "name": "Green Mining Innovation Inc.",
+     "symbol": "GMI"
+    }
+   ]
+  },
+  {
+   "symbol": "JHC",
+   "name": "Jinhua Capital Corporation",
+   "exchange": "TSXV",
+   "yahoo_symbol": "JHC.V",
+   "instruments": [
+    {
+     "name": "Jinhua Capital Corporation",
+     "symbol": "JHC"
+    }
+   ]
+  },
+  {
+   "symbol": "CSPN",
+   "name": "CareSpan Health, Inc.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "CSPN.V",
+   "instruments": [
+    {
+     "name": "CareSpan Health, Inc.",
+     "symbol": "CSPN"
+    }
+   ]
+  },
+  {
+   "symbol": "GBLT",
+   "name": "GBLT Corp.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "GBLT.V",
+   "instruments": [
+    {
+     "name": "GBLT Corp.",
+     "symbol": "GBLT"
+    }
+   ]
+  },
+  {
+   "symbol": "AIP.U",
+   "name": "AIP Realty Trust",
+   "exchange": "TSXV",
+   "yahoo_symbol": "AIP.U.V",
+   "instruments": [
+    {
+     "name": "AIP Realty Trust",
+     "symbol": "AIP.U"
+    }
+   ]
+  },
+  {
+   "symbol": "AIBBU",
+   "name": "AIB Acquisition Corporation - Unit",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "AIBBU"
+  },
+  {
+   "symbol": "AEC",
+   "name": "Anfield Energy Inc.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "AEC.V",
+   "instruments": [
+    {
+     "name": "Anfield Energy Inc.",
+     "symbol": "AEC"
+    },
+    {
+     "name": "Anfield Energy Inc. wt 12May2027",
+     "symbol": "AEC.WT"
+    }
+   ]
+  },
+  {
+   "symbol": "RABI",
+   "name": "AdRabbit Limited",
+   "exchange": "TSXV",
+   "yahoo_symbol": "RABI.V",
+   "instruments": [
+    {
+     "name": "AdRabbit Limited",
+     "symbol": "RABI"
+    }
+   ]
+  },
+  {
+   "symbol": "ATW",
+   "name": "ATW Tech Inc.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "ATW.V",
+   "instruments": [
+    {
+     "name": "ATW Tech Inc.",
+     "symbol": "ATW"
+    }
+   ]
+  },
+  {
+   "symbol": "CLP.UN",
+   "name": "International Clean Power Dividend Fund",
+   "exchange": "TSX",
+   "yahoo_symbol": "CLP.UN.TO",
+   "instruments": [
+    {
+     "name": "Int'l CleanPwr DivUn",
+     "symbol": "CLP.UN"
+    }
+   ]
+  }
+ ]
+}

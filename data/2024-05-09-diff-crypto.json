@@ -1,0 +1,258 @@
+{
+ "added": [
+  {
+   "symbol": "LOBO",
+   "name": "LOBO•THE•WOLF•PUP (LOBO)",
+   "built_on": "BTC"
+  },
+  {
+   "symbol": "CHUMP",
+   "name": "Chump Change (CHUMP)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "BOBAOPPA",
+   "name": "Bobaoppa (BOBAOPPA)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "DLORD",
+   "name": "DORK LORD (DLORD)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "1EX",
+   "name": "1ex Trading Board (1EX)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "XSWAP",
+   "name": "XSwap (XSWAP)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "CRYPTOPRO",
+   "name": "CryptoProfile (CRYPTOPRO)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "STRK",
+   "name": "Strike (STRK)"
+  },
+  {
+   "symbol": "GETH",
+   "name": "Guarded Ether (GETH)"
+  },
+  {
+   "symbol": "JOWNES",
+   "name": "Alux Jownes (JOWNES)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "FRBK",
+   "name": " FreeBnk (FRBK)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "POPDOG",
+   "name": "PopDog (POPDOG)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "RGAME",
+   "name": "RGAMES (RGAME)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "COUNOSH",
+   "name": "Counos H (COUNOSH)"
+  },
+  {
+   "symbol": "POKKY",
+   "name": "Pokky Cat (POKKY)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "MATAR",
+   "name": "MATAR AI (MATAR)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "FIRECOIN",
+   "name": "FireCoin (FIRECOIN)"
+  },
+  {
+   "symbol": "COUNOSU",
+   "name": "Counos U (COUNOSU)"
+  },
+  {
+   "symbol": "WW3",
+   "name": "WW3 (WW3)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "MERY",
+   "name": "Mistery On Cro (MERY)",
+   "built_on": "CRO"
+  },
+  {
+   "symbol": "BWLD",
+   "name": "Bowled.io (BWLD)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "KATT",
+   "name": "Katt Daddy (KATT)",
+   "built_on": "BASECHAIN"
+  },
+  {
+   "symbol": "ANGRYSLERF",
+   "name": "ANGRYSLERF (ANGRYSLERF)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "TUGOU",
+   "name": "TuGou (TUGOU)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "BRITT",
+   "name": "Britt (BRITT)",
+   "built_on": "BASECHAIN"
+  },
+  {
+   "symbol": "JOGECO",
+   "name": "Jogecodog (JOGECO)",
+   "built_on": "BASECHAIN"
+  },
+  {
+   "symbol": "SRCH",
+   "name": "SolSrch (SRCH)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "DOKY",
+   "name": "Donkey King (DOKY)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "LENARD",
+   "name": "Lenard (LENARD)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "PLANETCOIN",
+   "name": "PlanetCoin (PLANETCOIN)"
+  },
+  {
+   "symbol": "DUREV",
+   "name": "Povel Durev (DUREV)",
+   "built_on": "TONCOIN"
+  },
+  {
+   "symbol": "FRIEND",
+   "name": "Friend.tech (FRIEND)",
+   "built_on": "BASECHAIN"
+  },
+  {
+   "symbol": "AGLA",
+   "name": "Angola (AGLA)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "OMNIR",
+   "name": "Omni Real Estate Token (OMNIR)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "COUNOSBIT",
+   "name": "Counos Bit (COUNOSBIT)"
+  },
+  {
+   "symbol": "NGL",
+   "name": "Gold Fever (NGL)"
+  },
+  {
+   "symbol": "MICHI",
+   "name": "michi (MICHI)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "GPTV",
+   "name": "GPTVerse (GPTV)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "TONK",
+   "name": "Tonk Inu (TONK)",
+   "built_on": "TONCOIN"
+  },
+  {
+   "symbol": "DOG",
+   "name": "The Doge NFT (DOG)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "BOOMER",
+   "name": "Boomer (BOOMER)",
+   "built_on": "BASECHAIN"
+  },
+  {
+   "symbol": "CSAS",
+   "name": "csas (Ordinals) (CSAS)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "BANK",
+   "name": "Float Protocol (BANK)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "GUMMY",
+   "name": "GUMMY (GUMMY)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "LABZ",
+   "name": "Insane Labz (LABZ)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "ESE",
+   "name": "Eesee (ESE)",
+   "built_on": "ETH"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "AGLA",
+   "name": "Angola (AGLA)"
+  },
+  {
+   "symbol": "STRK",
+   "name": "Strike (STRK)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "NGL",
+   "name": "Gold Fever (NGL)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "ORT",
+   "name": "Omni Real Estate Token (ORT)"
+  },
+  {
+   "symbol": "PLANET",
+   "name": "PlanetCoin (PLANET)"
+  },
+  {
+   "symbol": "CRYPTOPRO",
+   "name": "CryptoProfile (CRYPTOPRO)"
+  },
+  {
+   "symbol": "FIRE",
+   "name": "FireCoin (FIRE)"
+  }
+ ]
+}
