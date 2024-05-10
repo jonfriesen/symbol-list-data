@@ -1,0 +1,308 @@
+{
+ "added": [
+  {
+   "symbol": "BPOKO",
+   "name": "BabyPoko (BPOKO)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "MTSP",
+   "name": "Metasphere (MTSP)"
+  },
+  {
+   "symbol": "WOETH",
+   "name": "Wrapped Origin Ether (WOETH)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "PEEZY",
+   "name": "Young Peezy AKA Pepe (PEEZY)",
+   "built_on": "BASECHAIN"
+  },
+  {
+   "symbol": "DITH",
+   "name": "Dither AI (DITH)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "MFERS",
+   "name": "MFERS (MFERS)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "FER",
+   "name": "Ferro (FER)",
+   "built_on": "CRO"
+  },
+  {
+   "symbol": "NEONAI",
+   "name": "NeonAI (NEONAI)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "POODOGE",
+   "name": "Poo Doge (POODOGE)",
+   "built_on": "DOGE"
+  },
+  {
+   "symbol": "CDOG",
+   "name": "Corn Dog (CDOG)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "PEEP",
+   "name": "Peepo (PEEP)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "VIRTU",
+   "name": "VIRTUCLOUD (VIRTU)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "BNSAI",
+   "name": "bonsAI Network (BNSAI)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "FECES",
+   "name": "FECES (FECES)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "BAYSE",
+   "name": "coynbayse (BAYSE)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "SOARX",
+   "name": "Soarx Coin (SOARX)"
+  },
+  {
+   "symbol": "ATEC",
+   "name": "AnonTech (ATEC)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "ZYPTO",
+   "name": "Zypto Token (ZYPTO)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "GRIMEVO",
+   "name": "Grim EVO (GRIMEVO)",
+   "built_on": "FTM"
+  },
+  {
+   "symbol": "BANK",
+   "name": "Float Protocol (BANK)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "GUMMIES",
+   "name": "GUMMIES (GUMMIES)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "POGS",
+   "name": "POG (POGS)",
+   "built_on": "THETA"
+  },
+  {
+   "symbol": "BNBWHALES",
+   "name": "BNB Whales (BNBWHALES)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "AOC",
+   "name": "Alickshundra Occasional-Cortex (AOC)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "DOG",
+   "name": "The Doge NFT (DOG)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "PNIC",
+   "name": "Phoenic (PNIC)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "CMINER",
+   "name": "ChainMiner (CMINER)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "MORFEY",
+   "name": "Morfey (MORFEY)",
+   "built_on": "TONCOIN"
+  },
+  {
+   "symbol": "MELON",
+   "name": "cocomELON (MELON)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "XEDO",
+   "name": "XedoAI (XEDO)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "JOK",
+   "name": "JokInTheBox (JOK)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "CYM",
+   "name": "Cylum Finance (CYM)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "ANDR",
+   "name": "Andromeda (ANDR)"
+  },
+  {
+   "symbol": "NEURA",
+   "name": "Neurahub (NEURA)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "STATOM",
+   "name": "Stride Staked ATOM (STATOM)",
+   "built_on": "ATOM"
+  },
+  {
+   "symbol": "BABYCAT",
+   "name": "Baby Cat Coin (BABYCAT)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "GVL",
+   "name": "Greever (GVL)",
+   "built_on": "MATIC"
+  },
+  {
+   "symbol": "PLENTY",
+   "name": "Plenty DeFi (PLENTY)",
+   "built_on": "XTZ"
+  },
+  {
+   "symbol": "DORA",
+   "name": "Dora Factory (DORA)"
+  },
+  {
+   "symbol": "DVOO",
+   "name": "Vanguard S\u0026P 500 ETF Tokenized Stock Defichain (DVOO)",
+   "built_on": "DFI"
+  },
+  {
+   "symbol": "VELAR",
+   "name": "Velar (VELAR)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "HANK",
+   "name": "Hank (HANK)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "RPR",
+   "name": "The Reaper (RPR)",
+   "built_on": "XRP"
+  },
+  {
+   "symbol": "EBSO",
+   "name": "eBlockStock (EBSO)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "GMFI",
+   "name": "Golden Magfi (GMFI)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "ENTS",
+   "name": "Ents (ENTS)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "DTLT",
+   "name": "iShares 20+ Year Treasury Bond ETF Defichain (DTLT)",
+   "built_on": "DFI"
+  },
+  {
+   "symbol": "PSSYMONSTR",
+   "name": "PSSYMONSTR (PSSYMONSTR)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "DANGEL",
+   "name": "dAngel Fund (DANGEL)"
+  },
+  {
+   "symbol": "HOHOHO",
+   "name": "Santa Floki v2.0 (HOHOHO)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "DILL",
+   "name": "dillwifit (DILL)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "MB4",
+   "name": "Matthew Box 404 (MB4)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "DOGIN",
+   "name": "Doginhood (DOGIN)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "HIMO",
+   "name": "Himo World (HIMO)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "CMPT",
+   "name": "Spatial Computing (CMPT)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "SHIBAZILLA",
+   "name": "ShibaZilla2.0 (SHIBAZILLA)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "STRIKE",
+   "name": "Strike (STRIKE)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "POWSCHE",
+   "name": "Powsche (POWSCHE)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "GETH",
+   "name": "Guarded Ether (GETH)"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "FER",
+   "name": "Ferro (FER)"
+  },
+  {
+   "symbol": "STARK",
+   "name": "Starknet (STARK)"
+  },
+  {
+   "symbol": "DORA",
+   "name": "Dora Factory (DORA)",
+   "built_on": "ETH"
+  }
+ ]
+}
