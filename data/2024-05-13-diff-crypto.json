@@ -1,0 +1,99 @@
+{
+ "added": [
+  {
+   "symbol": "KILLSOLANA",
+   "name": "KillSolana (KILLSOLANA)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "SULFERC",
+   "name": "SULFERC (SULFERC)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "NS",
+   "name": "NodeSynapse (NS)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "WSTA",
+   "name": "Wrapped Statera (WSTA)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "CIRRUS",
+   "name": "Cirrus (CIRRUS)"
+  },
+  {
+   "symbol": "CMOON",
+   "name": "CryptoMoonShot (CMOON)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "JUNKIE",
+   "name": "Junkie Cats (JUNKIE)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "SOLFI",
+   "name": "SoliDefi (SOLFI)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "CAPA",
+   "name": "Cake Panda (CAPA)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "BYAT",
+   "name": "Byat (BYAT)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "WCT1WCT1",
+   "name": "Wrapped Car Token 1 (WCT1)"
+  },
+  {
+   "symbol": "QUIPU",
+   "name": "QuipuSwap Governance Token (QUIPU)",
+   "built_on": "XTZ"
+  },
+  {
+   "symbol": "GETH",
+   "name": "Guarded Ether (GETH)"
+  },
+  {
+   "symbol": "ZKLK",
+   "name": "ZkLock (ZKLK)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "FOUND",
+   "name": "ccFound (FOUND)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "FEES",
+   "name": "UNIFEES (FEES)",
+   "built_on": "ZIL"
+  },
+  {
+   "symbol": "BANKETH",
+   "name": "BankEth (BANKETH)"
+  },
+  {
+   "symbol": "DOG",
+   "name": "The Doge NFT (DOG)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "FLOP",
+   "name": "Big Floppa (FLOP)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "LANDV1",
+   "name": "Landshare v1 (LANDV1)"
+  }
+ ]
+}

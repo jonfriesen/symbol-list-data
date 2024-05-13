@@ -1,0 +1,66 @@
+{
+ "added": [
+  {
+   "symbol": "LOGC",
+   "name": "ContextLogic Inc. - Class A Common Stock",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "LOGC"
+  },
+  {
+   "symbol": "ME",
+   "name": "23andMe Holding Co. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "ME"
+  },
+  {
+   "symbol": "USOY",
+   "name": "Defiance Oil Enhanced Options Income ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "USOY"
+  },
+  {
+   "symbol": "ANG$A",
+   "name": "American National Group Inc. Depositary Shares, each representing a 1/1,000th interest in a share of  5.95% Fixed-Rate Reset Non-Cumulative Preferred Stock, Series A",
+   "exchange": "NYSE",
+   "yahoo_symbol": "ANG$A"
+  },
+  {
+   "symbol": "ANG$B",
+   "name": "American National Group Inc. Depositary Shares, each representing a 1/1,000th interest in a share of 6.625% Fixed-Rate Reset Non-Cumulative Preferred Stock, Series B",
+   "exchange": "NYSE",
+   "yahoo_symbol": "ANG$B"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "AEL$A",
+   "name": "American National Group Inc. Depositary Shares, each representing a 1/1,000th interest in a share of  5.95% Fixed-Rate Reset Non-Cumulative Preferred Stock, Series A",
+   "exchange": "NYSE",
+   "yahoo_symbol": "AEL$A"
+  },
+  {
+   "symbol": "AEL$B",
+   "name": "American National Group Inc. Depositary Shares, each representing a 1/1,000th interest in a share of 6.625% Fixed-Rate Reset Non-Cumulative Preferred Stock, Series B",
+   "exchange": "NYSE",
+   "yahoo_symbol": "AEL$B"
+  },
+  {
+   "symbol": "ME",
+   "name": "23andMe Holding Co. - Common Stock",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "ME"
+  },
+  {
+   "symbol": "NBSE",
+   "name": "NeuBase Therapeutics, Inc.  - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "NBSE"
+  },
+  {
+   "symbol": "WISH",
+   "name": "ContextLogic Inc. - Class A Common Stock",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "WISH"
+  }
+ ]
+}
