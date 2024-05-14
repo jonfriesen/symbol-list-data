@@ -1,0 +1,274 @@
+{
+ "added": [
+  {
+   "symbol": "PIGONK",
+   "name": "PIGONK (PIGONK)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "BUND",
+   "name": "Bund V2.0 (BUND)",
+   "built_on": "MATIC"
+  },
+  {
+   "symbol": "NBD",
+   "name": "Never Back Down (NBD)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "PEPA",
+   "name": "Pepa Inu (PEPA)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "DEMI",
+   "name": "DeMi (DEMI)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "CINUV1",
+   "name": "CHEEMS INU v1 (CINUV1)"
+  },
+  {
+   "symbol": "DSLV",
+   "name": "iShares Silver Trust Defichain (DSLV)",
+   "built_on": "DFI"
+  },
+  {
+   "symbol": "PAALV1",
+   "name": "PAAL AI v1 (PAALV1)"
+  },
+  {
+   "symbol": "BENK",
+   "name": "BENK (BENK)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "CATBA",
+   "name": "CATBA INU (CATBA)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "DIBC",
+   "name": "DIBCOIN (DIBC)",
+   "built_on": "OMNI"
+  },
+  {
+   "symbol": "DAAPL",
+   "name": "Apple Tokenized Stock Defichain (DAAPL)",
+   "built_on": "DFI"
+  },
+  {
+   "symbol": "WWAN",
+   "name": "Wrapped WAN (WWAN)",
+   "built_on": "WAN"
+  },
+  {
+   "symbol": "CRASH",
+   "name": "Solana Crash (CRASH)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "BLING",
+   "name": "PLEB DREKE (BLING)",
+   "built_on": "BASECHAIN"
+  },
+  {
+   "symbol": "POTATO",
+   "name": "Potato (POTATO)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "DANG",
+   "name": "Guangdang (DANG)",
+   "built_on": "BASECHAIN"
+  },
+  {
+   "symbol": "BOCAT",
+   "name": "BOCAT (BOCAT)",
+   "built_on": "BASECHAIN"
+  },
+  {
+   "symbol": "PAIRED",
+   "name": "PairedWorld (PAIRED)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "SNIPPEPE",
+   "name": "SNIPING PEPE (SNIPPEPE)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "FIGHT",
+   "name": "Crypto Fight Club (FIGHT)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "OPENAI",
+   "name": "OpenAI ERC (OPENAI)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "DRAGU",
+   "name": "DRAGU (DRAGU)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "PLZ",
+   "name": "PLUNZ (PLZ)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "OAT",
+   "name": "OAT Network (OAT)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "DYPV1",
+   "name": "Dypius v1 (DYPV1)"
+  },
+  {
+   "symbol": "SWORD",
+   "name": "eZKalibur (SWORD)",
+   "built_on": "ZKSYNC"
+  },
+  {
+   "symbol": "SRLY",
+   "name": "Rally (Solana) (SRLY)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "INDAY",
+   "name": "Independence Day (INDAY)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "SQUOGE",
+   "name": "DogeSquatch (SQUOGE)",
+   "built_on": "BASECHAIN"
+  },
+  {
+   "symbol": "SOLNAV",
+   "name": "SOLNAV AI (SOLNAV)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "OTT",
+   "name": "Coost (OTT)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "UCM",
+   "name": "UCROWDME (UCM)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "SLEPE",
+   "name": "Slepe (SLEPE)",
+   "built_on": "BASECHAIN"
+  },
+  {
+   "symbol": "WKAI",
+   "name": "Wrapped KardiaChain (WKAI)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "WEBSS",
+   "name": "Websser (WEBSS)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "INDEPENDENCEDAY",
+   "name": "Independence Day (INDEPENDENCEDAY)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "BDCLBSC",
+   "name": "BorderCollieBSC (BDCLBSC)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "NEXMS",
+   "name": "NexMillionaires (NEXMS)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "ZAO",
+   "name": "zkTAO (ZAO)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "DOGETH",
+   "name": "EtherDoge (DOGETH)"
+  },
+  {
+   "symbol": "POSW",
+   "name": "PoSW Coin (POSW)"
+  },
+  {
+   "symbol": "VS",
+   "name": "veSync (VS)",
+   "built_on": "ZKSYNC"
+  },
+  {
+   "symbol": "RBBT",
+   "name": "RabbitCoin (RBBT)"
+  },
+  {
+   "symbol": "CORNELLA",
+   "name": "CORNELLA (CORNELLA)",
+   "built_on": "BASECHAIN"
+  },
+  {
+   "symbol": "777",
+   "name": "Jackpot (777)"
+  },
+  {
+   "symbol": "PEPEFLOKI",
+   "name": "PEPE FLOKI (PEPEFLOKI)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "GETH",
+   "name": "Guarded Ether (GETH)"
+  },
+  {
+   "symbol": "PUCA",
+   "name": "Puss Cat (PUCA)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "BANKETH",
+   "name": "BankEth (BANKETH)"
+  },
+  {
+   "symbol": "FUSD",
+   "name": "Fantom USD (FUSD)",
+   "built_on": "FTM"
+  },
+  {
+   "symbol": "0XG",
+   "name": "0xGpu.ai (0XG)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "XBTC21",
+   "name": "Bitcoin 21 (XBTC21)"
+  },
+  {
+   "symbol": "KEPT",
+   "name": "KeptChain (KEPT)",
+   "built_on": "BASECHAIN"
+  },
+  {
+   "symbol": "FUTUREAI",
+   "name": "Future AI (FUTUREAI)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "RAFL",
+   "name": "RAFL (RAFL)",
+   "built_on": "BASECHAIN"
+  }
+ ]
+}

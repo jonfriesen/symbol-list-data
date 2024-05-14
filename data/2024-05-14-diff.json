@@ -1,0 +1,54 @@
+{
+ "added": [
+  {
+   "symbol": "BKHA",
+   "name": "Black Hawk Acquisition Corporation - Class A Ordinary Shares",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "BKHA"
+  },
+  {
+   "symbol": "BKHAR",
+   "name": "Black Hawk Acquisition Corporation - Rights",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "BKHAR"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "SCRMU",
+   "name": "Screaming Eagle Acquisition Corp. - Unit",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "SCRMU"
+  },
+  {
+   "symbol": "ZFOXW",
+   "name": "ZeroFox Holdings, Inc. - Warrant",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "ZFOXW"
+  },
+  {
+   "symbol": "IFN.R",
+   "name": "India Fund, Inc. (The) Rights (expiring May 14, 2024) Rights",
+   "exchange": "NYSE",
+   "yahoo_symbol": "IFN.R"
+  },
+  {
+   "symbol": "SCRM",
+   "name": "Screaming Eagle Acquisition Corp. - Class A Ordinary Shares",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "SCRM"
+  },
+  {
+   "symbol": "ZFOX",
+   "name": "ZeroFox Holdings, Inc. - Common Stock",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "ZFOX"
+  },
+  {
+   "symbol": "SCRMW",
+   "name": "Screaming Eagle Acquisition Corp. - Warrant",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "SCRMW"
+  }
+ ]
+}
