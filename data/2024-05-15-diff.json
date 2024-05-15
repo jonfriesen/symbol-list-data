@@ -1,0 +1,150 @@
+{
+ "added": [
+  {
+   "symbol": "INCM",
+   "name": "Accelerate Diversified Credit Income Fund",
+   "exchange": "TSX",
+   "yahoo_symbol": "INCM.TO",
+   "instruments": [
+    {
+     "name": "Accelera DivrsCre IC",
+     "symbol": "INCM"
+    },
+    {
+     "name": "Acceler DivrsCreIcUS",
+     "symbol": "INCM.U"
+    }
+   ]
+  },
+  {
+   "symbol": "AIGO",
+   "name": "Global X Artificial Intelligence \u0026 Technology Index ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "AIGO.TO",
+   "instruments": [
+    {
+     "name": "GlobalX AI\u0026TechInd A",
+     "symbol": "AIGO"
+    }
+   ]
+  },
+  {
+   "symbol": "TTTX",
+   "name": "Global X Innovative Bluechip Top 10 Index ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "TTTX.TO",
+   "instruments": [
+    {
+     "name": "GblX InoBluechipT100",
+     "symbol": "TTTX"
+    }
+   ]
+  },
+  {
+   "symbol": "QQQX",
+   "name": "Global X Nasdaq-100 Index ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "QQQX.TO",
+   "instruments": [
+    {
+     "name": "GblX NASDAQ100 Ind A",
+     "symbol": "QQQX"
+    },
+    {
+     "name": "GblX NASDAQ100 IndUS",
+     "symbol": "QQQX.U"
+    }
+   ]
+  },
+  {
+   "symbol": "USSX",
+   "name": "Global X S\u0026P 500 Index ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "USSX.TO",
+   "instruments": [
+    {
+     "name": "GblX SP/TSX500 Inx A",
+     "symbol": "USSX"
+    },
+    {
+     "name": "GblX SP/TSX500 InxUS",
+     "symbol": "USSX.U"
+    }
+   ]
+  },
+  {
+   "symbol": "CNDX",
+   "name": "Global X S\u0026P/TSX 60 Index ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "CNDX.TO",
+   "instruments": [
+    {
+     "name": "GblX SP/TSX60 Inx A",
+     "symbol": "CNDX"
+    }
+   ]
+  },
+  {
+   "symbol": "VRN",
+   "name": "Veren Inc.",
+   "exchange": "TSX",
+   "yahoo_symbol": "VRN.TO",
+   "instruments": [
+    {
+     "name": "Crescent Point Corp.",
+     "symbol": "VRN"
+    }
+   ]
+  },
+  {
+   "symbol": "VRN",
+   "name": "Veren Inc. Common shares",
+   "exchange": "NYSE",
+   "yahoo_symbol": "VRN"
+  },
+  {
+   "symbol": "BTOC",
+   "name": "Armlogi Holding Corp. - common stock",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "BTOC"
+  },
+  {
+   "symbol": "LION",
+   "name": "Lionsgate Studios Corp. - Common Shares",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "LION"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "DOOR",
+   "name": "Masonite International Corporation Ordinary Shares (Canada)",
+   "exchange": "NYSE",
+   "yahoo_symbol": "DOOR"
+  },
+  {
+   "symbol": "ET$E",
+   "name": "Energy Transfer L.P. 7.600% Series E Fixed-to-Floating Rate Cumulative Redeemable Perpetual Preferred Unit",
+   "exchange": "NYSE",
+   "yahoo_symbol": "ET$E"
+  },
+  {
+   "symbol": "CPG",
+   "name": "Crescent Point Energy Corporation Ordinary Shares (Canada)",
+   "exchange": "NYSE",
+   "yahoo_symbol": "CPG"
+  },
+  {
+   "symbol": "CPG",
+   "name": "Crescent Point Energy Corp.",
+   "exchange": "TSX",
+   "yahoo_symbol": "CPG.TO",
+   "instruments": [
+    {
+     "name": "Crescent Point Corp.",
+     "symbol": "CPG"
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,384 @@
+{
+ "added": [
+  {
+   "symbol": "QUARK",
+   "name": "Quark (QUARK)"
+  },
+  {
+   "symbol": "MEMEFI",
+   "name": "MemeFi (MEMEFI)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "LZM",
+   "name": "LoungeM (LZM)",
+   "built_on": "LUK"
+  },
+  {
+   "symbol": "QWT",
+   "name": "QoWatt (QWT)",
+   "built_on": "EGLD"
+  },
+  {
+   "symbol": "BASTET",
+   "name": "Bastet Goddess (BASTET)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "ROBO",
+   "name": "RoboHero (ROBO)",
+   "built_on": "MATIC"
+  },
+  {
+   "symbol": "NETT",
+   "name": "Netswap (NETT)",
+   "built_on": "METIS"
+  },
+  {
+   "symbol": "MGC",
+   "name": "Meta Games Coin (MGC)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "LIGO",
+   "name": "Ligo (LIGO)",
+   "built_on": "BTC"
+  },
+  {
+   "symbol": "CONAN",
+   "name": "Conan (CONAN)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "TOMAN",
+   "name": "IRR (TOMAN)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "VERUM",
+   "name": "Verum Coin (VERUM)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "USA",
+   "name": "DEDPRZ (USA)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "PIRB",
+   "name": "PIRB (PIRB)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "HIM",
+   "name": "Human Intelligence Machine (HIM)",
+   "built_on": "BASECHAIN"
+  },
+  {
+   "symbol": "KPN",
+   "name": "KonnektVPN (KPN)",
+   "built_on": "MATIC"
+  },
+  {
+   "symbol": "HYPERAI",
+   "name": "HyperHash AI (HYPERAI)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "VICS",
+   "name": "RoboF (VICS)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "BRS",
+   "name": "Broovs Projects (BRS)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "GENO",
+   "name": "GenomeFi (GENO)",
+   "built_on": "MATIC"
+  },
+  {
+   "symbol": "DOGI",
+   "name": "dogi (DOGI)"
+  },
+  {
+   "symbol": "SDR",
+   "name": "SedraCoin (SDR)"
+  },
+  {
+   "symbol": "KUNAI",
+   "name": "KunaiKash (KUNAI)",
+   "built_on": "KLV"
+  },
+  {
+   "symbol": "BOOE",
+   "name": "Book of Ethereum (BOOE)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "DAUMEN",
+   "name": "Daumenfrosch (DAUMEN)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "SOLAI",
+   "name": "Solana AI BNB (SOLAI)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "BUL",
+   "name": "bul (BUL)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "SMILY",
+   "name": "Smily Trump (SMILY)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "MBD",
+   "name": "MBD Financials (MBD)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "HOMER",
+   "name": "Homer Simpson (HOMER)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "OMNOMN",
+   "name": "Omega Network (OMN)"
+  },
+  {
+   "symbol": "DEO",
+   "name": "Demeter (DEO)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "NIAO",
+   "name": "NIAO (NIAO)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "AAI",
+   "name": "AutoAir AI (AAI)",
+   "built_on": "ZKSYNC"
+  },
+  {
+   "symbol": "PEKA",
+   "name": "PEKA (PEKA)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "GETH",
+   "name": "Guarded Ether (GETH)"
+  },
+  {
+   "symbol": "4CZ",
+   "name": "FourCZ (4CZ)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "KATCHU",
+   "name": "Katchu Coin (KATCHU)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "FIERO",
+   "name": "Fieres (FIERO)"
+  },
+  {
+   "symbol": "WEVMOS",
+   "name": "Wrapped Evmos (WEVMOS)",
+   "built_on": "EVMOS"
+  },
+  {
+   "symbol": "SOLCAT",
+   "name": "SOLCAT (SOLCAT)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "WASD",
+   "name": "WASD Studios (WASD)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "BONG",
+   "name": "BonkWifGlass (BONG)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "B3X",
+   "name": "Bnext Token (B3X)",
+   "built_on": "ALGO"
+  },
+  {
+   "symbol": "SHOOT",
+   "name": "Mars Battle (SHOOT)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "BANK",
+   "name": "Float Protocol (BANK)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "HOM",
+   "name": "Homeety (HOM)",
+   "built_on": "MATIC"
+  },
+  {
+   "symbol": "CINU",
+   "name": "CHEEMS INU (CINU)",
+   "built_on": "AVAX"
+  },
+  {
+   "symbol": "MOGGO",
+   "name": "MOGGO (MOGGO)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "CANDLE",
+   "name": "Candle Cat (CANDLE)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "KNB",
+   "name": "Kronobit Networks Blockchain (KNB)"
+  },
+  {
+   "symbol": "CTEX",
+   "name": "Crypto tex (CTEX)"
+  },
+  {
+   "symbol": "DOGETH",
+   "name": "EtherDoge (DOGETH)"
+  },
+  {
+   "symbol": "NALA",
+   "name": "Not a lion, a... (NALA)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "MINETTE",
+   "name": "Vibe Cat (MINETTE)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "PONKEBNB",
+   "name": "Ponke BNB (PONKEBNB)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "LETIT",
+   "name": "Letit (LETIT)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "SOPHON",
+   "name": "Sophon (Atomicals) (SOPHON)",
+   "built_on": "BTC"
+  },
+  {
+   "symbol": "DIGAU",
+   "name": "Dignity Gold (DIGAU)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "MOONS",
+   "name": "Sailor Moons (MOONS)",
+   "built_on": "BASECHAIN"
+  },
+  {
+   "symbol": "SC20",
+   "name": "Shine Chain (SC20)"
+  },
+  {
+   "symbol": "GRIM",
+   "name": "GRIMREAPER (GRIM)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "CWA",
+   "name": "Chris World Asset (CWA)",
+   "built_on": "OP"
+  },
+  {
+   "symbol": "MENDI",
+   "name": "Mendi Finance (MENDI)",
+   "built_on": "LINEA"
+  },
+  {
+   "symbol": "VOPO",
+   "name": "VOPO (VOPO)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "HIDE",
+   "name": "Hide Coin (HIDE)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "CHENG",
+   "name": "Chengshi (CHENG)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "SPOOF",
+   "name": "Spoofify (SPOOF)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "BNBBUNNY",
+   "name": "BNB BUNNY (BNBBUNNY)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "GLORY",
+   "name": "SEKAI GLORY (GLORY)",
+   "built_on": "BLAST"
+  },
+  {
+   "symbol": "WTR",
+   "name": "Deepwaters (WTR)",
+   "built_on": "AVAX"
+  },
+  {
+   "symbol": "DOVU",
+   "name": "DOVU (DOVU)",
+   "built_on": "HBAR"
+  },
+  {
+   "symbol": "NHI",
+   "name": "Non Human Intelligence (NHI)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "PEACH",
+   "name": "Based Peaches (PEACH)",
+   "built_on": "BASECHAIN"
+  },
+  {
+   "symbol": "IDVV1",
+   "name": "Idavoll DAO v1 (IDVV1)"
+  },
+  {
+   "symbol": "SNA",
+   "name": "SUKUYANA (SNA)",
+   "built_on": "BNB"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "LIGO",
+   "name": "Ligo (LIGO)"
+  },
+  {
+   "symbol": "CINU",
+   "name": "CHEEMS INU (CINU)",
+   "built_on": "ETH"
+  }
+ ]
+}
