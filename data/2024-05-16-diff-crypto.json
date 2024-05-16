@@ -1,0 +1,297 @@
+{
+ "added": [
+  {
+   "symbol": "TMWH",
+   "name": "Tom Wif Hat (TMWH)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "PLUP",
+   "name": "PoolUp (PLUP)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "KENDU",
+   "name": "Kendu Inu (KENDU)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "AIA",
+   "name": "AIA Chain (AIA)"
+  },
+  {
+   "symbol": "OPN",
+   "name": "Open Source Network (OPN)"
+  },
+  {
+   "symbol": "DOOMER",
+   "name": "Doomer (DOOMER)",
+   "built_on": "BASECHAIN"
+  },
+  {
+   "symbol": "DUEL",
+   "name": "Duel Network (DUEL)"
+  },
+  {
+   "symbol": "BANANA",
+   "name": "ApeSwap (BANANA)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "NOTINU",
+   "name": "NOTCOIN INU (NOTINU)",
+   "built_on": "TONCOIN"
+  },
+  {
+   "symbol": "VIXV1",
+   "name": "VIXCO v1 (VIXV1)"
+  },
+  {
+   "symbol": "CU",
+   "name": "Crypto Unicorns (CU)",
+   "built_on": "ARB"
+  },
+  {
+   "symbol": "FATMICHI",
+   "name": "FATMICHI (FATMICHI)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "OPEN",
+   "name": "Open Platform (OPEN)"
+  },
+  {
+   "symbol": "EVOC",
+   "name": "EVOCPLUS (EVOC)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "BANANAG",
+   "name": "Banana Gun (BANANAG)"
+  },
+  {
+   "symbol": "ZDAI",
+   "name": "Zydio AI (ZDAI)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "PATTON",
+   "name": "Patton (PATTON)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "HOG",
+   "name": "Hog (HOG)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "PEDRO",
+   "name": "Pedro The Raccoon (PEDRO)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "IMAYC",
+   "name": "IMAYC (IMAYC)"
+  },
+  {
+   "symbol": "CROAK",
+   "name": "Croakey (CROAK)",
+   "built_on": "CRO"
+  },
+  {
+   "symbol": "UBIT",
+   "name": "UBIT (UBIT)"
+  },
+  {
+   "symbol": "STUCK",
+   "name": "mouse in pasta (STUCK)",
+   "built_on": "CRO"
+  },
+  {
+   "symbol": "PEPEYE2",
+   "name": "PEPEYE 2.0 (PEPEYE2)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "ALE",
+   "name": "Ailey (ALE)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "BOBUKI",
+   "name": "Bobuki Neko (BOBUKI)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "SOUTH",
+   "name": "DeepSouth AI (SOUTH)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "LOS",
+   "name": "Lord Of SOL (LOS)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "BOSHI",
+   "name": "Boshi (BOSHI)",
+   "built_on": "BASECHAIN"
+  },
+  {
+   "symbol": "CRODIE",
+   "name": "Crodie (CRODIE)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "WMLX",
+   "name": "Millix (WMLX)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "VPS",
+   "name": "VPS AI (VPS)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "WIF2",
+   "name": "DogWif2.0 (WIF2)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "GALAXIS",
+   "name": "Galaxis (GALAXIS)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "FXD",
+   "name": "Fathom Dollar (FXD)",
+   "built_on": "XDC"
+  },
+  {
+   "symbol": "BAICA",
+   "name": "Baica (BAICA)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "SOLBET",
+   "name": "SOL STREET BETS (SOLBET)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "GAINSV1",
+   "name": "Gains v1 (GAINSV1)"
+  },
+  {
+   "symbol": "BANKETH",
+   "name": "BankEth (BANKETH)"
+  },
+  {
+   "symbol": "IMARO",
+   "name": "IMARO (IMARO)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "KAKAXA",
+   "name": "KAKAXA (KAKAXA)",
+   "built_on": "TONCOIN"
+  },
+  {
+   "symbol": "WNRG",
+   "name": "Wrapped-Energi (WNRG)",
+   "built_on": "NRG"
+  },
+  {
+   "symbol": "MANYU",
+   "name": "Little Manyu (MANYU)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "RDNTV1",
+   "name": "Radiant Capital v1 (RDNTV1)"
+  },
+  {
+   "symbol": "AMERICA",
+   "name": "America (AMERICA)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "EMR",
+   "name": "Emorya Finance (EMR)",
+   "built_on": "EGLD"
+  },
+  {
+   "symbol": "NESTV1",
+   "name": "Nest Protocol v1 (NESTV1)"
+  },
+  {
+   "symbol": "BEERUSCAT",
+   "name": "BeerusCat (BEERUSCAT)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "DOG",
+   "name": "The Doge NFT (DOG)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "CHAM",
+   "name": "Champion (CHAM)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "ICPX",
+   "name": "Icrypex token (ICPX)",
+   "built_on": "AVAX"
+  },
+  {
+   "symbol": "HRT",
+   "name": "HIRO (HRT)"
+  },
+  {
+   "symbol": "GIKO",
+   "name": "Giko Cat (GIKO)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "G",
+   "name": "GRN Grid (G)",
+   "built_on": "ETH"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "BANANA",
+   "name": "ApeSwap (BANANA)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "BAG",
+   "name": "BondAppetit (BAG)"
+  },
+  {
+   "symbol": "OPEN",
+   "name": "Open Platform (OPEN)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "DEFROGS",
+   "name": "DeFrogs (DEFROGS)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "BANANAG",
+   "name": "Banana Gun (BANANAG)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "DUEL",
+   "name": "Duel Network (DUEL)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "OPN",
+   "name": "Open Source Network (OPN)",
+   "built_on": "BNB"
+  }
+ ]
+}

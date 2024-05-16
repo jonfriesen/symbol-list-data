@@ -1,0 +1,76 @@
+{
+ "added": [
+  {
+   "symbol": "EOX",
+   "name": "Euromax Resources Ltd.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "EOX.V",
+   "instruments": [
+    {
+     "name": "Euromax Resources Ltd.",
+     "symbol": "EOX"
+    }
+   ]
+  },
+  {
+   "symbol": "VOL",
+   "name": "Volatus Aerospace Corp.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "VOL.V",
+   "instruments": [
+    {
+     "name": "Volatus Aerospace Corp.",
+     "symbol": "VOL"
+    },
+    {
+     "name": "Volatus Aerospace Corp. wt 06Oct2024",
+     "symbol": "VOL.WT.A"
+    }
+   ]
+  },
+  {
+   "symbol": "JDZG",
+   "name": "JIADE LIMITED - Common stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "JDZG"
+  },
+  {
+   "symbol": "RAY",
+   "name": "Raytech Holding Limited - ordinary shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "RAY"
+  },
+  {
+   "symbol": "MTB$J",
+   "name": "M\u0026T Bank Corporation Depositary Shares each representing a 1/400th ownership interest in a share of Perpetual 7.500% Non-Cumulative Preferred Stock, Series J",
+   "exchange": "NYSE",
+   "yahoo_symbol": "MTB$J"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "MSRE.UN",
+   "name": "Sustainable Real Estate Dividend Fund",
+   "exchange": "TSX",
+   "yahoo_symbol": "MSRE.UN.TO",
+   "instruments": [
+    {
+     "name": "Sustain RlEst Div Tr",
+     "symbol": "MSRE.UN"
+    }
+   ]
+  },
+  {
+   "symbol": "YTEN",
+   "name": "Yield10 Bioscience, Inc.  - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "YTEN"
+  },
+  {
+   "symbol": "LBAI",
+   "name": "Lakeland Bancorp, Inc. - Common Stock",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "LBAI"
+  }
+ ]
+}
