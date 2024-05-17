@@ -1,0 +1,72 @@
+{
+ "added": [
+  {
+   "symbol": "ENTO",
+   "name": "Entero Therapeutics Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "ENTO"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "GS$K",
+   "name": "Goldman Sachs Group, Inc. (The) Dep Shs Repstg 1/1000 Int Sh Fxd/Fltg Non Cum Pfd Stk Ser K",
+   "exchange": "NYSE",
+   "yahoo_symbol": "GS$K"
+  },
+  {
+   "symbol": "FWBI",
+   "name": "First Wave BioPharma, Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "FWBI"
+  },
+  {
+   "symbol": "TCXT",
+   "name": "TrueContext Corporation",
+   "exchange": "TSXV",
+   "yahoo_symbol": "TCXT.V",
+   "instruments": [
+    {
+     "name": "TrueContext Corporation",
+     "symbol": "TCXT"
+    }
+   ]
+  },
+  {
+   "symbol": "CLVR",
+   "name": "Clever Leaves Holdings Inc. - Common Shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "CLVR"
+  },
+  {
+   "symbol": "CLVRW",
+   "name": "Clever Leaves Holdings Inc. - Warrant",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "CLVRW"
+  },
+  {
+   "symbol": "TAST",
+   "name": "Carrols Restaurant Group, Inc. - Common Stock",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "TAST"
+  },
+  {
+   "symbol": "HZM",
+   "name": "Horizonte Minerals Plc.",
+   "exchange": "TSX",
+   "yahoo_symbol": "HZM.TO",
+   "instruments": [
+    {
+     "name": "Horizonte Min Ord J",
+     "symbol": "HZM"
+    }
+   ]
+  },
+  {
+   "symbol": "SP",
+   "name": "SP Plus Corporation - Common Stock",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "SP"
+  }
+ ]
+}

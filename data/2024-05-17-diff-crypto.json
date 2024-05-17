@@ -1,0 +1,270 @@
+{
+ "added": [
+  {
+   "symbol": "XNODE",
+   "name": "XNODE (XNODE)"
+  },
+  {
+   "symbol": "PWC",
+   "name": "PixelWorldCoin (PWC)",
+   "built_on": "MATIC"
+  },
+  {
+   "symbol": "DMZ",
+   "name": "DeMon Token (DMZ)",
+   "built_on": "ZIL"
+  },
+  {
+   "symbol": "MNTIS",
+   "name": "Mantis (MNTIS)"
+  },
+  {
+   "symbol": "JIG",
+   "name": "Jigen (JIG)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "LYR",
+   "name": "Lyra (LYR)"
+  },
+  {
+   "symbol": "DPAY",
+   "name": "Devour (DPAY)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "JOC",
+   "name": "Speed Star JOC (JOC)",
+   "built_on": "ONE"
+  },
+  {
+   "symbol": "SAFELIGHT",
+   "name": "SafeLight (SAFELIGHT)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "EMILY",
+   "name": "Emily (EMILY)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "SBET",
+   "name": "SBET (SBET)",
+   "built_on": "EOS"
+  },
+  {
+   "symbol": "XB",
+   "name": "XBANKING (XB)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "AMI",
+   "name": "AMMYI Coin (AMI)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "LAN",
+   "name": "Lanify (LAN)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "GIA",
+   "name": "Gamia (GIA)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "AFR",
+   "name": "Afreum (AFR)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "DUCX",
+   "name": "DucatusX (DUCX)"
+  },
+  {
+   "symbol": "ABONDV1",
+   "name": "ApeSwap (ABONDV1)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "AXLW",
+   "name": "Axel Wrapped (AXLW)",
+   "built_on": "TRX"
+  },
+  {
+   "symbol": "MONEYBEE",
+   "name": "MONEYBEE (MONEYBEE)",
+   "built_on": "BASECHAIN"
+  },
+  {
+   "symbol": "0NE",
+   "name": "Stone (0NE)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "OPENSOURCE",
+   "name": "Open Source Network (OPENSOURCE)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "GOLDF",
+   "name": "Gold Fever (GOLDF)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "OLEV1",
+   "name": "OpenLeverage v1 (OLEV1)"
+  },
+  {
+   "symbol": "KAF",
+   "name": "KAIF Platform (KAF)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "DKT",
+   "name": "Duelist King (DKT)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "CYBERTRUMP",
+   "name": "CyberTrump (CYBERTRUMP)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "GETH",
+   "name": "Guarded Ether (GETH)"
+  },
+  {
+   "symbol": "QUNT",
+   "name": "Quants (QUNT)",
+   "built_on": "INJ"
+  },
+  {
+   "symbol": "XM",
+   "name": "xMooney (XM)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "PTM",
+   "name": "Potentiam (PTM)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "DUELN",
+   "name": "Duel Network (DUELN)",
+   "built_on": "MATIC"
+  },
+  {
+   "symbol": "ARSW",
+   "name": "ArthSwap (ARSW)",
+   "built_on": "ASTR"
+  },
+  {
+   "symbol": "BANK",
+   "name": "Float Protocol (BANK)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "BROWN",
+   "name": "BrowniesSwap (BROWN)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "ESCU",
+   "name": "EYESECU AI (ESCU)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "MOST",
+   "name": "MOST Global (MOST)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "OPN",
+   "name": "OPEN Ticketing Ecosystem (OPN)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "DOGWIFSEAL",
+   "name": "dogwifseal (DOGWIFSEAL)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "AIBCOIN",
+   "name": "AIBLOCK (AIBCOIN)"
+  },
+  {
+   "symbol": "TAROTV1",
+   "name": "Tarot v1 (TAROTV1)"
+  },
+  {
+   "symbol": "SWIPES",
+   "name": "BNDR (SWIPES)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "DLB",
+   "name": "DiemLibre (DLB)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "YDA",
+   "name": "YadaCoin (YDA)"
+  },
+  {
+   "symbol": "DELIGHTPAY",
+   "name": "DelightPay (DELIGHTPAY)"
+  },
+  {
+   "symbol": "JOL",
+   "name": "Jolofcoin (JOL)"
+  },
+  {
+   "symbol": "DURTH",
+   "name": "iShares MSCI World ETF Tokenized Stock Defichain (DURTH)",
+   "built_on": "DFI"
+  },
+  {
+   "symbol": "RPLAY",
+   "name": "Replay (RPLAY)",
+   "built_on": "THETA"
+  },
+  {
+   "symbol": "SKIPUP",
+   "name": "SKI MASK PUP (SKIPUP)",
+   "built_on": "BASECHAIN"
+  },
+  {
+   "symbol": "DOG",
+   "name": "The Doge NFT (DOG)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "PEKINU",
+   "name": "PEKI INU (PEKINU)",
+   "built_on": "BNB"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "DUEL",
+   "name": "Duel Network (DUEL)"
+  },
+  {
+   "symbol": "DPAY",
+   "name": "DelightPay (DPAY)"
+  },
+  {
+   "symbol": "BANANAG",
+   "name": "Banana Gun (BANANAG)"
+  },
+  {
+   "symbol": "OPN",
+   "name": "Open Source Network (OPN)"
+  },
+  {
+   "symbol": "NGL",
+   "name": "Gold Fever (NGL)"
+  }
+ ]
+}
