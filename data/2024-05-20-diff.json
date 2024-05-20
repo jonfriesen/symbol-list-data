@@ -1,0 +1,90 @@
+{
+ "added": [
+  {
+   "symbol": "BWIN",
+   "name": "The Baldwin Insurance Group, Inc. - Class A Common Stock",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "BWIN"
+  },
+  {
+   "symbol": "HDL",
+   "name": "SUPER HI INTERNATIONAL HOLDING LTD. - American Depositary Shares",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "HDL"
+  },
+  {
+   "symbol": "RFAIU",
+   "name": "RF Acquisition Corp II - Unit",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "RFAIU"
+  },
+  {
+   "symbol": "CNH",
+   "name": "CNH Industrial N.V. Common Shares",
+   "exchange": "NYSE",
+   "yahoo_symbol": "CNH"
+  },
+  {
+   "symbol": "KFRC",
+   "name": "Kforce, Inc. Common Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "KFRC"
+  },
+  {
+   "symbol": "MITP",
+   "name": "AG Mortgage Investment Trust, Inc. 9.500% Senior Notes due 2029",
+   "exchange": "NYSE",
+   "yahoo_symbol": "MITP"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "MIR.W",
+   "name": "Mirion Technologies, Inc. Redeemable Warrants, each whole warrant exercisable for one share of Class A common stock at an exercise price of $11.50",
+   "exchange": "NYSE",
+   "yahoo_symbol": "MIR.W"
+  },
+  {
+   "symbol": "CNHI",
+   "name": "CNH Industrial N.V. Common Shares",
+   "exchange": "NYSE",
+   "yahoo_symbol": "CNHI"
+  },
+  {
+   "symbol": "MACK",
+   "name": "Merrimack Pharmaceuticals, Inc. - Common Stock",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "MACK"
+  },
+  {
+   "symbol": "KFRC",
+   "name": "Kforce, Inc. - Common Stock",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "KFRC"
+  },
+  {
+   "symbol": "BRP",
+   "name": "The Baldwin Insurance Group, Inc. - Class A Common Stock",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "BRP"
+  },
+  {
+   "symbol": "OSI.U",
+   "name": "Osiris Acquisition Corp. Units, each consisting of one share of Class A common stock, and one-half of one redeemable warrant",
+   "exchange": "NYSE",
+   "yahoo_symbol": "OSI.U"
+  },
+  {
+   "symbol": "OSI.W",
+   "name": "Osiris Acquisition Corp. Warrants, each exercisable for one share of Class A common stock at an exercise price of $11.50 per share",
+   "exchange": "NYSE",
+   "yahoo_symbol": "OSI.W"
+  },
+  {
+   "symbol": "OSI",
+   "name": "Osiris Acquisition Corp. Class A Common Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "OSI"
+  }
+ ]
+}

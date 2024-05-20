@@ -1,0 +1,229 @@
+{
+ "added": [
+  {
+   "symbol": "KRS",
+   "name": "Kingdom Raids (KRS)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "VECT",
+   "name": "Vectorium (VECT)"
+  },
+  {
+   "symbol": "ROKM",
+   "name": "Rocket Ma (ROKM)",
+   "built_on": "BASECHAIN"
+  },
+  {
+   "symbol": "MOMO",
+   "name": "MOMO 2.0 (MOMO)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "XTRM",
+   "name": "XTRM COIN (XTRM)"
+  },
+  {
+   "symbol": "OPTA",
+   "name": "Opta Global (OPTA)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "UCR",
+   "name": "Ultra Clear (UCR)"
+  },
+  {
+   "symbol": "LOTT",
+   "name": "Beauty bakery lott (LOTT)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "FCO",
+   "name": "Fanatico (FCO)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "GEMSTON",
+   "name": "GEMSTON (GEMSTON)",
+   "built_on": "TONCOIN"
+  },
+  {
+   "symbol": "WIFE",
+   "name": "Wifejak (WIFE)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "OPENP",
+   "name": "Open Platform (OPENP)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "SMAK",
+   "name": "Smartlink (SMAK)",
+   "built_on": "XTZ"
+  },
+  {
+   "symbol": "ABET",
+   "name": "Altbet (ABET)"
+  },
+  {
+   "symbol": "NCA",
+   "name": "NeuroCrypto Ads (NCA)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "SQUIDGROWV1",
+   "name": "SquidGrow v1 (SQUIDGROWV1)"
+  },
+  {
+   "symbol": "ESRC",
+   "name": "ESR Coin (ESRC)"
+  },
+  {
+   "symbol": "SOX",
+   "name": "Nobby Game (SOX (1))",
+   "built_on": "TONCOIN"
+  },
+  {
+   "symbol": "LMT",
+   "name": "Lympo Market Token (LMT)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "GETH",
+   "name": "Guarded Ether (GETH)"
+  },
+  {
+   "symbol": "XFUEL",
+   "name": "XFUEL (XFUEL)"
+  },
+  {
+   "symbol": "DOG",
+   "name": "The Doge NFT (DOG)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "BECN",
+   "name": "Beacon (BECN)"
+  },
+  {
+   "symbol": "DUEL",
+   "name": "GameGPT (DUEL)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "FREDDY",
+   "name": "FREDDY (FREDDY)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "KELP",
+   "name": "KELP (KELP)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "BTRU",
+   "name": "Biblical Truth (BTRU)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "TRUMPBIDEN",
+   "name": "Trump vs Biden (TRUMPBIDEN)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "FWH",
+   "name": "FigureWifHat (FWH)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "MVS",
+   "name": "Multiverse (MVS)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "DORAV1",
+   "name": "Dora Factory v1 (DORAV1)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "CPA",
+   "name": "CryptoPulse AdBot (CPA)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "SPORTS",
+   "name": "ZenSports (SPORTS)",
+   "built_on": "ICX"
+  },
+  {
+   "symbol": "FQS",
+   "name": "FQSwap V2 (FQS)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "FOXSY",
+   "name": "Foxsy AI (FOXSY)",
+   "built_on": "EGLD"
+  },
+  {
+   "symbol": "STARX",
+   "name": "STARX TOKEN (STARX)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "SAFEMOO",
+   "name": "SafeMoo (SAFEMOO)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "XRS",
+   "name": "Xrius (XRS)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "CHINGON",
+   "name": "Mexico Chingon (CHINGON)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "NBXC",
+   "name": "Nibble (NBXC)"
+  },
+  {
+   "symbol": "NGL",
+   "name": "Entangle (NGL)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "VOLX",
+   "name": "VolumeX (VOLX)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "EULER",
+   "name": "Euler Tools (EULER)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "BANK",
+   "name": "Float Protocol (BANK)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "STKC",
+   "name": "Streakk Chain (STKC)",
+   "built_on": "BNB"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "OPEN",
+   "name": "Open Platform (OPEN)"
+  },
+  {
+   "symbol": "LMT",
+   "name": "Lympo Market Token (LMT)"
+  }
+ ]
+}
