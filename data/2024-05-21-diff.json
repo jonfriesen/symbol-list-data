@@ -1,0 +1,52 @@
+{
+ "removed": [
+  {
+   "symbol": "FATH",
+   "name": "Fathom Digital Manufacturing Corporation Class A Common Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "FATH"
+  },
+  {
+   "symbol": "IGX",
+   "name": "IntelGenx Technologies Corp.",
+   "exchange": "TSX",
+   "yahoo_symbol": "IGX.TO",
+   "instruments": [
+    {
+     "name": "IntelGenx Tech J",
+     "symbol": "IGX"
+    }
+   ]
+  },
+  {
+   "symbol": "ALPN",
+   "name": "Alpine Immune Sciences, Inc. - Common Stock",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "ALPN"
+  },
+  {
+   "symbol": "FHLT",
+   "name": "Future Health ESG Corp. - Common stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "FHLT"
+  },
+  {
+   "symbol": "FHLTU",
+   "name": "Future Health ESG Corp. - Unit",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "FHLTU"
+  },
+  {
+   "symbol": "AIH",
+   "name": "Aesthetic Medical International Holdings Group Ltd. - American Depositary Shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "AIH"
+  },
+  {
+   "symbol": "FHLTW",
+   "name": "Future Health ESG Corp. - Warrant",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "FHLTW"
+  }
+ ]
+}

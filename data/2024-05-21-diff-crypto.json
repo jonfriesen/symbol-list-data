@@ -1,0 +1,210 @@
+{
+ "added": [
+  {
+   "symbol": "ASTRAFERV1",
+   "name": "Astrafer v1 (ASTRAFERV1)"
+  },
+  {
+   "symbol": "PROPEL",
+   "name": "PayRue (Propel) (PROPEL)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "DEFROGS",
+   "name": "DeFrogs (DEFROGS)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "CHEEPEPE",
+   "name": "CHEEPEPE (CHEEPEPE)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "GROK2",
+   "name": "GROK 2.0 (GROK2)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "STKSTARS",
+   "name": "pSTAKE Staked STARS (STKSTARS)"
+  },
+  {
+   "symbol": "ZBCN",
+   "name": "Zebec Network (ZBCN)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "SID",
+   "name": "Sid (SID)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "YAI",
+   "name": "Ÿ (YAI)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "RAT",
+   "name": "RatCoin (RAT)"
+  },
+  {
+   "symbol": "NOGS",
+   "name": "Noggles (NOGS)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "RSRV1",
+   "name": "Reserve Rights (RSRV1)"
+  },
+  {
+   "symbol": "BXN",
+   "name": "BlackFort Exchange Network (BXN)"
+  },
+  {
+   "symbol": "PEPEG",
+   "name": "Pepe Girl (PEPEG)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "DSQ",
+   "name": "Dsquared.finance (DSQ)",
+   "built_on": "ARB"
+  },
+  {
+   "symbol": "DOGEMOB",
+   "name": "DOGEMOB (DOGEMOB)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "RVL",
+   "name": "Revolotto (RVL)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "WACME",
+   "name": "Wrapped Accumulate (WACME)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "MIRA",
+   "name": "Chains of War (MIRA)",
+   "built_on": "ADA"
+  },
+  {
+   "symbol": "APES",
+   "name": "Alpha Petto Shells (APES)",
+   "built_on": "MATIC"
+  },
+  {
+   "symbol": "AIRTNT",
+   "name": "Tenti (AIRTNT)",
+   "built_on": "MATIC"
+  },
+  {
+   "symbol": "WOKB",
+   "name": "Wrapped OKB (WOKB)",
+   "built_on": "OKT"
+  },
+  {
+   "symbol": "DOG",
+   "name": "The Doge NFT (DOG)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "FUNG",
+   "name": "Fungify (FUNG)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "GETH",
+   "name": "Guarded Ether (GETH)"
+  },
+  {
+   "symbol": "PLANET",
+   "name": "PLANET (PLANET)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "STKHUAHUA",
+   "name": "pSTAKE Staked HUAHUA (STKHUAHUA)"
+  },
+  {
+   "symbol": "DND",
+   "name": "Diamond DND (DND)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "PUP",
+   "name": "Pupper (PUP)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "BUBBLE",
+   "name": "Bubble (BUBBLE)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "LNQ",
+   "name": "LinqAI (LNQ)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "CVN",
+   "name": "ConsciousDao (CVN)"
+  },
+  {
+   "symbol": "ORT",
+   "name": "Okratech Token (ORT)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "MEWC",
+   "name": "Meowcoin (MEWC)"
+  },
+  {
+   "symbol": "EOSBLACK",
+   "name": "eosBLACK (EOSBLACK)",
+   "built_on": "EOS"
+  },
+  {
+   "symbol": "BLACK",
+   "name": "BLACKHOLE PROTOCOL (BLACK)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "CGV",
+   "name": "Cogito Finance (CGV)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "BANK",
+   "name": "Float Protocol (BANK)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "BABYDOGEZILLA",
+   "name": "BabyDogeZilla (BABYDOGEZILLA)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "MANEKI",
+   "name": "MANEKI (MANEKI)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "UTYAB",
+   "name": "Utya Black (UTYAB)",
+   "built_on": "TONCOIN"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "EOSBLACK",
+   "name": "eosBLACK (EOSBLACK)"
+  },
+  {
+   "symbol": "BLACK",
+   "name": "BLACKHOLE PROTOCOL (BLACK)"
+  }
+ ]
+}
