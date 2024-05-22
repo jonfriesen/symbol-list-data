@@ -1,0 +1,289 @@
+{
+ "added": [
+  {
+   "symbol": "PAIDV1",
+   "name": "PAID Network v1 (PAIDV1)"
+  },
+  {
+   "symbol": "MXGP",
+   "name": "MXGP Fan Token (MXGP)",
+   "built_on": "BITCI"
+  },
+  {
+   "symbol": "PHAME",
+   "name": "PHAME (PHAME)",
+   "built_on": "PLS"
+  },
+  {
+   "symbol": "NOHAT",
+   "name": "DogWifNoHat (NOHAT)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "WSDM",
+   "name": "Wisdomise AI (WSDM)",
+   "built_on": "MATIC"
+  },
+  {
+   "symbol": "SNOWBALL",
+   "name": "Simpson Cat (SNOWBALL)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "SNG",
+   "name": "SINERGIA (SNG)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "JUNGLE",
+   "name": "JUNGLEDOGE (JUNGLE)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "REGEN",
+   "name": "Regen Network (REGEN)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "GURL",
+   "name": "Gently Used Girl (GURL)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "BAG",
+   "name": "Bag (BAG)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "BONDAPPETIT",
+   "name": "BondAppetit (BONDAPPETIT)"
+  },
+  {
+   "symbol": "CSEN",
+   "name": "Consensus (CSEN)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "WUSD",
+   "name": "Worldwide USD (WUSD)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "GOME",
+   "name": "Game of Memes (GOME)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "GLDGOV",
+   "name": "Gold DAO (GLDGOV)",
+   "built_on": "ICP"
+  },
+  {
+   "symbol": "BONKONETH",
+   "name": "Bonk On ETH (BONKONETH)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "MANORUKA",
+   "name": "ManoRuka (MANORUKA)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "G",
+   "name": "GRN Grid (G)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "STOG",
+   "name": "Stooges (STOG)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "PMT",
+   "name": "POWER MARKET (PMT)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "PEPINU",
+   "name": "Pepinu (PEPINU)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "ALPHAAI",
+   "name": "Alpha AI (ALPHAAI)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "DELI",
+   "name": "NFTDeli (DELI)",
+   "built_on": "BITCI"
+  },
+  {
+   "symbol": "BANK",
+   "name": "Float Protocol (BANK)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "DFSPORTS",
+   "name": "Digital Fantasy Sports (DFSPORTS)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "QLIX",
+   "name": "QLix (QLIX)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "VSOL",
+   "name": "VSolidus (VSOL)"
+  },
+  {
+   "symbol": "TRUMPTITANS",
+   "name": "TrumpTitans (TRUMPTITANS)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "DOGETH",
+   "name": "EtherDoge (DOGETH)"
+  },
+  {
+   "symbol": "GBSK",
+   "name": "Gençlerbirliği Fan Token (GBSK)",
+   "built_on": "BITCI"
+  },
+  {
+   "symbol": "CUCCI",
+   "name": "Cat in Gucci (CUCCI)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "VDA",
+   "name": "Verida (VDA)",
+   "built_on": "MATIC"
+  },
+  {
+   "symbol": "IMPCOIN",
+   "name": "IMPERIUM (IMPCOIN)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "GEME",
+   "name": "GAMESTUMP (GEME)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "TOBY",
+   "name": "toby (TOBY)",
+   "built_on": "BASECHAIN"
+  },
+  {
+   "symbol": "GTA",
+   "name": "GTA Token (GTA)",
+   "built_on": "ARB"
+  },
+  {
+   "symbol": "SVL",
+   "name": "Slash Vision Labs (SVL)",
+   "built_on": "MANTLE"
+  },
+  {
+   "symbol": "CATGAME",
+   "name": "Cookie Cat Game (CATGAME)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "MTRK",
+   "name": "Matrak Fan Token (MTRK)",
+   "built_on": "BITCI"
+  },
+  {
+   "symbol": "PMD",
+   "name": "Pandemic Multiverse (PMD)",
+   "built_on": "KLV"
+  },
+  {
+   "symbol": "CTA",
+   "name": "Cross The Ages (CTA)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "BETZ",
+   "name": "Bet Lounge (BETZ)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "SNORK",
+   "name": "Snork (SNORK)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "KETAMINE",
+   "name": "Ketamine (KETAMINE)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "WFBTC",
+   "name": "Wrapped Fantom Bitcoin (WFBTC)",
+   "built_on": "FTM"
+  },
+  {
+   "symbol": "WRKX",
+   "name": "NFT Workx (WRKX)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "ROXY",
+   "name": "ROXY FROG (ROXY)",
+   "built_on": "BASECHAIN"
+  },
+  {
+   "symbol": "PPFT",
+   "name": "Papparico Finance (PPFT)",
+   "built_on": "CRO"
+  },
+  {
+   "symbol": "GPT4O",
+   "name": "GPT-4o (GPT4O)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "NARS",
+   "name": "Num ARS v2 (NARS)",
+   "built_on": "MATIC"
+  },
+  {
+   "symbol": "DG",
+   "name": "Decentral Games (DG)"
+  },
+  {
+   "symbol": "MPIX",
+   "name": "Megapix (MPIX)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "HAMMY",
+   "name": "SAD HAMSTER (HAMMY)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "SOLMEME",
+   "name": "TrumpFFIEGMEBidenCAT2024AMC (SOLMEME)",
+   "built_on": "SOL"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "CSEN",
+   "name": "Consensus (CSEN)"
+  },
+  {
+   "symbol": "DG",
+   "name": "Decentral Games (DG)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "DFSPORTS",
+   "name": "Digital Fantasy Sports (DFSPORTS)"
+  }
+ ]
+}

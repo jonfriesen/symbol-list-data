@@ -1,0 +1,138 @@
+{
+ "added": [
+  {
+   "symbol": "AIP.U",
+   "name": "AIP Realty Trust",
+   "exchange": "TSXV",
+   "yahoo_symbol": "AIP.U.V",
+   "instruments": [
+    {
+     "name": "AIP Realty Trust",
+     "symbol": "AIP.U"
+    }
+   ]
+  },
+  {
+   "symbol": "TIE",
+   "name": "Coloured Ties Capital Inc.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "TIE.V",
+   "instruments": [
+    {
+     "name": "Coloured Ties Capital Inc.",
+     "symbol": "TIE"
+    }
+   ]
+  },
+  {
+   "symbol": "FCEM",
+   "name": "Fidelity Emerging Markets Fund",
+   "exchange": "TSX",
+   "yahoo_symbol": "FCEM.TO",
+   "instruments": [
+    {
+     "name": "Fid Emerg Mkt FndETF",
+     "symbol": "FCEM"
+    }
+   ]
+  },
+  {
+   "symbol": "FGEB",
+   "name": "Fidelity Global Equity+ Balanced Fund",
+   "exchange": "TSX",
+   "yahoo_symbol": "FGEB.TO",
+   "instruments": [
+    {
+     "name": "Fid Gl Eq+Bl Fnd ETF",
+     "symbol": "FGEB"
+    }
+   ]
+  },
+  {
+   "symbol": "FGEP",
+   "name": "Fidelity Global Equity+ Fund",
+   "exchange": "TSX",
+   "yahoo_symbol": "FGEP.TO",
+   "instruments": [
+    {
+     "name": "Fid Gl Eq+ Fund ETF",
+     "symbol": "FGEP"
+    }
+   ]
+  },
+  {
+   "symbol": "FTHI",
+   "name": "Fidelity Tactical High Income Fund",
+   "exchange": "TSX",
+   "yahoo_symbol": "FTHI.TO",
+   "instruments": [
+    {
+     "name": "FidTac HghIncFndETF ",
+     "symbol": "FTHI"
+    }
+   ]
+  },
+  {
+   "symbol": "QQQL",
+   "name": "Global X Enhanced Nasdaq-100 Index ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "QQQL.TO",
+   "instruments": [
+    {
+     "name": "GblX EnNas100Idx ETF",
+     "symbol": "QQQL"
+    }
+   ]
+  },
+  {
+   "symbol": "USSL",
+   "name": "Global X Enhanced S\u0026P 500 Index ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "USSL.TO",
+   "instruments": [
+    {
+     "name": "GblX EnhSP500 IdxETF",
+     "symbol": "USSL"
+    }
+   ]
+  },
+  {
+   "symbol": "PAYS",
+   "name": "Global X Short-Term Government Bond Premium Yield ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "PAYS.TO",
+   "instruments": [
+    {
+     "name": "GblX StGvBnd PrY ETF",
+     "symbol": "PAYS"
+    }
+   ]
+  },
+  {
+   "symbol": "OZEM",
+   "name": "Roundhill GLP-1 \u0026 Weight Loss ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "OZEM"
+  },
+  {
+   "symbol": "KBDC",
+   "name": "Kayne Anderson BDC, Inc. Common Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "KBDC"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "CZOO",
+   "name": "Cazoo Group Ltd Class A Ordinary Shares",
+   "exchange": "NYSE",
+   "yahoo_symbol": "CZOO"
+  },
+  {
+   "symbol": "AMJ",
+   "name": "JPMorgan Chase Capital XVI JP Morgan Alerian MLP ETN",
+   "exchange": "NYSE ARCA",
+   "yahoo_symbol": "AMJ"
+  }
+ ]
+}
