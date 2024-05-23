@@ -1,0 +1,102 @@
+{
+ "added": [
+  {
+   "symbol": "PACE",
+   "name": "Pace Metals Ltd.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "PACE.V",
+   "instruments": [
+    {
+     "name": "Pace Metals Ltd.",
+     "symbol": "PACE"
+    }
+   ]
+  },
+  {
+   "symbol": "STER",
+   "name": "Steer Technologies Inc.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "STER.V",
+   "instruments": [
+    {
+     "name": "Steer Technologies Inc.",
+     "symbol": "STER"
+    }
+   ]
+  },
+  {
+   "symbol": "BOW",
+   "name": "Bowhead Specialty Holdings Inc. Common Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "BOW"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "ISUN",
+   "name": "iSun, Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "ISUN"
+  },
+  {
+   "symbol": "MDF",
+   "name": "mdf commerce inc.",
+   "exchange": "TSX",
+   "yahoo_symbol": "MDF.TO",
+   "instruments": [
+    {
+     "name": "mdf commerce inc.",
+     "symbol": "MDF"
+    }
+   ]
+  },
+  {
+   "symbol": "PUCKW",
+   "name": "Goal Acquisitions Corp. - Warrant",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "PUCKW"
+  },
+  {
+   "symbol": "PUCKU",
+   "name": "Goal Acquisitions Corp. - Unit",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "PUCKU"
+  },
+  {
+   "symbol": "PUCK",
+   "name": "Goal Acquisitions Corp. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "PUCK"
+  },
+  {
+   "symbol": "BRG",
+   "name": "Brigadier Gold Limited",
+   "exchange": "TSXV",
+   "yahoo_symbol": "BRG.V",
+   "instruments": [
+    {
+     "name": "Brigadier Gold Limited",
+     "symbol": "BRG"
+    }
+   ]
+  },
+  {
+   "symbol": "SCX",
+   "name": "L.S. Starrett Company (The) Common Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "SCX"
+  },
+  {
+   "symbol": "HMLO",
+   "name": "Hemlo Explorers Inc.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "HMLO.V",
+   "instruments": [
+    {
+     "name": "Hemlo Explorers Inc.",
+     "symbol": "HMLO"
+    }
+   ]
+  }
+ ]
+}

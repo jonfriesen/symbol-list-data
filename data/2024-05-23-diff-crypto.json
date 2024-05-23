@@ -1,0 +1,135 @@
+{
+ "added": [
+  {
+   "symbol": "ZENT",
+   "name": "Zentry (ZENT)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "QRDO",
+   "name": "Qredo (QRDO)"
+  },
+  {
+   "symbol": "TCG",
+   "name": "Today's Crypto (TCG)",
+   "built_on": "MATIC"
+  },
+  {
+   "symbol": "BRETTETH",
+   "name": "Brett ETH (BRETTETH)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "BITCONNECT",
+   "name": "BitConnect Coin (BITCONNECT)"
+  },
+  {
+   "symbol": "THR",
+   "name": "Thorecoin (THR)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "BTCAB",
+   "name": "Bitcoin Avalanche Bridged (BTCAB)",
+   "built_on": "AVAX"
+  },
+  {
+   "symbol": "DOGETH",
+   "name": "EtherDoge (DOGETH)"
+  },
+  {
+   "symbol": "BRETTBASE",
+   "name": "Brett Base (BRETTBASE)",
+   "built_on": "BASECHAIN"
+  },
+  {
+   "symbol": "SSVV1",
+   "name": "Blox (SSVV1)"
+  },
+  {
+   "symbol": "BCCOIN",
+   "name": "BlackCardCoin (BCCOIN)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "USDBLAST",
+   "name": "USDB Blast (USDBLAST)",
+   "built_on": "BLAST"
+  },
+  {
+   "symbol": "NOT",
+   "name": "Notcoin (NOT)",
+   "built_on": "TONCOIN"
+  },
+  {
+   "symbol": "DONK",
+   "name": "Don-key (DONK)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "GETH",
+   "name": "Guarded Ether (GETH)"
+  },
+  {
+   "symbol": "BANK",
+   "name": "Float Protocol (BANK)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "SFRXETH",
+   "name": "Frax Staked Ether (SFRXETH)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "INET",
+   "name": "Insure Network (INET)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "SHIN",
+   "name": "Shin Chan (SHIN)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "GPU",
+   "name": "Node AI (GPU)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "NTVRK",
+   "name": "Netvrk (NTVRK)"
+  },
+  {
+   "symbol": "SAGACOIN",
+   "name": "SagaCoin (SAGACOIN)"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "BCCOIN",
+   "name": "BitConnect Coin (BCCOIN)"
+  },
+  {
+   "symbol": "INET",
+   "name": "Insure Network (INET)"
+  },
+  {
+   "symbol": "DONK",
+   "name": "Don-key (DONK)"
+  },
+  {
+   "symbol": "NTVRK",
+   "name": "Netvrk (NTVRK)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "THR",
+   "name": "Thorecoin (THR)"
+  },
+  {
+   "symbol": "QRDO",
+   "name": "Qredo (QRDO)",
+   "built_on": "ETH"
+  }
+ ]
+}
