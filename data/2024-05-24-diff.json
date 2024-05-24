@@ -1,0 +1,122 @@
+{
+ "added": [
+  {
+   "symbol": "BRED",
+   "name": "Purebread Brands Inc.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "BRED.V",
+   "instruments": [
+    {
+     "name": "Purebread Brands Inc.",
+     "symbol": "BRED"
+    }
+   ]
+  },
+  {
+   "symbol": "XBOT",
+   "name": "Tokens.com Corp.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "XBOT.V",
+   "instruments": [
+    {
+     "name": "Tokens.com Corp.",
+     "symbol": "XBOT"
+    },
+    {
+     "name": "Tokens.com Corp. wt 15Nov2024",
+     "symbol": "XBOT.WT"
+    }
+   ]
+  },
+  {
+   "symbol": "PPYA",
+   "name": "Papaya Growth Opportunity Corp. I - Class A Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "PPYA"
+  },
+  {
+   "symbol": "PPYAU",
+   "name": "Papaya Growth Opportunity Corp. I - Unit",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "PPYAU"
+  },
+  {
+   "symbol": "PPYAW",
+   "name": "Papaya Growth Opportunity Corp. I - Warrant",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "PPYAW"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "PPYA",
+   "name": "Papaya Growth Opportunity Corp. I - Class A Common Stock",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "PPYA"
+  },
+  {
+   "symbol": "COIN",
+   "name": "Tokens.com Corp.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "COIN.V",
+   "instruments": [
+    {
+     "name": "Tokens.com Corp.",
+     "symbol": "COIN"
+    },
+    {
+     "name": "Tokens.com Corp. wt 15Nov2024",
+     "symbol": "COIN.WT"
+    }
+   ]
+  },
+  {
+   "symbol": "ACBA",
+   "name": "Ace Global Business Acquisition Limited - Ordinary Shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "ACBA"
+  },
+  {
+   "symbol": "PPYAW",
+   "name": "Papaya Growth Opportunity Corp. I - Warrant",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "PPYAW"
+  },
+  {
+   "symbol": "LABP",
+   "name": "Landos Biopharma, Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "LABP"
+  },
+  {
+   "symbol": "PPYAU",
+   "name": "Papaya Growth Opportunity Corp. I - Unit",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "PPYAU"
+  },
+  {
+   "symbol": "ACBAW",
+   "name": "Ace Global Business Acquisition Limited - Warrant",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "ACBAW"
+  },
+  {
+   "symbol": "COHO",
+   "name": "Coho Collective Kitchens Inc",
+   "exchange": "TSXV",
+   "yahoo_symbol": "COHO.V",
+   "instruments": [
+    {
+     "name": "Coho Collective Kitchens Inc.",
+     "symbol": "COHO"
+    }
+   ]
+  },
+  {
+   "symbol": "ACBAU",
+   "name": "Ace Global Business Acquisition Limited - Unit",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "ACBAU"
+  }
+ ]
+}
