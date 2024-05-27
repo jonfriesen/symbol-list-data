@@ -1,0 +1,30 @@
+{
+ "added": [
+  {
+   "symbol": "AG",
+   "name": "First Majestic Silver Corp.",
+   "exchange": "TSX",
+   "yahoo_symbol": "AG.TO",
+   "instruments": [
+    {
+     "name": "First Majestic J",
+     "symbol": "AG"
+    }
+   ]
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "FR",
+   "name": "First Majestic Silver Corp.",
+   "exchange": "TSX",
+   "yahoo_symbol": "FR.TO",
+   "instruments": [
+    {
+     "name": "First Majestic J",
+     "symbol": "FR"
+    }
+   ]
+  }
+ ]
+}
