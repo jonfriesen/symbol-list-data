@@ -1,0 +1,60 @@
+{
+ "added": [
+  {
+   "symbol": "LSB",
+   "name": "LakeShore Biopharma Co., Ltd - Ordinary Shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "LSB"
+  },
+  {
+   "symbol": "LSBPW",
+   "name": "LakeShore Biopharma Co., Ltd - Warrants",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "LSBPW"
+  },
+  {
+   "symbol": "CIMN",
+   "name": "Chimera Investment Corporation 9.000% Senior Notes due 2029",
+   "exchange": "NYSE",
+   "yahoo_symbol": "CIMN"
+  },
+  {
+   "symbol": "CHII.P",
+   "name": "Chicane Capital II Corp.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "CHII.P.V",
+   "instruments": [
+    {
+     "name": "Chicane Capital II Corp.",
+     "symbol": "CHII.P"
+    }
+   ]
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "GLOG$A",
+   "name": "GasLog LP. 8.75% Series A Cumulative Redeemable Perpetual Preference Shares",
+   "exchange": "NYSE",
+   "yahoo_symbol": "GLOG$A"
+  },
+  {
+   "symbol": "YS",
+   "name": "YS Biopharma Co., Ltd. - Ordinary Shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "YS"
+  },
+  {
+   "symbol": "YSBPW",
+   "name": "YS Biopharma Co., Ltd. - Warrants",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "YSBPW"
+  },
+  {
+   "symbol": "FNCH",
+   "name": "Finch Therapeutics Group, Inc. - Common Stock",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "FNCH"
+  }
+ ]
+}
