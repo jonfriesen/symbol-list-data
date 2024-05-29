@@ -1,0 +1,174 @@
+{
+ "added": [
+  {
+   "symbol": "TRAN",
+   "name": "Clean Energy Transition Inc.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "TRAN.V",
+   "instruments": [
+    {
+     "name": "Clean Energy Transition Inc.",
+     "symbol": "TRAN"
+    }
+   ]
+  },
+  {
+   "symbol": "EQCC",
+   "name": "Global X All-Equity Asset Allocation Covered Call ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "EQCC.TO",
+   "instruments": [
+    {
+     "name": "GblX Eqty AsAllo Cv",
+     "symbol": "EQCC"
+    }
+   ]
+  },
+  {
+   "symbol": "INBXV",
+   "name": "Inhibrx, Inc. - Ex-distribution When-Issued",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "INBXV"
+  },
+  {
+   "symbol": "INXBV",
+   "name": "Inhibrx Biosciences, Inc. - Common Stock When Issued",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "INXBV"
+  },
+  {
+   "symbol": "CFG$H",
+   "name": "Citizens Financial Group, Inc. Depositary Shares Each Representing a 1/40th Interest in a Share of 7.375% Fixed-Rate Non-Cumulative Perpetual Preferred Stock, Series H",
+   "exchange": "NYSE",
+   "yahoo_symbol": "CFG$H"
+  },
+  {
+   "symbol": "CNDA",
+   "name": "Concord Acquisition Corp II Class A Common Stock",
+   "exchange": "NYSE MKT",
+   "yahoo_symbol": "CNDA"
+  },
+  {
+   "symbol": "CNDA.U",
+   "name": "Concord Acquisition Corp II Units",
+   "exchange": "NYSE MKT",
+   "yahoo_symbol": "CNDA.U"
+  },
+  {
+   "symbol": "CNDA.W",
+   "name": "Concord Acquisition Corp II Warrants, each whole warrant exercisable for one share of Class A Common Stock at an exercise price of $11.50",
+   "exchange": "NYSE MKT",
+   "yahoo_symbol": "CNDA.W"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "AUVIP",
+   "name": "Applied UV, Inc. - 10.5% Series A Cumulative Perpetual Preferred Stock, $0.0001 par value per share",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "AUVIP"
+  },
+  {
+   "symbol": "QDRO",
+   "name": "Quadro Acquisition One Corp. - Class A Ordinary Shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "QDRO"
+  },
+  {
+   "symbol": "QCD",
+   "name": "AGF Systematic Canadian Equity ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "QCD.TO",
+   "instruments": [
+    {
+     "name": "AGF Sys Cdn Eqty Un",
+     "symbol": "QCD"
+    }
+   ]
+  },
+  {
+   "symbol": "QEM",
+   "name": "AGF Systematic Emerging Markets Equity ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "QEM.TO",
+   "instruments": [
+    {
+     "name": "AGF Sys Emerg Mkt Eq",
+     "symbol": "QEM"
+    }
+   ]
+  },
+  {
+   "symbol": "AUVI",
+   "name": "Applied UV, Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "AUVI"
+  },
+  {
+   "symbol": "MRAI",
+   "name": "Marpai, Inc. - Class A Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "MRAI"
+  },
+  {
+   "symbol": "CNDA",
+   "name": "Concord Acquisition Corp II Class A Common Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "CNDA"
+  },
+  {
+   "symbol": "CNDA.U",
+   "name": "Concord Acquisition Corp II Units",
+   "exchange": "NYSE",
+   "yahoo_symbol": "CNDA.U"
+  },
+  {
+   "symbol": "CNDA.W",
+   "name": "Concord Acquisition Corp II Warrants, each whole warrant exercisable for one share of Class A Common Stock at an exercise price of $11.50",
+   "exchange": "NYSE",
+   "yahoo_symbol": "CNDA.W"
+  },
+  {
+   "symbol": "QDROW",
+   "name": "Quadro Acquisition One Corp. - Warrant",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "QDROW"
+  },
+  {
+   "symbol": "RRS",
+   "name": "Rogue Resources Inc.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "RRS.V",
+   "instruments": [
+    {
+     "name": "Rogue Resources Inc.",
+     "symbol": "RRS"
+    }
+   ]
+  },
+  {
+   "symbol": "BREZW",
+   "name": "Breeze Holdings Acquisition Corp. - Warrant",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "BREZW"
+  },
+  {
+   "symbol": "BREZ",
+   "name": "Breeze Holdings Acquisition Corp. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "BREZ"
+  },
+  {
+   "symbol": "QDROU",
+   "name": "Quadro Acquisition One Corp. - Unit",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "QDROU"
+  },
+  {
+   "symbol": "BREZR",
+   "name": "Breeze Holdings Acquisition Corp. - Right",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "BREZR"
+  }
+ ]
+}

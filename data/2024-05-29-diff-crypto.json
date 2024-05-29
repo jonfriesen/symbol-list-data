@@ -1,0 +1,231 @@
+{
+ "added": [
+  {
+   "symbol": "TMSH.BITCI",
+   "name": "Bursaspor Fan Token (TMSH.BITCI)",
+   "built_on": "BITCI"
+  },
+  {
+   "symbol": "DOG",
+   "name": "The Doge NFT (DOG)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "ROSA",
+   "name": "Rosa Inu (ROSA)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "MUSCAT",
+   "name": "MusCat (MUSCAT)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "MAGAPEPE",
+   "name": "MAGA PEPE (MAGAPEPE)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "ACHI",
+   "name": "achi (ACHI)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "GROYPER",
+   "name": "Groyper (GROYPER)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "VTRA.BITCI",
+   "name": " E.C. Vitoria Fan Token (VTRA.BITCI)",
+   "built_on": "BITCI"
+  },
+  {
+   "symbol": "TRUMPE",
+   "name": "Trump Pepe (TRUMPE)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "GTRUMP",
+   "name": "Giga Trump (GTRUMP)",
+   "built_on": "BASECHAIN"
+  },
+  {
+   "symbol": "OKAYEG",
+   "name": "Okayeg (OKAYEG)",
+   "built_on": "BASECHAIN"
+  },
+  {
+   "symbol": "PAMBI",
+   "name": "Pambicoin (PAMBI)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "BONDLYV1",
+   "name": "Bondly Finance (BONDLYV1)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "PUNK",
+   "name": "SteamPunk (PUNK)",
+   "built_on": "TONCOIN"
+  },
+  {
+   "symbol": "HIP",
+   "name": "HIPPOP (HIP)",
+   "built_on": "ARB"
+  },
+  {
+   "symbol": "SNFT.BITCI",
+   "name": "Spanish National Team Fan Token (SNFT.BITCI)",
+   "built_on": "BITCI"
+  },
+  {
+   "symbol": "PEANIE",
+   "name": "Peanie (PEANIE)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "DNZ.BITCI",
+   "name": "Denizlispor Fan Token (DNZ.BITCI)",
+   "built_on": "BITCI"
+  },
+  {
+   "symbol": "ESES.BITCI",
+   "name": "Eskişehir Fan Tokens (ESES.BITCI)",
+   "built_on": "BITCI"
+  },
+  {
+   "symbol": "WJD",
+   "name": "WJD (WJD)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "BUBBA",
+   "name": "Bubba (BUBBA)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "WAFFLES",
+   "name": "Waffles Davincij15's Cat (WAFFLES)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "BITBEDR",
+   "name": "Bitcoin EDenRich (BITBEDR)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "G",
+   "name": "GRN Grid (G)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "MRXB",
+   "name": "Wrapped Metrix (MRXB)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "NR1.BITCI",
+   "name": "Number 1 Token (NR1.BITCI)",
+   "built_on": "BITCI"
+  },
+  {
+   "symbol": "TBFT.BITCI",
+   "name": "Türkiye Basketbol Federasyon Token (TBFT.BITCI)",
+   "built_on": "BITCI"
+  },
+  {
+   "symbol": "KSK.BITCI",
+   "name": "Karsiyaka Taraftar Token (KSK.BITCI)",
+   "built_on": "BITCI"
+  },
+  {
+   "symbol": "GSTOP",
+   "name": "GameStop (GSTOP)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "SESE",
+   "name": "Simpson Pepe (SESE)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "KSTT.BITCI",
+   "name": "Kocaelispor Fan Token (KSTT.BITCI)",
+   "built_on": "BITCI"
+  },
+  {
+   "symbol": "RETIK",
+   "name": "Retik Finance (RETIK)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "BANKETH",
+   "name": "BankEth (BANKETH)"
+  },
+  {
+   "symbol": "ANKA.BITCI",
+   "name": "Ankaragücü Fan Token (ANKA.BITCI)",
+   "built_on": "BITCI"
+  },
+  {
+   "symbol": "BROOT",
+   "name": "BROOT (BROOT)",
+   "built_on": "BASECHAIN"
+  },
+  {
+   "symbol": "PRESI",
+   "name": "Turbo Trump (PRESI)",
+   "built_on": "BASECHAIN"
+  },
+  {
+   "symbol": "WEIRDO",
+   "name": "Weirdo (WEIRDO)",
+   "built_on": "BASECHAIN"
+  },
+  {
+   "symbol": "LAPI",
+   "name": "Lapis Inu (LAPI)",
+   "built_on": "SOL"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "DNZ.BITCI",
+   "name": "Denizlispor Fan Token (DNZ.BITCI)"
+  },
+  {
+   "symbol": "ESES.BITCI",
+   "name": "Eskişehir Fan Tokens (ESES.BITCI)"
+  },
+  {
+   "symbol": "SNFT.BITCI",
+   "name": "Spanish National Team Fan Token (SNFT.BITCI)"
+  },
+  {
+   "symbol": "MRXB",
+   "name": "Wrapped Metrix (MRXB)"
+  },
+  {
+   "symbol": "KSTT.BITCI",
+   "name": "Kocaelispor Fan Token (KSTT.BITCI)"
+  },
+  {
+   "symbol": "NR1.BITCI",
+   "name": "Number 1 Token (NR1.BITCI)"
+  },
+  {
+   "symbol": "ANKA.BITCI",
+   "name": "Ankaragücü Fan Token (ANKA.BITCI)"
+  },
+  {
+   "symbol": "PUNK",
+   "name": "SteamPunk (PUNK)"
+  },
+  {
+   "symbol": "KSK.BITCI",
+   "name": "Karsiyaka Taraftar Token (KSK.BITCI)"
+  }
+ ]
+}
