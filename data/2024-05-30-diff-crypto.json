@@ -1,0 +1,208 @@
+{
+ "added": [
+  {
+   "symbol": "SION",
+   "name": "FC Sion (SION)",
+   "built_on": "BITCI"
+  },
+  {
+   "symbol": "FIDU",
+   "name": "Fidu (FIDU)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "PLMC",
+   "name": "Polimec (PLMC)"
+  },
+  {
+   "symbol": "SHINJA",
+   "name": "Shibnobi (SHINJA)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "BONDLYV1",
+   "name": "Bondly Finance (BONDLYV1)"
+  },
+  {
+   "symbol": "BOBBY",
+   "name": "Bobby Moore (BOBBY)",
+   "built_on": "BASECHAIN"
+  },
+  {
+   "symbol": "SHUFFLE",
+   "name": "SHUFFLE! (SHUFFLE)"
+  },
+  {
+   "symbol": "IWFT",
+   "name": "İstanbul Wild Cats (IWFT)",
+   "built_on": "BITCI"
+  },
+  {
+   "symbol": "CANNF",
+   "name": "CANNFINITY (CANNF)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "ALTR",
+   "name": "Altranium (ALTR)",
+   "built_on": "ARB"
+  },
+  {
+   "symbol": "LAINESOL",
+   "name": "Laine Staked SOL (LAINESOL)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "STEAMPUNK",
+   "name": "SteamPunk (STEAMPUNK)"
+  },
+  {
+   "symbol": "0xVPN",
+   "name": "0xVPN.org (0xVPN)"
+  },
+  {
+   "symbol": "BDRM",
+   "name": "Bodrumspor Fan Token (BDRM)",
+   "built_on": "BITCI"
+  },
+  {
+   "symbol": "NEARX",
+   "name": "Stader NearX (NEARX)",
+   "built_on": "NEAR"
+  },
+  {
+   "symbol": "VERO",
+   "name": "VEROPAD (VERO)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "PUNKV",
+   "name": "Punk Vault (NFTX) (PUNKV)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "DUCKO",
+   "name": "Duck Off Coin (DUCKO)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "TOKERO",
+   "name": "TOKERO LevelUP Token (TOKERO)"
+  },
+  {
+   "symbol": "MCL",
+   "name": "McLaren F1 (MCL)",
+   "built_on": "BITCI"
+  },
+  {
+   "symbol": "SHFL",
+   "name": "Shuffle (SHFL)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "ZKS",
+   "name": "ZKSpace (ZKS)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "BLACKD",
+   "name": "Blackder AI (BLACKD)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "DOG",
+   "name": "The Doge NFT (DOG)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "FKSK",
+   "name": "Fatih Karagümrük SK (FKSK)",
+   "built_on": "BITCI"
+  },
+  {
+   "symbol": "APEXT",
+   "name": "ApexToken (APEXT)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "WIFICOIN",
+   "name": "Wifi Coin (WIFICOIN)"
+  },
+  {
+   "symbol": "DUELV1",
+   "name": "Duel Network v1 (DUELV1)"
+  },
+  {
+   "symbol": "GETH",
+   "name": "Guarded Ether (GETH)"
+  },
+  {
+   "symbol": "SYNT",
+   "name": "Synthetix Network (SYNT)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "JUSD",
+   "name": "JUSD Stable Token (JUSD)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "PARAG",
+   "name": "Paragon Network (PARAG)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "TMFT",
+   "name": "Turkish Motorcycle Federation (TMFT)",
+   "built_on": "BITCI"
+  },
+  {
+   "symbol": "BANK",
+   "name": "Float Protocol (BANK)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "ADANA",
+   "name": "Adanaspor Fan Token (ADANA)",
+   "built_on": "BITCI"
+  },
+  {
+   "symbol": "DARED",
+   "name": "Daredevil Dog (DARED)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "WIFI",
+   "name": "WiFi Map (WIFI)",
+   "built_on": "MATIC"
+  },
+  {
+   "symbol": "BTC2XFLI",
+   "name": "BTC 2x Flexible Leverage Index (BTC2XFLI)",
+   "built_on": "ETH"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "WIFI",
+   "name": "Wifi Coin (WIFI)"
+  },
+  {
+   "symbol": "ZKS",
+   "name": "ZKSpace (ZKS)"
+  },
+  {
+   "symbol": "SHFL",
+   "name": "SHUFFLE! (SHFL)"
+  },
+  {
+   "symbol": "BONDLYV1",
+   "name": "Bondly Finance (BONDLYV1)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "SHINJA",
+   "name": "Shibnobi (SHINJA)"
+  }
+ ]
+}
