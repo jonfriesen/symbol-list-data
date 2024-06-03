@@ -1,0 +1,114 @@
+{
+ "added": [
+  {
+   "symbol": "DOC",
+   "name": "CloudMD Software \u0026 Services Inc.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "DOC.V",
+   "instruments": [
+    {
+     "name": "CloudMD Software \u0026 Services Inc.",
+     "symbol": "DOC"
+    }
+   ]
+  },
+  {
+   "symbol": "KNGC",
+   "name": "Brompton Canadian Cash Flow Kings ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "KNGC.TO",
+   "instruments": [
+    {
+     "name": "Bromp CdCflw Kng ETF",
+     "symbol": "KNGC"
+    }
+   ]
+  },
+  {
+   "symbol": "KNGU",
+   "name": "Brompton U.S. Cash Flow Kings ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "KNGU.TO",
+   "instruments": [
+    {
+     "name": "Bromp USCflw Kng ETF",
+     "symbol": "KNGU"
+    }
+   ]
+  },
+  {
+   "symbol": "KDLY",
+   "name": "Kindly MD, Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "KDLY"
+  },
+  {
+   "symbol": "KDLYW",
+   "name": "Kindly MD, Inc. - Warrants",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "KDLYW"
+  },
+  {
+   "symbol": "NEWTG",
+   "name": "NewtekOne, Inc. - 8.50% Fixed Rate Senior Notes due 2029",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "NEWTG"
+  },
+  {
+   "symbol": "SMTK",
+   "name": "SmartKem, Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "SMTK"
+  },
+  {
+   "symbol": "SCE$N",
+   "name": "SCE Trust VIII 6.95% Trust Preference Securities",
+   "exchange": "NYSE",
+   "yahoo_symbol": "SCE$N"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "NSS",
+   "name": "NuStar Logistics, L.P. 7.625% Fixed-to-Floating Rate Subordinated Notes due 2043",
+   "exchange": "NYSE",
+   "yahoo_symbol": "NSS"
+  },
+  {
+   "symbol": "UGIC",
+   "name": "UGI Corporation Corporate Units",
+   "exchange": "NYSE",
+   "yahoo_symbol": "UGIC"
+  },
+  {
+   "symbol": "NS$B",
+   "name": "Nustar Energy L.P. 7.625% Series B Fixed-to-Floating Rate Cumulative Redeemable Perpetual Preferred Units representing limited partner interests",
+   "exchange": "NYSE",
+   "yahoo_symbol": "NS$B"
+  },
+  {
+   "symbol": "SWAV",
+   "name": "Shockwave Medical, Inc. - Common Stock",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "SWAV"
+  },
+  {
+   "symbol": "NS$A",
+   "name": "Nustar Energy L.P. 8.50% Series A Fixed-to-Floating Rate Cumulative Redeemable Perpetual Preferred Units",
+   "exchange": "NYSE",
+   "yahoo_symbol": "NS$A"
+  },
+  {
+   "symbol": "NS$C",
+   "name": "Nustar Energy L.P. 9.00% Series C Fixed-to-Floating Rate Cumulative Redeemable Perpetual Preferred Units",
+   "exchange": "NYSE",
+   "yahoo_symbol": "NS$C"
+  },
+  {
+   "symbol": "CLVT$A",
+   "name": "Clarivate Plc 5.25% Series A Mandatory Convertible Preferred Shares",
+   "exchange": "NYSE",
+   "yahoo_symbol": "CLVT$A"
+  }
+ ]
+}
