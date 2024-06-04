@@ -1,0 +1,36 @@
+{
+ "added": [
+  {
+   "symbol": "KZR",
+   "name": "Kezar Life Sciences, Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "KZR"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "ERF",
+   "name": "Enerplus Corporation",
+   "exchange": "TSX",
+   "yahoo_symbol": "ERF.TO",
+   "instruments": [
+    {
+     "name": "Enerplus Corporation",
+     "symbol": "ERF"
+    }
+   ]
+  },
+  {
+   "symbol": "GRTX",
+   "name": "Galera Therapeutics, Inc. - Common Stock",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "GRTX"
+  },
+  {
+   "symbol": "KZR",
+   "name": "Kezar Life Sciences, Inc. - Common Stock",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "KZR"
+  }
+ ]
+}
