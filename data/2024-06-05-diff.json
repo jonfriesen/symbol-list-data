@@ -1,0 +1,118 @@
+{
+ "added": [
+  {
+   "symbol": "EQY",
+   "name": "Franklin All-Equity ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "EQY.TO",
+   "instruments": [
+    {
+     "name": "Frankl AL-Eqt ETFPor",
+     "symbol": "EQY"
+    }
+   ]
+  },
+  {
+   "symbol": "CNV",
+   "name": "Franklin Conservative Income ETF Portfolio",
+   "exchange": "TSX",
+   "yahoo_symbol": "CNV.TO",
+   "instruments": [
+    {
+     "name": "FrankConvIC ETF Port",
+     "symbol": "CNV"
+    }
+   ]
+  },
+  {
+   "symbol": "CBL",
+   "name": "Franklin Core ETF Portfolio",
+   "exchange": "TSX",
+   "yahoo_symbol": "CBL.TO",
+   "instruments": [
+    {
+     "name": "FranklinCoreETF Port",
+     "symbol": "CBL"
+    }
+   ]
+  },
+  {
+   "symbol": "GRO",
+   "name": "Franklin Growth ETF Portfolio",
+   "exchange": "TSX",
+   "yahoo_symbol": "GRO.TO",
+   "instruments": [
+    {
+     "name": "FranklinGrw ETF Port",
+     "symbol": "GRO"
+    }
+   ]
+  },
+  {
+   "symbol": "AEC",
+   "name": "Anfield Energy Inc.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "AEC.V",
+   "instruments": [
+    {
+     "name": "Anfield Energy Inc.",
+     "symbol": "AEC"
+    },
+    {
+     "name": "Anfield Energy Inc. wt 12May2027",
+     "symbol": "AEC.WT"
+    }
+   ]
+  },
+  {
+   "symbol": "AIPI",
+   "name": "REX AI Equity Premium Income ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "AIPI"
+  },
+  {
+   "symbol": "ATYR",
+   "name": "aTyr Pharma, Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "ATYR"
+  },
+  {
+   "symbol": "BIPJ",
+   "name": "Brookfield Infrastructure Corporation 7.250% Subordinated Notes due 2084",
+   "exchange": "NYSE",
+   "yahoo_symbol": "BIPJ"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "IDG",
+   "name": "Indigo Books \u0026 Music Inc.",
+   "exchange": "TSX",
+   "yahoo_symbol": "IDG.TO",
+   "instruments": [
+    {
+     "name": "Indigo Books \u0026 Music",
+     "symbol": "IDG"
+    }
+   ]
+  },
+  {
+   "symbol": "MTAL.W",
+   "name": "Metals Acquisition Limited Warrants",
+   "exchange": "NYSE",
+   "yahoo_symbol": "MTAL.W"
+  },
+  {
+   "symbol": "LIFE",
+   "name": "aTyr Pharma, Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "LIFE"
+  },
+  {
+   "symbol": "FUSN",
+   "name": "Fusion Pharmaceuticals Inc. - Common Shares",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "FUSN"
+  }
+ ]
+}

@@ -1,0 +1,260 @@
+{
+ "added": [
+  {
+   "symbol": "BABYB",
+   "name": "Baby Bali (BABYB)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "CHIM",
+   "name": "Chimera (CHIM)",
+   "built_on": "AVAX"
+  },
+  {
+   "symbol": "METAW",
+   "name": "MetaWorth (METAW)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "PALM",
+   "name": "PaLM AI (PALM)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "FIRE",
+   "name": "Matr1x Fire (FIRE)",
+   "built_on": "MATIC"
+  },
+  {
+   "symbol": "QUIL",
+   "name": "Wrapped QUIL (QUIL)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "KELPE",
+   "name": "Kelp Earned Points (KELPE)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "SYNCN",
+   "name": "Sync Network (SYNCN)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "DOGENFT",
+   "name": "The Doge NFT (DOGENFT)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "RICHOFME",
+   "name": "Rich Of Memes (RICHOFME)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "GYROS",
+   "name": "Gyroscope GYD (GYROS)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "AIINU",
+   "name": "AI INU (AIINU)",
+   "built_on": "BASECHAIN"
+  },
+  {
+   "symbol": "FROGB",
+   "name": "Frog Bsc (FROGB)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "CHARTA",
+   "name": "CHARTAI (CHARTA)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "ULTRAP",
+   "name": "ULTRA Prisma Finance (ULTRAP)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "PARAM",
+   "name": "Param (PARAM)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "FASTV1",
+   "name": "Fastswap v1 (FASTV1)"
+  },
+  {
+   "symbol": "G",
+   "name": "GRN Grid (G)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "CHOMP",
+   "name": "ChompCoin (CHOMP)",
+   "built_on": "BASECHAIN"
+  },
+  {
+   "symbol": "BTRC",
+   "name": "Bitro Coin (BTRC)",
+   "built_on": "MATIC"
+  },
+  {
+   "symbol": "FREEDO",
+   "name": "Freedom (FREEDO)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "WSGV1",
+   "name": "Wall Street Games v1 (WSGV1)"
+  },
+  {
+   "symbol": "TUSDV1",
+   "name": "True USD v1 (TUSDV1)"
+  },
+  {
+   "symbol": "STRUMP",
+   "name": "Super Trump (STRUMP)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "MEOWM",
+   "name": "Meow Meow Coin (MEOWM)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "BANKETH",
+   "name": "BankEth (BANKETH)"
+  },
+  {
+   "symbol": "STTIA",
+   "name": "Stride Staked TIA (STTIA)"
+  },
+  {
+   "symbol": "CGL",
+   "name": "Crypto Gladiator Shards (CGL)",
+   "built_on": "MATIC"
+  },
+  {
+   "symbol": "APUAPU",
+   "name": "APU (APUAPU)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "ATHEN",
+   "name": "Athenas AI (ATHEN)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "PALMV1",
+   "name": "PaLM AI v1 (PALMV1)"
+  },
+  {
+   "symbol": "WIZA",
+   "name": "Wizardia (WIZA)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "ROOSTV1",
+   "name": "Roost Coin v1 (ROOSTV1)"
+  },
+  {
+   "symbol": "STOIC",
+   "name": "stoicDAO (STOIC)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "VIRTUM",
+   "name": "VIRTUMATE (VIRTUM)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "ETER",
+   "name": "Eternal AI (ETER)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "MONB",
+   "name": "MonbaseCoin (MONB)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "HACD",
+   "name": "Hacash Diamond (HACD)"
+  },
+  {
+   "symbol": "ROBINH",
+   "name": "ROBIN HOOD (ROBINH)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "MINES",
+   "name": "MINESHIELD (MINES)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "PODFAST",
+   "name": "PodFast (PODFAST)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "HDRO",
+   "name": "Hydro Protocol (HDRO)",
+   "built_on": "INJ"
+  },
+  {
+   "symbol": "PALMP",
+   "name": "PalmPay (PALMP)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "LARR",
+   "name": "larrywifhat (LARR)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "DONALDT",
+   "name": "Donald The Trump (DONALDT)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "ELONM",
+   "name": "ELON MEME (ELONM)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "OMNIC",
+   "name": "OmniCat (OMNIC)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "PEPET",
+   "name": "PepeTrump (PEPET)"
+  },
+  {
+   "symbol": "BOMBS",
+   "name": "Bomb Shelter Inu (BOMBS)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "SHILLG",
+   "name": "Shill Guard Token (SHILLG)",
+   "built_on": "ETH"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "CGL",
+   "name": "Crypto Gladiator Shards (CGL)"
+  },
+  {
+   "symbol": "FAST",
+   "name": "PodFast (FAST)"
+  },
+  {
+   "symbol": "PALM",
+   "name": "PalmPay (PALM)",
+   "built_on": "BNB"
+  }
+ ]
+}
