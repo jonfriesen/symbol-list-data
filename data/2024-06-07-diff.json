@@ -1,0 +1,66 @@
+{
+ "added": [
+  {
+   "symbol": "FLYE",
+   "name": "Fly-E Group, Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "FLYE"
+  },
+  {
+   "symbol": "GAUZ",
+   "name": "Gauzy Ltd. - Ordinary Shares",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "GAUZ"
+  },
+  {
+   "symbol": "LIF",
+   "name": "Life360, Inc. - Common Stock",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "LIF"
+  },
+  {
+   "symbol": "BWMX",
+   "name": "Betterware de Mexico, S.A.P.I. de C.V. Ordinary Shares",
+   "exchange": "NYSE",
+   "yahoo_symbol": "BWMX"
+  },
+  {
+   "symbol": "CHEB.U",
+   "name": "Chenghe Acquisition II Co. Units, each consisting of one Class A ordinary share and one-half of one redeemable warrant",
+   "exchange": "NYSE MKT",
+   "yahoo_symbol": "CHEB.U"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "PLTNR",
+   "name": "Plutonian Acquisition Corp. - Rights",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "PLTNR"
+  },
+  {
+   "symbol": "PLTNW",
+   "name": "Plutonian Acquisition Corp. - Warrant",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "PLTNW"
+  },
+  {
+   "symbol": "PLTNU",
+   "name": "Plutonian Acquisition Corp. - Unit",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "PLTNU"
+  },
+  {
+   "symbol": "BWMX",
+   "name": "Betterware de Mexico, S.A.P.I. de C.V. - Ordinary Shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "BWMX"
+  },
+  {
+   "symbol": "PLTN",
+   "name": "Plutonian Acquisition Corp. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "PLTN"
+  }
+ ]
+}
