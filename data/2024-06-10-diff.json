@@ -1,0 +1,150 @@
+{
+ "added": [
+  {
+   "symbol": "DSY",
+   "name": "Big Tree Cloud Holdings Limited - Ordinary Shares",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "DSY"
+  },
+  {
+   "symbol": "DSYWW",
+   "name": "Big Tree Cloud Holdings Limited - Warrants",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "DSYWW"
+  },
+  {
+   "symbol": "FSCS",
+   "name": "First Trust SMID Capital Strength ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "FSCS"
+  },
+  {
+   "symbol": "RAPP",
+   "name": "Rapport Therapeutics, Inc. - Common Stock",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "RAPP"
+  },
+  {
+   "symbol": "SIFYR",
+   "name": "Sify Technologies Limited - Rights expiring 6/21/2024",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "SIFYR"
+  },
+  {
+   "symbol": "WAY",
+   "name": "Waystar Holding Corp. - Common Stock",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "WAY"
+  },
+  {
+   "symbol": "ONIT",
+   "name": "Onity Group Inc. Common Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "ONIT"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "SNYB",
+   "name": "Shiny Health \u0026 Wellness Corp.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "SNYB.V",
+   "instruments": [
+    {
+     "name": "Shiny Health \u0026 Wellness Corp.",
+     "symbol": "SNYB"
+    }
+   ]
+  },
+  {
+   "symbol": "INCA",
+   "name": "Inca One Gold Corp.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "INCA.V",
+   "instruments": [
+    {
+     "name": "Inca One Gold Corp.",
+     "symbol": "INCA"
+    }
+   ]
+  },
+  {
+   "symbol": "TWLV",
+   "name": "Twelve Seas Investment Company II - Class A Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "TWLV"
+  },
+  {
+   "symbol": "AONC",
+   "name": "American Oncology Network, Inc. - Class A Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "AONC"
+  },
+  {
+   "symbol": "TWLVU",
+   "name": "Twelve Seas Investment Company II - Unit",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "TWLVU"
+  },
+  {
+   "symbol": "AONCW",
+   "name": "American Oncology Network, Inc. - Warrant",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "AONCW"
+  },
+  {
+   "symbol": "JAX",
+   "name": "Jaxon Mining Inc.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "JAX.V",
+   "instruments": [
+    {
+     "name": "Jaxon Mining Inc.",
+     "symbol": "JAX"
+    }
+   ]
+  },
+  {
+   "symbol": "Q",
+   "name": "Quetzal Copper Corp.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "Q.V",
+   "instruments": [
+    {
+     "name": "Quetzal Copper Corp.",
+     "symbol": "Q"
+    }
+   ]
+  },
+  {
+   "symbol": "RBT",
+   "name": "Rubicon Technologies, Inc. Class A Common Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "RBT"
+  },
+  {
+   "symbol": "TWLVW",
+   "name": "Twelve Seas Investment Company II - Warrant",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "TWLVW"
+  },
+  {
+   "symbol": "RNMC",
+   "name": "Mid Cap US Equity Select ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "RNMC"
+  },
+  {
+   "symbol": "VTRU",
+   "name": "Vitru Limited - Common Shares",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "VTRU"
+  },
+  {
+   "symbol": "OCN",
+   "name": "Ocwen Financial Corporation NEW Common Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "OCN"
+  }
+ ]
+}
