@@ -1,0 +1,136 @@
+{
+ "added": [
+  {
+   "symbol": "BECN",
+   "name": "Beacn Wizardry \u0026 Magic Inc.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "BECN.V",
+   "instruments": [
+    {
+     "name": "Beacn Wizardry \u0026 Magic Inc.",
+     "symbol": "BECN"
+    }
+   ]
+  },
+  {
+   "symbol": "PTN",
+   "name": "Proton Capital Corp.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "PTN.V",
+   "instruments": [
+    {
+     "name": "Proton Capital Corp.",
+     "symbol": "PTN"
+    }
+   ]
+  },
+  {
+   "symbol": "ARGH",
+   "name": "Steer Technologies Inc.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "ARGH.V",
+   "instruments": [
+    {
+     "name": "Steer Technologies Inc.",
+     "symbol": "ARGH"
+    }
+   ]
+  },
+  {
+   "symbol": "WGT",
+   "name": "Westgate Energy Inc.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "WGT.V",
+   "instruments": [
+    {
+     "name": "Westgate Energy Inc.",
+     "symbol": "WGT"
+    }
+   ]
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "CDX",
+   "name": "Cloud DX Inc.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "CDX.V",
+   "instruments": [
+    {
+     "name": "Cloud DX Inc.",
+     "symbol": "CDX"
+    }
+   ]
+  },
+  {
+   "symbol": "SWSS",
+   "name": "Clean Energy Special Situations Corp.  - Common stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "SWSS"
+  },
+  {
+   "symbol": "SWSSU",
+   "name": "Clean Energy Special Situations Corp.  - Unit",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "SWSSU"
+  },
+  {
+   "symbol": "CZO",
+   "name": "Ceapro Inc.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "CZO.V",
+   "instruments": [
+    {
+     "name": "Ceapro Inc.",
+     "symbol": "CZO"
+    }
+   ]
+  },
+  {
+   "symbol": "NCU",
+   "name": "Nevada Copper Corp.",
+   "exchange": "TSX",
+   "yahoo_symbol": "NCU.TO",
+   "instruments": [
+    {
+     "name": "Nevada Copper Corp J",
+     "symbol": "NCU"
+    },
+    {
+     "name": "Nevada Copper J C Wt",
+     "symbol": "NCU.WT.C"
+    }
+   ]
+  },
+  {
+   "symbol": "STER",
+   "name": "Steer Technologies Inc.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "STER.V",
+   "instruments": [
+    {
+     "name": "Steer Technologies Inc.",
+     "symbol": "STER"
+    }
+   ]
+  },
+  {
+   "symbol": "SWSSW",
+   "name": "Clean Energy Special Situations Corp.  - Warrant",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "SWSSW"
+  },
+  {
+   "symbol": "PTN.P",
+   "name": "Proton Capital Corp.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "PTN.P.V",
+   "instruments": [
+    {
+     "name": "Proton Capital Corp.",
+     "symbol": "PTN.P"
+    }
+   ]
+  }
+ ]
+}
