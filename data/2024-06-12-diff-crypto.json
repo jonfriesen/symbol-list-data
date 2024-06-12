@@ -1,0 +1,84 @@
+{
+ "added": [
+  {
+   "symbol": "TDEFI",
+   "name": "Token Teknoloji A.S. Token DeFi (TDEFI)"
+  },
+  {
+   "symbol": "ENCR",
+   "name": "ENCRYPT (ENCR)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "CATVAX",
+   "name": "Catvax (CATVAX)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "NDB",
+   "name": "NDB (NDB)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "WHISK",
+   "name": "Whiskers (WHISK)",
+   "built_on": "TONCOIN"
+  },
+  {
+   "symbol": "TERRA",
+   "name": "TERRABYTE AI (TERRA)",
+   "built_on": "LUNC"
+  },
+  {
+   "symbol": "BANK",
+   "name": "Float Protocol (BANK)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "APTR",
+   "name": "Aperture Finance (APTR)",
+   "built_on": "ARB"
+  },
+  {
+   "symbol": "JENSEN",
+   "name": "Jensen Huang (JENSEN)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "BOBBY",
+   "name": "Bobby Moore (BOBBY)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "TKAI",
+   "name": "TAIKAI (TKAI)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "DRBT",
+   "name": "DeFi-Robot (DRBT)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "GETH",
+   "name": "Guarded Ether (GETH)"
+  },
+  {
+   "symbol": "WBLT",
+   "name": "Wrapped BMX Liquidity Token (WBLT)",
+   "built_on": "BASECHAIN"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "BOBBY",
+   "name": "Bobby Moore (BOBBY)",
+   "built_on": "BASECHAIN"
+  },
+  {
+   "symbol": "TERRA",
+   "name": "TERRABYTE AI (TERRA)",
+   "built_on": "ETH"
+  }
+ ]
+}
