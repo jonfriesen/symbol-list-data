@@ -1,0 +1,181 @@
+{
+ "added": [
+  {
+   "symbol": "GMDP",
+   "name": "GMD Protocol (GMDP)",
+   "built_on": "ARB"
+  },
+  {
+   "symbol": "JYC",
+   "name": "Joe-Yo Coin (JYC)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "ULTI",
+   "name": "Ultiverse (ULTI)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "JUPSOL",
+   "name": "Jupiter Staked SOL (JUPSOL)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "ATROFA",
+   "name": "Atrofarm (ATROFA)"
+  },
+  {
+   "symbol": "NYANDOGE",
+   "name": "NyanDOGE International (NYANDOGE)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "MOTHER",
+   "name": "Mother Iggy (MOTHER)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "50C",
+   "name": "50Cent (50C)",
+   "built_on": "MATIC"
+  },
+  {
+   "symbol": "WAVAX",
+   "name": "Wrapped AVAX (WAVAX)",
+   "built_on": "AVAX"
+  },
+  {
+   "symbol": "ELFW",
+   "name": "ELF Wallet (ELFW)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "CONC",
+   "name": "Concentrator (CONC)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "DINT",
+   "name": "DinarTether (DINT)"
+  },
+  {
+   "symbol": "HERBE",
+   "name": "Herbee (HERBE)",
+   "built_on": "KLAY"
+  },
+  {
+   "symbol": "ARCAD",
+   "name": "Arcadeum (ARCAD)",
+   "built_on": "ARB"
+  },
+  {
+   "symbol": "KAID",
+   "name": "KAIDEX (KAID)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "BANKETH",
+   "name": "BankEth (BANKETH)"
+  },
+  {
+   "symbol": "BOCAC",
+   "name": "BocaChica token (BOCAC)"
+  },
+  {
+   "symbol": "GETH",
+   "name": "Guarded Ether (GETH)"
+  },
+  {
+   "symbol": "RUN",
+   "name": "Run (RUN)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "ECL",
+   "name": "ECLAT (ECL)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "EFCR",
+   "name": "EFLANCER (EFCR)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "ABN",
+   "name": "Antofy (ABN)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "RIZO",
+   "name": "Rizo (RIZO)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "BOBBYM",
+   "name": "Bobby Moore (BOBBYM)",
+   "built_on": "BASECHAIN"
+  },
+  {
+   "symbol": "BRAM",
+   "name": "Defibox bRAM (BRAM)",
+   "built_on": "EOS"
+  },
+  {
+   "symbol": "LATOM",
+   "name": "Liquid ATOM (LATOM)",
+   "built_on": "CRO"
+  },
+  {
+   "symbol": "DIFF",
+   "name": "Diffusion (DIFF)"
+  },
+  {
+   "symbol": "PRTCLE",
+   "name": "Particle (PRTCLE)",
+   "built_on": "GNO"
+  },
+  {
+   "symbol": "CAROL",
+   "name": "CAROLToken (CAROL)",
+   "built_on": "BASECHAIN"
+  },
+  {
+   "symbol": "MARTY",
+   "name": "Marty Inu (MARTY)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "MAAL",
+   "name": "Maal Chain (MAAL)"
+  },
+  {
+   "symbol": "LOGO",
+   "name": "LOGOS (LOGO)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "VICT",
+   "name": "Victory Impact Coin (VICT)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "MPAD",
+   "name": "MultiPad (MPAD)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "SPRX",
+   "name": "Sprint Coin (SPRX)"
+  },
+  {
+   "symbol": "RUSHCMC",
+   "name": "RUSHCMC (RUSHCMC)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "TERRAB",
+   "name": "TERRABYTE AI (TERRAB)",
+   "built_on": "ETH"
+  }
+ ]
+}

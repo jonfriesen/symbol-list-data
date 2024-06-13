@@ -1,0 +1,154 @@
+{
+ "added": [
+  {
+   "symbol": "MOG",
+   "name": "Mogotes Metals Inc.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "MOG.V",
+   "instruments": [
+    {
+     "name": "Mogotes Metals Inc.",
+     "symbol": "MOG"
+    },
+    {
+     "name": "Mogotes Metals Inc wt 31Jan2027",
+     "symbol": "MOG.WT"
+    }
+   ]
+  },
+  {
+   "symbol": "URZ",
+   "name": "URZ3 Energy Corp.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "URZ.V",
+   "instruments": [
+    {
+     "name": "URZ3 Energy Corp.",
+     "symbol": "URZ"
+    }
+   ]
+  },
+  {
+   "symbol": "BSCY",
+   "name": "Invesco BulletShares 2034 Corporate Bond ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "BSCY"
+  },
+  {
+   "symbol": "BSJW",
+   "name": "Invesco BulletShares 2032 High Yield Corporate Bond ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "BSJW"
+  },
+  {
+   "symbol": "DUO",
+   "name": "Fangdd Network Group Ltd. - American Depositary Shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "DUO"
+  },
+  {
+   "symbol": "GRALV",
+   "name": "GRAIL, Inc. - Common Stock",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "GRALV"
+  },
+  {
+   "symbol": "IBGA",
+   "name": "iShares iBonds Dec 2044 Term Treasury ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "IBGA"
+  },
+  {
+   "symbol": "IBGK",
+   "name": "iShares iBonds Dec 2054 Term Treasury ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "IBGK"
+  },
+  {
+   "symbol": "IBTP",
+   "name": "iShares iBonds Dec 2034 Term Treasury ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "IBTP"
+  },
+  {
+   "symbol": "ILMNV",
+   "name": "Illumina, Inc. - Common Stock Ex-distribution When-Issued",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "ILMNV"
+  },
+  {
+   "symbol": "PCSC",
+   "name": "Perceptive Capital Solutions Corp - Class A Ordinary Shares",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "PCSC"
+  },
+  {
+   "symbol": "GROY.W",
+   "name": "Gold Royalty Corp. Warrants",
+   "exchange": "NYSE MKT",
+   "yahoo_symbol": "GROY.W"
+  },
+  {
+   "symbol": "SILA",
+   "name": "Sila Realty Trust, Inc. Common Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "SILA"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "ARKK",
+   "name": "BMO ARK Innovation Fund",
+   "exchange": "TSX",
+   "yahoo_symbol": "ARKK.TO",
+   "instruments": [
+    {
+     "name": "BMO ARK Innovatn Un",
+     "symbol": "ARKK"
+    }
+   ]
+  },
+  {
+   "symbol": "ARKW",
+   "name": "BMO ARK Next Generation Internet Fund",
+   "exchange": "TSX",
+   "yahoo_symbol": "ARKW.TO",
+   "instruments": [
+    {
+     "name": "BMO ARK NxtGenIntrnt",
+     "symbol": "ARKW"
+    }
+   ]
+  },
+  {
+   "symbol": "ARKG",
+   "name": "BMO ARK Genomic Revolution Fund",
+   "exchange": "TSX",
+   "yahoo_symbol": "ARKG.TO",
+   "instruments": [
+    {
+     "name": "BMO ARK GenomicRvltn",
+     "symbol": "ARKG"
+    }
+   ]
+  },
+  {
+   "symbol": "DUO",
+   "name": "Fangdd Network Group Ltd. - American Depositary Shares",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "DUO"
+  },
+  {
+   "symbol": "NGE",
+   "name": "Nevada Exploration Inc.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "NGE.V",
+   "instruments": [
+    {
+     "name": "Nevada Exploration Inc.",
+     "symbol": "NGE"
+    }
+   ]
+  }
+ ]
+}
