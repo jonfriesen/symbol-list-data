@@ -1,0 +1,48 @@
+{
+ "added": [
+  {
+   "symbol": "IMPT",
+   "name": "Impact Development Group Inc.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "IMPT.V",
+   "instruments": [
+    {
+     "name": "Impact Development Group Inc.",
+     "symbol": "IMPT"
+    }
+   ]
+  },
+  {
+   "symbol": "SPMC",
+   "name": "Sound Point Meridian Capital, Inc. Common Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "SPMC"
+  },
+  {
+   "symbol": "IRMD",
+   "name": "iRadimed Corporation - Common Stock",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "IRMD"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "VIA",
+   "name": "Via Renewables, Inc. - Class A Common Stock",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "VIA"
+  },
+  {
+   "symbol": "BURU",
+   "name": "Nuburu, Inc. Common Stock",
+   "exchange": "NYSE MKT",
+   "yahoo_symbol": "BURU"
+  },
+  {
+   "symbol": "IRMD",
+   "name": "iRadimed Corporation - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "IRMD"
+  }
+ ]
+}

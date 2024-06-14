@@ -1,0 +1,80 @@
+{
+ "added": [
+  {
+   "symbol": "PICKLE",
+   "name": "Pickle Finance (PICKLE)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "TKING",
+   "name": "Tiger King (TKING)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "EMC",
+   "name": "Emercoin (EMC)",
+   "built_on": "ARB"
+  },
+  {
+   "symbol": "IDEAL",
+   "name": "Ideal Opportunities (IDEAL)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "IZICHAIN",
+   "name": "IZIChain (IZICHAIN)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "KEX",
+   "name": "Kira Network (KEX)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "BANK",
+   "name": "Float Protocol (BANK)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "SPH",
+   "name": "Spheroid Universe (SPH)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "GETH",
+   "name": "Guarded Ether (GETH)"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "KEX",
+   "name": "Kira Network (KEX)"
+  },
+  {
+   "symbol": "TKING",
+   "name": "Tiger King (TKING)"
+  },
+  {
+   "symbol": "PICKLE",
+   "name": "Pickle Finance (PICKLE)",
+   "built_on": "MATIC"
+  },
+  {
+   "symbol": "IO",
+   "name": "Ideal Opportunities (IO)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "EMC",
+   "name": "Emercoin (EMC)"
+  },
+  {
+   "symbol": "SPH",
+   "name": "Spheroid Universe (SPH)"
+  },
+  {
+   "symbol": "IZICHAIN",
+   "name": "IZIChain (IZICHAIN)"
+  }
+ ]
+}
