@@ -1,0 +1,88 @@
+{
+ "added": [
+  {
+   "symbol": "COR",
+   "name": "Coreto (COR)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "CORION",
+   "name": "Corion (CORION)"
+  },
+  {
+   "symbol": "ATH",
+   "name": "Aethir (ATH)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "DEFILAB",
+   "name": "Defi (DEFILAB)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "TAIKO",
+   "name": "Taiko (TAIKO)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "ZKSYNC",
+   "name": "zkSync (ZKSYNC)"
+  },
+  {
+   "symbol": "NEWSTOKENS",
+   "name": "NewsTokens (NEWSTOKENS)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "EMERCOIN",
+   "name": "Emercoin (EMERCOIN)"
+  },
+  {
+   "symbol": "BANK",
+   "name": "Float Protocol (BANK)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "IO",
+   "name": "io.net (IO)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "BBTC",
+   "name": "Binance Wrapped BTC (BBTC)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "G",
+   "name": "GRN Grid (G)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "BLAKEBTC",
+   "name": "BlakeBitcoin (BLAKEBTC)"
+  },
+  {
+   "symbol": "ATHVODKA",
+   "name": "All Time High Vodka (ATHVODKA)"
+  },
+  {
+   "symbol": "TYPERIUM",
+   "name": "Typerium (TYPERIUM)",
+   "built_on": "ETH"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "BBTC",
+   "name": "BlakeBitcoin (BBTC)"
+  },
+  {
+   "symbol": "ATH",
+   "name": "All Time High Vodka (ATH)"
+  },
+  {
+   "symbol": "COR",
+   "name": "Corion (COR)"
+  }
+ ]
+}
