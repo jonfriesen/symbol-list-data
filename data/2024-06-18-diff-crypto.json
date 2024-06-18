@@ -1,0 +1,199 @@
+{
+ "added": [
+  {
+   "symbol": "BITBURN",
+   "name": "Bitburn (BITBURN)"
+  },
+  {
+   "symbol": "AIBU",
+   "name": "AIBUZZ TOKEN (AIBU)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "SHIBA",
+   "name": "Shibaqua (SHIBA)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "IOETH",
+   "name": "ioETH (IOETH)",
+   "built_on": "IOTX"
+  },
+  {
+   "symbol": "GAMES",
+   "name": "Gamestarter (GAMES)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "LAUGHCOIN",
+   "name": "Laughcoin (LAUGHCOIN)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "DOGEB",
+   "name": "DogeBonk (DOGEB)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "SPENT",
+   "name": "Espento (SPENT)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "PROPS",
+   "name": "Propbase (PROPS)",
+   "built_on": "APT"
+  },
+  {
+   "symbol": "ICE",
+   "name": "Ice Open Network (ICE)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "GME",
+   "name": "GameStop (GME)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "XFI",
+   "name": "CrossFi (XFI)"
+  },
+  {
+   "symbol": "WFTN",
+   "name": "Wrapped FTN (WFTN)"
+  },
+  {
+   "symbol": "CRFI",
+   "name": "CrossFi (CRFI)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "XFINANCE",
+   "name": "Xfinance (XFINANCE)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "LAD",
+   "name": "LADA (LAD)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "DECENTRALG",
+   "name": "Decentral Games ICE (DECENTRALG)",
+   "built_on": "MATIC"
+  },
+  {
+   "symbol": "BOOKIE",
+   "name": "BookieBot (BOOKIE)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "G",
+   "name": "GRN Grid (G)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "CRY",
+   "name": "Crypto News Flash AI (CRY)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "SCAMP",
+   "name": "ScamPump (SCAMP)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "PUUSH",
+   "name": "puush da button (PUUSH)",
+   "built_on": "CRO"
+  },
+  {
+   "symbol": "SCHR",
+   "name": "Schrodinger (SCHR)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "ZEDD",
+   "name": "ZedDex (ZEDD)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "TRUMPDO",
+   "name": "TRUMP (TRUMPDO)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "BURN",
+   "name": "BurnedFi (BURN)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "PROPSPROJECT",
+   "name": "Props (PROPSPROJECT)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "BANKETH",
+   "name": "BankEth (BANKETH)"
+  },
+  {
+   "symbol": "PEPEA",
+   "name": "Pepeandybrettlandwolf (PEPEA)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "BLOCKW",
+   "name": "Blockwise (BLOCKW)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "BLOCKT",
+   "name": "Blocktools (BLOCKT)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "VEGASI",
+   "name": "Vegas Inu Token (VEGASI)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "CHON",
+   "name": "Chonk The Cat (CHON)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "TERR",
+   "name": "Terrier (TERR)",
+   "built_on": "ETH"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "ICE",
+   "name": "Decentral Games ICE (ICE)",
+   "built_on": "MATIC"
+  },
+  {
+   "symbol": "CRFI",
+   "name": "CrossFi (CRFI)"
+  },
+  {
+   "symbol": "XFI",
+   "name": "Xfinance (XFI)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "GME",
+   "name": "GameStop (GME)"
+  },
+  {
+   "symbol": "BURN",
+   "name": "Bitburn (BURN)"
+  },
+  {
+   "symbol": "PROPS",
+   "name": "Props (PROPS)",
+   "built_on": "ETH"
+  }
+ ]
+}

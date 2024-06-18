@@ -1,0 +1,36 @@
+{
+ "added": [
+  {
+   "symbol": "EVSD",
+   "name": "Eaton Vance Short Duration Income ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "EVSD"
+  },
+  {
+   "symbol": "NXG.V",
+   "name": "NXG NextGen Infrastructure Income Fund Rights (expiring July 17, 2024) Rights when issued",
+   "exchange": "NYSE",
+   "yahoo_symbol": "NXG.V"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "ARTLW",
+   "name": "Artelo Biosciences, Inc. - Warrant",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "ARTLW"
+  },
+  {
+   "symbol": "NDVA",
+   "name": "Indiva Limited",
+   "exchange": "TSXV",
+   "yahoo_symbol": "NDVA.V",
+   "instruments": [
+    {
+     "name": "Indiva Limited",
+     "symbol": "NDVA"
+    }
+   ]
+  }
+ ]
+}
