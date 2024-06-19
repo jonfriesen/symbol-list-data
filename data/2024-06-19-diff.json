@@ -1,0 +1,48 @@
+{
+ "added": [
+  {
+   "symbol": "BELT",
+   "name": "BlackRock Long-Term U.S. Equity ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "BELT"
+  },
+  {
+   "symbol": "BRHY",
+   "name": "BlackRock High Yield ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "BRHY"
+  },
+  {
+   "symbol": "CUBWU",
+   "name": "Lionheart Holdings - Unit",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "CUBWU"
+  },
+  {
+   "symbol": "FSHPU",
+   "name": "Flag Ship Acquisition Corp. - Unit",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "FSHPU"
+  },
+  {
+   "symbol": "MACIU",
+   "name": "Melar Acquisition Corp. I - Unit",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "MACIU"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "JPIM",
+   "name": "Jasper Commerce Inc.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "JPIM.V",
+   "instruments": [
+    {
+     "name": "Jasper Commerce Inc.",
+     "symbol": "JPIM"
+    }
+   ]
+  }
+ ]
+}

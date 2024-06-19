@@ -1,0 +1,86 @@
+{
+ "added": [
+  {
+   "symbol": "NAZ",
+   "name": "NAZDAQ (NAZ)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "EVRM",
+   "name": "Evrmore (EVRM)"
+  },
+  {
+   "symbol": "ZORKSEES",
+   "name": "Zorksees (ZORKSEES)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "TRUM",
+   "name": "TrumpBucks (TRUM)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "POW",
+   "name": "PowBlocks (POW)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "PEPEGOAT",
+   "name": "pepeGOAT (PEPEGOAT)",
+   "built_on": "SUI"
+  },
+  {
+   "symbol": "BANKETH",
+   "name": "BankEth (BANKETH)"
+  },
+  {
+   "symbol": "ZUNUSD",
+   "name": "Zunami USD (ZUNUSD)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "GETH",
+   "name": "Guarded Ether (GETH)"
+  },
+  {
+   "symbol": "ZOOA",
+   "name": "Zoopia (ZOOA)",
+   "built_on": "BTC"
+  },
+  {
+   "symbol": "ONET",
+   "name": "ONE Token (ONET)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "COMPU",
+   "name": "Compute Network (COMPU)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "ELO",
+   "name": "ElonPark (ELO)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "ZPET",
+   "name": "Zino Pet (ZPET)",
+   "built_on": "ZKSYNC"
+  },
+  {
+   "symbol": "MAXL",
+   "name": "Maxi protocol (MAXL)",
+   "built_on": "CORE"
+  },
+  {
+   "symbol": "OSH",
+   "name": "OSHI (OSH)",
+   "built_on": "BTC"
+  },
+  {
+   "symbol": "ZLP",
+   "name": "ZilPay Wallet (ZLP)",
+   "built_on": "ZIL"
+  }
+ ]
+}
