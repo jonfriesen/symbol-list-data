@@ -1,0 +1,292 @@
+{
+ "added": [
+  {
+   "symbol": "ABD",
+   "name": "AB DEFI (ABD)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "BABYANDY",
+   "name": "Baby Andy (BABYANDY)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "ZHC",
+   "name": "ZHC : Zero Hour Cash (ZHC)"
+  },
+  {
+   "symbol": "ZKGUN",
+   "name": "zkGUN (ZKGUN)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "DOGINC",
+   "name": "dog in cats world (DOGINC)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "REDP",
+   "name": "Red Ponzi Gud (REDP)",
+   "built_on": "AVAX"
+  },
+  {
+   "symbol": "IQG",
+   "name": "IQ Global (IQG)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "ZKE",
+   "name": "zkEra Finance (ZKE)",
+   "built_on": "ZKSYNC"
+  },
+  {
+   "symbol": "WOLFP",
+   "name": "Wolfpack Coin (WOLFP)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "ZIPPYSOL",
+   "name": "Zippy Staked SOL (ZIPPYSOL)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "SORAETH",
+   "name": "SORA (SORAETH)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "BABYBO",
+   "name": "BabyBonk (BABYBO)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "BANK",
+   "name": "Float Protocol (BANK)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "ZIGAP",
+   "name": "ZIGAP (ZIGAP)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "CRUD",
+   "name": "CRUDE OIL BRENT (CRUD)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "CLAS",
+   "name": "Classic USDC (CLAS)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "ZAPI",
+   "name": "Zapicorn (ZAPI)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "ZIV4",
+   "name": "Ziv4 Labs (ZIV4)",
+   "built_on": "MATIC"
+  },
+  {
+   "symbol": "ALGOW",
+   "name": "Algowave (ALGOW)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "BEATS",
+   "name": "Sol Beats (BEATS)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "DPLAT",
+   "name": "zbyte (DPLAT)",
+   "built_on": "MATIC"
+  },
+  {
+   "symbol": "ZJOE",
+   "name": "zJOE (ZJOE)",
+   "built_on": "AVAX"
+  },
+  {
+   "symbol": "BABYT",
+   "name": "BABYTRUMP (BABYT)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "FPEPE",
+   "name": "Based Father Pepe (FPEPE)",
+   "built_on": "BASECHAIN"
+  },
+  {
+   "symbol": "G",
+   "name": "GRN Grid (G)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "AIF",
+   "name": "AI FREEDOM TOKEN (AIF)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "LUXU",
+   "name": "Luxury Travel Token (LUXU)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "ZIKC",
+   "name": "Zik coin (ZIKC)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "LKI",
+   "name": "Laika AI (LKI)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "CRYPTON",
+   "name": "CRYPTON (CRYPTON)",
+   "built_on": "TONCOIN"
+  },
+  {
+   "symbol": "CYB",
+   "name": "CYBERTRUCK (CYB)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "KRY",
+   "name": "Krypdraw (KRY)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "PEPEWO",
+   "name": "PEPE World (PEPEWO)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "MANT",
+   "name": "Mantle USD (MANT)",
+   "built_on": "MANTLE"
+  },
+  {
+   "symbol": "RUM",
+   "name": "RUM Pirates of The Arrland Token (RUM)",
+   "built_on": "MATIC"
+  },
+  {
+   "symbol": "PUS",
+   "name": "Pussy Cat (PUS)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "UNIXCOIN",
+   "name": "UNIX (UNIXCOIN)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "PEPEB",
+   "name": "PEPEBOMB (PEPEB)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "ZETH",
+   "name": "Zethan (ZETH)"
+  },
+  {
+   "symbol": "ZIBU",
+   "name": "Zibu (ZIBU)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "CHUC",
+   "name": "CHUCK (CHUC)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "RABB",
+   "name": "Rabbit INU (RABB)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "ZEDCOIN",
+   "name": "ZedCoin (ZEDCOIN)"
+  },
+  {
+   "symbol": "ZKGROK",
+   "name": "ZKGROK (ZKGROK)",
+   "built_on": "ZKSYNC"
+  },
+  {
+   "symbol": "HUHCAT",
+   "name": "huhcat (HUHCAT)",
+   "built_on": "MATIC"
+  },
+  {
+   "symbol": "ZELIX",
+   "name": "ZELIX (ZELIX)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "ZKIN",
+   "name": "zkInfra (ZKIN)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "ZK",
+   "name": "Polyhedra Network (ZK)"
+  },
+  {
+   "symbol": "CURR",
+   "name": "Curry (CURR)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "ZKEVM",
+   "name": "zkEVMChain (BSC) (ZKEVM)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "ZIZLE",
+   "name": "Zizle (ZIZLE)"
+  },
+  {
+   "symbol": "ZSD",
+   "name": "Zephyr Protocol Stable Dollar (ZSD)"
+  },
+  {
+   "symbol": "ZSH",
+   "name": "Ziesha (ZSH)"
+  },
+  {
+   "symbol": "UDAO",
+   "name": "UDAO (UDAO)",
+   "built_on": "MATIC"
+  },
+  {
+   "symbol": "RTK",
+   "name": "RetaFi (RTK)",
+   "built_on": "MATIC"
+  },
+  {
+   "symbol": "ZKDX",
+   "name": "ZKDX (ZKDX)",
+   "built_on": "ZKSYNC"
+  },
+  {
+   "symbol": "ZESH",
+   "name": "Zesh (ZESH)"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "ZELIX ",
+   "name": "ZELIX (ZELIX)"
+  },
+  {
+   "symbol": "ZK",
+   "name": "Polyhedra Network (ZK)",
+   "built_on": "ETH"
+  }
+ ]
+}

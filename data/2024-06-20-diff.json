@@ -1,0 +1,66 @@
+{
+ "added": [
+  {
+   "symbol": "DBVT",
+   "name": "DBV Technologies S.A. - American Depositary Shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "DBVT"
+  },
+  {
+   "symbol": "RMAX",
+   "name": "Hamilton REITs YIELD MAXIMIZER TM ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "RMAX.TO",
+   "instruments": [
+    {
+     "name": "Ham REIT Yld Max ETF",
+     "symbol": "RMAX"
+    }
+   ]
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "AWINW",
+   "name": "AERWINS Technologies Inc. - Warrant",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "AWINW"
+  },
+  {
+   "symbol": "AWIN",
+   "name": "AERWINS Technologies Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "AWIN"
+  },
+  {
+   "symbol": "SIFYR",
+   "name": "Sify Technologies Limited - Rights expiring 6/21/2024",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "SIFYR"
+  },
+  {
+   "symbol": "BIOL",
+   "name": "Biolase, Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "BIOL"
+  },
+  {
+   "symbol": "TDCX",
+   "name": "TDCX Inc. American Depositary Shares, each representing one Class A ordinary share",
+   "exchange": "NYSE",
+   "yahoo_symbol": "TDCX"
+  },
+  {
+   "symbol": "FBGX",
+   "name": "UBS AG FI Enhanced Large Cap Growth ETN",
+   "exchange": "NYSE ARCA",
+   "yahoo_symbol": "FBGX"
+  },
+  {
+   "symbol": "DBVT",
+   "name": "DBV Technologies S.A. - American Depositary Shares",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "DBVT"
+  }
+ ]
+}
