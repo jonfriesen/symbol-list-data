@@ -1,0 +1,54 @@
+{
+ "added": [
+  {
+   "symbol": "TECX",
+   "name": "Tectonic Therapeutic, Inc. - Common Stock",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "TECX"
+  },
+  {
+   "symbol": "NXG.R",
+   "name": "NXG NextGen Infrastructure Income Fund Rights (expiring July 17, 2024) Rights",
+   "exchange": "NYSE",
+   "yahoo_symbol": "NXG.R"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "NXG.V",
+   "name": "NXG NextGen Infrastructure Income Fund Rights (expiring July 17, 2024) Rights when issued",
+   "exchange": "NYSE",
+   "yahoo_symbol": "NXG.V"
+  },
+  {
+   "symbol": "GMFIW",
+   "name": "Aetherium Acquisition Corp. - Warrant",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "GMFIW"
+  },
+  {
+   "symbol": "TGAN",
+   "name": "Transphorm, Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "TGAN"
+  },
+  {
+   "symbol": "GMFI",
+   "name": "Aetherium Acquisition Corp. - Class A Common Stock",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "GMFI"
+  },
+  {
+   "symbol": "GMFIU",
+   "name": "Aetherium Acquisition Corp. - Unit",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "GMFIU"
+  },
+  {
+   "symbol": "AVRO",
+   "name": "AVROBIO, Inc. - Common Stock",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "AVRO"
+  }
+ ]
+}
