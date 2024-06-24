@@ -1,0 +1,79 @@
+{
+ "added": [
+  {
+   "symbol": "BILLICAT",
+   "name": "BilliCat (BILLICAT)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "SLUMBO",
+   "name": "SLUMBO (SLUMBO)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "EAVE",
+   "name": "EaveAI (EAVE)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "FAC",
+   "name": "Flying Avocado Cat (FAC)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "XRP8",
+   "name": "HarryPotterObamaPacMan8Inu (XRP8)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "PENP",
+   "name": "Penpie (PENP)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "MCOIN",
+   "name": "MCOIN (MCOIN)"
+  },
+  {
+   "symbol": "MEMECUP",
+   "name": "Meme Cup (MEMECUP)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "FINB",
+   "name": "Finblox (FINB)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "360NS",
+   "name": "360 NOSCOPE INSTASWAP WALLBANG (360NS)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "G",
+   "name": "GRN Grid (G)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "PUP",
+   "name": "Pupper (PUP)"
+  },
+  {
+   "symbol": "BANK",
+   "name": "Float Protocol (BANK)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "MARIC",
+   "name": "Maricoin (MARIC)",
+   "built_on": "ALGO"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "PUP",
+   "name": "Pupper (PUP)",
+   "built_on": "ETH"
+  }
+ ]
+}

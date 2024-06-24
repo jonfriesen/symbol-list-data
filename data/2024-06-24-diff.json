@@ -1,0 +1,264 @@
+{
+ "added": [
+  {
+   "symbol": "NRC",
+   "name": "Nations Royalty Corp.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "NRC.V",
+   "instruments": [
+    {
+     "name": "Nations Royalty Corp.",
+     "symbol": "NRC"
+    }
+   ]
+  },
+  {
+   "symbol": "AIEV",
+   "name": "Thunder Power Holdings, Inc. - Common Stock",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "AIEV"
+  },
+  {
+   "symbol": "BMDL",
+   "name": "VictoryShares WestEnd Economic Cycle Bond ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "BMDL"
+  },
+  {
+   "symbol": "CCIX",
+   "name": "Churchill Capital Corp IX - Ordinary Shares",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "CCIX"
+  },
+  {
+   "symbol": "CCIXW",
+   "name": "Churchill Capital Corp IX - Warrant",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "CCIXW"
+  },
+  {
+   "symbol": "GLOW",
+   "name": "VictoryShares WestEnd Global Equity ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "GLOW"
+  },
+  {
+   "symbol": "QQQT",
+   "name": "Defiance Nasdaq 100 Income Target ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "QQQT"
+  },
+  {
+   "symbol": "RECT",
+   "name": "Rectitude Holdings Ltd - Ordinary Shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "RECT"
+  },
+  {
+   "symbol": "WENA",
+   "name": "ANEW MEDICAL, INC. - Common Stock",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "WENA"
+  },
+  {
+   "symbol": "WENAW",
+   "name": "ANEW MEDICAL, INC. - Warrants",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "WENAW"
+  },
+  {
+   "symbol": "WTMA",
+   "name": "Welsbach Technology Metals Acquisition Corp. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "WTMA"
+  },
+  {
+   "symbol": "WTMAR",
+   "name": "Welsbach Technology Metals Acquisition Corp. - one right to receive 1/10th of a share of common stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "WTMAR"
+  },
+  {
+   "symbol": "WTMAU",
+   "name": "Welsbach Technology Metals Acquisition Corp. - Unit",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "WTMAU"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "TMUC",
+   "name": "TD Morningstar ESG U.S. Corporate Bond Index ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "TMUC.TO",
+   "instruments": [
+    {
+     "name": "TD MS ESG US Bnd CAD",
+     "symbol": "TMUC"
+    }
+   ]
+  },
+  {
+   "symbol": "FLFVW",
+   "name": "Feutune Light Acquisition Corporation - Warrant",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "FLFVW"
+  },
+  {
+   "symbol": "FLFV",
+   "name": "Feutune Light Acquisition Corporation - Class A Common Stock",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "FLFV"
+  },
+  {
+   "symbol": "APCA",
+   "name": "AP Acquisition Corp Class A Ordinary Shares",
+   "exchange": "NYSE",
+   "yahoo_symbol": "APCA"
+  },
+  {
+   "symbol": "RWODU",
+   "name": "Redwoods Acquisition Corp. - Unit",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "RWODU"
+  },
+  {
+   "symbol": "WTMA",
+   "name": "Welsbach Technology Metals Acquisition Corp. - Common Stock",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "WTMA"
+  },
+  {
+   "symbol": "TMEU",
+   "name": "TD Morningstar ESG U.S. Equity Index ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "TMEU.TO",
+   "instruments": [
+    {
+     "name": "TD Mornstr ESG US Eq",
+     "symbol": "TMEU"
+    }
+   ]
+  },
+  {
+   "symbol": "WTMAR",
+   "name": "Welsbach Technology Metals Acquisition Corp. - one right to receive 1/10th of a share of common stock",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "WTMAR"
+  },
+  {
+   "symbol": "TMEI",
+   "name": "TD Morningstar ESG International Equity Index ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "TMEI.TO",
+   "instruments": [
+    {
+     "name": "TD MornstrESG IntlEq",
+     "symbol": "TMEI"
+    }
+   ]
+  },
+  {
+   "symbol": "FLFVR",
+   "name": "Feutune Light Acquisition Corporation - Right",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "FLFVR"
+  },
+  {
+   "symbol": "TPAY",
+   "name": "TD Income Builder ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "TPAY.TO",
+   "instruments": [
+    {
+     "name": "TD Income Builder Un",
+     "symbol": "TPAY"
+    }
+   ]
+  },
+  {
+   "symbol": "FLFVU",
+   "name": "Feutune Light Acquisition Corporation - Unit",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "FLFVU"
+  },
+  {
+   "symbol": "RWODW",
+   "name": "Redwoods Acquisition Corp. - Warrants",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "RWODW"
+  },
+  {
+   "symbol": "RWOD",
+   "name": "Redwoods Acquisition Corp. - Common Stock",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "RWOD"
+  },
+  {
+   "symbol": "APCA.U",
+   "name": "AP Acquisition Corp Units, each consisting of one Class A ordinary share and one-half of one redeemable warrant",
+   "exchange": "NYSE",
+   "yahoo_symbol": "APCA.U"
+  },
+  {
+   "symbol": "TMCC",
+   "name": "TD Morningstar ESG Canada Corporate Bond Index ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "TMCC.TO",
+   "instruments": [
+    {
+     "name": "TD MS ESGCorpBnd CA",
+     "symbol": "TMCC"
+    }
+   ]
+  },
+  {
+   "symbol": "RWODR",
+   "name": "Redwoods Acquisition Corp. - Rights",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "RWODR"
+  },
+  {
+   "symbol": "ADTH",
+   "name": "AdTheorent Holding Company, Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "ADTH"
+  },
+  {
+   "symbol": "TARO",
+   "name": "Taro Pharmaceutical Industries Ltd. Ordinary Shares",
+   "exchange": "NYSE",
+   "yahoo_symbol": "TARO"
+  },
+  {
+   "symbol": "TMEC",
+   "name": "TD Morningstar ESG Canada Equity Index ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "TMEC.TO",
+   "instruments": [
+    {
+     "name": "TD MornstarESG CdaEq",
+     "symbol": "TMEC"
+    }
+   ]
+  },
+  {
+   "symbol": "APCA.W",
+   "name": "AP Acquisition Corp Redeemable Warrants, each whole warrant exercisable for one Class A ordinary share at an exercise price of $11.50",
+   "exchange": "NYSE",
+   "yahoo_symbol": "APCA.W"
+  },
+  {
+   "symbol": "ADTHW",
+   "name": "AdTheorent Holding Company, Inc. - Warrants",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "ADTHW"
+  },
+  {
+   "symbol": "WTMAU",
+   "name": "Welsbach Technology Metals Acquisition Corp. - Unit",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "WTMAU"
+  }
+ ]
+}
