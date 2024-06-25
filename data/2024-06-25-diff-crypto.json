@@ -1,0 +1,292 @@
+{
+ "added": [
+  {
+   "symbol": "TWIFB",
+   "name": "TrumpWifBiden (TWIFB)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "DOGER",
+   "name": "Robotic Doge (DOGER)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "PDRIP",
+   "name": "Pulse Drip (PDRIP)",
+   "built_on": "PLS"
+  },
+  {
+   "symbol": "PETOSHI",
+   "name": "Petoshi (PETOSHI)",
+   "built_on": "BLAST"
+  },
+  {
+   "symbol": "MBOYS",
+   "name": "MoonBoys (MBOYS)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "NMT",
+   "name": "NetMind Token (NMT)"
+  },
+  {
+   "symbol": "REHA",
+   "name": "Resistance Hamster (REHA)",
+   "built_on": "TONCOIN"
+  },
+  {
+   "symbol": "NWG",
+   "name": "NotWifGary (NWG)",
+   "built_on": "LINEA"
+  },
+  {
+   "symbol": "GUMSHOOS",
+   "name": "GUMSHOOS TRUMP (GUMSHOOS)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "AZUR",
+   "name": "Azuro Protocol (AZUR)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "TEW",
+   "name": "Trump in a memes world (TEW)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "CHUANPU",
+   "name": "Chuan Pu (CHUANPU)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "FKRPRO",
+   "name": "FlickerPro (FKRPRO)",
+   "built_on": "MATIC"
+  },
+  {
+   "symbol": "FLAPPY",
+   "name": "Flappy (FLAPPY)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "REEE",
+   "name": "REEE (REEE)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "PIZPEPE",
+   "name": "Pepe Pizzeria (PIZPEPE)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "DADDY",
+   "name": "Daddy Tate (DADDY)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "ZUSHI",
+   "name": "ZUSHI (ZUSHI)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "LISTA",
+   "name": "Lista DAO (LISTA)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "CHIDO",
+   "name": "Chinese Doge Wow (CHIDO)",
+   "built_on": "BASECHAIN"
+  },
+  {
+   "symbol": "PGPT",
+   "name": "PrivateAI (PGPT)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "MUNCHY",
+   "name": "Boys Club Munchy (MUNCHY)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "PUPPER",
+   "name": "Pupper (PUPPER)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "NSIMPSON",
+   "name": "NeuraSimpson (NSIMPSON)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "AEROBUD",
+   "name": "Aerobud (AEROBUD)",
+   "built_on": "BASECHAIN"
+  },
+  {
+   "symbol": "ZEDCOIN",
+   "name": "ZedCoin (ZEDCOIN)"
+  },
+  {
+   "symbol": "GIGACHAD",
+   "name": "GigaChad (GIGACHAD)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "GMETRUMP",
+   "name": "GME TRUMP (GMETRUMP)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "BALT",
+   "name": "Brett's cat (BALT)",
+   "built_on": "BASECHAIN"
+  },
+  {
+   "symbol": "HAWKTUAH",
+   "name": "Hawk Tuah (HAWKTUAH)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "EDSE",
+   "name": "Eddie Seal (EDSE)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "AUSDT",
+   "name": "aUSDT (AUSDT)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "PCD",
+   "name": " Phecda (PCD)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "POINT",
+   "name": "SportPoint (POINT)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "BCOINM",
+   "name": "Bomb Crypto (MATIC) (BCOINM)",
+   "built_on": "MATIC"
+  },
+  {
+   "symbol": "DOPU",
+   "name": "DOPU The Dog with A Purpose (DOPU)",
+   "built_on": "XDC"
+  },
+  {
+   "symbol": "LONGSHINE",
+   "name": "LongShine (LONGSHINE)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "EGAX",
+   "name": "Egochain (EGAX)"
+  },
+  {
+   "symbol": "BELUGA",
+   "name": "Beluga (BELUGA)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "TRUMPHAT",
+   "name": "Trump Hat (TRUMPHAT)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "BBRETT",
+   "name": "Baby Brett (BBRETT)",
+   "built_on": "BASECHAIN"
+  },
+  {
+   "symbol": "BANKETH",
+   "name": "BankEth (BANKETH)"
+  },
+  {
+   "symbol": "RECA",
+   "name": "The Resistance Cat (RECA)",
+   "built_on": "TONCOIN"
+  },
+  {
+   "symbol": "MOGE",
+   "name": "Moge (MOGE)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "TDAN",
+   "name": "TDAN (TDAN)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "FLOCKA",
+   "name": "Waka Flocka (FLOCKA)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "ZUZU",
+   "name": "ZUZU (ZUZU)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "G",
+   "name": "GRN Grid (G)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "TUTTER",
+   "name": "Tutter (TUTTER)",
+   "built_on": "BASECHAIN"
+  },
+  {
+   "symbol": "TRAIN",
+   "name": "Trump Train (TRAIN)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "ICELAND",
+   "name": "ICE LAND (ICELAND)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "ICS",
+   "name": " ICPSwap Token (ICS)",
+   "built_on": "ICP"
+  },
+  {
+   "symbol": "NCAT",
+   "name": "Neuracat (NCAT)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "ZKX",
+   "name": "ZKX (ZKX)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "PTRUMP",
+   "name": "Pepe Trump (PTRUMP)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "MAGANOMICS",
+   "name": "Maganomics (MAGANOMICS)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "1MDC",
+   "name": "1MDC (1MDC)",
+   "built_on": "BNB"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "NMT",
+   "name": "NetMind Token (NMT)",
+   "built_on": "ETH"
+  }
+ ]
+}
