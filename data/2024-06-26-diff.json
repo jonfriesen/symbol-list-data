@@ -1,0 +1,66 @@
+{
+ "added": [
+  {
+   "symbol": "Q",
+   "name": "Quetzal Copper Corp.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "Q.V",
+   "instruments": [
+    {
+     "name": "Quetzal Copper Corp.",
+     "symbol": "Q"
+    }
+   ]
+  },
+  {
+   "symbol": "BOH$B",
+   "name": "Bank of Hawaii Corporation Depositary Shares, Each Representing a 1/40th Interest in a Share of 8.000% Fixed Rate Non-Cumulative Perpetual Preferred Stock, Series B",
+   "exchange": "NYSE",
+   "yahoo_symbol": "BOH$B"
+  },
+  {
+   "symbol": "GRAF.U",
+   "name": "Graf Global Corp. Units, each consisting of one Class A ordinary share and one-half of one redeemable warrant",
+   "exchange": "NYSE MKT",
+   "yahoo_symbol": "GRAF.U"
+  },
+  {
+   "symbol": "NEE$S",
+   "name": "NextEra Energy, Inc. 7.299% Corporate Units",
+   "exchange": "NYSE",
+   "yahoo_symbol": "NEE$S"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "HLFE",
+   "name": "Harvest Canadian Equity Enhanced Income Leaders ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "HLFE.TO",
+   "instruments": [
+    {
+     "name": "Harvest CdnEq Incm A",
+     "symbol": "HLFE"
+    }
+   ]
+  },
+  {
+   "symbol": "HBFE",
+   "name": "Harvest Brand Leaders Enhanced Income ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "HBFE.TO",
+   "instruments": [
+    {
+     "name": "Harvest BrandLeadr A",
+     "symbol": "HBFE"
+    }
+   ]
+  },
+  {
+   "symbol": "VCXB.W",
+   "name": "10X Capital Venture Acquisition Corp. III Redeemable warrants, each whole warrant exercisable for one Class A ordinary share, each at an exercise price of $11.50 per share",
+   "exchange": "NYSE MKT",
+   "yahoo_symbol": "VCXB.W"
+  }
+ ]
+}

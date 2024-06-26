@@ -1,0 +1,319 @@
+{
+ "added": [
+  {
+   "symbol": "PEPER",
+   "name": "Baby Pepe (PEPER)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "HRX",
+   "name": "HorusLayer (HRX)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "HGEN",
+   "name": "HGEN DAO (HGEN)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "CHRETT",
+   "name": "Chinese BRETT (CHRETT)",
+   "built_on": "BASECHAIN"
+  },
+  {
+   "symbol": "GNO",
+   "name": "Gnosis (GNO)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "WEF",
+   "name": "DOG WIF CHINESE HAT (WEF)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "JEETOLAX",
+   "name": "Jeetolax (JEETOLAX)",
+   "built_on": "BASECHAIN"
+  },
+  {
+   "symbol": "QINGWA",
+   "name": "ShangXin QingWa (QINGWA)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "BLEPE",
+   "name": "Blepe (BLEPE)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "ROON",
+   "name": "Raccoon (ROON)",
+   "built_on": "TONCOIN"
+  },
+  {
+   "symbol": "SHRUB",
+   "name": "Shrub (SHRUB)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "SOLLY",
+   "name": "Solly (SOLLY)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "ULD",
+   "name": "Unlighted (ULD)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "BULEI",
+   "name": "Bulei (BULEI)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "SKING",
+   "name": "Solo King (SKING)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "RBRETT",
+   "name": "ROARING BRETT (RBRETT)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "ATOPLUS",
+   "name": "ATO+ (ATOPLUS)",
+   "built_on": "TRX"
+  },
+  {
+   "symbol": "LIBERTA",
+   "name": "The Libertarian Dog (LIBERTA)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "FNLX",
+   "name": "Fignal X (FNLX)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "UAHG",
+   "name": "UAHg (UAHG)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "WVTRS",
+   "name": "Vitreus (WVTRS)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "GYR",
+   "name": "Gyre Token (GYR)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "BASEHEROES",
+   "name": "Baseheroes (BASEHEROES)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "SMIDGE",
+   "name": "Smidge (SMIDGE)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "ECI",
+   "name": "Euro Cup Inu (ECI)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "TRUMPX",
+   "name": "Trump X-Maga (TRUMPX)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "SCHRODI",
+   "name": "Schrödi (SCHRODI)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "BMONEY",
+   "name": "B-money (BMONEY)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "XBLAZE",
+   "name": "Trailblaze (XBLAZE)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "BLACKSALE",
+   "name": "Black Sale (BLACKSALE)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "BABYKABOSU",
+   "name": "Baby Kabosu (BABYKABOSU)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "MESSU",
+   "name": "Loinel Messu (MESSU)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "GL",
+   "name": "Lemmings (GL)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "SCRAT",
+   "name": "Scrat (SCRAT)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "PEPO",
+   "name": "Peepo (PEPO)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "INUGA",
+   "name": "INUGAMI (INUGA)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "UB",
+   "name": "UBit Token (UB)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "DRAGGY",
+   "name": "Draggy (DRAGGY)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "RWT",
+   "name": "RWT TOKEN (RWT)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "POCAT",
+   "name": "Polite Cat (POCAT)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "DORKY",
+   "name": "Dork Lord (DORKY)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "BANK",
+   "name": "Float Protocol (BANK)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "CHADCAT",
+   "name": "CHAD CAT (CHADCAT)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "TMANIA",
+   "name": "Trump Mania (TMANIA)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "FHB",
+   "name": "FHB (FHB)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "WEGI",
+   "name": "Wegie (WEGI)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "G",
+   "name": "GRN Grid (G)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "DIDID",
+   "name": "Didi Duck (DIDID)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "BAMBIT",
+   "name": "BAMBIT (BAMBIT)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "PEPEFC",
+   "name": "Pepe FC (PEPEFC)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "ALBART",
+   "name": "Albärt (ALBART)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "WHISKEY",
+   "name": "WHISKEY (WHISKEY)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "BGUY",
+   "name": "The Big Guy (BGUY)",
+   "built_on": "BASECHAIN"
+  },
+  {
+   "symbol": "EU24",
+   "name": "EURO2024 (EU24)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "FLOCHI",
+   "name": "Flochi (FLOCHI)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "LD",
+   "name": "Long Dragon (LD)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "TRUMPZ",
+   "name": "Trump Zhong (TRUMPZ)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "NETA",
+   "name": "Negative Tax (NETA)",
+   "built_on": "BASECHAIN"
+  },
+  {
+   "symbol": "WAGIE",
+   "name": "Wagie (WAGIE)",
+   "built_on": "BASECHAIN"
+  },
+  {
+   "symbol": "ANDWU",
+   "name": "Chinese Andy (ANDWU)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "DVINCI",
+   "name": "Davinci Jeremie (DVINCI)",
+   "built_on": "SOL"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "ZEDCOIN",
+   "name": "ZedCoin (ZEDCOIN)"
+  },
+  {
+   "symbol": "GNO",
+   "name": "Gnosis (GNO)"
+  }
+ ]
+}
