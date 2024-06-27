@@ -1,0 +1,138 @@
+{
+ "added": [
+  {
+   "symbol": "ACDC",
+   "name": "AC/DC Battery Metals Inc.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "ACDC.V",
+   "instruments": [
+    {
+     "name": "AC/DC Battery Metals Inc.",
+     "symbol": "ACDC"
+    }
+   ]
+  },
+  {
+   "symbol": "AUM",
+   "name": "AuMega Metals Ltd",
+   "exchange": "TSXV",
+   "yahoo_symbol": "AUM.V",
+   "instruments": [
+    {
+     "name": "AuMega Metals Ltd",
+     "symbol": "AUM"
+    }
+   ]
+  },
+  {
+   "symbol": "WPR",
+   "name": "CANPR Technology Inc.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "WPR.V",
+   "instruments": [
+    {
+     "name": "CANPR Technology Ltd.",
+     "symbol": "WPR"
+    }
+   ]
+  },
+  {
+   "symbol": "SAF",
+   "name": "Seasif Exploration Inc.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "SAF.V",
+   "instruments": [
+    {
+     "name": "Seasif Exploration Inc.",
+     "symbol": "SAF"
+    }
+   ]
+  },
+  {
+   "symbol": "SUGR",
+   "name": "Sucro Limited",
+   "exchange": "TSXV",
+   "yahoo_symbol": "SUGR.V",
+   "instruments": [
+    {
+     "name": "Sucro Limited",
+     "symbol": "SUGR"
+    }
+   ]
+  },
+  {
+   "symbol": "GGT.V",
+   "name": "Gabelli Multi-Media Trust Inc. (The) Rights (expiring July 22, 2024) Rights when issued",
+   "exchange": "NYSE",
+   "yahoo_symbol": "GGT.V"
+  },
+  {
+   "symbol": "TBN",
+   "name": "Tamboran Resources Corporation Common stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "TBN"
+  },
+  {
+   "symbol": "PREF",
+   "name": "Quadravest Preferred Split Share ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "PREF.TO",
+   "instruments": [
+    {
+     "name": "Quad Pref SplitShETF",
+     "symbol": "PREF"
+    }
+   ]
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "GA",
+   "name": "General Assembly Holdings Limited",
+   "exchange": "TSXV",
+   "yahoo_symbol": "GA.V",
+   "instruments": [
+    {
+     "name": "General Assembly Holdings Limited",
+     "symbol": "GA"
+    }
+   ]
+  },
+  {
+   "symbol": "SUG",
+   "name": "Sucro Limited",
+   "exchange": "TSXV",
+   "yahoo_symbol": "SUG.V",
+   "instruments": [
+    {
+     "name": "Sucro Limited",
+     "symbol": "SUG"
+    }
+   ]
+  },
+  {
+   "symbol": "MODN",
+   "name": "Model N, Inc. Common Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "MODN"
+  },
+  {
+   "symbol": "WA",
+   "name": "Western Atlas Resources Inc",
+   "exchange": "TSXV",
+   "yahoo_symbol": "WA.V",
+   "instruments": [
+    {
+     "name": "Western Atlas Resources Inc",
+     "symbol": "WA"
+    }
+   ]
+  },
+  {
+   "symbol": "DMTK",
+   "name": "DermTech, Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "DMTK"
+  }
+ ]
+}

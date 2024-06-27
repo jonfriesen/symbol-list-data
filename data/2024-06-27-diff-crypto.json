@@ -1,0 +1,383 @@
+{
+ "added": [
+  {
+   "symbol": "LTEX",
+   "name": "Ltradex (LTEX)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "SKAI",
+   "name": "Skillful AI (SKAI)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "TUZKI",
+   "name": "Tuzki (TUZKI)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "MAGADOGE",
+   "name": "MAGA DOGE (MAGADOGE)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "DOGH",
+   "name": "a dog in a hoodie (DOGH)",
+   "built_on": "TONCOIN"
+  },
+  {
+   "symbol": "DOUG",
+   "name": "Doug The Duck (DOUG)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "NPTX",
+   "name": "NeptuneX (NPTX)",
+   "built_on": "BLAST"
+  },
+  {
+   "symbol": "PIRATECASH",
+   "name": "PirateCash (PIRATECASH)"
+  },
+  {
+   "symbol": "AMADEUS",
+   "name": "AMADEUS (AMADEUS)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "MITTENS",
+   "name": "Mittens (MITTENS)",
+   "built_on": "TONCOIN"
+  },
+  {
+   "symbol": "GMEPEPE",
+   "name": "GAMESTOP PEPE (GMEPEPE)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "QSWAP",
+   "name": "Quantum Network (QSWAP)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "MIXAI",
+   "name": "Mixcash AI (MIXAI)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "VTRUMP",
+   "name": "Vote Trump (VTRUMP)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "MAGAA",
+   "name": "MAGA AGAIN (MAGAA)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "FEFE",
+   "name": "Fefe (FEFE)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "CY97",
+   "name": "Cyclops97 (CY97)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "NYXC",
+   "name": "Nyxia AI (NYXC)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "LFGO",
+   "name": "Lets Fuckin Go (LFGO)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "HELIOS",
+   "name": "Mission Helios (HELIOS)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "LOCAT",
+   "name": "LOVE CAT (LOCAT)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "HITOP",
+   "name": "Hitop (HITOP)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "BICITY",
+   "name": "BiCity AI Projects (BICITY)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "GAMEBUD",
+   "name": "GAMEBUD (GAMEBUD)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "FCF",
+   "name": "French Connection Finance (FCF)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "PHRYGE",
+   "name": "PHRYGES (PHRYGE)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "HASBIK",
+   "name": "Hasbulla (HASBIK)",
+   "built_on": "TONCOIN"
+  },
+  {
+   "symbol": "BAREBEARS",
+   "name": "BAREBEARS (BAREBEARS)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "TYBENG",
+   "name": "TYBENG (TYBENG)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "MUC",
+   "name": "Multi Universe Central (MUC)",
+   "built_on": "MATIC"
+  },
+  {
+   "symbol": "MTIK",
+   "name": "MatikaToken (MTIK)",
+   "built_on": "MATIC"
+  },
+  {
+   "symbol": "MOLLARS",
+   "name": "MollarsToken (MOLLARS)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "PTX",
+   "name": "PlatinX (PTX)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "RGOAT",
+   "name": "RealGOAT (RGOAT)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "LEGO",
+   "name": "Lego Coin (LEGO)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "PIRATE",
+   "name": "Pirate Nation (PIRATE)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "PESHI",
+   "name": "PESHI (PESHI)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "DOGEVERSE",
+   "name": "DogeVerse (DOGEVERSE)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "TODD",
+   "name": "TURBO TODD (TODD)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "BOSSCOQ",
+   "name": "THE COQFATHER (BOSSCOQ)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "MPD",
+   "name": "Metapad (MPD)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "FKBIDEN",
+   "name": "Fkbiden (FKBIDEN)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "BBEER",
+   "name": "BABY BEERCOIN (BBEER)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "G",
+   "name": "GRN Grid (G)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "BANK",
+   "name": "Float Protocol (BANK)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "DOGECOIN",
+   "name": "Buff Doge Coin (DOGECOIN)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "SFL",
+   "name": "Sunflower Land (SFL)",
+   "built_on": "MATIC"
+  },
+  {
+   "symbol": "FRESCO",
+   "name": "Fresco (FRESCO)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "MNDCC",
+   "name": "Mondo Community Coin (MNDCC)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "COREDAO",
+   "name": "coreDAO (COREDAO)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "BGC",
+   "name": "Bee Token (BGC)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "SENK",
+   "name": "Senk (SENK)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "AURA",
+   "name": "Aura Finance (AURA)"
+  },
+  {
+   "symbol": "MAGA2024",
+   "name": "MAGA2024 (MAGA2024)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "MAGASHIB",
+   "name": "MAGA SHIB (MAGASHIB)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "GRBT",
+   "name": "Grinbit (GRBT)",
+   "built_on": "KLAY"
+  },
+  {
+   "symbol": "MOR",
+   "name": "Morpheus (MOR)",
+   "built_on": "ARB"
+  },
+  {
+   "symbol": "PEW",
+   "name": "pepe in a memes world (PEW)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "SHIBDOGE",
+   "name": "ShibaDoge (SHIBDOGE)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "CAPRI",
+   "name": "Caprisun Monkey (CAPRI)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "9MM",
+   "name": "Shigure UI (9MM)",
+   "built_on": "BASECHAIN"
+  },
+  {
+   "symbol": "4JNET",
+   "name": "4JNET (4JNET)",
+   "built_on": "BNB"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "GRBT",
+   "name": "Grinbit (GRBT)"
+  },
+  {
+   "symbol": "HELIOS",
+   "name": "Mission Helios (HELIOS)"
+  },
+  {
+   "symbol": "PTX",
+   "name": "PlatinX (PTX)"
+  },
+  {
+   "symbol": "SHIBDOGE",
+   "name": "ShibaDoge (SHIBDOGE)"
+  },
+  {
+   "symbol": "4JNET",
+   "name": "4JNET (4JNET)"
+  },
+  {
+   "symbol": "DOGECOIN",
+   "name": "Buff Doge Coin (DOGECOIN)"
+  },
+  {
+   "symbol": "MNDCC",
+   "name": "Mondo Community Coin (MNDCC)"
+  },
+  {
+   "symbol": "MPD",
+   "name": "Metapad (MPD)"
+  },
+  {
+   "symbol": "BGC",
+   "name": "Bee Token (BGC)"
+  },
+  {
+   "symbol": "SFL",
+   "name": "Sunflower Land (SFL)"
+  },
+  {
+   "symbol": "COREDAO",
+   "name": "coreDAO (COREDAO)"
+  },
+  {
+   "symbol": "AURA",
+   "name": "Aura Finance (AURA)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "FCF",
+   "name": "French Connection Finance (FCF)"
+  },
+  {
+   "symbol": "HITOP",
+   "name": "Hitop (HITOP)"
+  },
+  {
+   "symbol": "PIRATE",
+   "name": "PirateCash (PIRATE)"
+  },
+  {
+   "symbol": "LTEX",
+   "name": "Ltradex (LTEX)"
+  },
+  {
+   "symbol": "LEGO",
+   "name": "Lego Coin (LEGO)"
+  }
+ ]
+}
