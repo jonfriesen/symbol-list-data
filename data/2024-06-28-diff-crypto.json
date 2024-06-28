@@ -1,0 +1,86 @@
+{
+ "added": [
+  {
+   "symbol": "MAMBA",
+   "name": "Mamba (MAMBA)",
+   "built_on": "BASECHAIN"
+  },
+  {
+   "symbol": "AURAF",
+   "name": "Aura Finance (AURAF)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "GETH",
+   "name": "Guarded Ether (GETH)"
+  },
+  {
+   "symbol": "NLK",
+   "name": "NuLink (NLK)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "LOCOM",
+   "name": "Locomotir (LOCOM)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "MADA",
+   "name": "MilkADA (MADA)"
+  },
+  {
+   "symbol": "314DAO",
+   "name": "Tonken 314 DAO (314DAO)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "WEMIXUSD",
+   "name": "WEMIX (WEMIXUSD)",
+   "built_on": "WEMIX"
+  },
+  {
+   "symbol": "FTN",
+   "name": "Fasttoken (FTN)"
+  },
+  {
+   "symbol": "SEW",
+   "name": "simpson in a memes world (SEW)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "TROG",
+   "name": "Trog (TROG)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "BLOOM",
+   "name": "BloomBeans (BLOOM)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "BANK",
+   "name": "Float Protocol (BANK)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "MALGO",
+   "name": "milkALGO (MALGO)"
+  },
+  {
+   "symbol": "RPG",
+   "name": "Rangers Protocol (RPG)"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "RPG",
+   "name": "Rangers Protocol (RPG)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "FTN",
+   "name": "Fasttoken (FTN)",
+   "built_on": "ETH"
+  }
+ ]
+}

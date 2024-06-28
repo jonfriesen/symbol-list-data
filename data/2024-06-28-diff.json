@@ -1,0 +1,180 @@
+{
+ "added": [
+  {
+   "symbol": "EMLD",
+   "name": "FTAC Emerald Acquisition Corp. - Class A Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "EMLD"
+  },
+  {
+   "symbol": "EMLDU",
+   "name": "FTAC Emerald Acquisition Corp. - Unit",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "EMLDU"
+  },
+  {
+   "symbol": "EMLDW",
+   "name": "FTAC Emerald Acquisition Corp. - Warrant",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "EMLDW"
+  },
+  {
+   "symbol": "NVAC",
+   "name": "NorthView Acquisition Corporation - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "NVAC"
+  },
+  {
+   "symbol": "NVACR",
+   "name": "NorthView Acquisition Corporation - Rights",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "NVACR"
+  },
+  {
+   "symbol": "NVACW",
+   "name": "NorthView Acquisition Corporation - Warrant",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "NVACW"
+  },
+  {
+   "symbol": "PRLHW",
+   "name": "Pearl Holdings Acquisition Corp - Warrant",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "PRLHW"
+  },
+  {
+   "symbol": "TLGY",
+   "name": "TLGY Acquisition Corporation - Class A Ordinary Share",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "TLGY"
+  },
+  {
+   "symbol": "TLGYU",
+   "name": "TLGY Acquisition Corporation - Unit",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "TLGYU"
+  },
+  {
+   "symbol": "TLGYW",
+   "name": "TLGY Acquisition Corporation - Warrant",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "TLGYW"
+  },
+  {
+   "symbol": "WBTN",
+   "name": "WEBTOON Entertainment Inc. - Common stock",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "WBTN"
+  },
+  {
+   "symbol": "LB",
+   "name": "LandBridge Company LLC Class A Shares Representing Limited Liability Company Interests",
+   "exchange": "NYSE",
+   "yahoo_symbol": "LB"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "NVAC",
+   "name": "NorthView Acquisition Corporation - Common Stock",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "NVAC"
+  },
+  {
+   "symbol": "EMLDW",
+   "name": "FTAC Emerald Acquisition Corp. - Warrant",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "EMLDW"
+  },
+  {
+   "symbol": "TLGYW",
+   "name": "TLGY Acquisition Corporation - Warrant",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "TLGYW"
+  },
+  {
+   "symbol": "TLGY",
+   "name": "TLGY Acquisition Corporation - Class A Ordinary Share",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "TLGY"
+  },
+  {
+   "symbol": "HRT",
+   "name": "HireRight Holdings Corporation Common Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "HRT"
+  },
+  {
+   "symbol": "BRSH",
+   "name": "Bruush Oral Care Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "BRSH"
+  },
+  {
+   "symbol": "PRLHW",
+   "name": "Pearl Holdings Acquisition Corp - Warrant",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "PRLHW"
+  },
+  {
+   "symbol": "EMLDU",
+   "name": "FTAC Emerald Acquisition Corp. - Unit",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "EMLDU"
+  },
+  {
+   "symbol": "NVACW",
+   "name": "NorthView Acquisition Corporation - Warrant",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "NVACW"
+  },
+  {
+   "symbol": "BRSHW",
+   "name": "Bruush Oral Care Inc. - Warrant",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "BRSHW"
+  },
+  {
+   "symbol": "TCON",
+   "name": "TRACON Pharmaceuticals, Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "TCON"
+  },
+  {
+   "symbol": "AIRC",
+   "name": "Apartment Income REIT Corp. Common Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "AIRC"
+  },
+  {
+   "symbol": "NVACR",
+   "name": "NorthView Acquisition Corporation - Rights",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "NVACR"
+  },
+  {
+   "symbol": "EMLD",
+   "name": "FTAC Emerald Acquisition Corp. - Class A Common Stock",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "EMLD"
+  },
+  {
+   "symbol": "TLGYU",
+   "name": "TLGY Acquisition Corporation - Unit",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "TLGYU"
+  },
+  {
+   "symbol": "XYBN",
+   "name": "Xybion Digital Inc.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "XYBN.V",
+   "instruments": [
+    {
+     "name": "Xybion Digital Inc.",
+     "symbol": "XYBN"
+    }
+   ]
+  }
+ ]
+}
