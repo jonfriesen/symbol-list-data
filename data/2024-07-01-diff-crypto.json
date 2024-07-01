@@ -1,0 +1,318 @@
+{
+ "added": [
+  {
+   "symbol": "DOGERA",
+   "name": "Dogera (DOGERA)",
+   "built_on": "ZK"
+  },
+  {
+   "symbol": "ZKE",
+   "name": "zkEra Finance (ZKE)",
+   "built_on": "ZK"
+  },
+  {
+   "symbol": "APPA",
+   "name": "Dappad (APPA)",
+   "built_on": "ZK"
+  },
+  {
+   "symbol": "ZGEM",
+   "name": "GemSwap (ZGEM)",
+   "built_on": "ZK"
+  },
+  {
+   "symbol": "SWORD",
+   "name": "eZKalibur (SWORD)",
+   "built_on": "ZK"
+  },
+  {
+   "symbol": "PEPERA",
+   "name": "PEPERA (PEPERA)",
+   "built_on": "ZK"
+  },
+  {
+   "symbol": "ZKSP",
+   "name": "zkSwap (ZKSP)",
+   "built_on": "ZK"
+  },
+  {
+   "symbol": "TOUCHFAN",
+   "name": "TouchFan (TOUCHFAN)",
+   "built_on": "ZK"
+  },
+  {
+   "symbol": "BABYCRASH",
+   "name": "BabyCrash (BABYCRASH)",
+   "built_on": "BASECHAIN"
+  },
+  {
+   "symbol": "ZKDOGE",
+   "name": "zkDoge (ZKDOGE)",
+   "built_on": "ZK"
+  },
+  {
+   "symbol": "G",
+   "name": "GRN Grid (G)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "WISP",
+   "name": "Whisper (WISP)",
+   "built_on": "ZK"
+  },
+  {
+   "symbol": "ZPET",
+   "name": "Zino Pet (ZPET)",
+   "built_on": "ZK"
+  },
+  {
+   "symbol": "PIKO",
+   "name": "Pinnako (PIKO)",
+   "built_on": "ZK"
+  },
+  {
+   "symbol": "ZKPEPE",
+   "name": "ZKPEPEs (ZKPEPE)",
+   "built_on": "ZK"
+  },
+  {
+   "symbol": "BUCKY",
+   "name": "Bucky (BUCKY)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "TWP",
+   "name": "TrumpWifPanda (TWP)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "ZFLOKI",
+   "name": "zkFloki (ZFLOKI)",
+   "built_on": "ZK"
+  },
+  {
+   "symbol": "ZCULT",
+   "name": "Zkcult (ZCULT)",
+   "built_on": "ZK"
+  },
+  {
+   "symbol": "ZKSHIB",
+   "name": "zkShib (ZKSHIB)",
+   "built_on": "ZK"
+  },
+  {
+   "symbol": "ZKPAD",
+   "name": "zkLaunchpad (ZKPAD)",
+   "built_on": "ZK"
+  },
+  {
+   "symbol": "ZK",
+   "name": "zkSync (ZK)"
+  },
+  {
+   "symbol": "AAI",
+   "name": "AutoAir AI (AAI)",
+   "built_on": "ZK"
+  },
+  {
+   "symbol": "ZKID",
+   "name": "zkSync id (ZKID)",
+   "built_on": "ZK"
+  },
+  {
+   "symbol": "SNRK",
+   "name": "Snark Launch (SNRK)",
+   "built_on": "ZK"
+  },
+  {
+   "symbol": "ZKDX",
+   "name": "ZKDX (ZKDX)",
+   "built_on": "ZK"
+  },
+  {
+   "symbol": "HNX",
+   "name": "HeartX Utility Token (HNX)",
+   "built_on": "ZK"
+  },
+  {
+   "symbol": "SKOP",
+   "name": "Skulls of Pepe Token (SKOP)",
+   "built_on": "BASECHAIN"
+  },
+  {
+   "symbol": "VS",
+   "name": "veSync (VS)",
+   "built_on": "ZK"
+  },
+  {
+   "symbol": "ZF",
+   "name": "zkSwap Finance  (ZF)",
+   "built_on": "ZK"
+  },
+  {
+   "symbol": "MELLSTROY",
+   "name": "MELLSTROY (MELLSTROY)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "ZKGROK",
+   "name": "ZKGROK (ZKGROK)",
+   "built_on": "ZK"
+  },
+  {
+   "symbol": "FRENCH",
+   "name": "French On Base (FRENCH)",
+   "built_on": "BASECHAIN"
+  },
+  {
+   "symbol": "ZYNE",
+   "name": "Zynergy (ZYNE)",
+   "built_on": "ZK"
+  },
+  {
+   "symbol": "BANKETH",
+   "name": "BankEth (BANKETH)"
+  },
+  {
+   "symbol": "MOOLA",
+   "name": "Degen Forest (MOOLA)",
+   "built_on": "BASECHAIN"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "AAI",
+   "name": "AutoAir AI (AAI)",
+   "built_on": "ZKSYNC"
+  },
+  {
+   "symbol": "PIKO",
+   "name": "Pinnako (PIKO)",
+   "built_on": "ZKSYNC"
+  },
+  {
+   "symbol": "TOUCHFAN",
+   "name": "TouchFan (TOUCHFAN)",
+   "built_on": "ZKSYNC"
+  },
+  {
+   "symbol": "ZKE",
+   "name": "zkEra Finance (ZKE)",
+   "built_on": "ZKSYNC"
+  },
+  {
+   "symbol": "ZF",
+   "name": "zkSwap Finance  (ZF)",
+   "built_on": "ZKSYNC"
+  },
+  {
+   "symbol": "ZGEM",
+   "name": "GemSwap (ZGEM)",
+   "built_on": "ZKSYNC"
+  },
+  {
+   "symbol": "ZFLOKI",
+   "name": "zkFloki (ZFLOKI)",
+   "built_on": "ZKSYNC"
+  },
+  {
+   "symbol": "APPA",
+   "name": "Dappad (APPA)",
+   "built_on": "ZKSYNC"
+  },
+  {
+   "symbol": "DOGERA",
+   "name": "Dogera (DOGERA)",
+   "built_on": "ZKSYNC"
+  },
+  {
+   "symbol": "ZKGROK",
+   "name": "ZKGROK (ZKGROK)",
+   "built_on": "ZKSYNC"
+  },
+  {
+   "symbol": "ZYNE",
+   "name": "Zynergy (ZYNE)",
+   "built_on": "ZKSYNC"
+  },
+  {
+   "symbol": "VS",
+   "name": "veSync (VS)",
+   "built_on": "ZKSYNC"
+  },
+  {
+   "symbol": "ZKSP",
+   "name": "zkSwap (ZKSP)",
+   "built_on": "ZKSYNC"
+  },
+  {
+   "symbol": "ZPET",
+   "name": "Zino Pet (ZPET)",
+   "built_on": "ZKSYNC"
+  },
+  {
+   "symbol": "ZKPAD",
+   "name": "zkLaunchpad (ZKPAD)",
+   "built_on": "ZKSYNC"
+  },
+  {
+   "symbol": "ZKDX",
+   "name": "ZKDX (ZKDX)",
+   "built_on": "ZKSYNC"
+  },
+  {
+   "symbol": "WISP",
+   "name": "Whisper (WISP)",
+   "built_on": "ZKSYNC"
+  },
+  {
+   "symbol": "HNX",
+   "name": "HeartX Utility Token (HNX)",
+   "built_on": "ZKSYNC"
+  },
+  {
+   "symbol": "ZCULT",
+   "name": "Zkcult (ZCULT)",
+   "built_on": "ZKSYNC"
+  },
+  {
+   "symbol": "ZKSYNC",
+   "name": "zkSync (ZKSYNC)"
+  },
+  {
+   "symbol": "SNRK",
+   "name": "Snark Launch (SNRK)",
+   "built_on": "ZKSYNC"
+  },
+  {
+   "symbol": "SWORD",
+   "name": "eZKalibur (SWORD)",
+   "built_on": "ZKSYNC"
+  },
+  {
+   "symbol": "ZKSHIB",
+   "name": "zkShib (ZKSHIB)",
+   "built_on": "ZKSYNC"
+  },
+  {
+   "symbol": "PEPERA",
+   "name": "PEPERA (PEPERA)",
+   "built_on": "ZKSYNC"
+  },
+  {
+   "symbol": "ZKPEPE",
+   "name": "ZKPEPEs (ZKPEPE)",
+   "built_on": "ZKSYNC"
+  },
+  {
+   "symbol": "ZKID",
+   "name": "zkSync id (ZKID)",
+   "built_on": "ZKSYNC"
+  },
+  {
+   "symbol": "ZKDOGE",
+   "name": "zkDoge (ZKDOGE)",
+   "built_on": "ZKSYNC"
+  }
+ ]
+}

@@ -1,0 +1,120 @@
+{
+ "added": [
+  {
+   "symbol": "AIOT",
+   "name": "PowerFleet, Inc. - Common Stock",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "AIOT"
+  },
+  {
+   "symbol": "ALMS",
+   "name": "Alumis Inc. - Common Stock",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "ALMS"
+  },
+  {
+   "symbol": "LSH",
+   "name": "Lakeside Holding Limited - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "LSH"
+  },
+  {
+   "symbol": "TEN",
+   "name": "Tsakos Energy Navigation Ltd Common Shares",
+   "exchange": "NYSE",
+   "yahoo_symbol": "TEN"
+  },
+  {
+   "symbol": "TEN$E",
+   "name": "Tsakos Energy Navigation Ltd Series E Fixed-to-Floating Rate Cumulative Redeemable Perpetual Preferred Shares, par value $1.00",
+   "exchange": "NYSE",
+   "yahoo_symbol": "TEN$E"
+  },
+  {
+   "symbol": "TEN$F",
+   "name": "Tsakos Energy Navigation Ltd Series F Fixed-to-Floating Rate Cumulative Redeemable Perpetual Preferred Shares, par value $1.00",
+   "exchange": "NYSE",
+   "yahoo_symbol": "TEN$F"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "TNP$E",
+   "name": "Tsakos Energy Navigation Ltd Series E Fixed-to-Floating Rate Cumulative Redeemable Perpetual Preferred Shares, par value $1.00",
+   "exchange": "NYSE",
+   "yahoo_symbol": "TNP$E"
+  },
+  {
+   "symbol": "SCCB",
+   "name": "Sachem Capital Corp. 7.125% Notes due 2024",
+   "exchange": "NYSE MKT",
+   "yahoo_symbol": "SCCB"
+  },
+  {
+   "symbol": "TNP",
+   "name": "Tsakos Energy Navigation Ltd Common Shares",
+   "exchange": "NYSE",
+   "yahoo_symbol": "TNP"
+  },
+  {
+   "symbol": "LSDI",
+   "name": "Lucy Scientific Discovery Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "LSDI"
+  },
+  {
+   "symbol": "OXLCM",
+   "name": "Oxford Lane Capital Corp. - 6.75% Series 2024 Term Preferred Stock",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "OXLCM"
+  },
+  {
+   "symbol": "BITE.W",
+   "name": "Bite Acquisition Corp. Warrants, each whole warrant exercisable for one share of common stock at an exercise price of $11.50",
+   "exchange": "NYSE MKT",
+   "yahoo_symbol": "BITE.W"
+  },
+  {
+   "symbol": "PWFL",
+   "name": "PowerFleet, Inc. - Common Stock",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "PWFL"
+  },
+  {
+   "symbol": "TSRI",
+   "name": "TSR, Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "TSRI"
+  },
+  {
+   "symbol": "BITE",
+   "name": "Bite Acquisition Corp. Common Stock",
+   "exchange": "NYSE MKT",
+   "yahoo_symbol": "BITE"
+  },
+  {
+   "symbol": "VERY",
+   "name": "Vericity, Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "VERY"
+  },
+  {
+   "symbol": "BITE.U",
+   "name": "Bite Acquisition Corp. Units, each consisting of one share of common stock and one-half of one redeemable warrant",
+   "exchange": "NYSE MKT",
+   "yahoo_symbol": "BITE.U"
+  },
+  {
+   "symbol": "CHAA",
+   "name": "Catcha Investment Corp. Class A Ordinary Shares",
+   "exchange": "NYSE MKT",
+   "yahoo_symbol": "CHAA"
+  },
+  {
+   "symbol": "TNP$F",
+   "name": "Tsakos Energy Navigation Ltd Series F Fixed-to-Floating Rate Cumulative Redeemable Perpetual Preferred Shares, par value $1.00",
+   "exchange": "NYSE",
+   "yahoo_symbol": "TNP$F"
+  }
+ ]
+}
