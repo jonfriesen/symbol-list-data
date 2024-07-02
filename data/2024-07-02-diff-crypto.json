@@ -1,0 +1,227 @@
+{
+ "added": [
+  {
+   "symbol": "CHACHA",
+   "name": "Chacha (CHACHA)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "MILLY",
+   "name": "milly (MILLY)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "SNPAD",
+   "name": "SNP adverse (SNPAD)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "TRUMAGA",
+   "name": "TrumpMAGA (TRUMAGA)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "CHARTIQ",
+   "name": "ChartIQ (CHARTIQ)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "BAOM",
+   "name": "Battle of Memes (BAOM)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "BRAINZ",
+   "name": "Brainz Finance (BRAINZ)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "CHOO",
+   "name": "Chooky (CHOO)",
+   "built_on": "BASECHAIN"
+  },
+  {
+   "symbol": "PEPEMAGA",
+   "name": "Trump Pepe (PEPEMAGA)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "TARD",
+   "name": "Tard (TARD)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "TEITEI",
+   "name": "TeiTei (TEITEI)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "RALLY",
+   "name": "Trump Rally (RALLY)",
+   "built_on": "BASECHAIN"
+  },
+  {
+   "symbol": "WAZ",
+   "name": "MikeAI (WAZ)",
+   "built_on": "BASECHAIN"
+  },
+  {
+   "symbol": "BURNKING",
+   "name": "BurnKing (BURNKING)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "ANYONE",
+   "name": "ANyONe Protocol (ANYONE)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "CHWY",
+   "name": "CHEWY (CHWY)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "YEEHAW",
+   "name": "YEEHAW (YEEHAW)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "IVANKA",
+   "name": "IVANKA TRUMP (IVANKA)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "GROOVE",
+   "name": "GROOVE (GROOVE)",
+   "built_on": "BASECHAIN"
+  },
+  {
+   "symbol": "APUGURL",
+   "name": "APU GURL (APUGURL)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "MMIP",
+   "name": "Memes Make It Possible (MMIP)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "WIFB",
+   "name": "dogwifball (WIFB)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "GETH",
+   "name": "Guarded Ether (GETH)"
+  },
+  {
+   "symbol": "CHED",
+   "name": "Giggleched (CHED)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "BOGGY",
+   "name": "Boggy Coin (BOGGY)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "JJ",
+   "name": "JEJE (JJ)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "WALTER",
+   "name": "walter (WALTER)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "BAHAMAS",
+   "name": "Bahamas (BAHAMAS)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "DENTX",
+   "name": "DENTNet (DENTX)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "BIGLEZ",
+   "name": "THE BIG LEZ SHOW (BIGLEZ)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "ZEDCOIN",
+   "name": "ZedCoin (ZEDCOIN)"
+  },
+  {
+   "symbol": "SCLASSIC",
+   "name": "Solana Classic (SCLASSIC)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "NIGI",
+   "name": "Nigi (NIGI)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "SOLETF",
+   "name": "SOL ETF (SOLETF)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "CBAB",
+   "name": "CreBit (CBAB)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "BANK",
+   "name": "Float Protocol (BANK)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "WLTH",
+   "name": "Common Wealth (WLTH)",
+   "built_on": "BASECHAIN"
+  },
+  {
+   "symbol": "CYPEPE",
+   "name": "CyPepe (CYPEPE)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "TBD",
+   "name": "THE BIG DEBATE (TBD)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "ANIME",
+   "name": "Anime (ANIME)",
+   "built_on": "BASECHAIN"
+  },
+  {
+   "symbol": "MOMIJI",
+   "name": "MAGA Momiji (MOMIJI)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "SIMSOL",
+   "name": "SimSol (SIMSOL)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "AIRBTC",
+   "name": "AIRBTC (AIRBTC)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "NEURON",
+   "name": "Cerebrum DAO (NEURON)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "POLLUK",
+   "name": "Jasse Polluk (POLLUK)",
+   "built_on": "BASECHAIN"
+  }
+ ]
+}

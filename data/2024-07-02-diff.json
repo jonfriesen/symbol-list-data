@@ -1,0 +1,216 @@
+{
+ "added": [
+  {
+   "symbol": "CCZ.P",
+   "name": "Chablis Capital Corp.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "CCZ.P.V",
+   "instruments": [
+    {
+     "name": "Chablis Capital Corp.",
+     "symbol": "CCZ.P"
+    }
+   ]
+  },
+  {
+   "symbol": "FCA.U",
+   "name": "Firm Capital Apartment Real Estate Investment Trust",
+   "exchange": "TSXV",
+   "yahoo_symbol": "FCA.U.V",
+   "instruments": [
+    {
+     "name": "Firm Capital Apartment Real Estate Investment Trust USD",
+     "symbol": "FCA.U"
+    },
+    {
+     "name": "Firm Capital Apartment Real Estate Investment Trust",
+     "symbol": "FCA.UN"
+    }
+   ]
+  },
+  {
+   "symbol": "DXAU",
+   "name": "Dynamic Active Global Gold ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "DXAU.TO",
+   "instruments": [
+    {
+     "name": "Dyn Actv Gl Gold ETF",
+     "symbol": "DXAU"
+    }
+   ]
+  },
+  {
+   "symbol": "DXMO",
+   "name": "Dynamic Active Mining Opportunities ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "DXMO.TO",
+   "instruments": [
+    {
+     "name": "Dyn Acv Mine Opp ETF",
+     "symbol": "DXMO"
+    }
+   ]
+  },
+  {
+   "symbol": "DXRE",
+   "name": "Dynamic Active Real Estate ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "DXRE.TO",
+   "instruments": [
+    {
+     "name": "Dyn Actv RealEst ETF",
+     "symbol": "DXRE"
+    }
+   ]
+  },
+  {
+   "symbol": "ABVE",
+   "name": "Above Food Ingredients Inc. - Common Stock",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "ABVE"
+  },
+  {
+   "symbol": "ABVEW",
+   "name": "Above Food Ingredients Inc. - Warrant",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "ABVEW"
+  },
+  {
+   "symbol": "GBBK",
+   "name": "Global Blockchain Acquisition Corp. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "GBBK"
+  },
+  {
+   "symbol": "GBBKR",
+   "name": "Global Blockchain Acquisition Corp. - Right",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "GBBKR"
+  },
+  {
+   "symbol": "GBBKW",
+   "name": "Global Blockchain Acquisition Corp. - Warrant",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "GBBKW"
+  },
+  {
+   "symbol": "GPAT",
+   "name": "GP-Act III Acquisition Corp. - Class A Ordinary Share",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "GPAT"
+  },
+  {
+   "symbol": "GPATW",
+   "name": "GP-Act III Acquisition Corp. - Warrants",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "GPATW"
+  },
+  {
+   "symbol": "NYMTI",
+   "name": "New York Mortgage Trust, Inc. - 9.125% Senior Notes Due 2029",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "NYMTI"
+  },
+  {
+   "symbol": "QBUF",
+   "name": "Innovator Nasdaq-100 10 Buffer ETF Quarterly",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "QBUF"
+  },
+  {
+   "symbol": "CHAA",
+   "name": "Catcha Investment Corp. Class A Ordinary Shares",
+   "exchange": "NYSE MKT",
+   "yahoo_symbol": "CHAA"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "SIX",
+   "name": "Six Flags Entertainment Corporation New Common Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "SIX"
+  },
+  {
+   "symbol": "FNCB",
+   "name": "FNCB Bancorp Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "FNCB"
+  },
+  {
+   "symbol": "BWAQ",
+   "name": "Blue World Acquisition Corporation - Class A ordinary shares",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "BWAQ"
+  },
+  {
+   "symbol": "BWAQR",
+   "name": "Blue World Acquisition Corporation - Right",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "BWAQR"
+  },
+  {
+   "symbol": "FCA.DB",
+   "name": "Firm Capital Apartment Real Estate Investment Trust",
+   "exchange": "TSXV",
+   "yahoo_symbol": "FCA.DB.V",
+   "instruments": [
+    {
+     "name": "Firm Capital Apartment REIT db 30Jun2026",
+     "symbol": "FCA.DB"
+    },
+    {
+     "name": "Firm Capital Apartment Real Estate Investment Trust USD",
+     "symbol": "FCA.U"
+    },
+    {
+     "name": "Firm Capital Apartment Real Estate Investment Trust",
+     "symbol": "FCA.UN"
+    }
+   ]
+  },
+  {
+   "symbol": "GBBK",
+   "name": "Global Blockchain Acquisition Corp. - Common Stock",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "GBBK"
+  },
+  {
+   "symbol": "BWAQW",
+   "name": "Blue World Acquisition Corporation - Warrant",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "BWAQW"
+  },
+  {
+   "symbol": "GBBKR",
+   "name": "Global Blockchain Acquisition Corp. - Right",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "GBBKR"
+  },
+  {
+   "symbol": "DLA",
+   "name": "Delta Apparel, Inc. Common Stock",
+   "exchange": "NYSE MKT",
+   "yahoo_symbol": "DLA"
+  },
+  {
+   "symbol": "GBBKW",
+   "name": "Global Blockchain Acquisition Corp. - Warrant",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "GBBKW"
+  },
+  {
+   "symbol": "BWAQU",
+   "name": "Blue World Acquisition Corporation - Unit",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "BWAQU"
+  },
+  {
+   "symbol": "CVLY",
+   "name": "Codorus Valley Bancorp, Inc - Common Stock",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "CVLY"
+  }
+ ]
+}
