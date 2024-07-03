@@ -1,0 +1,529 @@
+{
+ "added": [
+  {
+   "symbol": "KBD",
+   "name": "Kyberdyne (KBD)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "BFLOKI",
+   "name": "BurnFloki (BFLOKI)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "BUSY",
+   "name": "Busy DAO (BUSY)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "DUET",
+   "name": "Duet Protocol (DUET)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "TTK",
+   "name": "The Three Kingdoms (TTK)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "FAR",
+   "name": "Farmland Protocol (FAR)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "MELI",
+   "name": "Meli Games (MELI)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "SAVG",
+   "name": "SAVAGE (SAVG)",
+   "built_on": "MATIC"
+  },
+  {
+   "symbol": "PPAD",
+   "name": "PlayPad (PPAD)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "ISKY",
+   "name": "Infinity Skies (ISKY)",
+   "built_on": "MATIC"
+  },
+  {
+   "symbol": "CHEEKS",
+   "name": "CHEEKS (CHEEKS)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "XALPHA",
+   "name": "XAlpha AI (XALPHA)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "VSO",
+   "name": "Verso (VSO)",
+   "built_on": "AVAX"
+  },
+  {
+   "symbol": "PHL",
+   "name": "Philcoin (PHL)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "GRBE",
+   "name": "Green Beli (GRBE)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "NATIX",
+   "name": "NATIX Network (NATIX)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "ARBT",
+   "name": "ARBITRAGE (ARBT)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "OFF",
+   "name": "BlastOff (OFF)",
+   "built_on": "BLAST"
+  },
+  {
+   "symbol": "PEPESOL",
+   "name": "PEPE SOL (PEPESOL)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "BXH",
+   "name": "BXH (BXH)",
+   "built_on": "HT"
+  },
+  {
+   "symbol": "ARTEM",
+   "name": "Artem (ARTEM)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "XPRESS",
+   "name": "CryptoXpress (XPRESS)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "BUM",
+   "name": "WillyBumBum (BUM)",
+   "built_on": "BASECHAIN"
+  },
+  {
+   "symbol": "MACHO",
+   "name": "macho (MACHO)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "MIMIR",
+   "name": "Mimir (MIMIR)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "ZEUM",
+   "name": "Colizeum (ZEUM)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "TRADEBOT",
+   "name": "TradeBot (TRADEBOT)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "PCKB",
+   "name": "pCKB (via Godwoken Bridge from CKB) (PCKB)"
+  },
+  {
+   "symbol": "NXQ",
+   "name": "NexQloud (NXQ)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "PAPU",
+   "name": "Papu Token (PAPU)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "CHER",
+   "name": "Cherry Network (CHER)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "MCASH",
+   "name": "Monsoon Finance (MCASH)",
+   "built_on": "MATIC"
+  },
+  {
+   "symbol": "MDF",
+   "name": "MatrixETF (MDF)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "FIWA",
+   "name": "Defi Warrior (FIWA)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "PLACE",
+   "name": "PlaceWar Governance (PLACE)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "NIGELLA",
+   "name": "Nigella coin (NIGELLA)"
+  },
+  {
+   "symbol": "ENNO",
+   "name": "ENNO Cash (ENNO)",
+   "built_on": "WAVES"
+  },
+  {
+   "symbol": "ZODI",
+   "name": "Zodium (ZODI)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "EMIT",
+   "name": "Time Machine NFTs (EMIT)",
+   "built_on": "CRO"
+  },
+  {
+   "symbol": "WNZ",
+   "name": "Winerz (WNZ)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "LENDA",
+   "name": "Lenda (LENDA)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "ZONE",
+   "name": "Zone (ZONE)",
+   "built_on": "ALGO"
+  },
+  {
+   "symbol": "SINGLE",
+   "name": "Single Finance (SINGLE)",
+   "built_on": "CRO"
+  },
+  {
+   "symbol": "PRICK",
+   "name": "Pickle Rick (PRICK)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "SELFIE",
+   "name": "SelfieDogCoin (SELFIE)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "GETH",
+   "name": "Guarded Ether (GETH)"
+  },
+  {
+   "symbol": "ICONS",
+   "name": "SportsIcon (ICONS)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "AQUAGOAT",
+   "name": "Aqua Goat (AQUAGOAT)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "GDAO",
+   "name": "Governor DAO (GDAO)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "ATK",
+   "name": "Attack Wagon (ATK)",
+   "built_on": "MATIC"
+  },
+  {
+   "symbol": "BANKETH",
+   "name": "BankEth (BANKETH)"
+  },
+  {
+   "symbol": "FLAG",
+   "name": "Flag Network (FLAG)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "PEEPEE",
+   "name": "Peepee (PEEPEE)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "SANDWICH",
+   "name": " Sandwich Network (SANDWICH)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "DEG",
+   "name": "Degis (DEG)",
+   "built_on": "AVAX"
+  },
+  {
+   "symbol": "MHUNT",
+   "name": "MetaShooter (MHUNT)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "PRIDE",
+   "name": "Nomad Exiles (PRIDE)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "PLUG",
+   "name": "PL^Gnet (PLUG)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "ESG",
+   "name": "ESG (ESG)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "POLI",
+   "name": "Polinate (POLI)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "MOOO",
+   "name": "Hashtagger (MOOO)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "SKYRIM",
+   "name": "Skyrim Finance (SKYRIM)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "MOEW",
+   "name": "donotfomoew (MOEW)",
+   "built_on": "BASECHAIN"
+  },
+  {
+   "symbol": "BAKED",
+   "name": "Baked (BAKED)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "ANSR",
+   "name": "Answerly (ANSR)",
+   "built_on": "MATIC"
+  },
+  {
+   "symbol": "NBP",
+   "name": "NFTBomb (NBP)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "DV",
+   "name": "Dreamverse (DV)",
+   "built_on": "ETH"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "BXH",
+   "name": "BXH (BXH)"
+  },
+  {
+   "symbol": "SKYRIM",
+   "name": "Skyrim Finance (SKYRIM)"
+  },
+  {
+   "symbol": "ATK",
+   "name": "Attack Wagon (ATK)"
+  },
+  {
+   "symbol": "BFLOKI",
+   "name": "BurnFloki (BFLOKI)"
+  },
+  {
+   "symbol": "GRBE",
+   "name": "Green Beli (GRBE)"
+  },
+  {
+   "symbol": "PPAD",
+   "name": "PlayPad (PPAD)"
+  },
+  {
+   "symbol": "ZONE",
+   "name": "Zone (ZONE)"
+  },
+  {
+   "symbol": "SANDWICH",
+   "name": " Sandwich Network (SANDWICH)"
+  },
+  {
+   "symbol": "FAR",
+   "name": "Farmland Protocol (FAR)"
+  },
+  {
+   "symbol": "POLI",
+   "name": "Polinate (POLI)"
+  },
+  {
+   "symbol": "GDAO",
+   "name": "Governor DAO (GDAO)"
+  },
+  {
+   "symbol": "BUSY",
+   "name": "Busy DAO (BUSY)"
+  },
+  {
+   "symbol": "AQUAGOAT",
+   "name": "Aqua Goat (AQUAGOAT)"
+  },
+  {
+   "symbol": "SINGLE",
+   "name": "Single Finance (SINGLE)"
+  },
+  {
+   "symbol": "TTK",
+   "name": "The Three Kingdoms (TTK)"
+  },
+  {
+   "symbol": "MDF",
+   "name": "MatrixETF (MDF)"
+  },
+  {
+   "symbol": "NBP",
+   "name": "NFTBomb (NBP)"
+  },
+  {
+   "symbol": "ARBT",
+   "name": "ARBITRAGE (ARBT)"
+  },
+  {
+   "symbol": "DV",
+   "name": "Dreamverse (DV)"
+  },
+  {
+   "symbol": "PHL",
+   "name": "Philcoin (PHL)"
+  },
+  {
+   "symbol": "MCASH",
+   "name": "Monsoon Finance (MCASH)"
+  },
+  {
+   "symbol": "CHER",
+   "name": "Cherry Network (CHER)"
+  },
+  {
+   "symbol": "ARTEM",
+   "name": "Artem (ARTEM)"
+  },
+  {
+   "symbol": "ESG",
+   "name": "ESG (ESG)"
+  },
+  {
+   "symbol": "DUET",
+   "name": "Duet Protocol (DUET)"
+  },
+  {
+   "symbol": "MIMIR",
+   "name": "Mimir (MIMIR)"
+  },
+  {
+   "symbol": "SAVG",
+   "name": "SAVAGE (SAVG)"
+  },
+  {
+   "symbol": "MELI",
+   "name": "Meli Games (MELI)"
+  },
+  {
+   "symbol": "ZEUM",
+   "name": "Colizeum (ZEUM)"
+  },
+  {
+   "symbol": "PRIDE",
+   "name": "Nomad Exiles (PRIDE)"
+  },
+  {
+   "symbol": "DEG",
+   "name": "Degis (DEG)"
+  },
+  {
+   "symbol": "PLUG",
+   "name": "PL^Gnet (PLUG)"
+  },
+  {
+   "symbol": "FLAG",
+   "name": "Flag Network (FLAG)"
+  },
+  {
+   "symbol": "MHUNT",
+   "name": "MetaShooter (MHUNT)"
+  },
+  {
+   "symbol": "LENDA",
+   "name": "Lenda (LENDA)"
+  },
+  {
+   "symbol": "PLACE",
+   "name": "PlaceWar Governance (PLACE)"
+  },
+  {
+   "symbol": "ANSR",
+   "name": "Answerly (ANSR)"
+  },
+  {
+   "symbol": "VSO",
+   "name": "Verso (VSO)"
+  },
+  {
+   "symbol": "XPRESS",
+   "name": "CryptoXpress (XPRESS)"
+  },
+  {
+   "symbol": "ZODI",
+   "name": "Zodium (ZODI)"
+  },
+  {
+   "symbol": "MOOO",
+   "name": "Hashtagger (MOOO)"
+  },
+  {
+   "symbol": "ICONS",
+   "name": "SportsIcon (ICONS)"
+  },
+  {
+   "symbol": "ENNO",
+   "name": "ENNO Cash (ENNO)"
+  },
+  {
+   "symbol": "FIWA",
+   "name": "Defi Warrior (FIWA)"
+  },
+  {
+   "symbol": "ISKY",
+   "name": "Infinity Skies (ISKY)"
+  },
+  {
+   "symbol": "KBD",
+   "name": "Kyberdyne (KBD)"
+  },
+  {
+   "symbol": "WNZ",
+   "name": "Winerz (WNZ)"
+  },
+  {
+   "symbol": "BAKED",
+   "name": "Baked (BAKED)"
+  }
+ ]
+}

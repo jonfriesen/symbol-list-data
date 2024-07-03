@@ -1,0 +1,186 @@
+{
+ "added": [
+  {
+   "symbol": "DCOMG",
+   "name": "Dime Community Bancshares, Inc. - 9.000% Fixed-to-Floating Rate Subordinated Notes due 2034",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "DCOMG"
+  },
+  {
+   "symbol": "EHGO",
+   "name": "Eshallgo Inc. - Class A Ordinary Shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "EHGO"
+  },
+  {
+   "symbol": "EURKU",
+   "name": "Eureka Acquisition Corp - Unit",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "EURKU"
+  },
+  {
+   "symbol": "FCTE",
+   "name": "SMI 3Fourteen Full-Cycle Trend ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "FCTE"
+  },
+  {
+   "symbol": "TOYO",
+   "name": "TOYO Co., Ltd - Ordinary Shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "TOYO"
+  },
+  {
+   "symbol": "YOTA",
+   "name": "Yotta Acquisition Corporation - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "YOTA"
+  },
+  {
+   "symbol": "YOTAR",
+   "name": "Yotta Acquisition Corporation - Right",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "YOTAR"
+  },
+  {
+   "symbol": "YOTAU",
+   "name": "Yotta Acquisition Corporation - Unit",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "YOTAU"
+  },
+  {
+   "symbol": "YOTAW",
+   "name": "Yotta Acquisition Corporation - Warrant",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "YOTAW"
+  },
+  {
+   "symbol": "EP",
+   "name": "Empire Metals Corp.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "EP.V",
+   "instruments": [
+    {
+     "name": "Empire Metals Corp.",
+     "symbol": "EP"
+    }
+   ]
+  },
+  {
+   "symbol": "AD.DB.A",
+   "name": "Alaris Equity Partners Income Trust",
+   "exchange": "TSX",
+   "yahoo_symbol": "AD.DB.A.TO",
+   "instruments": [
+    {
+     "name": "Alaris EqPart 6.25Db",
+     "symbol": "AD.DB.A"
+    },
+    {
+     "name": "Alaris Eq Part Tr Un",
+     "symbol": "AD.UN"
+    }
+   ]
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "EVBG",
+   "name": "Everbridge, Inc. - Common Stock",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "EVBG"
+  },
+  {
+   "symbol": "AKLI",
+   "name": "Akili, Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "AKLI"
+  },
+  {
+   "symbol": "YOTAU",
+   "name": "Yotta Acquisition Corporation - Unit",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "YOTAU"
+  },
+  {
+   "symbol": "YOTA",
+   "name": "Yotta Acquisition Corporation - Common Stock",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "YOTA"
+  },
+  {
+   "symbol": "YOTAW",
+   "name": "Yotta Acquisition Corporation - Warrant",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "YOTAW"
+  },
+  {
+   "symbol": "WIRE",
+   "name": "Encore Wire Corporation - Common Stock",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "WIRE"
+  },
+  {
+   "symbol": "AD.DB",
+   "name": "Alaris Equity Partners Income Trust",
+   "exchange": "TSX",
+   "yahoo_symbol": "AD.DB.TO",
+   "instruments": [
+    {
+     "name": "Alaris Eq Part 5.5Db",
+     "symbol": "AD.DB"
+    },
+    {
+     "name": "Alaris EqPart 6.25Db",
+     "symbol": "AD.DB.A"
+    },
+    {
+     "name": "Alaris Eq Part Tr Un",
+     "symbol": "AD.UN"
+    }
+   ]
+  },
+  {
+   "symbol": "CSSEN",
+   "name": "Chicken Soup for the Soul Entertainment, Inc. - 9.50% Notes due 2025",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "CSSEN"
+  },
+  {
+   "symbol": "CSSEL",
+   "name": "Chicken Soup for the Soul Entertainment, Inc. - Warrant",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "CSSEL"
+  },
+  {
+   "symbol": "EFTR",
+   "name": "eFFECTOR Therapeutics, Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "EFTR"
+  },
+  {
+   "symbol": "CSSE",
+   "name": "Chicken Soup for the Soul Entertainment, Inc. - Class A Common Stock",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "CSSE"
+  },
+  {
+   "symbol": "CSSEP",
+   "name": "Chicken Soup for the Soul Entertainment, Inc. - 9.75% Series A Cumulative Redeemable Perpetual Preferred Stock",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "CSSEP"
+  },
+  {
+   "symbol": "EFTRW",
+   "name": "eFFECTOR Therapeutics, Inc. - Warrant",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "EFTRW"
+  },
+  {
+   "symbol": "YOTAR",
+   "name": "Yotta Acquisition Corporation - Right",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "YOTAR"
+  }
+ ]
+}
