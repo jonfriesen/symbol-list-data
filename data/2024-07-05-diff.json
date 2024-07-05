@@ -1,0 +1,146 @@
+{
+ "added": [
+  {
+   "symbol": "ACX",
+   "name": "ACT Energy Technologies Ltd.",
+   "exchange": "TSX",
+   "yahoo_symbol": "ACX.TO",
+   "instruments": [
+    {
+     "name": "Cathedral Engy Serv",
+     "symbol": "ACX"
+    }
+   ]
+  },
+  {
+   "symbol": "PGIC",
+   "name": "Premium Global Income Split Corp.",
+   "exchange": "TSX",
+   "yahoo_symbol": "PGIC.TO",
+   "instruments": [
+    {
+     "name": "World Fin Split Cl A",
+     "symbol": "PGIC"
+    },
+    {
+     "name": "World Fin Split Pr",
+     "symbol": "PGIC.PR.A"
+    }
+   ]
+  },
+  {
+   "symbol": "GGT.R",
+   "name": "Gabelli Multi-Media Trust Inc. (The) Rights (expiring July 22, 2024) Rights",
+   "exchange": "NYSE",
+   "yahoo_symbol": "GGT.R"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "MITAW",
+   "name": "Coliseum Acquisition Corp. - Warrant",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "MITAW"
+  },
+  {
+   "symbol": "WFS",
+   "name": "World Financial Split Corp.",
+   "exchange": "TSX",
+   "yahoo_symbol": "WFS.TO",
+   "instruments": [
+    {
+     "name": "World Fin Split Cl A",
+     "symbol": "WFS"
+    },
+    {
+     "name": "World Fin Split Pr",
+     "symbol": "WFS.PR.A"
+    }
+   ]
+  },
+  {
+   "symbol": "DPSI",
+   "name": "DecisionPoint Systems, Inc. Common Stock",
+   "exchange": "NYSE MKT",
+   "yahoo_symbol": "DPSI"
+  },
+  {
+   "symbol": "MITAU",
+   "name": "Coliseum Acquisition Corp. - Unit",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "MITAU"
+  },
+  {
+   "symbol": "MITA",
+   "name": "Coliseum Acquisition Corp. - Class A Ordinary Share",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "MITA"
+  },
+  {
+   "symbol": "BWCG",
+   "name": "Blackwolf Copper and Gold Ltd.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "BWCG.V",
+   "instruments": [
+    {
+     "name": "Blackwolf Copper and Gold Ltd.",
+     "symbol": "BWCG"
+    }
+   ]
+  },
+  {
+   "symbol": "GGT.V",
+   "name": "Gabelli Multi-Media Trust Inc. (The) Rights (expiring July 22, 2024) Rights when issued",
+   "exchange": "NYSE",
+   "yahoo_symbol": "GGT.V"
+  },
+  {
+   "symbol": "TML",
+   "name": "Treasury Metals Inc.",
+   "exchange": "TSX",
+   "yahoo_symbol": "TML.TO",
+   "instruments": [
+    {
+     "name": "Treasury Metals J",
+     "symbol": "TML"
+    }
+   ]
+  },
+  {
+   "symbol": "GDNP",
+   "name": "Good Natured Products Inc.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "GDNP.V",
+   "instruments": [
+    {
+     "name": "Good Natured Products Inc.",
+     "symbol": "GDNP"
+    }
+   ]
+  },
+  {
+   "symbol": "BLUA.W",
+   "name": "BlueRiver Acquisition Corp. Warrants, each whole warrant exercisable for one Class A Ordinary Share at an exercise price of $11.50",
+   "exchange": "NYSE MKT",
+   "yahoo_symbol": "BLUA.W"
+  },
+  {
+   "symbol": "FOA.W",
+   "name": "Finance of America Companies Inc. Warrants, each whole warrant exercisable for one Class A Common Stock at an exercise price of $11.50",
+   "exchange": "NYSE",
+   "yahoo_symbol": "FOA.W"
+  },
+  {
+   "symbol": "CET",
+   "name": "Cathedral Energy Services Ltd.",
+   "exchange": "TSX",
+   "yahoo_symbol": "CET.TO",
+   "instruments": [
+    {
+     "name": "Cathedral Engy Serv",
+     "symbol": "CET"
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,71 @@
+{
+ "added": [
+  {
+   "symbol": "PEOSONE",
+   "name": "pEOS (PEOSONE)",
+   "built_on": "EOS"
+  },
+  {
+   "symbol": "WROSE",
+   "name": "Wrapped Rose (WROSE)"
+  },
+  {
+   "symbol": "LOVELYV1",
+   "name": "Lovely Inu Finance (LOVELYV1)"
+  },
+  {
+   "symbol": "BANK",
+   "name": "Float Protocol (BANK)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "WFLOW",
+   "name": "Wrapped Flow (WFLOW)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "G",
+   "name": "GRN Grid (G)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "ZEDCOIN",
+   "name": "ZedCoin (ZEDCOIN)"
+  },
+  {
+   "symbol": "LSTV1",
+   "name": "Lovely Swap Token (LSTV1)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "MARVINB",
+   "name": "Marvin on Base (MARVINB)",
+   "built_on": "BASECHAIN"
+  },
+  {
+   "symbol": "LOVELY",
+   "name": "Lovely finance (LOVELY)",
+   "built_on": "ETH"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "WROSE",
+   "name": "Wrapped Rose (WROSE)",
+   "built_on": "ROSE"
+  },
+  {
+   "symbol": "WFLOW",
+   "name": "Wrapped Flow (WFLOW)"
+  },
+  {
+   "symbol": "PEOS",
+   "name": "pEOS (PEOS)"
+  },
+  {
+   "symbol": "LOVELY",
+   "name": "Lovely Inu finance (LOVELY)",
+   "built_on": "BNB"
+  }
+ ]
+}
