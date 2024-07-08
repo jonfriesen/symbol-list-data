@@ -1,0 +1,145 @@
+{
+ "added": [
+  {
+   "symbol": "RUTH",
+   "name": "RUTH (RUTH)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "PEPLO",
+   "name": "Peplo Escobar (PEPLO)",
+   "built_on": "BASECHAIN"
+  },
+  {
+   "symbol": "SCY",
+   "name": "Synchrony (SCY)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "DOOGLE",
+   "name": "Doogle (DOOGLE)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "GOFX",
+   "name": "GooseFX (GOFX)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "BCHB",
+   "name": "Bitcoin Cash on Base (BCHB)",
+   "built_on": "BASECHAIN"
+  },
+  {
+   "symbol": "REDZILLA",
+   "name": "REDZILLA COIN (REDZILLA)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "BANK",
+   "name": "Float Protocol (BANK)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "QDFI",
+   "name": "Qudefi (QDFI)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "JWIF",
+   "name": "Jerrywifhat (JWIF)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "JOHNNY",
+   "name": "Johnny The Bull (JOHNNY)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "DOBEN",
+   "name": "dark boden (DOBEN)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "KOSS",
+   "name": "Koss (KOSS)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "KINIC",
+   "name": "Kinic (KINIC)",
+   "built_on": "ICP"
+  },
+  {
+   "symbol": "DELFI",
+   "name": "DeltaFi (DELFI)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "GCB",
+   "name": "Global Commercial Business (GCB)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "COFEEE",
+   "name": "COFEEE (COFEEE)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "DOGGS",
+   "name": "Doggensnout (DOGGS)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "FROGLIC",
+   "name": "Pink Hood Froglicker (FROGLIC)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "SONAR",
+   "name": "SonarWatch (SONAR)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "G",
+   "name": "GRN Grid (G)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "BERNIE",
+   "name": "BERNIE SENDERS (BERNIE)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "XHP",
+   "name": "XHYPE (XHP)",
+   "built_on": "BNB"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "GOFX",
+   "name": "GooseFX (GOFX)"
+  },
+  {
+   "symbol": "SCY",
+   "name": "Synchrony (SCY)"
+  },
+  {
+   "symbol": "DELFI",
+   "name": "DeltaFi (DELFI)"
+  },
+  {
+   "symbol": "DOBEN",
+   "name": "dark boden (DOBEN)"
+  },
+  {
+   "symbol": "SONAR",
+   "name": "SonarWatch (SONAR)"
+  },
+  {
+   "symbol": "ZEDCOIN",
+   "name": "ZedCoin (ZEDCOIN)"
+  }
+ ]
+}

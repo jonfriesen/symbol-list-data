@@ -1,0 +1,108 @@
+{
+ "added": [
+  {
+   "symbol": "SW",
+   "name": "Smurfit WestRock plc Ordinary Shares",
+   "exchange": "NYSE",
+   "yahoo_symbol": "SW"
+  },
+  {
+   "symbol": "ISO",
+   "name": "IsoEnergy Ltd.",
+   "exchange": "TSX",
+   "yahoo_symbol": "ISO.TO",
+   "instruments": [
+    {
+     "name": "IsoEnergy Ltd.",
+     "symbol": "ISO"
+    }
+   ]
+  },
+  {
+   "symbol": "TML",
+   "name": "Treasury Metals Inc.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "TML.V",
+   "instruments": [
+    {
+     "name": "Treasury Metals Inc.",
+     "symbol": "TML"
+    }
+   ]
+  },
+  {
+   "symbol": "RFAI",
+   "name": "RF Acquisition Corp II - Ordinary Shares",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "RFAI"
+  },
+  {
+   "symbol": "RFAIR",
+   "name": "RF Acquisition Corp II - Right",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "RFAIR"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "CUCO",
+   "name": "African Energy Metals Inc.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "CUCO.V",
+   "instruments": [
+    {
+     "name": "African Energy Metals Inc.",
+     "symbol": "CUCO"
+    }
+   ]
+  },
+  {
+   "symbol": "CFG$D",
+   "name": "Citizens Financial Group, Inc. Depositary Shares, each representing a 1/40th Interest in a Share of 6.350% Fixed-to-Floating Rate Non-Cumulative Perpetual Preferred Stock, Series D",
+   "exchange": "NYSE",
+   "yahoo_symbol": "CFG$D"
+  },
+  {
+   "symbol": "WRK",
+   "name": "Westrock Company Common Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "WRK"
+  },
+  {
+   "symbol": "DAC",
+   "name": "Datable Technology Corporation",
+   "exchange": "TSXV",
+   "yahoo_symbol": "DAC.V",
+   "instruments": [
+    {
+     "name": "Datable Technology Corporation",
+     "symbol": "DAC"
+    }
+   ]
+  },
+  {
+   "symbol": "GXS",
+   "name": "Goldsource Mines Inc.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "GXS.V",
+   "instruments": [
+    {
+     "name": "Goldsource Mines Inc.",
+     "symbol": "GXS"
+    }
+   ]
+  },
+  {
+   "symbol": "ISO",
+   "name": "IsoEnergy Ltd.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "ISO.V",
+   "instruments": [
+    {
+     "name": "Isoenergy Ltd.",
+     "symbol": "ISO"
+    }
+   ]
+  }
+ ]
+}
