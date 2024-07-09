@@ -1,0 +1,391 @@
+{
+ "added": [
+  {
+   "symbol": "LIVESEY",
+   "name": "Dr. Livesey (LIVESEY)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "REXHAT",
+   "name": "rexwifhat (REXHAT)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "CHNG",
+   "name": "Chainge Finance (CHNG)"
+  },
+  {
+   "symbol": "XRUN",
+   "name": "XRun (XRUN)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "MOOI",
+   "name": "Moonai (MOOI)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "MAXETH",
+   "name": "Max on ETH (MAXETH)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "BECX",
+   "name": "BETHEL (BECX)",
+   "built_on": "MATIC"
+  },
+  {
+   "symbol": "WINSTON",
+   "name": "Winston (WINSTON)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "KBOX",
+   "name": "The Killbox (KBOX)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "GHC",
+   "name": "Galaxy Heroes Coin (GHC)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "TAUR",
+   "name": "Marnotaur (TAUR)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "DAL",
+   "name": "DAOLaunch (DAL)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "KERN",
+   "name": "Kernel (KERN)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "DORKVADER",
+   "name": "DorkVader (DORKVADER)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "DES",
+   "name": "DeSpace Protocol (DES)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "KANG",
+   "name": "Kangamoon (KANG)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "MMETA",
+   "name": "Duckie Land Multi Metaverse (MMETA)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "MAPE",
+   "name": "Mecha Morphing (MAPE)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "USDCAT",
+   "name": "UpSideDownCat (USDCAT)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "PEON",
+   "name": "Peon (PEON)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "GETH",
+   "name": "Guarded Ether (GETH)"
+  },
+  {
+   "symbol": "EYES",
+   "name": "Eyes Protocol (EYES)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "MISA",
+   "name": "Sangkara (MISA)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "POLYPAD",
+   "name": "PolyPad (POLYPAD)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "MOM",
+   "name": "Mother of Memes (MOM)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "BANK",
+   "name": "Float Protocol (BANK)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "SWAY",
+   "name": "Sway Social (SWAY)",
+   "built_on": "MATIC"
+  },
+  {
+   "symbol": "CROPPER",
+   "name": "CropperFinance (CROPPER)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "RTD",
+   "name": "Retard (RTD)",
+   "built_on": "BASECHAIN"
+  },
+  {
+   "symbol": "WEAR",
+   "name": "MetaWear (WEAR)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "SNOLEX",
+   "name": "Snolex (SNOLEX)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "TCANDY",
+   "name": "TripCandy (TCANDY)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "EVIN",
+   "name": "Evin Token (EVIN)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "VTG",
+   "name": "Victory Gem (VTG)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "CHIPI",
+   "name": "chipi (CHIPI)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "PEME",
+   "name": "PEME (PEME)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "DANA",
+   "name": "Ardana (DANA)",
+   "built_on": "ADA"
+  },
+  {
+   "symbol": "EGS",
+   "name": "EdgeSwap (EGS)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "ORO",
+   "name": "Operon Origins (ORO)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "DOGA",
+   "name": "Dogami (DOGA)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "WGC",
+   "name": "Green Climate World (WGC)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "CRAFT",
+   "name": "TaleCraft (CRAFT)",
+   "built_on": "AVAX"
+  },
+  {
+   "symbol": "JASON",
+   "name": "Jason Derulo (JASON)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "LOLLY",
+   "name": "Lollipop (LOLLY)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "MIU",
+   "name": "Miu (MIU)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "BICHO",
+   "name": "bicho (BICHO)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "METER",
+   "name": "Meter Stable (METER)",
+   "built_on": "MTRG"
+  },
+  {
+   "symbol": "ZAZZLES",
+   "name": "Zazzles (ZAZZLES)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "GREMLY",
+   "name": "Gremly (GREMLY)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "PUNGU",
+   "name": "PUNGU (PUNGU)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "PLSD",
+   "name": "PulseDogecoin (PLSD)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "CHIRPY",
+   "name": "Chirpy Boy (CHIRPY)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "ALTB",
+   "name": "Altbase (ALTB)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "FTB",
+   "name": "Fit\u0026Beat (FTB)",
+   "built_on": "ETH"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "EGS",
+   "name": "EdgeSwap (EGS)"
+  },
+  {
+   "symbol": "SWAY",
+   "name": "Sway Social (SWAY)"
+  },
+  {
+   "symbol": "MOOI",
+   "name": "Moonai (MOOI)"
+  },
+  {
+   "symbol": "PLSD",
+   "name": "PulseDogecoin (PLSD)"
+  },
+  {
+   "symbol": "ALTB",
+   "name": "Altbase (ALTB)"
+  },
+  {
+   "symbol": "WEAR",
+   "name": "MetaWear (WEAR)"
+  },
+  {
+   "symbol": "DAL",
+   "name": "DAOLaunch (DAL)"
+  },
+  {
+   "symbol": "XRUN",
+   "name": "XRun (XRUN)"
+  },
+  {
+   "symbol": "KBOX",
+   "name": "The Killbox (KBOX)"
+  },
+  {
+   "symbol": "METER",
+   "name": "Meter Stable (METER)"
+  },
+  {
+   "symbol": "CROPPER",
+   "name": "CropperFinance (CROPPER)"
+  },
+  {
+   "symbol": "MAPE",
+   "name": "Mecha Morphing (MAPE)"
+  },
+  {
+   "symbol": "GHC",
+   "name": "Galaxy Heroes Coin (GHC)"
+  },
+  {
+   "symbol": "CRAFT",
+   "name": "TaleCraft (CRAFT)"
+  },
+  {
+   "symbol": "TAUR",
+   "name": "Marnotaur (TAUR)"
+  },
+  {
+   "symbol": "TCANDY",
+   "name": "TripCandy (TCANDY)"
+  },
+  {
+   "symbol": "DOGA",
+   "name": "Dogami (DOGA)"
+  },
+  {
+   "symbol": "FTB",
+   "name": "Fit\u0026Beat (FTB)"
+  },
+  {
+   "symbol": "MMETA",
+   "name": "Duckie Land Multi Metaverse (MMETA)"
+  },
+  {
+   "symbol": "WGC",
+   "name": "Green Climate World (WGC)"
+  },
+  {
+   "symbol": "DES",
+   "name": "DeSpace Protocol (DES)"
+  },
+  {
+   "symbol": "MISA",
+   "name": "Sangkara (MISA)"
+  },
+  {
+   "symbol": "POLYPAD",
+   "name": "PolyPad (POLYPAD)"
+  },
+  {
+   "symbol": "MOM",
+   "name": "Mother of Memes (MOM)"
+  },
+  {
+   "symbol": "EYES",
+   "name": "Eyes Protocol (EYES)"
+  },
+  {
+   "symbol": "VTG",
+   "name": "Victory Gem (VTG)"
+  },
+  {
+   "symbol": "ORO",
+   "name": "Operon Origins (ORO)"
+  },
+  {
+   "symbol": "CHNG",
+   "name": "Chainge Finance (CHNG)",
+   "built_on": "FSN"
+  },
+  {
+   "symbol": "DANA",
+   "name": "Ardana (DANA)"
+  }
+ ]
+}

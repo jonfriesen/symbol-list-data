@@ -1,0 +1,90 @@
+{
+ "added": [
+  {
+   "symbol": "MITA",
+   "name": "Coliseum Acquisition Corp. - Class A Ordinary Share",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "MITA"
+  },
+  {
+   "symbol": "MITAU",
+   "name": "Coliseum Acquisition Corp. - Unit",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "MITAU"
+  },
+  {
+   "symbol": "MITAW",
+   "name": "Coliseum Acquisition Corp. - Warrant",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "MITAW"
+  },
+  {
+   "symbol": "SDST",
+   "name": "Stardust Power Inc. - Common Stock",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "SDST"
+  },
+  {
+   "symbol": "SDSTW",
+   "name": "Stardust Power Inc. - Warrant",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "SDSTW"
+  },
+  {
+   "symbol": "XHG",
+   "name": "XChange TEC.INC - American Depositary Shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "XHG"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "GPAC",
+   "name": "Global Partner Acquisition Corp II - Class A Ordinary Share",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "GPAC"
+  },
+  {
+   "symbol": "CNGLU",
+   "name": "Canna-Global Acquisition Corp - Unit",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "CNGLU"
+  },
+  {
+   "symbol": "GPACU",
+   "name": "Global Partner Acquisition Corp II - Unit",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "GPACU"
+  },
+  {
+   "symbol": "CNGL",
+   "name": "Canna-Global Acquisition Corp - Class A Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "CNGL"
+  },
+  {
+   "symbol": "CNGLW",
+   "name": "Canna-Global Acquisition Corp - Warrant",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "CNGLW"
+  },
+  {
+   "symbol": "GPACW",
+   "name": "Global Partner Acquisition Corp II - Warrant",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "GPACW"
+  },
+  {
+   "symbol": "DYNT",
+   "name": "Dynatronics Corporation - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "DYNT"
+  },
+  {
+   "symbol": "XHG",
+   "name": "XChange TEC.INC - American Depositary Shares",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "XHG"
+  }
+ ]
+}
