@@ -1,0 +1,300 @@
+{
+ "added": [
+  {
+   "symbol": "I7",
+   "name": "ImpulseVen (I7)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "SMARTLOX",
+   "name": "SmartLOX (SMARTLOX)",
+   "built_on": "XRP"
+  },
+  {
+   "symbol": "WEVER",
+   "name": "Wrapped Ever (WEVER)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "MBILLY",
+   "name": "MAMA BILLY (MBILLY)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "CGU",
+   "name": "Crypto Gaming United (CGU)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "ANTEX",
+   "name": "Antex (ANTEX)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "ZUKI",
+   "name": "Zuki Moba (ZUKI)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "JUSTICE",
+   "name": "AssangeDAO (JUSTICE)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "UNBNK",
+   "name": "Unbanked (UNBNK)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "MRHB",
+   "name": "MarhabaDeFi (MRHB)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "MAWC",
+   "name": "Magawincat (MAWC)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "WEVERV1",
+   "name": "Wrapped Ever v1 (WEVERV1)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "PRT",
+   "name": "Parrot Protocol (PRT)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "GAN",
+   "name": "Galactic Arena: The NFTverse (GAN)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "SVT",
+   "name": "Solvent (SVT)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "CKT",
+   "name": "Caketools (CKT)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "GONDOLA",
+   "name": "Gondola (GONDOLA)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "FROG",
+   "name": "FrogSwap (FROG)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "IJC",
+   "name": "IjasCoin (IJC)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "XCHNG",
+   "name": "Chainge Finance (XCHNG)",
+   "built_on": "FSN"
+  },
+  {
+   "symbol": "KAINET",
+   "name": "KAINET (KAINET)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "RPGV1",
+   "name": "Rangers Protocol v1 (RPGV1)"
+  },
+  {
+   "symbol": "SOURCE",
+   "name": "ReSource Protocol (SOURCE)",
+   "built_on": "CELO"
+  },
+  {
+   "symbol": "SHIBTC",
+   "name": "Shibabitcoin (SHIBTC)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "GETH",
+   "name": "Guarded Ether (GETH)"
+  },
+  {
+   "symbol": "CENS",
+   "name": "Censored Ai (CENS)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "MASTERTRADER",
+   "name": "MasterTraderCoin (MASTERTRADER)"
+  },
+  {
+   "symbol": "PAF",
+   "name": "Pacific (PAF)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "XHPV1",
+   "name": "XHYPE v1 (XHPV1)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "JCC",
+   "name": "Junca Cash (JCC)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "DEVE",
+   "name": "Develocity Finance (DEVE)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "ZEDCOIN",
+   "name": "ZedCoin (ZEDCOIN)"
+  },
+  {
+   "symbol": "QUIDD",
+   "name": "Quidd (QUIDD)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "VCG",
+   "name": "VCGamers (VCG)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "BANKETH",
+   "name": "BankEth (BANKETH)"
+  },
+  {
+   "symbol": "ESGC",
+   "name": "ESG Chain (ESGC)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "OOGI",
+   "name": "OOGI (OOGI)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "CHNG",
+   "name": "Chainge Finance (CHNG)",
+   "built_on": "FSN"
+  },
+  {
+   "symbol": "PHCR",
+   "name": "PhotoChromic (PHCR)",
+   "built_on": "ETH"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "MRHB",
+   "name": "MarhabaDeFi (MRHB)"
+  },
+  {
+   "symbol": "VCG",
+   "name": "VCGamers (VCG)"
+  },
+  {
+   "symbol": "I7",
+   "name": "ImpulseVen (I7)"
+  },
+  {
+   "symbol": "CHNG",
+   "name": "Chainge Finance (CHNG)"
+  },
+  {
+   "symbol": "SHIBTC",
+   "name": "Shibabitcoin (SHIBTC)"
+  },
+  {
+   "symbol": "PAF",
+   "name": "Pacific (PAF)"
+  },
+  {
+   "symbol": "KAINET",
+   "name": "KAINET (KAINET)"
+  },
+  {
+   "symbol": "SMARTLOX",
+   "name": "SmartLOX (SMARTLOX)"
+  },
+  {
+   "symbol": "UNBNK",
+   "name": "Unbanked (UNBNK)"
+  },
+  {
+   "symbol": "IJC",
+   "name": "IjasCoin (IJC)"
+  },
+  {
+   "symbol": "SVT",
+   "name": "Solvent (SVT)"
+  },
+  {
+   "symbol": "CGU",
+   "name": "Crypto Gaming United (CGU)"
+  },
+  {
+   "symbol": "FROG",
+   "name": "FrogSwap (FROG)"
+  },
+  {
+   "symbol": "JUSTICE",
+   "name": "AssangeDAO (JUSTICE)"
+  },
+  {
+   "symbol": "MTR",
+   "name": "MasterTraderCoin (MTR)"
+  },
+  {
+   "symbol": "ZUKI",
+   "name": "Zuki Moba (ZUKI)"
+  },
+  {
+   "symbol": "CKT",
+   "name": "Caketools (CKT)"
+  },
+  {
+   "symbol": "OOGI",
+   "name": "OOGI (OOGI)"
+  },
+  {
+   "symbol": "ANTEX",
+   "name": "Antex (ANTEX)"
+  },
+  {
+   "symbol": "QUIDD",
+   "name": "Quidd (QUIDD)"
+  },
+  {
+   "symbol": "GAN",
+   "name": "Galactic Arena: The NFTverse (GAN)"
+  },
+  {
+   "symbol": "PHCR",
+   "name": "PhotoChromic (PHCR)"
+  },
+  {
+   "symbol": "JCC",
+   "name": "Junca Cash (JCC)"
+  },
+  {
+   "symbol": "ESGC",
+   "name": "ESG Chain (ESGC)"
+  },
+  {
+   "symbol": "SOURCE",
+   "name": "ReSource Protocol (SOURCE)"
+  },
+  {
+   "symbol": "PRT",
+   "name": "Parrot Protocol (PRT)"
+  }
+ ]
+}

@@ -1,0 +1,72 @@
+{
+ "added": [
+  {
+   "symbol": "CSPN",
+   "name": "CareSpan Health, Inc.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "CSPN.V",
+   "instruments": [
+    {
+     "name": "CareSpan Health, Inc.",
+     "symbol": "CSPN"
+    }
+   ]
+  },
+  {
+   "symbol": "NEXG",
+   "name": "NeXGold Mining Corp",
+   "exchange": "TSXV",
+   "yahoo_symbol": "NEXG.V",
+   "instruments": [
+    {
+     "name": "NeXGold Mining Corp.",
+     "symbol": "NEXG"
+    }
+   ]
+  },
+  {
+   "symbol": "OXLCI",
+   "name": "Oxford Lane Capital Corp. - 8.75% Notes due 2030",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "OXLCI"
+  },
+  {
+   "symbol": "SUNS",
+   "name": "Sunrise Realty Trust, Inc. - Common Stock When Issued",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "SUNS"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "NWLI",
+   "name": "National Western Life Group, Inc. - Class A Common Stock",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "NWLI"
+  },
+  {
+   "symbol": "GETR",
+   "name": "Getaround, Inc. Common Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "GETR"
+  },
+  {
+   "symbol": "CHAA",
+   "name": "Catcha Investment Corp. Class A Ordinary Shares",
+   "exchange": "NYSE MKT",
+   "yahoo_symbol": "CHAA"
+  },
+  {
+   "symbol": "TML",
+   "name": "Treasury Metals Inc.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "TML.V",
+   "instruments": [
+    {
+     "name": "Treasury Metals Inc.",
+     "symbol": "TML"
+    }
+   ]
+  }
+ ]
+}
