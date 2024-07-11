@@ -1,0 +1,110 @@
+{
+ "added": [
+  {
+   "symbol": "XUSC",
+   "name": "iShares S\u0026P 500 3% Capped Index ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "XUSC.TO",
+   "instruments": [
+    {
+     "name": "iShrs S\u0026P5003%CapCan",
+     "symbol": "XUSC"
+    },
+    {
+     "name": "iShrs S\u0026P5003%CapUSD",
+     "symbol": "XUSC.U"
+    }
+   ]
+  },
+  {
+   "symbol": "XSPC",
+   "name": "iShares S\u0026P 500 3% Capped Index ETF (CAD-Hedged)",
+   "exchange": "TSX",
+   "yahoo_symbol": "XSPC.TO",
+   "instruments": [
+    {
+     "name": "iShrsS\u0026P5003%CapHegd",
+     "symbol": "XSPC"
+    }
+   ]
+  },
+  {
+   "symbol": "CGBS",
+   "name": "Crown LNG Holdings Limited - Ordinary Shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "CGBS"
+  },
+  {
+   "symbol": "CGBSW",
+   "name": "Crown LNG Holdings Limited - Warrants",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "CGBSW"
+  },
+  {
+   "symbol": "SIMAU",
+   "name": "SIM Acquisition Corp. I - Unit",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "SIMAU"
+  },
+  {
+   "symbol": "TAXE",
+   "name": "Intermediate Municipal Income ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "TAXE"
+  },
+  {
+   "symbol": "TLN",
+   "name": "Talen Energy Corporation - Common Stock",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "TLN"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "IDEX",
+   "name": "Ideanomics, Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "IDEX"
+  },
+  {
+   "symbol": "OSG",
+   "name": "Overseas Shipholding Group, Inc. Class A Common Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "OSG"
+  },
+  {
+   "symbol": "DOC",
+   "name": "CloudMD Software \u0026 Services Inc.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "DOC.V",
+   "instruments": [
+    {
+     "name": "CloudMD Software \u0026 Services Inc.",
+     "symbol": "DOC"
+    }
+   ]
+  },
+  {
+   "symbol": "TAIG",
+   "name": "Taiga Motors Corporation",
+   "exchange": "TSX",
+   "yahoo_symbol": "TAIG.TO",
+   "instruments": [
+    {
+     "name": "Taiga Motors Corp J",
+     "symbol": "TAIG"
+    },
+    {
+     "name": "Taiga Motors J Wt",
+     "symbol": "TAIG.WT"
+    }
+   ]
+  },
+  {
+   "symbol": "OLK",
+   "name": "Olink Holding AB (publ) - American Depositary Shares",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "OLK"
+  }
+ ]
+}

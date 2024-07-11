@@ -1,0 +1,452 @@
+{
+ "added": [
+  {
+   "symbol": "XAGX",
+   "name": "Silver Token (XAGX)",
+   "built_on": "AVAX"
+  },
+  {
+   "symbol": "DYNAM",
+   "name": "Dynamic Crypto Index (DYNAM)",
+   "built_on": "MATIC"
+  },
+  {
+   "symbol": "SPE",
+   "name": "SavePlanetEarth (SPE)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "MEMEM",
+   "name": "Meme Man (MEMEM)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "MTR",
+   "name": "Meter Stable (MTR)",
+   "built_on": "MTRG"
+  },
+  {
+   "symbol": "XNFT",
+   "name": "xNFT Protocol (XNFT)",
+   "built_on": "HT"
+  },
+  {
+   "symbol": "FEE",
+   "name": "FEED EVERY GORILLA (FEE)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "BASECAT",
+   "name": "BASE CAT (BASECAT)",
+   "built_on": "BASECHAIN"
+  },
+  {
+   "symbol": "BUDDY",
+   "name": "BUDDY (BUDDY)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "AVO",
+   "name": "Avoteo (AVO)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "ENO",
+   "name": "Enotoken (ENO)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "GENT",
+   "name": "Gentleman (GENT)",
+   "built_on": "TONCOIN"
+  },
+  {
+   "symbol": "BPAY",
+   "name": "BNBPay (BPAY)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "RAM",
+   "name": "Ramifi Protocol (RAM)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "NATOR",
+   "name": "Pepenator (NATOR)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "APYS",
+   "name": "APYSwap (APYS)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "YIN",
+   "name": "YIN Finance (YIN)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "GHCV1",
+   "name": "Galaxy Heroes Coin v1 (GHCV1)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "RSUN",
+   "name": "RisingSun (RSUN)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "WOD",
+   "name": "World of Defish (WOD)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "DXCT",
+   "name": "DNAxCAT (DXCT)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "LANDLORD",
+   "name": "LANDLORD RONALD (LANDLORD)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "MELLOW",
+   "name": "Mellow Man (MELLOW)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "HERA",
+   "name": "Hero Arena (HERA)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "GHCV2",
+   "name": "Galaxy Heroes Coin v2 (GHCV2)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "R1",
+   "name": "Recast1 (R1)",
+   "built_on": "TRX"
+  },
+  {
+   "symbol": "ENV",
+   "name": "ENVOY (ENV)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "VFOX",
+   "name": "VFOX (VFOX)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "SPAY",
+   "name": "SpaceY 2025 (SPAY)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "YDR",
+   "name": "YDragon (YDR)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "EMPIRE",
+   "name": "Empire Token (EMPIRE)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "GHCV3",
+   "name": "Galaxy Heroes Coin v3 (GHCV3)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "ROOM",
+   "name": "OptionRoom (ROOM)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "DEVT",
+   "name": "DeHorizon (DEVT)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "CHAMP",
+   "name": "NFT Champions (CHAMP)",
+   "built_on": "MATIC"
+  },
+  {
+   "symbol": "JUNIOR",
+   "name": "Junior (JUNIOR)",
+   "built_on": "AVAX"
+  },
+  {
+   "symbol": "G",
+   "name": "GRN Grid (G)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "FSNV1",
+   "name": "Fusion v1 (FSNV1)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "JEFFRY",
+   "name": "jeffry (JEFFRY)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "RIS",
+   "name": "Riser (RIS)",
+   "built_on": "MCOIN"
+  },
+  {
+   "symbol": "OPA",
+   "name": "Option Panda Platform (OPA)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "MOVE",
+   "name": "MarketMove (MOVE)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "DONJR",
+   "name": "Don Jr. (DONJR)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "PERA",
+   "name": "Pera Finance (PERA)",
+   "built_on": "AVAX"
+  },
+  {
+   "symbol": "NNI",
+   "name": "NeoNomad Exchange (NNI)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "SHIBELON",
+   "name": "ShibElon (SHIBELON)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "PWRC",
+   "name": "PWR Coin (PWRC)"
+  },
+  {
+   "symbol": "WSIENNA",
+   "name": "Sienna ERC20 (WSIENNA)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "WZNNV1",
+   "name": "Wrapped Zenon (Zenon Bridge) v1 (WZNNV1)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "PURPE",
+   "name": "Purple Pepe (PURPE)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "OILX",
+   "name": "OilX Token (OILX)",
+   "built_on": "AVAX"
+  },
+  {
+   "symbol": "XOXNO",
+   "name": "XOXNO (XOXNO)",
+   "built_on": "EGLD"
+  },
+  {
+   "symbol": "ETERNAL",
+   "name": "CryptoMines Eternal (ETERNAL)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "FOFARBASE",
+   "name": "FOFAR (FOFARBASE)",
+   "built_on": "BASECHAIN"
+  },
+  {
+   "symbol": "KFT",
+   "name": "Knit Finance (KFT)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "BANKSY",
+   "name": "BANKSY (BANKSY)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "WELD",
+   "name": "Weld (WELD)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "DWARFY",
+   "name": "Dwarfy (DWARFY)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "WZNN",
+   "name": "Wrapped Zenon (Zenon Bridge) (WZNN)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "BANK",
+   "name": "Float Protocol (BANK)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "HCT",
+   "name": "HurricaneSwap Token (HCT)",
+   "built_on": "AVAX"
+  },
+  {
+   "symbol": "TOWELI",
+   "name": "Towelie (TOWELI)",
+   "built_on": "ETH"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "HCT",
+   "name": "HurricaneSwap Token (HCT)"
+  },
+  {
+   "symbol": "YIN",
+   "name": "YIN Finance (YIN)"
+  },
+  {
+   "symbol": "WOD",
+   "name": "World of Defish (WOD)"
+  },
+  {
+   "symbol": "METER",
+   "name": "Meter Stable (METER)",
+   "built_on": "MTRG"
+  },
+  {
+   "symbol": "GHCOLD",
+   "name": "Galaxy Heroes Coin (GHCOLD)"
+  },
+  {
+   "symbol": "NNI",
+   "name": "NeoNomad Exchange (NNI)"
+  },
+  {
+   "symbol": "DEVT",
+   "name": "DeHorizon (DEVT)"
+  },
+  {
+   "symbol": "YDR",
+   "name": "YDragon (YDR)"
+  },
+  {
+   "symbol": "KFT",
+   "name": "Knit Finance (KFT)"
+  },
+  {
+   "symbol": "BPAY",
+   "name": "BNBPay (BPAY)"
+  },
+  {
+   "symbol": "OPA",
+   "name": "Option Panda Platform (OPA)"
+  },
+  {
+   "symbol": "MOVE",
+   "name": "MarketMove (MOVE)"
+  },
+  {
+   "symbol": "RSUN",
+   "name": "RisingSun (RSUN)"
+  },
+  {
+   "symbol": "DXCT",
+   "name": "DNAxCAT (DXCT)"
+  },
+  {
+   "symbol": "ROOM",
+   "name": "OptionRoom (ROOM)"
+  },
+  {
+   "symbol": "ETERNAL",
+   "name": "CryptoMines Eternal (ETERNAL)"
+  },
+  {
+   "symbol": "AVO",
+   "name": "Avoteo (AVO)"
+  },
+  {
+   "symbol": "RAM",
+   "name": "Ramifi Protocol (RAM)"
+  },
+  {
+   "symbol": "ENO",
+   "name": "Enotoken (ENO)"
+  },
+  {
+   "symbol": "WSIENNA",
+   "name": "Sienna ERC20 (WSIENNA)"
+  },
+  {
+   "symbol": "SHIBELON",
+   "name": "ShibElon (SHIBELON)"
+  },
+  {
+   "symbol": "VFOX",
+   "name": "VFOX (VFOX)"
+  },
+  {
+   "symbol": "CHAMP",
+   "name": "NFT Champions (CHAMP)"
+  },
+  {
+   "symbol": "R1",
+   "name": "Recast1 (R1)"
+  },
+  {
+   "symbol": "PERA",
+   "name": "Pera Finance (PERA)"
+  },
+  {
+   "symbol": "EMPIRE",
+   "name": "Empire Token (EMPIRE)"
+  },
+  {
+   "symbol": "APYS",
+   "name": "APYSwap (APYS)"
+  },
+  {
+   "symbol": "PWR",
+   "name": "PWR Coin (PWR)"
+  },
+  {
+   "symbol": "ENV",
+   "name": "ENVOY (ENV)"
+  },
+  {
+   "symbol": "SPE",
+   "name": "SavePlanetEarth (SPE)"
+  },
+  {
+   "symbol": "WELD",
+   "name": "Weld (WELD)"
+  },
+  {
+   "symbol": "HERA",
+   "name": "Hero Arena (HERA)"
+  },
+  {
+   "symbol": "XNFT",
+   "name": "xNFT Protocol (XNFT)"
+  },
+  {
+   "symbol": "SPAY",
+   "name": "SpaceY 2025 (SPAY)"
+  }
+ ]
+}
