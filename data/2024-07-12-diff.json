@@ -1,0 +1,96 @@
+{
+ "added": [
+  {
+   "symbol": "CCNR",
+   "name": "CoreCommodity Natural Resources ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "CCNR"
+  },
+  {
+   "symbol": "CITE",
+   "name": "Cartica Acquisition Corp - Class A Ordinary Shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "CITE"
+  },
+  {
+   "symbol": "CITEU",
+   "name": "Cartica Acquisition Corp - Unit",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "CITEU"
+  },
+  {
+   "symbol": "CITEW",
+   "name": "Cartica Acquisition Corp - Warrant",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "CITEW"
+  },
+  {
+   "symbol": "DUKH",
+   "name": "Ocean Park High Income ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "DUKH"
+  },
+  {
+   "symbol": "DUKX",
+   "name": "Ocean Park International ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "DUKX"
+  },
+  {
+   "symbol": "HEJD",
+   "name": "VictoryShares Hedged Equity Income ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "HEJD"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "CHS",
+   "name": "Comprehensive Healthcare Systems Inc.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "CHS.V",
+   "instruments": [
+    {
+     "name": "Comprehensive Healthcare Systems Inc.",
+     "symbol": "CHS"
+    }
+   ]
+  },
+  {
+   "symbol": "NEXI",
+   "name": "NexImmune, Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "NEXI"
+  },
+  {
+   "symbol": "HIGH",
+   "name": "Highgold Mining Inc.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "HIGH.V",
+   "instruments": [
+    {
+     "name": "Highgold Mining Inc.",
+     "symbol": "HIGH"
+    }
+   ]
+  },
+  {
+   "symbol": "CITE",
+   "name": "Cartica Acquisition Corp - Class A Ordinary Shares",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "CITE"
+  },
+  {
+   "symbol": "CITEU",
+   "name": "Cartica Acquisition Corp - Unit",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "CITEU"
+  },
+  {
+   "symbol": "CITEW",
+   "name": "Cartica Acquisition Corp - Warrant",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "CITEW"
+  }
+ ]
+}

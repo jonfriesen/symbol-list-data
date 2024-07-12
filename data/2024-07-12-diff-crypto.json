@@ -1,0 +1,92 @@
+{
+ "added": [
+  {
+   "symbol": "G",
+   "name": "GRN Grid (G)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "EDAIN",
+   "name": "Edain (EDAIN)"
+  },
+  {
+   "symbol": "EAI",
+   "name": "Eagle AI (EAI)",
+   "built_on": "BASECHAIN"
+  },
+  {
+   "symbol": "BANK",
+   "name": "Float Protocol (BANK)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "QISWAP",
+   "name": "QiSwap (QISWAP)",
+   "built_on": "QTUM"
+  },
+  {
+   "symbol": "PWR",
+   "name": "MaxxChain (PWR)"
+  },
+  {
+   "symbol": "HACHIK",
+   "name": "Hachiko (HACHIK)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "XLS",
+   "name": "Elis (XLS)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "ORAO",
+   "name": "ORAO Network (ORAO)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "HBO",
+   "name": "Hash Bridge Oracle (HBO)",
+   "built_on": "HT"
+  },
+  {
+   "symbol": "TORG",
+   "name": "TORG (TORG)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "SLNV2",
+   "name": "SLNV2 (SLNV2)",
+   "built_on": "HT"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "ZEDCOIN",
+   "name": "ZedCoin (ZEDCOIN)"
+  },
+  {
+   "symbol": "EAI",
+   "name": "Edain (EAI)"
+  },
+  {
+   "symbol": "TORG",
+   "name": "TORG (TORG)"
+  },
+  {
+   "symbol": "ORAO",
+   "name": "ORAO Network (ORAO)"
+  },
+  {
+   "symbol": "SLNV2",
+   "name": "SLNV2 (SLNV2)"
+  },
+  {
+   "symbol": "QISWAP",
+   "name": "QiSwap (QISWAP)"
+  },
+  {
+   "symbol": "HBO",
+   "name": "Hash Bridge Oracle (HBO)"
+  }
+ ]
+}
