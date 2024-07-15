@@ -1,0 +1,140 @@
+{
+ "added": [
+  {
+   "symbol": "TONT",
+   "name": "TONKIT (TONT)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "PONZIO",
+   "name": "Ponzio The Cat (PONZIO)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "GETH",
+   "name": "Guarded Ether (GETH)"
+  },
+  {
+   "symbol": "BANK",
+   "name": "Float Protocol (BANK)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "HACH",
+   "name": "Hachiko (HACH)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "DOLPHY",
+   "name": "Dolphy (DOLPHY)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "RPGV1",
+   "name": "Rangers Protocol v1 (RPGV1)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "SKLAY",
+   "name": "sKLAY (SKLAY)",
+   "built_on": "KLAY"
+  },
+  {
+   "symbol": "PAUL",
+   "name": "Elephant Penguin (PAUL)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "MATT",
+   "name": "Matt Furie (MATT)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "SYK",
+   "name": "Stryke (SYK)",
+   "built_on": "ARB"
+  },
+  {
+   "symbol": "ANDYBSC",
+   "name": "ANDY (ANDYBSC)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "FIREW",
+   "name": "Fire Wolf (FIREW)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "FLA",
+   "name": "Flappy (FLA)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "BABYTR",
+   "name": "BABYTRUMP (BABYTR)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "WROSE",
+   "name": "Wrapped Rose (WROSE)",
+   "built_on": "ROSE"
+  },
+  {
+   "symbol": "REPE",
+   "name": "Resistance Pepe (REPE)",
+   "built_on": "TONCOIN"
+  },
+  {
+   "symbol": "THEM",
+   "name": "The Meta DAO (THEM)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "LHB",
+   "name": "Lendhub (LHB)",
+   "built_on": "HT"
+  },
+  {
+   "symbol": "BOAM",
+   "name": "BOOK OF AI MEOW (BOAM)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "MOCA",
+   "name": "Moca Coin (MOCA)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "MOLI",
+   "name": "Mobile Liquidity (MOLI)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "ZEDCOIN",
+   "name": "ZedCoin (ZEDCOIN)"
+  },
+  {
+   "symbol": "AARK",
+   "name": "Aark (AARK)",
+   "built_on": "ARB"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "WROSE",
+   "name": "Wrapped Rose (WROSE)"
+  },
+  {
+   "symbol": "LHB",
+   "name": "Lendhub (LHB)"
+  },
+  {
+   "symbol": "RPGV1",
+   "name": "Rangers Protocol v1 (RPGV1)"
+  },
+  {
+   "symbol": "SKLAY",
+   "name": "sKLAY (SKLAY)"
+  }
+ ]
+}

@@ -1,0 +1,120 @@
+{
+ "added": [
+  {
+   "symbol": "ALTS",
+   "name": "ALT5 Sigma Corporation - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "ALTS"
+  },
+  {
+   "symbol": "CNTM",
+   "name": "ConnectM Technology Solutions, Inc. - Common Stock",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "CNTM"
+  },
+  {
+   "symbol": "FSUN",
+   "name": "FirstSun Capital Bancorp - Common Stock",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "FSUN"
+  },
+  {
+   "symbol": "ICON",
+   "name": "Icon Energy Corp. - Common stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "ICON"
+  },
+  {
+   "symbol": "LPAAU",
+   "name": "Launch One Acquisition Corp. - Unit",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "LPAAU"
+  },
+  {
+   "symbol": "NEWU",
+   "name": "Newtopia Inc.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "NEWU.V",
+   "instruments": [
+    {
+     "name": "Newtopia Inc.",
+     "symbol": "NEWU"
+    }
+   ]
+  },
+  {
+   "symbol": "CMBT",
+   "name": "Euronav NV Ordinary Shares",
+   "exchange": "NYSE",
+   "yahoo_symbol": "CMBT"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "VCXB",
+   "name": "10X Capital Venture Acquisition Corp. III Class A Ordinary Shares",
+   "exchange": "NYSE MKT",
+   "yahoo_symbol": "VCXB"
+  },
+  {
+   "symbol": "JAN",
+   "name": "JanOne Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "JAN"
+  },
+  {
+   "symbol": "VCXB.U",
+   "name": "10X Capital Venture Acquisition Corp. III Units, each consisting of one Class A ordinary share and one-half of one redeemable warrant",
+   "exchange": "NYSE MKT",
+   "yahoo_symbol": "VCXB.U"
+  },
+  {
+   "symbol": "EURN",
+   "name": "Euronav NV Ordinary Shares",
+   "exchange": "NYSE",
+   "yahoo_symbol": "EURN"
+  },
+  {
+   "symbol": "MCACU",
+   "name": "Monterey Capital Acquisition Corporation - Unit",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "MCACU"
+  },
+  {
+   "symbol": "CMRE$E",
+   "name": "Costamare Inc. 8.875% Series E Cumulative Redeemable Perpetual Preferred Stock, par value $0.0001",
+   "exchange": "NYSE",
+   "yahoo_symbol": "CMRE$E"
+  },
+  {
+   "symbol": "MCAC",
+   "name": "Monterey Capital Acquisition Corporation - Class A Common Stock",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "MCAC"
+  },
+  {
+   "symbol": "MCACW",
+   "name": "Monterey Capital Acquisition Corporation - Warrants",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "MCACW"
+  },
+  {
+   "symbol": "DKL",
+   "name": "Decklar Resources Inc.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "DKL.V",
+   "instruments": [
+    {
+     "name": "Decklar Resources Inc.",
+     "symbol": "DKL"
+    }
+   ]
+  },
+  {
+   "symbol": "MCACR",
+   "name": "Monterey Capital Acquisition Corporation - Rights",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "MCACR"
+  }
+ ]
+}
