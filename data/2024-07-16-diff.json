@@ -1,0 +1,84 @@
+{
+ "added": [
+  {
+   "symbol": "CEMX",
+   "name": "CEMATRIX Corporation",
+   "exchange": "TSX",
+   "yahoo_symbol": "CEMX.TO",
+   "instruments": [
+    {
+     "name": "Cematrix Corporation",
+     "symbol": "CEMX"
+    }
+   ]
+  },
+  {
+   "symbol": "CUBD",
+   "name": "CI Global Unconstrained Bond Fund",
+   "exchange": "TSX",
+   "yahoo_symbol": "CUBD.TO",
+   "instruments": [
+    {
+     "name": "CI Gl Uncon Bond Fnd",
+     "symbol": "CUBD"
+    }
+   ]
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "BLUA",
+   "name": "BlueRiver Acquisition Corp. Class A Ordinary Shares",
+   "exchange": "NYSE MKT",
+   "yahoo_symbol": "BLUA"
+  },
+  {
+   "symbol": "CATC",
+   "name": "Cambridge Bancorp - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "CATC"
+  },
+  {
+   "symbol": "AAT",
+   "name": "ATI Airtest Technologies Inc.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "AAT.V",
+   "instruments": [
+    {
+     "name": "ATI Airtest Technologies Inc.",
+     "symbol": "AAT"
+    }
+   ]
+  },
+  {
+   "symbol": "KING",
+   "name": "King Global Ventures Inc.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "KING.V",
+   "instruments": [
+    {
+     "name": "King Global Ventures Inc.",
+     "symbol": "KING"
+    }
+   ]
+  },
+  {
+   "symbol": "BLUA.U",
+   "name": "BlueRiver Acquisition Corp. Units, each consisting of one Class A ordinary share, and one-third of a redeemable Warrant to acquire one Class A ordinary shares",
+   "exchange": "NYSE MKT",
+   "yahoo_symbol": "BLUA.U"
+  },
+  {
+   "symbol": "CVX",
+   "name": "Cematrix Corporation",
+   "exchange": "TSXV",
+   "yahoo_symbol": "CVX.V",
+   "instruments": [
+    {
+     "name": "Cematrix Corporation",
+     "symbol": "CVX"
+    }
+   ]
+  }
+ ]
+}

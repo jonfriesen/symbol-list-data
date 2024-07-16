@@ -1,0 +1,189 @@
+{
+ "added": [
+  {
+   "symbol": "SOLM",
+   "name": "SolMix (SOLM)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "CYBE",
+   "name": "Cyberlete (CYBE)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "DUCKY",
+   "name": "Ducky Duck (DUCKY)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "KINET",
+   "name": "KinetixFi (KINET)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "METATR",
+   "name": "MetaTrace Utility Token (METATR)",
+   "built_on": "MATIC"
+  },
+  {
+   "symbol": "TMAGA",
+   "name": "THE MAGA MOVEMENT (TMAGA)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "ITAM",
+   "name": "ITAM Games (ITAM)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "HACHIONB",
+   "name": "Hachi On Base (HACHIONB)",
+   "built_on": "BASECHAIN"
+  },
+  {
+   "symbol": "TRALA",
+   "name": "TRALA (TRALA)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "BOM",
+   "name": "Book Of Matt Furie (BOM)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "BABYM",
+   "name": "BabyMAGA (BABYM)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "TCASH",
+   "name": "Trump Cash (TCASH)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "EUROCUP",
+   "name": "EURO CUP INU (EUROCUP)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "FLUFFY",
+   "name": "FLUFFY (FLUFFY)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "MADP",
+   "name": "Mad Penguin (MADP)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "ICL",
+   "name": "ICLighthouse DAO (ICL)",
+   "built_on": "ICP"
+  },
+  {
+   "symbol": "BANKETH",
+   "name": "BankEth (BANKETH)"
+  },
+  {
+   "symbol": "BAGS",
+   "name": "Basis Gold Share (BAGS)",
+   "built_on": "HT"
+  },
+  {
+   "symbol": "EKSM",
+   "name": "Synthetic Kusama (Energiswap) (EKSM)",
+   "built_on": "NRG"
+  },
+  {
+   "symbol": "JUR",
+   "name": "Jur (JUR)",
+   "built_on": "VET"
+  },
+  {
+   "symbol": "WOJAKC",
+   "name": "Wojak Coin (WOJAKC)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "SPY",
+   "name": "Smarty Pay (SPY)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "BADC",
+   "name": "BADCAT (BADC)",
+   "built_on": "BASECHAIN"
+  },
+  {
+   "symbol": "PEPETR",
+   "name": "PEPE TREMP (PEPETR)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "MLC",
+   "name": "My Lovely Planet (MLC)",
+   "built_on": "MATIC"
+  },
+  {
+   "symbol": "BIRDO",
+   "name": "Bird Dog (BIRDO)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "PENGU",
+   "name": "Penguiana (PENGU)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "FXF",
+   "name": "Finxflo (FXF)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "GNOMY",
+   "name": "Gnomy (GNOMY)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "OLYMPE",
+   "name": "OLYMPÉ (OLYMPE)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "GETH",
+   "name": "Guarded Ether (GETH)"
+  },
+  {
+   "symbol": "SUPERT",
+   "name": "Super Trump (SUPERT)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "MTMS",
+   "name": "MTMS Network (MTMS)",
+   "built_on": "ARB"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "SPY",
+   "name": "Smarty Pay (SPY)"
+  },
+  {
+   "symbol": "FXF",
+   "name": "Finxflo (FXF)"
+  },
+  {
+   "symbol": "BAGS",
+   "name": "Basis Gold Share (BAGS)"
+  },
+  {
+   "symbol": "ITAM",
+   "name": "ITAM Games (ITAM)"
+  },
+  {
+   "symbol": "JUR",
+   "name": "Jur (JUR)"
+  }
+ ]
+}
