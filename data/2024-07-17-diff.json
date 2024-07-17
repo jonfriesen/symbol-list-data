@@ -1,0 +1,152 @@
+{
+ "added": [
+  {
+   "symbol": "FCGV",
+   "name": "Florida Canyon Gold Inc.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "FCGV.V",
+   "instruments": [
+    {
+     "name": "Florida Canyon Gold Inc.",
+     "symbol": "FCGV"
+    }
+   ]
+  },
+  {
+   "symbol": "ZONE",
+   "name": "Zonetail Inc.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "ZONE.V",
+   "instruments": [
+    {
+     "name": "Zonetail Inc.",
+     "symbol": "ZONE"
+    }
+   ]
+  },
+  {
+   "symbol": "AR.DB.U",
+   "name": "Argonaut Gold Inc.",
+   "exchange": "TSX",
+   "yahoo_symbol": "AR.DB.U.TO",
+   "instruments": [
+    {
+     "name": "Argonaut Gld J Db US",
+     "symbol": "AR.DB.U"
+    }
+   ]
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "SEPAU",
+   "name": "SEP Acquisition Corp - Unit",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "SEPAU"
+  },
+  {
+   "symbol": "SEPA",
+   "name": "SEP Acquisition Corp - Class A Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "SEPA"
+  },
+  {
+   "symbol": "AGRIW",
+   "name": "AgriFORCE  Growing Systems Ltd. - Warrant",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "AGRIW"
+  },
+  {
+   "symbol": "AR",
+   "name": "Argonaut Gold Inc.",
+   "exchange": "TSX",
+   "yahoo_symbol": "AR.TO",
+   "instruments": [
+    {
+     "name": "Argonaut Gold Inc. J",
+     "symbol": "AR"
+    },
+    {
+     "name": "Argonaut Gld J Db US",
+     "symbol": "AR.DB.U"
+    }
+   ]
+  },
+  {
+   "symbol": "HMPG",
+   "name": "The Hempshire Group, Inc.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "HMPG.V",
+   "instruments": [
+    {
+     "name": "The Hempshire Group, Inc.",
+     "symbol": "HMPG"
+    }
+   ]
+  },
+  {
+   "symbol": "MNC",
+   "name": "Magnetic North Acquisition Corp.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "MNC.V",
+   "instruments": [
+    {
+     "name": "Magnetic North Acquisition Corp.",
+     "symbol": "MNC"
+    },
+    {
+     "name": "Magnetic North Acquisition Corp. pref a",
+     "symbol": "MNC.PR.A"
+    }
+   ]
+  },
+  {
+   "symbol": "SHPWW",
+   "name": "Shapeways Holdings, Inc. - Warrants",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "SHPWW"
+  },
+  {
+   "symbol": "SHPW",
+   "name": "Shapeways Holdings, Inc. - Common Stock",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "SHPW"
+  },
+  {
+   "symbol": "DN",
+   "name": "Delta 9 Cannabis Inc.",
+   "exchange": "TSX",
+   "yahoo_symbol": "DN.TO",
+   "instruments": [
+    {
+     "name": "Delta 9 Cannabis J",
+     "symbol": "DN"
+    }
+   ]
+  },
+  {
+   "symbol": "NXG.R",
+   "name": "NXG NextGen Infrastructure Income Fund Rights (expiring July 17, 2024) Rights",
+   "exchange": "NYSE",
+   "yahoo_symbol": "NXG.R"
+  },
+  {
+   "symbol": "SEPAW",
+   "name": "SEP Acquisition Corp - Warrants",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "SEPAW"
+  },
+  {
+   "symbol": "RGD",
+   "name": "Reunion Gold Corporation",
+   "exchange": "TSXV",
+   "yahoo_symbol": "RGD.V",
+   "instruments": [
+    {
+     "name": "Reunion Gold Corporation",
+     "symbol": "RGD"
+    }
+   ]
+  }
+ ]
+}

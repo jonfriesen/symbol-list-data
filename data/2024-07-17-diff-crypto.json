@@ -1,0 +1,219 @@
+{
+ "added": [
+  {
+   "symbol": "DAMN",
+   "name": "Sol Killer (DAMN)",
+   "built_on": "BONE"
+  },
+  {
+   "symbol": "NFTM",
+   "name": "NFTMart Token (NFTM)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "TRHUB",
+   "name": "Tradehub (TRHUB)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "DAPP",
+   "name": "LiquidApps (DAPP)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "GRANDMA",
+   "name": "Grandma (GRANDMA)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "COLLEA",
+   "name": "Colle AI (COLLEA)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "TROLLS",
+   "name": "trolls in a memes world (TROLLS)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "FATH",
+   "name": "Father Of Meme: Origin (FATH)",
+   "built_on": "BASECHAIN"
+  },
+  {
+   "symbol": "KRAZY",
+   "name": "krazy n.d. (KRAZY)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "SOLME",
+   "name": "Solmedia (SOLME)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "AAB",
+   "name": "AAX Token (AAB)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "MOONDO",
+   "name": "MOON DOGE (MOONDO)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "ROSEC",
+   "name": "Rosecoin (ROSEC)",
+   "built_on": "TONCOIN"
+  },
+  {
+   "symbol": "HFUN",
+   "name": "Hold.fun (HFUN)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "THEG",
+   "name": "The GameHub (THEG)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "OCO",
+   "name": "Owners Casino Online (OCO)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "BONKONBASE",
+   "name": "Bonk on Base (BONKONBASE)",
+   "built_on": "BASECHAIN"
+  },
+  {
+   "symbol": "GETH",
+   "name": "Guarded Ether (GETH)"
+  },
+  {
+   "symbol": "BUNNYM",
+   "name": "BUNNY MEV BOT (BUNNYM)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "QUAN",
+   "name": "Quant AI (QUAN)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "MAH",
+   "name": "Mahabibi Bin Solman (MAH)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "DIGIT",
+   "name": "Digital Asset Rights Token (DIGIT)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "BASEDS",
+   "name": "BasedSwap (BASEDS)",
+   "built_on": "BASECHAIN"
+  },
+  {
+   "symbol": "BOOKO",
+   "name": "Book of Pets (BOOKO)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "EKTA",
+   "name": "Ekta (EKTA)"
+  },
+  {
+   "symbol": "ETS",
+   "name": "ETH Share (ETS)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "KNI",
+   "name": "Knights of Cathena (KNI)",
+   "built_on": "EGLD"
+  },
+  {
+   "symbol": "CJT",
+   "name": "ConnectJob Token (CJT)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "WHA",
+   "name": "WHALES DOGE (WHA)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "BANK",
+   "name": "Float Protocol (BANK)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "FUT",
+   "name": "FuturesAI (FUT)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "EKTAV1",
+   "name": "Ekta v1 (EKTAV1)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "HTK",
+   "name": "Hard To Kill (HTK)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "BOPE",
+   "name": "Book of Pepe (BOPE)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "CLOKI",
+   "name": "CATLOKI (CLOKI)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "BOYSC",
+   "name": "Boy's club (BOYSC)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "HOR",
+   "name": "HorizonDEX (HOR)",
+   "built_on": "LINEA"
+  },
+  {
+   "symbol": "XZK",
+   "name": "Mystiko Network (XZK)",
+   "built_on": "ETH"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "CJT",
+   "name": "ConnectJob Token (CJT)"
+  },
+  {
+   "symbol": "ETS",
+   "name": "ETH Share (ETS)"
+  },
+  {
+   "symbol": "EKTA",
+   "name": "Ekta (EKTA)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "NFTM",
+   "name": "NFTMart Token (NFTM)"
+  },
+  {
+   "symbol": "AAB",
+   "name": "AAX Token (AAB)"
+  },
+  {
+   "symbol": "DAPP",
+   "name": "LiquidApps (DAPP)"
+  }
+ ]
+}
