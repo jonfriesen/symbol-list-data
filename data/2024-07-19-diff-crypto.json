@@ -1,0 +1,184 @@
+{
+ "added": [
+  {
+   "symbol": "MBNB",
+   "name": "Binance Coin (Multichain) (MBNB)",
+   "built_on": "AVAX"
+  },
+  {
+   "symbol": "TORSY",
+   "name": "TORSY (TORSY)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "VANCE",
+   "name": "JD Vance (VANCE)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "PENDY",
+   "name": "Pendy (PENDY)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "WHAL",
+   "name": "WHALEBERT (WHAL)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "MIGGLES",
+   "name": "Mr Miggles (MIGGLES)",
+   "built_on": "BASECHAIN"
+  },
+  {
+   "symbol": "SQU",
+   "name": "SquadSwap (SQU)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "BNBFLOKI",
+   "name": "BNB FLOKI (BNBFLOKI)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "BABYS",
+   "name": "Baby Slerf (BABYS)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "USETH",
+   "name": "USETH (USETH)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "BEIBEI",
+   "name": "Chinese BEIBEI (BEIBEI)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "AUVERSE",
+   "name": "AuroraVerse (AUVERSE)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "MEO",
+   "name": "Meow Of Meme (MEO)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "FLUI",
+   "name": "Fluidity (FLUI)",
+   "built_on": "ARB"
+  },
+  {
+   "symbol": "G",
+   "name": "GRN Grid (G)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "WWBNB",
+   "name": "Wrapped BNB (Wormhole) (WWBNB)",
+   "built_on": "MATIC"
+  },
+  {
+   "symbol": "SBNB",
+   "name": "Binance Coin (SpookySwap) (SBNB)",
+   "built_on": "FTM"
+  },
+  {
+   "symbol": "BEEF",
+   "name": "PepeBull (BEEF)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "ALICEA",
+   "name": "Alice AI (ALICEA)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "PEAQ",
+   "name": "peaq (PEAQ)"
+  },
+  {
+   "symbol": "BANKETH",
+   "name": "BankEth (BANKETH)"
+  },
+  {
+   "symbol": "CRAZ",
+   "name": "CRAZY FLOKI (CRAZ)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "BMTC",
+   "name": "Metabit (BMTC)"
+  },
+  {
+   "symbol": "BLACKR",
+   "name": "BLACK ROCK (BLACKR)",
+   "built_on": "BASECHAIN"
+  },
+  {
+   "symbol": "SNAC",
+   "name": "SnackboxAI (SNAC)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "PIXFI",
+   "name": "Pixelverse (PIXFI)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "BYT",
+   "name": "ByteAI (BYT)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "OSIS",
+   "name": "OSIS (OSIS)",
+   "built_on": "MATIC"
+  },
+  {
+   "symbol": "MAGOA",
+   "name": "Make America Great Once Again (MAGOA)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "SHAR",
+   "name": "Shark Cat (SHAR)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "GRASS",
+   "name": "Touch Grass (GRASS)",
+   "built_on": "BASECHAIN"
+  },
+  {
+   "symbol": "HRT",
+   "name": "HIRO (HRT)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "TERAV1",
+   "name": "Terareum v1 (TERAV1)"
+  },
+  {
+   "symbol": "HOMERO",
+   "name": "Homer Of Meme (HOMERO)",
+   "built_on": "SOL"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "HRT",
+   "name": "HIRO (HRT)"
+  },
+  {
+   "symbol": "OSIS",
+   "name": "OSIS (OSIS)"
+  },
+  {
+   "symbol": "ZEDCOIN",
+   "name": "ZedCoin (ZEDCOIN)"
+  }
+ ]
+}

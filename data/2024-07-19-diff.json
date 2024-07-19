@@ -1,0 +1,120 @@
+{
+ "added": [
+  {
+   "symbol": "PCLO",
+   "name": "Pharmacielo Ltd.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "PCLO.V",
+   "instruments": [
+    {
+     "name": "Pharmacielo Ltd.",
+     "symbol": "PCLO"
+    }
+   ]
+  },
+  {
+   "symbol": "AGIX",
+   "name": "KraneShares Artificial Intelligence \u0026 Technology ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "AGIX"
+  },
+  {
+   "symbol": "STEC",
+   "name": "Santech Holdings Limited - American Depositary Shares",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "STEC"
+  },
+  {
+   "symbol": "TWFG",
+   "name": "TWFG, Inc. - Common Stock",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "TWFG"
+  },
+  {
+   "symbol": "VSAC",
+   "name": "Vision Sensing Acquisition Corp. - Class A Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "VSAC"
+  },
+  {
+   "symbol": "VSACU",
+   "name": "Vision Sensing Acquisition Corp. - Unit",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "VSACU"
+  },
+  {
+   "symbol": "VSACW",
+   "name": "Vision Sensing Acquisition Corp. - Warrants",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "VSACW"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "ASTR",
+   "name": "Astra Space, Inc. - Class A Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "ASTR"
+  },
+  {
+   "symbol": "XBIOW",
+   "name": "Xenetic Biosciences, Inc. - Warrants",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "XBIOW"
+  },
+  {
+   "symbol": "LPEN",
+   "name": "Loop Energy Inc.",
+   "exchange": "TSX",
+   "yahoo_symbol": "LPEN.TO",
+   "instruments": [
+    {
+     "name": "Loop Energy Inc. J",
+     "symbol": "LPEN"
+    }
+   ]
+  },
+  {
+   "symbol": "VSAC",
+   "name": "Vision Sensing Acquisition Corp. - Class A Common Stock",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "VSAC"
+  },
+  {
+   "symbol": "VSACW",
+   "name": "Vision Sensing Acquisition Corp. - Warrants",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "VSACW"
+  },
+  {
+   "symbol": "ASLN",
+   "name": "ASLAN Pharmaceuticals Limited - American Depositary Shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "ASLN"
+  },
+  {
+   "symbol": "HYW",
+   "name": "Hywin Holdings Ltd. - American Depositary Shares",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "HYW"
+  },
+  {
+   "symbol": "OGO",
+   "name": "Organto Foods Inc.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "OGO.V",
+   "instruments": [
+    {
+     "name": "Organto Foods Inc.",
+     "symbol": "OGO"
+    }
+   ]
+  },
+  {
+   "symbol": "VSACU",
+   "name": "Vision Sensing Acquisition Corp. - Unit",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "VSACU"
+  }
+ ]
+}
