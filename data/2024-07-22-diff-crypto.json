@@ -1,0 +1,218 @@
+{
+ "added": [
+  {
+   "symbol": "POSS",
+   "name": "Posschain (POSS)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "BORPA",
+   "name": "Borpa (BORPA)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "TRXV1",
+   "name": "TRON V1 (TRXV1)"
+  },
+  {
+   "symbol": "DGTA",
+   "name": "Digitra.com Token (DGTA)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "PEBIRD",
+   "name": "PEPE BIRD (PEBIRD)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "HLINK",
+   "name": "Chainlink (Harmony One Bridge) (HLINK)",
+   "built_on": "ONE"
+  },
+  {
+   "symbol": "PEGA",
+   "name": "Pepe Maga (PEGA)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "PZETH",
+   "name": "pzETH (PZETH)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "PLINK",
+   "name": "Chainlink (Polygon Portal) (PLINK)",
+   "built_on": "MATIC"
+  },
+  {
+   "symbol": "GOV",
+   "name": "SubDAO (GOV)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "COOKIE",
+   "name": "Cookie (COOKIE)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "TRUMPAMANIA",
+   "name": "TRUMPAMANIA (TRUMPAMANIA)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "YEON",
+   "name": "Yeon (YEON)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "OKG",
+   "name": "Ookeenga (OKG)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "PEPEBRC",
+   "name": "PEPE (Ordinals) (PEPEBRC)",
+   "built_on": "BTC"
+  },
+  {
+   "symbol": "GATEWAY",
+   "name": "Gateway Protocol (GATEWAY)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "50TRUMP",
+   "name": "50TRUMP (50TRUMP)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "ACE",
+   "name": "Fusionist (ACE)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "CGL",
+   "name": "Crypto Gladiator Shards (CGL)",
+   "built_on": "OKT"
+  },
+  {
+   "symbol": "BFHT",
+   "name": "BeFaster Holder Token (BFHT)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "XODEX",
+   "name": "Xodex (XODEX)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "BABYMIGGLES",
+   "name": "Baby Miggles (BABYMIGGLES)",
+   "built_on": "BASECHAIN"
+  },
+  {
+   "symbol": "PIAS",
+   "name": "PIAS (PIAS)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "WYN",
+   "name": "Wynn (WYN)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "ZEDCOIN",
+   "name": "ZedCoin (ZEDCOIN)"
+  },
+  {
+   "symbol": "GETH",
+   "name": "Guarded Ether (GETH)"
+  },
+  {
+   "symbol": "MTRX",
+   "name": "Metarix (MTRX)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "WTF",
+   "name": "Waterfall Governance (WTF)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "ZEDTOKEN",
+   "name": "Zed Token (ZEDTOKEN)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "ESNC",
+   "name": "Galaxy Arena Metaverse (ESNC)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "BANKETH",
+   "name": "BankEth (BANKETH)"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "MTRX",
+   "name": "Metarix (MTRX)"
+  },
+  {
+   "symbol": "ACE",
+   "name": "Fusionist (ACE)"
+  },
+  {
+   "symbol": "CGL",
+   "name": "Crypto Gladiator Shards (CGL)",
+   "built_on": "MATIC"
+  },
+  {
+   "symbol": "BFHT",
+   "name": "BeFaster Holder Token (BFHT)"
+  },
+  {
+   "symbol": "XODEX",
+   "name": "Xodex (XODEX)"
+  },
+  {
+   "symbol": "ZEDTOKEN",
+   "name": "Zed Token (ZEDTOKEN)"
+  },
+  {
+   "symbol": "YEON",
+   "name": "Yeon (YEON)"
+  },
+  {
+   "symbol": "ESNC",
+   "name": "Galaxy Arena Metaverse (ESNC)"
+  },
+  {
+   "symbol": "POSS",
+   "name": "Posschain (POSS)"
+  },
+  {
+   "symbol": "WTF",
+   "name": "Waterfall Governance (WTF)"
+  },
+  {
+   "symbol": "PIAS",
+   "name": "PIAS (PIAS)"
+  },
+  {
+   "symbol": "OKG",
+   "name": "Ookeenga (OKG)"
+  },
+  {
+   "symbol": "PEPEBRC",
+   "name": "PEPE (Ordinals) (PEPEBRC)"
+  },
+  {
+   "symbol": "GATEWAY",
+   "name": "Gateway Protocol (GATEWAY)"
+  },
+  {
+   "symbol": "GOV",
+   "name": "SubDAO (GOV)"
+  }
+ ]
+}

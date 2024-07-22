@@ -1,0 +1,126 @@
+{
+ "added": [
+  {
+   "symbol": "PCRX",
+   "name": "PharmaCorp Rx Inc.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "PCRX.V",
+   "instruments": [
+    {
+     "name": "PharmaCorp Rx Inc.",
+     "symbol": "PCRX"
+    }
+   ]
+  },
+  {
+   "symbol": "SPAC.V",
+   "name": "Mercer Park Opportunities Corp.",
+   "exchange": "TSX",
+   "yahoo_symbol": "SPAC.V.TO",
+   "instruments": [
+    {
+     "name": "Mercer Prk Opp Corp",
+     "symbol": "SPAC.V"
+    }
+   ]
+  },
+  {
+   "symbol": "ARTV",
+   "name": "Artiva Biotherapeutics, Inc. - Common Stock",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "ARTV"
+  },
+  {
+   "symbol": "IRIX",
+   "name": "IRIDEX Corporation - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "IRIX"
+  },
+  {
+   "symbol": "PSIG",
+   "name": "PS International Group Ltd. - Ordinary Shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "PSIG"
+  },
+  {
+   "symbol": "QMMM",
+   "name": "QMMM Holdings Limited - Ordinary Shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "QMMM"
+  },
+  {
+   "symbol": "CNL",
+   "name": "Collective Mining Ltd. Common Shares",
+   "exchange": "NYSE MKT",
+   "yahoo_symbol": "CNL"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "ETRN",
+   "name": "Equitrans Midstream Corporation Common Stock ",
+   "exchange": "NYSE",
+   "yahoo_symbol": "ETRN"
+  },
+  {
+   "symbol": "GGT.R",
+   "name": "Gabelli Multi-Media Trust Inc. (The) Rights (expiring July 22, 2024) Rights",
+   "exchange": "NYSE",
+   "yahoo_symbol": "GGT.R"
+  },
+  {
+   "symbol": "CULL",
+   "name": "Cullman Bancorp, Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "CULL"
+  },
+  {
+   "symbol": "FSD",
+   "name": "First Trust High Income Long Short Fund Common Shares of Beneficial Interest",
+   "exchange": "NYSE",
+   "yahoo_symbol": "FSD"
+  },
+  {
+   "symbol": "HGTY.W",
+   "name": "Hagerty, Inc. Warrants, each whole warrant entitles the holder thereof to purchase one share of Class A common stock at a price of $11.50 per share",
+   "exchange": "NYSE",
+   "yahoo_symbol": "HGTY.W"
+  },
+  {
+   "symbol": "PTN",
+   "name": "Proton Capital Corp.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "PTN.V",
+   "instruments": [
+    {
+     "name": "Proton Capital Corp.",
+     "symbol": "PTN"
+    }
+   ]
+  },
+  {
+   "symbol": "AIF",
+   "name": "Apollo Tactical Income Fund Inc. Common Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "AIF"
+  },
+  {
+   "symbol": "AFT",
+   "name": "Apollo Senior Floating Rate Fund Inc. Common Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "AFT"
+  },
+  {
+   "symbol": "PRE$J",
+   "name": "PartnerRe Ltd. 4.875% Fixed Rate Non-Cumulative Redeemable Preferred Shares, Series J",
+   "exchange": "NYSE",
+   "yahoo_symbol": "PRE$J"
+  },
+  {
+   "symbol": "IRIX",
+   "name": "IRIDEX Corporation - Common Stock",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "IRIX"
+  }
+ ]
+}
