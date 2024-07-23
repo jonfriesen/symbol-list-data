@@ -1,0 +1,148 @@
+{
+ "added": [
+  {
+   "symbol": "GIRLS",
+   "name": "Girls Club (GIRLS)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "RIZZ",
+   "name": "Rizz (RIZZ)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "MLINK",
+   "name": "Chainlink (Multichain) (MLINK)",
+   "built_on": "FTM"
+  },
+  {
+   "symbol": "SOLAN",
+   "name": "Solana Beach (SOLAN)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "PUMPBTC",
+   "name": "pumpBTC (PUMPBTC)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "LOCKIN",
+   "name": "LOCK IN (LOCKIN)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "A8",
+   "name": "Ancient8 (A8)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "MILKBAG",
+   "name": "MILKBAG (MILKBAG)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "FIGHTPEPE",
+   "name": "FIGHT PEPE (FIGHTPEPE)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "BPLINK",
+   "name": "Binance-Peg Chainlink (Binance Bridge) (BPLINK)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "TCG2",
+   "name": "TCG Coin 2.0 (TCG2)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "VALU",
+   "name": "Value (VALU)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "BANK",
+   "name": "Float Protocol (BANK)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "MICK",
+   "name": "Mickey Meme (MICK)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "DTRUMP",
+   "name": "Degen Trump (DTRUMP)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "DOPA",
+   "name": "DopaMeme (DOPA)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "PURRC",
+   "name": "Purrcoin (PURRC)",
+   "built_on": "BASECHAIN"
+  },
+  {
+   "symbol": "VLTY",
+   "name": "Vaulty (VLTY)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "G",
+   "name": "GRN Grid (G)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "MAGAN",
+   "name": "Maganomics On Solana (MAGAN)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "SOLYMPICS",
+   "name": "Solympics (SOLYMPICS)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "CARL",
+   "name": "Carl (CARL)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "HAR",
+   "name": "Harambe Coin (HAR)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "NEXMI",
+   "name": "NexMillionaires (NEXMI)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "FOXI",
+   "name": "Foxify (FOXI)",
+   "built_on": "ARB"
+  },
+  {
+   "symbol": "JUS",
+   "name": "Just The Tip (JUS)",
+   "built_on": "SOL"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "VLTY",
+   "name": "Vaulty (VLTY)"
+  },
+  {
+   "symbol": "TCG2",
+   "name": "TCG Coin 2.0 (TCG2)"
+  },
+  {
+   "symbol": "ZEDCOIN",
+   "name": "ZedCoin (ZEDCOIN)"
+  }
+ ]
+}

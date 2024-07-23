@@ -1,0 +1,72 @@
+{
+ "added": [
+  {
+   "symbol": "YOO",
+   "name": "Yangaroo Inc.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "YOO.V",
+   "instruments": [
+    {
+     "name": "Yangaroo Inc.",
+     "symbol": "YOO"
+    }
+   ]
+  },
+  {
+   "symbol": "TRINI",
+   "name": "Trinity Capital Inc. - 7.875% Notes Due 2029",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "TRINI"
+  },
+  {
+   "symbol": "ABCB",
+   "name": "Ameris Bancorp Common Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "ABCB"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "OCAXW",
+   "name": "OCA Acquisition Corp. - Warrant",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "OCAXW"
+  },
+  {
+   "symbol": "TRTL",
+   "name": "TortoiseEcofin Acquisition Corp. III Class A Ordinary Shares",
+   "exchange": "NYSE",
+   "yahoo_symbol": "TRTL"
+  },
+  {
+   "symbol": "TRTL.W",
+   "name": "TortoiseEcofin Acquisition Corp. III Warrant, entitles to purchase one Class A Ordinary Share at a price of $11.50 per share",
+   "exchange": "NYSE",
+   "yahoo_symbol": "TRTL.W"
+  },
+  {
+   "symbol": "OCAX",
+   "name": "OCA Acquisition Corp. - Class A Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "OCAX"
+  },
+  {
+   "symbol": "TRTL.U",
+   "name": "TortoiseEcofin Acquisition Corp. III Units each consisting of one Class A Ordinary Share, and one-fourth of one redeemable warrant",
+   "exchange": "NYSE",
+   "yahoo_symbol": "TRTL.U"
+  },
+  {
+   "symbol": "OCAXU",
+   "name": "OCA Acquisition Corp. - Unit",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "OCAXU"
+  },
+  {
+   "symbol": "ABCB",
+   "name": "Ameris Bancorp - Common Stock",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "ABCB"
+  }
+ ]
+}
