@@ -1,0 +1,232 @@
+{
+ "added": [
+  {
+   "symbol": "WORL",
+   "name": "World Record Banana (WORL)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "AKIT",
+   "name": "Akita Inu (AKIT)",
+   "built_on": "TONCOIN"
+  },
+  {
+   "symbol": "CHUD",
+   "name": "Chudjak (CHUD)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "RENDER",
+   "name": "Render Network (RENDER)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "MONGY",
+   "name": "Mongy (MONGY)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "DELON",
+   "name": "Dark Elon (DELON)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "WXM",
+   "name": "WeatherXM (WXM)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "MOONI",
+   "name": "MOON INU (MOONI)",
+   "built_on": "BASECHAIN"
+  },
+  {
+   "symbol": "TRUMPS",
+   "name": "Trump SOL (TRUMPS)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "FISHK",
+   "name": "Fishkoin (FISHK)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "GHDV1",
+   "name": "Giftedhands v1 (GHDV1)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "TOMC",
+   "name": "TOM CAT (TOMC)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "BSGG",
+   "name": "Betswap.gg (BSGG)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "ANDYB",
+   "name": "AndyBlast (ANDYB)",
+   "built_on": "BLAST"
+  },
+  {
+   "symbol": "G",
+   "name": "GRN Grid (G)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "BANK",
+   "name": "Float Protocol (BANK)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "ABLINK",
+   "name": "Chainlink (Arbitrum Bridge) (ABLINK)",
+   "built_on": "ARB"
+  },
+  {
+   "symbol": "TOPCA",
+   "name": "TOP CAT (TOPCA)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "MG8",
+   "name": "Megalink (MG8)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "MEVETH",
+   "name": "mevETH (MEVETH)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "BANKA",
+   "name": "Bank AI (BANKA)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "YUSD",
+   "name": "YUSD Stablecoin (YUSD)",
+   "built_on": "AVAX"
+  },
+  {
+   "symbol": "BILLY",
+   "name": "Billy  (BILLY)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "EBCH",
+   "name": "Bitcoin Cash (Energiswap) (EBCH)",
+   "built_on": "NRG"
+  },
+  {
+   "symbol": "TOON",
+   "name": "Pontoon (TOON)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "WIFCAT",
+   "name": "WIFCAT COIN (WIFCAT)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "BPNEAR",
+   "name": "Binance-Peg NEAR Protocol (BPNEAR)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "CATSC",
+   "name": "Catscoin (CATSC)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "NFM",
+   "name": "NFMart (NFM)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "D11",
+   "name": "DeFi11 (D11)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "SHC",
+   "name": "School Hack Coin (SHC)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "DOGW",
+   "name": "DOGWIFHOOD (DOGW)",
+   "built_on": "TONCOIN"
+  },
+  {
+   "symbol": "CATSO",
+   "name": "Cats Of Sol (CATSO)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "COSMICN",
+   "name": "Cosmic Network (COSMICN)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "LPM",
+   "name": "Love Power Market (LPM)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "FU",
+   "name": "FU Money (FU)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "HELINK",
+   "name": "Chainlink (Huobi Exchange) (HELINK)",
+   "built_on": "HT"
+  },
+  {
+   "symbol": "RNEAR",
+   "name": "Near (Rainbow Bridge) (RNEAR)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "STEAMX",
+   "name": "Steam Exchange (STEAMX)"
+  },
+  {
+   "symbol": "BPBCH",
+   "name": "Binance-Peg Bitcoin Cash (Binance Bridge) (BPBCH)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "JUIC",
+   "name": "Juice (JUIC)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "SVETH",
+   "name": "Savvy ETH (SVETH)",
+   "built_on": "ARB"
+  },
+  {
+   "symbol": "ENEAR",
+   "name": "Near (Energiswap) (ENEAR)",
+   "built_on": "NRG"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "D11",
+   "name": "DeFi11 (D11)"
+  },
+  {
+   "symbol": "TOON",
+   "name": "Pontoon (TOON)"
+  },
+  {
+   "symbol": "BSGG",
+   "name": "Betswap.gg (BSGG)"
+  }
+ ]
+}
