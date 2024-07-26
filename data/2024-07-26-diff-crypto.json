@@ -1,0 +1,260 @@
+{
+ "added": [
+  {
+   "symbol": "CIRX",
+   "name": "Circular Protocol (CIRX)"
+  },
+  {
+   "symbol": "MXD",
+   "name": "Denarius (MXD)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "MATTER",
+   "name": "AntiMatter (MATTER)"
+  },
+  {
+   "symbol": "GODEX",
+   "name": "GUARD OF DECENT (GODEX)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "RINGA",
+   "name": "Ring AI (RINGA)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "SCOTT",
+   "name": "Scottish (SCOTT)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "LUNARLENS",
+   "name": "Lunarlens (LUNARLENS)",
+   "built_on": "BASECHAIN"
+  },
+  {
+   "symbol": "MINEA",
+   "name": "Mine AI (MINEA)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "HEHE",
+   "name": "hehe (HEHE)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "GURU",
+   "name": "Guru Network (GURU)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "GOOG",
+   "name": "Googly Cat (GOOG)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "POUW",
+   "name": "Pouwifhat (POUW)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "BADA",
+   "name": "Bad Alien Division (BADA)",
+   "built_on": "CRO"
+  },
+  {
+   "symbol": "HAMSTER",
+   "name": "Space Hamster (HAMSTER)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "REDTH",
+   "name": "Red The Mal (REDTH)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "ZKL",
+   "name": "zkLink (ZKL)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "TWIF",
+   "name": "Tomwifhat (TWIF)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "PRRR",
+   "name": "Cats Are Liquidity (PRRR)",
+   "built_on": "TONCOIN"
+  },
+  {
+   "symbol": "BUYT",
+   "name": "Buy the DIP (BUYT)",
+   "built_on": "CRO"
+  },
+  {
+   "symbol": "DETO",
+   "name": "Delta Exchange (DETO)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "LEGION",
+   "name": "LEGION (LEGION)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "CRYPTOT",
+   "name": "Crypto Trump (CRYPTOT)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "PLEA",
+   "name": "Plearn (PLEA)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "SHIBON",
+   "name": "SHIB ON SOLANA (SHIBON)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "DOGBA",
+   "name": "DOGBA INU (DOGBA)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "BANKETH",
+   "name": "BankEth (BANKETH)"
+  },
+  {
+   "symbol": "NCOIN",
+   "name": "NatronZ (NCOIN)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "NTMPI",
+   "name": "Neutaro (NTMPI)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "MANIFEST",
+   "name": "Manifest (MANIFEST)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "ZYB",
+   "name": "Zyberswap (ZYB)",
+   "built_on": "ARB"
+  },
+  {
+   "symbol": "COINONAT",
+   "name": "Coinonat (COINONAT)"
+  },
+  {
+   "symbol": "APEXA",
+   "name": "Apex AI (APEXA)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "IJZV1",
+   "name": "iinjaz v1 (IJZV1)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "BABYG",
+   "name": "BabyGME (BABYG)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "SONOF",
+   "name": "Son of Solana (SONOF)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "BAKEDB",
+   "name": "Baked Beans Token (BAKEDB)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "TORCH",
+   "name": "Hercules Token (TORCH)",
+   "built_on": "METIS"
+  },
+  {
+   "symbol": "LAWO",
+   "name": "Law Of Attraction (LAWO)",
+   "built_on": "BASECHAIN"
+  },
+  {
+   "symbol": "CXT",
+   "name": "Covalent X Token (CXT)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "JVT",
+   "name": "JVault (JVT)",
+   "built_on": "TONCOIN"
+  },
+  {
+   "symbol": "HSUSDC",
+   "name": "Holdstation USDC (HSUSDC)",
+   "built_on": "ZK"
+  },
+  {
+   "symbol": "THOLA",
+   "name": "Tholana (THOLA)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "LRDS",
+   "name": "BLOCKLORDS (LRDS)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "FAM",
+   "name": "Family (FAM)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "LYA",
+   "name": "Huralya (LYA)",
+   "built_on": "MATIC"
+  },
+  {
+   "symbol": "SIM",
+   "name": "Simpson (SIM)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "NILE",
+   "name": "Nile (NILE)",
+   "built_on": "LINEA"
+  },
+  {
+   "symbol": "GETH",
+   "name": "Guarded Ether (GETH)"
+  },
+  {
+   "symbol": "RYD",
+   "name": "RYderOSHI (RYD)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "BERF",
+   "name": "BERF (BERF)",
+   "built_on": "BASECHAIN"
+  },
+  {
+   "symbol": "MOONB",
+   "name": "Moon Base (MOONB)",
+   "built_on": "BASECHAIN"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "CXT",
+   "name": "Coinonat (CXT)"
+  }
+ ]
+}

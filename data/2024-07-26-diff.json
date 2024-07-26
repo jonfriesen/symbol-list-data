@@ -1,0 +1,48 @@
+{
+ "added": [
+  {
+   "symbol": "DTSQU",
+   "name": "DT Cloud Star Acquisition Corporation - Units",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "DTSQU"
+  },
+  {
+   "symbol": "LINE",
+   "name": "Lineage, Inc. - Common Stock",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "LINE"
+  },
+  {
+   "symbol": "ORKT",
+   "name": "Orangekloud Technology Inc. - Class A Ordinary Shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "ORKT"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "HOLI",
+   "name": "Hollysys Automation Technologies, Ltd. - Common Stock",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "HOLI"
+  },
+  {
+   "symbol": "HIBB",
+   "name": "Hibbett, Inc. - Common Stock",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "HIBB"
+  },
+  {
+   "symbol": "FRXI",
+   "name": "FRX Innovations Inc.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "FRXI.V",
+   "instruments": [
+    {
+     "name": "FRX Innovations Inc.",
+     "symbol": "FRXI"
+    }
+   ]
+  }
+ ]
+}
