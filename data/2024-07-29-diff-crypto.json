@@ -1,0 +1,223 @@
+{
+ "added": [
+  {
+   "symbol": "YNETH",
+   "name": "YieldNest Restaked ETH (YNETH)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "Y24",
+   "name": "Yield 24 (Y24)"
+  },
+  {
+   "symbol": "YPRISMA",
+   "name": "Yearn yPRISMA (YPRISMA)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "SNEED",
+   "name": "Sneed (SNEED)",
+   "built_on": "ICP"
+  },
+  {
+   "symbol": "ZRPY",
+   "name": "Zerpaay (ZRPY)"
+  },
+  {
+   "symbol": "MULTIWALLET",
+   "name": "MultiWallet Coin (MULTIWALLET)"
+  },
+  {
+   "symbol": "VNST",
+   "name": "VNST Stablecoin (VNST)"
+  },
+  {
+   "symbol": "TADDY",
+   "name": "DADDY TRUMP (TADDY)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "YYOLO",
+   "name": "yYOLO (YYOLO)",
+   "built_on": "BLAST"
+  },
+  {
+   "symbol": "ZRS",
+   "name": "Zaros (ZRS)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "LAFFIN",
+   "name": "Laffin Kamala (LAFFIN)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "SKBDI",
+   "name": "Skibidi Toilet (SKBDI)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "BPADA",
+   "name": "Binance-Peg Cardano (Binance Bridge) (BPADA)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "YVYFI",
+   "name": "YFI yVault (YVYFI)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "MIGGLEI",
+   "name": "Migglei (MIGGLEI)",
+   "built_on": "BASECHAIN"
+  },
+  {
+   "symbol": "PIRATECASHV2",
+   "name": "PirateCash v2 (PirateCash Telegram bot) (PIRATECASHV2)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "NPCS",
+   "name": "Non-Playable Coin Solana (NPCS)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "KAMA",
+   "name": "Kamala Horris (KAMA)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "DANJ",
+   "name": "Danjuan Cat (DANJ)"
+  },
+  {
+   "symbol": "BONKW",
+   "name": "bonkwifhat (BONKW)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "ZORRO",
+   "name": "Zorro (ZORRO)",
+   "built_on": "ZK"
+  },
+  {
+   "symbol": "GETH",
+   "name": "Guarded Ether (GETH)"
+  },
+  {
+   "symbol": "SUPERF",
+   "name": "SUPER FLOKI (SUPERF)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "PARAD",
+   "name": "Paradox (PARAD)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "SOLP",
+   "name": "SolPets (SOLP)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "GIGACAT",
+   "name": "GIGACAT (GIGACAT)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "PRIN",
+   "name": "Print The Pepe (PRIN)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "NEIRO",
+   "name": "Neiro (NEIRO)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "WANK",
+   "name": "Wojak The Wanker (WANK)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "PAYD",
+   "name": "PAYD (PAYD)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "PALE",
+   "name": "Palette (PALE)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "PARRY",
+   "name": "Parry Parrot (PARRY)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "MLEO",
+   "name": "LEO Token (Multichain) (MLEO)",
+   "built_on": "FTM"
+  },
+  {
+   "symbol": "USPEPE",
+   "name": "American pepe (USPEPE)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "WEL",
+   "name": "Welsh Corgi (WEL)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "NEIROLIVE",
+   "name": "Neiro (NEIROLIVE)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "TANUPAD",
+   "name": "Tanuki Launchpad (TANUPAD)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "PUL",
+   "name": "PulseTrailerPark (PUL)",
+   "built_on": "PLS"
+  },
+  {
+   "symbol": "STAN",
+   "name": "Stank Memes (STAN)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "BANKETH",
+   "name": "BankEth (BANKETH)"
+  },
+  {
+   "symbol": "SCF",
+   "name": "Smoking Chicken Fish (SCF)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "YEARN",
+   "name": "YearnTogether (YEARN)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "BASEDR",
+   "name": "Based Rabbit (BASEDR)",
+   "built_on": "BASECHAIN"
+  },
+  {
+   "symbol": "MLTC",
+   "name": "Litecoin (Multichain) (MLTC)",
+   "built_on": "ETH"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "MLTC",
+   "name": "MultiWallet Coin (MLTC)"
+  }
+ ]
+}

@@ -1,0 +1,78 @@
+{
+ "added": [
+  {
+   "symbol": "CHEB",
+   "name": "Chenghe Acquisition II Co. Class A Ordinary Shares",
+   "exchange": "NYSE MKT",
+   "yahoo_symbol": "CHEB"
+  },
+  {
+   "symbol": "CHEB.W",
+   "name": "Chenghe Acquisition II Co. Redeemable Warrants, each whole warrant exercisable for one Class A ordinary share at an exercise price of $11.50",
+   "exchange": "NYSE MKT",
+   "yahoo_symbol": "CHEB.W"
+  },
+  {
+   "symbol": "HHH.V",
+   "name": "Howard Hughes Holdings Inc. Common Stock When-Issued",
+   "exchange": "NYSE",
+   "yahoo_symbol": "HHH.V"
+  },
+  {
+   "symbol": "RF$F",
+   "name": "Regions Financial Corporation Depositary Shares Each Representing a 1/40th Interest in a Share of Non-Cumulative Perpetual Preferred Stock, Series F",
+   "exchange": "NYSE",
+   "yahoo_symbol": "RF$F"
+  },
+  {
+   "symbol": "SEG.V",
+   "name": "Seaport Entertainment Group Inc. Common Stock When-Issued",
+   "exchange": "NYSE MKT",
+   "yahoo_symbol": "SEG.V"
+  },
+  {
+   "symbol": "NIPG",
+   "name": "NIP Group Inc. - American Depositary Shares",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "NIPG"
+  },
+  {
+   "symbol": "VIRX",
+   "name": "Viracta Therapeutics, Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "VIRX"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "VIRX",
+   "name": "Viracta Therapeutics, Inc. - Common Stock",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "VIRX"
+  },
+  {
+   "symbol": "SLNA",
+   "name": "Selina Hospitality PLC - Ordinary Shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "SLNA"
+  },
+  {
+   "symbol": "SLNAW",
+   "name": "Selina Hospitality PLC - Warrant",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "SLNAW"
+  },
+  {
+   "symbol": "TRES",
+   "name": "Defiance Treasury Alternative Yield ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "TRES"
+  },
+  {
+   "symbol": "AINC",
+   "name": "Ashford Inc. (Holding Company) Common Stock",
+   "exchange": "NYSE MKT",
+   "yahoo_symbol": "AINC"
+  }
+ ]
+}
