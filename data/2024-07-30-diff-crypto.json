@@ -1,0 +1,231 @@
+{
+ "added": [
+  {
+   "symbol": "WWMATIC",
+   "name": "Wrapped Polygon (Wormhole) (WWMATIC)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "RAR",
+   "name": "Rare Pepe (RAR)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "SPARKLET",
+   "name": "Upland (SPARKLET)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "BABYNEIRO",
+   "name": "Baby Neiro (BABYNEIRO)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "ALATOKEN",
+   "name": "ALA (ALATOKEN)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "RICHR",
+   "name": "RichRabbit (RICHR)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "AMER",
+   "name": "America (AMER)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "PEPE2024",
+   "name": "Olympic Pepe 2024 (PEPE2024)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "BULLISH",
+   "name": "bullish (BULLISH)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "THEB",
+   "name": "The Boys Club (THEB)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "METADAO",
+   "name": "MetaDAO (METADAO)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "HAW",
+   "name": "Hawk Tuah (HAW)"
+  },
+  {
+   "symbol": "BABYMU",
+   "name": "Baby Musk (BABYMU)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "RET",
+   "name": "RealTract (RET)"
+  },
+  {
+   "symbol": "ALBE",
+   "name": "ALBETROS (ALBE)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "SPAVAX",
+   "name": "Avalanche (Synapse Protocol) (SPAVAX)",
+   "built_on": "AVAX"
+  },
+  {
+   "symbol": "BPSHIB",
+   "name": "Binance-Peg Shiba Inu (Binance Bridge) (BPSHIB)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "NEWP",
+   "name": "New Peon (NEWP)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "MAVAX",
+   "name": "Avalanche (Multichain) (MAVAX)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "SOLOR",
+   "name": "Solordi (SOLOR)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "G",
+   "name": "GRN Grid (G)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "ALA",
+   "name": "Alanyaspor Fan Token (ALA)",
+   "built_on": "CHZ"
+  },
+  {
+   "symbol": "SBCH",
+   "name": "Smart Bitcoin Cash (SBCH)"
+  },
+  {
+   "symbol": "ELOND",
+   "name": "ELON DOGE (ELOND)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "BRAINLET",
+   "name": "Brainlet (BRAINLET)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "AAVEGOTCHIFOMO",
+   "name": "Aavegotchi FOMO (AAVEGOTCHIFOMO)",
+   "built_on": "MATIC"
+  },
+  {
+   "symbol": "PUPPET",
+   "name": "Puppet (PUPPET)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "BPAVAX",
+   "name": "Binance-Peg Avalanche (Binance Bridge) (BPAVAX)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "ARIT",
+   "name": "ArithFi (ARIT)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "EBSHIB",
+   "name": "Wrapped Energy Shiba Inu (Energi Bridge) (EBSHIB)",
+   "built_on": "NRG"
+  },
+  {
+   "symbol": "DINOS",
+   "name": "Dinosaur Inu (DINOS)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "FOMO",
+   "name": "FOMO BULL CLUB (FOMO)",
+   "built_on": "BASECHAIN"
+  },
+  {
+   "symbol": "EMATIC",
+   "name": "Wrapped Polygon (Energi Bridge) (EMATIC)",
+   "built_on": "NRG"
+  },
+  {
+   "symbol": "WSHIBA",
+   "name": "wShiba (WSHIBA)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "FLAKY",
+   "name": "FLAKY (FLAKY)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "BROKE",
+   "name": "Broke Again (BROKE)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "BABYD",
+   "name": "Baby Dragon (BABYD)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "HARPER",
+   "name": "Harper (HARPER)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "MXNB",
+   "name": "MXNB (MXNB)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "BTE",
+   "name": "BTEcoin (BTE)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "PHRYGES",
+   "name": "The Phryges (PHRYGES)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "BANKETH",
+   "name": "BankEth (BANKETH)"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "RET",
+   "name": "RealTract (RET)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "ALA",
+   "name": "ALA (ALA)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "FOMO",
+   "name": "Aavegotchi FOMO (FOMO)",
+   "built_on": "MATIC"
+  },
+  {
+   "symbol": "BTE",
+   "name": "BTEcoin (BTE)"
+  }
+ ]
+}

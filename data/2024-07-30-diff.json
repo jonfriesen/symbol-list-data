@@ -1,0 +1,84 @@
+{
+ "added": [
+  {
+   "symbol": "RUA",
+   "name": "Rua Gold Inc.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "RUA.V",
+   "instruments": [
+    {
+     "name": "Rua Gold Inc.",
+     "symbol": "RUA"
+    }
+   ]
+  },
+  {
+   "symbol": "OXLCI",
+   "name": "Oxford Lane Capital Corp. - 8.75% Notes due 2030",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "OXLCI"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "AHI",
+   "name": "Advanced Health Intelligence Ltd. - American Depositary Shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "AHI"
+  },
+  {
+   "symbol": "SBOW",
+   "name": "SilverBow Resorces, Inc. Common Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "SBOW"
+  },
+  {
+   "symbol": "RMR",
+   "name": "Rome Resources Ltd.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "RMR.V",
+   "instruments": [
+    {
+     "name": "Rome Resources Ltd.",
+     "symbol": "RMR"
+    }
+   ]
+  },
+  {
+   "symbol": "OXLCI",
+   "name": "Oxford Lane Capital Corp. - 8.75% Notes due 2030",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "OXLCI"
+  },
+  {
+   "symbol": "PEGRW",
+   "name": "Project Energy Reimagined Acquisition Corp. - Warrant",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "PEGRW"
+  },
+  {
+   "symbol": "PEGR",
+   "name": "Project Energy Reimagined Acquisition Corp. - Class A Ordinary Share",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "PEGR"
+  },
+  {
+   "symbol": "IAF.PR.B",
+   "name": "Industrial Alliance Insurance and Financial Services Inc.",
+   "exchange": "TSX",
+   "yahoo_symbol": "IAF.PR.B.TO",
+   "instruments": [
+    {
+     "name": "Indstrl AlliancePr B",
+     "symbol": "IAF.PR.B"
+    }
+   ]
+  },
+  {
+   "symbol": "PEGRU",
+   "name": "Project Energy Reimagined Acquisition Corp. - Unit",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "PEGRU"
+  }
+ ]
+}
