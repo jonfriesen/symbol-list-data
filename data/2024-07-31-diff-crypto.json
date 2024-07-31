@@ -1,0 +1,179 @@
+{
+ "added": [
+  {
+   "symbol": "PAXE",
+   "name": "Paxe (PAXE)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "SDME",
+   "name": "SDME (SDME)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "CATW",
+   "name": "Cat wif Hands (CATW)",
+   "built_on": "AVAX"
+  },
+  {
+   "symbol": "BILLI",
+   "name": "Billi (BILLI)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "OPTIM",
+   "name": "Optimus X (OPTIM)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "BLUEW",
+   "name": "Blue Whale (BLUEW)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "WWRY",
+   "name": "WeWillRugYou (WWRY)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "SUPERB",
+   "name": "SUPER BONK (SUPERB)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "JANI",
+   "name": "JANI (JANI)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "KEM",
+   "name": "Kem Jeng Un (KEM)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "HILO",
+   "name": "HILO (HILO)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "RECORD",
+   "name": "Music Protocol (RECORD)",
+   "built_on": "BASECHAIN"
+  },
+  {
+   "symbol": "AJUN",
+   "name": "Ajuna Network (AJUN)"
+  },
+  {
+   "symbol": "ZEDCOIN",
+   "name": "ZedCoin (ZEDCOIN)"
+  },
+  {
+   "symbol": "MMATIC",
+   "name": "Wrapped Polygon (Multichain) (MMATIC)",
+   "built_on": "GLMR"
+  },
+  {
+   "symbol": "PAW",
+   "name": "PAWSWAP (PAW)"
+  },
+  {
+   "symbol": "NEIROSOL",
+   "name": "Neiro Solana Doge (NEIROSOL)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "SILL",
+   "name": "Silly Duck (SILL)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "DOAI",
+   "name": "DOJO Protocol (DOAI)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "ALLC",
+   "name": "All Crypto Mechanics (ALLC)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "KET",
+   "name": "KET (KET)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "FIGH",
+   "name": "FIGHT FIGHT FIGHT (FIGH)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "NEIROETH",
+   "name": "Neiro Ethereum (NEIROETH)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "MLTC",
+   "name": "Litecoin (Multichain) (MLTC)"
+  },
+  {
+   "symbol": "BABYBI",
+   "name": "Baby Bitcoin (BABYBI)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "G",
+   "name": "GRN Grid (G)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "REALTRACT",
+   "name": "RealTract (REALTRACT)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "BUTT",
+   "name": "Buttercat (BUTT)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "BTCNOW",
+   "name": "Blockchain Technology Co. (BTCNOW)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "ZCD",
+   "name": "ZChains (ZCD)"
+  },
+  {
+   "symbol": "BNBE",
+   "name": "BNBEE (BNBE)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "BANKETH",
+   "name": "BankEth (BANKETH)"
+  },
+  {
+   "symbol": "YOUNES",
+   "name": "YOUNES (YOUNES)",
+   "built_on": "SOL"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "RET",
+   "name": "RealTract (RET)"
+  },
+  {
+   "symbol": "PAW",
+   "name": "PAWSWAP (PAW)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "MLTC",
+   "name": "Litecoin (Multichain) (MLTC)",
+   "built_on": "ETH"
+  }
+ ]
+}

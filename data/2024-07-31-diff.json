@@ -1,0 +1,72 @@
+{
+ "added": [
+  {
+   "symbol": "FLCN",
+   "name": "Falcon Energy Materials plc",
+   "exchange": "TSXV",
+   "yahoo_symbol": "FLCN.V",
+   "instruments": [
+    {
+     "name": "Falcon Energy Materials plc",
+     "symbol": "FLCN"
+    }
+   ]
+  },
+  {
+   "symbol": "PITA",
+   "name": "Heramba Electric plc - Ordinary Shares",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "PITA"
+  },
+  {
+   "symbol": "PITAW",
+   "name": "Heramba Electric plc - Warrants",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "PITAW"
+  },
+  {
+   "symbol": "OSTX",
+   "name": "OS Therapies Incorporated Common Stock",
+   "exchange": "NYSE MKT",
+   "yahoo_symbol": "OSTX"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "MAQCU",
+   "name": "Maquia Capital Acquisition Corporation - Unit",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "MAQCU"
+  },
+  {
+   "symbol": "SRG",
+   "name": "SRG Mining Inc.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "SRG.V",
+   "instruments": [
+    {
+     "name": "SRG Mining Inc.",
+     "symbol": "SRG"
+    }
+   ]
+  },
+  {
+   "symbol": "TPHS",
+   "name": "Trinity Place Holdings Inc. Common Stock",
+   "exchange": "NYSE MKT",
+   "yahoo_symbol": "TPHS"
+  },
+  {
+   "symbol": "MAQC",
+   "name": "Maquia Capital Acquisition Corporation - Class A Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "MAQC"
+  },
+  {
+   "symbol": "MAQCW",
+   "name": "Maquia Capital Acquisition Corporation - Warrant",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "MAQCW"
+  }
+ ]
+}
