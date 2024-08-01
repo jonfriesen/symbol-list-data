@@ -1,0 +1,126 @@
+{
+ "added": [
+  {
+   "symbol": "AAM.U",
+   "name": "AA Mission Acquisition Corp. Units, each consisting of one Class A Ordinary Share and one-half of one redeemable warrant",
+   "exchange": "NYSE",
+   "yahoo_symbol": "AAM.U"
+  },
+  {
+   "symbol": "AOMN",
+   "name": "Angel Oak Mortgage REIT, Inc. 9.500% Senior Notes due 2029",
+   "exchange": "NYSE",
+   "yahoo_symbol": "AOMN"
+  },
+  {
+   "symbol": "MS$Q",
+   "name": "Morgan Stanley Depositary Shares, each representing 1/1,000th of a share of 6.625% Non-Cumulative Preferred Stock, Series Q",
+   "exchange": "NYSE",
+   "yahoo_symbol": "MS$Q"
+  },
+  {
+   "symbol": "SEG",
+   "name": "Seaport Entertainment Group Inc. Common Stock",
+   "exchange": "NYSE MKT",
+   "yahoo_symbol": "SEG"
+  },
+  {
+   "symbol": "SMC",
+   "name": "Summit Midstream Corporation Common Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "SMC"
+  },
+  {
+   "symbol": "CARA",
+   "name": "Cara Therapeutics, Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "CARA"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "BTEC",
+   "name": "Principal Healthcare Innovators ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "BTEC"
+  },
+  {
+   "symbol": "SLCA",
+   "name": "U.S. Silica Holdings, Inc. Common Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "SLCA"
+  },
+  {
+   "symbol": "CETU",
+   "name": "Cetus Capital Acquisition Corp. - Class A Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "CETU"
+  },
+  {
+   "symbol": "CETUW",
+   "name": "Cetus Capital Acquisition Corp. - Warrant",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "CETUW"
+  },
+  {
+   "symbol": "CETUR",
+   "name": "Cetus Capital Acquisition Corp. - Right to receive 1/6 of one share of Class A Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "CETUR"
+  },
+  {
+   "symbol": "ARYD",
+   "name": "ARYA Sciences Acquisition Corp IV - Class A Ordinary Shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "ARYD"
+  },
+  {
+   "symbol": "SEG.V",
+   "name": "Seaport Entertainment Group Inc. Common Stock When-Issued",
+   "exchange": "NYSE MKT",
+   "yahoo_symbol": "SEG.V"
+  },
+  {
+   "symbol": "SDPI",
+   "name": "Superior Drilling Products, Inc. Common Stock",
+   "exchange": "NYSE MKT",
+   "yahoo_symbol": "SDPI"
+  },
+  {
+   "symbol": "NEWTL",
+   "name": "NewtekOne, Inc. - 5.75% Notes due 2024",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "NEWTL"
+  },
+  {
+   "symbol": "CARA",
+   "name": "Cara Therapeutics, Inc. - Common Stock",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "CARA"
+  },
+  {
+   "symbol": "HHH.V",
+   "name": "Howard Hughes Holdings Inc. Common Stock When-Issued",
+   "exchange": "NYSE",
+   "yahoo_symbol": "HHH.V"
+  },
+  {
+   "symbol": "SMLP",
+   "name": "Summit Midstream Partners, LP Common Units Representing Limited Partner Interests",
+   "exchange": "NYSE",
+   "yahoo_symbol": "SMLP"
+  },
+  {
+   "symbol": "CALB",
+   "name": "California BanCorp - Common Stock",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "CALB"
+  },
+  {
+   "symbol": "CETUU",
+   "name": "Cetus Capital Acquisition Corp. - Unit",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "CETUU"
+  }
+ ]
+}
