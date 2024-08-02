@@ -1,0 +1,286 @@
+{
+ "added": [
+  {
+   "symbol": "JUICEB",
+   "name": "Juice (JUICEB)"
+  },
+  {
+   "symbol": "YAWN",
+   "name": "YAWN (YAWN)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "SOLT",
+   "name": "Soltalk AI (SOLT)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "BTECOIN",
+   "name": "BTEcoin (BTECOIN)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "IRO",
+   "name": "Iro-Chan (IRO)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "GREENPOWER",
+   "name": "GreenPower (GREENPOWER)"
+  },
+  {
+   "symbol": "BOBOT",
+   "name": "Bobo The Bear (BOBOT)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "PURR",
+   "name": "Purr (PURR)"
+  },
+  {
+   "symbol": "NEXG",
+   "name": "NexGami (NEXG)",
+   "built_on": "MATIC"
+  },
+  {
+   "symbol": "ALIX",
+   "name": "AlinX (ALIX)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "META",
+   "name": "MetaDAO (META)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "BOOS",
+   "name": "Boost Trump Campaign (BOOS)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "CRI",
+   "name": "Criptodólar (CRI)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "AGIL",
+   "name": "Agility LSD (AGIL)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "CES",
+   "name": "swap.coffee (CES)",
+   "built_on": "TONCOIN"
+  },
+  {
+   "symbol": "RET",
+   "name": "Renewable Energy (RET)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "JUM",
+   "name": "Jumoney (JUM)",
+   "built_on": "KLAY"
+  },
+  {
+   "symbol": "CATEC",
+   "name": "Cate Coin (CATEC)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "SIGMA",
+   "name": "SIGMA (SIGMA)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "SIMPS",
+   "name": "Simpson MAGA (SIMPS)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "PEPECO",
+   "name": "PEPE COIN BSC (PEPECO)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "WCRO",
+   "name": "Wrapped CRO (WCRO)",
+   "built_on": "CRO"
+  },
+  {
+   "symbol": "IFBTC",
+   "name": "Ignition FBTC (IFBTC)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "ELONMU",
+   "name": "Elon Musk (ELONMU)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "BOPB",
+   "name": "BIOPOP (BOPB)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "POPULARCOIN",
+   "name": "PopularCoin (POPULARCOIN)"
+  },
+  {
+   "symbol": "SPARTACATS",
+   "name": "SpartaCats (SPARTACATS)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "GGRN",
+   "name": "GRN Grid (GRN)"
+  },
+  {
+   "symbol": "ADD",
+   "name": "ADD.xyz (ADD)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "CRYPTOAI",
+   "name": "CryptoAI (CRYPTOAI)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "GETH",
+   "name": "Guarded Ether (GETH)"
+  },
+  {
+   "symbol": "METADIUM",
+   "name": "Metadium (METADIUM)"
+  },
+  {
+   "symbol": "DOPEC",
+   "name": "DOPE Coin (DOPEC)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "2022M",
+   "name": "2022MOON (2022M)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "TOUR",
+   "name": "Tour Billion (TOUR)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "LRT",
+   "name": "LandRocker (LRT)",
+   "built_on": "MATIC"
+  },
+  {
+   "symbol": "GINNAN",
+   "name": "Ginnan The Cat (GINNAN)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "SNIBBU",
+   "name": "Snibbu The Crab (SNIBBU)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "XROCK",
+   "name": "xRocket (XROCK)",
+   "built_on": "TONCOIN"
+  },
+  {
+   "symbol": "ULTR",
+   "name": "ULTRA MAGA (ULTR)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "BBCH",
+   "name": "Binance Wrapped BCH (BBCH)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "SPAVAX",
+   "name": "Avalanche (Synapse Protocol) (SPAVAX)"
+  },
+  {
+   "symbol": "OOFP",
+   "name": "OOFP (OOFP)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "BANK",
+   "name": "Float Protocol (BANK)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "COO",
+   "name": "Cool Cats MILK (COO)",
+   "built_on": "MATIC"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "META",
+   "name": "Metadium (META)"
+  },
+  {
+   "symbol": "RENE",
+   "name": "Renewable Energy (RENE)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "PURR",
+   "name": "SpartaCats (PURR)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "HARRIS",
+   "name": "KAMALA HARRIS (HARRIS)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "ADD",
+   "name": "ADD.xyz (ADD)"
+  },
+  {
+   "symbol": "2022M",
+   "name": "2022MOON (2022M)"
+  },
+  {
+   "symbol": "ALIX",
+   "name": "AlinX (ALIX)"
+  },
+  {
+   "symbol": "POP",
+   "name": "PopularCoin (POP)"
+  },
+  {
+   "symbol": "ZEDCOIN",
+   "name": "ZedCoin (ZEDCOIN)"
+  },
+  {
+   "symbol": "GRN",
+   "name": "GreenPower (GRN)"
+  },
+  {
+   "symbol": "SPAVAX",
+   "name": "Avalanche (Synapse Protocol) (SPAVAX)",
+   "built_on": "AVAX"
+  },
+  {
+   "symbol": "BTE",
+   "name": "BTEcoin (BTE)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "METADAO",
+   "name": "MetaDAO (METADAO)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "JUICEB",
+   "name": "Juice (JUICEB)",
+   "built_on": "ETH"
+  }
+ ]
+}

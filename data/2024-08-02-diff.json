@@ -1,0 +1,150 @@
+{
+ "added": [
+  {
+   "symbol": "ADGM",
+   "name": "Adagio Medical Holdings, Inc - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "ADGM"
+  },
+  {
+   "symbol": "ALF",
+   "name": "Centurion Acquisition Corp. - Class A Ordinary Shares",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "ALF"
+  },
+  {
+   "symbol": "ALFUW",
+   "name": "Centurion Acquisition Corp. - Warrant",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "ALFUW"
+  },
+  {
+   "symbol": "FDSB",
+   "name": "Fifth District Bancorp, Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "FDSB"
+  },
+  {
+   "symbol": "FLD",
+   "name": "FTAC Emerald Acquisition Corp. - Class A Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "FLD"
+  },
+  {
+   "symbol": "FLDDU",
+   "name": "FTAC Emerald Acquisition Corp. - Unit",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "FLDDU"
+  },
+  {
+   "symbol": "FLDDW",
+   "name": "FTAC Emerald Acquisition Corp. - Warrant",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "FLDDW"
+  },
+  {
+   "symbol": "GPRF",
+   "name": "Goldman Sachs Access U.S. Preferred Stock and Hybrid Securities ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "GPRF"
+  },
+  {
+   "symbol": "MBAVU",
+   "name": "M3-Brigade Acquisition V Corp. - Units",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "MBAVU"
+  },
+  {
+   "symbol": "MKDW",
+   "name": "MKDWELL Tech Inc. - Ordinary Shares",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "MKDW"
+  },
+  {
+   "symbol": "MKDWW",
+   "name": "MKDWELL Tech Inc. - Warrants",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "MKDWW"
+  },
+  {
+   "symbol": "OCTA",
+   "name": "Octane All-Cap Value Energy ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "OCTA"
+  },
+  {
+   "symbol": "ZAPP",
+   "name": "Zapp Electric Vehicles Group Limited - Ordinary shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "ZAPP"
+  },
+  {
+   "symbol": "BURU",
+   "name": "Nuburu, Inc. Common Stock",
+   "exchange": "NYSE MKT",
+   "yahoo_symbol": "BURU"
+  },
+  {
+   "symbol": "SCPX",
+   "name": "Scorpius Holdings, Inc. Common Stock",
+   "exchange": "NYSE MKT",
+   "yahoo_symbol": "SCPX"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "EMLD",
+   "name": "FTAC Emerald Acquisition Corp. - Class A Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "EMLD"
+  },
+  {
+   "symbol": "VWEWW",
+   "name": "Vintage Wine Estates, Inc. - Warrants",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "VWEWW"
+  },
+  {
+   "symbol": "TCBC",
+   "name": "TC Bancshares, Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "TCBC"
+  },
+  {
+   "symbol": "ZAPP",
+   "name": "Zapp Electric Vehicles Group Limited - Ordinary shares",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "ZAPP"
+  },
+  {
+   "symbol": "EMLDW",
+   "name": "FTAC Emerald Acquisition Corp. - Warrant",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "EMLDW"
+  },
+  {
+   "symbol": "MCBC",
+   "name": "Macatawa Bank Corporation - Common Stock",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "MCBC"
+  },
+  {
+   "symbol": "CERE",
+   "name": "Cerevel Therapeutics Holdings, Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "CERE"
+  },
+  {
+   "symbol": "VWE",
+   "name": "Vintage Wine Estates, Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "VWE"
+  },
+  {
+   "symbol": "EMLDU",
+   "name": "FTAC Emerald Acquisition Corp. - Unit",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "EMLDU"
+  }
+ ]
+}
