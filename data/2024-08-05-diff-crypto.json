@@ -1,0 +1,198 @@
+{
+ "added": [
+  {
+   "symbol": "RYOCURRENCY",
+   "name": "Ryo (RYOCURRENCY)"
+  },
+  {
+   "symbol": "YAFA",
+   "name": "Free Palestine (YAFA)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "DMAGA",
+   "name": "Dark MAGA (DMAGA)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "G",
+   "name": "Gravity (G)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "ONIG",
+   "name": "Onigiri (ONIG)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "GRNV1",
+   "name": "GRN Grid v1 (GRNV1)"
+  },
+  {
+   "symbol": "LOAFCAT",
+   "name": "LOAFCAT (LOAFCAT)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "RYO",
+   "name": "RYO Coin (RYO)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "BTEV1",
+   "name": "Betero v1 (BTEV1)"
+  },
+  {
+   "symbol": "SHIBE",
+   "name": "Shibe Inu (SHIBE)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "GOLDS",
+   "name": "Gold Standard (GOLDS)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "TALAHON",
+   "name": "Talahon (TALAHON)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "MAGNETWORK",
+   "name": "Magnet (MAGNETWORK)"
+  },
+  {
+   "symbol": "BAOBAO",
+   "name": "BaoBao (BAOBAO)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "CHITAN",
+   "name": "Chitan (CHITAN)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "JLY",
+   "name": "Jellyverse (JLY)",
+   "built_on": "SEI"
+  },
+  {
+   "symbol": "RIZO",
+   "name": "Rizo (RIZO)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "CHIB",
+   "name": "Chiba Inu (CHIB)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "WFTM",
+   "name": "Wrapped Fantom (WFTM)",
+   "built_on": "FTM"
+  },
+  {
+   "symbol": "ITO",
+   "name": "Ito-chan (ITO)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "KEN",
+   "name": "Kencoin (KEN)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "KAMALAHARRIS",
+   "name": "KAMALA HARRIS (KAMALAHARRIS)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "PACK",
+   "name": "HashPack (PACK)",
+   "built_on": "HBAR"
+  },
+  {
+   "symbol": "BTE",
+   "name": "Betero (BTE)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "BANKETH",
+   "name": "BankEth (BANKETH)"
+  },
+  {
+   "symbol": "AIRIAN",
+   "name": "AIRian (AIRIAN)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "MAG",
+   "name": "Magnify Cash (MAG)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "ANDYBNB",
+   "name": "Andy (ANDYBNB)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "HARRIS",
+   "name": "KAMALA HARRIS (HARRIS)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "ONIGIRI",
+   "name": "Onigiri The Cat (ONIGIRI)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "FROSTY",
+   "name": "Frosty the Polar Bear (FROSTY)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "REGI",
+   "name": "Resistance Girl (REGI)",
+   "built_on": "TONCOIN"
+  },
+  {
+   "symbol": "GOCHU",
+   "name": "Gochujangcoin (GOCHU)",
+   "built_on": "BASECHAIN"
+  },
+  {
+   "symbol": "COAI",
+   "name": "CodeMong Ai (COAI)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "AVACN",
+   "name": "AVACOIN (AVACN)",
+   "built_on": "TONCOIN"
+  },
+  {
+   "symbol": "MOYA",
+   "name": "MOYA (MOYA)",
+   "built_on": "ETH"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "MAG",
+   "name": "Magnet (MAG)"
+  },
+  {
+   "symbol": "KEN",
+   "name": "Kencoin (KEN)"
+  },
+  {
+   "symbol": "RYO",
+   "name": "Ryo (RYO)"
+  },
+  {
+   "symbol": "RIZO",
+   "name": "Rizo (RIZO)",
+   "built_on": "ETH"
+  }
+ ]
+}
