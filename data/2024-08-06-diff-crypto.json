@@ -1,0 +1,164 @@
+{
+ "added": [
+  {
+   "symbol": "G",
+   "name": "Gravity (G)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "CDCETH",
+   "name": "Crypto.com Staked ETH (CDCETH)",
+   "built_on": "CRO"
+  },
+  {
+   "symbol": "ALNV1",
+   "name": "Aluna v1 (ALNV1)"
+  },
+  {
+   "symbol": "NFTFI",
+   "name": "NFTfi (NFTFI)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "GRN",
+   "name": "GRN Grid (GRN)",
+   "built_on": "MATIC"
+  },
+  {
+   "symbol": "SHOG",
+   "name": "SHOG (SHOG)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "HARRISV",
+   "name": "Harris V Trump (HARRISV)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "NOTC",
+   "name": "NOT (NOTC)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "ALN",
+   "name": "Aluna (ALN)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "TALA",
+   "name": "Baby Tala (TALA)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "SILVERSTAND",
+   "name": "Silver Standard (SILVERSTAND)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "WMETIS",
+   "name": "Wrapped Metis (WMETIS)",
+   "built_on": "METIS"
+  },
+  {
+   "symbol": "GRAM",
+   "name": "Gram (GRAM)",
+   "built_on": "TONCOIN"
+  },
+  {
+   "symbol": "ZEDCOIN",
+   "name": "ZedCoin (ZEDCOIN)"
+  },
+  {
+   "symbol": "MOGT",
+   "name": "MOG TRUMP (MOGT)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "BOOM",
+   "name": "BOOM DAO (BOOM)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "AAVEE",
+   "name": "AAVE.e (Avalanche Bride) (AAVEE)",
+   "built_on": "AVAX"
+  },
+  {
+   "symbol": "BANK",
+   "name": "Float Protocol (BANK)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "UE",
+   "name": "UE Coin (UE)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "ROUTEV1",
+   "name": "Router Protocol v1 (ROUTEV1)"
+  },
+  {
+   "symbol": "NOTECANTO",
+   "name": "Note (NOTECANTO)",
+   "built_on": "CANTO"
+  },
+  {
+   "symbol": "RIZOLOL",
+   "name": "Rizo (RIZOLOL)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "SYNTE",
+   "name": "Synternet (SYNTE)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "KENCOIN",
+   "name": "Kencoin (KENCOIN)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "MPAA",
+   "name": "MPAA (MPAA)",
+   "built_on": "BASECHAIN"
+  },
+  {
+   "symbol": "MAXCOIN",
+   "name": "MaxCoin (MAXCOIN)"
+  },
+  {
+   "symbol": "N64",
+   "name": "N64 (N64)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "MAX",
+   "name": "Matr1x (MAX)",
+   "built_on": "ETH"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "GGRN",
+   "name": "GRN Grid (GRN)"
+  },
+  {
+   "symbol": "BOOM",
+   "name": "BOOM DAO (BOOM)",
+   "built_on": "ICP"
+  },
+  {
+   "symbol": "MAX",
+   "name": "MaxCoin (MAX)"
+  },
+  {
+   "symbol": "ALN",
+   "name": "Aluna (ALN)"
+  },
+  {
+   "symbol": "CDCETH",
+   "name": "Crypto.com Staked ETH (CDCETH)",
+   "built_on": "ETH"
+  }
+ ]
+}

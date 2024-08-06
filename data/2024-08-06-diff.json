@@ -1,0 +1,126 @@
+{
+ "added": [
+  {
+   "symbol": "HPAI",
+   "name": "Helport AI Limited - Ordinary Shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "HPAI"
+  },
+  {
+   "symbol": "HPAIW",
+   "name": "Helport AI Limited - Warrants",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "HPAIW"
+  },
+  {
+   "symbol": "CCBD",
+   "name": "CI U.S. Aggregate Bond Covered Call ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "CCBD.TO",
+   "instruments": [
+    {
+     "name": "CIUS AggBnd CvC ETF ",
+     "symbol": "CCBD"
+    }
+   ]
+  },
+  {
+   "symbol": "WGX",
+   "name": "Westgold Resources Limited",
+   "exchange": "TSX",
+   "yahoo_symbol": "WGX.TO",
+   "instruments": [
+    {
+     "name": "Westgold Res Ltd",
+     "symbol": "WGX"
+    }
+   ]
+  },
+  {
+   "symbol": "CVLG",
+   "name": "Covenant Logistics Group, Inc. Class A Common Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "CVLG"
+  },
+  {
+   "symbol": "UCB",
+   "name": "United Community Banks, Inc. Common Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "UCB"
+  },
+  {
+   "symbol": "UCB$I",
+   "name": "United Community Banks, Inc. Depositary Shares, each representing 1/1000th interest in a share of Series I Non-Cumulative Preferred Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "UCB$I"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "KRNLU",
+   "name": "Kernel Group Holdings, Inc. - Units",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "KRNLU"
+  },
+  {
+   "symbol": "FREEW",
+   "name": "Whole Earth Brands, Inc. - Warrant",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "FREEW"
+  },
+  {
+   "symbol": "CONN",
+   "name": "Conn's, Inc. - Common Stock",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "CONN"
+  },
+  {
+   "symbol": "FREE",
+   "name": "Whole Earth Brands, Inc. - Class A Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "FREE"
+  },
+  {
+   "symbol": "CVLG",
+   "name": "Covenant Logistics Group, Inc. - Class A Common Stock",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "CVLG"
+  },
+  {
+   "symbol": "UCBI",
+   "name": "United Community Banks, Inc. - Common Stock",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "UCBI"
+  },
+  {
+   "symbol": "KRNL",
+   "name": "Kernel Group Holdings, Inc. - Class A Ordinary Shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "KRNL"
+  },
+  {
+   "symbol": "UCBIO",
+   "name": "United Community Banks, Inc. - Depositary Shares each representing 1/1,000th interest in a share of Series I Non-Cumulative Preferred Stock",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "UCBIO"
+  },
+  {
+   "symbol": "KRR",
+   "name": "Karora Resources Inc.",
+   "exchange": "TSX",
+   "yahoo_symbol": "KRR.TO",
+   "instruments": [
+    {
+     "name": "Karora Res Inc. J",
+     "symbol": "KRR"
+    }
+   ]
+  },
+  {
+   "symbol": "KRNLW",
+   "name": "Kernel Group Holdings, Inc. - Warrants",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "KRNLW"
+  }
+ ]
+}
