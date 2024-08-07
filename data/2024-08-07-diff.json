@@ -1,0 +1,106 @@
+{
+ "added": [
+  {
+   "symbol": "VSTE",
+   "name": "Vast Renewables Limited - Ordinary Shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "VSTE"
+  },
+  {
+   "symbol": "EQV.U",
+   "name": "EQV Ventures Acquisition Corp. Units, each consisting of one Class A ordinary share and one-third of one redeemable warrant",
+   "exchange": "NYSE",
+   "yahoo_symbol": "EQV.U"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "ZLSWW",
+   "name": "Zalatoris II Acquisition Corp - Warrant",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "ZLSWW"
+  },
+  {
+   "symbol": "PMB.UN",
+   "name": "Picton Mahoney Tactical Income Fund",
+   "exchange": "TSX",
+   "yahoo_symbol": "PMB.UN.TO",
+   "instruments": [
+    {
+     "name": "Picton Mahoney A Un",
+     "symbol": "PMB.UN"
+    }
+   ]
+  },
+  {
+   "symbol": "SPEC",
+   "name": "Spectaire Holdings, Inc. - Common Stock",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "SPEC"
+  },
+  {
+   "symbol": "ADZN",
+   "name": "Adventus Mining Corporation",
+   "exchange": "TSXV",
+   "yahoo_symbol": "ADZN.V",
+   "instruments": [
+    {
+     "name": "Adventus Mining Corporation",
+     "symbol": "ADZN"
+    }
+   ]
+  },
+  {
+   "symbol": "ZLSWU",
+   "name": "Zalatoris II Acquisition Corp - Unit",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "ZLSWU"
+  },
+  {
+   "symbol": "WRNT",
+   "name": "Warrantee Inc. - American Depositary Shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "WRNT"
+  },
+  {
+   "symbol": "SPECW",
+   "name": "Spectaire Holdings, Inc. - Warrants",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "SPECW"
+  },
+  {
+   "symbol": "ELVT",
+   "name": "Elevation Gold Mining Corporation",
+   "exchange": "TSXV",
+   "yahoo_symbol": "ELVT.V",
+   "instruments": [
+    {
+     "name": "Elevation Gold Mining Corporation",
+     "symbol": "ELVT"
+    },
+    {
+     "name": "Elevation Gold Mining Corporation wts 24Mar2027",
+     "symbol": "ELVT.WT.A"
+    }
+   ]
+  },
+  {
+   "symbol": "VSTE",
+   "name": "Vast Renewables Limited - Ordinary Shares",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "VSTE"
+  },
+  {
+   "symbol": "ZLS",
+   "name": "Zalatoris II Acquisition Corp - Class A Ordinary Shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "ZLS"
+  },
+  {
+   "symbol": "TWOU",
+   "name": "2U, Inc. - Common Stock",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "TWOU"
+  }
+ ]
+}

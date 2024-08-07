@@ -1,0 +1,228 @@
+{
+ "added": [
+  {
+   "symbol": "ALTOCAR",
+   "name": "AltoCar (ALTOCAR)",
+   "built_on": "WAVES"
+  },
+  {
+   "symbol": "ANDX",
+   "name": "Arrano (ANDX)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "YUSUF",
+   "name": "Yusuf Dikec Meme (YUSUF)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "BILL",
+   "name": "TillBilly (BILL)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "POPEPE",
+   "name": "POPEPE (POPEPE)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "ACL",
+   "name": "Auction Light (ACL)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "JHH",
+   "name": "Jen-Hsun Huang (JHH)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "KITTY",
+   "name": "Roaring Kitt (KITTY)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "ASUNA",
+   "name": "Asuna Hentai (ASUNA)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "AQUACITY",
+   "name": "Aquacity (AQUACITY)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "KITTYINU",
+   "name": "Kitty Inu (KITTYINU)"
+  },
+  {
+   "symbol": "ARTM",
+   "name": "ARTM (ARTM)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "WHY",
+   "name": "WHY (WHY (1))",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "DODOT",
+   "name": "Dodo the Black Swan (DODOT)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "TVS",
+   "name": "TVS (TVS)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "BOOMDAO",
+   "name": "BOOM DAO (BOOMDAO)",
+   "built_on": "ICP"
+  },
+  {
+   "symbol": "ARCANE",
+   "name": "Arcane Token (ARCANE)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "WSH",
+   "name": "White Yorkshire (WSH)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "DOCAINEURON",
+   "name": "Doc.ai Neuron (DOCAINEURON)"
+  },
+  {
+   "symbol": "MINDC",
+   "name": "MindCoin (MINDC)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "SLOTHA",
+   "name": "Slothana (SLOTHA)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "APAD",
+   "name": "Anypad (APAD)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "PUSDC",
+   "name": "USD Coin (Polygon Portal) (PUSDC)",
+   "built_on": "MATIC"
+  },
+  {
+   "symbol": "WIFC",
+   "name": "dogwifceo (WIFC)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "ANRX",
+   "name": "AnRKey X (ANRX)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "USDCE",
+   "name": "USD Coin (Avalanche Bride) (USDCE)",
+   "built_on": "AVAX"
+  },
+  {
+   "symbol": "G",
+   "name": "Gravity (G)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "ANN",
+   "name": "Annex Finance (ANN)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "ANA",
+   "name": "Nirvana ANA (ANA)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "MUSDC",
+   "name": "USD Coin (Multichain) (MUSDC)",
+   "built_on": "KAI"
+  },
+  {
+   "symbol": "ANCP",
+   "name": "Anacrypt (ANCP)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "KITEAI",
+   "name": "KITEAI (KITEAI)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "BANKETH",
+   "name": "BankEth (BANKETH)"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "ALTOCAR",
+   "name": "AltoCar (ALTOCAR)"
+  },
+  {
+   "symbol": "ZEDCOIN",
+   "name": "ZedCoin (ZEDCOIN)"
+  },
+  {
+   "symbol": "ANRX",
+   "name": "AnRKey X (ANRX)"
+  },
+  {
+   "symbol": "AQUACITY",
+   "name": "Aquacity (AQUACITY)"
+  },
+  {
+   "symbol": "ANN",
+   "name": "Annex Finance (ANN)"
+  },
+  {
+   "symbol": "ANDX",
+   "name": "Arrano (ANDX)"
+  },
+  {
+   "symbol": "ANCP",
+   "name": "Anacrypt (ANCP)"
+  },
+  {
+   "symbol": "BILL",
+   "name": "TillBilly (BILL)"
+  },
+  {
+   "symbol": "KITTY",
+   "name": "Kitty Inu (KITTY)"
+  },
+  {
+   "symbol": "NRN",
+   "name": "Doc.ai Neuron (NRN)"
+  },
+  {
+   "symbol": "ARCANE",
+   "name": "Arcane Token (ARCANE)"
+  },
+  {
+   "symbol": "APAD",
+   "name": "Anypad (APAD)"
+  },
+  {
+   "symbol": "ARTM",
+   "name": "ARTM (ARTM)"
+  },
+  {
+   "symbol": "ASUNA",
+   "name": "Asuna Hentai (ASUNA)"
+  },
+  {
+   "symbol": "ANA",
+   "name": "Nirvana ANA (ANA)"
+  }
+ ]
+}
