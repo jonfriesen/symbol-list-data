@@ -1,0 +1,237 @@
+{
+ "added": [
+  {
+   "symbol": "KITTYINU",
+   "name": "Kitty Inu (KITTYINU)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "BSC",
+   "name": "BSC Layer (BSC)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "BAKEDTOKEN",
+   "name": "Baked (BAKEDTOKEN)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "ASTRO",
+   "name": "AstroSwap (ASTRO)",
+   "built_on": "LUNC"
+  },
+  {
+   "symbol": "GEF",
+   "name": "GemFlow (GEF)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "VXR",
+   "name": "Vox Royale (VXR)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "BOWSC",
+   "name": "BowsCoin (BOWSC)"
+  },
+  {
+   "symbol": "TRUMPM",
+   "name": "TRUMP MAGA PRESIDENT (TRUMPM)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "GOODM",
+   "name": "Good Morning! (GOODM)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "PEPEOFSOL",
+   "name": "Pepe of Solana (PEPEOFSOL)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "AL",
+   "name": "ArchLoot (AL)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "WENIS",
+   "name": "WenisCoin (WENIS)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "POP",
+   "name": "Popcoin (POP)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "ZEDCOIN",
+   "name": "ZedCoin (ZEDCOIN)"
+  },
+  {
+   "symbol": "WHAT",
+   "name": "What the Duck (WHAT)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "DOGEYIELD",
+   "name": "DogeYield (DOGEYIELD)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "MARU",
+   "name": "marumaruNFT (MARU)"
+  },
+  {
+   "symbol": "KITTYINUV1",
+   "name": "Kitty Inu v1 (KITTYINUV1)"
+  },
+  {
+   "symbol": "ECHOBOT",
+   "name": "ECHO BOT (ECHOBOT)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "XGD",
+   "name": "X Gold (XGD)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "PODFAST",
+   "name": "PodFast (PODFAST)"
+  },
+  {
+   "symbol": "DCE",
+   "name": "Decentra Ecosystem (DCE)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "DINEROBET",
+   "name": "Dinerobet (DINEROBET)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "PINS",
+   "name": "PINs Network Token (PINS)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "SSOL",
+   "name": "Solayer SOL (SSOL)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "BOOST",
+   "name": "PodFast (BOOST)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "WHC",
+   "name": "Whales Club (WHC)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "BOOSTCO",
+   "name": "Boost (BOOSTCO)"
+  },
+  {
+   "symbol": "HYD",
+   "name": "HYDRA (HYD)",
+   "built_on": "TONCOIN"
+  },
+  {
+   "symbol": "GODCAT",
+   "name": "GodcatExplodingKittens (GODCAT)",
+   "built_on": "BASECHAIN"
+  },
+  {
+   "symbol": "G",
+   "name": "Gravity (G)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "KRAZYKAMALA",
+   "name": "KRAZY KAMALA (KRAZYKAMALA)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "DYNOC",
+   "name": "DynoChain (DYNOC)"
+  },
+  {
+   "symbol": "WILDCOIN",
+   "name": "WILDCOIN (WILDCOIN)",
+   "built_on": "OP"
+  },
+  {
+   "symbol": "SKX",
+   "name": "SKPANAX (SKX)",
+   "built_on": "MATIC"
+  },
+  {
+   "symbol": "BANKETH",
+   "name": "BankEth (BANKETH)"
+  },
+  {
+   "symbol": "WFDP",
+   "name": "WFDP (WFDP)",
+   "built_on": "TRX"
+  },
+  {
+   "symbol": "WEND",
+   "name": "Wellnode (WEND)"
+  },
+  {
+   "symbol": "UMM",
+   "name": "UMM (UMM)",
+   "built_on": "AVAX"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "MARU",
+   "name": "marumaruNFT (MARU)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "BSC",
+   "name": "BowsCoin (BSC)"
+  },
+  {
+   "symbol": "ASTRO",
+   "name": "AstroSwap (ASTRO)"
+  },
+  {
+   "symbol": "KITTYINU",
+   "name": "Kitty Inu (KITTYINU)"
+  },
+  {
+   "symbol": "DINERO",
+   "name": "Dinerobet (DINERO)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "DOGY",
+   "name": "DogeYield (DOGY)"
+  },
+  {
+   "symbol": "BOOST",
+   "name": "Boost (BOOST)"
+  },
+  {
+   "symbol": "ARCHL",
+   "name": "ArchLoot (ARCHL)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "ECHO",
+   "name": "ECHO BOT (ECHO)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "PODFAST",
+   "name": "PodFast (PODFAST)",
+   "built_on": "BNB"
+  }
+ ]
+}

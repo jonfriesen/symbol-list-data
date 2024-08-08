@@ -1,0 +1,162 @@
+{
+ "added": [
+  {
+   "symbol": "BOGO",
+   "name": "Borealis Mining Company Limited",
+   "exchange": "TSXV",
+   "yahoo_symbol": "BOGO.V",
+   "instruments": [
+    {
+     "name": "Borealis Mining Company Limited",
+     "symbol": "BOGO"
+    }
+   ]
+  },
+  {
+   "symbol": "CERT",
+   "name": "Cerrado Gold Inc.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "CERT.V",
+   "instruments": [
+    {
+     "name": "Cerrado Gold Inc.",
+     "symbol": "CERT"
+    }
+   ]
+  },
+  {
+   "symbol": "JHC",
+   "name": "Jinhua Capital Corporation",
+   "exchange": "TSXV",
+   "yahoo_symbol": "JHC.V",
+   "instruments": [
+    {
+     "name": "Jinhua Capital Corporation",
+     "symbol": "JHC"
+    }
+   ]
+  },
+  {
+   "symbol": "RSTN",
+   "name": "RDE, Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "RSTN"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "CNTG",
+   "name": "Centogene N.V. - Common Shares",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "CNTG"
+  },
+  {
+   "symbol": "MCI",
+   "name": "Minnova Corp.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "MCI.V",
+   "instruments": [
+    {
+     "name": "Minnova Corp.",
+     "symbol": "MCI"
+    }
+   ]
+  },
+  {
+   "symbol": "DZSI",
+   "name": "DZS Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "DZSI"
+  },
+  {
+   "symbol": "IMAQU",
+   "name": "International Media Acquisition Corp. - Unit",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "IMAQU"
+  },
+  {
+   "symbol": "IMAQ",
+   "name": "International Media Acquisition Corp. - Class A Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "IMAQ"
+  },
+  {
+   "symbol": "BOAT",
+   "name": "The Limestone Boat Company Limited",
+   "exchange": "TSXV",
+   "yahoo_symbol": "BOAT.V",
+   "instruments": [
+    {
+     "name": "The Limestone Boat Company Limited",
+     "symbol": "BOAT"
+    }
+   ]
+  },
+  {
+   "symbol": "PRST",
+   "name": "Presto Automation, Inc. - Common Stock",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "PRST"
+  },
+  {
+   "symbol": "IMAQW",
+   "name": "International Media Acquisition Corp. - Warrants",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "IMAQW"
+  },
+  {
+   "symbol": "XGC",
+   "name": "Xali Gold Corp.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "XGC.V",
+   "instruments": [
+    {
+     "name": "Xali Gold Corp.",
+     "symbol": "XGC"
+    }
+   ]
+  },
+  {
+   "symbol": "CEI",
+   "name": "Camber Energy, Inc. Common Stock",
+   "exchange": "NYSE MKT",
+   "yahoo_symbol": "CEI"
+  },
+  {
+   "symbol": "PRSTW",
+   "name": "Presto Automation, Inc. - Warrant",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "PRSTW"
+  },
+  {
+   "symbol": "ALCC.P",
+   "name": "A-Labs Capital IV Corp.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "ALCC.P.V",
+   "instruments": [
+    {
+     "name": "A-Labs Capital IV Corp.",
+     "symbol": "ALCC.P"
+    }
+   ]
+  },
+  {
+   "symbol": "VBIV",
+   "name": "VBI Vaccines, Inc. - Ordinary Shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "VBIV"
+  },
+  {
+   "symbol": "IMAQR",
+   "name": "International Media Acquisition Corp. - Rights",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "IMAQR"
+  },
+  {
+   "symbol": "WKSPW",
+   "name": "Worksport, Ltd. - Warrant",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "WKSPW"
+  }
+ ]
+}
