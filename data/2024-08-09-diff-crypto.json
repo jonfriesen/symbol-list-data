@@ -1,0 +1,206 @@
+{
+ "added": [
+  {
+   "symbol": "CCAR",
+   "name": "CryptoCars (CCAR)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "MOOBIFI",
+   "name": "Staked BIFI (MOOBIFI)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "COCONUT",
+   "name": "Coconut (COCONUT)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "BALL",
+   "name": "Game 5 BALL (BALL)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "JSET",
+   "name": "Jsetcoin (JSET)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "WBC",
+   "name": "WorldBrain Coin (WBC)",
+   "built_on": "ARB"
+  },
+  {
+   "symbol": "DINERO",
+   "name": "Dinero (DINERO)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "ADOG",
+   "name": "America Dog (ADOG)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "ALV1",
+   "name": "ArchLoot v1 (ALV1)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "ASTROS",
+   "name": "AstroSwap (ASTROS)"
+  },
+  {
+   "symbol": "BPUSDC",
+   "name": "Binance-Peg USD Coin (Binance Bridge) (BPUSDC)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "SIMPSO",
+   "name": "Simpson Neiro (SIMPSO)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "ARTMETIS",
+   "name": "Staked Metis Token (ARTMETIS)",
+   "built_on": "METIS"
+  },
+  {
+   "symbol": "THISISF",
+   "name": "This is Fine (THISISF)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "POOKU",
+   "name": "Pooku (POOKU)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "STKD",
+   "name": "Stkd SCRT (STKD)",
+   "built_on": "ATOM"
+  },
+  {
+   "symbol": "KAMAL",
+   "name": "Kamala Harris (KAMAL)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "BANK",
+   "name": "Float Protocol (BANK)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "ETHEREUM",
+   "name": "Solana Ethereum Meme (ETHEREUM)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "HACK",
+   "name": "HACK (HACK)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "ONCH",
+   "name": "OnchainPoints.xyz (ONCH)",
+   "built_on": "BASECHAIN"
+  },
+  {
+   "symbol": "ABUSDC",
+   "name": "USD Coin (Arbitrum Bridge) (ABUSDC)",
+   "built_on": "ARB"
+  },
+  {
+   "symbol": "BLOGGE",
+   "name": "Bloggercube (BLOGGE)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "SUB",
+   "name": "Subsocial (SUB)"
+  },
+  {
+   "symbol": "AGC",
+   "name": "Argocoin (AGC)"
+  },
+  {
+   "symbol": "BABYHARRIS",
+   "name": "Baby Harris (BABYHARRIS)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "MARU",
+   "name": "marumaruNFT (MARU)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "CATC",
+   "name": "Catcoin (CATC)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "HEALT",
+   "name": "Healthmedi (HEALT)",
+   "built_on": "MATIC"
+  },
+  {
+   "symbol": "GETH",
+   "name": "Guarded Ether (GETH)"
+  },
+  {
+   "symbol": "NOMNOM",
+   "name": "nomnom (NOMNOM)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "FISTBUMP",
+   "name": "FistBump (FISTBUMP)"
+  },
+  {
+   "symbol": "ARKYS",
+   "name": "Arky Satoshi's Dog (ARKYS)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "CATLIFE",
+   "name": "Cat Life (CATLIFE)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "PVU",
+   "name": "Plant vs Undead Token (PVU)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "STRONGSOL",
+   "name": "Stronghold Staked SOL (STRONGSOL)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "METAVE",
+   "name": "Metaverse Convergence (METAVE)",
+   "built_on": "ETH"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "CATC",
+   "name": "Catcoin (CATC)"
+  },
+  {
+   "symbol": "CCAR",
+   "name": "CryptoCars (CCAR)"
+  },
+  {
+   "symbol": "FIST",
+   "name": "FistBump (FIST)"
+  },
+  {
+   "symbol": "MARU",
+   "name": "marumaruNFT (MARU)"
+  },
+  {
+   "symbol": "PVU",
+   "name": "Plant vs Undead Token (PVU)"
+  }
+ ]
+}

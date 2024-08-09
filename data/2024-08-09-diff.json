@@ -1,0 +1,96 @@
+{
+ "added": [
+  {
+   "symbol": "CSCI",
+   "name": "COSCIENS Biopharma Inc.",
+   "exchange": "TSX",
+   "yahoo_symbol": "CSCI.TO",
+   "instruments": [
+    {
+     "name": "AEterna Zentaris Inc",
+     "symbol": "CSCI"
+    }
+   ]
+  },
+  {
+   "symbol": "RIGE",
+   "name": "Russell Investments Global Equity Pool",
+   "exchange": "TSX",
+   "yahoo_symbol": "RIGE.TO",
+   "instruments": [
+    {
+     "name": "Russ InvGl EqPl ETF",
+     "symbol": "RIGE"
+    }
+   ]
+  },
+  {
+   "symbol": "CSCI",
+   "name": "COSCIENS Biopharma Inc.  - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "CSCI"
+  },
+  {
+   "symbol": "LCDS",
+   "name": "JPMorgan Fundamental Data Science Large Core ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "LCDS"
+  },
+  {
+   "symbol": "MCDS",
+   "name": "JPMorgan Fundamental Data Science Mid Core ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "MCDS"
+  },
+  {
+   "symbol": "SCDS",
+   "name": "JPMorgan Fundamental Data Science Small Core ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "SCDS"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "TBLT",
+   "name": "ToughBuilt Industries, Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "TBLT"
+  },
+  {
+   "symbol": "AEZS",
+   "name": "AEterna Zentaris Inc.",
+   "exchange": "TSX",
+   "yahoo_symbol": "AEZS.TO",
+   "instruments": [
+    {
+     "name": "AEterna Zentaris Inc",
+     "symbol": "AEZS"
+    }
+   ]
+  },
+  {
+   "symbol": "TUP.P",
+   "name": "TUP Capital Inc.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "TUP.P.V",
+   "instruments": [
+    {
+     "name": "Tup Capital Inc.",
+     "symbol": "TUP.P"
+    }
+   ]
+  },
+  {
+   "symbol": "AEZS",
+   "name": "Aeterna Zentaris Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "AEZS"
+  },
+  {
+   "symbol": "LPTV",
+   "name": "Loop Media, Inc. Common Stock",
+   "exchange": "NYSE MKT",
+   "yahoo_symbol": "LPTV"
+  }
+ ]
+}
