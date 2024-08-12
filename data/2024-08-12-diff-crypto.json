@@ -1,0 +1,256 @@
+{
+ "added": [
+  {
+   "symbol": "HERO",
+   "name": "Metahero (HERO)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "SOLTR",
+   "name": "SolTrump (SOLTR)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "SIUU",
+   "name": "SIUUU (SIUU)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "SOLANAP",
+   "name": "Solana Poker (SOLANAP)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "DOGEZILLA",
+   "name": "DogeZilla (DOGEZILLA)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "ATROFA",
+   "name": "Atrofarm (ATROFA)",
+   "built_on": "PLS"
+  },
+  {
+   "symbol": "USDCPO",
+   "name": "USD Coin (PoS) (Portal from Polygon) (USDCPO)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "JOKERERC",
+   "name": "Joker (JOKERERC)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "TORII",
+   "name": "Torii Finance (TORII)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "USDCSO",
+   "name": "USD Coin (Portal from Solana) (USDCSO)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "NUTZ",
+   "name": "NUTZ (NUTZ)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "GODZ",
+   "name": "Cryptogodz (GODZ)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "FIST",
+   "name": "Fistbump (FIST)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "AZUKI",
+   "name": "Azuki (AZUKI)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "LUS",
+   "name": "Luna Rush (LUS)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "HVT",
+   "name": "HyperVerse (HVT)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "USDCAV",
+   "name": "USD Coin (Portal from Avalanche) (USDCAV)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "CPAN",
+   "name": "CryptoPlanes (CPAN)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "HAMSTERB",
+   "name": "HamsterBase (HAMSTERB)",
+   "built_on": "BASECHAIN"
+  },
+  {
+   "symbol": "SPG",
+   "name": "Space Crypto (SPG)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "BABL",
+   "name": "Babylon Finance (BABL)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "BANK",
+   "name": "Float Protocol (BANK)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "BPDOGE",
+   "name": "Binance-Peg DogeZilla (Binance Bridge) (BPDOGE)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "REVAL",
+   "name": "RevaLink Wallet Token (REVAL)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "TOPGP",
+   "name": "TOP G PEPE (TOPGP)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "USDCET",
+   "name": "USD Coin (Portal from Ethereum) (USDCET)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "PHRYG",
+   "name": "PHRYGES (PHRYG)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "AVXL",
+   "name": "Avaxlauncher (AVXL)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "USDCBS",
+   "name": "USD Coin (Portal from BSC) (USDCBS)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "BLOCKF",
+   "name": "Block Farm Club (BLOCKF)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "BAMITCOIN",
+   "name": "Bamit (BAMITCOIN)"
+  },
+  {
+   "symbol": "USDCEAV",
+   "name": "USD.e Coin (Portal from Avalanche) (USDCEAV)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "JOEB",
+   "name": "Joe Biden (JOEB)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "SPARTAD",
+   "name": "SpartaDex (SPARTAD)",
+   "built_on": "LINEA"
+  },
+  {
+   "symbol": "G",
+   "name": "Gravity (G)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "DARKT",
+   "name": "Dark Trump (DARKT)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "GOLD",
+   "name": "CyberDragon Gold (GOLD)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "GORGONZOLA",
+   "name": "Heroes 3 Foundation (GORGONZOLA)",
+   "built_on": "SOL"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "GODZ",
+   "name": "Cryptogodz (GODZ)"
+  },
+  {
+   "symbol": "TORII",
+   "name": "Torii Finance (TORII)"
+  },
+  {
+   "symbol": "BamitCoin",
+   "name": "BAM (BAM)"
+  },
+  {
+   "symbol": "DOGEZILLA",
+   "name": "DogeZilla (DOGEZILLA)"
+  },
+  {
+   "symbol": "SPG",
+   "name": "Space Crypto (SPG)"
+  },
+  {
+   "symbol": "HERO",
+   "name": "Metahero (HERO)"
+  },
+  {
+   "symbol": "BABL",
+   "name": "Babylon Finance (BABL)"
+  },
+  {
+   "symbol": "AZUKI",
+   "name": "Azuki (AZUKI)"
+  },
+  {
+   "symbol": "ATROFA",
+   "name": "Atrofarm (ATROFA)"
+  },
+  {
+   "symbol": "HVT",
+   "name": "HyperVerse (HVT)"
+  },
+  {
+   "symbol": "CPAN",
+   "name": "CryptoPlanes (CPAN)"
+  },
+  {
+   "symbol": "GORGONZOLA",
+   "name": "Heroes 3 Foundation (GORGONZOLA)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "LUS",
+   "name": "Luna Rush (LUS)"
+  },
+  {
+   "symbol": "AVXL",
+   "name": "Avaxlauncher (AVXL)"
+  },
+  {
+   "symbol": "GOLD",
+   "name": "CyberDragon Gold (GOLD)"
+  }
+ ]
+}
