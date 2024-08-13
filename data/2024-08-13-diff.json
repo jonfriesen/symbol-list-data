@@ -1,0 +1,92 @@
+{
+ "added": [
+  {
+   "symbol": "COPR",
+   "name": "Coppernico Metals Inc.",
+   "exchange": "TSX",
+   "yahoo_symbol": "COPR.TO",
+   "instruments": [
+    {
+     "name": "Coppernico MetalsInc",
+     "symbol": "COPR"
+    }
+   ]
+  },
+  {
+   "symbol": "AIFF",
+   "name": "Firefly Neuroscience, Inc.  - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "AIFF"
+  },
+  {
+   "symbol": "CTOR",
+   "name": "Citius Oncology, Inc.  - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "CTOR"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "TENKR",
+   "name": "TenX Keane Acquisition - Right",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "TENKR"
+  },
+  {
+   "symbol": "TENK",
+   "name": "TenX Keane Acquisition - Ordinary Share",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "TENK"
+  },
+  {
+   "symbol": "LL",
+   "name": "LL Flooring Holdings, Inc. Common Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "LL"
+  },
+  {
+   "symbol": "HEWG",
+   "name": "iShares Currency Hedged MSCI Germany ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "HEWG"
+  },
+  {
+   "symbol": "USBF",
+   "name": "iShares USD Systematic Bond ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "USBF"
+  },
+  {
+   "symbol": "PLC",
+   "name": "Park Lawn Corporation",
+   "exchange": "TSX",
+   "yahoo_symbol": "PLC.TO",
+   "instruments": [
+    {
+     "name": "Park Lawn Corp.",
+     "symbol": "PLC"
+    },
+    {
+     "name": "Park Lawn Corp. Deb",
+     "symbol": "PLC.DB"
+    },
+    {
+     "name": "Park Lawn Corp. USF",
+     "symbol": "PLC.U"
+    }
+   ]
+  },
+  {
+   "symbol": "WAVD",
+   "name": "WaveDancer, Inc.  - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "WAVD"
+  },
+  {
+   "symbol": "TENKU",
+   "name": "TenX Keane Acquisition - Unit",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "TENKU"
+  }
+ ]
+}

@@ -1,0 +1,165 @@
+{
+ "added": [
+  {
+   "symbol": "DMCK",
+   "name": "Diamond Castle (DMCK)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "PEX",
+   "name": "Pexcoin (PEX)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "STATOK",
+   "name": "STA (STATOK)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "GOMAV2",
+   "name": "GOMA Finance v2 (GOMAV2)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "GORGONZOLAV1",
+   "name": "Heroes 3 Foundation v1 (GORGONZOLAV1)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "NCN",
+   "name": "NeurochainAI (NCN)"
+  },
+  {
+   "symbol": "POOPC",
+   "name": "Poopcoin (POOPC)",
+   "built_on": "BASECHAIN"
+  },
+  {
+   "symbol": "DIK",
+   "name": "DikDok (DIK)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "GOMA",
+   "name": "GOMA Finance (GOMA)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "LTRBT",
+   "name": "Little Rabbit (LTRBT)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "BP",
+   "name": "BunnyPark (BP)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "99BTC",
+   "name": "99 Bitcoins (99BTC)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "BPMATIC",
+   "name": "Binance-Peg Polygon (Binance Bridge) (BPMATIC)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "PANDE",
+   "name": "Pande (PANDE)",
+   "built_on": "BASECHAIN"
+  },
+  {
+   "symbol": "GIMMER",
+   "name": "Gimmer (GIMMER)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "NIQAB",
+   "name": "NIQAB WORLD ORDER (NIQAB)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "METFI",
+   "name": "MetFi (METFI)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "DOGEZILLAV1",
+   "name": "DogeZilla v1 (DOGEZILLAV1)"
+  },
+  {
+   "symbol": "LTRBTV1",
+   "name": "Little Rabbit v1 (LTRBTV1)"
+  },
+  {
+   "symbol": "GOMAV1",
+   "name": "GOMA Finance v1 (GOMAV1)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "GETH",
+   "name": "Guarded Ether (GETH)"
+  },
+  {
+   "symbol": "THETAN",
+   "name": "Thetan Coin (THETAN)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "RTR",
+   "name": "Restore The Republic (RTR)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "BANK",
+   "name": "Float Protocol (BANK)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "GMR",
+   "name": "GAMER (GMR)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "MEGAX",
+   "name": "Megahex (MEGAX)",
+   "built_on": "ETH"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "PEX",
+   "name": "Pexcoin (PEX)"
+  },
+  {
+   "symbol": "LTRBT",
+   "name": "Little Rabbit (LTRBT)"
+  },
+  {
+   "symbol": "GIMMER",
+   "name": "Gimmer (GIMMER)"
+  },
+  {
+   "symbol": "GOMA",
+   "name": "GOMA Finance (GOMA)"
+  },
+  {
+   "symbol": "BP",
+   "name": "BunnyPark (BP)"
+  },
+  {
+   "symbol": "GMR",
+   "name": "GAMER (GMR)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "ZEDCOIN",
+   "name": "ZedCoin (ZEDCOIN)"
+  },
+  {
+   "symbol": "METFI",
+   "name": "MetFi (METFI)"
+  }
+ ]
+}
