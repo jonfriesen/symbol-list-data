@@ -1,0 +1,279 @@
+{
+ "added": [
+  {
+   "symbol": "INVITE",
+   "name": "INVITE Token (INVITE)",
+   "built_on": "TONCOIN"
+  },
+  {
+   "symbol": "BABYP",
+   "name": "BabyPepe (BABYP)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "SAFUU",
+   "name": "SAFUU (SAFUU)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "USD0",
+   "name": "Usual (USD0)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "TIDDIES",
+   "name": "TIDDIES (TIDDIES)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "BEMC",
+   "name": "BemChain (BEMC)",
+   "built_on": "TRX"
+  },
+  {
+   "symbol": "COMBOX",
+   "name": "ComBox (COMBOX)"
+  },
+  {
+   "symbol": "ZAZA",
+   "name": "ZAZA (ZAZA)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "PUNI",
+   "name": "Uniswap Protocol Token (Polygon Portal) (PUNI)",
+   "built_on": "MATIC"
+  },
+  {
+   "symbol": "PEPEBSC",
+   "name": "Pepe Coin (PEPEBSC)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "BEPR",
+   "name": "Blockchain Euro Project (BEPR)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "SMKNG",
+   "name": "SmonkeyKong (SMKNG)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "BENT",
+   "name": "Bent Finance (BENT)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "INSPI",
+   "name": "InspireAI (INSPI)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "CIG",
+   "name": "cig (CIG)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "BROTHER",
+   "name": "BROTHER (BROTHER)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "TOSHKIN",
+   "name": "Toshkin Coin (TOSHKIN)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "SAFEM",
+   "name": "SAFEMOON SOLANA (SAFEM)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "BPUNI",
+   "name": "Binance-Peg Uniswap Protocol Token (Binance Bridge) (BPUNI)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "CRAZYB",
+   "name": "Crazy Bunny (CRAZYB)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "GMRV1",
+   "name": "GAMER v1 (GMRV1)"
+  },
+  {
+   "symbol": "BB1",
+   "name": "Bitbond (BB1)",
+   "built_on": "XLM"
+  },
+  {
+   "symbol": "CBP",
+   "name": "CashBackPro (CBP)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "BDAY",
+   "name": "Birthday Cake (BDAY)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "CCDS",
+   "name": "CCDS INTERNATIONAL (CCDS)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "BAXS",
+   "name": "BoxAxis (BAXS)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "SOLXD",
+   "name": "Solxdex (SOLXD)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "LONGM",
+   "name": "Long Mao (LONGM)",
+   "built_on": "ZK"
+  },
+  {
+   "symbol": "BANKETH",
+   "name": "BankEth (BANKETH)"
+  },
+  {
+   "symbol": "USBT",
+   "name": "Universal Blockchain (USBT)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "BDC",
+   "name": "Based (BDC)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "MUNI",
+   "name": "Uniswap Protocol Token (Multichain) (MUNI)",
+   "built_on": "MOVR"
+  },
+  {
+   "symbol": "BCNT",
+   "name": "Bincentive (BCNT)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "PIKAM",
+   "name": "Pikamoon (PIKAM)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "RINGF",
+   "name": "Ring Financial (RINGF)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "ORDIN",
+   "name": "ORDINAL HODL MEME (ORDIN)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "GMRV2",
+   "name": "GAMER v2 (GMRV2)"
+  },
+  {
+   "symbol": "PEGA",
+   "name": "Pepe Maga (PEGA)"
+  },
+  {
+   "symbol": "CHATAI",
+   "name": "ChatAI Token (CHATAI)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "AUNI",
+   "name": "Uniswap Protocol Token (Avalanche Bride) (AUNI)",
+   "built_on": "AVAX"
+  },
+  {
+   "symbol": "BCV",
+   "name": "BitCapitalVendor (BCV)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "BED",
+   "name": "Bankless BED Index (BED)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "WALL",
+   "name": "Du Rove's Wall (WALL)",
+   "built_on": "TONCOIN"
+  },
+  {
+   "symbol": "GIMMERV1",
+   "name": "Gimmer v1 (GIMMERV1)"
+  },
+  {
+   "symbol": "G",
+   "name": "Gravity (G)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "GEMI",
+   "name": "Gemini Inu (GEMI)",
+   "built_on": "SOL"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "BENT",
+   "name": "Bent Finance (BENT)"
+  },
+  {
+   "symbol": "SAFUU",
+   "name": "SAFUU (SAFUU)"
+  },
+  {
+   "symbol": "CBP",
+   "name": "ComBox (CBP)"
+  },
+  {
+   "symbol": "BCV",
+   "name": "BitCapitalVendor (BCV)"
+  },
+  {
+   "symbol": "BCNT",
+   "name": "Bincentive (BCNT)"
+  },
+  {
+   "symbol": "BED",
+   "name": "Bankless BED Index (BED)"
+  },
+  {
+   "symbol": "BDAY",
+   "name": "Birthday Cake (BDAY)"
+  },
+  {
+   "symbol": "BB1",
+   "name": "Bitbond (BB1)"
+  },
+  {
+   "symbol": "BDC",
+   "name": "Based (BDC)"
+  },
+  {
+   "symbol": "BAXS",
+   "name": "BoxAxis (BAXS)"
+  },
+  {
+   "symbol": "BEPR",
+   "name": "Blockchain Euro Project (BEPR)"
+  },
+  {
+   "symbol": "PEGA",
+   "name": "Pepe Maga (PEGA)",
+   "built_on": "ETH"
+  }
+ ]
+}

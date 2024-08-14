@@ -1,0 +1,90 @@
+{
+ "added": [
+  {
+   "symbol": "ACTU",
+   "name": "Actuate Therapeutics, Inc. - Common stock",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "ACTU"
+  },
+  {
+   "symbol": "ALVR",
+   "name": "AlloVir, Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "ALVR"
+  },
+  {
+   "symbol": "BSLK",
+   "name": "Bolt Projects Holdings, Inc. - Common Stock",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "BSLK"
+  },
+  {
+   "symbol": "BSLKW",
+   "name": "Bolt Projects Holdings, Inc. - Warrant",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "BSLKW"
+  },
+  {
+   "symbol": "CEP",
+   "name": "Cantor Equity Partners, Inc. - Class A ordinary shares",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "CEP"
+  },
+  {
+   "symbol": "QTUM",
+   "name": "Defiance Quantum ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "QTUM"
+  },
+  {
+   "symbol": "SIXG",
+   "name": "Defiance Connective Technologies ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "SIXG"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "TRONW",
+   "name": "Corner Growth Acquisition Corp. 2 - Warrants",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "TRONW"
+  },
+  {
+   "symbol": "GAMCU",
+   "name": "Golden Arrow Merger Corp. - Unit",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "GAMCU"
+  },
+  {
+   "symbol": "ALVR",
+   "name": "AlloVir, Inc. - Common Stock",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "ALVR"
+  },
+  {
+   "symbol": "TRONU",
+   "name": "Corner Growth Acquisition Corp. 2 - Units",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "TRONU"
+  },
+  {
+   "symbol": "TRON",
+   "name": "Corner Growth Acquisition Corp. 2 - Class A Ordinary Share",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "TRON"
+  },
+  {
+   "symbol": "GAMCW",
+   "name": "Golden Arrow Merger Corp. - Warrant",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "GAMCW"
+  },
+  {
+   "symbol": "GAMC",
+   "name": "Golden Arrow Merger Corp. - Class A Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "GAMC"
+  }
+ ]
+}
