@@ -1,0 +1,66 @@
+{
+ "added": [
+  {
+   "symbol": "ICCB",
+   "name": "Invesco Canadian Core Plus Bond ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "ICCB.TO",
+   "instruments": [
+    {
+     "name": "InvCad CrePl BndETF ",
+     "symbol": "ICCB"
+    }
+   ]
+  },
+  {
+   "symbol": "ICGB",
+   "name": "Invesco Global Bond ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "ICGB.TO",
+   "instruments": [
+    {
+     "name": "Inv Global Bond ETF",
+     "symbol": "ICGB"
+    }
+   ]
+  },
+  {
+   "symbol": "QQCI",
+   "name": "Invesco NASDAQ 100 Income Advantage ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "QQCI.TO",
+   "instruments": [
+    {
+     "name": "INV NDQ100 IncAdvETF",
+     "symbol": "QQCI"
+    }
+   ]
+  },
+  {
+   "symbol": "EQLI",
+   "name": "Invesco S\u0026P 500 Equal Weight Income Advantage ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "EQLI.TO",
+   "instruments": [
+    {
+     "name": "IvSP500 EqWInc AdETF",
+     "symbol": "EQLI"
+    }
+   ]
+  },
+  {
+   "symbol": "QNTM",
+   "name": "Quantum Biopharma Ltd. - Class B Subordinate Voting Shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "QNTM"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "HUGE",
+   "name": "FSD Pharma Inc. - Class B Subordinate Voting Shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "HUGE"
+  }
+ ]
+}

@@ -1,0 +1,109 @@
+{
+ "added": [
+  {
+   "symbol": "SOLAREU",
+   "name": "Solareum (SOLAREU)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "FREET",
+   "name": "FreeTrump (FREET)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "DER",
+   "name": "Deri Trade (DER)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "PEGA",
+   "name": "PEGA (PEGA)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "AQUAGOATV1",
+   "name": "Aqua Goat v1 (AQUAGOATV1)"
+  },
+  {
+   "symbol": "GLO",
+   "name": "Global Innovation Platform (GLO)"
+  },
+  {
+   "symbol": "BLUEG",
+   "name": "Blue Guy (BLUEG)",
+   "built_on": "BASECHAIN"
+  },
+  {
+   "symbol": "PEGAMAGA",
+   "name": "Pepe Maga (PEGAMAGA)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "SAIY",
+   "name": "Saiyan PEPE (SAIY)",
+   "built_on": "MATIC"
+  },
+  {
+   "symbol": "CGAR",
+   "name": "CryptoGuards (CGAR)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "CLOW",
+   "name": "Clown Pepe (CLOW)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "ARC",
+   "name": "Neko Arc (ARC)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "BOGD",
+   "name": "Bogdanoff (BOGD)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "BANK",
+   "name": "Float Protocol (BANK)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "GETH",
+   "name": "Guarded Ether (GETH)"
+  },
+  {
+   "symbol": "ARCADECITY",
+   "name": "Arcade City (ARCADECITY)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "ABUNI",
+   "name": "Uniswap Protocol Token (Arbitrum Bridge) (ABUNI)",
+   "built_on": "ARB"
+  },
+  {
+   "symbol": "ARCTICCOIN",
+   "name": "ArcticCoin (ARCTICCOIN)"
+  },
+  {
+   "symbol": "TIGER",
+   "name": "JungleKing TigerCoin (TIGER)",
+   "built_on": "ETH"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "PEGA",
+   "name": "Pepe Maga (PEGA)"
+  },
+  {
+   "symbol": "ARC",
+   "name": "ArcticCoin (ARC)"
+  },
+  {
+   "symbol": "TIGER",
+   "name": "JungleKing TigerCoin (TIGER)"
+  }
+ ]
+}
