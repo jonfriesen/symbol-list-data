@@ -1,0 +1,162 @@
+{
+ "added": [
+  {
+   "symbol": "FSHP",
+   "name": "Flag Ship Acquisition Corp. - Ordinary Shares",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "FSHP"
+  },
+  {
+   "symbol": "FSHPR",
+   "name": "Flag Ship Acquisition Corp. - Right",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "FSHPR"
+  },
+  {
+   "symbol": "JTAI",
+   "name": "Jet.AI Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "JTAI"
+  },
+  {
+   "symbol": "JTAIZ",
+   "name": "Jet.AI Inc. - Merger Consideration Warrants",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "JTAIZ"
+  },
+  {
+   "symbol": "MSTX",
+   "name": "Defiance Daily Target 1.75x Long MSTR ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "MSTX"
+  },
+  {
+   "symbol": "TSPY",
+   "name": "TappAlpha SPY Growth \u0026 Daily Income ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "TSPY"
+  },
+  {
+   "symbol": "VLYPN",
+   "name": "Valley National Bancorp - 8.250% Fixed-Rate Reset Non-Cumulative Perpetual Preferred Stock, Series C",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "VLYPN"
+  },
+  {
+   "symbol": "YQQQ",
+   "name": "YieldMax Short N100 Option Income Strategy ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "YQQQ"
+  },
+  {
+   "symbol": "GRAF",
+   "name": "Graf Global Corp. Class A ordinary shares",
+   "exchange": "NYSE MKT",
+   "yahoo_symbol": "GRAF"
+  },
+  {
+   "symbol": "GRAF.W",
+   "name": "Graf Global Corp. Warrants, each whole warrant exercisable for one Class A ordinary share at an exercise price of $11.50 per share",
+   "exchange": "NYSE MKT",
+   "yahoo_symbol": "GRAF.W"
+  },
+  {
+   "symbol": "SBXD.U",
+   "name": "SilverBox Corp IV Units, each consisting of one Class A ordinary share and one-third of one redeemable warrant",
+   "exchange": "NYSE",
+   "yahoo_symbol": "SBXD.U"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "JTAI",
+   "name": "Jet.AI Inc. - Common Stock",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "JTAI"
+  },
+  {
+   "symbol": "MACA",
+   "name": "Moringa Acquisition Corp - Class A Ordinary Shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "MACA"
+  },
+  {
+   "symbol": "VGCX",
+   "name": "Victoria Gold Corp.",
+   "exchange": "TSX",
+   "yahoo_symbol": "VGCX.TO",
+   "instruments": [
+    {
+     "name": "Victoria Gld Corp J",
+     "symbol": "VGCX"
+    }
+   ]
+  },
+  {
+   "symbol": "CIQ.UN",
+   "name": "Canadian High Income Equity Fund",
+   "exchange": "TSX",
+   "yahoo_symbol": "CIQ.UN.TO",
+   "instruments": [
+    {
+     "name": "Cdn High Incm Eq Un",
+     "symbol": "CIQ.UN"
+    }
+   ]
+  },
+  {
+   "symbol": "SPWR",
+   "name": "SunPower Corporation - Common Stock",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "SPWR"
+  },
+  {
+   "symbol": "GRIN",
+   "name": "Grindrod Shipping Holdings Ltd. - Ordinary Shares",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "GRIN"
+  },
+  {
+   "symbol": "AACI",
+   "name": "Armada Acquisition Corp. I - Common Stock",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "AACI"
+  },
+  {
+   "symbol": "AACIU",
+   "name": "Armada Acquisition Corp. I - Unit",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "AACIU"
+  },
+  {
+   "symbol": "MACAU",
+   "name": "Moringa Acquisition Corp - Units",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "MACAU"
+  },
+  {
+   "symbol": "MACAW",
+   "name": "Moringa Acquisition Corp - Warrant",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "MACAW"
+  },
+  {
+   "symbol": "JTAIZ",
+   "name": "Jet.AI Inc. - Merger Consideration Warrants",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "JTAIZ"
+  },
+  {
+   "symbol": "AACIW",
+   "name": "Armada Acquisition Corp. I - Warrant",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "AACIW"
+  },
+  {
+   "symbol": "CAUD",
+   "name": "Collective Audience, Inc. - Common Stock",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "CAUD"
+  }
+ ]
+}

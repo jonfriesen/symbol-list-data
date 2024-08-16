@@ -1,0 +1,70 @@
+{
+ "added": [
+  {
+   "symbol": "GUA",
+   "name": "GUA (GUA)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "OWO",
+   "name": "SoMon (OWO)",
+   "built_on": "BASECHAIN"
+  },
+  {
+   "symbol": "WUKONG",
+   "name": "Black Myth WuKong (WUKONG)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "RAINCO",
+   "name": "Rain Coin (RAINCO)",
+   "built_on": "MATIC"
+  },
+  {
+   "symbol": "BURN",
+   "name": "BurnedFi (BURN)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "GONG",
+   "name": "GONG (GONG)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "ZYGO",
+   "name": "Zygo the frog (ZYGO)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "HEM",
+   "name": "Hemera (HEM)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "CODE",
+   "name": "Code Token (CODE)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "G",
+   "name": "Gravity (G)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "BATO",
+   "name": "Batonex Token (BATO)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "BANKETH",
+   "name": "BankEth (BANKETH)"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "BURN",
+   "name": "BurnedFi (BURN)",
+   "built_on": "ETH"
+  }
+ ]
+}
