@@ -1,0 +1,144 @@
+{
+ "added": [
+  {
+   "symbol": "CLCO",
+   "name": "Culico Metals Inc.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "CLCO.V",
+   "instruments": [
+    {
+     "name": "Culico Metals Inc.",
+     "symbol": "CLCO"
+    }
+   ]
+  },
+  {
+   "symbol": "HOH",
+   "name": "High Arctic Overseas Holdings Corp.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "HOH.V",
+   "instruments": [
+    {
+     "name": "High Arctic Overseas Holdings Corp.",
+     "symbol": "HOH"
+    }
+   ]
+  },
+  {
+   "symbol": "CORE",
+   "name": "PIMCO Canadian Core Bond Fund",
+   "exchange": "TSX",
+   "yahoo_symbol": "CORE.TO",
+   "instruments": [
+    {
+     "name": "Pimco CdCr BndFndETF",
+     "symbol": "CORE"
+    }
+   ]
+  },
+  {
+   "symbol": "HONDU",
+   "name": "HCM II Acquisition Corp. - Unit",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "HONDU"
+  },
+  {
+   "symbol": "ONMD",
+   "name": "OneMedNet Corp - Class A Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "ONMD"
+  },
+  {
+   "symbol": "RZLV",
+   "name": "Rezolve AI Limited - Ordinary Shares",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "RZLV"
+  },
+  {
+   "symbol": "RZLVW",
+   "name": "Rezolve AI Limited - Warrants",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "RZLVW"
+  },
+  {
+   "symbol": "SLXN",
+   "name": "Biomotion Sciences - Ordinary Shares",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "SLXN"
+  },
+  {
+   "symbol": "SLXNW",
+   "name": "Biomotion Sciences - Warrant",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "SLXNW"
+  },
+  {
+   "symbol": "YXT",
+   "name": "YXT.COM GROUP HOLDING LIMITED - American Depository Shares",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "YXT"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "KCGI",
+   "name": "Kensington Capital Acquisition Corp. V Class A Ordinary Shares",
+   "exchange": "NYSE",
+   "yahoo_symbol": "KCGI"
+  },
+  {
+   "symbol": "KCGI.W",
+   "name": "Kensington Capital Acquisition Corp. V Redeemable warrants, each whole warrant exercisable for one Class A ordinary share at an exercise price of $11.50",
+   "exchange": "NYSE",
+   "yahoo_symbol": "KCGI.W"
+  },
+  {
+   "symbol": "ONMD",
+   "name": "OneMedNet Corp - Class A Common Stock",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "ONMD"
+  },
+  {
+   "symbol": "GROM",
+   "name": "Grom Social Enterprises Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "GROM"
+  },
+  {
+   "symbol": "MORF",
+   "name": "Morphic Holding, Inc. - Common Stock",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "MORF"
+  },
+  {
+   "symbol": "GROMW",
+   "name": "Grom Social Enterprises Inc. - Warrants",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "GROMW"
+  },
+  {
+   "symbol": "CPB",
+   "name": "Campbell Soup Company Common Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "CPB"
+  },
+  {
+   "symbol": "BP",
+   "name": "Backstageplay Inc.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "BP.V",
+   "instruments": [
+    {
+     "name": "Backstageplay Inc.",
+     "symbol": "BP"
+    }
+   ]
+  },
+  {
+   "symbol": "KCGI.U",
+   "name": "Kensington Capital Acquisition Corp. V Units, each consisting of one Class A ordinary share and three-fourths of one redeemable warrant",
+   "exchange": "NYSE",
+   "yahoo_symbol": "KCGI.U"
+  }
+ ]
+}

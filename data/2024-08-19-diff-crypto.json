@@ -1,0 +1,154 @@
+{
+ "added": [
+  {
+   "symbol": "EGL",
+   "name": "The Eagle Of Truth (EGL)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "BLZD",
+   "name": "Blizzard.money (BLZD)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "BABYME",
+   "name": "Baby Meme Coin (BABYME)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "KOLT",
+   "name": "Kolt (KOLT)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "EURR",
+   "name": "StablR Euro (EURR)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "BME",
+   "name": "BitcoMine (BME)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "ETHEREM",
+   "name": "Etherempires (ETHEREM)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "COINM",
+   "name": "CoinMarketPrime (COINM)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "SUNDOG",
+   "name": "SUNDOG (SUNDOG)",
+   "built_on": "TRX"
+  },
+  {
+   "symbol": "FTTT",
+   "name": "FTT Token (FTTT)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "FNS",
+   "name": "FAUNUS (FNS)",
+   "built_on": "MATIC"
+  },
+  {
+   "symbol": "BANK",
+   "name": "Float Protocol (BANK)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "COLON",
+   "name": "Colon (COLON)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "VENTU",
+   "name": "Venture Coin (VENTU)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "AGETH",
+   "name": "Kelp Gain (AGETH)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "BLS",
+   "name": "Blocks Space (BLS)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "SHITC",
+   "name": "Shitcoin (SHITC)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "GOU",
+   "name": "Gou (GOU)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "MAOW",
+   "name": "MAOW (MAOW)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "TRXV1",
+   "name": "TRON V1 (TRXV1)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "GETH",
+   "name": "Guarded Ether (GETH)"
+  },
+  {
+   "symbol": "SATO",
+   "name": "Atsuko Sato (SATO)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "DLCBTC",
+   "name": "DLC.Link (DLCBTC)",
+   "built_on": "ARB"
+  },
+  {
+   "symbol": "BOJI",
+   "name": "BOJI Token (BOJI)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "BLWA",
+   "name": "BlockWarrior (BLWA)",
+   "built_on": "BNB"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "BOJI",
+   "name": "BOJI Token (BOJI)"
+  },
+  {
+   "symbol": "BLWA",
+   "name": "BlockWarrior (BLWA)"
+  },
+  {
+   "symbol": "TRXV1",
+   "name": "TRON V1 (TRXV1)"
+  },
+  {
+   "symbol": "BLS",
+   "name": "Blocks Space (BLS)"
+  },
+  {
+   "symbol": "BLZD",
+   "name": "Blizzard.money (BLZD)"
+  },
+  {
+   "symbol": "BME",
+   "name": "BitcoMine (BME)"
+  }
+ ]
+}
