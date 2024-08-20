@@ -1,0 +1,156 @@
+{
+ "added": [
+  {
+   "symbol": "MFL",
+   "name": "Mawson Finland LImited",
+   "exchange": "TSXV",
+   "yahoo_symbol": "MFL.V",
+   "instruments": [
+    {
+     "name": "Mawson Finland Limited",
+     "symbol": "MFL"
+    }
+   ]
+  },
+  {
+   "symbol": "BHAC",
+   "name": "Focus Impact BH3 Acquisition Company - Class A Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "BHAC"
+  },
+  {
+   "symbol": "BHACU",
+   "name": "Focus Impact BH3 Acquisition Company - Units",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "BHACU"
+  },
+  {
+   "symbol": "BHACW",
+   "name": "Focus Impact BH3 Acquisition Company - Warrants",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "BHACW"
+  },
+  {
+   "symbol": "CPB",
+   "name": "Campbell Soup Company - Common Stock",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "CPB"
+  },
+  {
+   "symbol": "MARX",
+   "name": "Mars Acquisition Corp. - Ordinary Shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "MARX"
+  },
+  {
+   "symbol": "MARXR",
+   "name": "Mars Acquisition Corp. - Rights",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "MARXR"
+  },
+  {
+   "symbol": "MARXU",
+   "name": "Mars Acquisition Corp. - Unit",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "MARXU"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "BHACU",
+   "name": "Focus Impact BH3 Acquisition Company - Units",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "BHACU"
+  },
+  {
+   "symbol": "FEXDW",
+   "name": "Fintech Ecosystem Development Corp. - Warrant",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "FEXDW"
+  },
+  {
+   "symbol": "FEXDU",
+   "name": "Fintech Ecosystem Development Corp. - Units",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "FEXDU"
+  },
+  {
+   "symbol": "CVIIU",
+   "name": "Churchill Capital Corp VII - Unit",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "CVIIU"
+  },
+  {
+   "symbol": "FEXD",
+   "name": "Fintech Ecosystem Development Corp. - Class A Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "FEXD"
+  },
+  {
+   "symbol": "BHACW",
+   "name": "Focus Impact BH3 Acquisition Company - Warrants",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "BHACW"
+  },
+  {
+   "symbol": "MARXR",
+   "name": "Mars Acquisition Corp. - Rights",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "MARXR"
+  },
+  {
+   "symbol": "MARX",
+   "name": "Mars Acquisition Corp. - Ordinary Shares",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "MARX"
+  },
+  {
+   "symbol": "CVIIW",
+   "name": "Churchill Capital Corp VII - Warrant",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "CVIIW"
+  },
+  {
+   "symbol": "OPGN",
+   "name": "OpGen, Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "OPGN"
+  },
+  {
+   "symbol": "UGE",
+   "name": "UGE International Ltd.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "UGE.V",
+   "instruments": [
+    {
+     "name": "UGE International Ltd.",
+     "symbol": "UGE"
+    }
+   ]
+  },
+  {
+   "symbol": "MARXU",
+   "name": "Mars Acquisition Corp. - Unit",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "MARXU"
+  },
+  {
+   "symbol": "FEXDR",
+   "name": "Fintech Ecosystem Development Corp. - Right",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "FEXDR"
+  },
+  {
+   "symbol": "CVII",
+   "name": "Churchill Capital Corp VII - Class A Common Stock",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "CVII"
+  },
+  {
+   "symbol": "BHAC",
+   "name": "Focus Impact BH3 Acquisition Company - Class A Common Stock",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "BHAC"
+  }
+ ]
+}
