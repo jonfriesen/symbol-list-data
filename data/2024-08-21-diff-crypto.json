@@ -1,0 +1,133 @@
+{
+ "added": [
+  {
+   "symbol": "ORA",
+   "name": "Oracolxor (ORA)"
+  },
+  {
+   "symbol": "ZOOC",
+   "name": "ZOO Crypto World (ZOOC)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "ZEDCOIN",
+   "name": "ZedCoin (ZEDCOIN)"
+  },
+  {
+   "symbol": "BPDAI",
+   "name": "Binance-Peg Dai (Binance Bridge) (BPDAI)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "BPLTC",
+   "name": "Binance-Peg Litecoin (BPLTC)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "FREEDOM",
+   "name": "Freedom Protocol Token (FREEDOM)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "UNDE",
+   "name": "Undead Finance (UNDE)",
+   "built_on": "FTM"
+  },
+  {
+   "symbol": "OCPR",
+   "name": "OC Protocol (OCPR)"
+  },
+  {
+   "symbol": "METAD",
+   "name": "MetaDoge (METAD)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "NIFTY",
+   "name": "Nifty Wizards Dust (NIFTY)",
+   "built_on": "WAXP"
+  },
+  {
+   "symbol": "BPBTT",
+   "name": "Binance-Peg BitTorrent (BPBTT)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "QTCC",
+   "name": "Quick Transfer coin (QTCC)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "ENOKIFIN",
+   "name": "Enoki Finance (ENOKIFIN)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "EUD",
+   "name": "Eurodom (EUD)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "ECXX",
+   "name": "ECXX (ECXX)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "PDAI",
+   "name": "Dai (Polygon Portal) (PDAI)",
+   "built_on": "MATIC"
+  },
+  {
+   "symbol": "STAB",
+   "name": "STABLE ASSET (STAB)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "MCDAI",
+   "name": "Dai (Multichain) (MCDAI)",
+   "built_on": "FTM"
+  },
+  {
+   "symbol": "BANK",
+   "name": "Float Protocol (BANK)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "WALE",
+   "name": "Waletoken (WALE)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "ABUL",
+   "name": "Abulaba (ABUL)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "JBO",
+   "name": "JBOX (JBO)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "G",
+   "name": "Gravity (G)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "METACA",
+   "name": "MetaCash (METACA)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "CRYPTER",
+   "name": "Crypteriumcoin (CRYPTER)",
+   "built_on": "BNB"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "SPORE",
+   "name": "Enoki Finance (SPORE)",
+   "built_on": "ETH"
+  }
+ ]
+}
