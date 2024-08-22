@@ -1,0 +1,112 @@
+{
+ "added": [
+  {
+   "symbol": "CBDAI",
+   "name": "Dai (Cronos Bridge) (CBDAI)",
+   "built_on": "CRO"
+  },
+  {
+   "symbol": "BMWUKONG",
+   "name": "Black Myth WuKong (BMWUKONG)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "ORKL",
+   "name": "Orakler (ORKL)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "ANDYSOL",
+   "name": "Andy on SOL (ANDYSOL)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "DRIP",
+   "name": "Drip Network (DRIP)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "TIEDAN",
+   "name": "TieDan (TIEDAN)",
+   "built_on": "TRX"
+  },
+  {
+   "symbol": "AURORA",
+   "name": "Aurora (AURORA)"
+  },
+  {
+   "symbol": "WUKONG",
+   "name": "Sun Wukong (WUKONG)",
+   "built_on": "TRX"
+  },
+  {
+   "symbol": "ODAI",
+   "name": "Dai (Optimism Bridge) (ODAI)",
+   "built_on": "OP"
+  },
+  {
+   "symbol": "ASS",
+   "name": "Australian Safe Shepherd (ASS)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "GETH",
+   "name": "Guarded Ether (GETH)"
+  },
+  {
+   "symbol": "SPORE",
+   "name": "Spore (SPORE)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "SNAKE",
+   "name": "snake (SNAKE)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "MCDAI",
+   "name": "Dai (Multichain) (MCDAI)",
+   "built_on": "FSN"
+  },
+  {
+   "symbol": "ABDAI",
+   "name": "Dai (Avalanche Bride) (ABDAI)",
+   "built_on": "AVAX"
+  },
+  {
+   "symbol": "BANK",
+   "name": "Float Protocol (BANK)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "XNET",
+   "name": "XNET Mobile (XNET)",
+   "built_on": "SOL"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "AURORA",
+   "name": "Aurora (AURORA)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "WUKONG",
+   "name": "Black Myth WuKong (WUKONG)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "MCDAI",
+   "name": "Dai (Multichain) (MCDAI)",
+   "built_on": "FTM"
+  },
+  {
+   "symbol": "ASS",
+   "name": "Australian Safe Shepherd (ASS)"
+  },
+  {
+   "symbol": "DRIP",
+   "name": "Drip Network (DRIP)"
+  }
+ ]
+}

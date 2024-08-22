@@ -1,0 +1,78 @@
+{
+ "added": [
+  {
+   "symbol": "SMST",
+   "name": "Defiance Daily Target 1.5x Short MSTR ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "SMST"
+  },
+  {
+   "symbol": "CIMO",
+   "name": "Chimera Investment Corporation 9.250% Senior Notes due 2029",
+   "exchange": "NYSE",
+   "yahoo_symbol": "CIMO"
+  },
+  {
+   "symbol": "GAP",
+   "name": "Gap, Inc. (The) Common Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "GAP"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "FANS",
+   "name": "FansUnite Entertainment Inc.",
+   "exchange": "TSX",
+   "yahoo_symbol": "FANS.TO",
+   "instruments": [
+    {
+     "name": "FansUnite Entrtnmt J",
+     "symbol": "FANS"
+    }
+   ]
+  },
+  {
+   "symbol": "GPS",
+   "name": "Gap, Inc. (The) Common Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "GPS"
+  },
+  {
+   "symbol": "LLAP.W",
+   "name": "Terran Orbital Corporation Redeemable Warrants, each whole warrant exercisable for one share of Common Stock at an exercise price of $11.50",
+   "exchange": "NYSE",
+   "yahoo_symbol": "LLAP.W"
+  },
+  {
+   "symbol": "TBR",
+   "name": "Timberline Resources Corporation",
+   "exchange": "TSXV",
+   "yahoo_symbol": "TBR.V",
+   "instruments": [
+    {
+     "name": "Timberline Resources Corporation",
+     "symbol": "TBR"
+    }
+   ]
+  },
+  {
+   "symbol": "ATRI",
+   "name": "Atrion Corporation - Common Stock",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "ATRI"
+  },
+  {
+   "symbol": "ASXC",
+   "name": "Asensus Surgical, Inc. Common Stock",
+   "exchange": "NYSE MKT",
+   "yahoo_symbol": "ASXC"
+  },
+  {
+   "symbol": "BIMI",
+   "name": "BIMI International Medical Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "BIMI"
+  }
+ ]
+}
