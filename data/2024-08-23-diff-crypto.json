@@ -1,0 +1,304 @@
+{
+ "added": [
+  {
+   "symbol": "4WIN",
+   "name": "4TRUMP (4WIN)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "PAN",
+   "name": "Pankito (PAN)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "RBUNNY",
+   "name": "Rocket Bunny (RBUNNY)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "CHEESE",
+   "name": "Cheese (CHEESE)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "O1INCH",
+   "name": "1inch (Optimism Bridge) (O1INCH)",
+   "built_on": "OP"
+  },
+  {
+   "symbol": "OB1INCH",
+   "name": "1inch (OmniBridge) (OB1INCH)",
+   "built_on": "XDAI"
+  },
+  {
+   "symbol": "BINANCEDOG",
+   "name": "Binancedog (BINANCEDOG)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "BONESCOIN",
+   "name": "BonesCoin (BONESCOIN)"
+  },
+  {
+   "symbol": "PINK",
+   "name": "PINK - The Panther (PINK)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "BLASTUP",
+   "name": "BlastUP (BLASTUP)",
+   "built_on": "BLAST"
+  },
+  {
+   "symbol": "SOLBO",
+   "name": "SolBoss (SOLBO)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "POE",
+   "name": "Portal Network (POE)",
+   "built_on": "TONCOIN"
+  },
+  {
+   "symbol": "BUNNY",
+   "name": "Pancake Bunny (BUNNY)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "DDMT",
+   "name": "Dongdaemun Token (DDMT)",
+   "built_on": "MATIC"
+  },
+  {
+   "symbol": "FUKU",
+   "name": "FUKU-KUN (FUKU)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "MUNSUN",
+   "name": "MUNSUN (MUNSUN)",
+   "built_on": "TRX"
+  },
+  {
+   "symbol": "BONES",
+   "name": "Moonshots Farm (BONES)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "PIGEONC",
+   "name": "Pigeoncoin (PIGEONC)"
+  },
+  {
+   "symbol": "FURUKURU",
+   "name": "Furukuru (FURUKURU)",
+   "built_on": "AVAX"
+  },
+  {
+   "symbol": "GETH",
+   "name": "Guarded Ether (GETH)"
+  },
+  {
+   "symbol": "BILLYBSC",
+   "name": "BILLY (BILLYBSC)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "VATO",
+   "name": "vanitis (VATO)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "PANTOS",
+   "name": "Pantos (PANTOS)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "A1INCH",
+   "name": "1inch (Arbitrum Bridge) (A1INCH)",
+   "built_on": "ARB"
+  },
+  {
+   "symbol": "SUNJAK",
+   "name": "Sunjak (SUNJAK)",
+   "built_on": "TRX"
+  },
+  {
+   "symbol": "SWIF",
+   "name": "SUNwifHat (SWIF)",
+   "built_on": "TRX"
+  },
+  {
+   "symbol": "TIGER",
+   "name": "TIGER (TIGER)",
+   "built_on": "TONCOIN"
+  },
+  {
+   "symbol": "TRONP",
+   "name": "Donald Tronp (TRONP)",
+   "built_on": "TRX"
+  },
+  {
+   "symbol": "NEBNB",
+   "name": "Neuro BNB (NEBNB)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "BONESV1",
+   "name": "Squirrel Finance (BONESV1)"
+  },
+  {
+   "symbol": "CHEESECOIN",
+   "name": "Cheesecoin (CHEESECOIN)"
+  },
+  {
+   "symbol": "POPE",
+   "name": "PopPepe (POPE)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "SCT",
+   "name": "SuperCells (SCT)",
+   "built_on": "ARB"
+  },
+  {
+   "symbol": "SUNLION",
+   "name": "SUNLION (SUNLION)",
+   "built_on": "TRX"
+  },
+  {
+   "symbol": "WDAI",
+   "name": "Dai (Wormhole) (WDAI)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "TROGE",
+   "name": "Troge (TROGE)",
+   "built_on": "TRX"
+  },
+  {
+   "symbol": "PGN",
+   "name": "Paragon (PGN)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "DEPA",
+   "name": "Department Of Government Efficiency (DEPA)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "SUNWUKONG",
+   "name": "SunWukong (SUNWUKONG)",
+   "built_on": "TRX"
+  },
+  {
+   "symbol": "QUBY",
+   "name": "Quby (QUBY)",
+   "built_on": "TRX"
+  },
+  {
+   "symbol": "BANKETH",
+   "name": "BankEth (BANKETH)"
+  },
+  {
+   "symbol": "SCRYPTTOKEN",
+   "name": "ScryptToken (SCRYPTTOKEN)"
+  },
+  {
+   "symbol": "E1INCH",
+   "name": "1inch (Energi Bridge) (E1INCH)",
+   "built_on": "NRG"
+  },
+  {
+   "symbol": "POET",
+   "name": "Po.et (POET)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "JUNGLEKING",
+   "name": "JungleKing TigerCoin (JUNGLEKING)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "EBULL",
+   "name": "ETHEREUM IS GOOD (EBULL)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "POPECOIN",
+   "name": "Popecoin (POPECOIN)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "PINKCOIN",
+   "name": "PinkCoin (PINKCOIN)"
+  },
+  {
+   "symbol": "AB1INCH",
+   "name": "1inch (Avalanche Bride) (AB1INCH)",
+   "built_on": "AVAX"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "FUKU",
+   "name": "Furukuru (FUKU)"
+  },
+  {
+   "symbol": "PGN",
+   "name": "Pigeoncoin (PGN)"
+  },
+  {
+   "symbol": "PAN",
+   "name": "Pantos (PAN)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "RBUNNY",
+   "name": "Rocket Bunny (RBUNNY)"
+  },
+  {
+   "symbol": "ZEDCOIN",
+   "name": "ZedCoin (ZEDCOIN)"
+  },
+  {
+   "symbol": "PINK",
+   "name": "PinkCoin (PINK)"
+  },
+  {
+   "symbol": "NUTS",
+   "name": "Squirrel Finance (NUTS)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "CHEESE",
+   "name": "Cheesecoin (CHEESE)"
+  },
+  {
+   "symbol": "BUNNY",
+   "name": "Pancake Bunny (BUNNY)"
+  },
+  {
+   "symbol": "SCT",
+   "name": "ScryptToken (SCT)"
+  },
+  {
+   "symbol": "TIGER",
+   "name": "JungleKing TigerCoin (TIGER)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "POE",
+   "name": "Po.et (POE)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "POPE",
+   "name": "Popecoin (POPE)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "BONES",
+   "name": "BonesCoin (BONES)"
+  }
+ ]
+}

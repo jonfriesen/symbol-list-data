@@ -1,0 +1,48 @@
+{
+ "added": [
+  {
+   "symbol": "AVGX",
+   "name": "Defiance Daily Target 2X Long AVGO ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "AVGX"
+  },
+  {
+   "symbol": "SMCX",
+   "name": "Defiance Daily Target 2X Long SMCI ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "SMCX"
+  },
+  {
+   "symbol": "GPUS",
+   "name": "Alset AI Ventures Inc.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "GPUS.V",
+   "instruments": [
+    {
+     "name": "Alset AI Ventures Inc.",
+     "symbol": "GPUS"
+    }
+   ]
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "ALLG",
+   "name": "Allego N.V. Ordinary Share",
+   "exchange": "NYSE",
+   "yahoo_symbol": "ALLG"
+  },
+  {
+   "symbol": "KSUM",
+   "name": "Alset Capital Inc.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "KSUM.V",
+   "instruments": [
+    {
+     "name": "Alset Capital Inc.",
+     "symbol": "KSUM"
+    }
+   ]
+  }
+ ]
+}
