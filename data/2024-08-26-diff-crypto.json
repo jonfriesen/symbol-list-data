@@ -1,0 +1,222 @@
+{
+ "added": [
+  {
+   "symbol": "MFTM",
+   "name": "Fantom (Multichain) (MFTM)",
+   "built_on": "CELO"
+  },
+  {
+   "symbol": "REBD",
+   "name": "REBORN (REBD)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "AXON",
+   "name": "AxonDAO Governance Token (AXON)",
+   "built_on": "BASECHAIN"
+  },
+  {
+   "symbol": "KONET",
+   "name": "KONET (KONET)"
+  },
+  {
+   "symbol": "BUFFI",
+   "name": "Bufficorn (BUFFI)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "RBUNNY",
+   "name": "Rocket Bunny (RBUNNY)"
+  },
+  {
+   "symbol": "DUROV",
+   "name": "FREE DUROV (DUROV)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "ABCRV",
+   "name": "Curve DAO Token (Arbitrum Bridge) (ABCRV)",
+   "built_on": "ARB"
+  },
+  {
+   "symbol": "IVFUN",
+   "name": "Invest Zone (IVFUN)",
+   "built_on": "TRX"
+  },
+  {
+   "symbol": "WAXS",
+   "name": "Axie Infinity Shards (Wormhole) (WAXS)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "BANKETH",
+   "name": "BankEth (BANKETH)"
+  },
+  {
+   "symbol": "SUNGOU",
+   "name": "Sungou (SUNGOU)",
+   "built_on": "TRX"
+  },
+  {
+   "symbol": "ETHDOG",
+   "name": "Ethereumdog (ETHDOG)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "PHEX",
+   "name": "HEX (Polygon Portal) (PHEX)",
+   "built_on": "MATIC"
+  },
+  {
+   "symbol": "MIRAI",
+   "name": "MIRAI (MIRAI)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "DOCCOM",
+   "name": "DOC.COM (DOCCOM)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "PLAY",
+   "name": "HEROcoin (PLAY)"
+  },
+  {
+   "symbol": "CATTO",
+   "name": "Cat Token (CATTO)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "HAXS",
+   "name": "Axie Infinity Shards (Harmony One Bridge) (HAXS)",
+   "built_on": "ONE"
+  },
+  {
+   "symbol": "RSUSHI",
+   "name": "Sushi (Rainbow Bridge) (RSUSHI)"
+  },
+  {
+   "symbol": "PSUSHI",
+   "name": "Sushi (Polygon Portal) (PSUSHI)",
+   "built_on": "MATIC"
+  },
+  {
+   "symbol": "HRSE",
+   "name": "The Winners Circle (HRSE)",
+   "built_on": "ZIL"
+  },
+  {
+   "symbol": "PMKR",
+   "name": "Maker (Polygon Portal) (PMKR)",
+   "built_on": "MATIC"
+  },
+  {
+   "symbol": "THEM",
+   "name": "The Meta DAO (THEM)"
+  },
+  {
+   "symbol": "USSD",
+   "name": "Autonomous Secure Dollar (USSD)",
+   "built_on": "ARB"
+  },
+  {
+   "symbol": "NUTS",
+   "name": "Thetanuts Finance (NUTS)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "ACRV",
+   "name": "Curve DAO Token (Avalanche Bride) (ACRV)",
+   "built_on": "AVAX"
+  },
+  {
+   "symbol": "MTC",
+   "name": "Matrix Chain (MTC)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "SR30",
+   "name": "SatsRush (SR30)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "ORDER",
+   "name": "Orderly Network (ORDER)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "RREN",
+   "name": "REN (Rainbow Bridge) (RREN)",
+   "built_on": "NEAR"
+  },
+  {
+   "symbol": "OCRV",
+   "name": "Curve DAO Token (OmniBridge) (OCRV)",
+   "built_on": "XDAI"
+  },
+  {
+   "symbol": "APPEALUSD",
+   "name": "Appeal dollar (APPEALUSD)"
+  },
+  {
+   "symbol": "GETH",
+   "name": "Guarded Ether (GETH)"
+  },
+  {
+   "symbol": "PUCCA",
+   "name": "PUCCA (PUCCA)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "RBXDEFI",
+   "name": "RBX (RBXDEFI)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "FASTAI",
+   "name": "Fast And Ai (FASTAI)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "AUSD",
+   "name": "AUSD (AUSD)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "FUELX",
+   "name": "Fuel (FUELX)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "BFM",
+   "name": "BenefitMine (BFM)",
+   "built_on": "BNB"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "PLAY",
+   "name": "HEROcoin (PLAY)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "AUSD",
+   "name": "Appeal dollar (AUSD)"
+  },
+  {
+   "symbol": "MTC",
+   "name": "MEDICAL TOKEN CURRENCY (MTC)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "RBUNNY",
+   "name": "Rocket Bunny (RBUNNY)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "THEM",
+   "name": "The Meta DAO (THEM)",
+   "built_on": "SOL"
+  }
+ ]
+}

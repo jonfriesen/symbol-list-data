@@ -1,0 +1,90 @@
+{
+ "added": [
+  {
+   "symbol": "CCEC",
+   "name": "Capital Clean Energy Carriers Corp. - Common Share",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "CCEC"
+  },
+  {
+   "symbol": "RITR",
+   "name": "Reitar Logtech Holdings Limited - Ordinary shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "RITR"
+  },
+  {
+   "symbol": "WOK",
+   "name": "WORK Medical Technology Group LTD - Ordinary Shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "WOK"
+  },
+  {
+   "symbol": "FMT",
+   "name": "Fuerte Metals Corporation.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "FMT.V",
+   "instruments": [
+    {
+     "name": "Fuerte Metals Corporation.",
+     "symbol": "FMT"
+    }
+   ]
+  },
+  {
+   "symbol": "XGC",
+   "name": "Xali Gold Corp.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "XGC.V",
+   "instruments": [
+    {
+     "name": "Xali Gold Corp.",
+     "symbol": "XGC"
+    }
+   ]
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "BHIL",
+   "name": "Benson Hill, Inc. Common Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "BHIL"
+  },
+  {
+   "symbol": "ACOP",
+   "name": "Atacama Copper Corporation",
+   "exchange": "TSXV",
+   "yahoo_symbol": "ACOP.V",
+   "instruments": [
+    {
+     "name": "Atacama Copper Corporation",
+     "symbol": "ACOP"
+    }
+   ]
+  },
+  {
+   "symbol": "MRDB.W",
+   "name": "MariaDB plc Warrants, each whole warrant exercisable for one Ordinary Share at an exercise price of $11.50 per share",
+   "exchange": "NYSE",
+   "yahoo_symbol": "MRDB.W"
+  },
+  {
+   "symbol": "MRDB",
+   "name": "MariaDB plc Ordinary Shares",
+   "exchange": "NYSE",
+   "yahoo_symbol": "MRDB"
+  },
+  {
+   "symbol": "LCW",
+   "name": "Learn CW Investment Corporation Class A Ordinary Shares",
+   "exchange": "NYSE",
+   "yahoo_symbol": "LCW"
+  },
+  {
+   "symbol": "CPLP",
+   "name": "Capital Product Partners L.P. - Common Units representing limited partner interests",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "CPLP"
+  }
+ ]
+}
