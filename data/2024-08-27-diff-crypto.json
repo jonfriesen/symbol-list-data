@@ -1,0 +1,48 @@
+{
+ "added": [
+  {
+   "symbol": "ASUSHI",
+   "name": "Sushi (Arbitrum Bridge) (ASUSHI)",
+   "built_on": "ARB"
+  },
+  {
+   "symbol": "PLAY",
+   "name": "Play Token (PLAY)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "OBSUSHI",
+   "name": "Sushi (OmniBridge) (OBSUSHI)",
+   "built_on": "XDAI"
+  },
+  {
+   "symbol": "HEROC",
+   "name": "HEROcoin (HEROC)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "OSUSHI",
+   "name": "Sushi (Optimism Bridge) (OSUSHI)",
+   "built_on": "OP"
+  },
+  {
+   "symbol": "GETH",
+   "name": "Guarded Ether (GETH)"
+  },
+  {
+   "symbol": "MSUSHI",
+   "name": "Sushi (Multichain) (MSUSHI)",
+   "built_on": "FTM"
+  },
+  {
+   "symbol": "BANKETH",
+   "name": "BankEth (BANKETH)"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "PLAY",
+   "name": "HEROcoin (PLAY)"
+  }
+ ]
+}

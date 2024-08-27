@@ -1,0 +1,70 @@
+{
+ "added": [
+  {
+   "symbol": "VROY",
+   "name": "Vizsla Royalties Corp.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "VROY.V",
+   "instruments": [
+    {
+     "name": "Vizsla Royalties Corp.",
+     "symbol": "VROY"
+    },
+    {
+     "name": "Vizsla Royalties Corp. wt 31Dec2025",
+     "symbol": "VROY.WT"
+    }
+   ]
+  },
+  {
+   "symbol": "BHIL",
+   "name": "Benson Hill, Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "BHIL"
+  },
+  {
+   "symbol": "LCW",
+   "name": "Learn CW Investment Corporation - Class A Ordinary Shares",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "LCW"
+  },
+  {
+   "symbol": "RNLX",
+   "name": "Renalytix plc - American Depositary Shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "RNLX"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "SLAM",
+   "name": "Slam Corp. - Class A Ordinary Share",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "SLAM"
+  },
+  {
+   "symbol": "SLAMU",
+   "name": "Slam Corp. - Unit",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "SLAMU"
+  },
+  {
+   "symbol": "CBH",
+   "name": "Virtus Convertible \u0026 Income 2024 Target Term Fund Common Shares of Beneficial Interest",
+   "exchange": "NYSE",
+   "yahoo_symbol": "CBH"
+  },
+  {
+   "symbol": "RNLX",
+   "name": "Renalytix plc - American Depositary Shares",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "RNLX"
+  },
+  {
+   "symbol": "SLAMW",
+   "name": "Slam Corp. - warrant",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "SLAMW"
+  }
+ ]
+}
