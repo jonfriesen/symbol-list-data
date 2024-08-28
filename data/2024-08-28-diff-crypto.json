@@ -1,0 +1,70 @@
+{
+ "added": [
+  {
+   "symbol": "HBCH",
+   "name": "Huobi BCH (HBCH)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "HBSV",
+   "name": "Huobi BSV (HBSV)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "G",
+   "name": "Gravity (G)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "ABDAI",
+   "name": "Dai (Avalanche Bride) (ABDAI)"
+  },
+  {
+   "symbol": "ZEDCOIN",
+   "name": "ZedCoin (ZEDCOIN)"
+  },
+  {
+   "symbol": "BANKETH",
+   "name": "BankEth (BANKETH)"
+  },
+  {
+   "symbol": "HLTC",
+   "name": "Huobi LTC (HLTC)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "HETH",
+   "name": "Huobi Ethereum (HETH)"
+  },
+  {
+   "symbol": "AB1INCH",
+   "name": "1inch (Avalanche Bride) (AB1INCH)"
+  },
+  {
+   "symbol": "HFIL",
+   "name": "Huobi Fil (HFIL)",
+   "built_on": "ETH"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "ABDAI",
+   "name": "Dai (Avalanche Bride) (ABDAI)",
+   "built_on": "AVAX"
+  },
+  {
+   "symbol": "HETH",
+   "name": "Huobi Ethereum (HETH)",
+   "built_on": "HT"
+  },
+  {
+   "symbol": "HFIL",
+   "name": "Huobi Fil (HFIL)"
+  },
+  {
+   "symbol": "AB1INCH",
+   "name": "1inch (Avalanche Bride) (AB1INCH)",
+   "built_on": "AVAX"
+  }
+ ]
+}
