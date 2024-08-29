@@ -1,0 +1,48 @@
+{
+ "added": [
+  {
+   "symbol": "AZI",
+   "name": "Autozi Internet Technology (Global) Ltd. - Class A Ordinary Shares",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "AZI"
+  },
+  {
+   "symbol": "BSIIU",
+   "name": "Black Spade Acquisition II Co - unit",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "BSIIU"
+  },
+  {
+   "symbol": "SMHX",
+   "name": "VanEck Fabless Semiconductor ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "SMHX"
+  },
+  {
+   "symbol": "SPAI",
+   "name": "Safe Pro Group Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "SPAI"
+  },
+  {
+   "symbol": "XOVR",
+   "name": "ERShares Private-Public Crossover ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "XOVR"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "ICD",
+   "name": "Independence Contract Drilling, Inc. Common Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "ICD"
+  },
+  {
+   "symbol": "ENTR",
+   "name": "ERShares Entrepreneurs ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "ENTR"
+  }
+ ]
+}
