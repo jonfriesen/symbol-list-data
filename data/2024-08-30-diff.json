@@ -1,0 +1,18 @@
+{
+ "added": [
+  {
+   "symbol": "GIGGU",
+   "name": "GigCapital7 Corp. - Unit",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "GIGGU"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "BNRE.A",
+   "name": "Brookfield Reinsurance Ltd. Class A-1 Exchangeable Non-Voting Shares",
+   "exchange": "NYSE",
+   "yahoo_symbol": "BNRE.A"
+  }
+ ]
+}

@@ -1,0 +1,110 @@
+{
+ "added": [
+  {
+   "symbol": "FOFARIO",
+   "name": "Fofar (FOFARIO)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "HUGE",
+   "name": "HugeWin (HUGE)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "BLOCK",
+   "name": "Blockasset (BLOCK)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "OCRV",
+   "name": "Curve DAO Token (OmniBridge) (OCRV)"
+  },
+  {
+   "symbol": "BASEPROTOCOL",
+   "name": "Base Protocol (BASEPROTOCOL)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "EXPAND",
+   "name": "Gems (EXPAND)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "BIGCOIN",
+   "name": "BigCoin (BIGCOIN)"
+  },
+  {
+   "symbol": "FOFAR",
+   "name": "FoFar (FOFAR)",
+   "built_on": "TRX"
+  },
+  {
+   "symbol": "ZEDCOIN",
+   "name": "ZedCoin (ZEDCOIN)"
+  },
+  {
+   "symbol": "UNIE",
+   "name": "Uniswap Protocol Token (Avalanche Bridge) (UNIE)",
+   "built_on": "AVAX"
+  },
+  {
+   "symbol": "BANKETH",
+   "name": "BankEth (BANKETH)"
+  },
+  {
+   "symbol": "DOGCOIN",
+   "name": "Dogcoin (DOGCOIN)"
+  },
+  {
+   "symbol": "GETH",
+   "name": "Guarded Ether (GETH)"
+  },
+  {
+   "symbol": "LANDWOLFETH",
+   "name": "Landwolf (LANDWOLFETH)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "DOGS",
+   "name": "Dogs (DOGS)",
+   "built_on": "TONCOIN"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "OCRV",
+   "name": "Curve DAO Token (OmniBridge) (OCRV)",
+   "built_on": "XDAI"
+  },
+  {
+   "symbol": "AUNI",
+   "name": "Uniswap Protocol Token (Avalanche Bride) (AUNI)"
+  },
+  {
+   "symbol": "FOFAR",
+   "name": "Fofar (FOFAR)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "DOGS",
+   "name": "Dogcoin (DOGS)"
+  },
+  {
+   "symbol": "HUGE",
+   "name": "BigCoin (HUGE)"
+  },
+  {
+   "symbol": "BLOCK",
+   "name": "Blockasset (BLOCK)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "BASE",
+   "name": "Base Protocol (BASE)"
+  },
+  {
+   "symbol": "WOLF",
+   "name": "Landwolf (WOLF)"
+  }
+ ]
+}
