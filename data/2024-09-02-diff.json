@@ -1,0 +1,16 @@
+{
+ "added": [
+  {
+   "symbol": "SIMA",
+   "name": "SIM Acquisition Corp. I - Class A Ordinary Shares",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "SIMA"
+  },
+  {
+   "symbol": "SIMAW",
+   "name": "SIM Acquisition Corp. I - Warrant",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "SIMAW"
+  }
+ ]
+}
