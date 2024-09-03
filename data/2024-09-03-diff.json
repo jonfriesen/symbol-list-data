@@ -1,0 +1,104 @@
+{
+ "added": [
+  {
+   "symbol": "SPAC.RT.U",
+   "name": "Mercer Park Opportunities Corp.",
+   "exchange": "TSX",
+   "yahoo_symbol": "SPAC.RT.U.TO",
+   "instruments": [
+    {
+     "name": "Mercer PrkOpp Corp R",
+     "symbol": "SPAC.RT.U"
+    },
+    {
+     "name": "Mercer PrkOpp Corp A",
+     "symbol": "SPAC.U"
+    },
+    {
+     "name": "Mercer PrkOpp Corp W",
+     "symbol": "SPAC.WT.U"
+    }
+   ]
+  },
+  {
+   "symbol": "ORKA",
+   "name": "Oruka Therapeutics, Inc. - Common Stock",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "ORKA"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "NUVO",
+   "name": "Holdco Nuvo Group D.G Ltd. - Ordinary Shares",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "NUVO"
+  },
+  {
+   "symbol": "NUVOW",
+   "name": "Holdco Nuvo Group D.G Ltd. - Warrants",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "NUVOW"
+  },
+  {
+   "symbol": "IFIN.U",
+   "name": "InFinT Acquisition Corporation Units,each consisting of one Class A ordinary share and one-half of one redeemable warrant",
+   "exchange": "NYSE",
+   "yahoo_symbol": "IFIN.U"
+  },
+  {
+   "symbol": "LCW.W",
+   "name": "Learn CW Investment Corporation Redeemable warrants, each whole warrant exercisable for one Class A ordinary share at an exercise price of $11.50 per share",
+   "exchange": "NYSE",
+   "yahoo_symbol": "LCW.W"
+  },
+  {
+   "symbol": "LCW.U",
+   "name": "Learn CW Investment Corporation Units, each consisting of one Class A ordinary share and one-half of one redeemable warrant",
+   "exchange": "NYSE",
+   "yahoo_symbol": "LCW.U"
+  },
+  {
+   "symbol": "SPAC.V",
+   "name": "Mercer Park Opportunities Corp.",
+   "exchange": "TSX",
+   "yahoo_symbol": "SPAC.V.TO",
+   "instruments": [
+    {
+     "name": "Mercer Prk Opp Corp",
+     "symbol": "SPAC.V"
+    }
+   ]
+  },
+  {
+   "symbol": "CPLF",
+   "name": "Copperleaf Technologies Inc.",
+   "exchange": "TSX",
+   "yahoo_symbol": "CPLF.TO",
+   "instruments": [
+    {
+     "name": "Copperleaf Tech J",
+     "symbol": "CPLF"
+    }
+   ]
+  },
+  {
+   "symbol": "IFIN",
+   "name": "InFinT Acquisition Corporation Class A Ordinary Shares",
+   "exchange": "NYSE",
+   "yahoo_symbol": "IFIN"
+  },
+  {
+   "symbol": "ABIO",
+   "name": "ARCA biopharma, Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "ABIO"
+  },
+  {
+   "symbol": "TLIS",
+   "name": "Talis Biomedical Corporation - common stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "TLIS"
+  }
+ ]
+}

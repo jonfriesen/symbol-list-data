@@ -1,0 +1,1834 @@
+{
+ "added": [
+  {
+   "symbol": "HOCAI",
+   "name": "Heroes of Crypto AI (HOCAI)",
+   "built_on": "BASE"
+  },
+  {
+   "symbol": "DACKIE",
+   "name": "DackieSwap (DACKIE)",
+   "built_on": "BASE"
+  },
+  {
+   "symbol": "BALT",
+   "name": "Brett's cat (BALT)",
+   "built_on": "BASE"
+  },
+  {
+   "symbol": "WEIRDO",
+   "name": "Weirdo (WEIRDO)",
+   "built_on": "BASE"
+  },
+  {
+   "symbol": "BENTO",
+   "name": "Bento (BENTO)",
+   "built_on": "BASE"
+  },
+  {
+   "symbol": "BLUEG",
+   "name": "Blue Guy (BLUEG)",
+   "built_on": "BASE"
+  },
+  {
+   "symbol": "ONCH",
+   "name": "OnchainPoints.xyz (ONCH)",
+   "built_on": "BASE"
+  },
+  {
+   "symbol": "MOONB",
+   "name": "Moon Base (MOONB)",
+   "built_on": "BASE"
+  },
+  {
+   "symbol": "RCKT",
+   "name": "RocketSwap (RCKT)",
+   "built_on": "BASE"
+  },
+  {
+   "symbol": "MAMBA",
+   "name": "Mamba (MAMBA)",
+   "built_on": "BASE"
+  },
+  {
+   "symbol": "FRENCH",
+   "name": "French On Base (FRENCH)",
+   "built_on": "BASE"
+  },
+  {
+   "symbol": "WARPIE",
+   "name": "Warpie (WARPIE)",
+   "built_on": "BASE"
+  },
+  {
+   "symbol": "CBBTC",
+   "name": "cbBTC (CBBTC)",
+   "built_on": "BASE"
+  },
+  {
+   "symbol": "JOGECO",
+   "name": "Jogecodog (JOGECO)",
+   "built_on": "BASE"
+  },
+  {
+   "symbol": "CAROL",
+   "name": "CAROLToken (CAROL)",
+   "built_on": "BASE"
+  },
+  {
+   "symbol": "EDE",
+   "name": "El Dorado Exchange (EDE)",
+   "built_on": "BASE"
+  },
+  {
+   "symbol": "SMUDCAT",
+   "name": "Smudge Cat (SMUDCAT)",
+   "built_on": "BASE"
+  },
+  {
+   "symbol": "CHIDO",
+   "name": "Chinese Doge Wow (CHIDO)",
+   "built_on": "BASE"
+  },
+  {
+   "symbol": "BRATT",
+   "name": "Son of Brett (BRATT)",
+   "built_on": "BASE"
+  },
+  {
+   "symbol": "OWO",
+   "name": "SoMon (OWO)",
+   "built_on": "BASE"
+  },
+  {
+   "symbol": "RAFL",
+   "name": "RAFL (RAFL)",
+   "built_on": "BASE"
+  },
+  {
+   "symbol": "NETA",
+   "name": "Negative Tax (NETA)",
+   "built_on": "BASE"
+  },
+  {
+   "symbol": "DEGEN",
+   "name": "Degen (DEGEN)",
+   "built_on": "BASE"
+  },
+  {
+   "symbol": "BCHB",
+   "name": "Bitcoin Cash on Base (BCHB)",
+   "built_on": "BASE"
+  },
+  {
+   "symbol": "BERF",
+   "name": "BERF (BERF)",
+   "built_on": "BASE"
+  },
+  {
+   "symbol": "BOOMER",
+   "name": "Boomer (BOOMER)",
+   "built_on": "BASE"
+  },
+  {
+   "symbol": "DILIGENT",
+   "name": "Diligent Pepe (DILIGENT)",
+   "built_on": "BASE"
+  },
+  {
+   "symbol": "BASECAT",
+   "name": "BASE CAT (BASECAT)",
+   "built_on": "BASE"
+  },
+  {
+   "symbol": "BRIAN",
+   "name": "Brianwifhat (BRIAN)",
+   "built_on": "BASE"
+  },
+  {
+   "symbol": "ROOST",
+   "name": "Roost Coin (ROOST)",
+   "built_on": "BASE"
+  },
+  {
+   "symbol": "WAZ",
+   "name": "MikeAI (WAZ)",
+   "built_on": "BASE"
+  },
+  {
+   "symbol": "GRASS",
+   "name": "Touch Grass (GRASS)",
+   "built_on": "BASE"
+  },
+  {
+   "symbol": "WLTH",
+   "name": "Common Wealth (WLTH)",
+   "built_on": "BASE"
+  },
+  {
+   "symbol": "TOSHI",
+   "name": "Toshi (TOSHI)",
+   "built_on": "BASE"
+  },
+  {
+   "symbol": "MABA",
+   "name": "Make America Based Again (MABA)",
+   "built_on": "BASE"
+  },
+  {
+   "symbol": "TRUMPONBASE",
+   "name": "TRUMP ON BASE (TRUMPONBASE)",
+   "built_on": "BASE"
+  },
+  {
+   "symbol": "MONEYBEE",
+   "name": "MONEYBEE (MONEYBEE)",
+   "built_on": "BASE"
+  },
+  {
+   "symbol": "BRIUN",
+   "name": "Briun Armstrung (BRIUN)",
+   "built_on": "BASE"
+  },
+  {
+   "symbol": "PEEZY",
+   "name": "Young Peezy AKA Pepe (PEEZY)",
+   "built_on": "BASE"
+  },
+  {
+   "symbol": "FUNGI",
+   "name": "Fungi (FUNGI)",
+   "built_on": "BASE"
+  },
+  {
+   "symbol": "BLERF",
+   "name": "BLERF (BLERF)",
+   "built_on": "BASE"
+  },
+  {
+   "symbol": "BANANAS",
+   "name": "Monkey Peepo (BANANAS)",
+   "built_on": "BASE"
+  },
+  {
+   "symbol": "QUAC",
+   "name": "QUACK (QUAC)",
+   "built_on": "BASE"
+  },
+  {
+   "symbol": "USD3",
+   "name": "Web 3 Dollar (USD3)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "EAI",
+   "name": "Eagle AI (EAI)",
+   "built_on": "BASE"
+  },
+  {
+   "symbol": "PRESI",
+   "name": "Turbo Trump (PRESI)",
+   "built_on": "BASE"
+  },
+  {
+   "symbol": "WAGIE",
+   "name": "Wagie (WAGIE)",
+   "built_on": "BASE"
+  },
+  {
+   "symbol": "BASEDR",
+   "name": "Based Rabbit (BASEDR)",
+   "built_on": "BASE"
+  },
+  {
+   "symbol": "AWK",
+   "name": "Awkward Monkey Base (AWK)",
+   "built_on": "BASE"
+  },
+  {
+   "symbol": "LUNARLENS",
+   "name": "Lunarlens (LUNARLENS)",
+   "built_on": "BASE"
+  },
+  {
+   "symbol": "BOJAK",
+   "name": "Based Wojak (BOJAK)",
+   "built_on": "BASE"
+  },
+  {
+   "symbol": "AIINU",
+   "name": "AI INU (AIINU)",
+   "built_on": "BASE"
+  },
+  {
+   "symbol": "KEYCAT",
+   "name": "Keyboard Cat (KEYCAT)",
+   "built_on": "BASE"
+  },
+  {
+   "symbol": "ALB",
+   "name": "Alien Base (ALB)",
+   "built_on": "BASE"
+  },
+  {
+   "symbol": "ZEDCOIN",
+   "name": "ZedCoin (ZEDCOIN)"
+  },
+  {
+   "symbol": "SQUOGE",
+   "name": "DogeSquatch (SQUOGE)",
+   "built_on": "BASE"
+  },
+  {
+   "symbol": "BGUY",
+   "name": "The Big Guy (BGUY)",
+   "built_on": "BASE"
+  },
+  {
+   "symbol": "OUSG",
+   "name": "OUSG (OUSG)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "REFLECT",
+   "name": "REFLECT (REFLECT)",
+   "built_on": "BASE"
+  },
+  {
+   "symbol": "9MM",
+   "name": "Shigure UI (9MM)",
+   "built_on": "BASE"
+  },
+  {
+   "symbol": "BSWAP",
+   "name": "BaseSwap (BSWAP)",
+   "built_on": "BASE"
+  },
+  {
+   "symbol": "FOFARBASE",
+   "name": "FOFAR (FOFARBASE)",
+   "built_on": "BASE"
+  },
+  {
+   "symbol": "TYBG",
+   "name": "Base God (TYBG)",
+   "built_on": "BASE"
+  },
+  {
+   "symbol": "BROGG",
+   "name": "Brett's Dog (BROGG)",
+   "built_on": "BASE"
+  },
+  {
+   "symbol": "POLLUK",
+   "name": "Jasse Polluk (POLLUK)",
+   "built_on": "BASE"
+  },
+  {
+   "symbol": "DEFIDO",
+   "name": "DeFido (DEFIDO)",
+   "built_on": "BASE"
+  },
+  {
+   "symbol": "PEPLO",
+   "name": "Peplo Escobar (PEPLO)",
+   "built_on": "BASE"
+  },
+  {
+   "symbol": "CHOO",
+   "name": "Chooky (CHOO)",
+   "built_on": "BASE"
+  },
+  {
+   "symbol": "HAMSTERB",
+   "name": "HamsterBase (HAMSTERB)",
+   "built_on": "BASE"
+  },
+  {
+   "symbol": "SWPRS",
+   "name": "Maid Sweepers (SWPRS)",
+   "built_on": "BASE"
+  },
+  {
+   "symbol": "BLOO",
+   "name": "bloo foster coin (BLOO)",
+   "built_on": "BASE"
+  },
+  {
+   "symbol": "BSHIB",
+   "name": "Based Shiba Inu (BSHIB)",
+   "built_on": "BASE"
+  },
+  {
+   "symbol": "DCM",
+   "name": "Ducky City (DCM)",
+   "built_on": "BASE"
+  },
+  {
+   "symbol": "APETARDIO",
+   "name": "Apetardio (APETARDIO)",
+   "built_on": "BASE"
+  },
+  {
+   "symbol": "MOEW",
+   "name": "donotfomoew (MOEW)",
+   "built_on": "BASE"
+  },
+  {
+   "symbol": "BLACKR",
+   "name": "BLACK ROCK (BLACKR)",
+   "built_on": "BASE"
+  },
+  {
+   "symbol": "DANG",
+   "name": "Guangdang (DANG)",
+   "built_on": "BASE"
+  },
+  {
+   "symbol": "OZMPC",
+   "name": "Ozempic (OZMPC)",
+   "built_on": "BASE"
+  },
+  {
+   "symbol": "BUB",
+   "name": "BUBCAT (BUB)",
+   "built_on": "BASE"
+  },
+  {
+   "symbol": "DABCAT",
+   "name": "Dabcat (DABCAT)",
+   "built_on": "BASE"
+  },
+  {
+   "symbol": "RYU",
+   "name": "The Blue Dragon (RYU)",
+   "built_on": "BASE"
+  },
+  {
+   "symbol": "BRETTBASE",
+   "name": "Brett Base (BRETTBASE)",
+   "built_on": "BASE"
+  },
+  {
+   "symbol": "USDBC",
+   "name": "Bridged USDC (USDBC)",
+   "built_on": "BASE"
+  },
+  {
+   "symbol": "DOOMER",
+   "name": "Doomer (DOOMER)",
+   "built_on": "BASE"
+  },
+  {
+   "symbol": "PANDE",
+   "name": "Pande (PANDE)",
+   "built_on": "BASE"
+  },
+  {
+   "symbol": "ANIME",
+   "name": "Anime (ANIME)",
+   "built_on": "BASE"
+  },
+  {
+   "symbol": "HIM",
+   "name": "Human Intelligence Machine (HIM)",
+   "built_on": "BASE"
+  },
+  {
+   "symbol": "BENG",
+   "name": "Based Peng (BENG)",
+   "built_on": "BASE"
+  },
+  {
+   "symbol": "AIGPU",
+   "name": "AIGPU Token (AIGPU)",
+   "built_on": "BASE"
+  },
+  {
+   "symbol": "CORNELLA",
+   "name": "CORNELLA (CORNELLA)",
+   "built_on": "BASE"
+  },
+  {
+   "symbol": "AXON",
+   "name": "AxonDAO Governance Token (AXON)",
+   "built_on": "BASE"
+  },
+  {
+   "symbol": "AERO",
+   "name": "Aerodrome Finance (AERO)",
+   "built_on": "BASE"
+  },
+  {
+   "symbol": "BANK",
+   "name": "Float Protocol (BANK)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "MOXIE",
+   "name": "Moxie (MOXIE)",
+   "built_on": "BASE"
+  },
+  {
+   "symbol": "KEPT",
+   "name": "KeptChain (KEPT)",
+   "built_on": "BASE"
+  },
+  {
+   "symbol": "BENI",
+   "name": "Beni (BENI)",
+   "built_on": "BASE"
+  },
+  {
+   "symbol": "BSB",
+   "name": "Based Street Bets (BSB)",
+   "built_on": "BASE"
+  },
+  {
+   "symbol": "BRETTA",
+   "name": "Bretta (BRETTA)",
+   "built_on": "BASE"
+  },
+  {
+   "symbol": "BABYMIGGLES",
+   "name": "Baby Miggles (BABYMIGGLES)",
+   "built_on": "BASE"
+  },
+  {
+   "symbol": "BOGE",
+   "name": "Boge (BOGE)",
+   "built_on": "BASE"
+  },
+  {
+   "symbol": "MAGN",
+   "name": "Magnate Finance (MAGN)",
+   "built_on": "BASE"
+  },
+  {
+   "symbol": "TUTTER",
+   "name": "Tutter (TUTTER)",
+   "built_on": "BASE"
+  },
+  {
+   "symbol": "CONDO",
+   "name": "CONDO (CONDO)",
+   "built_on": "BASE"
+  },
+  {
+   "symbol": "KRAV",
+   "name": "Krav (KRAV)",
+   "built_on": "BASE"
+  },
+  {
+   "symbol": "BBRETT",
+   "name": "Baby Brett (BBRETT)",
+   "built_on": "BASE"
+  },
+  {
+   "symbol": "AEROBUD",
+   "name": "Aerobud (AEROBUD)",
+   "built_on": "BASE"
+  },
+  {
+   "symbol": "BABYCRASH",
+   "name": "BabyCrash (BABYCRASH)",
+   "built_on": "BASE"
+  },
+  {
+   "symbol": "WBLT",
+   "name": "Wrapped BMX Liquidity Token (WBLT)",
+   "built_on": "BASE"
+  },
+  {
+   "symbol": "LEET",
+   "name": "LeetSwap (LEET)",
+   "built_on": "BASE"
+  },
+  {
+   "symbol": "FOMO",
+   "name": "FOMO BULL CLUB (FOMO)",
+   "built_on": "BASE"
+  },
+  {
+   "symbol": "CAKE",
+   "name": "PancakeSwap (CAKE)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "GREE",
+   "name": "Green God Candle (GREE)",
+   "built_on": "BASE"
+  },
+  {
+   "symbol": "SNORT",
+   "name": "SNORT (SNORT)",
+   "built_on": "BASE"
+  },
+  {
+   "symbol": "MRBASED",
+   "name": "MrBased (MRBASED)",
+   "built_on": "BASE"
+  },
+  {
+   "symbol": "FRIEND",
+   "name": "Friend.tech (FRIEND)",
+   "built_on": "BASE"
+  },
+  {
+   "symbol": "GTRUMP",
+   "name": "Giga Trump (GTRUMP)",
+   "built_on": "BASE"
+  },
+  {
+   "symbol": "SKOP",
+   "name": "Skulls of Pepe Token (SKOP)",
+   "built_on": "BASE"
+  },
+  {
+   "symbol": "HIGHER",
+   "name": "Higher (HIGHER)",
+   "built_on": "BASE"
+  },
+  {
+   "symbol": "LBM",
+   "name": "Libertum (LBM)",
+   "built_on": "BASE"
+  },
+  {
+   "symbol": "BRITT",
+   "name": "Britt (BRITT)",
+   "built_on": "BASE"
+  },
+  {
+   "symbol": "MIGGLEI",
+   "name": "Migglei (MIGGLEI)",
+   "built_on": "BASE"
+  },
+  {
+   "symbol": "FROK",
+   "name": "Frok.ai (FROK)",
+   "built_on": "BASE"
+  },
+  {
+   "symbol": "GROOVE",
+   "name": "GROOVE (GROOVE)",
+   "built_on": "BASE"
+  },
+  {
+   "symbol": "BASEDS",
+   "name": "BasedSwap (BASEDS)",
+   "built_on": "BASE"
+  },
+  {
+   "symbol": "SKIPUP",
+   "name": "SKI MASK PUP (SKIPUP)",
+   "built_on": "BASE"
+  },
+  {
+   "symbol": "CARLO",
+   "name": "Carlo (CARLO)",
+   "built_on": "BASE"
+  },
+  {
+   "symbol": "ROXY",
+   "name": "ROXY FROG (ROXY)",
+   "built_on": "BASE"
+  },
+  {
+   "symbol": "NEGED",
+   "name": "Neged (NEGED)",
+   "built_on": "BASE"
+  },
+  {
+   "symbol": "BALD",
+   "name": "Bald (BALD)",
+   "built_on": "BASE"
+  },
+  {
+   "symbol": "BROOT",
+   "name": "BROOT (BROOT)",
+   "built_on": "BASE"
+  },
+  {
+   "symbol": "FP",
+   "name": "Fren Pet (FP)",
+   "built_on": "BASE"
+  },
+  {
+   "symbol": "FATH",
+   "name": "Father Of Meme: Origin (FATH)",
+   "built_on": "BASE"
+  },
+  {
+   "symbol": "OKAYEG",
+   "name": "Okayeg (OKAYEG)",
+   "built_on": "BASE"
+  },
+  {
+   "symbol": "RTD",
+   "name": "Retard (RTD)",
+   "built_on": "BASE"
+  },
+  {
+   "symbol": "NIPPY",
+   "name": "Cat On Catnip (NIPPY)",
+   "built_on": "BASE"
+  },
+  {
+   "symbol": "CHOMP",
+   "name": "ChompCoin (CHOMP)",
+   "built_on": "BASE"
+  },
+  {
+   "symbol": "G",
+   "name": "Gravity (G)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "MARVINB",
+   "name": "Marvin on Base (MARVINB)",
+   "built_on": "BASE"
+  },
+  {
+   "symbol": "RECORD",
+   "name": "Music Protocol (RECORD)",
+   "built_on": "BASE"
+  },
+  {
+   "symbol": "FPEPE",
+   "name": "Based Father Pepe (FPEPE)",
+   "built_on": "BASE"
+  },
+  {
+   "symbol": "MPAA",
+   "name": "MPAA (MPAA)",
+   "built_on": "BASE"
+  },
+  {
+   "symbol": "JEETOLAX",
+   "name": "Jeetolax (JEETOLAX)",
+   "built_on": "BASE"
+  },
+  {
+   "symbol": "DEUSD",
+   "name": "Elixir deUSD (DEUSD)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "GOCHU",
+   "name": "Gochujangcoin (GOCHU)",
+   "built_on": "BASE"
+  },
+  {
+   "symbol": "MFER",
+   "name": "mfercoin (MFER)",
+   "built_on": "BASE"
+  },
+  {
+   "symbol": "MOONI",
+   "name": "MOON INU (MOONI)",
+   "built_on": "BASE"
+  },
+  {
+   "symbol": "DOGINME",
+   "name": "doginme (DOGINME)",
+   "built_on": "BASE"
+  },
+  {
+   "symbol": "BTAMA",
+   "name": "Basetama (BTAMA)",
+   "built_on": "BASE"
+  },
+  {
+   "symbol": "MOONS",
+   "name": "Sailor Moons (MOONS)",
+   "built_on": "BASE"
+  },
+  {
+   "symbol": "SEAM",
+   "name": "Seamless Protocol (SEAM)",
+   "built_on": "BASE"
+  },
+  {
+   "symbol": "BOCAT",
+   "name": "BOCAT (BOCAT)",
+   "built_on": "BASE"
+  },
+  {
+   "symbol": "MIGGLES",
+   "name": "Mr Miggles (MIGGLES)",
+   "built_on": "BASE"
+  },
+  {
+   "symbol": "MOOLA",
+   "name": "Degen Forest (MOOLA)",
+   "built_on": "BASE"
+  },
+  {
+   "symbol": "LAWO",
+   "name": "Law Of Attraction (LAWO)",
+   "built_on": "BASE"
+  },
+  {
+   "symbol": "ROKM",
+   "name": "Rocket Ma (ROKM)",
+   "built_on": "BASE"
+  },
+  {
+   "symbol": "BOBBYM",
+   "name": "Bobby Moore (BOBBYM)",
+   "built_on": "BASE"
+  },
+  {
+   "symbol": "BADC",
+   "name": "BADCAT (BADC)",
+   "built_on": "BASE"
+  },
+  {
+   "symbol": "POOPC",
+   "name": "Poopcoin (POOPC)",
+   "built_on": "BASE"
+  },
+  {
+   "symbol": "SLEPE",
+   "name": "Slepe (SLEPE)",
+   "built_on": "BASE"
+  },
+  {
+   "symbol": "OTTERSPACE",
+   "name": "Otter Space (OTTERSPACE)",
+   "built_on": "BASE"
+  },
+  {
+   "symbol": "BUIDL",
+   "name": "Starter.xyz (BUIDL)",
+   "built_on": "BASE"
+  },
+  {
+   "symbol": "BONKONBASE",
+   "name": "Bonk on Base (BONKONBASE)",
+   "built_on": "BASE"
+  },
+  {
+   "symbol": "BLING",
+   "name": "PLEB DREKE (BLING)",
+   "built_on": "BASE"
+  },
+  {
+   "symbol": "ROCCO",
+   "name": "Just A Rock (ROCCO)",
+   "built_on": "BASE"
+  },
+  {
+   "symbol": "HACHIONB",
+   "name": "Hachi On Base (HACHIONB)",
+   "built_on": "BASE"
+  },
+  {
+   "symbol": "CRYPTOJ",
+   "name": "Crypto Journey (CRYPTOJ)",
+   "built_on": "BASE"
+  },
+  {
+   "symbol": "POLAO",
+   "name": "Pola On Base (POLAO)",
+   "built_on": "BASE"
+  },
+  {
+   "symbol": "GODCAT",
+   "name": "GodcatExplodingKittens (GODCAT)",
+   "built_on": "BASE"
+  },
+  {
+   "symbol": "JELLI",
+   "name": "JELLI (JELLI)",
+   "built_on": "BASE"
+  },
+  {
+   "symbol": "RSUSHI",
+   "name": "Sushi (Rainbow Bridge) (RSUSHI)",
+   "built_on": "NEAR"
+  },
+  {
+   "symbol": "TOSHE",
+   "name": "Toshe (TOSHE)",
+   "built_on": "BASE"
+  },
+  {
+   "symbol": "RALLY",
+   "name": "Trump Rally (RALLY)",
+   "built_on": "BASE"
+  },
+  {
+   "symbol": "BASEAI",
+   "name": "BaseAI (BASEAI)",
+   "built_on": "BASE"
+  },
+  {
+   "symbol": "NORMUS",
+   "name": "NORMUS (NORMUS)",
+   "built_on": "BASE"
+  },
+  {
+   "symbol": "BORKIE",
+   "name": "Borkie (BORKIE)",
+   "built_on": "BASE"
+  },
+  {
+   "symbol": "PURRC",
+   "name": "Purrcoin (PURRC)",
+   "built_on": "BASE"
+  },
+  {
+   "symbol": "PEACH",
+   "name": "Based Peaches (PEACH)",
+   "built_on": "BASE"
+  },
+  {
+   "symbol": "BOSHI",
+   "name": "Boshi (BOSHI)",
+   "built_on": "BASE"
+  },
+  {
+   "symbol": "KATT",
+   "name": "Katt Daddy (KATT)",
+   "built_on": "BASE"
+  },
+  {
+   "symbol": "TOBY",
+   "name": "toby (TOBY)",
+   "built_on": "BASE"
+  },
+  {
+   "symbol": "BUM",
+   "name": "WillyBumBum (BUM)",
+   "built_on": "BASE"
+  },
+  {
+   "symbol": "CUM",
+   "name": "Cumbackbears (CUM)",
+   "built_on": "BASE"
+  },
+  {
+   "symbol": "BODA",
+   "name": "Based Yoda (BODA)",
+   "built_on": "BASE"
+  },
+  {
+   "symbol": "PONCHO",
+   "name": "Poncho (PONCHO)",
+   "built_on": "BASE"
+  },
+  {
+   "symbol": "GCAT",
+   "name": "Giga Cat on Base (GCAT)",
+   "built_on": "BASE"
+  },
+  {
+   "symbol": "CHRETT",
+   "name": "Chinese BRETT (CHRETT)",
+   "built_on": "BASE"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "WAZ",
+   "name": "MikeAI (WAZ)",
+   "built_on": "BASECHAIN"
+  },
+  {
+   "symbol": "MOONI",
+   "name": "MOON INU (MOONI)",
+   "built_on": "BASECHAIN"
+  },
+  {
+   "symbol": "MAMBA",
+   "name": "Mamba (MAMBA)",
+   "built_on": "BASECHAIN"
+  },
+  {
+   "symbol": "DEGEN",
+   "name": "Degen (DEGEN)",
+   "built_on": "BASECHAIN"
+  },
+  {
+   "symbol": "MOXIE",
+   "name": "Moxie (MOXIE)",
+   "built_on": "BASECHAIN"
+  },
+  {
+   "symbol": "TOSHI",
+   "name": "Toshi (TOSHI)",
+   "built_on": "BASECHAIN"
+  },
+  {
+   "symbol": "RAFL",
+   "name": "RAFL (RAFL)",
+   "built_on": "BASECHAIN"
+  },
+  {
+   "symbol": "FOFARBASE",
+   "name": "FOFAR (FOFARBASE)",
+   "built_on": "BASECHAIN"
+  },
+  {
+   "symbol": "ROOST",
+   "name": "Roost Coin (ROOST)",
+   "built_on": "BASECHAIN"
+  },
+  {
+   "symbol": "WARPIE",
+   "name": "Warpie (WARPIE)",
+   "built_on": "BASECHAIN"
+  },
+  {
+   "symbol": "BOSHI",
+   "name": "Boshi (BOSHI)",
+   "built_on": "BASECHAIN"
+  },
+  {
+   "symbol": "ROCCO",
+   "name": "Just A Rock (ROCCO)",
+   "built_on": "BASECHAIN"
+  },
+  {
+   "symbol": "FRENCH",
+   "name": "French On Base (FRENCH)",
+   "built_on": "BASECHAIN"
+  },
+  {
+   "symbol": "BCHB",
+   "name": "Bitcoin Cash on Base (BCHB)",
+   "built_on": "BASECHAIN"
+  },
+  {
+   "symbol": "NETA",
+   "name": "Negative Tax (NETA)",
+   "built_on": "BASECHAIN"
+  },
+  {
+   "symbol": "GOCHU",
+   "name": "Gochujangcoin (GOCHU)",
+   "built_on": "BASECHAIN"
+  },
+  {
+   "symbol": "HIM",
+   "name": "Human Intelligence Machine (HIM)",
+   "built_on": "BASECHAIN"
+  },
+  {
+   "symbol": "WAGIE",
+   "name": "Wagie (WAGIE)",
+   "built_on": "BASECHAIN"
+  },
+  {
+   "symbol": "RYU",
+   "name": "The Blue Dragon (RYU)",
+   "built_on": "BASECHAIN"
+  },
+  {
+   "symbol": "HOCAI",
+   "name": "Heroes of Crypto AI (HOCAI)",
+   "built_on": "BASECHAIN"
+  },
+  {
+   "symbol": "MRBASED",
+   "name": "MrBased (MRBASED)",
+   "built_on": "BASECHAIN"
+  },
+  {
+   "symbol": "CBBTC",
+   "name": "cbBTC (CBBTC)",
+   "built_on": "BASECHAIN"
+  },
+  {
+   "symbol": "KRAV",
+   "name": "Krav (KRAV)",
+   "built_on": "BASECHAIN"
+  },
+  {
+   "symbol": "CARLO",
+   "name": "Carlo (CARLO)",
+   "built_on": "BASECHAIN"
+  },
+  {
+   "symbol": "BABYCRASH",
+   "name": "BabyCrash (BABYCRASH)",
+   "built_on": "BASECHAIN"
+  },
+  {
+   "symbol": "TUTTER",
+   "name": "Tutter (TUTTER)",
+   "built_on": "BASECHAIN"
+  },
+  {
+   "symbol": "BASEAI",
+   "name": "BaseAI (BASEAI)",
+   "built_on": "BASECHAIN"
+  },
+  {
+   "symbol": "CONDO",
+   "name": "CONDO (CONDO)",
+   "built_on": "BASECHAIN"
+  },
+  {
+   "symbol": "GODCAT",
+   "name": "GodcatExplodingKittens (GODCAT)",
+   "built_on": "BASECHAIN"
+  },
+  {
+   "symbol": "EDE",
+   "name": "El Dorado Exchange (EDE)",
+   "built_on": "BASECHAIN"
+  },
+  {
+   "symbol": "PEEZY",
+   "name": "Young Peezy AKA Pepe (PEEZY)",
+   "built_on": "BASECHAIN"
+  },
+  {
+   "symbol": "MAGN",
+   "name": "Magnate Finance (MAGN)",
+   "built_on": "BASECHAIN"
+  },
+  {
+   "symbol": "BOCAT",
+   "name": "BOCAT (BOCAT)",
+   "built_on": "BASECHAIN"
+  },
+  {
+   "symbol": "CUM",
+   "name": "Cumbackbears (CUM)",
+   "built_on": "BASECHAIN"
+  },
+  {
+   "symbol": "GROOVE",
+   "name": "GROOVE (GROOVE)",
+   "built_on": "BASECHAIN"
+  },
+  {
+   "symbol": "SEAM",
+   "name": "Seamless Protocol (SEAM)",
+   "built_on": "BASECHAIN"
+  },
+  {
+   "symbol": "RSUSHI",
+   "name": "Sushi (Rainbow Bridge) (RSUSHI)"
+  },
+  {
+   "symbol": "DABCAT",
+   "name": "Dabcat (DABCAT)",
+   "built_on": "BASECHAIN"
+  },
+  {
+   "symbol": "BROOT",
+   "name": "BROOT (BROOT)",
+   "built_on": "BASECHAIN"
+  },
+  {
+   "symbol": "BOOMER",
+   "name": "Boomer (BOOMER)",
+   "built_on": "BASECHAIN"
+  },
+  {
+   "symbol": "DILIGENT",
+   "name": "Diligent Pepe (DILIGENT)",
+   "built_on": "BASECHAIN"
+  },
+  {
+   "symbol": "RALLY",
+   "name": "Trump Rally (RALLY)",
+   "built_on": "BASECHAIN"
+  },
+  {
+   "symbol": "ROKM",
+   "name": "Rocket Ma (ROKM)",
+   "built_on": "BASECHAIN"
+  },
+  {
+   "symbol": "CORNELLA",
+   "name": "CORNELLA (CORNELLA)",
+   "built_on": "BASECHAIN"
+  },
+  {
+   "symbol": "AIGPU",
+   "name": "AIGPU Token (AIGPU)",
+   "built_on": "BASECHAIN"
+  },
+  {
+   "symbol": "BGUY",
+   "name": "The Big Guy (BGUY)",
+   "built_on": "BASECHAIN"
+  },
+  {
+   "symbol": "BORKIE",
+   "name": "Borkie (BORKIE)",
+   "built_on": "BASECHAIN"
+  },
+  {
+   "symbol": "BOBBYM",
+   "name": "Bobby Moore (BOBBYM)",
+   "built_on": "BASECHAIN"
+  },
+  {
+   "symbol": "PRESI",
+   "name": "Turbo Trump (PRESI)",
+   "built_on": "BASECHAIN"
+  },
+  {
+   "symbol": "CAKE",
+   "name": "PancakeSwap (CAKE)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "KEPT",
+   "name": "KeptChain (KEPT)",
+   "built_on": "BASECHAIN"
+  },
+  {
+   "symbol": "DACKIE",
+   "name": "DackieSwap (DACKIE)",
+   "built_on": "BASECHAIN"
+  },
+  {
+   "symbol": "SKOP",
+   "name": "Skulls of Pepe Token (SKOP)",
+   "built_on": "BASECHAIN"
+  },
+  {
+   "symbol": "POLAO",
+   "name": "Pola On Base (POLAO)",
+   "built_on": "BASECHAIN"
+  },
+  {
+   "symbol": "LBM",
+   "name": "Libertum (LBM)",
+   "built_on": "BASECHAIN"
+  },
+  {
+   "symbol": "SWPRS",
+   "name": "Maid Sweepers (SWPRS)",
+   "built_on": "BASECHAIN"
+  },
+  {
+   "symbol": "WEIRDO",
+   "name": "Weirdo (WEIRDO)",
+   "built_on": "BASECHAIN"
+  },
+  {
+   "symbol": "BSHIB",
+   "name": "Based Shiba Inu (BSHIB)",
+   "built_on": "BASECHAIN"
+  },
+  {
+   "symbol": "SQUOGE",
+   "name": "DogeSquatch (SQUOGE)",
+   "built_on": "BASECHAIN"
+  },
+  {
+   "symbol": "TYBG",
+   "name": "Base God (TYBG)",
+   "built_on": "BASECHAIN"
+  },
+  {
+   "symbol": "GCAT",
+   "name": "Giga Cat on Base (GCAT)",
+   "built_on": "BASECHAIN"
+  },
+  {
+   "symbol": "BODA",
+   "name": "Based Yoda (BODA)",
+   "built_on": "BASECHAIN"
+  },
+  {
+   "symbol": "PURRC",
+   "name": "Purrcoin (PURRC)",
+   "built_on": "BASECHAIN"
+  },
+  {
+   "symbol": "FOMO",
+   "name": "FOMO BULL CLUB (FOMO)",
+   "built_on": "BASECHAIN"
+  },
+  {
+   "symbol": "LEET",
+   "name": "LeetSwap (LEET)",
+   "built_on": "BASECHAIN"
+  },
+  {
+   "symbol": "BENG",
+   "name": "Based Peng (BENG)",
+   "built_on": "BASECHAIN"
+  },
+  {
+   "symbol": "FROK",
+   "name": "Frok.ai (FROK)",
+   "built_on": "BASECHAIN"
+  },
+  {
+   "symbol": "SLEPE",
+   "name": "Slepe (SLEPE)",
+   "built_on": "BASECHAIN"
+  },
+  {
+   "symbol": "RTD",
+   "name": "Retard (RTD)",
+   "built_on": "BASECHAIN"
+  },
+  {
+   "symbol": "JELLI",
+   "name": "JELLI (JELLI)",
+   "built_on": "BASECHAIN"
+  },
+  {
+   "symbol": "BLERF",
+   "name": "BLERF (BLERF)",
+   "built_on": "BASECHAIN"
+  },
+  {
+   "symbol": "MONEYBEE",
+   "name": "MONEYBEE (MONEYBEE)",
+   "built_on": "BASECHAIN"
+  },
+  {
+   "symbol": "RECORD",
+   "name": "Music Protocol (RECORD)",
+   "built_on": "BASECHAIN"
+  },
+  {
+   "symbol": "BLOO",
+   "name": "bloo foster coin (BLOO)",
+   "built_on": "BASECHAIN"
+  },
+  {
+   "symbol": "SNORT",
+   "name": "SNORT (SNORT)",
+   "built_on": "BASECHAIN"
+  },
+  {
+   "symbol": "OTTERSPACE",
+   "name": "Otter Space (OTTERSPACE)",
+   "built_on": "BASECHAIN"
+  },
+  {
+   "symbol": "ANIME",
+   "name": "Anime (ANIME)",
+   "built_on": "BASECHAIN"
+  },
+  {
+   "symbol": "BALD",
+   "name": "Bald (BALD)",
+   "built_on": "BASECHAIN"
+  },
+  {
+   "symbol": "FATH",
+   "name": "Father Of Meme: Origin (FATH)",
+   "built_on": "BASECHAIN"
+  },
+  {
+   "symbol": "PANDE",
+   "name": "Pande (PANDE)",
+   "built_on": "BASECHAIN"
+  },
+  {
+   "symbol": "PEACH",
+   "name": "Based Peaches (PEACH)",
+   "built_on": "BASECHAIN"
+  },
+  {
+   "symbol": "BRATT",
+   "name": "Son of Brett (BRATT)",
+   "built_on": "BASECHAIN"
+  },
+  {
+   "symbol": "CRYPTOJ",
+   "name": "Crypto Journey (CRYPTOJ)",
+   "built_on": "BASECHAIN"
+  },
+  {
+   "symbol": "FP",
+   "name": "Fren Pet (FP)",
+   "built_on": "BASECHAIN"
+  },
+  {
+   "symbol": "MARVINB",
+   "name": "Marvin on Base (MARVINB)",
+   "built_on": "BASECHAIN"
+  },
+  {
+   "symbol": "CHIDO",
+   "name": "Chinese Doge Wow (CHIDO)",
+   "built_on": "BASECHAIN"
+  },
+  {
+   "symbol": "BALT",
+   "name": "Brett's cat (BALT)",
+   "built_on": "BASECHAIN"
+  },
+  {
+   "symbol": "QUAC",
+   "name": "QUACK (QUAC)",
+   "built_on": "BASECHAIN"
+  },
+  {
+   "symbol": "BLUEG",
+   "name": "Blue Guy (BLUEG)",
+   "built_on": "BASECHAIN"
+  },
+  {
+   "symbol": "LAWO",
+   "name": "Law Of Attraction (LAWO)",
+   "built_on": "BASECHAIN"
+  },
+  {
+   "symbol": "TOBY",
+   "name": "toby (TOBY)",
+   "built_on": "BASECHAIN"
+  },
+  {
+   "symbol": "ROXY",
+   "name": "ROXY FROG (ROXY)",
+   "built_on": "BASECHAIN"
+  },
+  {
+   "symbol": "HIGHER",
+   "name": "Higher (HIGHER)",
+   "built_on": "BASECHAIN"
+  },
+  {
+   "symbol": "TOSHE",
+   "name": "Toshe (TOSHE)",
+   "built_on": "BASECHAIN"
+  },
+  {
+   "symbol": "WBLT",
+   "name": "Wrapped BMX Liquidity Token (WBLT)",
+   "built_on": "BASECHAIN"
+  },
+  {
+   "symbol": "FRIEND",
+   "name": "Friend.tech (FRIEND)",
+   "built_on": "BASECHAIN"
+  },
+  {
+   "symbol": "REFLECT",
+   "name": "REFLECT (REFLECT)",
+   "built_on": "BASECHAIN"
+  },
+  {
+   "symbol": "MOOLA",
+   "name": "Degen Forest (MOOLA)",
+   "built_on": "BASECHAIN"
+  },
+  {
+   "symbol": "BENI",
+   "name": "Beni (BENI)",
+   "built_on": "BASECHAIN"
+  },
+  {
+   "symbol": "BLACKR",
+   "name": "BLACK ROCK (BLACKR)",
+   "built_on": "BASECHAIN"
+  },
+  {
+   "symbol": "BSWAP",
+   "name": "BaseSwap (BSWAP)",
+   "built_on": "BASECHAIN"
+  },
+  {
+   "symbol": "MABA",
+   "name": "Make America Based Again (MABA)",
+   "built_on": "BASECHAIN"
+  },
+  {
+   "symbol": "CHOO",
+   "name": "Chooky (CHOO)",
+   "built_on": "BASECHAIN"
+  },
+  {
+   "symbol": "ONCH",
+   "name": "OnchainPoints.xyz (ONCH)",
+   "built_on": "BASECHAIN"
+  },
+  {
+   "symbol": "GREE",
+   "name": "Green God Candle (GREE)",
+   "built_on": "BASECHAIN"
+  },
+  {
+   "symbol": "BLING",
+   "name": "PLEB DREKE (BLING)",
+   "built_on": "BASECHAIN"
+  },
+  {
+   "symbol": "BSB",
+   "name": "Based Street Bets (BSB)",
+   "built_on": "BASECHAIN"
+  },
+  {
+   "symbol": "FUNGI",
+   "name": "Fungi (FUNGI)",
+   "built_on": "BASECHAIN"
+  },
+  {
+   "symbol": "FPEPE",
+   "name": "Based Father Pepe (FPEPE)",
+   "built_on": "BASECHAIN"
+  },
+  {
+   "symbol": "DOGINME",
+   "name": "doginme (DOGINME)",
+   "built_on": "BASECHAIN"
+  },
+  {
+   "symbol": "USDBC",
+   "name": "Bridged USDC (USDBC)",
+   "built_on": "BASECHAIN"
+  },
+  {
+   "symbol": "AERO",
+   "name": "Aerodrome Finance (AERO)",
+   "built_on": "BASECHAIN"
+  },
+  {
+   "symbol": "GRASS",
+   "name": "Touch Grass (GRASS)",
+   "built_on": "BASECHAIN"
+  },
+  {
+   "symbol": "DOOMER",
+   "name": "Doomer (DOOMER)",
+   "built_on": "BASECHAIN"
+  },
+  {
+   "symbol": "KEYCAT",
+   "name": "Keyboard Cat (KEYCAT)",
+   "built_on": "BASECHAIN"
+  },
+  {
+   "symbol": "BONKONBASE",
+   "name": "Bonk on Base (BONKONBASE)",
+   "built_on": "BASECHAIN"
+  },
+  {
+   "symbol": "AEROBUD",
+   "name": "Aerobud (AEROBUD)",
+   "built_on": "BASECHAIN"
+  },
+  {
+   "symbol": "BANANAS",
+   "name": "Monkey Peepo (BANANAS)",
+   "built_on": "BASECHAIN"
+  },
+  {
+   "symbol": "BASEDS",
+   "name": "BasedSwap (BASEDS)",
+   "built_on": "BASECHAIN"
+  },
+  {
+   "symbol": "MPAA",
+   "name": "MPAA (MPAA)",
+   "built_on": "BASECHAIN"
+  },
+  {
+   "symbol": "EAI",
+   "name": "Eagle AI (EAI)",
+   "built_on": "BASECHAIN"
+  },
+  {
+   "symbol": "BRIUN",
+   "name": "Briun Armstrung (BRIUN)",
+   "built_on": "BASECHAIN"
+  },
+  {
+   "symbol": "BENTO",
+   "name": "Bento (BENTO)",
+   "built_on": "BASECHAIN"
+  },
+  {
+   "symbol": "NORMUS",
+   "name": "NORMUS (NORMUS)",
+   "built_on": "BASECHAIN"
+  },
+  {
+   "symbol": "WLTH",
+   "name": "Common Wealth (WLTH)",
+   "built_on": "BASECHAIN"
+  },
+  {
+   "symbol": "9MM",
+   "name": "Shigure UI (9MM)",
+   "built_on": "BASECHAIN"
+  },
+  {
+   "symbol": "MFER",
+   "name": "mfercoin (MFER)",
+   "built_on": "BASECHAIN"
+  },
+  {
+   "symbol": "OKAYEG",
+   "name": "Okayeg (OKAYEG)",
+   "built_on": "BASECHAIN"
+  },
+  {
+   "symbol": "PONCHO",
+   "name": "Poncho (PONCHO)",
+   "built_on": "BASECHAIN"
+  },
+  {
+   "symbol": "KATT",
+   "name": "Katt Daddy (KATT)",
+   "built_on": "BASECHAIN"
+  },
+  {
+   "symbol": "BROGG",
+   "name": "Brett's Dog (BROGG)",
+   "built_on": "BASECHAIN"
+  },
+  {
+   "symbol": "RCKT",
+   "name": "RocketSwap (RCKT)",
+   "built_on": "BASECHAIN"
+  },
+  {
+   "symbol": "DCM",
+   "name": "Ducky City (DCM)",
+   "built_on": "BASECHAIN"
+  },
+  {
+   "symbol": "BADC",
+   "name": "BADCAT (BADC)",
+   "built_on": "BASECHAIN"
+  },
+  {
+   "symbol": "HAMSTERB",
+   "name": "HamsterBase (HAMSTERB)",
+   "built_on": "BASECHAIN"
+  },
+  {
+   "symbol": "BASECAT",
+   "name": "BASE CAT (BASECAT)",
+   "built_on": "BASECHAIN"
+  },
+  {
+   "symbol": "BTAMA",
+   "name": "Basetama (BTAMA)",
+   "built_on": "BASECHAIN"
+  },
+  {
+   "symbol": "BOGE",
+   "name": "Boge (BOGE)",
+   "built_on": "BASECHAIN"
+  },
+  {
+   "symbol": "SKIPUP",
+   "name": "SKI MASK PUP (SKIPUP)",
+   "built_on": "BASECHAIN"
+  },
+  {
+   "symbol": "MOONB",
+   "name": "Moon Base (MOONB)",
+   "built_on": "BASECHAIN"
+  },
+  {
+   "symbol": "CHRETT",
+   "name": "Chinese BRETT (CHRETT)",
+   "built_on": "BASECHAIN"
+  },
+  {
+   "symbol": "CHOMP",
+   "name": "ChompCoin (CHOMP)",
+   "built_on": "BASECHAIN"
+  },
+  {
+   "symbol": "BUM",
+   "name": "WillyBumBum (BUM)",
+   "built_on": "BASECHAIN"
+  },
+  {
+   "symbol": "JEETOLAX",
+   "name": "Jeetolax (JEETOLAX)",
+   "built_on": "BASECHAIN"
+  },
+  {
+   "symbol": "AWK",
+   "name": "Awkward Monkey Base (AWK)",
+   "built_on": "BASECHAIN"
+  },
+  {
+   "symbol": "ALB",
+   "name": "Alien Base (ALB)",
+   "built_on": "BASECHAIN"
+  },
+  {
+   "symbol": "MIGGLEI",
+   "name": "Migglei (MIGGLEI)",
+   "built_on": "BASECHAIN"
+  },
+  {
+   "symbol": "BASEDR",
+   "name": "Based Rabbit (BASEDR)",
+   "built_on": "BASECHAIN"
+  },
+  {
+   "symbol": "APETARDIO",
+   "name": "Apetardio (APETARDIO)",
+   "built_on": "BASECHAIN"
+  },
+  {
+   "symbol": "DEFIDO",
+   "name": "DeFido (DEFIDO)",
+   "built_on": "BASECHAIN"
+  },
+  {
+   "symbol": "DANG",
+   "name": "Guangdang (DANG)",
+   "built_on": "BASECHAIN"
+  },
+  {
+   "symbol": "POOPC",
+   "name": "Poopcoin (POOPC)",
+   "built_on": "BASECHAIN"
+  },
+  {
+   "symbol": "BOJAK",
+   "name": "Based Wojak (BOJAK)",
+   "built_on": "BASECHAIN"
+  },
+  {
+   "symbol": "LUNARLENS",
+   "name": "Lunarlens (LUNARLENS)",
+   "built_on": "BASECHAIN"
+  },
+  {
+   "symbol": "BABYMIGGLES",
+   "name": "Baby Miggles (BABYMIGGLES)",
+   "built_on": "BASECHAIN"
+  },
+  {
+   "symbol": "BUIDL",
+   "name": "Starter.xyz (BUIDL)",
+   "built_on": "BASECHAIN"
+  },
+  {
+   "symbol": "HACHIONB",
+   "name": "Hachi On Base (HACHIONB)",
+   "built_on": "BASECHAIN"
+  },
+  {
+   "symbol": "AIINU",
+   "name": "AI INU (AIINU)",
+   "built_on": "BASECHAIN"
+  },
+  {
+   "symbol": "MOONS",
+   "name": "Sailor Moons (MOONS)",
+   "built_on": "BASECHAIN"
+  },
+  {
+   "symbol": "BRITT",
+   "name": "Britt (BRITT)",
+   "built_on": "BASECHAIN"
+  },
+  {
+   "symbol": "TRUMPONBASE",
+   "name": "TRUMP ON BASE (TRUMPONBASE)",
+   "built_on": "BASECHAIN"
+  },
+  {
+   "symbol": "OWO",
+   "name": "SoMon (OWO)",
+   "built_on": "BASECHAIN"
+  },
+  {
+   "symbol": "BRETTBASE",
+   "name": "Brett Base (BRETTBASE)",
+   "built_on": "BASECHAIN"
+  },
+  {
+   "symbol": "NIPPY",
+   "name": "Cat On Catnip (NIPPY)",
+   "built_on": "BASECHAIN"
+  },
+  {
+   "symbol": "GTRUMP",
+   "name": "Giga Trump (GTRUMP)",
+   "built_on": "BASECHAIN"
+  },
+  {
+   "symbol": "MOEW",
+   "name": "donotfomoew (MOEW)",
+   "built_on": "BASECHAIN"
+  },
+  {
+   "symbol": "BUB",
+   "name": "BUBCAT (BUB)",
+   "built_on": "BASECHAIN"
+  },
+  {
+   "symbol": "BERF",
+   "name": "BERF (BERF)",
+   "built_on": "BASECHAIN"
+  },
+  {
+   "symbol": "OZMPC",
+   "name": "Ozempic (OZMPC)",
+   "built_on": "BASECHAIN"
+  },
+  {
+   "symbol": "AXON",
+   "name": "AxonDAO Governance Token (AXON)",
+   "built_on": "BASECHAIN"
+  },
+  {
+   "symbol": "CAROL",
+   "name": "CAROLToken (CAROL)",
+   "built_on": "BASECHAIN"
+  },
+  {
+   "symbol": "NEGED",
+   "name": "Neged (NEGED)",
+   "built_on": "BASECHAIN"
+  },
+  {
+   "symbol": "BRETTA",
+   "name": "Bretta (BRETTA)",
+   "built_on": "BASECHAIN"
+  },
+  {
+   "symbol": "BRIAN",
+   "name": "Brianwifhat (BRIAN)",
+   "built_on": "BASECHAIN"
+  },
+  {
+   "symbol": "POLLUK",
+   "name": "Jasse Polluk (POLLUK)",
+   "built_on": "BASECHAIN"
+  },
+  {
+   "symbol": "JOGECO",
+   "name": "Jogecodog (JOGECO)",
+   "built_on": "BASECHAIN"
+  },
+  {
+   "symbol": "BBRETT",
+   "name": "Baby Brett (BBRETT)",
+   "built_on": "BASECHAIN"
+  },
+  {
+   "symbol": "PEPLO",
+   "name": "Peplo Escobar (PEPLO)",
+   "built_on": "BASECHAIN"
+  },
+  {
+   "symbol": "SMUDCAT",
+   "name": "Smudge Cat (SMUDCAT)",
+   "built_on": "BASECHAIN"
+  },
+  {
+   "symbol": "MIGGLES",
+   "name": "Mr Miggles (MIGGLES)",
+   "built_on": "BASECHAIN"
+  }
+ ]
+}
