@@ -1,0 +1,91 @@
+{
+ "added": [
+  {
+   "symbol": "ALPHAPETTO",
+   "name": "Alpha Petto Shells (ALPHAPETTO)",
+   "built_on": "MATIC"
+  },
+  {
+   "symbol": "POX",
+   "name": "Monkey Pox (POX)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "POLLUX",
+   "name": "Pollux Coin (POLLUX)",
+   "built_on": "TRX"
+  },
+  {
+   "symbol": "QGOLD",
+   "name": "Quorium (QGOLD)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "ERD",
+   "name": "Elrond (ERD)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "EUTBL",
+   "name": "Spiko EU T-Bills Money Market Fund (EUTBL)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "APES",
+   "name": "APES (APES)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "SIMON",
+   "name": "Simon's Cat (SIMON)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "EKUBO",
+   "name": "Ekubo Protocol (EKUBO)",
+   "built_on": "STRK"
+  },
+  {
+   "symbol": "SOLVBTC",
+   "name": "Solv Protocol SolvBTC (SOLVBTC)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "SWBTC",
+   "name": "Swell Restaked BTC (SWBTC)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "BANKETH",
+   "name": "BankEth (BANKETH)"
+  },
+  {
+   "symbol": "WOLF",
+   "name": "LANDWOLF (AVAX) (WOLF)",
+   "built_on": "AVAX"
+  },
+  {
+   "symbol": "GETH",
+   "name": "Guarded Ether (GETH)"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "APES",
+   "name": "Alpha Petto Shells (APES)",
+   "built_on": "MATIC"
+  },
+  {
+   "symbol": "ZEDCOIN",
+   "name": "ZedCoin (ZEDCOIN)"
+  },
+  {
+   "symbol": "GGP",
+   "name": "GGPro (GGP)"
+  },
+  {
+   "symbol": "ERD",
+   "name": "Elrond (ERD)"
+  }
+ ]
+}

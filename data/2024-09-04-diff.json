@@ -1,0 +1,174 @@
+{
+ "added": [
+  {
+   "symbol": "UTES",
+   "name": "Evolve Canadian Utilities Enhanced Yield Index Fund",
+   "exchange": "TSX",
+   "yahoo_symbol": "UTES.TO",
+   "instruments": [
+    {
+     "name": "EVCd UEnh YldIdx ETF",
+     "symbol": "UTES"
+    }
+   ]
+  },
+  {
+   "symbol": "CURR",
+   "name": "Currenc Group Inc. - Ordinary Shares",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "CURR"
+  },
+  {
+   "symbol": "GIFT",
+   "name": "RDE, Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "GIFT"
+  },
+  {
+   "symbol": "LPAA",
+   "name": "Launch One Acquisition Corp. - Class A Ordinary Shares",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "LPAA"
+  },
+  {
+   "symbol": "LPAAW",
+   "name": "Launch One Acquisition Corp. - Warrant",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "LPAAW"
+  },
+  {
+   "symbol": "MQQQ",
+   "name": "Tradr 2X Long Triple Q Monthly ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "MQQQ"
+  },
+  {
+   "symbol": "NVDW",
+   "name": "Tradr 1.75X Long NVDA Weekly ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "NVDW"
+  },
+  {
+   "symbol": "QQQW",
+   "name": "Tradr 2X Long Triple Q Weekly ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "QQQW"
+  },
+  {
+   "symbol": "SOXM",
+   "name": "Tradr 2X Long SOXX Monthly ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "SOXM"
+  },
+  {
+   "symbol": "SOXW",
+   "name": "Tradr 2X Long SOXX Weekly ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "SOXW"
+  },
+  {
+   "symbol": "SPYB",
+   "name": "Tradr 2X Long SPY Weekly ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "SPYB"
+  },
+  {
+   "symbol": "SPYM",
+   "name": "Tradr 2X Long SPY Monthly ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "SPYM"
+  },
+  {
+   "symbol": "TSLW",
+   "name": "Tradr 1.5X Long TSLA Weekly ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "TSLW"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "CNDA.U",
+   "name": "Concord Acquisition Corp II Units",
+   "exchange": "NYSE MKT",
+   "yahoo_symbol": "CNDA.U"
+  },
+  {
+   "symbol": "GLG",
+   "name": "GLG Life Tech Corporation",
+   "exchange": "TSX",
+   "yahoo_symbol": "GLG.TO",
+   "instruments": [
+    {
+     "name": "GLG Life Tech Corp J",
+     "symbol": "GLG"
+    }
+   ]
+  },
+  {
+   "symbol": "RSTN",
+   "name": "RDE, Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "RSTN"
+  },
+  {
+   "symbol": "DO",
+   "name": "Diamond Offshore Drilling, Inc. Common Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "DO"
+  },
+  {
+   "symbol": "CLOEU",
+   "name": "Clover Leaf Capital Corp. - Unit",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "CLOEU"
+  },
+  {
+   "symbol": "CLOE",
+   "name": "Clover Leaf Capital Corp. - Class A Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "CLOE"
+  },
+  {
+   "symbol": "OSI",
+   "name": "Osino Resources Corp.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "OSI.V",
+   "instruments": [
+    {
+     "name": "Osino Resources Corp.",
+     "symbol": "OSI"
+    }
+   ]
+  },
+  {
+   "symbol": "CNDA.W",
+   "name": "Concord Acquisition Corp II Warrants, each whole warrant exercisable for one share of Class A Common Stock at an exercise price of $11.50",
+   "exchange": "NYSE MKT",
+   "yahoo_symbol": "CNDA.W"
+  },
+  {
+   "symbol": "CNDA",
+   "name": "Concord Acquisition Corp II Class A Common Stock",
+   "exchange": "NYSE MKT",
+   "yahoo_symbol": "CNDA"
+  },
+  {
+   "symbol": "CLOER",
+   "name": "Clover Leaf Capital Corp. - Rights",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "CLOER"
+  },
+  {
+   "symbol": "AR.DB.U",
+   "name": "Argonaut Gold Inc.",
+   "exchange": "TSX",
+   "yahoo_symbol": "AR.DB.U.TO",
+   "instruments": [
+    {
+     "name": "Argonaut Gld J Db US",
+     "symbol": "AR.DB.U"
+    }
+   ]
+  }
+ ]
+}
