@@ -1,0 +1,76 @@
+{
+ "added": [
+  {
+   "symbol": "VOL.WT.A",
+   "name": "Volatus Aerospace Corp.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "VOL.WT.A.V",
+   "instruments": [
+    {
+     "name": "Volatus Aerospace Corp. wt 06Oct2024",
+     "symbol": "VOL.WT.A"
+    }
+   ]
+  },
+  {
+   "symbol": "CONI",
+   "name": "GraniteShares 1x Short COIN Daily ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "CONI"
+  },
+  {
+   "symbol": "PTIR",
+   "name": "GraniteShares 2x Long PLTR Daily ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "PTIR"
+  },
+  {
+   "symbol": "UBRL",
+   "name": "GraniteShares 2x Long UBER Daily ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "UBRL"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "DNA.W",
+   "name": "Ginkgo Bioworks Holdings, Inc. Warrant",
+   "exchange": "NYSE",
+   "yahoo_symbol": "DNA.W"
+  },
+  {
+   "symbol": "MINDP",
+   "name": "MIND Technology, Inc. - Series A 9.00% Series A Cumulative Preferred Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "MINDP"
+  },
+  {
+   "symbol": "VOL",
+   "name": "Volatus Aerospace Corp.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "VOL.V",
+   "instruments": [
+    {
+     "name": "Volatus Aerospace Corp.",
+     "symbol": "VOL"
+    },
+    {
+     "name": "Volatus Aerospace Corp. wt 06Oct2024",
+     "symbol": "VOL.WT.A"
+    }
+   ]
+  },
+  {
+   "symbol": "AMK",
+   "name": "AssetMark Financial Holdings, Inc. Common Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "AMK"
+  },
+  {
+   "symbol": "JEWL",
+   "name": "Adamas One Corp. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "JEWL"
+  }
+ ]
+}

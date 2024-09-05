@@ -1,0 +1,74 @@
+{
+ "added": [
+  {
+   "symbol": "YFIEXCHANGE",
+   "name": "YFIEXCHANGE.FINANCE (YFIEXCHANGE)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "ZEDCOIN",
+   "name": "ZedCoin (ZEDCOIN)"
+  },
+  {
+   "symbol": "YFIE",
+   "name": "yearn.finance (Avalanche Bridge) (YFIE)",
+   "built_on": "AVAX"
+  },
+  {
+   "symbol": "BANKETH",
+   "name": "BankEth (BANKETH)"
+  },
+  {
+   "symbol": "ZKCRO",
+   "name": "Cronos zkEVM CRO (ZKCRO)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "DYAD",
+   "name": "Dyad Stable (DYAD)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "CYDX",
+   "name": "CyberDEX (CYDX)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "ZTK",
+   "name": "Zefi (ZTK)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "VISTA",
+   "name": "Ethervista (VISTA)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "NATI",
+   "name": "IlluminatiCoin (NATI)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "STUFF",
+   "name": "STUFF.io (STUFF)",
+   "built_on": "ADA"
+  },
+  {
+   "symbol": "G",
+   "name": "Gravity (G)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "NST",
+   "name": "Ninja Squad Token (NST)",
+   "built_on": "ETH"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "YFIE",
+   "name": "YFIEXCHANGE.FINANCE (YFIE)",
+   "built_on": "ETH"
+  }
+ ]
+}
