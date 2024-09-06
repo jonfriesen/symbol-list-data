@@ -1,0 +1,83 @@
+{
+ "added": [
+  {
+   "symbol": "21BTC",
+   "name": "21.co Wrapped BTC (21BTC)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "SUSX",
+   "name": "Savings USX (SUSX)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "SFLR",
+   "name": "Sceptre Staked FLR (SFLR)",
+   "built_on": "FLR"
+  },
+  {
+   "symbol": "DATOM",
+   "name": "Drop Staked ATOM (DATOM)",
+   "built_on": "ATOM"
+  },
+  {
+   "symbol": "FXUSD",
+   "name": "f(x) Protocol fxUSD (FXUSD)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "RFRM",
+   "name": "Reform DAO (RFRM)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "GETH",
+   "name": "Guarded Ether (GETH)"
+  },
+  {
+   "symbol": "MONOPOLY",
+   "name": "Meta Monopoly (MONOPOLY)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "SUPEROETHB",
+   "name": "Super OETH (SUPEROETHB)",
+   "built_on": "BASE"
+  },
+  {
+   "symbol": "LTD",
+   "name": "Limited Coin (LTD)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "JEST",
+   "name": "Jester (JEST)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "GKAPPA",
+   "name": "Golden Kappa (GKAPPA)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "BANK",
+   "name": "Float Protocol (BANK)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "USR",
+   "name": "Resolv USR (USR)",
+   "built_on": "ETH"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "ZEDCOIN",
+   "name": "ZedCoin (ZEDCOIN)"
+  },
+  {
+   "symbol": "LTD",
+   "name": "Limited Coin (LTD)"
+  }
+ ]
+}
