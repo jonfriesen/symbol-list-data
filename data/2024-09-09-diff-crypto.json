@@ -1,0 +1,43 @@
+{
+ "added": [
+  {
+   "symbol": "USTBL",
+   "name": "Spiko US T-Bills Money Market Fund (USTBL)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "LCR",
+   "name": "Lucro (LCR)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "LUCRE",
+   "name": "Lucre (LUCRE)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "LIMITEDCOIN",
+   "name": "Limited Coin (LIMITEDCOIN)"
+  },
+  {
+   "symbol": "GETH",
+   "name": "Guarded Ether (GETH)"
+  },
+  {
+   "symbol": "BANKETH",
+   "name": "BankEth (BANKETH)"
+  },
+  {
+   "symbol": "PUFFY",
+   "name": "Puffy (PUFFY)",
+   "built_on": "SOL"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "LCR",
+   "name": "Lucre (LCR)",
+   "built_on": "ETH"
+  }
+ ]
+}

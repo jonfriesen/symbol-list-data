@@ -1,0 +1,120 @@
+{
+ "added": [
+  {
+   "symbol": "GHRT",
+   "name": "Greenheart Gold Inc.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "GHRT.V",
+   "instruments": [
+    {
+     "name": "Greenheart Gold Inc.",
+     "symbol": "GHRT"
+    }
+   ]
+  },
+  {
+   "symbol": "POLEU",
+   "name": "Andretti Acquisition Corp. II - Unit",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "POLEU"
+  },
+  {
+   "symbol": "RIME",
+   "name": "Algorhythm Holdings, Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "RIME"
+  },
+  {
+   "symbol": "VCICU",
+   "name": "Vine Hill Capital Investment Corp. - Unit",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "VCICU"
+  },
+  {
+   "symbol": "INVX",
+   "name": "Innovex International, Inc. Common Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "INVX"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "DRQ",
+   "name": "Dril-Quip, Inc. Common Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "DRQ"
+  },
+  {
+   "symbol": "MICS",
+   "name": "The Singing Machine Company, Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "MICS"
+  },
+  {
+   "symbol": "EAC",
+   "name": "Earth Alive Clean Technologies Inc.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "EAC.V",
+   "instruments": [
+    {
+     "name": "Earth Alive Clean Technologies Inc.",
+     "symbol": "EAC"
+    }
+   ]
+  },
+  {
+   "symbol": "JTAIW",
+   "name": "Jet.AI Inc. - Warrant",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "JTAIW"
+  },
+  {
+   "symbol": "AFARW",
+   "name": "Aura FAT Projects Acquisition Corp - Warrant",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "AFARW"
+  },
+  {
+   "symbol": "CEM",
+   "name": "ClearBridge MLP and Midstream Fund Inc. Common Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "CEM"
+  },
+  {
+   "symbol": "CTR",
+   "name": "ClearBridge MLP and Midstream Total Return Fund Inc. Common Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "CTR"
+  },
+  {
+   "symbol": "AFARU",
+   "name": "Aura FAT Projects Acquisition Corp - Unit",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "AFARU"
+  },
+  {
+   "symbol": "AFAR",
+   "name": "Aura FAT Projects Acquisition Corp - Class A Ordinary Shares",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "AFAR"
+  },
+  {
+   "symbol": "FCRH",
+   "name": "Fidelity U.S. Dividend for Rising Rates Currency Neutral ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "FCRH.TO",
+   "instruments": [
+    {
+     "name": "Fidelity US DivCur L",
+     "symbol": "FCRH"
+    }
+   ]
+  },
+  {
+   "symbol": "JTAIZ",
+   "name": "Jet.AI Inc. - Merger Consideration Warrants",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "JTAIZ"
+  }
+ ]
+}
