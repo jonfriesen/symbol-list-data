@@ -1,0 +1,178 @@
+{
+ "added": [
+  {
+   "symbol": "CGQD.B",
+   "name": "CI Global Quality Dividend Growth Index ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "CGQD.B.TO",
+   "instruments": [
+    {
+     "name": "CIGl QlDiv GrIdx ETF",
+     "symbol": "CGQD.B"
+    }
+   ]
+  },
+  {
+   "symbol": "FGBL",
+   "name": "Forstrong Global Balanced ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "FGBL.TO",
+   "instruments": [
+    {
+     "name": "Forstrong Gl Bl ETF",
+     "symbol": "FGBL"
+    }
+   ]
+  },
+  {
+   "symbol": "MNXT",
+   "name": "Mackenzie Bluewater Next Gen Growth ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "MNXT.TO",
+   "instruments": [
+    {
+     "name": "Mck BlWtr NGen GrETF",
+     "symbol": "MNXT"
+    }
+   ]
+  },
+  {
+   "symbol": "MORE",
+   "name": "Mackenzie Core Resources ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "MORE.TO",
+   "instruments": [
+    {
+     "name": "Mack Core Res ETF",
+     "symbol": "MORE"
+    }
+   ]
+  },
+  {
+   "symbol": "MGQE",
+   "name": "Mackenzie Global Equity ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "MGQE.TO",
+   "instruments": [
+    {
+     "name": "Mack Glbl Equity ETF",
+     "symbol": "MGQE"
+    }
+   ]
+  },
+  {
+   "symbol": "MIQE",
+   "name": "Mackenzie International Equity ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "MIQE.TO",
+   "instruments": [
+    {
+     "name": "Mack Intl Eqty ETF",
+     "symbol": "MIQE"
+    }
+   ]
+  },
+  {
+   "symbol": "GPUS",
+   "name": "Hyperscale Data, Inc. Common Stock",
+   "exchange": "NYSE MKT",
+   "yahoo_symbol": "GPUS"
+  },
+  {
+   "symbol": "GPUS$D",
+   "name": "Hyperscale Data, Inc. 13.00% Series D Cumulative Redeemable Perpetual Preferred Stock",
+   "exchange": "NYSE MKT",
+   "yahoo_symbol": "GPUS$D"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "LSXMK",
+   "name": "Liberty Media Corporation - Series C Liberty SiriusXM Common Stock",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "LSXMK"
+  },
+  {
+   "symbol": "GYM",
+   "name": "TUT Fitness Group Inc.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "GYM.V",
+   "instruments": [
+    {
+     "name": "TUT Fitness Group Inc.",
+     "symbol": "GYM"
+    }
+   ]
+  },
+  {
+   "symbol": "HIPO.W",
+   "name": "Hippo Holdings Inc. Warrants",
+   "exchange": "NYSE",
+   "yahoo_symbol": "HIPO.W"
+  },
+  {
+   "symbol": "NBST",
+   "name": "Newbury Street Acquisition Corporation - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "NBST"
+  },
+  {
+   "symbol": "SOAR.W",
+   "name": "Volato Group, Inc. Redeemable Warrants, each whole warrant exercisable for one share of Class A common stock at an exercise price of $11.50",
+   "exchange": "NYSE MKT",
+   "yahoo_symbol": "SOAR.W"
+  },
+  {
+   "symbol": "NBSTW",
+   "name": "Newbury Street Acquisition Corporation - Warrants",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "NBSTW"
+  },
+  {
+   "symbol": "NBSTU",
+   "name": "Newbury Street Acquisition Corporation - Units",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "NBSTU"
+  },
+  {
+   "symbol": "AULT$D",
+   "name": "Ault Alliance, Inc. 13.00% Series D Cumulative Redeemable Perpetual Preferred Stock",
+   "exchange": "NYSE MKT",
+   "yahoo_symbol": "AULT$D"
+  },
+  {
+   "symbol": "WFLD",
+   "name": "Wellfield Technologies Inc.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "WFLD.V",
+   "instruments": [
+    {
+     "name": "Wellfield Technologies Inc.",
+     "symbol": "WFLD"
+    },
+    {
+     "name": "Wellfield Technologies Inc. wt 23nov2024",
+     "symbol": "WFLD.WT"
+    }
+   ]
+  },
+  {
+   "symbol": "LSXMA",
+   "name": "Liberty Media Corporation - Series A Liberty SiriusXM Common Stock",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "LSXMA"
+  },
+  {
+   "symbol": "LSXMB",
+   "name": "Liberty Media Corporation - Series B Liberty SiriusXM Common Stock",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "LSXMB"
+  },
+  {
+   "symbol": "AULT",
+   "name": "Ault Alliance, Inc. Common Stock",
+   "exchange": "NYSE MKT",
+   "yahoo_symbol": "AULT"
+  }
+ ]
+}

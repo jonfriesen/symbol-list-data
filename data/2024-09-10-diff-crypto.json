@@ -1,0 +1,70 @@
+{
+ "added": [
+  {
+   "symbol": "HUBSOL",
+   "name": "SolanaHub staked SOL (HUBSOL)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "DOMO",
+   "name": "Dony Montana (DOMO)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "WAAC",
+   "name": "Wrapped AyeAyeCoin (WAAC)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "VIKITA",
+   "name": "VIKITA (VIKITA)",
+   "built_on": "TRX"
+  },
+  {
+   "symbol": "DASIAv",
+   "name": "DASIA (DASIA)"
+  },
+  {
+   "symbol": "ADE",
+   "name": "AADex Finance (ADE)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "PIXL",
+   "name": "PIXL (PIXL)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "BANK",
+   "name": "Float Protocol (BANK)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "BLUB",
+   "name": "BLUB (BLUB)",
+   "built_on": "SUI"
+  },
+  {
+   "symbol": "MLINK",
+   "name": "Chainlink (Multichain) (MLINK)",
+   "built_on": "METIS"
+  },
+  {
+   "symbol": "LZUSDC",
+   "name": "LayerZero Bridged USDC (Fantom) (LZUSDC)",
+   "built_on": "FTM"
+  },
+  {
+   "symbol": "G",
+   "name": "Gravity (G)",
+   "built_on": "ETH"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "MLINK",
+   "name": "Chainlink (Multichain) (MLINK)",
+   "built_on": "FTM"
+  }
+ ]
+}
