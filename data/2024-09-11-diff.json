@@ -1,0 +1,146 @@
+{
+ "added": [
+  {
+   "symbol": "FHR",
+   "name": "Fiddlehead Resources Corp.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "FHR.V",
+   "instruments": [
+    {
+     "name": "Fiddlehead Resources Corp.",
+     "symbol": "FHR"
+    },
+    {
+     "name": "Fiddlehead Resources Corp. wts 29Aug2029",
+     "symbol": "FHR.WT"
+    }
+   ]
+  },
+  {
+   "symbol": "DECO",
+   "name": "SPDR Galaxy Digital Asset Ecosystem ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "DECO"
+  },
+  {
+   "symbol": "HECO",
+   "name": "SPDR Galaxy Hedged Digital Asset Ecosystem ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "HECO"
+  },
+  {
+   "symbol": "NIXT",
+   "name": "Research Affiliates Deletions ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "NIXT"
+  },
+  {
+   "symbol": "SAIH",
+   "name": "SAIHEAT Limited - Class A Ordinary Shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "SAIH"
+  },
+  {
+   "symbol": "SAIHW",
+   "name": "SAIHEAT Limited - Warrant",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "SAIHW"
+  },
+  {
+   "symbol": "SJCP",
+   "name": "SanJac Alpha Core Plus Bond ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "SJCP"
+  },
+  {
+   "symbol": "SJLD",
+   "name": "SanJac Alpha Low Duration ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "SJLD"
+  },
+  {
+   "symbol": "TDTH",
+   "name": "Trident Digital Tech Holdings Ltd - American Depository Shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "TDTH"
+  },
+  {
+   "symbol": "TEKX",
+   "name": "SPDR Galaxy Transformative Tech Accelerators ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "TEKX"
+  },
+  {
+   "symbol": "XCH",
+   "name": "XCHG Limited - ADS",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "XCH"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "SAI",
+   "name": "SAI.TECH Global Corporation  - Class A Ordinary Shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "SAI"
+  },
+  {
+   "symbol": "VHAI",
+   "name": "Vocodia Holdings Corp. Common Stock",
+   "exchange": "BATS",
+   "yahoo_symbol": "VHAI"
+  },
+  {
+   "symbol": "VHAI.B",
+   "name": "Vocodia Holdings Corp. Warrants Series B",
+   "exchange": "BATS",
+   "yahoo_symbol": "VHAI.B"
+  },
+  {
+   "symbol": "VLD",
+   "name": "Velo3D, Inc. Common Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "VLD"
+  },
+  {
+   "symbol": "VLD.W",
+   "name": "Velo3D, Inc. Redeemable warrants, each whole warrant exercisable for one share of Common Stock at an exercise price of $11.50",
+   "exchange": "NYSE",
+   "yahoo_symbol": "VLD.W"
+  },
+  {
+   "symbol": "SAITW",
+   "name": "SAI.TECH Global Corporation  - Warrant",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "SAITW"
+  },
+  {
+   "symbol": "SING",
+   "name": "SinglePoint Inc. Common Stock",
+   "exchange": "BATS",
+   "yahoo_symbol": "SING"
+  },
+  {
+   "symbol": "TXT.PR.A",
+   "name": "Top 10 Split Trust",
+   "exchange": "TSX",
+   "yahoo_symbol": "TXT.PR.A.TO",
+   "instruments": [
+    {
+     "name": "Top 10 Split Tr Pr",
+     "symbol": "TXT.PR.A"
+    },
+    {
+     "name": "Top 10 Split Tr Un",
+     "symbol": "TXT.UN"
+    }
+   ]
+  },
+  {
+   "symbol": "VHAI.A",
+   "name": "Vocodia Holdings Corp. Warrants Series A",
+   "exchange": "BATS",
+   "yahoo_symbol": "VHAI.A"
+  }
+ ]
+}

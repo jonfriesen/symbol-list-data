@@ -1,0 +1,40 @@
+{
+ "added": [
+  {
+   "symbol": "G",
+   "name": "Gravity (G)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "RREN",
+   "name": "REN (Rainbow Bridge) (RREN)",
+   "built_on": "AURORA"
+  },
+  {
+   "symbol": "KITTE",
+   "name": "Kittekoin (KITTE)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "STFLOW",
+   "name": "Increment Staked FLOW (STFLOW)"
+  },
+  {
+   "symbol": "BBSOL",
+   "name": "Bybit Staked SOL (BBSOL)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "BANK",
+   "name": "Float Protocol (BANK)",
+   "built_on": "ETH"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "RREN",
+   "name": "REN (Rainbow Bridge) (RREN)",
+   "built_on": "NEAR"
+  }
+ ]
+}
