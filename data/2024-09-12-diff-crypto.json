@@ -1,0 +1,43 @@
+{
+ "added": [
+  {
+   "symbol": "PNIC",
+   "name": "Phoenic (PNIC)",
+   "built_on": "AVAX"
+  },
+  {
+   "symbol": "BANKETH",
+   "name": "BankEth (BANKETH)"
+  },
+  {
+   "symbol": "VUSD",
+   "name": "Virtual USD (VUSD)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "WOOPV1",
+   "name": "Woonkly Power (WOOPV1)"
+  },
+  {
+   "symbol": "TOKAMAK",
+   "name": "Tokamak Network (TOKAMAK)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "GETH",
+   "name": "Guarded Ether (GETH)"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "TON",
+   "name": "Tokamak Network (TON)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "PNIC",
+   "name": "Phoenic (PNIC)",
+   "built_on": "BNB"
+  }
+ ]
+}
