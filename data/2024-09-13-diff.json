@@ -1,0 +1,156 @@
+{
+ "added": [
+  {
+   "symbol": "CUCU",
+   "name": "Global Copper Corp.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "CUCU.V",
+   "instruments": [
+    {
+     "name": "Global Copper Corp.",
+     "symbol": "CUCU"
+    }
+   ]
+  },
+  {
+   "symbol": "IMC",
+   "name": "Ibero Mining Corp.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "IMC.V",
+   "instruments": [
+    {
+     "name": "Ibero Mining Corp.",
+     "symbol": "IMC"
+    }
+   ]
+  },
+  {
+   "symbol": "FLAI",
+   "name": "Flewber Global Inc. Common Stock",
+   "exchange": "NYSE MKT",
+   "yahoo_symbol": "FLAI"
+  },
+  {
+   "symbol": "KAPA",
+   "name": "Kairos Pharma, Ltd. Common Stock",
+   "exchange": "NYSE MKT",
+   "yahoo_symbol": "KAPA"
+  },
+  {
+   "symbol": "VTRO",
+   "name": "Vitro Biopharma, Inc. Common Stock",
+   "exchange": "NYSE MKT",
+   "yahoo_symbol": "VTRO"
+  },
+  {
+   "symbol": "ECDA",
+   "name": "ECD Automotive Design, Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "ECDA"
+  },
+  {
+   "symbol": "EURK",
+   "name": "Eureka Acquisition Corp - Class A Ordinary Share",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "EURK"
+  },
+  {
+   "symbol": "EURKR",
+   "name": "Eureka Acquisition Corp - Right",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "EURKR"
+  },
+  {
+   "symbol": "FVNNU",
+   "name": "Future Vision II Acquisition Corporation - Units",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "FVNNU"
+  },
+  {
+   "symbol": "GLXG",
+   "name": "Galaxy Payroll Group Limited - Ordinary Shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "GLXG"
+  },
+  {
+   "symbol": "HWAY",
+   "name": "Themes US Infrastructure ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "HWAY"
+  },
+  {
+   "symbol": "HYFM",
+   "name": "Hydrofarm Holdings Group, Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "HYFM"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "EUP",
+   "name": "Europacific Metals Inc.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "EUP.V",
+   "instruments": [
+    {
+     "name": "Europacific Metals Inc.",
+     "symbol": "EUP"
+    }
+   ]
+  },
+  {
+   "symbol": "NNAGR",
+   "name": "99 Acquisition Group Inc. - Right",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "NNAGR"
+  },
+  {
+   "symbol": "NNAG",
+   "name": "99 Acquisition Group Inc. - Class A Common Stock",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "NNAG"
+  },
+  {
+   "symbol": "NNAGW",
+   "name": "99 Acquisition Group Inc. - Warrant",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "NNAGW"
+  },
+  {
+   "symbol": "LILI",
+   "name": "Li3 Lithium Corp.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "LILI.V",
+   "instruments": [
+    {
+     "name": "Li3 Lithium Corp.",
+     "symbol": "LILI"
+    }
+   ]
+  },
+  {
+   "symbol": "WKME",
+   "name": "WalkMe Ltd. - Ordinary Shares",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "WKME"
+  },
+  {
+   "symbol": "HYFM",
+   "name": "Hydrofarm Holdings Group, Inc. - Common Stock",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "HYFM"
+  },
+  {
+   "symbol": "ECDA",
+   "name": "ECD Automotive Design, Inc. - Common Stock",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "ECDA"
+  },
+  {
+   "symbol": "NNAGU",
+   "name": "99 Acquisition Group Inc. - Unit",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "NNAGU"
+  }
+ ]
+}
