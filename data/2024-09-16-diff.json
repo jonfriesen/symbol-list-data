@@ -1,0 +1,88 @@
+{
+ "added": [
+  {
+   "symbol": "HBIL",
+   "name": "Hamilton U.S. T-Bill YIELD MAXIMIZER TM ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "HBIL.TO",
+   "instruments": [
+    {
+     "name": "HamUS TBYld MaxETF C",
+     "symbol": "HBIL"
+    },
+    {
+     "name": "HamUS TBYld MaxETF U",
+     "symbol": "HBIL.U"
+    }
+   ]
+  },
+  {
+   "symbol": "BCAX",
+   "name": "Bicara Therapeutics Inc. - Common Stock",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "BCAX"
+  },
+  {
+   "symbol": "MBX",
+   "name": "MBX Biosciences, Inc. - Common Stock",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "MBX"
+  },
+  {
+   "symbol": "ZBIO",
+   "name": "Zenas BioPharma, Inc. - Common Stock",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "ZBIO"
+  },
+  {
+   "symbol": "AAM",
+   "name": "AA Mission Acquisition Corp. Class A Ordinary Shares",
+   "exchange": "NYSE",
+   "yahoo_symbol": "AAM"
+  },
+  {
+   "symbol": "AAM.W",
+   "name": "AA Mission Acquisition Corp. Warrants, each whole warrant entitles the holder to purchase one Class A ordinary share at a price of $11.50 per share",
+   "exchange": "NYSE",
+   "yahoo_symbol": "AAM.W"
+  },
+  {
+   "symbol": "HCWC",
+   "name": "Healthy Choice Wellness Corp. Class A Common Stock",
+   "exchange": "NYSE MKT",
+   "yahoo_symbol": "HCWC"
+  },
+  {
+   "symbol": "IBO",
+   "name": "Impact BioMedical, Inc. Common Stock",
+   "exchange": "NYSE MKT",
+   "yahoo_symbol": "IBO"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "WIN",
+   "name": "Windfall Geotek Inc.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "WIN.V",
+   "instruments": [
+    {
+     "name": "Windfall Geotek Inc.",
+     "symbol": "WIN"
+    }
+   ]
+  },
+  {
+   "symbol": "VTRO",
+   "name": "Vitro Biopharma, Inc. Common Stock",
+   "exchange": "NYSE MKT",
+   "yahoo_symbol": "VTRO"
+  },
+  {
+   "symbol": "RF$B",
+   "name": "Regions Financial Corporation Depositary Shares Representing 1/40th Perpetual Preferred Series B",
+   "exchange": "NYSE",
+   "yahoo_symbol": "RF$B"
+  }
+ ]
+}

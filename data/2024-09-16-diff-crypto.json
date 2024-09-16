@@ -1,0 +1,111 @@
+{
+ "added": [
+  {
+   "symbol": "JOSE",
+   "name": "Jose (JOSE)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "GUGU",
+   "name": "gugu (GUGU)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "NEIROSOL",
+   "name": "Neiro Solana Doge (NEIROSOL)"
+  },
+  {
+   "symbol": "CORSI",
+   "name": "Cane Corso (CORSI)",
+   "built_on": "ARB"
+  },
+  {
+   "symbol": "MSUSHI",
+   "name": "Sushi (Multichain) (MSUSHI)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "LGNDX",
+   "name": "LegendX (LGNDX)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "BANKETH",
+   "name": "BankEth (BANKETH)"
+  },
+  {
+   "symbol": "HELINK",
+   "name": "Chainlink (Huobi Exchange) (HELINK)"
+  },
+  {
+   "symbol": "ZEDCOIN",
+   "name": "ZedCoin (ZEDCOIN)"
+  },
+  {
+   "symbol": "MFTM",
+   "name": "Fantom (Multichain) (MFTM)",
+   "built_on": "TLOS"
+  },
+  {
+   "symbol": "SQGROW",
+   "name": "SquidGrow (SQGROW)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "CBBTC",
+   "name": "Coinbase Wrapped BTC (CBBTC)",
+   "built_on": "BASE"
+  },
+  {
+   "symbol": "ABDS",
+   "name": "ABDS Token (ABDS)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "G",
+   "name": "Gravity (G)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "BNSOL",
+   "name": "Binance Staked SOL (BNSOL)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "DEDA",
+   "name": "DedaCoin (DEDA)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "CBBTCBASE",
+   "name": "cbBTC (CBBTCBASE)",
+   "built_on": "BASE"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "NEIROSOL",
+   "name": "Neiro Solana Doge (NEIROSOL)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "CBBTC",
+   "name": "cbBTC (CBBTC)"
+  },
+  {
+   "symbol": "MFTM",
+   "name": "Fantom (Multichain) (MFTM)",
+   "built_on": "CELO"
+  },
+  {
+   "symbol": "MSUSHI",
+   "name": "Sushi (Multichain) (MSUSHI)",
+   "built_on": "FTM"
+  },
+  {
+   "symbol": "HELINK",
+   "name": "Chainlink (Huobi Exchange) (HELINK)",
+   "built_on": "HT"
+  }
+ ]
+}
