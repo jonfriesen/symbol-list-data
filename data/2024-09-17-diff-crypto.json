@@ -1,0 +1,224 @@
+{
+ "added": [
+  {
+   "symbol": "DWOG",
+   "name": "DWOG THE DOG (DWOG)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "HYDROP",
+   "name": "Hydro Protocol (HYDROP)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "GIGS",
+   "name": "Climate101 (GIGS)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "DEGOD",
+   "name": "degod (DEGOD)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "WYZ",
+   "name": "WYZth (WYZ)"
+  },
+  {
+   "symbol": "STOC",
+   "name": "STO Cash (STOC)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "QTLX",
+   "name": "Quantlytica (QTLX)",
+   "built_on": "ARB"
+  },
+  {
+   "symbol": "A1INCH",
+   "name": "1inch (Arbitrum Bridge) (A1INCH)"
+  },
+  {
+   "symbol": "BROKIE",
+   "name": "Brokie (BROKIE)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "RUNNER",
+   "name": "Runner (RUNNER)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "TROLLICTO",
+   "name": "TROLLI CTO (TROLLICTO)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "VISTADOG",
+   "name": "VISTADOG (VISTADOG)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "BL00P",
+   "name": "BLOOP (BL00P)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "NEIREI",
+   "name": "NeiRei (NEIREI)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "BOBER",
+   "name": "BOBER (BOBER)"
+  },
+  {
+   "symbol": "WIGL",
+   "name": "Wigl (WIGL)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "DEEBO",
+   "name": "Deebo the Bear (DEEBO)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "AB1INCH",
+   "name": "1inch (Avalanche Bride) (AB1INCH)",
+   "built_on": "ARB"
+  },
+  {
+   "symbol": "ASUSHI",
+   "name": "Sushi (Arbitrum Bridge) (ASUSHI)"
+  },
+  {
+   "symbol": "KPK",
+   "name": "ParkCoin (KPK)"
+  },
+  {
+   "symbol": "DEPINU",
+   "name": "Depression Inu (DEPINU)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "LICKER",
+   "name": "LICKER (LICKER)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "BTCBR",
+   "name": "Bitcoin BR (BTCBR)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "CBPAY",
+   "name": "COINBAR PAY (CBPAY)"
+  },
+  {
+   "symbol": "DCHEWY",
+   "name": "Drop Chewy (DCHEWY)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "WEPC",
+   "name": "World Earn \u0026 Play Community (WEPC)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "THD",
+   "name": "Trump Harris Debate (THD)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "BANK",
+   "name": "Float Protocol (BANK)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "PEPAY",
+   "name": "PEPAY (PEPAY)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "PONKEI",
+   "name": "Chinese Ponkei the Original (PONKEI)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "EKOC",
+   "name": "Coke (EKOC)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "DWOLF",
+   "name": "Dark Wolf (DWOLF)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "CATALORIAN",
+   "name": "CATALORIAN (CATALORIAN)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "EIGEN",
+   "name": "EigenLayer (EIGEN)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "GETH",
+   "name": "Guarded Ether (GETH)"
+  },
+  {
+   "symbol": "WLFI",
+   "name": "World Liberty Financial (WLFI)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "TBULL",
+   "name": "Tron Bull (TBULL)",
+   "built_on": "TRX"
+  },
+  {
+   "symbol": "INRX",
+   "name": "INRx (INRX)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "FINDER",
+   "name": "Finder AI (FINDER)",
+   "built_on": "ETH"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "HYDROP",
+   "name": "Hydro Protocol (HYDROP)"
+  },
+  {
+   "symbol": "A1INCH",
+   "name": "1inch (Arbitrum Bridge) (A1INCH)",
+   "built_on": "ARB"
+  },
+  {
+   "symbol": "ASUSHI",
+   "name": "Sushi (Arbitrum Bridge) (ASUSHI)",
+   "built_on": "ARB"
+  },
+  {
+   "symbol": "BTCBR",
+   "name": "Bitcoin BR (BTCBR)"
+  },
+  {
+   "symbol": "ZEDCOIN",
+   "name": "ZedCoin (ZEDCOIN)"
+  },
+  {
+   "symbol": "AB1INCH",
+   "name": "1inch (Avalanche Bride) (AB1INCH)"
+  },
+  {
+   "symbol": "POP!",
+   "name": "POP (POP!)"
+  }
+ ]
+}

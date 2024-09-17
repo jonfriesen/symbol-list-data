@@ -1,0 +1,130 @@
+{
+ "added": [
+  {
+   "symbol": "DTSQ",
+   "name": "DT Cloud Star Acquisition Corporation - Ordinary Shares",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "DTSQ"
+  },
+  {
+   "symbol": "DTSQR",
+   "name": "DT Cloud Star Acquisition Corporation - Right",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "DTSQR"
+  },
+  {
+   "symbol": "KLTO",
+   "name": "Klotho Neurosciences, Inc. - Common Stock",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "KLTO"
+  },
+  {
+   "symbol": "KLTOW",
+   "name": "Klotho Neurosciences, Inc. - Warrants",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "KLTOW"
+  },
+  {
+   "symbol": "VEEA",
+   "name": "Veea Inc. - Common Stock",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "VEEA"
+  },
+  {
+   "symbol": "VEEAW",
+   "name": "Veea Inc. - Warrant",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "VEEAW"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "PLMIU",
+   "name": "Plum Acquisition Corp. I - Units",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "PLMIU"
+  },
+  {
+   "symbol": "AOGO",
+   "name": "Arogo Capital Acquisition Corp. - Class A Common Stock",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "AOGO"
+  },
+  {
+   "symbol": "SBN",
+   "name": "S Split Corp.",
+   "exchange": "TSX",
+   "yahoo_symbol": "SBN.TO",
+   "instruments": [
+    {
+     "name": "S Split Corp Cl A",
+     "symbol": "SBN"
+    },
+    {
+     "name": "S Split Corp. Pr",
+     "symbol": "SBN.PR.A"
+    }
+   ]
+  },
+  {
+   "symbol": "WENAW",
+   "name": "ANEW MEDICAL, INC. - Warrants",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "WENAW"
+  },
+  {
+   "symbol": "AAMC",
+   "name": "Altisource Asset Management Corp Com",
+   "exchange": "NYSE MKT",
+   "yahoo_symbol": "AAMC"
+  },
+  {
+   "symbol": "ALIM",
+   "name": "Alimera Sciences, Inc. - Common Stock",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "ALIM"
+  },
+  {
+   "symbol": "PLMIW",
+   "name": "Plum Acquisition Corp. I - Warrant",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "PLMIW"
+  },
+  {
+   "symbol": "PLMI",
+   "name": "Plum Acquisition Corp. I - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "PLMI"
+  },
+  {
+   "symbol": "AOGOU",
+   "name": "Arogo Capital Acquisition Corp. - Unit",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "AOGOU"
+  },
+  {
+   "symbol": "FLAI",
+   "name": "Flewber Global Inc. Common Stock",
+   "exchange": "NYSE MKT",
+   "yahoo_symbol": "FLAI"
+  },
+  {
+   "symbol": "CLBTW",
+   "name": "Cellebrite DI Ltd. - Warrants",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "CLBTW"
+  },
+  {
+   "symbol": "AOGOW",
+   "name": "Arogo Capital Acquisition Corp. - Warrant",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "AOGOW"
+  },
+  {
+   "symbol": "WENA",
+   "name": "ANEW MEDICAL, INC. - Common Stock",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "WENA"
+  }
+ ]
+}
