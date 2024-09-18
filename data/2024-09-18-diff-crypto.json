@@ -1,0 +1,199 @@
+{
+ "added": [
+  {
+   "symbol": "BULDAK",
+   "name": "Buldak (BULDAK)",
+   "built_on": "TRX"
+  },
+  {
+   "symbol": "TMPL",
+   "name": "TMPL (TMPL)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "BRETARDIO",
+   "name": "Bretardio (BRETARDIO)",
+   "built_on": "BASE"
+  },
+  {
+   "symbol": "BLIND",
+   "name": "Blindsight (BLIND)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "NOMOX",
+   "name": "NOMOEX Token (NOMOX)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "MAK",
+   "name": "MetaCene (MAK)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "LIQUIDIUM",
+   "name": "LIQUIDIUM•TOKEN (LIQUIDIUM)",
+   "built_on": "BTC"
+  },
+  {
+   "symbol": "TRUMPBASE",
+   "name": "MAGA (magatrumponbase.tech) (TRUMPBASE)",
+   "built_on": "BASE"
+  },
+  {
+   "symbol": "SUNNED",
+   "name": "SUNNED (SUNNED)",
+   "built_on": "TRX"
+  },
+  {
+   "symbol": "KTR",
+   "name": "Kitty Run (KTR)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "TSUJI",
+   "name": "Tsutsuji (TSUJI)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "SVTS",
+   "name": "Syncvault (SVTS)",
+   "built_on": "BASE"
+  },
+  {
+   "symbol": "SUNPUMP",
+   "name": "To The Sun (SUNPUMP)",
+   "built_on": "TRX"
+  },
+  {
+   "symbol": "FLEA",
+   "name": "FLEABONE (FLEA)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "TALES",
+   "name": "Tales of Pepe (TALES)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "BRUH",
+   "name": "Bruh (BRUH)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "SODAL",
+   "name": "Sodality Coin (SODAL)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "FREEPAVEL",
+   "name": "Free Pavel (FREEPAVEL)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "SUNMAGA",
+   "name": "SunMaga (SUNMAGA)",
+   "built_on": "TRX"
+  },
+  {
+   "symbol": "PHIL",
+   "name": "Philtoken (PHIL)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "KAGE",
+   "name": "Kage Network (KAGE)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "EURI",
+   "name": "Eurite (EURI)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "ISEC",
+   "name": "IntelliSecure Systems (ISEC)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "CHEF",
+   "name": "Chefdotfun (CHEF)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "JAGO",
+   "name": "Jagotrack (JAGO)",
+   "built_on": "BASE"
+  },
+  {
+   "symbol": "BANK",
+   "name": "Float Protocol (BANK)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "MICRODOGE",
+   "name": "MicroDoge (MICRODOGE)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "GGB",
+   "name": "GGEBI (GGB)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "LFIT",
+   "name": "LFIT (LFIT)",
+   "built_on": "MATIC"
+  },
+  {
+   "symbol": "WETHW",
+   "name": "Wrapped EthereumPoW (WETHW)"
+  },
+  {
+   "symbol": "0DOG",
+   "name": "Bitcoin Dogs (0DOG)",
+   "built_on": "BTC"
+  },
+  {
+   "symbol": "SHARP",
+   "name": "Sharp (SHARP)",
+   "built_on": "MATIC"
+  },
+  {
+   "symbol": "PACO",
+   "name": "Paco (PACO)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "FAPTAX",
+   "name": "Faptax (FAPTAX)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "SHISHA",
+   "name": "Shisha Coin (SHISHA)",
+   "built_on": "TRX"
+  },
+  {
+   "symbol": "ZEDCOIN",
+   "name": "ZedCoin (ZEDCOIN)"
+  },
+  {
+   "symbol": "FLUFFI",
+   "name": "Fluffington (FLUFFI)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "G",
+   "name": "Gravity (G)",
+   "built_on": "ETH"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "WETHW",
+   "name": "Wrapped EthereumPoW (WETHW)",
+   "built_on": "OKT"
+  }
+ ]
+}
