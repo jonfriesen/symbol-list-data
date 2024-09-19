@@ -1,0 +1,78 @@
+{
+ "added": [
+  {
+   "symbol": "JMID",
+   "name": "Janus Henderson Mid Cap Growth Alpha ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "JMID"
+  },
+  {
+   "symbol": "LIVR",
+   "name": "Intelligent Livermore ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "LIVR"
+  },
+  {
+   "symbol": "YHNAU",
+   "name": "YHN Acquisition I Limited - Unit",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "YHNAU"
+  },
+  {
+   "symbol": "AVK.V",
+   "name": "Advent Convertible and Income Fund Rights (expiring October 17, 2024) Rights when issued",
+   "exchange": "NYSE",
+   "yahoo_symbol": "AVK.V"
+  },
+  {
+   "symbol": "HPE$C",
+   "name": "Hewlett Packard Enterprise Company 7.625% Series C Mandatory Convertible Preferred Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "HPE$C"
+  },
+  {
+   "symbol": "SEG.V",
+   "name": "Seaport Entertainment Group Inc. Rights When-Issued",
+   "exchange": "NYSE MKT",
+   "yahoo_symbol": "SEG.V"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "HA",
+   "name": "Hawaiian Holdings, Inc. - Common Stock",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "HA"
+  },
+  {
+   "symbol": "KA",
+   "name": "Kineta, Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "KA"
+  },
+  {
+   "symbol": "GTHX",
+   "name": "G1 Therapeutics, Inc. - Common Stock",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "GTHX"
+  },
+  {
+   "symbol": "TUP",
+   "name": "Tupperware Brands Corporation Common Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "TUP"
+  },
+  {
+   "symbol": "SMFL",
+   "name": "Smart for Life, Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "SMFL"
+  },
+  {
+   "symbol": "BGXX",
+   "name": "Bright Green Corporation - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "BGXX"
+  }
+ ]
+}

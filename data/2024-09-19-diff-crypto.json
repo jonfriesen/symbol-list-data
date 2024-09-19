@@ -1,0 +1,206 @@
+{
+ "added": [
+  {
+   "symbol": "KORC",
+   "name": "King of Referral Coin (KORC)",
+   "built_on": "TON"
+  },
+  {
+   "symbol": "SUNGOAT",
+   "name": "SUNGOAT (SUNGOAT)",
+   "built_on": "TRX"
+  },
+  {
+   "symbol": "ALMAN",
+   "name": "Alman (ALMAN)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "WIWI",
+   "name": "Wiggly Willy (WIWI)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "YUCHEN",
+   "name": "Sun Yuchen (YUCHEN)",
+   "built_on": "TRX"
+  },
+  {
+   "symbol": "NACHO",
+   "name": "Nacho the 𐤊at (NACHO)",
+   "built_on": "KAS"
+  },
+  {
+   "symbol": "LASOL",
+   "name": "LamaSol (LASOL)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "INRXV1",
+   "name": "INRx v1 (INRXV1)"
+  },
+  {
+   "symbol": "SUNNEIRO",
+   "name": "SunNeiro (SUNNEIRO)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "BANK",
+   "name": "Float Protocol (BANK)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "CATGOKU",
+   "name": "Catgoku (CATGOKU)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "COCO",
+   "name": "0xCoco (COCO)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "CATGIRL",
+   "name": "Catgirl (CATGIRL)"
+  },
+  {
+   "symbol": "SWGT",
+   "name": "SmartWorld Global (SWGT)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "BCAI",
+   "name": "Bright Crypto Ai (BCAI)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "USDS",
+   "name": "StableUSD (USDS)"
+  },
+  {
+   "symbol": "TRITON",
+   "name": "Triton (TRITON)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "HOMS",
+   "name": "Heroes of memes (HOMS)",
+   "built_on": "BASE"
+  },
+  {
+   "symbol": "EURCVV1",
+   "name": "EUR CoinVertible v1 (EURCVV1)"
+  },
+  {
+   "symbol": "LAZYCAT",
+   "name": "LAZYCAT (LAZYCAT)",
+   "built_on": "BASE"
+  },
+  {
+   "symbol": "MWD",
+   "name": "MEW WOOF DAO (MWD)",
+   "built_on": "TRX"
+  },
+  {
+   "symbol": "TOPI",
+   "name": "Topi Meme (TOPI)",
+   "built_on": "TRX"
+  },
+  {
+   "symbol": "YIDO",
+   "name": "Yidocy Plus (YIDO)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "BTCBRV1",
+   "name": "Bitcoin BR v1 (BTCBRV1)"
+  },
+  {
+   "symbol": "LOLO",
+   "name": "Lolo (LOLO)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "VOIP",
+   "name": "Voip Finance (VOIP)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "VENKO",
+   "name": "VENKO (VENKO)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "EZPZ",
+   "name": "Eazy Peazy (EZPZ)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "YORI",
+   "name": "YORI (YORI)",
+   "built_on": "TRX"
+  },
+  {
+   "symbol": "NFTSTYLE",
+   "name": "NFTStyle (NFTSTYLE)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "AUKI",
+   "name": "Auki Labs (AUKI)",
+   "built_on": "BASE"
+  },
+  {
+   "symbol": "EURCV",
+   "name": "EUR CoinVertible (EURCV)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "TRONDOG",
+   "name": "TronDog (TRONDOG)",
+   "built_on": "TRX"
+  },
+  {
+   "symbol": "EARLY",
+   "name": "Early Risers (EARLY)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "OMIX",
+   "name": "Omix (OMIX)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "G",
+   "name": "Gravity (G)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "TBEER",
+   "name": "TRON BEER (TBEER)",
+   "built_on": "TRX"
+  },
+  {
+   "symbol": "WEEBS",
+   "name": "Weebs (WEEBS)",
+   "built_on": "BNB"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "COCO",
+   "name": "0xCoco (COCO)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "USDS",
+   "name": "StableUSD (USDS)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "CATGIRL",
+   "name": "Catgirl (CATGIRL)",
+   "built_on": "BNB"
+  }
+ ]
+}
