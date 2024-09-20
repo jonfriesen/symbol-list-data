@@ -1,0 +1,16 @@
+{
+ "removed": [
+  {
+   "symbol": "LEO",
+   "name": "Lion Copper and Gold Corp.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "LEO.V",
+   "instruments": [
+    {
+     "name": "Lion Copper and Gold Corp.",
+     "symbol": "LEO"
+    }
+   ]
+  }
+ ]
+}
