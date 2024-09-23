@@ -1,0 +1,76 @@
+{
+ "added": [
+  {
+   "symbol": "AGENT",
+   "name": "AgentLayer (AGENT)",
+   "built_on": "BASE"
+  },
+  {
+   "symbol": "NOTAI",
+   "name": "NOTAI (NOTAI)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "NEILUO",
+   "name": "CHINESE NEIRO (NEILUO)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "ALEO",
+   "name": "ALEO (ALEO)"
+  },
+  {
+   "symbol": "GETH",
+   "name": "Guarded Ether (GETH)"
+  },
+  {
+   "symbol": "JOPER",
+   "name": "Joker Pepe (JOPER)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "ZEDCOIN",
+   "name": "ZedCoin (ZEDCOIN)"
+  },
+  {
+   "symbol": "BANK",
+   "name": "Float Protocol (BANK)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "TRUMPSFIGHT",
+   "name": "TrumpsFight (TRUMPSFIGHT)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "SOMPS",
+   "name": "SompsOnKas (SOMPS)",
+   "built_on": "KAS"
+  },
+  {
+   "symbol": "SUKI",
+   "name": "SUKI (SUKI)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "FAH",
+   "name": "Falcons (FAH)",
+   "built_on": "BASE"
+  },
+  {
+   "symbol": "SILVERKRC",
+   "name": "Silver KRC-20 (SILVERKRC)",
+   "built_on": "KAS"
+  },
+  {
+   "symbol": "MOVEUSD",
+   "name": "MoveMoney USD (MOVEUSD)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "NOOOO",
+   "name": "NOOOO (NOOOO)",
+   "built_on": "SOL"
+  }
+ ]
+}

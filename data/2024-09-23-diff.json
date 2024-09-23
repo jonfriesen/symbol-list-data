@@ -1,0 +1,96 @@
+{
+ "added": [
+  {
+   "symbol": "SAGA",
+   "name": "Saga Metals Corp.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "SAGA.V",
+   "instruments": [
+    {
+     "name": "Saga Metals Corp.",
+     "symbol": "SAGA"
+    }
+   ]
+  },
+  {
+   "symbol": "CAPNU",
+   "name": "Cayson Acquisition Corp - Units",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "CAPNU"
+  },
+  {
+   "symbol": "FCUV",
+   "name": "Focus Universal Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "FCUV"
+  },
+  {
+   "symbol": "GLE",
+   "name": "Global Engine Group Holding Limited - Ordinary Shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "GLE"
+  },
+  {
+   "symbol": "SCNX",
+   "name": "Scienture Holdings, Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "SCNX"
+  },
+  {
+   "symbol": "AVK.R",
+   "name": "Advent Convertible and Income Fund Rights (expiring October 17, 2024) Rights",
+   "exchange": "NYSE",
+   "yahoo_symbol": "AVK.R"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "BFIIW",
+   "name": "BurgerFi International Inc - Warrant",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "BFIIW"
+  },
+  {
+   "symbol": "MEDS",
+   "name": "TRxADE HEALTH, Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "MEDS"
+  },
+  {
+   "symbol": "CALT",
+   "name": "Calliditas Therapeutics AB - American Depositary Shares",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "CALT"
+  },
+  {
+   "symbol": "BFI",
+   "name": "BurgerFi International Inc - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "BFI"
+  },
+  {
+   "symbol": "AVK.V",
+   "name": "Advent Convertible and Income Fund Rights (expiring October 17, 2024) Rights when issued",
+   "exchange": "NYSE",
+   "yahoo_symbol": "AVK.V"
+  },
+  {
+   "symbol": "MFD",
+   "name": "Macquarie First Trust Global Common Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "MFD"
+  },
+  {
+   "symbol": "FAM",
+   "name": "First Trust/abrdn Global Opportunity Income Fund Common Shares of Beneficial Interest",
+   "exchange": "NYSE",
+   "yahoo_symbol": "FAM"
+  },
+  {
+   "symbol": "FCUV",
+   "name": "Focus Universal Inc. - Common Stock",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "FCUV"
+  }
+ ]
+}
