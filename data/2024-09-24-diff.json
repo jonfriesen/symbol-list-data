@@ -1,0 +1,96 @@
+{
+ "added": [
+  {
+   "symbol": "PAT",
+   "name": "Patterson Metals Corp.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "PAT.V",
+   "instruments": [
+    {
+     "name": "Patterson Metals Corp.",
+     "symbol": "PAT"
+    }
+   ]
+  },
+  {
+   "symbol": "AMTM.V",
+   "name": "Amentum Holdings, Inc. Common Stock When-Issued",
+   "exchange": "NYSE",
+   "yahoo_symbol": "AMTM.V"
+  },
+  {
+   "symbol": "J.V",
+   "name": "Jacobs Solutions Inc. Common Stock When-Issued",
+   "exchange": "NYSE",
+   "yahoo_symbol": "J.V"
+  },
+  {
+   "symbol": "SEG.R",
+   "name": "Seaport Entertainment Group Inc. Rights",
+   "exchange": "NYSE MKT",
+   "yahoo_symbol": "SEG.R"
+  },
+  {
+   "symbol": "MBAV",
+   "name": "M3-Brigade Acquisition V Corp. - Class A Ordinary shares",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "MBAV"
+  },
+  {
+   "symbol": "MBAVW",
+   "name": "M3-Brigade Acquisition V Corp. - Warrant",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "MBAVW"
+  },
+  {
+   "symbol": "PMBS",
+   "name": "PIMCO Mortgage-Backed Securities Active Exchange-Traded Fund",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "PMBS"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "ASCBR",
+   "name": "A SPAC II Acquisition Corp. - Right",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "ASCBR"
+  },
+  {
+   "symbol": "ASCBW",
+   "name": "A SPAC II Acquisition Corp. - Warrant",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "ASCBW"
+  },
+  {
+   "symbol": "SEG.V",
+   "name": "Seaport Entertainment Group Inc. Rights When-Issued",
+   "exchange": "NYSE MKT",
+   "yahoo_symbol": "SEG.V"
+  },
+  {
+   "symbol": "ASCBU",
+   "name": "A SPAC II Acquisition Corp. - Unit",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "ASCBU"
+  },
+  {
+   "symbol": "TMC",
+   "name": "Trench Metals Corp.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "TMC.V",
+   "instruments": [
+    {
+     "name": "Trench Metals Corp.",
+     "symbol": "TMC"
+    }
+   ]
+  },
+  {
+   "symbol": "ASCB",
+   "name": "A SPAC II Acquisition Corp. - Ordinary Shares, Class A Common Stock",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "ASCB"
+  }
+ ]
+}

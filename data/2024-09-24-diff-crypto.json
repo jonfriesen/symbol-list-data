@@ -1,0 +1,130 @@
+{
+ "added": [
+  {
+   "symbol": "RUNEVM",
+   "name": "RUNEVM (RUNEVM)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "CRYPTOB",
+   "name": "Crypto Burger (CRYPTOB)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "MISHA",
+   "name": "Vitalik's Dog (MISHA)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "RUGPULL",
+   "name": "Captain Rug Pull (RUGPULL)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "PETE",
+   "name": "PETE (PETE)",
+   "built_on": "WAVES"
+  },
+  {
+   "symbol": "BURG",
+   "name": "Burger (BURG)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "AKITAI",
+   "name": "AKITA INU (AKITAI)",
+   "built_on": "TRX"
+  },
+  {
+   "symbol": "BOMET",
+   "name": "BOME TRUMP (BOMET)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "MKL",
+   "name": "Merkle Trade (MKL)",
+   "built_on": "APT"
+  },
+  {
+   "symbol": "MAKEA",
+   "name": "Make America Healthy Again (MAKEA)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "SCHRO",
+   "name": "Schrodinger (SCHRO)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "BLUESC",
+   "name": "BluesCrypto (BLUESC)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "TORA",
+   "name": "TORA NEKO (TORA)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "G",
+   "name": "Gravity (G)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "SMARTH",
+   "name": "SmartHub (SMARTH)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "JIN",
+   "name": "JinPeng (JIN)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "ADASTRA",
+   "name": "Ad Astra (ADASTRA)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "MOGC",
+   "name": "MOG CAT (MOGC)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "VANF",
+   "name": "Van Fwogh (VANF)",
+   "built_on": "TRX"
+  },
+  {
+   "symbol": "SIO",
+   "name": "SAINO (SIO)",
+   "built_on": "POL"
+  },
+  {
+   "symbol": "DOGG",
+   "name": "Doggo (DOGG)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "PROLIFIC",
+   "name": "Prolific Game Studio (PROLIFIC)",
+   "built_on": "TON"
+  },
+  {
+   "symbol": "BANK",
+   "name": "Float Protocol (BANK)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "CHEW",
+   "name": "CHEWY (CHEW)",
+   "built_on": "SOL"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "ZEDCOIN",
+   "name": "ZedCoin (ZEDCOIN)"
+  }
+ ]
+}
