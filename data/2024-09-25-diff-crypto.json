@@ -1,0 +1,152 @@
+{
+ "added": [
+  {
+   "symbol": "LETS",
+   "name": "Let's WIN This (LETS)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "MEN",
+   "name": "METAHUB FINANCE (MEN)",
+   "built_on": "POL"
+  },
+  {
+   "symbol": "SKY",
+   "name": "Sky (SKY)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "UFOP",
+   "name": "UFOPepe (UFOP)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "TURB",
+   "name": "TurboX (TURB)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "YORAN",
+   "name": "YORAN THE CAVALIER (YORAN)",
+   "built_on": "KAS"
+  },
+  {
+   "symbol": "AGURI",
+   "name": "Aguri-Chan (AGURI)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "KPAW",
+   "name": "KasPaw (KPAW)",
+   "built_on": "KAS"
+  },
+  {
+   "symbol": "YONNY",
+   "name": "YONNY (YONNY)",
+   "built_on": "KAS"
+  },
+  {
+   "symbol": "LIE",
+   "name": "it’s all a lie (LIE)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "BABYCATE",
+   "name": "BabyCate (BABYCATE)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "TRUMPMA",
+   "name": "TRUMP MAGA SUPER (TRUMPMA)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "BELL",
+   "name": "Bellscoin (BELL)"
+  },
+  {
+   "symbol": "ZEDCOIN",
+   "name": "ZedCoin (ZEDCOIN)"
+  },
+  {
+   "symbol": "WUK",
+   "name": "WUKONG (WUK)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "SEXYP",
+   "name": "SEXY PEPE (SEXYP)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "KASHIN",
+   "name": "KASHIN (KASHIN)",
+   "built_on": "KAS"
+  },
+  {
+   "symbol": "CASHLY",
+   "name": "Cashly (CASHLY)",
+   "built_on": "KAS"
+  },
+  {
+   "symbol": "KCATS",
+   "name": "KASPA CATS (KCATS)",
+   "built_on": "KAS"
+  },
+  {
+   "symbol": "DALMA",
+   "name": "Dalma Inu (DALMA)",
+   "built_on": "KAS"
+  },
+  {
+   "symbol": "CLOUD",
+   "name": "Metacloud (CLOUD)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "BANK",
+   "name": "Float Protocol (BANK)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "HEWE",
+   "name": "Health \u0026 Wealth (HEWE)"
+  },
+  {
+   "symbol": "G",
+   "name": "Gravity (G)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "KASPY",
+   "name": "KASPY (KASPY)",
+   "built_on": "KAS"
+  },
+  {
+   "symbol": "CHIE",
+   "name": "Chief Pepe Officer (CHIE)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "CATI",
+   "name": "CAT INU (CATI)",
+   "built_on": "TON"
+  },
+  {
+   "symbol": "PEPEKRC20",
+   "name": "PEPE KRC20 (PEPEKRC20)",
+   "built_on": "KAS"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "CATI",
+   "name": "CAT INU (CATI)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "CLOUD",
+   "name": "Metacloud (CLOUD)"
+  }
+ ]
+}

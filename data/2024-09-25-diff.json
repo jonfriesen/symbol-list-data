@@ -1,0 +1,126 @@
+{
+ "added": [
+  {
+   "symbol": "SOBO",
+   "name": "South Bow Corporation",
+   "exchange": "TSX",
+   "yahoo_symbol": "SOBO.TO",
+   "instruments": [
+    {
+     "name": "South Bow New WI",
+     "symbol": "SOBO"
+    }
+   ]
+  },
+  {
+   "symbol": "MYCF",
+   "name": "SPDR SSGA My2026 Corporate Bond ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "MYCF"
+  },
+  {
+   "symbol": "MYCG",
+   "name": "SPDR SSGA My2027 Corporate Bond ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "MYCG"
+  },
+  {
+   "symbol": "MYCH",
+   "name": "SPDR SSGA My2028 Corporate Bond ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "MYCH"
+  },
+  {
+   "symbol": "MYCI",
+   "name": "SPDR SSGA My2029 Corporate Bond ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "MYCI"
+  },
+  {
+   "symbol": "MYCJ",
+   "name": "SPDR SSGA My2030 Corporate Bond ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "MYCJ"
+  },
+  {
+   "symbol": "MYCK",
+   "name": "SPDR SSGA My2031 Corporate Bond ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "MYCK"
+  },
+  {
+   "symbol": "MYCL",
+   "name": "SPDR SSGA My2032 Corporate Bond ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "MYCL"
+  },
+  {
+   "symbol": "MYCM",
+   "name": "SPDR SSGA My2033 Corporate Bond ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "MYCM"
+  },
+  {
+   "symbol": "MYCN",
+   "name": "SPDR SSGA My2034 Corporate Bond ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "MYCN"
+  },
+  {
+   "symbol": "MYMF",
+   "name": "SPDR SSGA My2026 Municipal Bond ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "MYMF"
+  },
+  {
+   "symbol": "MYMG",
+   "name": "SPDR SSGA My2027 Municipal Bond ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "MYMG"
+  },
+  {
+   "symbol": "MYMH",
+   "name": "SPDR SSGA My2028 Municipal Bond ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "MYMH"
+  },
+  {
+   "symbol": "MYMI",
+   "name": "SPDR SSGA My2029 Municipal Bond ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "MYMI"
+  },
+  {
+   "symbol": "MYMJ",
+   "name": "SPDR SSGA My2030 Municipal Bond ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "MYMJ"
+  },
+  {
+   "symbol": "QSIX",
+   "name": "Pacer Metaurus Nasdaq 100 Dividend Multiplier 600 ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "QSIX"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "PAYOW",
+   "name": "Payoneer Global Inc. - Warrant",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "PAYOW"
+  },
+  {
+   "symbol": "GWA",
+   "name": "Gowest Gold Ltd.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "GWA.V",
+   "instruments": [
+    {
+     "name": "Gowest Gold Ltd.",
+     "symbol": "GWA"
+    }
+   ]
+  }
+ ]
+}
