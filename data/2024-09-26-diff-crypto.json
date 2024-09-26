@@ -1,0 +1,159 @@
+{
+ "added": [
+  {
+   "symbol": "GOODMO",
+   "name": "Good Morning (GOODMO)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "CERBER",
+   "name": "CERBEROGE (CERBER)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "SOLANAS",
+   "name": "Solana Swap (SOLANAS)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "MCOI",
+   "name": "MCOIN (MCOI)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "COREC",
+   "name": "CoreConnect (COREC)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "CATE",
+   "name": "CateCoin (CATE)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "MINID",
+   "name": "Mini Donald (MINID)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "GREENMMT",
+   "name": "Green Mining Movement Token (GREENMMT)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "SATAN",
+   "name": "MrBeast's Cat (SATAN)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "CHECK",
+   "name": "Paycheck (CHECK)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "MOODENGWIF",
+   "name": "MOODENGWIF (MOODENGWIF)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "SOCIAL",
+   "name": "Phavercoin (SOCIAL)",
+   "built_on": "BASE"
+  },
+  {
+   "symbol": "UNCN",
+   "name": "Unseen (UNCN)",
+   "built_on": "POL"
+  },
+  {
+   "symbol": "LOGX",
+   "name": "LogX Network (LOGX)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "BASEDP",
+   "name": "Based Pepe (BASEDP)",
+   "built_on": "BASE"
+  },
+  {
+   "symbol": "SYNCG",
+   "name": "SyncGPT (SYNCG)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "CFN",
+   "name": "Cockfight Network (CFN)",
+   "built_on": "GMMT"
+  },
+  {
+   "symbol": "CATINU",
+   "name": "CAT INU (CATINU)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "NEIRO",
+   "name": "Neiro (NEIRO)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "SCUBA",
+   "name": "Scuba Dog (SCUBA)",
+   "built_on": "SUI"
+  },
+  {
+   "symbol": "DIAB",
+   "name": "Diablo IV Solana (DIAB)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "BANK",
+   "name": "Float Protocol (BANK)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "MDOGE",
+   "name": "First Dog In Mars (MDOGE)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "CLISBNB",
+   "name": "clisBNB (CLISBNB)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "DOGSS",
+   "name": "DOGS SOL (DOGSS)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "G",
+   "name": "Gravity (G)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "NEIROETH",
+   "name": "Neiro Ethereum (NEIROETH)"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "NEIRO",
+   "name": "Neiro (NEIRO)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "NEIROETH",
+   "name": "Neiro Ethereum (NEIROETH)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "CATE",
+   "name": "CateCoin (CATE)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "CHECK",
+   "name": "Paycheck (CHECK)"
+  }
+ ]
+}

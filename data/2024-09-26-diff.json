@@ -1,0 +1,112 @@
+{
+ "added": [
+  {
+   "symbol": "AJA",
+   "name": "AJA Health and Wellness Inc.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "AJA.V",
+   "instruments": [
+    {
+     "name": "AJA Health and Wellness Inc.",
+     "symbol": "AJA"
+    }
+   ]
+  },
+  {
+   "symbol": "AGG",
+   "name": "Evolve Canadian Aggregate Bond Enhanced Yield Fund",
+   "exchange": "TSX",
+   "yahoo_symbol": "AGG.TO",
+   "instruments": [
+    {
+     "name": "EvCd AgBd EnY FndETF",
+     "symbol": "AGG"
+    }
+   ]
+  },
+  {
+   "symbol": "XFLI",
+   "name": "iShares Flexible Monthly Income ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "XFLI.TO",
+   "instruments": [
+    {
+     "name": "iShr FlexM IncETFCAD",
+     "symbol": "XFLI"
+    },
+    {
+     "name": "iShr FlexM IncETFUSD",
+     "symbol": "XFLI.U"
+    }
+   ]
+  },
+  {
+   "symbol": "PC",
+   "name": "Premium Catering (Holdings) Limited - Ordinary Shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "PC"
+  },
+  {
+   "symbol": "SWP",
+   "name": "SWP Growth \u0026 Income ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "SWP"
+  },
+  {
+   "symbol": "BKV",
+   "name": "BKV Corporation Common Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "BKV"
+  },
+  {
+   "symbol": "CURB.V",
+   "name": "Curbline Properties Corp. Common Stock When-Issued",
+   "exchange": "NYSE",
+   "yahoo_symbol": "CURB.V"
+  },
+  {
+   "symbol": "GRDN",
+   "name": "Guardian Pharmacy Services, Inc. Class A Common Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "GRDN"
+  },
+  {
+   "symbol": "LGCY",
+   "name": "Legacy Education Inc. Common Stock",
+   "exchange": "NYSE MKT",
+   "yahoo_symbol": "LGCY"
+  },
+  {
+   "symbol": "SITC.V",
+   "name": "SITE Centers Corp. Common Shares When-Issued",
+   "exchange": "NYSE",
+   "yahoo_symbol": "SITC.V"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "JUB",
+   "name": "Jubilee Gold Exploration Ltd.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "JUB.V",
+   "instruments": [
+    {
+     "name": "Jubilee Gold Exploration Ltd",
+     "symbol": "JUB"
+    }
+   ]
+  },
+  {
+   "symbol": "AAGR",
+   "name": "African Agriculture Holdings Inc. - Common Stock",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "AAGR"
+  },
+  {
+   "symbol": "AAGRW",
+   "name": "African Agriculture Holdings Inc. - Warrant",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "AAGRW"
+  }
+ ]
+}
