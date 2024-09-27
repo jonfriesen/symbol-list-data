@@ -1,0 +1,166 @@
+{
+ "added": [
+  {
+   "symbol": "MIVO",
+   "name": "Miivo Holdings Corp.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "MIVO.V",
+   "instruments": [
+    {
+     "name": "Miivo Holdings Corp.",
+     "symbol": "MIVO"
+    }
+   ]
+  },
+  {
+   "symbol": "CUP.RT.U",
+   "name": "Caribbean Utilities Company, Ltd.",
+   "exchange": "TSX",
+   "yahoo_symbol": "CUP.RT.U.TO",
+   "instruments": [
+    {
+     "name": "Caribbean Utl Ltd Rt",
+     "symbol": "CUP.RT.U"
+    },
+    {
+     "name": "Caribbean Ut Cl A US",
+     "symbol": "CUP.U"
+    }
+   ]
+  },
+  {
+   "symbol": "BIOA",
+   "name": "BioAge Labs, Inc. - Common Stock",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "BIOA"
+  },
+  {
+   "symbol": "ELTX",
+   "name": "Elicio Therapeutics, Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "ELTX"
+  },
+  {
+   "symbol": "GECCH",
+   "name": "Great Elm Capital Corp. - 8.125% Notes Due 2029",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "GECCH"
+  },
+  {
+   "symbol": "IBG",
+   "name": "Innovation Beverage Group Limited - Ordinary Shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "IBG"
+  },
+  {
+   "symbol": "MVST",
+   "name": "Microvast Holdings, Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "MVST"
+  },
+  {
+   "symbol": "MVSTW",
+   "name": "Microvast Holdings, Inc. - Warrant",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "MVSTW"
+  },
+  {
+   "symbol": "EQV",
+   "name": "EQV Ventures Acquisition Corp. Class A Ordinary Shares",
+   "exchange": "NYSE",
+   "yahoo_symbol": "EQV"
+  },
+  {
+   "symbol": "EQV.W",
+   "name": "EQV Ventures Acquisition Corp. Redeemable warrants, each whole warrant exercisable for one Class A ordinary share at an exercise price of $11.50 per share",
+   "exchange": "NYSE",
+   "yahoo_symbol": "EQV.W"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "ACACU",
+   "name": "Acri Capital Acquisition Corporation - Unit",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "ACACU"
+  },
+  {
+   "symbol": "ACAC",
+   "name": "Acri Capital Acquisition Corporation - Class A Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "ACAC"
+  },
+  {
+   "symbol": "ESS",
+   "name": "Esstra Industries Inc.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "ESS.V",
+   "instruments": [
+    {
+     "name": "Esstra Industries Inc.",
+     "symbol": "ESS"
+    }
+   ]
+  },
+  {
+   "symbol": "ELTX",
+   "name": "Elicio Therapeutics, Inc. - Common Stock",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "ELTX"
+  },
+  {
+   "symbol": "ACACW",
+   "name": "Acri Capital Acquisition Corporation - Warrant",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "ACACW"
+  },
+  {
+   "symbol": "MVSTW",
+   "name": "Microvast Holdings, Inc. - Warrant",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "MVSTW"
+  },
+  {
+   "symbol": "CUP.U",
+   "name": "Caribbean Utilities Company, Ltd.",
+   "exchange": "TSX",
+   "yahoo_symbol": "CUP.U.TO",
+   "instruments": [
+    {
+     "name": "Caribbean Ut Cl A US",
+     "symbol": "CUP.U"
+    }
+   ]
+  },
+  {
+   "symbol": "MEU",
+   "name": "Mackenzie Maximum Diversification Developed Europe Index ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "MEU.TO",
+   "instruments": [
+    {
+     "name": "MackenzieMaxDvrEur E",
+     "symbol": "MEU"
+    }
+   ]
+  },
+  {
+   "symbol": "MKFG.W",
+   "name": "Markforged Holding Corporation Warrants",
+   "exchange": "NYSE",
+   "yahoo_symbol": "MKFG.W"
+  },
+  {
+   "symbol": "DOMA",
+   "name": "Doma Holdings, Inc. Common Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "DOMA"
+  },
+  {
+   "symbol": "MVST",
+   "name": "Microvast Holdings, Inc. - Common Stock",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "MVST"
+  }
+ ]
+}

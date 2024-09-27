@@ -1,0 +1,215 @@
+{
+ "added": [
+  {
+   "symbol": "4DOGE",
+   "name": "4DOGE (4DOGE)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "ALPHAF",
+   "name": "Alpha Fi (ALPHAF)",
+   "built_on": "SUI"
+  },
+  {
+   "symbol": "DOGSSO",
+   "name": "DOGS Solana (DOGSSO)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "LMF",
+   "name": "Lamas Finance (LMF)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "SAV",
+   "name": "Save America (SAV)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "TRONI",
+   "name": "Tron Inu (TRONI)",
+   "built_on": "TRX"
+  },
+  {
+   "symbol": "ELONGATE",
+   "name": "ElonGate (ELONGATE)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "NEIROLOL",
+   "name": "Neiro (NEIROLOL)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "BLM",
+   "name": "Blombard (BLM)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "MILA",
+   "name": "MILADY MEME TOKEN (MILA)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "HOMERB",
+   "name": "Homer BSC (HOMERB)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "BNBD",
+   "name": "BNBDOG (BNBD)"
+  },
+  {
+   "symbol": "JUSTI",
+   "name": "Justin MEME (JUSTI)",
+   "built_on": "TRX"
+  },
+  {
+   "symbol": "MARCUS",
+   "name": "Marcus Cesar Inu (MARCUS)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "MADH",
+   "name": "Madhouse (MADH)",
+   "built_on": "TRX"
+  },
+  {
+   "symbol": "CATCOIN",
+   "name": "CatCoin Cash (CATCOIN)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "SPORTSP",
+   "name": "SportsPie (SPORTSP)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "DOGY",
+   "name": "Dogy (DOGY)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "TRUMPF",
+   "name": "Trump Fight (TRUMPF)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "ANDYMAN",
+   "name": "ANDYMAN (ANDYMAN)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "BULLI",
+   "name": "Bullish On Ethereum (BULLI)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "ELONTRUMP",
+   "name": "ELON TRUMP (ELONTRUMP)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "CATECOIN",
+   "name": "CateCoin (CATECOIN)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "TZU",
+   "name": "Sun Tzu (TZU)",
+   "built_on": "TRX"
+  },
+  {
+   "symbol": "TRUMPA",
+   "name": "TRUMP AI (TRUMPA)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "BINANCED",
+   "name": "BinanceDog On Sol (BINANCED)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "BANKETH",
+   "name": "BankEth (BANKETH)"
+  },
+  {
+   "symbol": "CSW",
+   "name": "Crosswalk (CSW)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "G",
+   "name": "Gravity (G)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "MRM",
+   "name": "Mr Mint (MRM)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "PUSS",
+   "name": "PussFi (PUSS)",
+   "built_on": "TRX"
+  },
+  {
+   "symbol": "SUNN",
+   "name": "Sunny on Tron (SUNN)",
+   "built_on": "TRX"
+  },
+  {
+   "symbol": "RUBB",
+   "name": "Rubber Ducky Cult (RUBB)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "TURBO",
+   "name": "Turbo (TURBO)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "CRAZYT",
+   "name": "CRAZY TRUMP (CRAZYT)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "TURBOW",
+   "name": "Turbo Wallet (TURBOW)"
+  },
+  {
+   "symbol": "HARR",
+   "name": "HARRIS DOGS (HARR)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "NEIROCOIN",
+   "name": "Neiro Ethereum (NEIROCOIN)",
+   "built_on": "ETH"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "CATE",
+   "name": "CateCoin (CATE)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "ZEDCOIN",
+   "name": "ZedCoin (ZEDCOIN)"
+  },
+  {
+   "symbol": "CATCOIN",
+   "name": "CatCoin Cash (CATCOIN)"
+  },
+  {
+   "symbol": "TURBO",
+   "name": "Turbo Wallet (TURBO)"
+  },
+  {
+   "symbol": "TURBOT",
+   "name": "Turbo (TURBOT)",
+   "built_on": "ETH"
+  }
+ ]
+}
