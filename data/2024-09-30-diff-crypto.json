@@ -1,0 +1,126 @@
+{
+ "added": [
+  {
+   "symbol": "HMSTR",
+   "name": "Hamster Kombat (HMSTR)",
+   "built_on": "TON"
+  },
+  {
+   "symbol": "CHUMP",
+   "name": "Chump Change (CHUMP)",
+   "built_on": "BASE"
+  },
+  {
+   "symbol": "CATCOIN",
+   "name": "CatCoin Cash (CATCOIN)"
+  },
+  {
+   "symbol": "RLUSD",
+   "name": "Ripple USD (RLUSD)",
+   "built_on": "XRP"
+  },
+  {
+   "symbol": "AXOL",
+   "name": "Axol (AXOL)",
+   "built_on": "SUI"
+  },
+  {
+   "symbol": "ESTEE",
+   "name": "Kaga No Fuuka Go Sapporo Kagasou (ESTEE)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "CAT",
+   "name": "CatCoin (CAT)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "BASEX",
+   "name": "Base Terminal (BASEX)",
+   "built_on": "BASE"
+  },
+  {
+   "symbol": "ATLA",
+   "name": "Atleta Network (ATLA)"
+  },
+  {
+   "symbol": "GETH",
+   "name": "Guarded Ether (GETH)"
+  },
+  {
+   "symbol": "BATMAN",
+   "name": "BATMAN (BATMAN)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "VOLBOOST",
+   "name": "VolBoost (VOLBOOST)"
+  },
+  {
+   "symbol": "SNIFT",
+   "name": "StarryNift (SNIFT)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "GAMBI",
+   "name": "Gambi Fi (GAMBI)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "MSC",
+   "name": "Miningwatchdog Smartchain (MSC)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "BELLE",
+   "name": "Isabelle (BELLE)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "MOONBIX",
+   "name": "MOONBIX MEME (MOONBIX)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "XRPEPE",
+   "name": "XRPEPE (XRPEPE)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "BANK",
+   "name": "Float Protocol (BANK)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "PUGWIF",
+   "name": "PUGWIFHAT (PUGWIF)",
+   "built_on": "SUI"
+  },
+  {
+   "symbol": "FLAY",
+   "name": "Flayer (FLAY)",
+   "built_on": "ETH"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "CHUMP",
+   "name": "Chump Change (CHUMP)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "MSC",
+   "name": "Miningwatchdog Smartchain (MSC)"
+  },
+  {
+   "symbol": "CAT",
+   "name": "CatCoin (CAT)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "CATCOIN",
+   "name": "CatCoin Cash (CATCOIN)",
+   "built_on": "BNB"
+  }
+ ]
+}

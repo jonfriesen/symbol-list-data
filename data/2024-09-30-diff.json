@@ -1,0 +1,292 @@
+{
+ "added": [
+  {
+   "symbol": "MSG",
+   "name": "Mithril Silver and Gold Limited",
+   "exchange": "TSXV",
+   "yahoo_symbol": "MSG.V",
+   "instruments": [
+    {
+     "name": "Mithril Silver and Gold Limited",
+     "symbol": "MSG"
+    }
+   ]
+  },
+  {
+   "symbol": "PVS.PR.G",
+   "name": "Partners Value Split Corp.",
+   "exchange": "TSX",
+   "yahoo_symbol": "PVS.PR.G.TO",
+   "instruments": [
+    {
+     "name": "Partners Val AA Pr 9",
+     "symbol": "PVS.PR.G"
+    },
+    {
+     "name": "Partners ValAA Pr 10",
+     "symbol": "PVS.PR.H"
+    },
+    {
+     "name": "Partners ValAA Pr 11",
+     "symbol": "PVS.PR.I"
+    },
+    {
+     "name": "Partners ValAA Pr 12",
+     "symbol": "PVS.PR.J"
+    },
+    {
+     "name": "Partners ValAA Pr 13",
+     "symbol": "PVS.PR.K"
+    },
+    {
+     "name": "Partners Val AA Pr14",
+     "symbol": "PVS.PR.L"
+    }
+   ]
+  },
+  {
+   "symbol": "SLT.U",
+   "name": "Saltire Capital Ltd.",
+   "exchange": "TSX",
+   "yahoo_symbol": "SLT.U.TO",
+   "instruments": [
+    {
+     "name": "Saltire Capital USD",
+     "symbol": "SLT.U"
+    },
+    {
+     "name": "Saltire Cap Wts USD ",
+     "symbol": "SLT.WT.U"
+    }
+   ]
+  },
+  {
+   "symbol": "FOXX",
+   "name": "Foxx Development Holdings Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "FOXX"
+  },
+  {
+   "symbol": "FOXXW",
+   "name": "Foxx Development Holdings Inc. - Warrant",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "FOXXW"
+  },
+  {
+   "symbol": "HTCO",
+   "name": "Caravelle International Group - Ordinary Shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "HTCO"
+  },
+  {
+   "symbol": "MTEX",
+   "name": "Mannatech, Incorporated - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "MTEX"
+  },
+  {
+   "symbol": "OMCC",
+   "name": "Old Market Capital Corporation - Common Stock",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "OMCC"
+  },
+  {
+   "symbol": "AMTM",
+   "name": "Amentum Holdings, Inc. Common Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "AMTM"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "FGAA.U",
+   "name": "FG Acquisition Corp.",
+   "exchange": "TSX",
+   "yahoo_symbol": "FGAA.U.TO",
+   "instruments": [
+    {
+     "name": "FG AcquisCorpRV A US",
+     "symbol": "FGAA.U"
+    },
+    {
+     "name": "FG AcquisCorp Wt USF",
+     "symbol": "FGAA.WT.U"
+    }
+   ]
+  },
+  {
+   "symbol": "MTEX",
+   "name": "Mannatech, Incorporated - Common Stock",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "MTEX"
+  },
+  {
+   "symbol": "MXU",
+   "name": "Mackenzie Maximum Diversification All World Developed ex North America Index ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "MXU.TO",
+   "instruments": [
+    {
+     "name": "Mackenzie AlWrl NA E",
+     "symbol": "MXU"
+    }
+   ]
+  },
+  {
+   "symbol": "AMTM.V",
+   "name": "Amentum Holdings, Inc. Common Stock When-Issued",
+   "exchange": "NYSE",
+   "yahoo_symbol": "AMTM.V"
+  },
+  {
+   "symbol": "O$",
+   "name": "Realty Income Corporation 6.000% Series A Cumulative Redeemable Preferred Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "O$"
+  },
+  {
+   "symbol": "MKC",
+   "name": "Mackenzie Maximum Diversification Canada Index ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "MKC.TO",
+   "instruments": [
+    {
+     "name": "Mackenzie MaxDvrCA E",
+     "symbol": "MKC"
+    }
+   ]
+  },
+  {
+   "symbol": "NICK",
+   "name": "Nicholas Financial, Inc. - Common Stock",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "NICK"
+  },
+  {
+   "symbol": "SGE",
+   "name": "Strong Global Entertainment, Inc. Class A Common Voting Shares",
+   "exchange": "NYSE MKT",
+   "yahoo_symbol": "SGE"
+  },
+  {
+   "symbol": "J.V",
+   "name": "Jacobs Solutions Inc. Common Stock When-Issued",
+   "exchange": "NYSE",
+   "yahoo_symbol": "J.V"
+  },
+  {
+   "symbol": "ASTSW",
+   "name": "AST SpaceMobile, Inc. - Warrant",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "ASTSW"
+  },
+  {
+   "symbol": "MWD",
+   "name": "Mackenzie Maximum Diversification All World Developed Index ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "MWD.TO",
+   "instruments": [
+    {
+     "name": "MackenzieMaxDvr AW E",
+     "symbol": "MWD"
+    }
+   ]
+  },
+  {
+   "symbol": "TBIO",
+   "name": "Telesis Bio, Inc. - Common Stock",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "TBIO"
+  },
+  {
+   "symbol": "MUS",
+   "name": "Mackenzie Maximum Diversification US Index ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "MUS.TO",
+   "instruments": [
+    {
+     "name": "Mackenzie MaxDvrUS E",
+     "symbol": "MUS"
+    }
+   ]
+  },
+  {
+   "symbol": "CSR$C",
+   "name": "D/B/A Centerspace 6.625% Series C ",
+   "exchange": "NYSE",
+   "yahoo_symbol": "CSR$C"
+  },
+  {
+   "symbol": "MEE",
+   "name": "Mackenzie Maximum Diversification Emerging Markets Index ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "MEE.TO",
+   "instruments": [
+    {
+     "name": "Mackenzie EmrgMkts E",
+     "symbol": "MEE"
+    }
+   ]
+  },
+  {
+   "symbol": "PVS.PR.F",
+   "name": "Partners Value Split Corp.",
+   "exchange": "TSX",
+   "yahoo_symbol": "PVS.PR.F.TO",
+   "instruments": [
+    {
+     "name": "Partners Val AA Pr 8",
+     "symbol": "PVS.PR.F"
+    },
+    {
+     "name": "Partners Val AA Pr 9",
+     "symbol": "PVS.PR.G"
+    },
+    {
+     "name": "Partners ValAA Pr 10",
+     "symbol": "PVS.PR.H"
+    },
+    {
+     "name": "Partners ValAA Pr 11",
+     "symbol": "PVS.PR.I"
+    },
+    {
+     "name": "Partners ValAA Pr 12",
+     "symbol": "PVS.PR.J"
+    },
+    {
+     "name": "Partners ValAA Pr 13",
+     "symbol": "PVS.PR.K"
+    },
+    {
+     "name": "Partners Val AA Pr14",
+     "symbol": "PVS.PR.L"
+    }
+   ]
+  },
+  {
+   "symbol": "LRT.UN",
+   "name": "Lanesborough Real Estate Investment Trust",
+   "exchange": "TSXV",
+   "yahoo_symbol": "LRT.UN.V",
+   "instruments": [
+    {
+     "name": "Lanesborough Real Estate Investment Trust",
+     "symbol": "LRT.UN"
+    }
+   ]
+  },
+  {
+   "symbol": "CACO",
+   "name": "Caravelle International Group - Ordinary Shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "CACO"
+  },
+  {
+   "symbol": "BACA",
+   "name": "Berenson Acquisition Corp. I Class A Common Stock",
+   "exchange": "NYSE MKT",
+   "yahoo_symbol": "BACA"
+  }
+ ]
+}
