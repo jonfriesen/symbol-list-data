@@ -1,0 +1,136 @@
+{
+ "added": [
+  {
+   "symbol": "WFLD",
+   "name": "Wellfield Technologies Inc.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "WFLD.V",
+   "instruments": [
+    {
+     "name": "Wellfield Technologies Inc.",
+     "symbol": "WFLD"
+    },
+    {
+     "name": "Wellfield Technologies Inc. wt 23nov2024",
+     "symbol": "WFLD.WT"
+    }
+   ]
+  },
+  {
+   "symbol": "XFLX",
+   "name": "iShares Flexible Monthly Income ETF (CAD-Hedged)",
+   "exchange": "TSX",
+   "yahoo_symbol": "XFLX.TO",
+   "instruments": [
+    {
+     "name": "iShr FlMnthly IncETF",
+     "symbol": "XFLX"
+    }
+   ]
+  },
+  {
+   "symbol": "JEPQ",
+   "name": "JPMorgan Nasdaq Equity Premium Income Active ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "JEPQ.TO",
+   "instruments": [
+    {
+     "name": "JPM NdEq PInc ActETF",
+     "symbol": "JEPQ"
+    }
+   ]
+  },
+  {
+   "symbol": "JEPI",
+   "name": "JPMorgan US Equity Premium Income Active ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "JEPI.TO",
+   "instruments": [
+    {
+     "name": "JPM USEq PInc ActETF",
+     "symbol": "JEPI"
+    }
+   ]
+  },
+  {
+   "symbol": "HYBI",
+   "name": "NEOS Enhanced Income Credit Select ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "HYBI"
+  },
+  {
+   "symbol": "NIXX",
+   "name": "Nixxy, Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "NIXX"
+  },
+  {
+   "symbol": "NIXXW",
+   "name": "Nixxy, Inc. - Warrant",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "NIXXW"
+  },
+  {
+   "symbol": "VACH",
+   "name": "Voyager Acquisition Corp - Class A Ordinary Shares",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "VACH"
+  },
+  {
+   "symbol": "VACHW",
+   "name": "Voyager Acquisition Corp - Warrants",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "VACHW"
+  },
+  {
+   "symbol": "ZJK",
+   "name": "ZJK Industrial Co., Ltd. - Ordinary Shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "ZJK"
+  },
+  {
+   "symbol": "CURB",
+   "name": "Curbline Properties Corp. Common Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "CURB"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "SWN",
+   "name": "Southwestern Energy Company Common Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "SWN"
+  },
+  {
+   "symbol": "SITC.V",
+   "name": "SITE Centers Corp. Common Shares When-Issued",
+   "exchange": "NYSE",
+   "yahoo_symbol": "SITC.V"
+  },
+  {
+   "symbol": "RCRTW",
+   "name": "Recruiter.com Group, Inc. - Warrant",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "RCRTW"
+  },
+  {
+   "symbol": "PWSC",
+   "name": "PowerSchool Holdings, Inc. Class A Common Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "PWSC"
+  },
+  {
+   "symbol": "RCRT",
+   "name": "Recruiter.com Group, Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "RCRT"
+  },
+  {
+   "symbol": "CURB.V",
+   "name": "Curbline Properties Corp. Common Stock When-Issued",
+   "exchange": "NYSE",
+   "yahoo_symbol": "CURB.V"
+  }
+ ]
+}

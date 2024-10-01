@@ -1,0 +1,185 @@
+{
+ "added": [
+  {
+   "symbol": "DONAL",
+   "name": "Donald Pump (DONAL)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "GIGGLE",
+   "name": "Giggle Academy (GIGGLE)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "SAGE",
+   "name": "Ceremonies AI (SAGE)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "SEIYAN",
+   "name": "Seiyan Token (SEIYAN)",
+   "built_on": "SEI"
+  },
+  {
+   "symbol": "PESTO",
+   "name": "Pesto the Baby King Penguin (PESTO)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "MININGWATCHDOG",
+   "name": "Miningwatchdog Smartchain (MININGWATCHDOG)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "AARDY",
+   "name": "Baby Aardvark (AARDY)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "SIMPSONP",
+   "name": "Simpson Predictions (SIMPSONP)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "ELONMA",
+   "name": "ELON MARS (ELONMA)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "BIDZV1",
+   "name": "BIDZ Coin v1 (BIDZV1)"
+  },
+  {
+   "symbol": "G",
+   "name": "Gravity (G)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "S",
+   "name": "Sonic Labs (S)"
+  },
+  {
+   "symbol": "GAMEST",
+   "name": "GameStop Coin (GAMEST)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "POOC",
+   "name": "Poo Chi (POOC)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "ZHOA",
+   "name": "Chengpang Zhoa (ZHOA)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "SANCHO",
+   "name": "Sancho (SANCHO)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "SLF",
+   "name": "Self Chain (SLF)"
+  },
+  {
+   "symbol": "WSTORV1",
+   "name": "StorageChain v1 (WSTORV1)"
+  },
+  {
+   "symbol": "KOAI",
+   "name": "KOI (KOAI)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "BOF",
+   "name": "Balls of Fate (BOF)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "COINB",
+   "name": "Coinbidex (COINB)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "AKOBI",
+   "name": "AKOBI (AKOBI)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "KITTYS",
+   "name": "KITTY Sol (KITTYS)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "BANKETH",
+   "name": "BankEth (BANKETH)"
+  },
+  {
+   "symbol": "WEEX",
+   "name": "WEEX Token (WEEX)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "TSLT",
+   "name": "Tamkin (TSLT)",
+   "built_on": "POL"
+  },
+  {
+   "symbol": "SIMPSONF",
+   "name": "Simpson FUKU (SIMPSONF)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "CBBTCBASE",
+   "name": "cbBTC (CBBTCBASE)"
+  },
+  {
+   "symbol": "DEXC",
+   "name": "DexCoyote Legends (DEXC)",
+   "built_on": "TON"
+  },
+  {
+   "symbol": "GHE",
+   "name": "GHETTO PEPE (GHE)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "MOREGEN",
+   "name": "MoreGen FreeMoon (MOREGEN)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "JOULE",
+   "name": "Joule (JOULE)",
+   "built_on": "FLR"
+  },
+  {
+   "symbol": "NEIROONB",
+   "name": "Neiro on Base (NEIROONB)",
+   "built_on": "BASE"
+  },
+  {
+   "symbol": "CHAI",
+   "name": "Chroma AI (CHAI)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "CHUMPC",
+   "name": "Chump Change (CHUMPC)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "KINGO",
+   "name": "King of memes (KINGO)",
+   "built_on": "SOL"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "CBBTCBASE",
+   "name": "cbBTC (CBBTCBASE)",
+   "built_on": "BASE"
+  }
+ ]
+}
