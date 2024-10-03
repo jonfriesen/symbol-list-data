@@ -1,0 +1,106 @@
+{
+ "added": [
+  {
+   "symbol": "BDMD",
+   "name": "Baird Medical Investment Holdings Ltd - Ordinary Share",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "BDMD"
+  },
+  {
+   "symbol": "BDMDW",
+   "name": "Baird Medical Investment Holdings Ltd - Warrant",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "BDMDW"
+  },
+  {
+   "symbol": "CLYM",
+   "name": "Climb Bio, Inc. - Common Stock",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "CLYM"
+  },
+  {
+   "symbol": "WCT",
+   "name": "Wellchange Holdings Company Limited - Ordinary shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "WCT"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "PRFT",
+   "name": "Perficient, Inc. - Common Stock",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "PRFT"
+  },
+  {
+   "symbol": "ZZZ",
+   "name": "Sleep Country Canada Holdings Inc.",
+   "exchange": "TSX",
+   "yahoo_symbol": "ZZZ.TO",
+   "instruments": [
+    {
+     "name": "Sleep Cntry Cda Hldg",
+     "symbol": "ZZZ"
+    }
+   ]
+  },
+  {
+   "symbol": "LCW",
+   "name": "Learn CW Investment Corporation - Class A Ordinary Shares",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "LCW"
+  },
+  {
+   "symbol": "VPH",
+   "name": "Valeo Pharma Inc.",
+   "exchange": "TSX",
+   "yahoo_symbol": "VPH.TO",
+   "instruments": [
+    {
+     "name": "Valeo Pharma J Cl A ",
+     "symbol": "VPH"
+    },
+    {
+     "name": "Valeo Pharma J 12%Db",
+     "symbol": "VPH.DB"
+    }
+   ]
+  },
+  {
+   "symbol": "ELYM",
+   "name": "Eliem Therapeutics, Inc - Common Stock",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "ELYM"
+  },
+  {
+   "symbol": "EGRX",
+   "name": "Eagle Pharmaceuticals, Inc. - Common Stock",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "EGRX"
+  },
+  {
+   "symbol": "AUGX",
+   "name": "Augmedix, Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "AUGX"
+  },
+  {
+   "symbol": "DXYN",
+   "name": "The Dixie Group, Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "DXYN"
+  },
+  {
+   "symbol": "VIP",
+   "name": "VIP Entertainment Technologies Inc.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "VIP.V",
+   "instruments": [
+    {
+     "name": "VIP Entertainment Technologies Inc.",
+     "symbol": "VIP"
+    }
+   ]
+  }
+ ]
+}
