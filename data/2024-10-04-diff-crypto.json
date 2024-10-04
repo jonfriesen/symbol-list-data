@@ -1,0 +1,283 @@
+{
+ "added": [
+  {
+   "symbol": "CONG",
+   "name": "The Conglomerate Capital (CONG)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "CLVX",
+   "name": "Calvex (CLVX)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "CHICKS",
+   "name": "SolChicks (CHICKS)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "LAY3R",
+   "name": "AutoLayer (LAY3R)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "BOOKOF",
+   "name": "BOOK OF NOTHING (BOOKOF)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "FTON",
+   "name": "Fanton (FTON)",
+   "built_on": "TON"
+  },
+  {
+   "symbol": "PLEBONBASE",
+   "name": "PLEB (PLEBONBASE)",
+   "built_on": "BASE"
+  },
+  {
+   "symbol": "CMN",
+   "name": "Crypto Media Network (CMN)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "SLUGDENG",
+   "name": "SLUG DENG (SLUGDENG)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "SHINOB",
+   "name": "Shinobi (SHINOB)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "METACLOUD",
+   "name": "Metacloud (METACLOUD)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "CODEX",
+   "name": "CODEX Finance (CODEX)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "BOMBO",
+   "name": "BOMBO (BOMBO)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "LOULOU",
+   "name": "LOULOU (LOULOU)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "TRUMPC",
+   "name": "TrumpCat (TRUMPC)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "INDIAN",
+   "name": "Indian Call Center (INDIAN)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "POCHITA",
+   "name": "Pochita (POCHITA)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "TTTU",
+   "name": "T-Project (TTTU)"
+  },
+  {
+   "symbol": "SUIB",
+   "name": "Suiba Inu (SUIB)",
+   "built_on": "SUI"
+  },
+  {
+   "symbol": "CRIME",
+   "name": "Crime Gold (CRIME)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "CRDN",
+   "name": "Cardence (CRDN)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "VIBEA",
+   "name": "Vibe AI (VIBEA)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "BABYDENG",
+   "name": "Baby Moo Deng (BABYDENG)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "STATOKEN",
+   "name": "STA (STATOKEN)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "WTE",
+   "name": "Wonder Energy Technology (WTE)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "TIMES",
+   "name": "DARKTIMES (TIMES)",
+   "built_on": "SUI"
+  },
+  {
+   "symbol": "GETH",
+   "name": "Guarded Ether (GETH)"
+  },
+  {
+   "symbol": "FOMON",
+   "name": "FOMO Network (FOMON)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "DONT",
+   "name": "Donald Trump (dont.cash) (DONT)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "CRAI",
+   "name": "Cryptify AI (CRAI)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "SOBULL",
+   "name": "SoBULL (SOBULL)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "BASEDCOPE",
+   "name": "COPE (BASEDCOPE)",
+   "built_on": "BASE"
+  },
+  {
+   "symbol": "GILOEX",
+   "name": "Gilo (GILOEX)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "CPRX",
+   "name": "Crypto Perx (CPRX)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "HELI",
+   "name": "Helion (HELI)",
+   "built_on": "FLR"
+  },
+  {
+   "symbol": "DOGEIN",
+   "name": "Doge In Glasses (DOGEIN)",
+   "built_on": "BASE"
+  },
+  {
+   "symbol": "CBBTC",
+   "name": "Coinbase Wrapped BTC (CBBTC)",
+   "built_on": "BASE"
+  },
+  {
+   "symbol": "COMT",
+   "name": "Community Token (COMT)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "MOBIU",
+   "name": "Mobius Money (MOBIU)",
+   "built_on": "CELO"
+  },
+  {
+   "symbol": "CLIST",
+   "name": "Chainlist (CLIST)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "CLOUD",
+   "name": "Cloud (CLOUD)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "KINGOF",
+   "name": "King Of Memes (KINGOF)",
+   "built_on": "BASE"
+  },
+  {
+   "symbol": "BANK",
+   "name": "Float Protocol (BANK)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "CATSON",
+   "name": "Catson (CATSON)",
+   "built_on": "BASE"
+  },
+  {
+   "symbol": "CMSN",
+   "name": "The Commission (CMSN)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "MTLS",
+   "name": "eMetals (MTLS)",
+   "built_on": "ETH"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "CMN",
+   "name": "Crypto Media Network (CMN)"
+  },
+  {
+   "symbol": "CRIME",
+   "name": "Crime Gold (CRIME)"
+  },
+  {
+   "symbol": "CRDN",
+   "name": "Cardence (CRDN)"
+  },
+  {
+   "symbol": "CPRX",
+   "name": "Crypto Perx (CPRX)"
+  },
+  {
+   "symbol": "COMT",
+   "name": "Community Token (COMT)"
+  },
+  {
+   "symbol": "CLOUD",
+   "name": "Metacloud (CLOUD)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "CONG",
+   "name": "The Conglomerate Capital (CONG)"
+  },
+  {
+   "symbol": "CLIST",
+   "name": "Chainlist (CLIST)"
+  },
+  {
+   "symbol": "CODEX",
+   "name": "CODEX Finance (CODEX)"
+  },
+  {
+   "symbol": "CLVX",
+   "name": "Calvex (CLVX)"
+  },
+  {
+   "symbol": "CHICKS",
+   "name": "SolChicks (CHICKS)"
+  },
+  {
+   "symbol": "CMSN",
+   "name": "The Commission (CMSN)"
+  }
+ ]
+}

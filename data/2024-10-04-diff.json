@@ -1,0 +1,114 @@
+{
+ "added": [
+  {
+   "symbol": "RTE",
+   "name": "Route 109 Resources Inc.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "RTE.V",
+   "instruments": [
+    {
+     "name": "Route 109 Resources Inc.",
+     "symbol": "RTE"
+    }
+   ]
+  },
+  {
+   "symbol": "INV",
+   "name": "Innventure, Inc. - Common Stock",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "INV"
+  },
+  {
+   "symbol": "NFXL",
+   "name": "Direxion Daily NFLX Bull 2X Shares",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "NFXL"
+  },
+  {
+   "symbol": "NFXS",
+   "name": "Direxion Daily NFLX Bear 1X Shares",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "NFXS"
+  },
+  {
+   "symbol": "OCCIM",
+   "name": "OFS Credit Company, Inc. - 7.875% Series F Term Preferred Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "OCCIM"
+  },
+  {
+   "symbol": "TSMX",
+   "name": "Direxion Daily TSM Bull 2X Shares",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "TSMX"
+  },
+  {
+   "symbol": "TSMZ",
+   "name": "Direxion Daily TSM Bear 1X Shares",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "TSMZ"
+  },
+  {
+   "symbol": "CBNA",
+   "name": "Chain Bridge Bancorp, Inc. Class A Common Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "CBNA"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "HHGCR",
+   "name": "HHG Capital Corporation - Rights",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "HHGCR"
+  },
+  {
+   "symbol": "AAN",
+   "name": "Aarons Holdings Company, Inc. Common Stock ",
+   "exchange": "NYSE",
+   "yahoo_symbol": "AAN"
+  },
+  {
+   "symbol": "CR",
+   "name": "Crew Energy Inc.",
+   "exchange": "TSX",
+   "yahoo_symbol": "CR.TO",
+   "instruments": [
+    {
+     "name": "Crew Energy Inc.",
+     "symbol": "CR"
+    }
+   ]
+  },
+  {
+   "symbol": "BMEX",
+   "name": "BMEX Gold Inc.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "BMEX.V",
+   "instruments": [
+    {
+     "name": "BMEX Gold Inc.",
+     "symbol": "BMEX"
+    }
+   ]
+  },
+  {
+   "symbol": "HHGCU",
+   "name": "HHG Capital Corporation - Units",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "HHGCU"
+  },
+  {
+   "symbol": "HHGC",
+   "name": "HHG Capital Corporation - Ordinary Shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "HHGC"
+  },
+  {
+   "symbol": "HHGCW",
+   "name": "HHG Capital Corporation - Warrant",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "HHGCW"
+  }
+ ]
+}
