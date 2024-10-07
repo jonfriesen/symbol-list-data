@@ -1,0 +1,75 @@
+{
+ "added": [
+  {
+   "symbol": "TIF",
+   "name": "This Is Fine (TIF)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "SASHA",
+   "name": "SASHA CAT (SASHA)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "MAWA",
+   "name": "Kumala Herris (MAWA)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "AVENT",
+   "name": "Aventa (AVENT)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "ZEDCOIN",
+   "name": "ZedCoin (ZEDCOIN)"
+  },
+  {
+   "symbol": "VODCAT",
+   "name": "VODKA CAT (VODCAT)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "SUIMAN",
+   "name": "Suiman (SUIMAN)",
+   "built_on": "SUI"
+  },
+  {
+   "symbol": "LILY",
+   "name": "LILY-The Gold Digger (LILY)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "GETH",
+   "name": "Guarded Ether (GETH)"
+  },
+  {
+   "symbol": "CBBTCBASE",
+   "name": "cbBTC (CBBTCBASE)"
+  },
+  {
+   "symbol": "MOBYONBASE",
+   "name": "Moby (MOBYONBASE)",
+   "built_on": "BASE"
+  },
+  {
+   "symbol": "BANK",
+   "name": "Float Protocol (BANK)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "MOBYONBASEV1",
+   "name": "Moby v1 (MOBYONBASEV1)"
+  },
+  {
+   "symbol": "TF47",
+   "name": "Trump Force 47 (TF47)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "ZERO",
+   "name": "ZeroLend (ZERO)",
+   "built_on": "LINEA"
+  }
+ ]
+}
