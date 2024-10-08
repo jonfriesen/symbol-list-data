@@ -1,0 +1,133 @@
+{
+ "added": [
+  {
+   "symbol": "SOFAC",
+   "name": "SofaCat (SOFAC)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "HUSBY",
+   "name": "HUSBY (HUSBY)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "DXY",
+   "name": "US Degen Index 6900 (DXY)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "SUITE",
+   "name": "Suite (SUITE)",
+   "built_on": "SUI"
+  },
+  {
+   "symbol": "KINGD",
+   "name": "Kingdom of Ants (KINGD)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "XV",
+   "name": "XV (XV)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "ARMY",
+   "name": "Army of Fortune Coin (ARMY)",
+   "built_on": "ARB"
+  },
+  {
+   "symbol": "CSI",
+   "name": "CSI888 (CSI)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "CBBTCBASE",
+   "name": "cbBTC (CBBTCBASE)"
+  },
+  {
+   "symbol": "AIRDROP",
+   "name": "AIRDROP2049 (AIRDROP)",
+   "built_on": "ARB"
+  },
+  {
+   "symbol": "TAXI",
+   "name": "Robotaxi (TAXI)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "TDM",
+   "name": "TDM (TDM)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "TAOP",
+   "name": "TaoPad (TAOP)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "BANK",
+   "name": "Float Protocol (BANK)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "ADASOL",
+   "name": "ADA (ADASOL)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "LEPER",
+   "name": "Leper (LEPER)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "BKOK",
+   "name": "BKOK FinTech (BKOK)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "SPAC",
+   "name": "SPACE DOGE (SPAC)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "DEDI",
+   "name": "Dedium (DEDI)",
+   "built_on": "ADA"
+  },
+  {
+   "symbol": "ICBX",
+   "name": "ICB Network (ICBX)"
+  },
+  {
+   "symbol": "WABU",
+   "name": "Warrenbuffett (WABU)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "G",
+   "name": "Gravity (G)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "SELFT",
+   "name": "SelfToken (SELFT)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "THEAICOIN",
+   "name": "AI (THEAICOIN)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "ADAM",
+   "name": "Adam Back (ADAM)",
+   "built_on": "SOL"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "ZEDCOIN",
+   "name": "ZedCoin (ZEDCOIN)"
+  }
+ ]
+}
