@@ -1,0 +1,135 @@
+{
+ "added": [
+  {
+   "symbol": "MNBR",
+   "name": "MN Bridge (MNBR)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "BLUEN",
+   "name": "Blue Norva (BLUEN)",
+   "built_on": "OP"
+  },
+  {
+   "symbol": "FIONABSC",
+   "name": "Fiona (FIONABSC)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "CYBERA",
+   "name": "Cyber Arena (CYBERA)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "CRYPTOH",
+   "name": "CryptoHunterTrading (CRYPTOH)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "BONKEA",
+   "name": "Bonk Earn (BONKEA)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "RABBI",
+   "name": "Len \"rabbi\" Sassaman (RABBI)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "CTRL",
+   "name": "Control Token (CTRL)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "BANK",
+   "name": "Float Protocol (BANK)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "TRNGUY",
+   "name": "Tron Guy Project (TRNGUY)",
+   "built_on": "TRX"
+  },
+  {
+   "symbol": "CRIS",
+   "name": "CristianoRonaldoSpeedSmurf7Siu (CRIS)",
+   "built_on": "SUI"
+  },
+  {
+   "symbol": "OLAF",
+   "name": "Olaf Token (OLAF)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "MCAKE",
+   "name": "EasyCake (MCAKE)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "HAXS",
+   "name": "Axie Infinity Shards (Harmony One Bridge) (HAXS)"
+  },
+  {
+   "symbol": "FETS",
+   "name": "FE TECH (FETS)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "BANKER",
+   "name": "BankerCoinAda (BANKER)",
+   "built_on": "ADA"
+  },
+  {
+   "symbol": "SPACEPUNKS",
+   "name": "PUNK - SpacePunksClub (SPACEPUNKS)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "TURBOB",
+   "name": "Turbo Browser (TURBOB)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "FIONA",
+   "name": "Fiona (FIONA)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "CBBTC",
+   "name": "Coinbase Wrapped BTC (CBBTC)",
+   "built_on": "BASE"
+  },
+  {
+   "symbol": "RINT",
+   "name": "Rin Tin Tin (RINT)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "MILOP",
+   "name": "MILO Project (MILOP)",
+   "built_on": "POL"
+  },
+  {
+   "symbol": "G",
+   "name": "Gravity (G)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "SEAGULL",
+   "name": "SEAGULL SAM (SEAGULL)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "DISTR",
+   "name": "Distributed Autonomous Organization (DISTR)",
+   "built_on": "BNB"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "HAXS",
+   "name": "Axie Infinity Shards (Harmony One Bridge) (HAXS)",
+   "built_on": "ONE"
+  }
+ ]
+}

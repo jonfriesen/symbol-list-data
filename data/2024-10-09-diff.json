@@ -1,0 +1,84 @@
+{
+ "added": [
+  {
+   "symbol": "DWTX",
+   "name": "Dogwood Therapeutics, Inc.  - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "DWTX"
+  },
+  {
+   "symbol": "JCTC",
+   "name": "Jewett-Cameron Trading Company - Common Shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "JCTC"
+  },
+  {
+   "symbol": "LPBBU",
+   "name": "Launch Two Acquisition Corp. - Unit",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "LPBBU"
+  },
+  {
+   "symbol": "PITA",
+   "name": "Heramba Electric plc - Ordinary Shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "PITA"
+  },
+  {
+   "symbol": "SKK",
+   "name": "SKK Holdings Limited - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "SKK"
+  },
+  {
+   "symbol": "CICB",
+   "name": "CION Investment Corporation 7.50% Notes due 2029",
+   "exchange": "NYSE",
+   "yahoo_symbol": "CICB"
+  },
+  {
+   "symbol": "KLC",
+   "name": "KinderCare Learning Companies, Inc. Common Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "KLC"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "TELL",
+   "name": "Tellurian Inc. Common Stock",
+   "exchange": "NYSE MKT",
+   "yahoo_symbol": "TELL"
+  },
+  {
+   "symbol": "PITA",
+   "name": "Heramba Electric plc - Ordinary Shares",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "PITA"
+  },
+  {
+   "symbol": "ART",
+   "name": "ARHT Media Inc.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "ART.V",
+   "instruments": [
+    {
+     "name": "ARHT Media Inc.",
+     "symbol": "ART"
+    }
+   ]
+  },
+  {
+   "symbol": "JCTCF",
+   "name": "Jewett-Cameron Trading Company - Common Shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "JCTCF"
+  },
+  {
+   "symbol": "VIRI",
+   "name": "Virios Therapeutics, Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "VIRI"
+  }
+ ]
+}
