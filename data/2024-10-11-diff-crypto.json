@@ -1,0 +1,171 @@
+{
+ "added": [
+  {
+   "symbol": "SHAD",
+   "name": "Shadowswap Finance (SHAD)",
+   "built_on": "CORE"
+  },
+  {
+   "symbol": "BUNN",
+   "name": "Bunni (BUNN)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "AQUA",
+   "name": "Aquarius (AQUA)",
+   "built_on": "XLM"
+  },
+  {
+   "symbol": "MIRT",
+   "name": "MIR Token (MIRT)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "BLACKST",
+   "name": "Black Stallion (BLACKST)",
+   "built_on": "POL"
+  },
+  {
+   "symbol": "KOMA",
+   "name": "Koma Inu (KOMA)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "AIRTOKEN",
+   "name": "AirToken (AIRTOKEN)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "XOR",
+   "name": "Sora (XOR)"
+  },
+  {
+   "symbol": "ROBOTAXI",
+   "name": "ROBOTAXI (ROBOTAXI)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "ICEC",
+   "name": "IceCream (ICEC)",
+   "built_on": "BRISE"
+  },
+  {
+   "symbol": "MIZ",
+   "name": "Mizar (MIZ)",
+   "built_on": "ARB"
+  },
+  {
+   "symbol": "AIR",
+   "name": "Altair (AIR)"
+  },
+  {
+   "symbol": "BRETTONETH",
+   "name": "Brett ETH (BRETTONETH)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "BRETTBASE",
+   "name": "Brett Base (BRETTBASE)"
+  },
+  {
+   "symbol": "CATABSC",
+   "name": "CATA BSC (CATABSC)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "OZONEC",
+   "name": "Ozonechain (OZONEC)"
+  },
+  {
+   "symbol": "BOBFUN",
+   "name": "BOB (BOBFUN)",
+   "built_on": "ICP"
+  },
+  {
+   "symbol": "COFFEE",
+   "name": "COFFEE (COFFEE)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "HERME",
+   "name": "Hermes DAO (HERME)",
+   "built_on": "XOR"
+  },
+  {
+   "symbol": "STOREP",
+   "name": "Storepay (STOREP)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "DOGLAI",
+   "name": "Doglaikacoin (DOGLAI)",
+   "built_on": "APT"
+  },
+  {
+   "symbol": "CBBTCBASE",
+   "name": "cbBTC (CBBTCBASE)"
+  },
+  {
+   "symbol": "BANKETH",
+   "name": "BankEth (BANKETH)"
+  },
+  {
+   "symbol": "BRETTFYI",
+   "name": "Brett (BRETTFYI)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "GETH",
+   "name": "Guarded Ether (GETH)"
+  },
+  {
+   "symbol": "CHEESEBALL",
+   "name": "Cheeseball the Wizard (CHEESEBALL)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "IFOR",
+   "name": "iFortune (IFOR)",
+   "built_on": "BNB"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "AIRTOKEN",
+   "name": "AirToken (AIRTOKEN)"
+  },
+  {
+   "symbol": "ZEDCOIN",
+   "name": "ZedCoin (ZEDCOIN)"
+  },
+  {
+   "symbol": "BRETTBASE",
+   "name": "Brett Base (BRETTBASE)",
+   "built_on": "BASE"
+  },
+  {
+   "symbol": "BRETT",
+   "name": "Brett (BRETT)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "BRETTETH",
+   "name": "Brett ETH (BRETTETH)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "AQUA",
+   "name": "Aquarius (AQUA)"
+  },
+  {
+   "symbol": "XOR",
+   "name": "Sora (XOR)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "AIR",
+   "name": "Altair (AIR)",
+   "built_on": "ETH"
+  }
+ ]
+}

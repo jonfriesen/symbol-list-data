@@ -1,0 +1,96 @@
+{
+ "added": [
+  {
+   "symbol": "AVL",
+   "name": "Direxion Daily AVGO Bull 2X Shares",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "AVL"
+  },
+  {
+   "symbol": "AVS",
+   "name": "Direxion Daily AVGO Bear 1X Shares",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "AVS"
+  },
+  {
+   "symbol": "HOND",
+   "name": "HCM II Acquisition Corp. - Ordinary Shares",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "HOND"
+  },
+  {
+   "symbol": "HONDW",
+   "name": "HCM II Acquisition Corp. - Warrant",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "HONDW"
+  },
+  {
+   "symbol": "MUD",
+   "name": "Direxion Daily MU Bear 1X Shares",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "MUD"
+  },
+  {
+   "symbol": "MUU",
+   "name": "Direxion Daily MU Bull 2X Shares",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "MUU"
+  },
+  {
+   "symbol": "SEEM",
+   "name": "SEI Select Emerging Markets Equity ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "SEEM"
+  },
+  {
+   "symbol": "SEIE",
+   "name": "SEI Select International Equity ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "SEIE"
+  },
+  {
+   "symbol": "SEIS",
+   "name": "SEI Select Small Cap ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "SEIS"
+  },
+  {
+   "symbol": "SKYQ",
+   "name": "Sky Quarry Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "SKYQ"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "RRL",
+   "name": "Resolute Resources Ltd.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "RRL.V",
+   "instruments": [
+    {
+     "name": "Resolute Resources Ltd.",
+     "symbol": "RRL"
+    }
+   ]
+  },
+  {
+   "symbol": "MOOV",
+   "name": "Moove Lubricants Holdings Common Shares",
+   "exchange": "NYSE",
+   "yahoo_symbol": "MOOV"
+  },
+  {
+   "symbol": "ADRT",
+   "name": "Ault Disruptive Technologies Corporation Common Stock",
+   "exchange": "NYSE MKT",
+   "yahoo_symbol": "ADRT"
+  },
+  {
+   "symbol": "ADRT.U",
+   "name": "Ault Disruptive Technologies Corporation Units, each consisting of one share of Common Stock, and three-fourths of one Redeemable Warrant to purchase one share of Common Stock",
+   "exchange": "NYSE MKT",
+   "yahoo_symbol": "ADRT.U"
+  }
+ ]
+}
