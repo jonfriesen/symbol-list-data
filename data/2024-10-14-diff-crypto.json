@@ -1,0 +1,218 @@
+{
+ "added": [
+  {
+   "symbol": "ASHS",
+   "name": "AshSwap (ASHS)",
+   "built_on": "EGLD"
+  },
+  {
+   "symbol": "EATH",
+   "name": "Eartherium (EATH)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "CPTN",
+   "name": "Captain Max (CPTN)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "SIMON",
+   "name": "Simon's Cat (CAT)"
+  },
+  {
+   "symbol": "BRETTSUI",
+   "name": "Brett (brettsui.com) (BRETTSUI)",
+   "built_on": "SUI"
+  },
+  {
+   "symbol": "DOGGYCOIN",
+   "name": "DOGGY (DOGGYCOIN)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "NINJACAT",
+   "name": "NinjaCat (NINJACAT)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "TGW",
+   "name": "The Green World (TGW)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "EGY",
+   "name": "Egypt Cat (EGY)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "WHI",
+   "name": "White Boy Summer (WHI)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "CATCOINV2",
+   "name": "CatCoin Cash (CATCOINV2)"
+  },
+  {
+   "symbol": "AIRT",
+   "name": "Aircraft (AIRT)"
+  },
+  {
+   "symbol": "KLAUS",
+   "name": "Klaus (KLAUS)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "TAD",
+   "name": "Tadpole (TAD)",
+   "built_on": "BASE"
+  },
+  {
+   "symbol": "FRATT",
+   "name": "Frogg and Ratt (FRATT)",
+   "built_on": "SUI"
+  },
+  {
+   "symbol": "CATCO",
+   "name": "CatCoin (CATCO)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "TADPOLEF",
+   "name": "Tadpole Finance (TADPOLEF)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "TRUMPCA",
+   "name": "Trump Card (TRUMPCA)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "BANK",
+   "name": "Float Protocol (BANK)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "EVERV",
+   "name": "EverValue Coin (EVERV)",
+   "built_on": "ARB"
+  },
+  {
+   "symbol": "FROP",
+   "name": "Popo The Frog (FROP)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "NINJ",
+   "name": "Ninja Protocol (NINJ)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "OHNO",
+   "name": "Oh no (OHNO)",
+   "built_on": "BLAST"
+  },
+  {
+   "symbol": "CBBTCBASE",
+   "name": "cbBTC (CBBTCBASE)"
+  },
+  {
+   "symbol": "NEIROH",
+   "name": "NeiroWifHat (NEIROH)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "BITCO",
+   "name": "Bitcoin Black Credit Card (BITCO)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "NETCOIN",
+   "name": "Netcoincapital (NETCOIN)",
+   "built_on": "TRX"
+  },
+  {
+   "symbol": "ZEDCOIN",
+   "name": "ZedCoin (ZEDCOIN)"
+  },
+  {
+   "symbol": "DIDDY",
+   "name": "DIDDY (DIDDY)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "TWURTLE",
+   "name": "twurtle the turtle (TWURTLE)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "MAGNET6900",
+   "name": "MAGNET6900 (MAGNET6900)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "WORKE",
+   "name": "Worken (WORKE)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "NASDAQ420",
+   "name": "Nasdaq420 (NASDAQ420)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "MIHARU",
+   "name": "Smiling Dolphin (MIHARU)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "CRYPTOR",
+   "name": "CRYPTORG (CRYPTOR)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "GETH",
+   "name": "Guarded Ether (GETH)"
+  },
+  {
+   "symbol": "JOYCAT",
+   "name": "JoyCat Coin (JOYCAT)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "CATCOIN",
+   "name": "CatCoin (CATCOIN)",
+   "built_on": "BNB"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "CAT",
+   "name": "CatCoin (CAT)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "AIRT",
+   "name": "Aircraft (AIRT)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "NETCOIN",
+   "name": "Netcoincapital (NETCOIN)"
+  },
+  {
+   "symbol": "TAD",
+   "name": "Tadpole Finance (TAD)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "SIMON",
+   "name": "Simon's Cat (SIMON)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "CATCOIN",
+   "name": "CatCoin Cash (CATCOIN)"
+  }
+ ]
+}

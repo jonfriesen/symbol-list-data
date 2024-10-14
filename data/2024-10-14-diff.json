@@ -1,0 +1,66 @@
+{
+ "added": [
+  {
+   "symbol": "CAMP",
+   "name": "CAMP4 Therapeutics Corporation - Common Stock",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "CAMP"
+  },
+  {
+   "symbol": "CBLL",
+   "name": "CeriBell, Inc. - Common Stock",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "CBLL"
+  },
+  {
+   "symbol": "CCIRU",
+   "name": "Cohen Circle Acquisition Corp. I - Unit",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "CCIRU"
+  },
+  {
+   "symbol": "NATO",
+   "name": "Themes Transatlantic Defense ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "NATO"
+  },
+  {
+   "symbol": "RDACU",
+   "name": "Rising Dragon Acquisition Corp. - Unit",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "RDACU"
+  },
+  {
+   "symbol": "STFS",
+   "name": "Star Fashion Culture Holdings Limited - Class A Ordinary Shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "STFS"
+  },
+  {
+   "symbol": "UPB",
+   "name": "Upstream Bio, Inc. - Common Stock",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "UPB"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "GHSI",
+   "name": "Guardion Health Sciences, Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "GHSI"
+  },
+  {
+   "symbol": "GECCM",
+   "name": "Great Elm Capital Corp. - 6.75% Notes Due 2025",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "GECCM"
+  },
+  {
+   "symbol": "CHUY",
+   "name": "Chuy's Holdings, Inc. - Common Stock",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "CHUY"
+  }
+ ]
+}
