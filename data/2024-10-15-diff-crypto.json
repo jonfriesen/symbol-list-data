@@ -1,0 +1,200 @@
+{
+ "added": [
+  {
+   "symbol": "SQUIDW",
+   "name": "Squidward Coin (SQUIDW)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "GOATCOIN",
+   "name": "Goat (GOATCOIN)"
+  },
+  {
+   "symbol": "TRUMP2",
+   "name": "Trump2024 (TRUMP2)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "GOGLZ",
+   "name": "GOGGLES (GOGLZ)",
+   "built_on": "FTM"
+  },
+  {
+   "symbol": "COPE",
+   "name": "Cope (COPE)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "G",
+   "name": "Gravity (G)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "EDOG",
+   "name": "EDOG (EDOG)",
+   "built_on": "APT"
+  },
+  {
+   "symbol": "NEINEI",
+   "name": "Chinese Neiro (NEINEI)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "DOLAN",
+   "name": "Dolan Duck (DOLAN)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "NODIDDY",
+   "name": "NODIDDY (NODIDDY)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "VIX7",
+   "name": "VIX777 (VIX7)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "BANK",
+   "name": "Float Protocol (BANK)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "GAMECO",
+   "name": "Game.com (GAMECO)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "DAOVC",
+   "name": "DAO.VC (DAOVC)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "SCROLL",
+   "name": "Scroll Network (SCROLL)"
+  },
+  {
+   "symbol": "MAGAC",
+   "name": "MAGA CAT (MAGAC)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "LIFET",
+   "name": "LifeTime (LIFET)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "FOMOSOL",
+   "name": "FOMOSolana (FOMOSOL)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "SQUIDV1",
+   "name": "Squid Game v1 (SQUIDV1)"
+  },
+  {
+   "symbol": "TRKX",
+   "name": "Trakx (TRKX)",
+   "built_on": "POL"
+  },
+  {
+   "symbol": "NETCOINV1",
+   "name": "Netcoincapital v1 (NETCOINV1)"
+  },
+  {
+   "symbol": "GAMEF",
+   "name": "Game Fantasy Token (GAMEF)",
+   "built_on": "IOTX"
+  },
+  {
+   "symbol": "DARKEN",
+   "name": "Dark Energy Crystals (DARKEN)",
+   "built_on": "TRX"
+  },
+  {
+   "symbol": "KARA",
+   "name": "KarateCat (KARA)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "ROCKYCOIN",
+   "name": "ROCKY (ROCKYCOIN)",
+   "built_on": "BASE"
+  },
+  {
+   "symbol": "METAA",
+   "name": "META ARENA (METAA)",
+   "built_on": "KLAY"
+  },
+  {
+   "symbol": "CTT",
+   "name": "Castweet (CTT)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "ROBOTA",
+   "name": "TAXI (ROBOTA)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "TYCOON",
+   "name": "CryptoTycoon (TYCOON)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "SUILAMA",
+   "name": "Suilama (SUILAMA)",
+   "built_on": "SUI"
+  },
+  {
+   "symbol": "MOCK",
+   "name": "Mock Capital (MOCK)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "CBBTC",
+   "name": "Coinbase Wrapped BTC (CBBTC)",
+   "built_on": "BASE"
+  },
+  {
+   "symbol": "KITTYSOL",
+   "name": "Kitty Solana (KITTYSOL)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "GOAT",
+   "name": "Goatseus Maximus (GOAT)",
+   "built_on": "SOL"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "COPE",
+   "name": "Cope (COPE)"
+  },
+  {
+   "symbol": "CTT",
+   "name": "Castweet (CTT)"
+  },
+  {
+   "symbol": "TYCOON",
+   "name": "CryptoTycoon (TYCOON)"
+  },
+  {
+   "symbol": "DARKEN",
+   "name": "Dark Energy Crystals (DARKEN)"
+  },
+  {
+   "symbol": "DAOVC",
+   "name": "DAO.VC (DAOVC)"
+  },
+  {
+   "symbol": "GOAT",
+   "name": "Goat (GOAT)"
+  },
+  {
+   "symbol": "ZEDCOIN",
+   "name": "ZedCoin (ZEDCOIN)"
+  }
+ ]
+}
