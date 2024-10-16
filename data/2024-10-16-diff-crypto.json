@@ -1,0 +1,150 @@
+{
+ "added": [
+  {
+   "symbol": "POPOETH",
+   "name": "POPO (POPOETH)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "OMNIA",
+   "name": "OmniaVerse (OMNIA)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "BASESWAPX",
+   "name": "BaseX (BASESWAPX)",
+   "built_on": "BASE"
+  },
+  {
+   "symbol": "ARBP",
+   "name": "ARB Protocol (ARBP)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "DOVIS",
+   "name": "Dovish Finance (DOVIS)",
+   "built_on": "POL"
+  },
+  {
+   "symbol": "MEMESQUAD",
+   "name": "Meme Squad (MEMESQUAD)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "PREC",
+   "name": "Precipitate.AI (PREC)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "PE",
+   "name": "Pe (PE)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "MBANK",
+   "name": "MetaBank (MBANK)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "DDRO",
+   "name": "D-Drops (DDRO)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "OMNIAV1",
+   "name": "OmniaVerse v1 (OMNIAV1)"
+  },
+  {
+   "symbol": "SUPERCAT",
+   "name": "SUPERCAT (SUPERCAT)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "PENJ",
+   "name": "Penjamin Blinkerton (PENJ)",
+   "built_on": "BASE"
+  },
+  {
+   "symbol": "PHEN",
+   "name": "Phenx (PHEN)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "METATI",
+   "name": "Metatime Coin (METATI)"
+  },
+  {
+   "symbol": "BANK",
+   "name": "Float Protocol (BANK)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "HUE",
+   "name": "Huebel Bolt (HUE)",
+   "built_on": "TON"
+  },
+  {
+   "symbol": "OPCA",
+   "name": "OP_CAT(BIP-420) (OPCA)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "PEPESOLCTO",
+   "name": "Pepe (pepesolcto.vip) (PEPESOLCTO)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "BASEVE",
+   "name": "Base Velocimeter (BASEVE)",
+   "built_on": "BASE"
+  },
+  {
+   "symbol": "ZEDCOIN",
+   "name": "ZedCoin (ZEDCOIN)"
+  },
+  {
+   "symbol": "SIMPSONT",
+   "name": "Simpson Trump (SIMPSONT)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "CBBTCBASE",
+   "name": "cbBTC (CBBTCBASE)"
+  },
+  {
+   "symbol": "MAGASOL",
+   "name": "MAGA (MAGASOL)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "SHROO",
+   "name": "Shroomates (SHROO)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "GETH",
+   "name": "Guarded Ether (GETH)"
+  },
+  {
+   "symbol": "ATMCOIN",
+   "name": "ATM (ATMCOIN)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "MUES",
+   "name": "MuesliSwap MILK (MUES)",
+   "built_on": "ADA"
+  },
+  {
+   "symbol": "PROSP",
+   "name": "Prospective (PROSP)",
+   "built_on": "TRX"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "OMNIA",
+   "name": "OmniaVerse (OMNIA)"
+  }
+ ]
+}

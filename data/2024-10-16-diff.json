@@ -1,0 +1,72 @@
+{
+ "added": [
+  {
+   "symbol": "ILLR",
+   "name": "Triller Group Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "ILLR"
+  },
+  {
+   "symbol": "ILLRW",
+   "name": "Triller Group Inc. - Warrant",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "ILLRW"
+  },
+  {
+   "symbol": "PPI",
+   "name": "AXS Astoria Real Assets ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "PPI"
+  },
+  {
+   "symbol": "SFHG",
+   "name": "Samfine Creation Holdings Group Limited - Ordinary Share",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "SFHG"
+  },
+  {
+   "symbol": "ARES$B",
+   "name": "Ares Management Corporation 6.75% Series B Mandatory Convertible Preferred Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "ARES$B"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "TMD",
+   "name": "Titan Medical Inc.",
+   "exchange": "TSX",
+   "yahoo_symbol": "TMD.TO",
+   "instruments": [
+    {
+     "name": "Titan Medical Inc. J",
+     "symbol": "TMD"
+    }
+   ]
+  },
+  {
+   "symbol": "WESTW",
+   "name": "Westrock Coffee Company - Warrants",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "WESTW"
+  },
+  {
+   "symbol": "AGBAW",
+   "name": "AGBA Group Holding Limited - Warrant",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "AGBAW"
+  },
+  {
+   "symbol": "AGBA",
+   "name": "AGBA Group Holding Limited - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "AGBA"
+  },
+  {
+   "symbol": "SEEL",
+   "name": "Seelos Therapeutics, Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "SEEL"
+  }
+ ]
+}
