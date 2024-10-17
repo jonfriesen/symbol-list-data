@@ -1,0 +1,100 @@
+{
+ "added": [
+  {
+   "symbol": "BTGD",
+   "name": "STKD Bitcoin \u0026 Gold ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "BTGD"
+  },
+  {
+   "symbol": "PTLE",
+   "name": "PTL LTD - Ordinary Shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "PTLE"
+  },
+  {
+   "symbol": "BCHT",
+   "name": "Birchtech Corp.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "BCHT.V",
+   "instruments": [
+    {
+     "name": "Birchtech Corp.",
+     "symbol": "BCHT"
+    }
+   ]
+  },
+  {
+   "symbol": "CNVI",
+   "name": "Conavi Medical Corp.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "CNVI.V",
+   "instruments": [
+    {
+     "name": "Conavi Medical Corp.",
+     "symbol": "CNVI"
+    }
+   ]
+  },
+  {
+   "symbol": "AW",
+   "name": "A\u0026W Revenue Royalties Income Fund",
+   "exchange": "TSX",
+   "yahoo_symbol": "AW.TO",
+   "instruments": [
+    {
+     "name": "A\u0026W Food Serv Canada",
+     "symbol": "AW"
+    },
+    {
+     "name": "A\u0026W Revenue Rylty Un",
+     "symbol": "AW.UN"
+    }
+   ]
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "AVK.R",
+   "name": "Advent Convertible and Income Fund Rights (expiring October 17, 2024) Rights",
+   "exchange": "NYSE",
+   "yahoo_symbol": "AVK.R"
+  },
+  {
+   "symbol": "AW.UN",
+   "name": "A\u0026W Revenue Royalties Income Fund",
+   "exchange": "TSX",
+   "yahoo_symbol": "AW.UN.TO",
+   "instruments": [
+    {
+     "name": "A\u0026W Revenue Rylty Un",
+     "symbol": "AW.UN"
+    }
+   ]
+  },
+  {
+   "symbol": "AL$A",
+   "name": "Air Lease Corporation 6.150% Fixed-to-Floating Rate Non-Cumulative Perpetual Preferred Stock, Series A",
+   "exchange": "NYSE",
+   "yahoo_symbol": "AL$A"
+  },
+  {
+   "symbol": "SQSP",
+   "name": "Squarespace, Inc. Class A Common Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "SQSP"
+  },
+  {
+   "symbol": "MEEC",
+   "name": "Midwest Energy Emissions Corp",
+   "exchange": "TSXV",
+   "yahoo_symbol": "MEEC.V",
+   "instruments": [
+    {
+     "name": "Midwest Energy Emissions Corp.",
+     "symbol": "MEEC"
+    }
+   ]
+  }
+ ]
+}
