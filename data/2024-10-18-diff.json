@@ -1,0 +1,96 @@
+{
+ "added": [
+  {
+   "symbol": "EIIA",
+   "name": "Eagle Point Institutional Income Fund 8.125% Series A Term Preferred Shares Due 2029",
+   "exchange": "NYSE",
+   "yahoo_symbol": "EIIA"
+  },
+  {
+   "symbol": "HURA",
+   "name": "TuHURA Biosciences, Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "HURA"
+  },
+  {
+   "symbol": "NDAA",
+   "name": "Ned Davis Research 360 Dynamic Allocation ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "NDAA"
+  },
+  {
+   "symbol": "ORIS",
+   "name": "Oriental Rise Holdings Limited - Ordinary Shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "ORIS"
+  },
+  {
+   "symbol": "SPHL",
+   "name": "Springview Holdings Ltd - Ordinary shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "SPHL"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "GTACU",
+   "name": "Global Technology Acquisition Corp. I - Unit",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "GTACU"
+  },
+  {
+   "symbol": "GTAC",
+   "name": "Global Technology Acquisition Corp. I - Class A Ordinary Shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "GTAC"
+  },
+  {
+   "symbol": "SVRS",
+   "name": "Silver Storm Mining Ltd.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "SVRS.V",
+   "instruments": [
+    {
+     "name": "Silver Storm Mining Ltd.",
+     "symbol": "SVRS"
+    }
+   ]
+  },
+  {
+   "symbol": "KTRA",
+   "name": "Kintara Therapeutics, Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "KTRA"
+  },
+  {
+   "symbol": "ORAN",
+   "name": "Orange",
+   "exchange": "NYSE",
+   "yahoo_symbol": "ORAN"
+  },
+  {
+   "symbol": "FIXT",
+   "name": "Procure Disaster Recovery Strategy ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "FIXT"
+  },
+  {
+   "symbol": "GTACW",
+   "name": "Global Technology Acquisition Corp. I - Warrant",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "GTACW"
+  },
+  {
+   "symbol": "ALPP",
+   "name": "Alpine 4 Holdings, Inc. - Class A Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "ALPP"
+  },
+  {
+   "symbol": "CLDI.W",
+   "name": "Calidi Biotherapeutics, Inc. Redeemable Warrants, each whole warrant exercisable for one share of Class A common stock at an exercise price of $11.50 per share",
+   "exchange": "NYSE MKT",
+   "yahoo_symbol": "CLDI.W"
+  }
+ ]
+}

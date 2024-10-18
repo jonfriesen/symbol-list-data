@@ -1,0 +1,149 @@
+{
+ "added": [
+  {
+   "symbol": "SHARKI",
+   "name": "Sharki (SHARKI)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "SHOPN",
+   "name": "ShopNEXT (SHOPN)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "DEDPRZ",
+   "name": "DEDPRZ (DEDPRZ)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "REVOL",
+   "name": "Revolution (REVOL)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "BULLF",
+   "name": "BULL FINANCE (BULLF)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "GTCC",
+   "name": "GTC COIN (GTCC)"
+  },
+  {
+   "symbol": "BANKETH",
+   "name": "BankEth (BANKETH)"
+  },
+  {
+   "symbol": "DOTF",
+   "name": "Dot Finance (DOTF)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "USDMA",
+   "name": "USD mars (USDMA)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "DUBER",
+   "name": "Düber (DUBER)"
+  },
+  {
+   "symbol": "SUPERBONK",
+   "name": "SUPER BONK (SUPERBONK)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "ZEDCOIN",
+   "name": "ZedCoin (ZEDCOIN)"
+  },
+  {
+   "symbol": "DARKMAGACOIN",
+   "name": "DARK MAGA (DARKMAGACOIN)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "CGPU",
+   "name": "CloudGPU (CGPU)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "POPCO",
+   "name": "Popcorn (POPCO)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "IXIR",
+   "name": "IXIR (IXIR)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "BONKBNB",
+   "name": "Bonk BNB (BONKBNB)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "GREENH",
+   "name": "Greenheart CBD (GREENH)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "ESPL",
+   "name": "ESPL ARENA (ESPL)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "ARNC",
+   "name": "Arnoya classic (ARNC)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "USA",
+   "name": "Based USA (USA)",
+   "built_on": "BASE"
+  },
+  {
+   "symbol": "HEA",
+   "name": "Healium (HEA)",
+   "built_on": "TRX"
+  },
+  {
+   "symbol": "FUTUR",
+   "name": "Future Token (FUTUR)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "CBBTC",
+   "name": "Coinbase Wrapped BTC (CBBTC)",
+   "built_on": "BASE"
+  },
+  {
+   "symbol": "DBR",
+   "name": "deBridge (DBR)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "DOGEFATHER",
+   "name": "Dogefather (DOGEFATHER)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "G",
+   "name": "Gravity (G)",
+   "built_on": "ETH"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "SUPERB",
+   "name": "SUPER BONK (SUPERB)"
+  },
+  {
+   "symbol": "USA",
+   "name": "DEDPRZ (USA)"
+  },
+  {
+   "symbol": "DBR",
+   "name": "Düber (DBR)"
+  }
+ ]
+}
