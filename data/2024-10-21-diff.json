@@ -1,0 +1,48 @@
+{
+ "added": [
+  {
+   "symbol": "WAI",
+   "name": "Top KingWin Ltd - Class A Ordinary Shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "WAI"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "CYL",
+   "name": "Ceylon Graphite Corp.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "CYL.V",
+   "instruments": [
+    {
+     "name": "Ceylon Graphite Corp.",
+     "symbol": "CYL"
+    }
+   ]
+  },
+  {
+   "symbol": "PXSAP",
+   "name": "Pyxis Tankers Inc. - 7.75% Series A Cumulative Convertible Preferred Shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "PXSAP"
+  },
+  {
+   "symbol": "ORGS",
+   "name": "Orgenesis Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "ORGS"
+  },
+  {
+   "symbol": "GUT.R",
+   "name": "Gabelli Utility Trust (The) Rights (expiring October 21, 2024) Rights",
+   "exchange": "NYSE",
+   "yahoo_symbol": "GUT.R"
+  },
+  {
+   "symbol": "TCJH",
+   "name": "Top KingWin Ltd - Class A Ordinary Shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "TCJH"
+  }
+ ]
+}

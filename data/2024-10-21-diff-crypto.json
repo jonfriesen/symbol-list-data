@@ -1,0 +1,117 @@
+{
+ "added": [
+  {
+   "symbol": "TRUMPSB",
+   "name": "TrumpsBags (TRUMPSB)",
+   "built_on": "BASE"
+  },
+  {
+   "symbol": "RINO",
+   "name": "Rino (RINO)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "EQUAL",
+   "name": "Equalizer DEX (EQUAL)",
+   "built_on": "FTM"
+  },
+  {
+   "symbol": "ANIMECOIN",
+   "name": "Animecoin (ANIMECOIN)"
+  },
+  {
+   "symbol": "SANIN",
+   "name": "Sanin (SANIN)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "EQUALCOIN",
+   "name": "EqualCoin (EQUALCOIN)"
+  },
+  {
+   "symbol": "NEIROINU",
+   "name": "Neiro Inu (NEIROINU)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "MINGO",
+   "name": "Mingo (MINGO)",
+   "built_on": "HBAR"
+  },
+  {
+   "symbol": "CBBTCBASE",
+   "name": "cbBTC (CBBTCBASE)"
+  },
+  {
+   "symbol": "GETH",
+   "name": "Guarded Ether (GETH)"
+  },
+  {
+   "symbol": "DRAGONX",
+   "name": "DragonX (DRAGONX)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "LUNE",
+   "name": "Luneko (LUNE)",
+   "built_on": "BASE"
+  },
+  {
+   "symbol": "KINK",
+   "name": "Kinka (KINK)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "ANI",
+   "name": "Anime Token (ANI)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "MOODENGSPACE",
+   "name": "MOO DENG (MOODENGSPACE)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "BANK",
+   "name": "Float Protocol (BANK)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "TRUMP3",
+   "name": "Trump MP3 (TRUMP3)",
+   "built_on": "TON"
+  },
+  {
+   "symbol": "PBASE",
+   "name": "Polkabase (PBASE)"
+  },
+  {
+   "symbol": "OHNOGG",
+   "name": "OHNHO (ohno.gg) (OHNOGG)",
+   "built_on": "BASE"
+  },
+  {
+   "symbol": "XTREMEV",
+   "name": "Xtremeverse (XTREMEV)",
+   "built_on": "ETH"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "EQUAL",
+   "name": "EqualCoin (EQUAL)"
+  },
+  {
+   "symbol": "ZEDCOIN",
+   "name": "ZedCoin (ZEDCOIN)"
+  },
+  {
+   "symbol": "ANI",
+   "name": "Animecoin (ANI)"
+  },
+  {
+   "symbol": "LUNE",
+   "name": "Luneko (LUNE)"
+  }
+ ]
+}
