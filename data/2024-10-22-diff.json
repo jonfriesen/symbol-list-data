@@ -1,0 +1,66 @@
+{
+ "added": [
+  {
+   "symbol": "RP",
+   "name": "RepliCel Life Sciences Inc.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "RP.V",
+   "instruments": [
+    {
+     "name": "Replicel Life Sciences Inc.",
+     "symbol": "RP"
+    }
+   ]
+  },
+  {
+   "symbol": "SRV.V",
+   "name": "NXG Cushing Midstream Energy Fund Rights (expiring November 14, 2024) Rights when issued",
+   "exchange": "NYSE",
+   "yahoo_symbol": "SRV.V"
+  },
+  {
+   "symbol": "ESN",
+   "name": "Essential 40 Stock ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "ESN"
+  },
+  {
+   "symbol": "NAYA",
+   "name": "NAYA Biosciences, Inc.  - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "NAYA"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "INVO",
+   "name": "INVO BioScience, Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "INVO"
+  },
+  {
+   "symbol": "GRTS",
+   "name": "Gritstone bio, Inc. - Common Stock",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "GRTS"
+  },
+  {
+   "symbol": "CDAQ",
+   "name": "Compass Digital Acquisition Corp. - Class A Ordinary Shares",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "CDAQ"
+  },
+  {
+   "symbol": "CDAQU",
+   "name": "Compass Digital Acquisition Corp. - Unit",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "CDAQU"
+  },
+  {
+   "symbol": "CDAQW",
+   "name": "Compass Digital Acquisition Corp. - Warrant",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "CDAQW"
+  }
+ ]
+}

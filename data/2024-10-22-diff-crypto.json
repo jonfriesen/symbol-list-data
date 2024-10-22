@@ -1,0 +1,137 @@
+{
+ "added": [
+  {
+   "symbol": "SILV",
+   "name": "Silver Surfer Solana (SILV)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "MEI",
+   "name": "Mei Solutions (MEI)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "COJ",
+   "name": "Cojam (COJ)",
+   "built_on": "KLAY"
+  },
+  {
+   "symbol": "GEME",
+   "name": "GAMESTUMP (GEME)",
+   "built_on": "KAS"
+  },
+  {
+   "symbol": "WOT",
+   "name": "World Of Trump (WOT)",
+   "built_on": "BASE"
+  },
+  {
+   "symbol": "EFIL",
+   "name": "Ethereum Wrapped Filecoin (EFIL)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "PBB",
+   "name": "PEPE BUT BLUE (PBB)",
+   "built_on": "BASE"
+  },
+  {
+   "symbol": "PAPERBASE",
+   "name": "Paper (PAPERBASE)",
+   "built_on": "BASE"
+  },
+  {
+   "symbol": "WPAY",
+   "name": "WPAY (WPAY)",
+   "built_on": "POL"
+  },
+  {
+   "symbol": "NIFTYL",
+   "name": "Nifty League (NIFTYL)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "BTC70000",
+   "name": "BTC 70000 (BTC70000)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "CLASH",
+   "name": "Clashub (CLASH)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "MININEIRO",
+   "name": "Mini Neiro (MININEIRO)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "THEC",
+   "name": "The CocktailBar (THEC)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "P",
+   "name": "Pike Token (P)",
+   "built_on": "BTC"
+  },
+  {
+   "symbol": "LUNAB",
+   "name": "Luna by Virtuals (LUNAB)",
+   "built_on": "BASE"
+  },
+  {
+   "symbol": "GETH",
+   "name": "Guarded Ether (GETH)"
+  },
+  {
+   "symbol": "BSK",
+   "name": "BTCSKR (BSK)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "CBBTCBASE",
+   "name": "cbBTC (CBBTCBASE)"
+  },
+  {
+   "symbol": "ARCADEN",
+   "name": "ArcadeNetwork (ARCADEN)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "GOLDN",
+   "name": "GoLondon (GOLDN)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "BABYMO",
+   "name": "Baby Moon Floki (BABYMO)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "GOATAI",
+   "name": "GOAT AI (GOATAI)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "BANKETH",
+   "name": "BankEth (BANKETH)"
+  },
+  {
+   "symbol": "TUA",
+   "name": "Atua AI (TUA)",
+   "built_on": "ETH"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "EFIL",
+   "name": "Ethereum Wrapped Filecoin (EFIL)"
+  },
+  {
+   "symbol": "GEME",
+   "name": "GAMESTUMP (GEME)",
+   "built_on": "SOL"
+  }
+ ]
+}
