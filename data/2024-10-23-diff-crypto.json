@@ -1,0 +1,115 @@
+{
+ "added": [
+  {
+   "symbol": "CADAI",
+   "name": "CADAI (CADAI)",
+   "built_on": "ARB"
+  },
+  {
+   "symbol": "BTMT",
+   "name": "BITmarkets Token (BTMT)",
+   "built_on": "POL"
+  },
+  {
+   "symbol": "GAMESTUMP",
+   "name": "GAMESTUMP (GAMESTUMP)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "PONK",
+   "name": "PONK (PONK)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "TENS",
+   "name": "TensorScan (TENS)"
+  },
+  {
+   "symbol": "BANKETH",
+   "name": "BankEth (BANKETH)"
+  },
+  {
+   "symbol": "ELMOCOIN",
+   "name": "Elmo (ELMOCOIN)",
+   "built_on": "TRX"
+  },
+  {
+   "symbol": "FBOMB",
+   "name": "fBomb (FBOMB)",
+   "built_on": "FTM"
+  },
+  {
+   "symbol": "INSURANCE",
+   "name": "insurance (INSURANCE)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "AIDA",
+   "name": "Ai-Da robot (AIDA)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "BABYCZHAO",
+   "name": "Baby Czhao (BABYCZHAO)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "DIAMONDINU",
+   "name": "Diamond (DIAMONDINU)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "KONAN",
+   "name": "Konan of Kaspa (KONAN)",
+   "built_on": "KAS"
+  },
+  {
+   "symbol": "ABCM",
+   "name": "ABCMETA (ABCM)",
+   "built_on": "POL"
+  },
+  {
+   "symbol": "NEVANETWORK",
+   "name": "Neva (NEVANETWORK)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "FBOMBV1",
+   "name": "fBomb v1 (FBOMBV1)"
+  },
+  {
+   "symbol": "G",
+   "name": "Gravity (G)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "ORANGE",
+   "name": "Annoying Orange (ORANGE)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "PIKE",
+   "name": "Pike Token (PIKE)",
+   "built_on": "BASE"
+  },
+  {
+   "symbol": "JANET",
+   "name": "Janet (JANET)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "SENTI",
+   "name": "Sentinel Bot Ai (SENTI)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "CBBTCBASE",
+   "name": "cbBTC (CBBTCBASE)"
+  },
+  {
+   "symbol": "PEENO",
+   "name": "Peeno (PEENO)",
+   "built_on": "SOL"
+  }
+ ]
+}

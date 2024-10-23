@@ -1,0 +1,120 @@
+{
+ "added": [
+  {
+   "symbol": "AMT",
+   "name": "AmeriTrust Financial Technologies Inc.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "AMT.V",
+   "instruments": [
+    {
+     "name": "AmeriTrust Financial Technologies Inc.",
+     "symbol": "AMT"
+    }
+   ]
+  },
+  {
+   "symbol": "AIFU",
+   "name": "Fanhua Inc. - American depositary shares, each representing 20 ordinary shares",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "AIFU"
+  },
+  {
+   "symbol": "ALDFU",
+   "name": "Aldel Financial II Inc. - Units",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "ALDFU"
+  },
+  {
+   "symbol": "HUHU",
+   "name": "HUHUTECH International Group Inc. - Ordinary Shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "HUHU"
+  },
+  {
+   "symbol": "NESR",
+   "name": "National Energy Services Reunited Corp - Ordinary Shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "NESR"
+  },
+  {
+   "symbol": "NESRW",
+   "name": "National Energy Services Reunited Corp - Warrants",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "NESRW"
+  },
+  {
+   "symbol": "XMAG",
+   "name": "Defiance Large Cap ex-Mag 7 ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "XMAG"
+  },
+  {
+   "symbol": "ROLR",
+   "name": "High Roller Technologies, Inc. Common Stock",
+   "exchange": "NYSE MKT",
+   "yahoo_symbol": "ROLR"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "NTBL",
+   "name": "Notable Labs, Ltd. - Ordinary Shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "NTBL"
+  },
+  {
+   "symbol": "SHCRW",
+   "name": "Sharecare, Inc. - Warrant",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "SHCRW"
+  },
+  {
+   "symbol": "PBX",
+   "name": "Powerband Solutions Inc.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "PBX.V",
+   "instruments": [
+    {
+     "name": "Powerband Solutions Inc.",
+     "symbol": "PBX"
+    }
+   ]
+  },
+  {
+   "symbol": "REVO",
+   "name": "RevoluGROUP Canada Inc.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "REVO.V",
+   "instruments": [
+    {
+     "name": "RevoluGROUP Canada Inc.",
+     "symbol": "REVO"
+    }
+   ]
+  },
+  {
+   "symbol": "NOVC",
+   "name": "Nova Cannabis Inc.",
+   "exchange": "TSX",
+   "yahoo_symbol": "NOVC.TO",
+   "instruments": [
+    {
+     "name": "Nova Cannabis Inc J",
+     "symbol": "NOVC"
+    }
+   ]
+  },
+  {
+   "symbol": "SHCR",
+   "name": "Sharecare, Inc. - Class A Common Stock",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "SHCR"
+  },
+  {
+   "symbol": "FANH",
+   "name": "Fanhua Inc. - American depositary shares, each representing 20 ordinary shares",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "FANH"
+  }
+ ]
+}
