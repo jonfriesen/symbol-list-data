@@ -1,0 +1,186 @@
+{
+ "added": [
+  {
+   "symbol": "FARME",
+   "name": "Farmers Only (FARME)",
+   "built_on": "ONE"
+  },
+  {
+   "symbol": "LYDI",
+   "name": "Lydia Finance (LYDI)",
+   "built_on": "AVAX"
+  },
+  {
+   "symbol": "KHEOWZOO",
+   "name": "khaokheowzoo (KHEOWZOO)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "THEF",
+   "name": "The Flash Currency (THEF)",
+   "built_on": "TRX"
+  },
+  {
+   "symbol": "MD",
+   "name": "MetaDeck (MD)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "WOLT",
+   "name": "Wolt (WOLT)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "BOPPY",
+   "name": "BOPPY (BOPPY)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "SENTR",
+   "name": "Sentre Protocol (SENTR)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "MINTE",
+   "name": "Minter HUB (MINTE)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "BLOXT",
+   "name": "Blox Token (BLOXT)",
+   "built_on": "ZIL"
+  },
+  {
+   "symbol": "TENS",
+   "name": "TensorScan (TENS)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "COPIO",
+   "name": "Copiosa Coin (COPIO)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "WHYCAT",
+   "name": "WhyCat (WHYCAT)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "BANKC",
+   "name": "Bankcoin (BANKC)"
+  },
+  {
+   "symbol": "BANKETH",
+   "name": "BankEth (BANKETH)"
+  },
+  {
+   "symbol": "SHOGGOTH",
+   "name": "Shoggoth (SHOGGOTH)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "BSCST",
+   "name": "Starter (BSCST)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "STONEDE",
+   "name": "Stone DeFi (STONEDE)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "UMID",
+   "name": "Umi Digital (UMID)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "OPENW",
+   "name": "OpenWorld (OPENW)",
+   "built_on": "ARB"
+  },
+  {
+   "symbol": "BABYHIPPO",
+   "name": "BABY HIPPO (BABYHIPPO)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "SMIDGEETH",
+   "name": "Smidge (SMIDGEETH)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "GNON",
+   "name": "Numogram (GNON)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "THES",
+   "name": "The Standard Protocol (USDS) (THES)",
+   "built_on": "ARB"
+  },
+  {
+   "symbol": "VIST",
+   "name": "VISTA (VIST)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "WIFEAR",
+   "name": "TRUMP WIF EAR (WIFEAR)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "BELLS",
+   "name": "Bellscoin (BELLS)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "TRAIMP",
+   "name": "TRUMP AI (TRAIMP)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "OMNIA",
+   "name": "OmniaVerse (OMNIA)"
+  },
+  {
+   "symbol": "GETH",
+   "name": "Guarded Ether (GETH)"
+  },
+  {
+   "symbol": "MAND",
+   "name": "Mandala Exchange Token (MAND)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "CRYPTOBL",
+   "name": "CryptoBlades Kingdoms (CRYPTOBL)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "CBBTC",
+   "name": "Coinbase Wrapped BTC (CBBTC)",
+   "built_on": "BASE"
+  },
+  {
+   "symbol": "PHUN",
+   "name": "PHUNWARE (PHUN)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "GITH",
+   "name": "GitHub's Mascot Octocat (GITH)",
+   "built_on": "SOL"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "TENS",
+   "name": "TensorScan (TENS)"
+  },
+  {
+   "symbol": "OMNIA",
+   "name": "OmniaVerse (OMNIA)",
+   "built_on": "ETH"
+  }
+ ]
+}

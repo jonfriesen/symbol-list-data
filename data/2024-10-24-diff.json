@@ -1,0 +1,150 @@
+{
+ "added": [
+  {
+   "symbol": "CAPG",
+   "name": "Capital Group Global Equity Select ETFTM (Canada)",
+   "exchange": "TSX",
+   "yahoo_symbol": "CAPG.TO",
+   "instruments": [
+    {
+     "name": "CapGr GlEqty Sel ETF",
+     "symbol": "CAPG"
+    }
+   ]
+  },
+  {
+   "symbol": "CAPI",
+   "name": "Capital Group International Equity Select ETFTM (Canada)",
+   "exchange": "TSX",
+   "yahoo_symbol": "CAPI.TO",
+   "instruments": [
+    {
+     "name": "Cap Gr Int EqSel ETF",
+     "symbol": "CAPI"
+    }
+   ]
+  },
+  {
+   "symbol": "CAPM",
+   "name": "Capital Group Multi-Sector Income Select ETFTM (Canada)",
+   "exchange": "TSX",
+   "yahoo_symbol": "CAPM.TO",
+   "instruments": [
+    {
+     "name": "CapGr MS Inc Sel ETF",
+     "symbol": "CAPM"
+    }
+   ]
+  },
+  {
+   "symbol": "CAPW",
+   "name": "Capital Group World Bond Select ETFTM (Canada)",
+   "exchange": "TSX",
+   "yahoo_symbol": "CAPW.TO",
+   "instruments": [
+    {
+     "name": "CapGr Wld Bd Sel ETF",
+     "symbol": "CAPW"
+    }
+   ]
+  },
+  {
+   "symbol": "BSGM",
+   "name": "BioSig Technologies, Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "BSGM"
+  },
+  {
+   "symbol": "FBLA",
+   "name": "FB Bancorp, Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "FBLA"
+  },
+  {
+   "symbol": "FGL",
+   "name": "Founder Group Limited - Ordinary Shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "FGL"
+  },
+  {
+   "symbol": "IRD",
+   "name": "Opus Genetics, Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "IRD"
+  },
+  {
+   "symbol": "LBGJ",
+   "name": "Li Bang International Corporation Inc. - Ordinary Shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "LBGJ"
+  },
+  {
+   "symbol": "SAG",
+   "name": "SAG Holdings Limited - Ordinary Shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "SAG"
+  },
+  {
+   "symbol": "SNYR",
+   "name": "Synergy CHC Corp. - Common Stock",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "SNYR"
+  },
+  {
+   "symbol": "INGM",
+   "name": "Ingram Micro Holding Corporation Common Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "INGM"
+  },
+  {
+   "symbol": "SRV.R",
+   "name": "NXG Cushing Midstream Energy Fund Rights (expiring November 14, 2024) Rights",
+   "exchange": "NYSE",
+   "yahoo_symbol": "SRV.R"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "SRV.V",
+   "name": "NXG Cushing Midstream Energy Fund Rights (expiring November 14, 2024) Rights when issued",
+   "exchange": "NYSE",
+   "yahoo_symbol": "SRV.V"
+  },
+  {
+   "symbol": "CID",
+   "name": "VictoryShares International High Div Volatility Wtd ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "CID"
+  },
+  {
+   "symbol": "QQQN",
+   "name": "VictoryShares Nasdaq Next 50 ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "QQQN"
+  },
+  {
+   "symbol": "OCUP",
+   "name": "Ocuphire Pharma, Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "OCUP"
+  },
+  {
+   "symbol": "VMC",
+   "name": "Vicinity Motor Corp.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "VMC.V",
+   "instruments": [
+    {
+     "name": "Vicinity Motor Corp.",
+     "symbol": "VMC"
+    }
+   ]
+  },
+  {
+   "symbol": "CIZ",
+   "name": "VictoryShares Developed Enhanced Volatility Wtd ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "CIZ"
+  }
+ ]
+}
