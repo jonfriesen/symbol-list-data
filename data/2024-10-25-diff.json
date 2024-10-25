@@ -1,0 +1,78 @@
+{
+ "added": [
+  {
+   "symbol": "BEAGU",
+   "name": "Bold Eagle Acquisition Corp. - Units",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "BEAGU"
+  },
+  {
+   "symbol": "CAPN",
+   "name": "Cayson Acquisition Corp - Ordinary Shares",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "CAPN"
+  },
+  {
+   "symbol": "CAPNR",
+   "name": "Cayson Acquisition Corp - Right",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "CAPNR"
+  },
+  {
+   "symbol": "CHARU",
+   "name": "Charlton Aria Acquisition Corporation - Units",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "CHARU"
+  },
+  {
+   "symbol": "HFSP",
+   "name": "TradersAI Large Cap Equity \u0026 Cash ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "HFSP"
+  },
+  {
+   "symbol": "OACCU",
+   "name": "Oaktree Acquisition Corp. III Life Sciences - Unit",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "OACCU"
+  },
+  {
+   "symbol": "QNXT",
+   "name": "iShares Nasdaq-100 ex Top 30 ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "QNXT"
+  },
+  {
+   "symbol": "QTOP",
+   "name": "iShares Nasdaq Top 30 Stocks ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "QTOP"
+  },
+  {
+   "symbol": "TTEQ",
+   "name": "T. Rowe Price Technology ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "TTEQ"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "BHLI",
+   "name": "Bradda Head Lithium Limited",
+   "exchange": "TSXV",
+   "yahoo_symbol": "BHLI.V",
+   "instruments": [
+    {
+     "name": "Bradda Head Lithium Limited",
+     "symbol": "BHLI"
+    }
+   ]
+  },
+  {
+   "symbol": "PHGE.U",
+   "name": "BiomX Inc. Units",
+   "exchange": "NYSE MKT",
+   "yahoo_symbol": "PHGE.U"
+  }
+ ]
+}

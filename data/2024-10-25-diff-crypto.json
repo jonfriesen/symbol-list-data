@@ -1,0 +1,151 @@
+{
+ "added": [
+  {
+   "symbol": "DTEC",
+   "name": "Dtec (DTEC)",
+   "built_on": "POL"
+  },
+  {
+   "symbol": "THUN",
+   "name": "Thunder Brawl (THUN)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "OBSI",
+   "name": "Obsidium (OBSI)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "TXC",
+   "name": "TEXITcoin (TXC)"
+  },
+  {
+   "symbol": "SLOP",
+   "name": "Slop (SLOP)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "TAOTOOLS",
+   "name": "TAOTools (TAOTOOLS)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "IPU",
+   "name": "iPulse (IPU)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "BASED",
+   "name": "Based Money (BASED)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "DAK",
+   "name": "dak (DAK)",
+   "built_on": "SUI"
+  },
+  {
+   "symbol": "MONSTE",
+   "name": "Monster (MONSTE)",
+   "built_on": "FTM"
+  },
+  {
+   "symbol": "BARTKRC",
+   "name": "BART Token (BARTKRC)",
+   "built_on": "KAS"
+  },
+  {
+   "symbol": "SWORLD",
+   "name": "Seedworld (SWORLD)",
+   "built_on": "AVAX"
+  },
+  {
+   "symbol": "FLAVIA",
+   "name": "Flavia Is Online (FLAVIA)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "FARTCOIN",
+   "name": "Fartcoin (FARTCOIN)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "DEVI",
+   "name": "DEVITA (DEVI)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "OSCAR",
+   "name": "OSCAR (OSCAR)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "BIGFOOT",
+   "name": "BigFoot Town (BIGFOOT)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "G",
+   "name": "Gravity (G)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "BZE",
+   "name": "BeeZee (BZE)"
+  },
+  {
+   "symbol": "OMNIAV2",
+   "name": "OmniaVerse (OMNIAV2)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "ZYNC",
+   "name": "ZynCoin (ZYNC)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "SWIS",
+   "name": "Swiss Cash Coin (SWIS)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "GETLIT",
+   "name": "LIT (GETLIT)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "MEMESAI",
+   "name": "Memes AI (MEMESAI)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "BANKETH",
+   "name": "BankEth (BANKETH)"
+  },
+  {
+   "symbol": "OMNIA",
+   "name": "OMNIA Protocol (OMNIA)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "PICOLO",
+   "name": "PICOLO (PICOLO)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "CBBTC",
+   "name": "Coinbase Wrapped BTC (CBBTC)",
+   "built_on": "BASE"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "BASED",
+   "name": "Based Money (BASED)"
+  },
+  {
+   "symbol": "OMNIA",
+   "name": "OmniaVerse (OMNIA)"
+  }
+ ]
+}
