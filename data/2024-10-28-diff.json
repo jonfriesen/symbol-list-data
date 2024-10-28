@@ -1,0 +1,168 @@
+{
+ "added": [
+  {
+   "symbol": "AGAG",
+   "name": "Argenta Silver Corp.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "AGAG.V",
+   "instruments": [
+    {
+     "name": "Argenta Silver Corp.",
+     "symbol": "AGAG"
+    }
+   ]
+  },
+  {
+   "symbol": "NXO",
+   "name": "NexOptic Technology Corp.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "NXO.V",
+   "instruments": [
+    {
+     "name": "NexOptic Technology Corp.",
+     "symbol": "NXO"
+    }
+   ]
+  },
+  {
+   "symbol": "GRCE",
+   "name": "Grace Therapeutics, Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "GRCE"
+  },
+  {
+   "symbol": "SEPN",
+   "name": "Septerna, Inc. - Common Stock",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "SEPN"
+  },
+  {
+   "symbol": "SGMO",
+   "name": "Sangamo Therapeutics, Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "SGMO"
+  },
+  {
+   "symbol": "SPRB",
+   "name": "Spruce Biosciences, Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "SPRB"
+  },
+  {
+   "symbol": "WRD",
+   "name": "WeRide Inc. - American Depositary Shares",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "WRD"
+  },
+  {
+   "symbol": "ECG.V",
+   "name": "Everus Construction Group, Inc. Common Stock When-Issued",
+   "exchange": "NYSE",
+   "yahoo_symbol": "ECG.V"
+  },
+  {
+   "symbol": "FLG",
+   "name": "Flagstar Financial, Inc. Common Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "FLG"
+  },
+  {
+   "symbol": "FLG$A",
+   "name": "Flagstar Financial, Inc. Depositary shares, each representing a 1/40th interest in a share of Fixed-to-Floating Rate Series A Noncumulative Perpetual Preferred Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "FLG$A"
+  },
+  {
+   "symbol": "FLG$U",
+   "name": "Flagstar Financial, Inc. Bifurcated Option Note Unit SecuritiES",
+   "exchange": "NYSE",
+   "yahoo_symbol": "FLG$U"
+  },
+  {
+   "symbol": "MDU.V",
+   "name": "MDU Resources Group, Inc. Common Stock When-Issued",
+   "exchange": "NYSE",
+   "yahoo_symbol": "MDU.V"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "SPRB",
+   "name": "Spruce Biosciences, Inc. - Common Stock",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "SPRB"
+  },
+  {
+   "symbol": "VSACW",
+   "name": "Vision Sensing Acquisition Corp. - Warrants",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "VSACW"
+  },
+  {
+   "symbol": "PETQ",
+   "name": "PetIQ, Inc. - Class A Common Stock",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "PETQ"
+  },
+  {
+   "symbol": "NYCB",
+   "name": "New York Community Bancorp, Inc. Common Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "NYCB"
+  },
+  {
+   "symbol": "ZPTAW",
+   "name": "Zapata Computing Holdings Inc.  - Warrant",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "ZPTAW"
+  },
+  {
+   "symbol": "NYCB$A",
+   "name": "New York Community Bancorp, Inc. Depositary shares, each representing a 1/40th interest in a share of Fixed-to-Floating Rate Series A Noncumulative Perpetual Preferred Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "NYCB$A"
+  },
+  {
+   "symbol": "SGMO",
+   "name": "Sangamo Therapeutics, Inc. - Common Stock",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "SGMO"
+  },
+  {
+   "symbol": "ZPTA",
+   "name": "Zapata Computing Holdings Inc.  - Common Stock",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "ZPTA"
+  },
+  {
+   "symbol": "VSACU",
+   "name": "Vision Sensing Acquisition Corp. - Unit",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "VSACU"
+  },
+  {
+   "symbol": "VSAC",
+   "name": "Vision Sensing Acquisition Corp. - Class A Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "VSAC"
+  },
+  {
+   "symbol": "PIXY",
+   "name": "ShiftPixy, Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "PIXY"
+  },
+  {
+   "symbol": "NYCB$U",
+   "name": "New York Community Bancorp, Inc. New York Community Capital Tr V (BONUSES)",
+   "exchange": "NYSE",
+   "yahoo_symbol": "NYCB$U"
+  },
+  {
+   "symbol": "ACST",
+   "name": "Acasti Pharma, Inc.  - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "ACST"
+  }
+ ]
+}

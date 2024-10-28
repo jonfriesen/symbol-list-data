@@ -1,0 +1,110 @@
+{
+ "added": [
+  {
+   "symbol": "CLAP",
+   "name": "Clap Cat (CLAP)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "AINA",
+   "name": "Ainastasia (AINA)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "TRUMP47",
+   "name": "47th President of the United States (TRUMP47)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "BANK",
+   "name": "Float Protocol (BANK)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "KYRA",
+   "name": "KYRA (KYRA)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "LMQ",
+   "name": "Lightning McQueen (LMQ)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "KINGNEIRO",
+   "name": "King Neiro (KINGNEIRO)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "LBTC",
+   "name": "Lombard Staked BTC (LBTC)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "GDOG",
+   "name": "GDOG (GDOG)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "GOATSE",
+   "name": "GOATSE (GOATSE)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "CHANG",
+   "name": "Chang (CHANG)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "FNXAI",
+   "name": "Finanx AI (FNXAI)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "LITEBTC",
+   "name": "LiteBitcoin (LITEBTC)"
+  },
+  {
+   "symbol": "DEEPG",
+   "name": "Deep Gold (DEEPG)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "ZEDCOIN",
+   "name": "ZedCoin (ZEDCOIN)"
+  },
+  {
+   "symbol": "GETH",
+   "name": "Guarded Ether (GETH)"
+  },
+  {
+   "symbol": "CODI",
+   "name": "Codi Finance (CODI)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "CBBTC",
+   "name": "Coinbase Wrapped BTC (CBBTC)",
+   "built_on": "BASE"
+  },
+  {
+   "symbol": "EZEIGEN",
+   "name": "Restaked EIGEN (EZEIGEN)",
+   "built_on": "ETH"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "LBTC",
+   "name": "LiteBitcoin (LBTC)"
+  },
+  {
+   "symbol": "DEEPG",
+   "name": "Deep Gold (DEEPG)"
+  },
+  {
+   "symbol": "CODI",
+   "name": "Codi Finance (CODI)"
+  }
+ ]
+}
