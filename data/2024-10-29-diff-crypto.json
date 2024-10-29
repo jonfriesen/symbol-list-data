@@ -1,0 +1,39 @@
+{
+ "added": [
+  {
+   "symbol": "GRASS",
+   "name": "Touch Grass (GRASS)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "BASEDV1",
+   "name": "Based Money v1 (BASEDV1)"
+  },
+  {
+   "symbol": "BANK",
+   "name": "Float Protocol (BANK)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "G",
+   "name": "Gravity (G)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "CBBTC",
+   "name": "Coinbase Wrapped BTC (CBBTC)",
+   "built_on": "BASE"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "ZEDCOIN",
+   "name": "ZedCoin (ZEDCOIN)"
+  },
+  {
+   "symbol": "GRASS",
+   "name": "Touch Grass (GRASS)",
+   "built_on": "BASE"
+  }
+ ]
+}

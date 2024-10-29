@@ -1,0 +1,52 @@
+{
+ "added": [
+  {
+   "symbol": "DDD",
+   "name": "Metavista3D Inc.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "DDD.V",
+   "instruments": [
+    {
+     "name": "Metavista3D Inc.",
+     "symbol": "DDD"
+    }
+   ]
+  },
+  {
+   "symbol": "ZIQ",
+   "name": "BMO MSCI EAFE High Quality Index ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "ZIQ.TO",
+   "instruments": [
+    {
+     "name": "Bmo Msc Eafe Hqi ETF",
+     "symbol": "ZIQ"
+    }
+   ]
+  },
+  {
+   "symbol": "POLE",
+   "name": "Andretti Acquisition Corp. II - Class A Ordinary Shares",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "POLE"
+  },
+  {
+   "symbol": "POLEW",
+   "name": "Andretti Acquisition Corp. II - Warrant",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "POLEW"
+  },
+  {
+   "symbol": "VCIC",
+   "name": "Vine Hill Capital Investment Corp. - Class A Ordinary Shares",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "VCIC"
+  },
+  {
+   "symbol": "VCICW",
+   "name": "Vine Hill Capital Investment Corp. - Warrant",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "VCICW"
+  }
+ ]
+}
