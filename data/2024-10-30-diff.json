@@ -1,0 +1,78 @@
+{
+ "added": [
+  {
+   "symbol": "CCEC",
+   "name": "CanCambria Energy Corp.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "CCEC.V",
+   "instruments": [
+    {
+     "name": "CanCambria Energy Corp.",
+     "symbol": "CCEC"
+    }
+   ]
+  },
+  {
+   "symbol": "GELS",
+   "name": "Gelteq Limited - Ordinary Shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "GELS"
+  },
+  {
+   "symbol": "PLRZ",
+   "name": "Polyrizon Ltd. - Ordinary Shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "PLRZ"
+  },
+  {
+   "symbol": "TZUP",
+   "name": "Thumzup Media Corporation - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "TZUP"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "FTAIP",
+   "name": "FTAI Aviation Ltd. - 8.25% Fixed-to-Floating Rate Series A Cumulative Perpetual Redeemable Preferred Shares",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "FTAIP"
+  },
+  {
+   "symbol": "OSK",
+   "name": "Osisko Mining Inc.",
+   "exchange": "TSX",
+   "yahoo_symbol": "OSK.TO",
+   "instruments": [
+    {
+     "name": "Osisko Mining Inc. J",
+     "symbol": "OSK"
+    }
+   ]
+  },
+  {
+   "symbol": "LLAP",
+   "name": "Terran Orbital Corporation Common Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "LLAP"
+  },
+  {
+   "symbol": "PHYT.U",
+   "name": "Pyrophyte Acquisition Corp. Units, each consisting of one share of Class A common stock and one-half of one redeemable warrant",
+   "exchange": "NYSE",
+   "yahoo_symbol": "PHYT.U"
+  },
+  {
+   "symbol": "PHYT.W",
+   "name": "Pyrophyte Acquisition Corp. Warrants, each whole warrant exercisable for one Class A ordinary share at an exercise price of $11.50 per share",
+   "exchange": "NYSE",
+   "yahoo_symbol": "PHYT.W"
+  },
+  {
+   "symbol": "PHYT",
+   "name": "Pyrophyte Acquisition Corp. Class A Ordinary Shares",
+   "exchange": "NYSE",
+   "yahoo_symbol": "PHYT"
+  }
+ ]
+}
