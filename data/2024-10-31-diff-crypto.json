@@ -1,0 +1,75 @@
+{
+ "added": [
+  {
+   "symbol": "SUMMIT",
+   "name": "Summit (SUMMIT)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "LRT2",
+   "name": "LRT Squared (LRT2)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "SCARCITY",
+   "name": "SCARCITY (SCARCITY)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "TALENT",
+   "name": "Talent Protocol (TALENT)",
+   "built_on": "BASE"
+  },
+  {
+   "symbol": "BITTON",
+   "name": "Bitton (BITTON)",
+   "built_on": "TON"
+  },
+  {
+   "symbol": "IO",
+   "name": "io.net (IO)"
+  },
+  {
+   "symbol": "CARV",
+   "name": "CARV (CARV)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "BANK",
+   "name": "Float Protocol (BANK)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "BRIL",
+   "name": "Brilliantcrypto (BRIL)",
+   "built_on": "POL"
+  },
+  {
+   "symbol": "TRUMPVANCE",
+   "name": "Trump Vance 2024 (TRUMPVANCE)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "G",
+   "name": "Gravity (G)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "CBBTC",
+   "name": "Coinbase Wrapped BTC (CBBTC)",
+   "built_on": "BASE"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "CARV",
+   "name": "CARV (CARV)",
+   "built_on": "BASE"
+  },
+  {
+   "symbol": "IO",
+   "name": "io.net (IO)",
+   "built_on": "SOL"
+  }
+ ]
+}
