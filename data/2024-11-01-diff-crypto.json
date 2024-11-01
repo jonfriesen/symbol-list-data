@@ -1,0 +1,77 @@
+{
+ "added": [
+  {
+   "symbol": "ZEDCOIN",
+   "name": "ZedCoin (ZEDCOIN)"
+  },
+  {
+   "symbol": "DGME",
+   "name": "GameStop Tokenized Stock Defichain (DGME)"
+  },
+  {
+   "symbol": "LIO",
+   "name": "Lio (LIO)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "BRAM",
+   "name": "Defibox bRAM (BRAM)"
+  },
+  {
+   "symbol": "DSLV",
+   "name": "iShares Silver Trust Defichain (DSLV)"
+  },
+  {
+   "symbol": "CHILDAI",
+   "name": "Singularity's Child gonzoai (CHILDAI)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "SMETX",
+   "name": "SpecialMetalX (SMETX)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "SUIMON",
+   "name": "Sui Monster (SUIMON)",
+   "built_on": "SUI"
+  },
+  {
+   "symbol": "BABYGOAT",
+   "name": "Baby Goat (BABYGOAT)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "CBBTC",
+   "name": "Coinbase Wrapped BTC (CBBTC)",
+   "built_on": "BASE"
+  },
+  {
+   "symbol": "G",
+   "name": "Gravity (G)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "BANK",
+   "name": "Float Protocol (BANK)",
+   "built_on": "ETH"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "DGME",
+   "name": "GameStop Tokenized Stock Defichain (DGME)",
+   "built_on": "DFI"
+  },
+  {
+   "symbol": "BRAM",
+   "name": "Defibox bRAM (BRAM)",
+   "built_on": "EOS"
+  },
+  {
+   "symbol": "DSLV",
+   "name": "iShares Silver Trust Defichain (DSLV)",
+   "built_on": "DFI"
+  }
+ ]
+}

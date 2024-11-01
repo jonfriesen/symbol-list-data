@@ -1,0 +1,124 @@
+{
+ "added": [
+  {
+   "symbol": "BTB.DB.H",
+   "name": "BTB Real Estate Investment Trust",
+   "exchange": "TSX",
+   "yahoo_symbol": "BTB.DB.H.TO",
+   "instruments": [
+    {
+     "name": "BTB REIT 7% H Deb",
+     "symbol": "BTB.DB.H"
+    },
+    {
+     "name": "BTB REIT Un",
+     "symbol": "BTB.UN"
+    }
+   ]
+  },
+  {
+   "symbol": "CUP.U",
+   "name": "Caribbean Utilities Company, Ltd.",
+   "exchange": "TSX",
+   "yahoo_symbol": "CUP.U.TO",
+   "instruments": [
+    {
+     "name": "Caribbean Ut Cl A US",
+     "symbol": "CUP.U"
+    }
+   ]
+  },
+  {
+   "symbol": "LFSC",
+   "name": "F/m Emerald Life Sciences Innovation ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "LFSC"
+  },
+  {
+   "symbol": "ECG",
+   "name": "Everus Construction Group, Inc. Common Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "ECG"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "CUP.RT.U",
+   "name": "Caribbean Utilities Company, Ltd.",
+   "exchange": "TSX",
+   "yahoo_symbol": "CUP.RT.U.TO",
+   "instruments": [
+    {
+     "name": "Caribbean Utl Ltd Rt",
+     "symbol": "CUP.RT.U"
+    },
+    {
+     "name": "Caribbean Ut Cl A US",
+     "symbol": "CUP.U"
+    }
+   ]
+  },
+  {
+   "symbol": "MDU.V",
+   "name": "MDU Resources Group, Inc. Common Stock When-Issued",
+   "exchange": "NYSE",
+   "yahoo_symbol": "MDU.V"
+  },
+  {
+   "symbol": "ECG.V",
+   "name": "Everus Construction Group, Inc. Common Stock When-Issued",
+   "exchange": "NYSE",
+   "yahoo_symbol": "ECG.V"
+  },
+  {
+   "symbol": "TELZ",
+   "name": "Tellurian Inc. 8.25% Senior Notes due 2028",
+   "exchange": "NYSE MKT",
+   "yahoo_symbol": "TELZ"
+  },
+  {
+   "symbol": "STER",
+   "name": "Sterling Check Corp. - Common Stock",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "STER"
+  },
+  {
+   "symbol": "SOC.W",
+   "name": "Sable Offshore Corp. Warrants, each whole warrant exercisable for one share of Common Stock at an exercise price of $11.50",
+   "exchange": "NYSE",
+   "yahoo_symbol": "SOC.W"
+  },
+  {
+   "symbol": "GRDI",
+   "name": "GRIID Infrastructure Inc. - Common Stock",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "GRDI"
+  },
+  {
+   "symbol": "BTB.DB.G",
+   "name": "BTB Real Estate Investment Trust",
+   "exchange": "TSX",
+   "yahoo_symbol": "BTB.DB.G.TO",
+   "instruments": [
+    {
+     "name": "BTB REIT 6% G Deb",
+     "symbol": "BTB.DB.G"
+    },
+    {
+     "name": "BTB REIT 7% H Deb",
+     "symbol": "BTB.DB.H"
+    },
+    {
+     "name": "BTB REIT Un",
+     "symbol": "BTB.UN"
+    }
+   ]
+  },
+  {
+   "symbol": "GRDIW",
+   "name": "GRIID Infrastructure Inc. - Warrant",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "GRDIW"
+  }
+ ]
+}
