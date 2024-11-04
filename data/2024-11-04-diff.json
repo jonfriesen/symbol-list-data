@@ -1,0 +1,150 @@
+{
+ "added": [
+  {
+   "symbol": "CTV",
+   "name": "CleanTech Vanadium Mining Corp.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "CTV.V",
+   "instruments": [
+    {
+     "name": "CleanTech Vanadium Mining Corp.",
+     "symbol": "CTV"
+    }
+   ]
+  },
+  {
+   "symbol": "BACQU",
+   "name": "Bleichroeder Acquisition Corp. I - Unit",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "BACQU"
+  },
+  {
+   "symbol": "NTWOU",
+   "name": "Newbury Street II Acquisition Corp - Unit",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "NTWOU"
+  },
+  {
+   "symbol": "NEE$T",
+   "name": "NextEra Energy, Inc. 7.234% Corporate Units",
+   "exchange": "NYSE",
+   "yahoo_symbol": "NEE$T"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "FIACU",
+   "name": "Focus Impact Acquisition Corp. - Unit",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "FIACU"
+  },
+  {
+   "symbol": "FLYN",
+   "name": "Flying Nickel Mining Corp.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "FLYN.V",
+   "instruments": [
+    {
+     "name": "Flying Nickel Mining Corp.",
+     "symbol": "FLYN"
+    }
+   ]
+  },
+  {
+   "symbol": "ITE",
+   "name": "i3 Energy plc",
+   "exchange": "TSX",
+   "yahoo_symbol": "ITE.TO",
+   "instruments": [
+    {
+     "name": "i3 Energy plc Ord",
+     "symbol": "ITE"
+    }
+   ]
+  },
+  {
+   "symbol": "ONYXW",
+   "name": "Onyx Acquisition Co. I - Warrant",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "ONYXW"
+  },
+  {
+   "symbol": "JWSM",
+   "name": "Jaws Mustang Acquisition Corp. Class A Ordinary Shares",
+   "exchange": "NYSE MKT",
+   "yahoo_symbol": "JWSM"
+  },
+  {
+   "symbol": "FIACW",
+   "name": "Focus Impact Acquisition Corp. - Warrant",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "FIACW"
+  },
+  {
+   "symbol": "GVP",
+   "name": "GSE Systems, Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "GVP"
+  },
+  {
+   "symbol": "ITI",
+   "name": "Iteris, Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "ITI"
+  },
+  {
+   "symbol": "JWSM.U",
+   "name": "Jaws Mustang Acquisition Corp. Units, each consisting of one Class A ordinary share, and one-fourth of one redeemable warrant",
+   "exchange": "NYSE MKT",
+   "yahoo_symbol": "JWSM.U"
+  },
+  {
+   "symbol": "ENSV",
+   "name": "Enservco Corporation Common Stock",
+   "exchange": "NYSE MKT",
+   "yahoo_symbol": "ENSV"
+  },
+  {
+   "symbol": "JWSM.W",
+   "name": "Jaws Mustang Acquisition Corp. Redeemable Warrants, each whole warrant exercisable for one Class A ordinary share at an exercise price of $11.50",
+   "exchange": "NYSE MKT",
+   "yahoo_symbol": "JWSM.W"
+  },
+  {
+   "symbol": "REYG",
+   "name": "Reyna Gold Corp.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "REYG.V",
+   "instruments": [
+    {
+     "name": "Reyna Gold Corp.",
+     "symbol": "REYG"
+    }
+   ]
+  },
+  {
+   "symbol": "FIAC",
+   "name": "Focus Impact Acquisition Corp. - Class A Common Stock",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "FIAC"
+  },
+  {
+   "symbol": "ONYX",
+   "name": "Onyx Acquisition Co. I - Class A Ordinary Shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "ONYX"
+  },
+  {
+   "symbol": "ONYXU",
+   "name": "Onyx Acquisition Co. I - Unit",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "ONYXU"
+  },
+  {
+   "symbol": "SURGW",
+   "name": "SurgePays, Inc. - Warrant",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "SURGW"
+  }
+ ]
+}

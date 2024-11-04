@@ -1,0 +1,67 @@
+{
+ "added": [
+  {
+   "symbol": "BDC",
+   "name": "Based (BDC)"
+  },
+  {
+   "symbol": "CBBTC",
+   "name": "Coinbase Wrapped BTC (CBBTC)",
+   "built_on": "BASE"
+  },
+  {
+   "symbol": "BRO",
+   "name": "Bitradio (BRO)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "BANK",
+   "name": "Float Protocol (BANK)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "NPC",
+   "name": "NPCcoin (NPC)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "BENJI",
+   "name": "BenjiRolls (BENJI)",
+   "built_on": "BASE"
+  },
+  {
+   "symbol": "G",
+   "name": "Gravity (G)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "DEEP",
+   "name": "DeepCloud AI (DEEP)",
+   "built_on": "SUI"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "NPC",
+   "name": "NPCcoin (NPC)"
+  },
+  {
+   "symbol": "BDC",
+   "name": "Based (BDC)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "BENJI",
+   "name": "BenjiRolls (BENJI)"
+  },
+  {
+   "symbol": "DEEP",
+   "name": "DeepCloud AI (DEEP)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "BRO",
+   "name": "Bitradio (BRO)"
+  }
+ ]
+}
