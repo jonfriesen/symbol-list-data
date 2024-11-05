@@ -1,0 +1,174 @@
+{
+ "added": [
+  {
+   "symbol": "CLSKW",
+   "name": "CleanSpark, Inc. - Warrant",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "CLSKW"
+  },
+  {
+   "symbol": "FVN",
+   "name": "Future Vision II Acquisition Corporation - Ordinary Shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "FVN"
+  },
+  {
+   "symbol": "FVNNR",
+   "name": "Future Vision II Acquisition Corporation - Right",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "FVNNR"
+  },
+  {
+   "symbol": "LBYAV",
+   "name": "Liberty Global Ltd. - Class A Common Shares Ex-distribution When-Issued",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "LBYAV"
+  },
+  {
+   "symbol": "LBYKV",
+   "name": "Liberty Global Ltd. - Class C Common Shares Ex-distribution When-Issued",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "LBYKV"
+  },
+  {
+   "symbol": "SNREV",
+   "name": "Sunrise Communications AG - American Depositary Shares representing Class A shares When Issued",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "SNREV"
+  },
+  {
+   "symbol": "MAGN",
+   "name": "Magnera Corporation Common Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "MAGN"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "STLC",
+   "name": "Stelco Holdings Inc.",
+   "exchange": "TSX",
+   "yahoo_symbol": "STLC.TO",
+   "instruments": [
+    {
+     "name": "Stelco Holdings J ",
+     "symbol": "STLC"
+    }
+   ]
+  },
+  {
+   "symbol": "AEAE",
+   "name": "AltEnergy Acquisition Corp. - Class A Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "AEAE"
+  },
+  {
+   "symbol": "SEDA",
+   "name": "SDCL EDGE Acquisition Corporation Class A Ordinary Shares",
+   "exchange": "NYSE",
+   "yahoo_symbol": "SEDA"
+  },
+  {
+   "symbol": "RRAC.U",
+   "name": "Rigel Resource Acquisition Corp. Units, each consisting of one Class A ordinary share and one-half of one redeemable warrant",
+   "exchange": "NYSE",
+   "yahoo_symbol": "RRAC.U"
+  },
+  {
+   "symbol": "AEAEW",
+   "name": "AltEnergy Acquisition Corp. - Warrant",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "AEAEW"
+  },
+  {
+   "symbol": "SBXC.W",
+   "name": "SilverBox Corp III Redeemable warrants, each whole warrant exercisable for one share of Class A Common Stock at an exercise price of $11.50",
+   "exchange": "NYSE",
+   "yahoo_symbol": "SBXC.W"
+  },
+  {
+   "symbol": "CCTSU",
+   "name": "Cactus Acquisition Corp. 1 Limited - Unit",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "CCTSU"
+  },
+  {
+   "symbol": "SBXC",
+   "name": "SilverBox Corp III Class A Common Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "SBXC"
+  },
+  {
+   "symbol": "RRAC.W",
+   "name": "Rigel Resource Acquisition Corp. Warrants, each whole warrant exercisable for one Class A ordinary share at an exercise price of $11.50 per share",
+   "exchange": "NYSE",
+   "yahoo_symbol": "RRAC.W"
+  },
+  {
+   "symbol": "SEDA.U",
+   "name": "SDCL EDGE Acquisition Corporation Units, each consisting of one Class A ordinary share and one-half of one redeemable warrant",
+   "exchange": "NYSE",
+   "yahoo_symbol": "SEDA.U"
+  },
+  {
+   "symbol": "SRCL",
+   "name": "Stericycle, Inc. - Common Stock",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "SRCL"
+  },
+  {
+   "symbol": "CCTS",
+   "name": "Cactus Acquisition Corp. 1 Limited - Class A Ordinary Share",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "CCTS"
+  },
+  {
+   "symbol": "CCTSW",
+   "name": "Cactus Acquisition Corp. 1 Limited - Warrant",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "CCTSW"
+  },
+  {
+   "symbol": "PMT",
+   "name": "Perpetual Energy Inc.",
+   "exchange": "TSX",
+   "yahoo_symbol": "PMT.TO",
+   "instruments": [
+    {
+     "name": "Perpetual Energy Inc",
+     "symbol": "PMT"
+    }
+   ]
+  },
+  {
+   "symbol": "AEAEU",
+   "name": "AltEnergy Acquisition Corp. - Unit",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "AEAEU"
+  },
+  {
+   "symbol": "GLT",
+   "name": "Glatfelter Corporation Common Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "GLT"
+  },
+  {
+   "symbol": "SEDA.W",
+   "name": "SDCL EDGE Acquisition Corporation Redeemable warrants, each whole warrant exercisable for one share of Class A ordinary share at an exercise price of $11.50",
+   "exchange": "NYSE",
+   "yahoo_symbol": "SEDA.W"
+  },
+  {
+   "symbol": "RRAC",
+   "name": "Rigel Resource Acquisition Corp. Class A Ordinary Shares",
+   "exchange": "NYSE",
+   "yahoo_symbol": "RRAC"
+  },
+  {
+   "symbol": "SBXC.U",
+   "name": "SilverBox Corp III Units, each consisting of one Class A Common Stock and one-third of one redeemable warrant",
+   "exchange": "NYSE",
+   "yahoo_symbol": "SBXC.U"
+  }
+ ]
+}

@@ -1,0 +1,156 @@
+{
+ "added": [
+  {
+   "symbol": "PLYR",
+   "name": "PLYR L1 (PLYR)",
+   "built_on": "AVAX"
+  },
+  {
+   "symbol": "PNUT",
+   "name": "Peanut the Squirrel (PNUT)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "SUMI",
+   "name": "SUMI (SUMI)",
+   "built_on": "BASE"
+  },
+  {
+   "symbol": "BENDER",
+   "name": "BENDER (BENDER)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "CRYPTOBEAST",
+   "name": "CryptoBeast (CRYPTOBEAST)"
+  },
+  {
+   "symbol": "LEMX",
+   "name": "LEMON (LEMX)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "BEAST",
+   "name": "MrBeast (BEAST)",
+   "built_on": "BASE"
+  },
+  {
+   "symbol": "GLAZE",
+   "name": "Glaze (GLAZE)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "OGGIE",
+   "name": "Oggie (OGGIE)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "BASEDFINANCE",
+   "name": "Based (BASEDFINANCE)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "G",
+   "name": "Gravity (G)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "TRUFV1ERC20",
+   "name": "Truflation v1 ERC-20 (TRUFV1ERC20)"
+  },
+  {
+   "symbol": "DEEPCLOUD",
+   "name": "DeepCloud AI (DEEPCLOUD)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "BDC",
+   "name": "BILLION•DOLLAR•CAT (BDC)",
+   "built_on": "BTC"
+  },
+  {
+   "symbol": "HOPPYTOKEN",
+   "name": "Hoppy (HOPPYTOKEN)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "PATRIOT",
+   "name": "Patriot (PATRIOT)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "TOOBIGTORIG",
+   "name": "Too Big To Rig (TOOBIGTORIG)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "BSE",
+   "name": "base season (BSE)",
+   "built_on": "BASE"
+  },
+  {
+   "symbol": "BANKETH",
+   "name": "BankEth (BANKETH)"
+  },
+  {
+   "symbol": "OCADA",
+   "name": "OCADA.AI (OCADA)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "BITRADIO",
+   "name": "Bitradio (BITRADIO)"
+  },
+  {
+   "symbol": "TRUMPMAGA",
+   "name": "President Trump MAGA (TRUMPMAGA)",
+   "built_on": "BASE"
+  },
+  {
+   "symbol": "BENJIROLLS",
+   "name": "BenjiRolls (BENJIROLLS)"
+  },
+  {
+   "symbol": "NAYM",
+   "name": "NAYM (NAYM)",
+   "built_on": "BASE"
+  },
+  {
+   "symbol": "CBBTCBASE",
+   "name": "cbBTC (CBBTCBASE)"
+  },
+  {
+   "symbol": "MONDO",
+   "name": "mondo (MONDO)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "BITSERIAL",
+   "name": "BitSerial (BITSERIAL)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "ANZENUSD",
+   "name": "Anzen Finance (ANZENUSD)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "NPCC",
+   "name": "NPCcoin (NPCC)"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "BEAST",
+   "name": "CryptoBeast (BEAST)"
+  },
+  {
+   "symbol": "BSE",
+   "name": "BitSerial (BSE)"
+  },
+  {
+   "symbol": "BDC",
+   "name": "Based (BDC)"
+  }
+ ]
+}
