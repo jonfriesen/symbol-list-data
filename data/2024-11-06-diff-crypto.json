@@ -1,0 +1,92 @@
+{
+ "added": [
+  {
+   "symbol": "CAT",
+   "name": "Simon's Cat (CAT)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "BGBV1",
+   "name": "Bitget Token v1 (BGBV1)"
+  },
+  {
+   "symbol": "G",
+   "name": "Gravity (G)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "BANKETH",
+   "name": "BankEth (BANKETH)"
+  },
+  {
+   "symbol": "THECAT",
+   "name": "THECAT (THECAT)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "OOM",
+   "name": "OomerBot (OOM)",
+   "built_on": "BASE"
+  },
+  {
+   "symbol": "SUWI",
+   "name": "suwi (SUWI)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "KENOBI",
+   "name": "Obi PNut Kenobi (KENOBI)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "CATANA",
+   "name": "Catana (CATANA)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "YLAY",
+   "name": "Yelay (YLAY)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "SAY",
+   "name": "SAY Coin (SAY)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "CBBTCBASE",
+   "name": "cbBTC (CBBTCBASE)"
+  },
+  {
+   "symbol": "TRUMPCATS",
+   "name": "Trump Golden Cat (TRUMPCATS)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "BASECOIN",
+   "name": "BASECOIN (BASECOIN)",
+   "built_on": "BASE"
+  },
+  {
+   "symbol": "BANGY",
+   "name": "BANGY (BANGY)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "USDTBASE",
+   "name": "USDT (Base) (USDTBASE)",
+   "built_on": "BASE"
+  },
+  {
+   "symbol": "MAGPAC",
+   "name": "MAGA Meme PAC (MAGPAC)",
+   "built_on": "ETH"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "SIMON",
+   "name": "Simon's Cat (CAT)"
+  }
+ ]
+}

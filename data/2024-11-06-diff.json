@@ -1,0 +1,96 @@
+{
+ "added": [
+  {
+   "symbol": "HAY",
+   "name": "Hayasa Metals Inc.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "HAY.V",
+   "instruments": [
+    {
+     "name": "Hayasa Metals Inc.",
+     "symbol": "HAY"
+    }
+   ]
+  },
+  {
+   "symbol": "BA$A",
+   "name": "Boeing Company (The) Depositary Shares, each representing a 1/20th interest in a share of 6.00% Series A Mandatory Convertible Preferred Stock, par value $1.00",
+   "exchange": "NYSE",
+   "yahoo_symbol": "BA$A"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "PAN",
+   "name": "Pangolin Diamonds Corp.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "PAN.V",
+   "instruments": [
+    {
+     "name": "Pangolin Diamonds Corp.",
+     "symbol": "PAN"
+    }
+   ]
+  },
+  {
+   "symbol": "FOBI",
+   "name": "Fobi AI Inc.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "FOBI.V",
+   "instruments": [
+    {
+     "name": "Fobi AI Inc.",
+     "symbol": "FOBI"
+    }
+   ]
+  },
+  {
+   "symbol": "FRE",
+   "name": "Fremont Gold Ltd.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "FRE.V",
+   "instruments": [
+    {
+     "name": "Fremont Gold Ltd.",
+     "symbol": "FRE"
+    }
+   ]
+  },
+  {
+   "symbol": "GAQ",
+   "name": "Generation Asia I Acquisition Limited - Class A Ordinary Shares",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "GAQ"
+  },
+  {
+   "symbol": "NVOS",
+   "name": "Novo Integrated Sciences, Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "NVOS"
+  },
+  {
+   "symbol": "FARM",
+   "name": "Deveron Corp.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "FARM.V",
+   "instruments": [
+    {
+     "name": "Deveron Corp.",
+     "symbol": "FARM"
+    }
+   ]
+  },
+  {
+   "symbol": "LILMW",
+   "name": "Lilium N.V. - Warrants",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "LILMW"
+  },
+  {
+   "symbol": "LILM",
+   "name": "Lilium N.V. - Class A Ordinary Shares",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "LILM"
+  }
+ ]
+}
