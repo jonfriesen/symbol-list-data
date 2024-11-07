@@ -1,0 +1,168 @@
+{
+ "added": [
+  {
+   "symbol": "FTUR",
+   "name": "Future Fuels Inc.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "FTUR.V",
+   "instruments": [
+    {
+     "name": "Future Fuels Inc.",
+     "symbol": "FTUR"
+    }
+   ]
+  },
+  {
+   "symbol": "MART",
+   "name": "Global X Equal Weight Canadian Groceries \u0026 Staples Index ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "MART.TO",
+   "instruments": [
+    {
+     "name": "Global X EWC GSI ETF",
+     "symbol": "MART"
+    }
+   ]
+  },
+  {
+   "symbol": "SAFE",
+   "name": "Global X Equal Weight Canadian Insurance Index ETF\r",
+   "exchange": "TSX",
+   "yahoo_symbol": "SAFE.TO",
+   "instruments": [
+    {
+     "name": "Global X EWC InI ETF",
+     "symbol": "SAFE"
+    }
+   ]
+  },
+  {
+   "symbol": "NRGY",
+   "name": "Global X Equal Weight Canadian Oil \u0026 Gas Index ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "NRGY.TO",
+   "instruments": [
+    {
+     "name": "Global X EWC OGI ETF",
+     "symbol": "NRGY"
+    }
+   ]
+  },
+  {
+   "symbol": "RING",
+   "name": "Global X Equal Weight Canadian Telecommunications Index ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "RING.TO",
+   "instruments": [
+    {
+     "name": "Global X EWCT Id ETF",
+     "symbol": "RING"
+    }
+   ]
+  },
+  {
+   "symbol": "GLDX",
+   "name": "Global X Gold Producers Index ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "GLDX.TO",
+   "instruments": [
+    {
+     "name": "Global X Gold PI ETF",
+     "symbol": "GLDX"
+    }
+   ]
+  },
+  {
+   "symbol": "PAYL",
+   "name": "Global X Long-Term Government Bond Premium Yield ETF\r",
+   "exchange": "TSX",
+   "yahoo_symbol": "PAYL.TO",
+   "instruments": [
+    {
+     "name": "Global X LT GBPY ETF",
+     "symbol": "PAYL"
+    }
+   ]
+  },
+  {
+   "symbol": "PAYM",
+   "name": "Global X Mid-Term Government Bond Premium Yield ETF\r",
+   "exchange": "TSX",
+   "yahoo_symbol": "PAYM.TO",
+   "instruments": [
+    {
+     "name": "Global X MT GBPY ETF",
+     "symbol": "PAYM"
+    }
+   ]
+  },
+  {
+   "symbol": "VZLA",
+   "name": "Vizsla Silver Corp.",
+   "exchange": "TSX",
+   "yahoo_symbol": "VZLA.TO",
+   "instruments": [
+    {
+     "name": "Vizsla Silver Corp",
+     "symbol": "VZLA"
+    }
+   ]
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "MCAAU",
+   "name": "Mountain  - Unit",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "MCAAU"
+  },
+  {
+   "symbol": "SRE",
+   "name": "Saville Resources Inc.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "SRE.V",
+   "instruments": [
+    {
+     "name": "Saville Resources Inc.",
+     "symbol": "SRE"
+    }
+   ]
+  },
+  {
+   "symbol": "APXIU",
+   "name": "APx Acquisition Corp. I - Unit",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "APXIU"
+  },
+  {
+   "symbol": "APXIW",
+   "name": "APx Acquisition Corp. I - Warrant",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "APXIW"
+  },
+  {
+   "symbol": "VZLA",
+   "name": "Vizsla Silver Corp.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "VZLA.V",
+   "instruments": [
+    {
+     "name": "Vizsla Silver Corp.",
+     "symbol": "VZLA"
+    }
+   ]
+  },
+  {
+   "symbol": "MCAAW",
+   "name": "Mountain  - Warrant",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "MCAAW"
+  },
+  {
+   "symbol": "MCAA",
+   "name": "Mountain  - Class A Ordinary Shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "MCAA"
+  }
+ ]
+}

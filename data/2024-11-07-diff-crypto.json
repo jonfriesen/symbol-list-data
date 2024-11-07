@@ -1,0 +1,123 @@
+{
+ "added": [
+  {
+   "symbol": "RECT",
+   "name": "ReflectionAI (RECT)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "ACSI",
+   "name": "ACryptoSI (ACSI)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "PAPO",
+   "name": "PAPO NINJA (PAPO)",
+   "built_on": "TON"
+  },
+  {
+   "symbol": "BEEG",
+   "name": "Beeg Blue Whale (BEEG)",
+   "built_on": "SUI"
+  },
+  {
+   "symbol": "CTO",
+   "name": "BaseCTO (CTO)",
+   "built_on": "BASE"
+  },
+  {
+   "symbol": "BABYPOPCAT",
+   "name": "Baby PopCat (BABYPOPCAT)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "OKANE",
+   "name": "OKANE (OKANE)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "CBBTC",
+   "name": "Coinbase Wrapped BTC (CBBTC)",
+   "built_on": "BASE"
+  },
+  {
+   "symbol": "BLUFF",
+   "name": "BluffCat (BLUFF)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "BWEN",
+   "name": "Baby Wen (BWEN)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "ANSOM",
+   "name": "Ansom (ANSOM)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "APEDEV",
+   "name": "The dev is an Ape (APEDEV)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "TERMINAL",
+   "name": "Book Terminal of Truths (TERMINAL)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "DAGS",
+   "name": "Dagcoin (DAGS)"
+  },
+  {
+   "symbol": "WICKED",
+   "name": "Wicked (WICKED)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "G",
+   "name": "Gravity (G)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "BARIO",
+   "name": "Bario (BARIO)",
+   "built_on": "BASE"
+  },
+  {
+   "symbol": "WELLV1",
+   "name": "Moonwell v1 (WELLV1)",
+   "built_on": "BASE"
+  },
+  {
+   "symbol": "RUSSELL",
+   "name": "Russell (RUSSELL)",
+   "built_on": "BASE"
+  },
+  {
+   "symbol": "BANK",
+   "name": "Float Protocol (BANK)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "XGP",
+   "name": "XGP (XGP)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "ABLE",
+   "name": "Able Finance (ABLE)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "CRYPTOOFFICIAL",
+   "name": "Crypto (CRYPTOOFFICIAL)"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "CTO",
+   "name": "Crypto (CTO)"
+  }
+ ]
+}
