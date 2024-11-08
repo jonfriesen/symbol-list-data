@@ -1,0 +1,99 @@
+{
+ "added": [
+  {
+   "symbol": "FAS",
+   "name": "fast construction coin (FAS)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "MMULTI",
+   "name": "Multichain (via Multichain Cross-Chain Router) (MMULTI)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "RCOINEU",
+   "name": "RCoin (RCOINEU)"
+  },
+  {
+   "symbol": "BANKETH",
+   "name": "BankEth (BANKETH)"
+  },
+  {
+   "symbol": "PAWPAW",
+   "name": "PawPaw (PAWPAW)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "ARCA",
+   "name": "Legend of Arcadia (ARCA)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "NAKAV1",
+   "name": "Nakamoto Games v1 (NAKAV1)"
+  },
+  {
+   "symbol": "RCOIN",
+   "name": "ArCoin (RCOIN)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "SWELL",
+   "name": "Swell Network (SWELL)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "GETH",
+   "name": "Guarded Ether (GETH)"
+  },
+  {
+   "symbol": "HBARBARIAN",
+   "name": "HBARbarian (HBARBARIAN)",
+   "built_on": "HBAR"
+  },
+  {
+   "symbol": "LEOCOIN",
+   "name": "LEO (LEOCOIN)",
+   "built_on": "STX"
+  },
+  {
+   "symbol": "LQT",
+   "name": "Lifty (LQT)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "ANTT",
+   "name": "Antara Token (ANTT)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "KS",
+   "name": "kittyspin (KS)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "SINK",
+   "name": "Let that sink in (SINK)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "CBBTCBASE",
+   "name": "cbBTC (CBBTCBASE)"
+  },
+  {
+   "symbol": "BBYDEV",
+   "name": "The Dev is a Baby (BBYDEV)",
+   "built_on": "SOL"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "ARCA",
+   "name": "Arca (ARCA)"
+  },
+  {
+   "symbol": "RCOIN",
+   "name": "RCoin (RCOIN)"
+  }
+ ]
+}

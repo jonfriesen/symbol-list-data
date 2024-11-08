@@ -1,0 +1,84 @@
+{
+ "added": [
+  {
+   "symbol": "VRDN",
+   "name": "Viridian Metals Inc.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "VRDN.V",
+   "instruments": [
+    {
+     "name": "Viridian Metals Inc.",
+     "symbol": "VRDN"
+    }
+   ]
+  },
+  {
+   "symbol": "ADUR",
+   "name": "Aduro Clean Technologies Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "ADUR"
+  },
+  {
+   "symbol": "DEVS",
+   "name": "DevvStream Corp. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "DEVS"
+  },
+  {
+   "symbol": "GSRTU",
+   "name": "GSR III Acquisition Corp. - Unit",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "GSRTU"
+  },
+  {
+   "symbol": "SPMA",
+   "name": "Sound Point Meridian Capital, Inc. 8.00% Series A Preferred Shares Due 2029",
+   "exchange": "NYSE",
+   "yahoo_symbol": "SPMA"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "OSS",
+   "name": "OneSoft Solutions Inc.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "OSS.V",
+   "instruments": [
+    {
+     "name": "OneSoft Solutions Inc.",
+     "symbol": "OSS"
+    }
+   ]
+  },
+  {
+   "symbol": "XELA",
+   "name": "Exela Technologies, Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "XELA"
+  },
+  {
+   "symbol": "CCPC.P",
+   "name": "Coco Pool Corp.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "CCPC.P.V",
+   "instruments": [
+    {
+     "name": "Coco Pool Corp.",
+     "symbol": "CCPC.P"
+    }
+   ]
+  },
+  {
+   "symbol": "XELAP",
+   "name": "Exela Technologies, Inc. - 6.00% Series B Cumulative Convertible Perpetual Preferred Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "XELAP"
+  },
+  {
+   "symbol": "SJW",
+   "name": "SJW Group Common Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "SJW"
+  }
+ ]
+}
