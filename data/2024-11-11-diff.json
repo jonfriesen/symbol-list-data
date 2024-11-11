@@ -1,0 +1,144 @@
+{
+ "added": [
+  {
+   "symbol": "ASPCU",
+   "name": "A SPAC III Acquisition Corp. - Unit",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "ASPCU"
+  },
+  {
+   "symbol": "BETR",
+   "name": "Better Home  - Class A Common Stock",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "BETR"
+  },
+  {
+   "symbol": "BETRW",
+   "name": "Better Home  - Warrant",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "BETRW"
+  },
+  {
+   "symbol": "PEPS",
+   "name": "Parametric Equity Plus ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "PEPS"
+  },
+  {
+   "symbol": "SJW",
+   "name": "SJW Group - Common Stock",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "SJW"
+  },
+  {
+   "symbol": "WLACU",
+   "name": "Willow Lane Acquisition Corp. - Unit",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "WLACU"
+  },
+  {
+   "symbol": "YHNA",
+   "name": "YHN Acquisition I Limited - Ordinary Shares",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "YHNA"
+  },
+  {
+   "symbol": "YHNAR",
+   "name": "YHN Acquisition I Limited - Right",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "YHNAR"
+  },
+  {
+   "symbol": "HYLN",
+   "name": "Hyliion Holdings Corp. Class A Common Stock",
+   "exchange": "NYSE MKT",
+   "yahoo_symbol": "HYLN"
+  },
+  {
+   "symbol": "PRMB",
+   "name": "Primo Brands Corporation Class A Common Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "PRMB"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "FRLA",
+   "name": "Fortune Rise Acquisition Corporation - Class A Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "FRLA"
+  },
+  {
+   "symbol": "HYLN",
+   "name": "Hyliion Holdings Corp. Class A Common Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "HYLN"
+  },
+  {
+   "symbol": "NPABW",
+   "name": "New Providence Acquisition Corp. II - Warrant",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "NPABW"
+  },
+  {
+   "symbol": "BETRW",
+   "name": "Better Home \u0026 Finance Holding Company - Warrant",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "BETRW"
+  },
+  {
+   "symbol": "BETR",
+   "name": "Better Home \u0026 Finance Holding Company - Class A Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "BETR"
+  },
+  {
+   "symbol": "INTEW",
+   "name": "Integral Acquisition Corporation 1 - Warrant",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "INTEW"
+  },
+  {
+   "symbol": "INTE",
+   "name": "Integral Acquisition Corporation 1 - Class A Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "INTE"
+  },
+  {
+   "symbol": "INTEU",
+   "name": "Integral Acquisition Corporation 1 - Unit",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "INTEU"
+  },
+  {
+   "symbol": "NPAB",
+   "name": "New Providence Acquisition Corp. II - Class A Common Stock",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "NPAB"
+  },
+  {
+   "symbol": "NPABU",
+   "name": "New Providence Acquisition Corp. II - Unit",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "NPABU"
+  },
+  {
+   "symbol": "FRLAW",
+   "name": "Fortune Rise Acquisition Corporation - Warrant",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "FRLAW"
+  },
+  {
+   "symbol": "FRLAU",
+   "name": "Fortune Rise Acquisition Corporation - Units",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "FRLAU"
+  },
+  {
+   "symbol": "PRMW",
+   "name": "Primo Water Corporation Common Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "PRMW"
+  }
+ ]
+}

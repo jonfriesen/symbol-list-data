@@ -1,0 +1,103 @@
+{
+ "added": [
+  {
+   "symbol": "DOGEPR",
+   "name": "DOGE PRESIDENT (DOGEPR)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "PNUTRUMP",
+   "name": "Peanut Trump (PNUTRUMP)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "SIKA",
+   "name": "SikaSwap (SIKA)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "KUNDALINI",
+   "name": "Kundalini is a real girl (KUNDALINI)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "SOK",
+   "name": "shoki (SOK)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "FUG",
+   "name": "FUG (FUG)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "CBL",
+   "name": "Credbull (CBL)",
+   "built_on": "ARB"
+  },
+  {
+   "symbol": "ROSS",
+   "name": "Ross Ulbricht (ROSS)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "TOPCAT",
+   "name": "Topcat (TOPCAT)",
+   "built_on": "TRX"
+  },
+  {
+   "symbol": "WATCH",
+   "name": "Yieldwatch (WATCH)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "PCW",
+   "name": "Power Crypto World (PCW)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "MSPC",
+   "name": "MeowSpace (MSPC)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "TUX",
+   "name": "Tux The Penguin (TUX)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "HMU",
+   "name": "hit meeee upp (HMU)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "UNIT0",
+   "name": "UNIT0 (UNIT0)",
+   "built_on": "WAVES"
+  },
+  {
+   "symbol": "CBBTCBASE",
+   "name": "cbBTC (CBBTCBASE)"
+  },
+  {
+   "symbol": "BANKETH",
+   "name": "BankEth (BANKETH)"
+  },
+  {
+   "symbol": "COD",
+   "name": "Chief of Deswamp (COD)",
+   "built_on": "BASE"
+  },
+  {
+   "symbol": "G",
+   "name": "Gravity (G)",
+   "built_on": "ETH"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "ZEDCOIN",
+   "name": "ZedCoin (ZEDCOIN)"
+  }
+ ]
+}
