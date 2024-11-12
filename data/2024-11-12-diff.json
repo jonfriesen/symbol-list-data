@@ -1,0 +1,90 @@
+{
+ "added": [
+  {
+   "symbol": "BCHT",
+   "name": "Birchtech Corp.",
+   "exchange": "TSX",
+   "yahoo_symbol": "BCHT.TO",
+   "instruments": [
+    {
+     "name": "Birchtech Corp",
+     "symbol": "BCHT"
+    }
+   ]
+  },
+  {
+   "symbol": "PFIG",
+   "name": "Picton Mahoney Fortified Investment Grade Alternative Fund",
+   "exchange": "TSX",
+   "yahoo_symbol": "PFIG.TO",
+   "instruments": [
+    {
+     "name": "Picton Mah Fort IGAF",
+     "symbol": "PFIG"
+    }
+   ]
+  },
+  {
+   "symbol": "MKZR",
+   "name": "MacKenzie Realty Capital, Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "MKZR"
+  },
+  {
+   "symbol": "PAMT",
+   "name": "PAMT CORP - Common Stock",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "PAMT"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "GIVX",
+   "name": "Givex Corp.",
+   "exchange": "TSX",
+   "yahoo_symbol": "GIVX.TO",
+   "instruments": [
+    {
+     "name": "Givex Corp.",
+     "symbol": "GIVX"
+    }
+   ]
+  },
+  {
+   "symbol": "FNVTU",
+   "name": "Finnovate Acquisition Corp. - Units",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "FNVTU"
+  },
+  {
+   "symbol": "BCHT",
+   "name": "Birchtech Corp.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "BCHT.V",
+   "instruments": [
+    {
+     "name": "Birchtech Corp.",
+     "symbol": "BCHT"
+    }
+   ]
+  },
+  {
+   "symbol": "FNVT",
+   "name": "Finnovate Acquisition Corp. - Class A Ordinary Shares",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "FNVT"
+  },
+  {
+   "symbol": "PTSI",
+   "name": "P.A.M. Transportation Services, Inc. - Common Stock",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "PTSI"
+  },
+  {
+   "symbol": "FNVTW",
+   "name": "Finnovate Acquisition Corp. - Warrants",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "FNVTW"
+  }
+ ]
+}
