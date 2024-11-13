@@ -1,0 +1,252 @@
+{
+ "added": [
+  {
+   "symbol": "TRUMPER",
+   "name": "Trump Era (TRUMPER)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "CRYPTOEM",
+   "name": "Crypto Emperor Trump (CRYPTOEM)",
+   "built_on": "BASE"
+  },
+  {
+   "symbol": "vXDEFI",
+   "name": "vXDEFI (vXDEFI)"
+  },
+  {
+   "symbol": "CBBTC",
+   "name": "Coinbase Wrapped BTC (CBBTC)",
+   "built_on": "BASE"
+  },
+  {
+   "symbol": "RIOV1",
+   "name": "Realio Network v1 (RIOV1)"
+  },
+  {
+   "symbol": "ACEO",
+   "name": "Ace of Pentacles (ACEO)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "OLD",
+   "name": "Old Trump (OLD)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "BRETTGOLD",
+   "name": "Brett Gold (BRETTGOLD)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "BAKSO",
+   "name": "Disney Sumatran Tiger (BAKSO)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "EIQT",
+   "name": "IQ Prediction (EIQT)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "PEAN",
+   "name": "Peanut the Squirrel (peanut-token.xyz) (PEAN)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "FACTORY",
+   "name": "ChainFactory (FACTORY)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "SFRAX",
+   "name": "Staked FRAX (SFRAX)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "BGSOL",
+   "name": "Bitget SOL Staking (BGSOL)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "DANNY",
+   "name": "Degen Danny (DANNY)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "NOODS",
+   "name": "Noods (NOODS)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "GOLDE",
+   "name": "GOLDEN AGE (GOLDE)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "STRAT",
+   "name": "Strategic Hub for Innovation in Blockchain (STRAT)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "ZEDCOIN",
+   "name": "ZedCoin (ZEDCOIN)"
+  },
+  {
+   "symbol": "SHEGEN",
+   "name": "Aiwithdaddyissues (SHEGEN)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "GAY",
+   "name": "GAY (GAY)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "CONTROL",
+   "name": "Control Token (CONTROL)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "WINNIE",
+   "name": "Winnie the Poodle (WINNIE)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "RIO",
+   "name": "Realio Network (RIO)"
+  },
+  {
+   "symbol": "CTRL",
+   "name": "Ctrl Wallet (CTRL)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "SPINT",
+   "name": "Spintria (SPINT)",
+   "built_on": "TON"
+  },
+  {
+   "symbol": "HAPPY",
+   "name": "Happy Cat (HAPPY)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "ATHCAT",
+   "name": "ATH CAT (ATHCAT)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "BANKETH",
+   "name": "BankEth (BANKETH)"
+  },
+  {
+   "symbol": "FTD",
+   "name": "42DAO (FTD)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "GOTTI",
+   "name": "Gotti Token (GOTTI)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "DIONEV1",
+   "name": "Dione v1 (DIONEV1)"
+  },
+  {
+   "symbol": "MGGT",
+   "name": "Maggie Token (MGGT)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "YUKIE",
+   "name": "Yukie (YUKIE)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "SAMMY",
+   "name": "Samoyed (SAMMY)",
+   "built_on": "SUI"
+  },
+  {
+   "symbol": "WMM",
+   "name": "Weird Medieval Memes (WMM)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "GETH",
+   "name": "Guarded Ether (GETH)"
+  },
+  {
+   "symbol": "DIONE",
+   "name": "Dione (DIONE)"
+  },
+  {
+   "symbol": "PEANUT",
+   "name": "#1 Tiktok Squirrel (PEANUT)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "BNY",
+   "name": "TaskBunny (BNY)",
+   "built_on": "BASE"
+  },
+  {
+   "symbol": "SNAPCAT",
+   "name": "Snapcat (SNAPCAT)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "AFSUI",
+   "name": "Aftermath Staked SUI (AFSUI)",
+   "built_on": "SUI"
+  },
+  {
+   "symbol": "BASEDHOPPY",
+   "name": "Based Hoppy (basedhoppy.vip) (BASEDHOPPY)",
+   "built_on": "BASE"
+  },
+  {
+   "symbol": "OPSV2",
+   "name": "Octopus Protocol v2 (OPSV2)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "EADX",
+   "name": "EADX Token (EADX)",
+   "built_on": "POL"
+  },
+  {
+   "symbol": "0DOG",
+   "name": "Bitcoin Dogs (0DOG)",
+   "built_on": "ETH"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "MGGT",
+   "name": "Maggie Token (MGGT)"
+  },
+  {
+   "symbol": "CTRL",
+   "name": "Control Token (CTRL)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "RIO",
+   "name": "Realio Network (RIO)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "0DOG",
+   "name": "Bitcoin Dogs (0DOG)",
+   "built_on": "BTC"
+  },
+  {
+   "symbol": "DIONE",
+   "name": "Dione (DIONE)",
+   "built_on": "ETH"
+  }
+ ]
+}

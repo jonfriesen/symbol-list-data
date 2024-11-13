@@ -1,0 +1,180 @@
+{
+ "added": [
+  {
+   "symbol": "HDRO",
+   "name": "Primary Hydrogen Corp.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "HDRO.V",
+   "instruments": [
+    {
+     "name": "Primary Hydrogen Corp.",
+     "symbol": "HDRO"
+    }
+   ]
+  },
+  {
+   "symbol": "ABP",
+   "name": "Abpro Holdings, Inc - Common Stock",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "ABP"
+  },
+  {
+   "symbol": "ABPWW",
+   "name": "Abpro Holdings, Inc - Warrant",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "ABPWW"
+  },
+  {
+   "symbol": "ACOG",
+   "name": "Alpha Cognition Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "ACOG"
+  },
+  {
+   "symbol": "BHST",
+   "name": "BioHarvest Sciences Inc. - Common Stock",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "BHST"
+  },
+  {
+   "symbol": "CRWL",
+   "name": "GraniteShares 2x Long CRWD Daily ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "CRWL"
+  },
+  {
+   "symbol": "MULL",
+   "name": "GraniteShares 2x Long MU Daily ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "MULL"
+  },
+  {
+   "symbol": "SNRE",
+   "name": "Sunrise Communications AG - American Depositary Shares representing Class A shares",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "SNRE"
+  },
+  {
+   "symbol": "TSMU",
+   "name": "GraniteShares 2x Long TSM Daily ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "TSMU"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "ACAB",
+   "name": "Atlantic Coastal Acquisition Corp. II - Class A Common Stock",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "ACAB"
+  },
+  {
+   "symbol": "NEWO",
+   "name": "NewOrigin Gold Corp.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "NEWO.V",
+   "instruments": [
+    {
+     "name": "NewOrigin Gold Corp.",
+     "symbol": "NEWO"
+    }
+   ]
+  },
+  {
+   "symbol": "BCSAW",
+   "name": "Blockchain Coinvestors Acquisition Corp. I - Warrant",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "BCSAW"
+  },
+  {
+   "symbol": "ACABU",
+   "name": "Atlantic Coastal Acquisition Corp. II - Unit",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "ACABU"
+  },
+  {
+   "symbol": "MILL",
+   "name": "Millbank Mining Corp.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "MILL.V",
+   "instruments": [
+    {
+     "name": "Millbank Mining Corp.",
+     "symbol": "MILL"
+    }
+   ]
+  },
+  {
+   "symbol": "TDW.W",
+   "name": "Tidewater Inc. Warrant",
+   "exchange": "NYSE MKT",
+   "yahoo_symbol": "TDW.W"
+  },
+  {
+   "symbol": "LBYAV",
+   "name": "Liberty Global Ltd. - Class A Common Shares Ex-distribution When-Issued",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "LBYAV"
+  },
+  {
+   "symbol": "FCGV",
+   "name": "Florida Canyon Gold Inc.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "FCGV.V",
+   "instruments": [
+    {
+     "name": "Florida Canyon Gold Inc.",
+     "symbol": "FCGV"
+    }
+   ]
+  },
+  {
+   "symbol": "BCSAU",
+   "name": "Blockchain Coinvestors Acquisition Corp. I - Unit",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "BCSAU"
+  },
+  {
+   "symbol": "BCSA",
+   "name": "Blockchain Coinvestors Acquisition Corp. I - Class A Ordinary Shares",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "BCSA"
+  },
+  {
+   "symbol": "PRMW",
+   "name": "Primo Water Corporation",
+   "exchange": "TSX",
+   "yahoo_symbol": "PRMW.TO",
+   "instruments": [
+    {
+     "name": "Primo Water Corp.",
+     "symbol": "PRMW"
+    }
+   ]
+  },
+  {
+   "symbol": "SNREV",
+   "name": "Sunrise Communications AG - American Depositary Shares representing Class A shares When Issued",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "SNREV"
+  },
+  {
+   "symbol": "LBYKV",
+   "name": "Liberty Global Ltd. - Class C Common Shares Ex-distribution When-Issued",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "LBYKV"
+  },
+  {
+   "symbol": "INST",
+   "name": "Instructure Holdings, Inc. Common Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "INST"
+  },
+  {
+   "symbol": "ACABW",
+   "name": "Atlantic Coastal Acquisition Corp. II - Warrant",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "ACABW"
+  }
+ ]
+}
