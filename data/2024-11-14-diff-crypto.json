@@ -1,0 +1,235 @@
+{
+ "added": [
+  {
+   "symbol": "SWAGGY",
+   "name": "swaggy (SWAGGY)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "LAPUPU",
+   "name": "Lapupu (LAPUPU)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "SPITT",
+   "name": "Hawk Ttuuaahh (SPITT)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "MAKEE",
+   "name": "Make Ethereum Great Again (MAKEE)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "CODA",
+   "name": "CODA (CODA)",
+   "built_on": "POL"
+  },
+  {
+   "symbol": "PUFF",
+   "name": "Puff The Dragon (PUFF)",
+   "built_on": "MANTLE"
+  },
+  {
+   "symbol": "FINAN",
+   "name": "FINANCIAL TRANSACTION SYSTEM (FINAN)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "NEXT",
+   "name": "Connext Network (NEXT)"
+  },
+  {
+   "symbol": "EUROP",
+   "name": "Europa Coin (EUROP)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "MEOWETH",
+   "name": "Meow (MEOWETH)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "X",
+   "name": "AI-X (X)"
+  },
+  {
+   "symbol": "USACOIN",
+   "name": "American Coin (USACOIN)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "SALL",
+   "name": "Sallar (SALL)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "BANKETH",
+   "name": "BankEth (BANKETH)"
+  },
+  {
+   "symbol": "47",
+   "name": "President Trump (47)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "ALIENPEP",
+   "name": "Alien Pepe (ALIENPEP)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "SAD",
+   "name": "SadCat (SAD)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "CRYPTOF",
+   "name": "CryptoFarmers (CRYPTOF)",
+   "built_on": "POL"
+  },
+  {
+   "symbol": "HEROI",
+   "name": "Heroic Saga Shiba (HEROI)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "GROGGO",
+   "name": "Groggo By Matt Furie (GROGGO)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "CBBTCBASE",
+   "name": "cbBTC (CBBTCBASE)"
+  },
+  {
+   "symbol": "VITALI",
+   "name": "Vitalik's Casper (VITALI)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "MINOCOINCTO",
+   "name": "MINO (MINOCOINCTO)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "INA",
+   "name": "pepeinatux (INA)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "DSTNY",
+   "name": "Destinys Chicken (DSTNY)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "MUA",
+   "name": "MUA DAO (MUA)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "OMNI",
+   "name": "Omni Network (OMNI)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "JOMA",
+   "name": "Joma (JOMA)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "LUCE",
+   "name": "Luce (LUCE)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "ETHB",
+   "name": "EtherBTC (ETHB)",
+   "built_on": "BASE"
+  },
+  {
+   "symbol": "OMNILAYER",
+   "name": "Omni (OMNILAYER)"
+  },
+  {
+   "symbol": "KARAT",
+   "name": "KARAT Galaxy (KARAT)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "MBAG",
+   "name": "MoonBag (MBAG)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "SPUNK",
+   "name": "PUNK (SPUNK)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "ALASKA",
+   "name": "Alaska (ALASKA)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "NEXTV1",
+   "name": "Connext Network (NEXTV1)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "G",
+   "name": "Gravity (G)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "PUFFCOIN",
+   "name": "Puff (PUFFCOIN)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "CHIEFD",
+   "name": "Chief D.O.G.E (CHIEFD)",
+   "built_on": "ETH"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "OMNINET",
+   "name": "Omni Network (OMNINET)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "PUFF",
+   "name": "Puff (PUFF)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "PUFFT",
+   "name": "Puff The Dragon (PUFFT)",
+   "built_on": "MANTLE"
+  },
+  {
+   "symbol": "SPACEPUNKS",
+   "name": "PUNK - SpacePunksClub (SPACEPUNKS)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "OMNI",
+   "name": "Omni (OMNI)"
+  },
+  {
+   "symbol": "X",
+   "name": "AI-X (X)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "ETHB",
+   "name": "EtherBTC (ETHB)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "NEXT",
+   "name": "Connext Network (NEXT)",
+   "built_on": "ETH"
+  }
+ ]
+}

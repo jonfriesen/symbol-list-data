@@ -1,0 +1,144 @@
+{
+ "added": [
+  {
+   "symbol": "GCU",
+   "name": "Gunnison Copper Corp",
+   "exchange": "TSX",
+   "yahoo_symbol": "GCU.TO",
+   "instruments": [
+    {
+     "name": "Excelsior Mining J",
+     "symbol": "GCU"
+    }
+   ]
+  },
+  {
+   "symbol": "ATMV",
+   "name": "AlphaVest Acquisition Corp - Ordinary Shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "ATMV"
+  },
+  {
+   "symbol": "ATMVR",
+   "name": "AlphaVest Acquisition Corp - Right",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "ATMVR"
+  },
+  {
+   "symbol": "ATMVU",
+   "name": "AlphaVest Acquisition Corp - Unit",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "ATMVU"
+  },
+  {
+   "symbol": "HSPO",
+   "name": "Horizon Space Acquisition I Corp. - Ordinary Shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "HSPO"
+  },
+  {
+   "symbol": "HSPOR",
+   "name": "Horizon Space Acquisition I Corp. - Right",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "HSPOR"
+  },
+  {
+   "symbol": "HSPOU",
+   "name": "Horizon Space Acquisition I Corp. - Unit",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "HSPOU"
+  },
+  {
+   "symbol": "HSPOW",
+   "name": "Horizon Space Acquisition I Corp. - Warrant",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "HSPOW"
+  },
+  {
+   "symbol": "IZTC",
+   "name": "Invizyne Technologies Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "IZTC"
+  },
+  {
+   "symbol": "TLX",
+   "name": "Telix Pharmaceuticals Limited - American Depositary Shares",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "TLX"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "HSPOU",
+   "name": "Horizon Space Acquisition I Corp. - Unit",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "HSPOU"
+  },
+  {
+   "symbol": "TWKS",
+   "name": "Thoughtworks Holding, Inc. - Common Stock",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "TWKS"
+  },
+  {
+   "symbol": "SRV.R",
+   "name": "NXG Cushing Midstream Energy Fund Rights (expiring November 14, 2024) Rights",
+   "exchange": "NYSE",
+   "yahoo_symbol": "SRV.R"
+  },
+  {
+   "symbol": "HSPOW",
+   "name": "Horizon Space Acquisition I Corp. - Warrant",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "HSPOW"
+  },
+  {
+   "symbol": "HSPO",
+   "name": "Horizon Space Acquisition I Corp. - Ordinary Shares",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "HSPO"
+  },
+  {
+   "symbol": "KSM",
+   "name": "DWS Strategic Municipal Income Trust",
+   "exchange": "NYSE",
+   "yahoo_symbol": "KSM"
+  },
+  {
+   "symbol": "ATMVR",
+   "name": "AlphaVest Acquisition Corp - Right",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "ATMVR"
+  },
+  {
+   "symbol": "ATMVU",
+   "name": "AlphaVest Acquisition Corp - Unit",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "ATMVU"
+  },
+  {
+   "symbol": "ATMV",
+   "name": "AlphaVest Acquisition Corp - Ordinary Shares",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "ATMV"
+  },
+  {
+   "symbol": "HSPOR",
+   "name": "Horizon Space Acquisition I Corp. - Right",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "HSPOR"
+  },
+  {
+   "symbol": "MIN",
+   "name": "Excelsior Mining Corp.",
+   "exchange": "TSX",
+   "yahoo_symbol": "MIN.TO",
+   "instruments": [
+    {
+     "name": "Excelsior Mining J",
+     "symbol": "MIN"
+    }
+   ]
+  }
+ ]
+}
