@@ -1,0 +1,144 @@
+{
+ "added": [
+  {
+   "symbol": "AGA",
+   "name": "Silver47 Exploration Corp.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "AGA.V",
+   "instruments": [
+    {
+     "name": "Silver47 Exploration Corp.",
+     "symbol": "AGA"
+    }
+   ]
+  },
+  {
+   "symbol": "DXCO",
+   "name": "Dynamic Credit Opportunities Fund",
+   "exchange": "TSX",
+   "yahoo_symbol": "DXCO.TO",
+   "instruments": [
+    {
+     "name": "Dyn Cred Opps Fd ETF",
+     "symbol": "DXCO"
+    }
+   ]
+  },
+  {
+   "symbol": "DXBG",
+   "name": "Dynamic Global Fixed Income Fund",
+   "exchange": "TSX",
+   "yahoo_symbol": "DXBG.TO",
+   "instruments": [
+    {
+     "name": "Dyn GlFix IncFnd ETF",
+     "symbol": "DXBG"
+    }
+   ]
+  },
+  {
+   "symbol": "DXCP",
+   "name": "Dynamic Short Term Credit PLUS Fund",
+   "exchange": "TSX",
+   "yahoo_symbol": "DXCP.TO",
+   "instruments": [
+    {
+     "name": "Dyn STCr Pl Fnd ETF",
+     "symbol": "DXCP"
+    }
+   ]
+  },
+  {
+   "symbol": "ALCY",
+   "name": "Alchemy Investments Acquisition Corp 1 - Class A Ordinary Shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "ALCY"
+  },
+  {
+   "symbol": "ALCYU",
+   "name": "Alchemy Investments Acquisition Corp 1 - Units",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "ALCYU"
+  },
+  {
+   "symbol": "ALCYW",
+   "name": "Alchemy Investments Acquisition Corp 1 - Warrants",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "ALCYW"
+  },
+  {
+   "symbol": "MDCX",
+   "name": "Medicus Pharma Ltd. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "MDCX"
+  },
+  {
+   "symbol": "MDCXW",
+   "name": "Medicus Pharma Ltd. - Warrant",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "MDCXW"
+  },
+  {
+   "symbol": "PBM",
+   "name": "Psyence Biomedical Ltd. - Ordinary Shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "PBM"
+  },
+  {
+   "symbol": "SLGL",
+   "name": "Sol-Gel Technologies Ltd. - Ordinary Shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "SLGL"
+  },
+  {
+   "symbol": "TSSI",
+   "name": "TSS, Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "TSSI"
+  },
+  {
+   "symbol": "SBSI",
+   "name": "Southside Bancshares, Inc. Common Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "SBSI"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "SBSI",
+   "name": "Southside Bancshares, Inc. - Common Stock",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "SBSI"
+  },
+  {
+   "symbol": "PBM",
+   "name": "Psyence Biomedical Ltd. - Ordinary Shares",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "PBM"
+  },
+  {
+   "symbol": "SLGL",
+   "name": "Sol-Gel Technologies Ltd. - Ordinary Shares",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "SLGL"
+  },
+  {
+   "symbol": "ALCY",
+   "name": "Alchemy Investments Acquisition Corp 1 - Class A Ordinary Shares",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "ALCY"
+  },
+  {
+   "symbol": "ALCYU",
+   "name": "Alchemy Investments Acquisition Corp 1 - Units",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "ALCYU"
+  },
+  {
+   "symbol": "ALCYW",
+   "name": "Alchemy Investments Acquisition Corp 1 - Warrants",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "ALCYW"
+  }
+ ]
+}

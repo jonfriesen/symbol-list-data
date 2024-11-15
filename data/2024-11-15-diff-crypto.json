@@ -1,0 +1,676 @@
+{
+ "added": [
+  {
+   "symbol": "PEANU",
+   "name": "PEANUT INU (PEANU)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "MONOLITH",
+   "name": "Monolith (MONOLITH)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "MIKE",
+   "name": "Mike (MIKE)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "SCNR",
+   "name": "Swapscanner (SCNR)",
+   "built_on": "KAIA"
+  },
+  {
+   "symbol": "DEFIK",
+   "name": "DeFi Kingdoms JADE (DEFIK)",
+   "built_on": "KAIA"
+  },
+  {
+   "symbol": "JUM",
+   "name": "Jumoney (JUM)",
+   "built_on": "KAIA"
+  },
+  {
+   "symbol": "GETH",
+   "name": "Guarded Ether (GETH)"
+  },
+  {
+   "symbol": "APEFUN",
+   "name": "Ape (APEFUN)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "COMC",
+   "name": "ComCrica Token (COMC)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "CMETH",
+   "name": "Mantle Restaked Ether (CMETH)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "DOGEDASH",
+   "name": "Doge Dash (DOGEDASH)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "SKG888",
+   "name": "Safu \u0026 Kek Gigafundz 888 (SKG888)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "DICE",
+   "name": "Klaydice (DICE)",
+   "built_on": "KAIA"
+  },
+  {
+   "symbol": "SENSOV1",
+   "name": "SENSO v1 (SENSOV1)"
+  },
+  {
+   "symbol": "CLA",
+   "name": "ClaimSwap (CLA)",
+   "built_on": "KAIA"
+  },
+  {
+   "symbol": "PHX",
+   "name": "Phoenix Finance (PHX)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "CYCON",
+   "name": "CONUN (CYCON)",
+   "built_on": "KAIA"
+  },
+  {
+   "symbol": "METAA",
+   "name": "META ARENA (METAA)",
+   "built_on": "KAIA"
+  },
+  {
+   "symbol": "3KM",
+   "name": "3 Kingdoms Multiverse (3KM)",
+   "built_on": "KAIA"
+  },
+  {
+   "symbol": "TARI",
+   "name": "Tari World (TARI)",
+   "built_on": "KAIA"
+  },
+  {
+   "symbol": "GRBT",
+   "name": "Grinbit (GRBT)",
+   "built_on": "KAIA"
+  },
+  {
+   "symbol": "AAX",
+   "name": "Academic Labs (AAX)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "X",
+   "name": "X Empire (X)",
+   "built_on": "TON"
+  },
+  {
+   "symbol": "KROME",
+   "name": "KROME Shares (KROME)",
+   "built_on": "KAIA"
+  },
+  {
+   "symbol": "HANAETHCTO",
+   "name": "HANA (HANAETHCTO)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "BODYP",
+   "name": "Body Profile (BODYP)",
+   "built_on": "KAIA"
+  },
+  {
+   "symbol": "COJ",
+   "name": "Cojam (COJ)",
+   "built_on": "KAIA"
+  },
+  {
+   "symbol": "BMS",
+   "name": "BMS COIN (BMS)",
+   "built_on": "TRX"
+  },
+  {
+   "symbol": "MKC",
+   "name": "Meta Kongz (MKC)",
+   "built_on": "KAIA"
+  },
+  {
+   "symbol": "IPVOLD",
+   "name": "IPVERSE (Klaytn) (IPVOLD)",
+   "built_on": "KAIA"
+  },
+  {
+   "symbol": "SKLAY",
+   "name": "sKLAY (SKLAY)",
+   "built_on": "KAIA"
+  },
+  {
+   "symbol": "XTRUMP",
+   "name": "X TRUMP (XTRUMP)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "KAIA",
+   "name": "Kaia (KAIA)"
+  },
+  {
+   "symbol": "GHUB",
+   "name": "GemHUB (GHUB)",
+   "built_on": "KAIA"
+  },
+  {
+   "symbol": "NOOB",
+   "name": "Blast Royale (NOOB)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "OUSDC",
+   "name": "Orbit Bridge Klaytn USDC (OUSDC)",
+   "built_on": "KAIA"
+  },
+  {
+   "symbol": "CHEYENNE",
+   "name": "Cheyenne (CHEYENNE)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "PSUB",
+   "name": "Payment Swap Utility Board (PSUB)",
+   "built_on": "KAIA"
+  },
+  {
+   "symbol": "GRND",
+   "name": "SuperWalk (GRND)",
+   "built_on": "KAIA"
+  },
+  {
+   "symbol": "MAGACA",
+   "name": "MAGA CAT (MAGACA)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "AIXERC",
+   "name": "AI-X (AIXERC)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "RNDX",
+   "name": "Round X (RNDX)",
+   "built_on": "KAIA"
+  },
+  {
+   "symbol": "BABYPNUT",
+   "name": "Baby Pnut (BABYPNUT)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "NCTR",
+   "name": "Nectar (NCTR)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "AZIT",
+   "name": "Azit (AZIT)",
+   "built_on": "KAIA"
+  },
+  {
+   "symbol": "CBBTCBASE",
+   "name": "cbBTC (CBBTCBASE)"
+  },
+  {
+   "symbol": "OHANDY",
+   "name": "Orbit Bridge Klaytn Handy (OHANDY)",
+   "built_on": "KAIA"
+  },
+  {
+   "symbol": "HOUSE",
+   "name": "Klaymore Stakehouse (HOUSE)",
+   "built_on": "KAIA"
+  },
+  {
+   "symbol": "KLEVA",
+   "name": "KLEVA Protocol (KLEVA)",
+   "built_on": "KAIA"
+  },
+  {
+   "symbol": "KUMU",
+   "name": "Kumu Finance (KUMU)",
+   "built_on": "KAIA"
+  },
+  {
+   "symbol": "GXA",
+   "name": "Galaxia (GXA)",
+   "built_on": "KAIA"
+  },
+  {
+   "symbol": "MAF",
+   "name": "MetaMAFIA (MAF)",
+   "built_on": "KAIA"
+  },
+  {
+   "symbol": "HIBS",
+   "name": "Hiblocks (HIBS)",
+   "built_on": "KAIA"
+  },
+  {
+   "symbol": "MBX",
+   "name": "Marblex (MBX)",
+   "built_on": "KAIA"
+  },
+  {
+   "symbol": "ANAT",
+   "name": "Anatolia Token (ANAT)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "WALK",
+   "name": "Walk Token (WALK)",
+   "built_on": "KAIA"
+  },
+  {
+   "symbol": "SSX",
+   "name": "SOMESING (SSX)",
+   "built_on": "KAIA"
+  },
+  {
+   "symbol": "HAGGIS",
+   "name": "New Born Haggis Pygmy Hippo (HAGGIS)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "HERBE",
+   "name": "Herbee (HERBE)",
+   "built_on": "KAIA"
+  },
+  {
+   "symbol": "MONST",
+   "name": "Monstock (MONST)",
+   "built_on": "KAIA"
+  },
+  {
+   "symbol": "FAVR",
+   "name": "FAVOR (FAVR)",
+   "built_on": "KAIA"
+  },
+  {
+   "symbol": "ETHERBTC",
+   "name": "EtherBTC (ETHERBTC)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "NIK",
+   "name": "NIKPLACE (NIK)",
+   "built_on": "KAIA"
+  },
+  {
+   "symbol": "SWAGT",
+   "name": "Swag Token (SWAGT)",
+   "built_on": "POL"
+  },
+  {
+   "symbol": "WIKEN",
+   "name": "Project WITH (WIKEN)",
+   "built_on": "KAIA"
+  },
+  {
+   "symbol": "LEMN",
+   "name": "LEMON (LEMN)",
+   "built_on": "KAIA"
+  },
+  {
+   "symbol": "JAV",
+   "name": "Javsphere (JAV)",
+   "built_on": "DFI"
+  },
+  {
+   "symbol": "SPACED",
+   "name": "SPACE DRAGON (SPACED)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "NGTG",
+   "name": "NUGGET TRAP (NGTG)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "VG",
+   "name": "Viu Ganhou (VG)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "DRAW",
+   "name": "Drawshop Kingdom Reverse (DRAW)",
+   "built_on": "KAIA"
+  },
+  {
+   "symbol": "NPT",
+   "name": "Neopin (NPT)",
+   "built_on": "KAIA"
+  },
+  {
+   "symbol": "CULOETH",
+   "name": "CULO (CULOETH)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "DARAM",
+   "name": "Daram (DARAM)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "MAYO",
+   "name": "Mr Mayonnaise the Cat (MAYO)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "TOKKI",
+   "name": "CRYPTOKKI (TOKKI)",
+   "built_on": "KAIA"
+  },
+  {
+   "symbol": "KSP",
+   "name": "KlaySwap Protocol (KSP)",
+   "built_on": "KAIA"
+  },
+  {
+   "symbol": "WE",
+   "name": "WeBuy (WE)",
+   "built_on": "KAIA"
+  },
+  {
+   "symbol": "PER",
+   "name": "Perproject (PER)",
+   "built_on": "KAIA"
+  },
+  {
+   "symbol": "CTB",
+   "name": "Content Bitcoin (CTB)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "AWM",
+   "name": "Another World (AWM)",
+   "built_on": "KAIA"
+  },
+  {
+   "symbol": "HND",
+   "name": "Hundred Finance (HND)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "SEP",
+   "name": "Smart Energy Pay (SEP)"
+  },
+  {
+   "symbol": "OORC",
+   "name": "Orbit Bridge Klaytn Orbit Chain (OORC)",
+   "built_on": "KAIA"
+  },
+  {
+   "symbol": "BANK",
+   "name": "Float Protocol (BANK)",
+   "built_on": "ETH"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "MONST",
+   "name": "Monstock (MONST)",
+   "built_on": "KLAY"
+  },
+  {
+   "symbol": "AWM",
+   "name": "Another World (AWM)",
+   "built_on": "KLAY"
+  },
+  {
+   "symbol": "MBX",
+   "name": "Marblex (MBX)",
+   "built_on": "KLAY"
+  },
+  {
+   "symbol": "NPT",
+   "name": "Neopin (NPT)",
+   "built_on": "KLAY"
+  },
+  {
+   "symbol": "IPVOLD",
+   "name": "IPVERSE (Klaytn) (IPVOLD)",
+   "built_on": "KLAY"
+  },
+  {
+   "symbol": "ZEDCOIN",
+   "name": "ZedCoin (ZEDCOIN)"
+  },
+  {
+   "symbol": "RNDX",
+   "name": "Round X (RNDX)",
+   "built_on": "KLAY"
+  },
+  {
+   "symbol": "GRND",
+   "name": "SuperWalk (GRND)",
+   "built_on": "KLAY"
+  },
+  {
+   "symbol": "METAA",
+   "name": "META ARENA (METAA)",
+   "built_on": "KLAY"
+  },
+  {
+   "symbol": "JUM",
+   "name": "Jumoney (JUM)",
+   "built_on": "KLAY"
+  },
+  {
+   "symbol": "HERBE",
+   "name": "Herbee (HERBE)",
+   "built_on": "KLAY"
+  },
+  {
+   "symbol": "WE",
+   "name": "WeBuy (WE)",
+   "built_on": "KLAY"
+  },
+  {
+   "symbol": "MAF",
+   "name": "MetaMAFIA (MAF)",
+   "built_on": "KLAY"
+  },
+  {
+   "symbol": "KLEVA",
+   "name": "KLEVA Protocol (KLEVA)",
+   "built_on": "KLAY"
+  },
+  {
+   "symbol": "DEFIK",
+   "name": "DeFi Kingdoms JADE (DEFIK)",
+   "built_on": "KLAY"
+  },
+  {
+   "symbol": "OHANDY",
+   "name": "Orbit Bridge Klaytn Handy (OHANDY)",
+   "built_on": "KLAY"
+  },
+  {
+   "symbol": "GHUB",
+   "name": "GemHUB (GHUB)",
+   "built_on": "KLAY"
+  },
+  {
+   "symbol": "COJ",
+   "name": "Cojam (COJ)",
+   "built_on": "KLAY"
+  },
+  {
+   "symbol": "OORC",
+   "name": "Orbit Bridge Klaytn Orbit Chain (OORC)",
+   "built_on": "KLAY"
+  },
+  {
+   "symbol": "GRBT",
+   "name": "Grinbit (GRBT)",
+   "built_on": "KLAY"
+  },
+  {
+   "symbol": "PSUB",
+   "name": "Payment Swap Utility Board (PSUB)",
+   "built_on": "KLAY"
+  },
+  {
+   "symbol": "DOGEDASH",
+   "name": "Doge Dash (DOGEDASH)"
+  },
+  {
+   "symbol": "SCNR",
+   "name": "Swapscanner (SCNR)",
+   "built_on": "KLAY"
+  },
+  {
+   "symbol": "NIK",
+   "name": "NIKPLACE (NIK)",
+   "built_on": "KLAY"
+  },
+  {
+   "symbol": "KSP",
+   "name": "KlaySwap Protocol (KSP)",
+   "built_on": "KLAY"
+  },
+  {
+   "symbol": "PHX",
+   "name": "Phoenix Finance (PHX)"
+  },
+  {
+   "symbol": "FAVR",
+   "name": "FAVOR (FAVR)",
+   "built_on": "KLAY"
+  },
+  {
+   "symbol": "KLAY",
+   "name": "Kaia (KLAY)"
+  },
+  {
+   "symbol": "SSX",
+   "name": "SOMESING (SSX)",
+   "built_on": "KLAY"
+  },
+  {
+   "symbol": "3KM",
+   "name": "3 Kingdoms Multiverse (3KM)",
+   "built_on": "KLAY"
+  },
+  {
+   "symbol": "DRAW",
+   "name": "Drawshop Kingdom Reverse (DRAW)",
+   "built_on": "KLAY"
+  },
+  {
+   "symbol": "TOKKI",
+   "name": "CRYPTOKKI (TOKKI)",
+   "built_on": "KLAY"
+  },
+  {
+   "symbol": "LEMN",
+   "name": "LEMON (LEMN)",
+   "built_on": "KLAY"
+  },
+  {
+   "symbol": "WALK",
+   "name": "Walk Token (WALK)",
+   "built_on": "KLAY"
+  },
+  {
+   "symbol": "MKC",
+   "name": "Meta Kongz (MKC)",
+   "built_on": "KLAY"
+  },
+  {
+   "symbol": "KUMU",
+   "name": "Kumu Finance (KUMU)",
+   "built_on": "KLAY"
+  },
+  {
+   "symbol": "X",
+   "name": "AI-X (X)"
+  },
+  {
+   "symbol": "AZIT",
+   "name": "Azit (AZIT)",
+   "built_on": "KLAY"
+  },
+  {
+   "symbol": "TARI",
+   "name": "Tari World (TARI)",
+   "built_on": "KLAY"
+  },
+  {
+   "symbol": "WIKEN",
+   "name": "Project WITH (WIKEN)",
+   "built_on": "KLAY"
+  },
+  {
+   "symbol": "PER",
+   "name": "Perproject (PER)",
+   "built_on": "KLAY"
+  },
+  {
+   "symbol": "HOUSE",
+   "name": "Klaymore Stakehouse (HOUSE)",
+   "built_on": "KLAY"
+  },
+  {
+   "symbol": "HIBS",
+   "name": "Hiblocks (HIBS)",
+   "built_on": "KLAY"
+  },
+  {
+   "symbol": "DICE",
+   "name": "Klaydice (DICE)",
+   "built_on": "KLAY"
+  },
+  {
+   "symbol": "KROME",
+   "name": "KROME Shares (KROME)",
+   "built_on": "KLAY"
+  },
+  {
+   "symbol": "CLA",
+   "name": "ClaimSwap (CLA)",
+   "built_on": "KLAY"
+  },
+  {
+   "symbol": "SKLAY",
+   "name": "sKLAY (SKLAY)",
+   "built_on": "KLAY"
+  },
+  {
+   "symbol": "GXA",
+   "name": "Galaxia (GXA)",
+   "built_on": "KLAY"
+  },
+  {
+   "symbol": "OUSDC",
+   "name": "Orbit Bridge Klaytn USDC (OUSDC)",
+   "built_on": "KLAY"
+  },
+  {
+   "symbol": "BODYP",
+   "name": "Body Profile (BODYP)",
+   "built_on": "KLAY"
+  },
+  {
+   "symbol": "CYCON",
+   "name": "CONUN (CYCON)",
+   "built_on": "KLAY"
+  }
+ ]
+}
