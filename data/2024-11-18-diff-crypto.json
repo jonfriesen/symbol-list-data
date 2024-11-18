@@ -1,0 +1,100 @@
+{
+ "added": [
+  {
+   "symbol": "ZAZU",
+   "name": "Zazu (ZAZU)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "GVRV1",
+   "name": "Grove v1 (GVRV1)"
+  },
+  {
+   "symbol": "HIPPO",
+   "name": "sudeng (HIPPO)",
+   "built_on": "SUI"
+  },
+  {
+   "symbol": "BCAPV1",
+   "name": "Blockchain Capital v1 (BCAPV1)"
+  },
+  {
+   "symbol": "GOMV1",
+   "name": "GoMoney (GOMV1)"
+  },
+  {
+   "symbol": "VIVEK",
+   "name": "Head of D.O.G.E (VIVEK)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "DESY",
+   "name": "Desy Duk (DESY)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "CBBTC",
+   "name": "Coinbase Wrapped BTC (CBBTC)",
+   "built_on": "BASE"
+  },
+  {
+   "symbol": "ORMO",
+   "name": "Ormolus (ORMO)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "PIPO",
+   "name": "Pipo (PIPO)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "CHULO",
+   "name": "Papichulo (CHULO)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "BANK",
+   "name": "Float Protocol (BANK)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "ROCKETCOIN",
+   "name": "RocketCoin (ROCKETCOIN)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "GETH",
+   "name": "Guarded Ether (GETH)"
+  },
+  {
+   "symbol": "INCEPT",
+   "name": "Incept (INCEPT)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "OSMI",
+   "name": "OSMI (OSMI)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "EMPH",
+   "name": "Emphy (EMPH)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "CRTAI",
+   "name": "CRT AI Network (CRTAI)",
+   "built_on": "BNB"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "EMPH",
+   "name": "Emphy (EMPH)"
+  },
+  {
+   "symbol": "ROCKETCOIN",
+   "name": "RocketCoin (ROCKETCOIN)"
+  }
+ ]
+}

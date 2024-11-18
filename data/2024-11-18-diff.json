@@ -1,0 +1,84 @@
+{
+ "added": [
+  {
+   "symbol": "HSPTU",
+   "name": "Horizon Space Acquisition II Corp. - Units",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "HSPTU"
+  },
+  {
+   "symbol": "STSB",
+   "name": "Stance Sustainable Beta ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "STSB"
+  },
+  {
+   "symbol": "CBAN",
+   "name": "Colony Bankcorp, Inc. Common Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "CBAN"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "RCFA.U",
+   "name": "Perception Capital Corp. IV Units, each consisting of one Class A ordinary share and one-half of one redeemable warrant",
+   "exchange": "NYSE",
+   "yahoo_symbol": "RCFA.U"
+  },
+  {
+   "symbol": "NVEI",
+   "name": "Nuvei Corporation - Subordinate Voting Shares",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "NVEI"
+  },
+  {
+   "symbol": "RCFA.W",
+   "name": "Perception Capital Corp. IV Warrants, each whole warrant exercisable for one Class A ordinary share at an exercise price of $11.50 per share",
+   "exchange": "NYSE",
+   "yahoo_symbol": "RCFA.W"
+  },
+  {
+   "symbol": "CBAN",
+   "name": "Colony Bankcorp, Inc. - Common Stock",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "CBAN"
+  },
+  {
+   "symbol": "PLAOU",
+   "name": "Patria Latin American Opportunity Acquisition Corp. - Unit",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "PLAOU"
+  },
+  {
+   "symbol": "PXDT",
+   "name": "Pixie Dust Technologies, Inc. - ADS, each representing one common share",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "PXDT"
+  },
+  {
+   "symbol": "PLAOW",
+   "name": "Patria Latin American Opportunity Acquisition Corp. - Warrant",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "PLAOW"
+  },
+  {
+   "symbol": "AXNX",
+   "name": "Axonics, Inc. - Common Stock",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "AXNX"
+  },
+  {
+   "symbol": "EVTL.W",
+   "name": "Vertical Aerospace Ltd. Warrants, each whole warrant exercisable for one ordinary share at an exercise price of $11.50 per share",
+   "exchange": "NYSE",
+   "yahoo_symbol": "EVTL.W"
+  },
+  {
+   "symbol": "RCFA",
+   "name": "Perception Capital Corp. IV Class A Ordinary Shares",
+   "exchange": "NYSE",
+   "yahoo_symbol": "RCFA"
+  }
+ ]
+}
