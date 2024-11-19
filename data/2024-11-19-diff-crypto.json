@@ -1,0 +1,151 @@
+{
+ "added": [
+  {
+   "symbol": "IKIGAI",
+   "name": "Ikigai (IKIGAI)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "WLD",
+   "name": "Worldcoin (WLD)"
+  },
+  {
+   "symbol": "DRACOO",
+   "name": "DracooMaster (DRACOO)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "ACCN",
+   "name": "Accelerator Network (ACCN)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "3",
+   "name": "The Three Musketeers (3)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "NEWBV1",
+   "name": "Newbium v1 (NEWBV1)"
+  },
+  {
+   "symbol": "SUNTRON",
+   "name": "TRON MASCOT (SUNTRON)",
+   "built_on": "TRX"
+  },
+  {
+   "symbol": "SP8DE",
+   "name": "Sp8de (SP8DE)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "CHATTY",
+   "name": "ChatGPT's Mascot (CHATTY)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "NIOXV1",
+   "name": "Autonio v1 (NIOXV1)"
+  },
+  {
+   "symbol": "BINK",
+   "name": "Big Dog Fink (BINK)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "HBZ",
+   "name": "HBZ Coin (HBZ)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "BANK",
+   "name": "Float Protocol (BANK)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "DOGZ",
+   "name": "Dogz (DOGZ)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "NIOXV2",
+   "name": "Autonio v2 (NIOXV2)"
+  },
+  {
+   "symbol": "DSG",
+   "name": "Dinosaureggs (DSG)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "CHINAU",
+   "name": "Chinau (CHINAU)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "G",
+   "name": "Gravity (G)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "EZSOL",
+   "name": "Renzo Restaked SOL (EZSOL)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "NAWS",
+   "name": "NAWS.AI (NAWS)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "SYRUP",
+   "name": "Syrup (SYRUP)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "CBBTCBASE",
+   "name": "cbBTC (CBBTCBASE)"
+  },
+  {
+   "symbol": "LUMIO",
+   "name": "Solana Mascot (LUMIO)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "NWIF",
+   "name": "neirowifhat (NWIF)",
+   "built_on": "ETH"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "AUTON",
+   "name": "Autonio (AUTON)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "DRACOO",
+   "name": "DracooMaster (DRACOO)"
+  },
+  {
+   "symbol": "DSG",
+   "name": "Dinosaureggs (DSG)"
+  },
+  {
+   "symbol": "DOGZ",
+   "name": "Dogz (DOGZ)"
+  },
+  {
+   "symbol": "WLD",
+   "name": "Worldcoin (WLD)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "SP8DE",
+   "name": "Sp8de (SP8DE)"
+  },
+  {
+   "symbol": "ACCN",
+   "name": "Accelerator Network (ACCN)"
+  }
+ ]
+}

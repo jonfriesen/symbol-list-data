@@ -1,0 +1,90 @@
+{
+ "added": [
+  {
+   "symbol": "ACHL",
+   "name": "Achilles Therapeutics plc - American Depositary Shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "ACHL"
+  },
+  {
+   "symbol": "BAFE",
+   "name": "Brown Advisory Flexible Equity ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "BAFE"
+  },
+  {
+   "symbol": "DMN",
+   "name": "Damon Inc. - Common Stock",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "DMN"
+  },
+  {
+   "symbol": "SUNE",
+   "name": "SUNation Energy, Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "SUNE"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "ACHL",
+   "name": "Achilles Therapeutics plc - American Depositary Shares",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "ACHL"
+  },
+  {
+   "symbol": "PEGY",
+   "name": "Pineapple Energy Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "PEGY"
+  },
+  {
+   "symbol": "CBRGU",
+   "name": "Chain Bridge I - Units",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "CBRGU"
+  },
+  {
+   "symbol": "NVEI",
+   "name": "Nuvei Corporation",
+   "exchange": "TSX",
+   "yahoo_symbol": "NVEI.TO",
+   "instruments": [
+    {
+     "name": "Nuvei Corp. J SV",
+     "symbol": "NVEI"
+    }
+   ]
+  },
+  {
+   "symbol": "DPCSU",
+   "name": "DP Cap Acquisition Corp I - Unit",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "DPCSU"
+  },
+  {
+   "symbol": "SAVE",
+   "name": "Spirit Airlines, Inc. Common Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "SAVE"
+  },
+  {
+   "symbol": "DPCSW",
+   "name": "DP Cap Acquisition Corp I - Warrants",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "DPCSW"
+  },
+  {
+   "symbol": "DPCS",
+   "name": "DP Cap Acquisition Corp I - Class A Ordinary Shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "DPCS"
+  },
+  {
+   "symbol": "CBRG",
+   "name": "Chain Bridge I - Class A Ordinary Shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "CBRG"
+  }
+ ]
+}
