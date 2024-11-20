@@ -1,0 +1,131 @@
+{
+ "added": [
+  {
+   "symbol": "ELIZA",
+   "name": "Eliza (elizawakesup.ai) (ELIZA)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "BOWSER",
+   "name": "Bowser (BOWSER)",
+   "built_on": "WLD"
+  },
+  {
+   "symbol": "SOLVBTCBBN",
+   "name": "Solv Protocol SolvBTC.BBN (SOLVBTCBBN)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "INVC",
+   "name": "Invacio (INVC)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "CHLOE",
+   "name": "Pnut's Sister (CHLOE)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "ELIZ",
+   "name": "Eliza (ai16zeliza) (ELIZ)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "AI16Z",
+   "name": "ai16z (AI16Z)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "VIDEO",
+   "name": "Videocoin by Drakula (VIDEO)",
+   "built_on": "BASE"
+  },
+  {
+   "symbol": "AMERIC",
+   "name": "American True Hero (AMERIC)",
+   "built_on": "BASE"
+  },
+  {
+   "symbol": "MOTI",
+   "name": "Motion (MOTI)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "PEGG",
+   "name": "PokPok Golden Egg (PEGG)",
+   "built_on": "BASE"
+  },
+  {
+   "symbol": "INETH",
+   "name": "Inception Restaked ETH (INETH)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "MYRE",
+   "name": "Myre (MYRE)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "REMILIA",
+   "name": " Remilia (REMILIA)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "RETARDIA",
+   "name": "RETARDIA (RETARDIA)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "ZEDCOIN",
+   "name": "ZedCoin (ZEDCOIN)"
+  },
+  {
+   "symbol": "USYC",
+   "name": "Hashnote USYC (USYC)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "RPX",
+   "name": "Red Pulse Token (RPX)",
+   "built_on": "NEO"
+  },
+  {
+   "symbol": "CBBTC",
+   "name": "Coinbase Wrapped BTC (CBBTC)",
+   "built_on": "BASE"
+  },
+  {
+   "symbol": "ENJV1",
+   "name": "Enjin Coin v1 (ENJV1)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "BANKETH",
+   "name": "BankEth (BANKETH)"
+  },
+  {
+   "symbol": "GTK",
+   "name": "GoToken (GTK)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "G",
+   "name": "Gravity (G)",
+   "built_on": "ETH"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "INVC",
+   "name": "Invacio (INVC)"
+  },
+  {
+   "symbol": "GTK",
+   "name": "GoToken (GTK)"
+  },
+  {
+   "symbol": "MOTI",
+   "name": "Motion (MOTI)"
+  }
+ ]
+}

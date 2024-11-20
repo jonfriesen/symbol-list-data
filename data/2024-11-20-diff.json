@@ -1,0 +1,84 @@
+{
+ "added": [
+  {
+   "symbol": "PREM",
+   "name": "Premium Resources Ltd.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "PREM.V",
+   "instruments": [
+    {
+     "name": "Premium Resources Ltd.",
+     "symbol": "PREM"
+    }
+   ]
+  },
+  {
+   "symbol": "BALY.T",
+   "name": "Bally's Corporation Common Stock (Rolling Shares)",
+   "exchange": "NYSE",
+   "yahoo_symbol": "BALY.T"
+  },
+  {
+   "symbol": "CON.V",
+   "name": "Concentra Group Holdings Parent, Inc. Common Stock When-Issued Add'l Shares",
+   "exchange": "NYSE",
+   "yahoo_symbol": "CON.V"
+  },
+  {
+   "symbol": "SEM.V",
+   "name": "Select Medical Holdings Corporation Common Stock When-Issued",
+   "exchange": "NYSE",
+   "yahoo_symbol": "SEM.V"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "NOVV",
+   "name": "Nova Vision Acquisition Corp. - Ordinary share",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "NOVV"
+  },
+  {
+   "symbol": "NOVVR",
+   "name": "Nova Vision Acquisition Corp. - Rights",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "NOVVR"
+  },
+  {
+   "symbol": "LEV.W",
+   "name": "The Lion Electric Company Redeemable Warrants, each whole warrant entitles the holder to purchase one Common Share at a price of $11.50 per share",
+   "exchange": "NYSE",
+   "yahoo_symbol": "LEV.W"
+  },
+  {
+   "symbol": "PNRL",
+   "name": "Premium Nickel Resources Ltd.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "PNRL.V",
+   "instruments": [
+    {
+     "name": "Premium Nickel Resources Ltd.",
+     "symbol": "PNRL"
+    }
+   ]
+  },
+  {
+   "symbol": "RCM",
+   "name": "R1 RCM Inc. - Common Stock",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "RCM"
+  },
+  {
+   "symbol": "NOVVU",
+   "name": "Nova Vision Acquisition Corp. - Unit",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "NOVVU"
+  },
+  {
+   "symbol": "NOVVW",
+   "name": "Nova Vision Acquisition Corp. - Warrant",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "NOVVW"
+  }
+ ]
+}
