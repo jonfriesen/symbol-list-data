@@ -1,0 +1,102 @@
+{
+ "added": [
+  {
+   "symbol": "PWH",
+   "name": "PureWave Hydrogen Corp.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "PWH.V",
+   "instruments": [
+    {
+     "name": "PureWave Hydrogen Corp.",
+     "symbol": "PWH"
+    }
+   ]
+  },
+  {
+   "symbol": "GRGD",
+   "name": "Groupe Dynamite Inc.",
+   "exchange": "TSX",
+   "yahoo_symbol": "GRGD.TO",
+   "instruments": [
+    {
+     "name": "Groupe Dynamite WI",
+     "symbol": "GRGD"
+    }
+   ]
+  },
+  {
+   "symbol": "RMSG",
+   "name": "Real Messenger Corporation - Ordinary Shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "RMSG"
+  },
+  {
+   "symbol": "RMSGW",
+   "name": "Real Messenger Corporation - Warrants",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "RMSGW"
+  },
+  {
+   "symbol": "USAF",
+   "name": "Atlas America Fund",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "USAF"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "BYU",
+   "name": "BAIYU Holdings, Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "BYU"
+  },
+  {
+   "symbol": "HIE",
+   "name": "Miller/Howard High Income Equity Fund Common Shares of Beneficial Interest",
+   "exchange": "NYSE",
+   "yahoo_symbol": "HIE"
+  },
+  {
+   "symbol": "MCAG",
+   "name": "Mountain Crest Acquisition Corp. V - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "MCAG"
+  },
+  {
+   "symbol": "LEX",
+   "name": "Longhorn Exploration Corp.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "LEX.V",
+   "instruments": [
+    {
+     "name": "Longhorn Exploration Corp.",
+     "symbol": "LEX"
+    }
+   ]
+  },
+  {
+   "symbol": "MCAGR",
+   "name": "Mountain Crest Acquisition Corp. V - Right",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "MCAGR"
+  },
+  {
+   "symbol": "MCAGU",
+   "name": "Mountain Crest Acquisition Corp. V - Unit",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "MCAGU"
+  },
+  {
+   "symbol": "DCF",
+   "name": "BNY Mellon Alcentra Global Credit Income 2024 Target Term Fund, Inc. Common Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "DCF"
+  },
+  {
+   "symbol": "EXAI",
+   "name": "Exscientia Plc - American Depositary Shares",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "EXAI"
+  }
+ ]
+}
