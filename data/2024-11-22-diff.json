@@ -1,0 +1,84 @@
+{
+ "added": [
+  {
+   "symbol": "DYNXU",
+   "name": "Dynamix Corporation - Unit",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "DYNXU"
+  },
+  {
+   "symbol": "NOEMU",
+   "name": "CO2 Energy Transition Corp. - Unit",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "NOEMU"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "HAYN",
+   "name": "Haynes International, Inc. - Common Stock",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "HAYN"
+  },
+  {
+   "symbol": "QOMO",
+   "name": "Qomolangma Acquisition Corp. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "QOMO"
+  },
+  {
+   "symbol": "VINO",
+   "name": "Gaucho Group Holdings, Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "VINO"
+  },
+  {
+   "symbol": "ARC",
+   "name": "ARC Document Solutions, Inc. Common Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "ARC"
+  },
+  {
+   "symbol": "TMTCU",
+   "name": "TMT Acquisition Corp - Unit",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "TMTCU"
+  },
+  {
+   "symbol": "MRO",
+   "name": "Marathon Oil Corporation Common Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "MRO"
+  },
+  {
+   "symbol": "TMTC",
+   "name": "TMT Acquisition Corp - Ordinary Shares",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "TMTC"
+  },
+  {
+   "symbol": "QOMOR",
+   "name": "Qomolangma Acquisition Corp. - Right",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "QOMOR"
+  },
+  {
+   "symbol": "QOMOU",
+   "name": "Qomolangma Acquisition Corp. - Unit",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "QOMOU"
+  },
+  {
+   "symbol": "QOMOW",
+   "name": "Qomolangma Acquisition Corp. - Warrant",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "QOMOW"
+  },
+  {
+   "symbol": "TMTCR",
+   "name": "TMT Acquisition Corp - Rights",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "TMTCR"
+  }
+ ]
+}
