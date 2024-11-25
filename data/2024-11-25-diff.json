@@ -1,0 +1,126 @@
+{
+ "added": [
+  {
+   "symbol": "CHS",
+   "name": "Comprehensive Healthcare Systems Inc.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "CHS.V",
+   "instruments": [
+    {
+     "name": "Comprehensive Healthcare Systems Inc.",
+     "symbol": "CHS"
+    }
+   ]
+  },
+  {
+   "symbol": "BYNO",
+   "name": "byNordic Acquisition Corporation - Class A Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "BYNO"
+  },
+  {
+   "symbol": "BYNOU",
+   "name": "byNordic Acquisition Corporation - Units",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "BYNOU"
+  },
+  {
+   "symbol": "BYNOW",
+   "name": "byNordic Acquisition Corporation - Warrant",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "BYNOW"
+  },
+  {
+   "symbol": "CASK",
+   "name": "Heritage Distilling Holding Company, Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "CASK"
+  },
+  {
+   "symbol": "ELPW",
+   "name": "Elong Power Holding Limited - Class A Ordinary Shares",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "ELPW"
+  },
+  {
+   "symbol": "MSW",
+   "name": "Ming Shing Group Holdings Limited - Ordinary Shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "MSW"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "NCNC",
+   "name": "noco-noco Inc. - Ordinary Share",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "NCNC"
+  },
+  {
+   "symbol": "BYNOU",
+   "name": "byNordic Acquisition Corporation - Units",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "BYNOU"
+  },
+  {
+   "symbol": "BYNOW",
+   "name": "byNordic Acquisition Corporation - Warrant",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "BYNOW"
+  },
+  {
+   "symbol": "BLEU",
+   "name": "bleuacacia ltd - Class A Ordinary Shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "BLEU"
+  },
+  {
+   "symbol": "BYNO",
+   "name": "byNordic Acquisition Corporation - Class A Common Stock",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "BYNO"
+  },
+  {
+   "symbol": "BLEUU",
+   "name": "bleuacacia ltd - Units",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "BLEUU"
+  },
+  {
+   "symbol": "BLEUW",
+   "name": "bleuacacia ltd - Warrants",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "BLEUW"
+  },
+  {
+   "symbol": "TORO",
+   "name": "Pucara Gold Ltd.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "TORO.V",
+   "instruments": [
+    {
+     "name": "Pucara Gold Ltd.",
+     "symbol": "TORO"
+    }
+   ]
+  },
+  {
+   "symbol": "BLEUR",
+   "name": "bleuacacia ltd - Rights",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "BLEUR"
+  },
+  {
+   "symbol": "ENV",
+   "name": "Envestnet, Inc Common Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "ENV"
+  },
+  {
+   "symbol": "NCNCW",
+   "name": "noco-noco Inc. - Warrant",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "NCNCW"
+  }
+ ]
+}

@@ -1,0 +1,184 @@
+{
+ "added": [
+  {
+   "symbol": "AIFUN",
+   "name": "AI Agent Layer (AIFUN)",
+   "built_on": "BASE"
+  },
+  {
+   "symbol": "TYKE",
+   "name": "Tyke The Elephant (TYKE)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "MBLV1",
+   "name": "MovieBloc v1 (MBLV1)"
+  },
+  {
+   "symbol": "COPA",
+   "name": "COCO PARK (COPA)",
+   "built_on": "TON"
+  },
+  {
+   "symbol": "AIMAGA",
+   "name": "Presidentexe (AIMAGA)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "JUSDC",
+   "name": "USD Coin (TON Bridge) (JUSDC)",
+   "built_on": "TON"
+  },
+  {
+   "symbol": "FROX",
+   "name": "Frox (FROX)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "NML",
+   "name": "No Mans Land (NML)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "MCDULL",
+   "name": "McDull (MCDULL)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "JONESUSDC",
+   "name": "Jones USDC (JONESUSDC)",
+   "built_on": "ARB"
+  },
+  {
+   "symbol": "FAML",
+   "name": "FAML (FAML)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "SIRIUS",
+   "name": "first reply (SIRIUS)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "JWBTC",
+   "name": "Wrapped Bitcoin (TON Bridge) (JWBTC)",
+   "built_on": "TON"
+  },
+  {
+   "symbol": "JDAI",
+   "name": "Dai (TON Bridge) (JDAI)",
+   "built_on": "TON"
+  },
+  {
+   "symbol": "SUSDX",
+   "name": "Staked USDX (SUSDX)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "DDBAM",
+   "name": "Didi Bam Bam (DDBAM)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "PNUTS",
+   "name": "Pnuts for squirrel (PNUTS)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "CURLY",
+   "name": "Curly (CURLY)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "ANVL",
+   "name": "Anvil (ANVL)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "MCEN",
+   "name": "Main Character Energy (MCEN)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "MARSO",
+   "name": "Marso.Tech (MARSO)",
+   "built_on": "BASE"
+  },
+  {
+   "symbol": "G",
+   "name": "Gravity (G)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "CBBTC",
+   "name": "Coinbase Wrapped BTC (CBBTC)",
+   "built_on": "BASE"
+  },
+  {
+   "symbol": "BARSIK",
+   "name": "Hasbulla's Cat (BARSIK)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "ZEREBRO",
+   "name": "Zerebro (ZEREBRO)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "VVAIFU",
+   "name": "Dasha (VVAIFU)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "DCHEFSOL",
+   "name": "Degen Chef (DCHEFSOL)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "WATC",
+   "name": "WATCoin (WATC)",
+   "built_on": "TON"
+  },
+  {
+   "symbol": "CHAOS",
+   "name": "chaos and disorder (CHAOS)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "ZEDCOIN",
+   "name": "ZedCoin (ZEDCOIN)"
+  },
+  {
+   "symbol": "MOGCO",
+   "name": "Mog Coin (mogcoinspl.com) (MOGCO)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "BANK",
+   "name": "Float Protocol (BANK)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "LUMOS",
+   "name": "Lumos (LUMOS)",
+   "built_on": "FTM"
+  },
+  {
+   "symbol": "XMW",
+   "name": "Morphware (XMW)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "TRUAPT",
+   "name": "TruFin Staked APT (TRUAPT)",
+   "built_on": "APT"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "JUSDC",
+   "name": "Jones USDC (JUSDC)",
+   "built_on": "ARB"
+  }
+ ]
+}
