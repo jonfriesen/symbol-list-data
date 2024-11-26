@@ -1,0 +1,144 @@
+{
+ "added": [
+  {
+   "symbol": "HPL",
+   "name": "Horizon Petroleum Ltd.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "HPL.V",
+   "instruments": [
+    {
+     "name": "Horizon Petroleum Ltd.",
+     "symbol": "HPL"
+    }
+   ]
+  },
+  {
+   "symbol": "ZCT",
+   "name": "Zero Candida Technologies Inc.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "ZCT.V",
+   "instruments": [
+    {
+     "name": "Zero Candida Technologies Inc.",
+     "symbol": "ZCT"
+    }
+   ]
+  },
+  {
+   "symbol": "AMRN",
+   "name": "Amarin Corporation plc - American Depositary Shares, each representing one Ordinary Share",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "AMRN"
+  },
+  {
+   "symbol": "MBINL",
+   "name": "Merchants Bancorp - Depositary Shares, Each Representing a 1/40th Interest in a Share of 7.625% Fixed Rate Series E Non-Cumulative Perpetual Preferred Stock, without par value",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "MBINL"
+  },
+  {
+   "symbol": "NA",
+   "name": "Nano Labs Ltd - Class A Ordinary Shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "NA"
+  },
+  {
+   "symbol": "ENFY",
+   "name": "Enlightify Inc. Common Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "ENFY"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "NA",
+   "name": "Nano Labs Ltd - Class A Ordinary Shares",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "NA"
+  },
+  {
+   "symbol": "INIK",
+   "name": "PopReach Corporation",
+   "exchange": "TSXV",
+   "yahoo_symbol": "INIK.V",
+   "instruments": [
+    {
+     "name": "PopReach Corporation",
+     "symbol": "INIK"
+    }
+   ]
+  },
+  {
+   "symbol": "PLTR",
+   "name": "Palantir Technologies Inc. Class A Common Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "PLTR"
+  },
+  {
+   "symbol": "SEM.V",
+   "name": "Select Medical Holdings Corporation Common Stock When-Issued",
+   "exchange": "NYSE",
+   "yahoo_symbol": "SEM.V"
+  },
+  {
+   "symbol": "DUETW",
+   "name": "DUET Acquisition Corp. - Warrant",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "DUETW"
+  },
+  {
+   "symbol": "DUETU",
+   "name": "DUET Acquisition Corp. - Unit",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "DUETU"
+  },
+  {
+   "symbol": "CON.V",
+   "name": "Concentra Group Holdings Parent, Inc. Common Stock When-Issued Add'l Shares",
+   "exchange": "NYSE",
+   "yahoo_symbol": "CON.V"
+  },
+  {
+   "symbol": "IHTA",
+   "name": "Invesco High Income 2024 Target Term Fund Common Shares of Beneficial Interest, No par value per share",
+   "exchange": "NYSE",
+   "yahoo_symbol": "IHTA"
+  },
+  {
+   "symbol": "CEE",
+   "name": "Centamin plc",
+   "exchange": "TSX",
+   "yahoo_symbol": "CEE.TO",
+   "instruments": [
+    {
+     "name": "Centamin plc. Ord",
+     "symbol": "CEE"
+    }
+   ]
+  },
+  {
+   "symbol": "DUET",
+   "name": "DUET Acquisition Corp. - Class A Common Stock",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "DUET"
+  },
+  {
+   "symbol": "SITC$A",
+   "name": "SITE Centers Corp. 6.375% Class A Preferred Shares",
+   "exchange": "NYSE",
+   "yahoo_symbol": "SITC$A"
+  },
+  {
+   "symbol": "CGA",
+   "name": "China Green Agriculture, Inc. Common Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "CGA"
+  },
+  {
+   "symbol": "AMRN",
+   "name": "Amarin Corporation plc - American Depositary Shares, each representing one Ordinary Share",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "AMRN"
+  }
+ ]
+}

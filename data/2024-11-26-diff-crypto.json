@@ -1,0 +1,193 @@
+{
+ "added": [
+  {
+   "symbol": "SHIBADOG",
+   "name": "Shiba San (SHIBADOG)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "ZAPO",
+   "name": "Zapo AI (ZAPO)",
+   "built_on": "TRX"
+  },
+  {
+   "symbol": "DESCI",
+   "name": "DeSci Meme (DESCI)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "AVB",
+   "name": "Autonomous Virtual Beings (AVB)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "HELA",
+   "name": "Science Cult Mascot (HELA)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "SENDOR",
+   "name": "Sendor (SENDOR)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "TRUTHFI",
+   "name": "Truthfi (TRUTHFI)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "BUENO",
+   "name": "Bueno (BUENO)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "KNU",
+   "name": "Keanu (KNU)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "ZENQ",
+   "name": "Zenqira (ZENQ)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "AICELL",
+   "name": "AICell (AICELL)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "PIM",
+   "name": "PIM (PIM)"
+  },
+  {
+   "symbol": "REWARD",
+   "name": "Rewardable (REWARD)",
+   "built_on": "BASE"
+  },
+  {
+   "symbol": "OL",
+   "name": "Open Loot (OL)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "DAETA",
+   "name": "DÆTA (DAETA)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "SCIHUB",
+   "name": "sci-hub (SCIHUB)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "BANKETH",
+   "name": "BankEth (BANKETH)"
+  },
+  {
+   "symbol": "KANGO",
+   "name": "KANGO (KANGO)",
+   "built_on": "KAS"
+  },
+  {
+   "symbol": "CBBTC",
+   "name": "Coinbase Wrapped BTC (CBBTC)",
+   "built_on": "BASE"
+  },
+  {
+   "symbol": "USDT",
+   "name": "Tether (USDT)",
+   "built_on": "OMNILAYER"
+  },
+  {
+   "symbol": "DADDYCHILL",
+   "name": "Daddy Chill (DADDYCHILL)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "PNUTDOGE",
+   "name": "PNUT DOGE (PNUTDOGE)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "GIZMO",
+   "name": "GIZMO•IMAGINARY• KITTEN (Runes) (GIZMO)",
+   "built_on": "ORDI"
+  },
+  {
+   "symbol": "BTCACT",
+   "name": "BITCOIN Act (BTCACT)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "G",
+   "name": "Gravity (G)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "WAWA",
+   "name": "Wawa Cat (WAWA)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "DSTAG",
+   "name": "deadstag (DSTAG)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "SOLVBTCCORE",
+   "name": "Solv Protocol SolvBTC.CORE (SOLVBTCCORE)",
+   "built_on": "CORE"
+  },
+  {
+   "symbol": "KAAI",
+   "name": "KanzzAI (KAAI)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "EURQ",
+   "name": "Quantoz EURQ (EURQ)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "TYPUS",
+   "name": "Typus (TYPUS)",
+   "built_on": "SUI"
+  },
+  {
+   "symbol": "XING",
+   "name": "Xing Xing (XING)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "MERLIN",
+   "name": "Oldest Raccoon (MERLIN)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "LESTER",
+   "name": "Litecoin Mascot (LESTER)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "XAUM",
+   "name": "Matrixdock Gold (XAUM)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "SLAP",
+   "name": "CatSlap (SLAP)",
+   "built_on": "ETH"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "USDT",
+   "name": "Tether (USDT)",
+   "built_on": "OMNI"
+  },
+  {
+   "symbol": "APECOIN",
+   "name": "Asia Pacific Electronic Coin (APECOIN)"
+  }
+ ]
+}
