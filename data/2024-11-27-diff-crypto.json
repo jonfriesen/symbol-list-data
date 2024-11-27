@@ -1,0 +1,239 @@
+{
+ "added": [
+  {
+   "symbol": "LILB",
+   "name": "Lil Brett (LILB)",
+   "built_on": "BASE"
+  },
+  {
+   "symbol": "EURTV1",
+   "name": "Euro Tether v1 (EURTV1)"
+  },
+  {
+   "symbol": "STARSHIPONSOL",
+   "name": "Starship (STARSHIPONSOL)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "MLP",
+   "name": "Matrix Layer Protocol (MLP)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "GENECTO",
+   "name": "Gene (GENECTO)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "NAVAL",
+   "name": "NAVAL AI (NAVAL)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "SOLITO",
+   "name": "SOLITO (SOLITO)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "CLANKER",
+   "name": "tokenbot (CLANKER)",
+   "built_on": "BASE"
+  },
+  {
+   "symbol": "LOOPIN",
+   "name": "LooPIN Network (LOOPIN)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "BSDETH",
+   "name": "Based ETH (BSDETH)",
+   "built_on": "BASE"
+  },
+  {
+   "symbol": "DOGEM",
+   "name": "Doge Matrix (DOGEM)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "CULTUR",
+   "name": "Cultur (CULTUR)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "SUSDA",
+   "name": "sUSDa (SUSDA)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "TGRASS",
+   "name": "Top Grass Club (TGRASS)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "BONKEY",
+   "name": "Bonkey (BONKEY)",
+   "built_on": "BASE"
+  },
+  {
+   "symbol": "GOLDCOINETH",
+   "name": "Gold (GOLDCOINETH)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "REP",
+   "name": "Augur (REP)"
+  },
+  {
+   "symbol": "ICECR",
+   "name": "Ice Cream Sandwich (ICECR)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "UTKV1",
+   "name": "Utrust (UTKV1)"
+  },
+  {
+   "symbol": "KOTARO",
+   "name": "KOTARO (KOTARO)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "SSSSS",
+   "name": "Snake wif Hat (SSSSS)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "PUMPFUNBAN",
+   "name": "Pump Fun Ban (PUMPFUNBAN)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "NFNT",
+   "name": "NFINITY AI (NFNT)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "STIX",
+   "name": "STIX (STIX)",
+   "built_on": "BASE"
+  },
+  {
+   "symbol": "BNOM",
+   "name": "BitNomad (BNOM)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "UNFK",
+   "name": "UNFK (UNFK)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "REPV1",
+   "name": "Reputation (REPV1)"
+  },
+  {
+   "symbol": "FLOWER",
+   "name": "FlowerAI (FLOWER)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "WXRP",
+   "name": "Wrapped XRP (WXRP)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "TROPPY",
+   "name": "TROPPY (TROPPY)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "RAGDOLL",
+   "name": "Ragdoll (RAGDOLL)",
+   "built_on": "BASE"
+  },
+  {
+   "symbol": "USUAL",
+   "name": "Usual (USUAL)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "DOGECAST",
+   "name": "Dogecast (DOGECAST)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "CBBTC",
+   "name": "Coinbase Wrapped BTC (CBBTC)",
+   "built_on": "BASE"
+  },
+  {
+   "symbol": "CATBAL",
+   "name": "Catbal (CATBAL)"
+  },
+  {
+   "symbol": "GETH",
+   "name": "Guarded Ether (GETH)"
+  },
+  {
+   "symbol": "CENTS",
+   "name": "Centience (CENTS)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "TRUMPDAO",
+   "name": "TRUMP DAO (TRUMPDAO)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "BASEDCHILL",
+   "name": "Based Chill Guy (BASEDCHILL)",
+   "built_on": "BASE"
+  },
+  {
+   "symbol": "TYSON",
+   "name": "Mike Tyson (TYSON)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "SCRVUSD",
+   "name": "Savings crvUSD (SCRVUSD)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "GOLFI",
+   "name": "Golf is Boring (GOLFI)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "BANK",
+   "name": "Float Protocol (BANK)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "BABYSHIRO",
+   "name": "Baby Shiro Neko (BABYSHIRO)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "ASPIRIN",
+   "name": "Aspirin (ASPIRIN)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "COBY",
+   "name": "Coby (COBY)",
+   "built_on": "SOL"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "ZEDCOIN",
+   "name": "ZedCoin (ZEDCOIN)"
+  },
+  {
+   "symbol": "REP",
+   "name": "Augur (REP)",
+   "built_on": "ETH"
+  }
+ ]
+}

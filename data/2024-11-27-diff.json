@@ -1,0 +1,108 @@
+{
+ "added": [
+  {
+   "symbol": "INIK",
+   "name": "Ionik Corporation",
+   "exchange": "TSXV",
+   "yahoo_symbol": "INIK.V",
+   "instruments": [
+    {
+     "name": "Ionik Corporation",
+     "symbol": "INIK"
+    }
+   ]
+  },
+  {
+   "symbol": "CGTL",
+   "name": "Creative Global Technology Holdings Limited - Ordinary Shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "CGTL"
+  },
+  {
+   "symbol": "CHAR",
+   "name": "Charlton Aria Acquisition Corporation - Class A Ordinary Shares",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "CHAR"
+  },
+  {
+   "symbol": "CHARR",
+   "name": "Charlton Aria Acquisition Corporation - Rights",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "CHARR"
+  },
+  {
+   "symbol": "FACTU",
+   "name": "FACT II Acquisition Corp. - Unit",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "FACTU"
+  },
+  {
+   "symbol": "PLTR",
+   "name": "Palantir Technologies Inc. - Class A Common Stock",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "PLTR"
+  },
+  {
+   "symbol": "SHIM",
+   "name": "Shimmick Corporation - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "SHIM"
+  },
+  {
+   "symbol": "WYHG",
+   "name": "Wing Yip Food Holdings Group Limited - American Depositary Shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "WYHG"
+  },
+  {
+   "symbol": "BRIA",
+   "name": "BrilliA Inc Class A Ordinary Shares",
+   "exchange": "NYSE MKT",
+   "yahoo_symbol": "BRIA"
+  },
+  {
+   "symbol": "GEAR",
+   "name": "Revelyst, Inc. Common Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "GEAR"
+  },
+  {
+   "symbol": "GRO",
+   "name": "Brazil Potash Corp. Common Shares",
+   "exchange": "NYSE MKT",
+   "yahoo_symbol": "GRO"
+  },
+  {
+   "symbol": "VENU",
+   "name": "Venu Holding Corporation Common Stock",
+   "exchange": "NYSE MKT",
+   "yahoo_symbol": "VENU"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "NFAM",
+   "name": "NBI Canadian Family Business ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "NFAM.TO",
+   "instruments": [
+    {
+     "name": "NBI Cdn FamilyBusnss",
+     "symbol": "NFAM"
+    }
+   ]
+  },
+  {
+   "symbol": "SHIM",
+   "name": "Shimmick Corporation - Common Stock",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "SHIM"
+  },
+  {
+   "symbol": "VSTO",
+   "name": "Vista Outdoor Inc. Common Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "VSTO"
+  }
+ ]
+}
