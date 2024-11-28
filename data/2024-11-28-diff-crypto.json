@@ -1,0 +1,121 @@
+{
+ "added": [
+  {
+   "symbol": "EPENDLE",
+   "name": "Equilibria Pendle (EPENDLE)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "WMT",
+   "name": "World Mobile Token (WMT)"
+  },
+  {
+   "symbol": "DJI",
+   "name": "Doge Jones Industrial Average (DJI)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "SENSUS",
+   "name": "Sensus (SENSUS)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "XAND",
+   "name": "Xandeum (XAND)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "BULLY",
+   "name": "Dolos The Bully (BULLY)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "SOOTCASE",
+   "name": "I like my sootcase (SOOTCASE)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "DKP",
+   "name": "Dragginz (DKP)",
+   "built_on": "ICP"
+  },
+  {
+   "symbol": "BLUEBUTT",
+   "name": "BLUE BUTT CHEESE (BLUEBUTT)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "NEARK",
+   "name": "NearKat (NEARK)",
+   "built_on": "NEAR"
+  },
+  {
+   "symbol": "ZEDCOIN",
+   "name": "ZedCoin (ZEDCOIN)"
+  },
+  {
+   "symbol": "CRISPR",
+   "name": "CRISPR (CRISPR)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "WHINE",
+   "name": "Whine Coin (WHINE)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "BANANAF",
+   "name": "Banana For Scale (BANANAF)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "RVLTV1",
+   "name": "Revolt 2 Earn v1 (RVLTV1)"
+  },
+  {
+   "symbol": "SATORI",
+   "name": "Satori Network (SATORI)",
+   "built_on": "EVRM"
+  },
+  {
+   "symbol": "MOAI",
+   "name": "MOAI (MOAI)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "G",
+   "name": "Gravity (G)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "CBBTCBASE",
+   "name": "cbBTC (CBBTCBASE)"
+  },
+  {
+   "symbol": "GLORP",
+   "name": "Glorp (GLORP)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "BANKETH",
+   "name": "BankEth (BANKETH)"
+  },
+  {
+   "symbol": "KAILY",
+   "name": "Kailith (KAILY)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "DOGEFA",
+   "name": "DOGEFATHER (DOGEFA)",
+   "built_on": "SOL"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "WMT",
+   "name": "World Mobile Token (WMT)",
+   "built_on": "ADA"
+  }
+ ]
+}

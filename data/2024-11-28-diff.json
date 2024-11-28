@@ -1,0 +1,44 @@
+{
+ "added": [
+  {
+   "symbol": "PONY",
+   "name": "Pony AI Inc. - American Depositary Shares",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "PONY"
+  },
+  {
+   "symbol": "RADX",
+   "name": "Radiopharm Theranostics Limited - American Depositary Shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "RADX"
+  },
+  {
+   "symbol": "MNC",
+   "name": "Magnetic North Acquisition Corp.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "MNC.V",
+   "instruments": [
+    {
+     "name": "Magnetic North Acquisition Corp.",
+     "symbol": "MNC"
+    },
+    {
+     "name": "Magnetic North Acquisition Corp. pref a",
+     "symbol": "MNC.PR.A"
+    }
+   ]
+  },
+  {
+   "symbol": "SVRS",
+   "name": "Silver Storm Mining Ltd.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "SVRS.V",
+   "instruments": [
+    {
+     "name": "Silver Storm Mining Ltd.",
+     "symbol": "SVRS"
+    }
+   ]
+  }
+ ]
+}
