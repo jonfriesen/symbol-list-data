@@ -1,0 +1,54 @@
+{
+ "added": [
+  {
+   "symbol": "LSC.P",
+   "name": "Lombard Street Capital Corp.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "LSC.P.V",
+   "instruments": [
+    {
+     "name": "Lombard Street Capital Corp.",
+     "symbol": "LSC.P"
+    }
+   ]
+  },
+  {
+   "symbol": "MTVA",
+   "name": "MetaVia Inc.  - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "MTVA"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "MAGQ",
+   "name": "Roundhill Daily Inverse Magnificent Seven ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "MAGQ"
+  },
+  {
+   "symbol": "NRBO",
+   "name": "NeuroBo Pharmaceuticals, Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "NRBO"
+  },
+  {
+   "symbol": "CMAX",
+   "name": "CareMax, Inc. - Class A Common Stock",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "CMAX"
+  },
+  {
+   "symbol": "SCE$H",
+   "name": "SCE Trust III Fixed/Floating Rate Trust Preference Securities",
+   "exchange": "NYSE",
+   "yahoo_symbol": "SCE$H"
+  },
+  {
+   "symbol": "CMAXW",
+   "name": "CareMax, Inc. - Warrant",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "CMAXW"
+  }
+ ]
+}

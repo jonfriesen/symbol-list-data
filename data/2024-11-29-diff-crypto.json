@@ -1,0 +1,86 @@
+{
+ "added": [
+  {
+   "symbol": "DCF",
+   "name": "Decentralized Finance (DCF)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "VITARNA",
+   "name": "VitaRNA (VITARNA)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "WYAC",
+   "name": "Woman Yelling At Cat (WYAC)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "LCAT",
+   "name": "Lion Cat (LCAT)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "WMT",
+   "name": "World Mobile Token v1 (WMT)",
+   "built_on": "ADA"
+  },
+  {
+   "symbol": "ELONRWA",
+   "name": "ElonRWA (ELONRWA)",
+   "built_on": "BASE"
+  },
+  {
+   "symbol": "RUFF",
+   "name": "Ruff (RUFF)"
+  },
+  {
+   "symbol": "YOUSIM",
+   "name": "YouSim (YOUSIM)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "WMTX",
+   "name": "World Mobile Token (WMTX)",
+   "built_on": "ADA"
+  },
+  {
+   "symbol": "ROPIRITO",
+   "name": "Ropirito (ROPIRITO)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "CBBTCBASE",
+   "name": "cbBTC (CBBTCBASE)"
+  },
+  {
+   "symbol": "THRUST",
+   "name": "Thruster (THRUST)",
+   "built_on": "BLAST"
+  },
+  {
+   "symbol": "EBITCOIN",
+   "name": "eBitcoin (EBITCOIN)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "GETH",
+   "name": "Guarded Ether (GETH)"
+  },
+  {
+   "symbol": "BANKETH",
+   "name": "BankEth (BANKETH)"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "WMT",
+   "name": "World Mobile Token (WMT)"
+  },
+  {
+   "symbol": "RUFF",
+   "name": "Ruff (RUFF)",
+   "built_on": "ETH"
+  }
+ ]
+}
