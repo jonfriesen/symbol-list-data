@@ -1,0 +1,86 @@
+{
+ "added": [
+  {
+   "symbol": "ZON",
+   "name": "Zon Token (ZON)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "LFDOG",
+   "name": "lifedog (LFDOG)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "GETH",
+   "name": "Guarded Ether (GETH)"
+  },
+  {
+   "symbol": "DOBUY",
+   "name": "Just do buy (DOBUY)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "BANKETH",
+   "name": "BankEth (BANKETH)"
+  },
+  {
+   "symbol": "JANRO",
+   "name": "Janro The Rat (JANRO)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "IMMORTAL",
+   "name": "IMMORTAL.COM (IMMORTAL)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "STNK",
+   "name": "Stonks (STNK)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "KAPPY",
+   "name": "Kappy (KAPPY)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "RCGE",
+   "name": "RCGE (RCGE)",
+   "built_on": "ARB"
+  },
+  {
+   "symbol": "LESLIE",
+   "name": "Leslie (LESLIE)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "STEEL",
+   "name": "SteelCoin (STEEL)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "VITAMINS",
+   "name": "Vitamins (VITAMINS)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "MONET",
+   "name": "Claude Monet Memeory Coin (MONET)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "RIZZMAS",
+   "name": "Rizzmas (RIZZMAS)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "WERK",
+   "name": "Werk Family (WERK)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "CBBTCBASE",
+   "name": "cbBTC (CBBTCBASE)"
+  }
+ ]
+}

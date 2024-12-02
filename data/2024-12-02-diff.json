@@ -1,0 +1,198 @@
+{
+ "added": [
+  {
+   "symbol": "ISC",
+   "name": "Information Services Corporation",
+   "exchange": "TSX",
+   "yahoo_symbol": "ISC.TO",
+   "instruments": [
+    {
+     "name": "Info Serv Corp. A LV",
+     "symbol": "ISC"
+    }
+   ]
+  },
+  {
+   "symbol": "CLUP",
+   "name": "SavvyLong Geared Crude Oil ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "CLUP.TO",
+   "instruments": [
+    {
+     "name": "SavvyLong GeCrOi ETF",
+     "symbol": "CLUP"
+    }
+   ]
+  },
+  {
+   "symbol": "NGUP",
+   "name": "SavvyLong Geared Natural Gas ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "NGUP.TO",
+   "instruments": [
+    {
+     "name": "SavvyLong GeNaGa ETF",
+     "symbol": "NGUP"
+    }
+   ]
+  },
+  {
+   "symbol": "CLDN",
+   "name": "SavvyShort Geared Crude Oil ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "CLDN.TO",
+   "instruments": [
+    {
+     "name": "SavvyShort GeCrO ETF",
+     "symbol": "CLDN"
+    }
+   ]
+  },
+  {
+   "symbol": "NGDN",
+   "name": "SavvyShort Geared Natural Gas ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "NGDN.TO",
+   "instruments": [
+    {
+     "name": "SavvyShort GeNaG ETF",
+     "symbol": "NGDN"
+    }
+   ]
+  },
+  {
+   "symbol": "LPBB",
+   "name": "Launch Two Acquisition Corp. - Class A Ordinary Shares",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "LPBB"
+  },
+  {
+   "symbol": "LPBBW",
+   "name": "Launch Two Acquisition Corp. - Warrant",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "LPBBW"
+  },
+  {
+   "symbol": "QRTEA",
+   "name": "Qurate Retail, Inc. - Series A Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "QRTEA"
+  },
+  {
+   "symbol": "QRTEB",
+   "name": "Qurate Retail, Inc. - Series B Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "QRTEB"
+  },
+  {
+   "symbol": "QRTEP",
+   "name": "Qurate Retail, Inc. - 8.0% Fixed Rate Cumulative Redeemable Preferred Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "QRTEP"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "VRM",
+   "name": "Vroom, Inc. - Common Stock",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "VRM"
+  },
+  {
+   "symbol": "AMMO",
+   "name": "Bullet Exploration Inc.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "AMMO.V",
+   "instruments": [
+    {
+     "name": "Bullet Exploration Inc.",
+     "symbol": "AMMO"
+    }
+   ]
+  },
+  {
+   "symbol": "MNTN.W",
+   "name": "Everest Consolidator Acquisition Corporation Warrants, each whole warrant exercisable for one share of Class A Common Stock, at an exercise price of $11.50",
+   "exchange": "NYSE",
+   "yahoo_symbol": "MNTN.W"
+  },
+  {
+   "symbol": "FLDM",
+   "name": "Franklin International Multifactor Index ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "FLDM.TO",
+   "instruments": [
+    {
+     "name": "Franklin IntlMltfctr",
+     "symbol": "FLDM"
+    }
+   ]
+  },
+  {
+   "symbol": "FWCP",
+   "name": "Franklin Western Asset Core Plus Bond Fund",
+   "exchange": "TSX",
+   "yahoo_symbol": "FWCP.TO",
+   "instruments": [
+    {
+     "name": "Franklin WstCore+Bnd",
+     "symbol": "FWCP"
+    }
+   ]
+  },
+  {
+   "symbol": "FLGD",
+   "name": "Franklin Global Dividend Quality Index ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "FLGD.TO",
+   "instruments": [
+    {
+     "name": "Franklin GlblDivQual",
+     "symbol": "FLGD"
+    }
+   ]
+  },
+  {
+   "symbol": "QRTEB",
+   "name": "Qurate Retail, Inc. - Series B Common Stock",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "QRTEB"
+  },
+  {
+   "symbol": "MNTN",
+   "name": "Everest Consolidator Acquisition Corporation Class A Common Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "MNTN"
+  },
+  {
+   "symbol": "QRTEP",
+   "name": "Qurate Retail, Inc. - 8.0% Fixed Rate Cumulative Redeemable Preferred Stock",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "QRTEP"
+  },
+  {
+   "symbol": "MNTN.U",
+   "name": "Everest Consolidator Acquisition Corporation Units, each consisting of one share of Class A common stock and one-half of one redeemable warrant",
+   "exchange": "NYSE",
+   "yahoo_symbol": "MNTN.U"
+  },
+  {
+   "symbol": "QRTEA",
+   "name": "Qurate Retail, Inc. - Series A Common Stock",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "QRTEA"
+  },
+  {
+   "symbol": "ISV",
+   "name": "Information Services Corporation",
+   "exchange": "TSX",
+   "yahoo_symbol": "ISV.TO",
+   "instruments": [
+    {
+     "name": "Info Serv Corp. A LV",
+     "symbol": "ISV"
+    }
+   ]
+  }
+ ]
+}
