@@ -1,0 +1,108 @@
+{
+ "added": [
+  {
+   "symbol": "BACQ",
+   "name": "Bleichroeder Acquisition Corp. I - Class A Ordinary Shares",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "BACQ"
+  },
+  {
+   "symbol": "BACQR",
+   "name": "Bleichroeder Acquisition Corp. I - Right",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "BACQR"
+  },
+  {
+   "symbol": "CCIR",
+   "name": "Cohen Circle Acquisition Corp. I - Class A Ordinary Shares",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "CCIR"
+  },
+  {
+   "symbol": "CCIRW",
+   "name": "Cohen Circle Acquisition Corp. I - Warrant",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "CCIRW"
+  },
+  {
+   "symbol": "RDAC",
+   "name": "Rising Dragon Acquisition Corp. - Ordinary Shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "RDAC"
+  },
+  {
+   "symbol": "RDACR",
+   "name": "Rising Dragon Acquisition Corp. - Rights",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "RDACR"
+  },
+  {
+   "symbol": "UOKA",
+   "name": "MDJM LTD - Ordinary Shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "UOKA"
+  },
+  {
+   "symbol": "AHL$F",
+   "name": "Aspen Insurance Holdings Limited Depositary Shares, each representing a 1/1,000th Interest in a 7.00% Perpetual Non-Cumulative Preference Share",
+   "exchange": "NYSE",
+   "yahoo_symbol": "AHL$F"
+  },
+  {
+   "symbol": "RPT",
+   "name": "Rithm Property Trust Inc. Common stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "RPT"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "LBPH",
+   "name": "Longboard Pharmaceuticals, Inc. - Common Stock",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "LBPH"
+  },
+  {
+   "symbol": "EQC$D",
+   "name": "Equity Commonwealth 6.50% Pfd Conv Shs Ser D",
+   "exchange": "NYSE",
+   "yahoo_symbol": "EQC$D"
+  },
+  {
+   "symbol": "HTL",
+   "name": "Hamilton Thorne Ltd.",
+   "exchange": "TSX",
+   "yahoo_symbol": "HTL.TO",
+   "instruments": [
+    {
+     "name": "Hamilton Thorne Ltd.",
+     "symbol": "HTL"
+    }
+   ]
+  },
+  {
+   "symbol": "MDJH",
+   "name": "MDJM LTD - Ordinary Shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "MDJH"
+  },
+  {
+   "symbol": "ONCT",
+   "name": "Oncternal Therapeutics, Inc.  - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "ONCT"
+  },
+  {
+   "symbol": "TTGT",
+   "name": "TechTarget, Inc. - Common Stock",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "TTGT"
+  },
+  {
+   "symbol": "AJX",
+   "name": "Great Ajax Corp. Common Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "AJX"
+  }
+ ]
+}

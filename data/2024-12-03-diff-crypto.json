@@ -1,0 +1,120 @@
+{
+ "added": [
+  {
+   "symbol": "0X0",
+   "name": "0x0.ai (0X0)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "G",
+   "name": "Gravity (G)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "WELON",
+   "name": "WrappedElon (WELON)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "ATR",
+   "name": "Artrade (ATR)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "KYSOL",
+   "name": "Kyros Restaked SOL (KYSOL)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "MORI",
+   "name": "MEMENTO•MORI (Runes) (MORI)",
+   "built_on": "BTC"
+  },
+  {
+   "symbol": "QUASAR",
+   "name": "Quasar (QUASAR)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "MAID",
+   "name": "MaidSafe Coin (MAID)"
+  },
+  {
+   "symbol": "QMV",
+   "name": "Qumva Network (QMV)",
+   "built_on": "TON"
+  },
+  {
+   "symbol": "ATRV1",
+   "name": "Artrade v1 (ATRV1)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "UTON",
+   "name": "uTON (UTON)",
+   "built_on": "TON"
+  },
+  {
+   "symbol": "YBR",
+   "name": "YieldBricks (YBR)",
+   "built_on": "ARB"
+  },
+  {
+   "symbol": "BANKETH",
+   "name": "BankEth (BANKETH)"
+  },
+  {
+   "symbol": "VSTR",
+   "name": "Vestra DAO (VSTR)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "CONVO",
+   "name": "Prefrontal Cortex Convo Agent by Virtuals (CONVO)",
+   "built_on": "BASE"
+  },
+  {
+   "symbol": "OPUS",
+   "name": "Opus (OPUS)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "CBBTC",
+   "name": "Coinbase Wrapped BTC (CBBTC)",
+   "built_on": "BASE"
+  },
+  {
+   "symbol": "RLP",
+   "name": "Resolv RLP (RLP)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "ZFI",
+   "name": "Zyfi (ZFI)",
+   "built_on": "ZK"
+  },
+  {
+   "symbol": "ATHER",
+   "name": "Ather (ATHER)"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "0x0",
+   "name": "0x0.ai (0X0)"
+  },
+  {
+   "symbol": "ZEDCOIN",
+   "name": "ZedCoin (ZEDCOIN)"
+  },
+  {
+   "symbol": "ATR",
+   "name": "Ather (ATR)"
+  },
+  {
+   "symbol": "MAID",
+   "name": "MaidSafe Coin (MAID)",
+   "built_on": "ETH"
+  }
+ ]
+}
