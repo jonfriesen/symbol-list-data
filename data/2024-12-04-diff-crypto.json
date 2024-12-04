@@ -1,0 +1,92 @@
+{
+ "added": [
+  {
+   "symbol": "G",
+   "name": "Gravity (G)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "BUBBLES",
+   "name": "BUBBLES (BUBBLES)",
+   "built_on": "APT"
+  },
+  {
+   "symbol": "ZEDCOIN",
+   "name": "ZedCoin (ZEDCOIN)"
+  },
+  {
+   "symbol": "RTBL",
+   "name": "Rolling T-bill (RTBL)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "QUDEFI",
+   "name": "Qudefi (QUDEFI)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "VY",
+   "name": "Valinity (VY)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "MOODENGVIP",
+   "name": "MOO DENG (moodeng.vip) (MOODENGVIP)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "INCO",
+   "name": "InfinitiCoin (INCO)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "SANTAHAT",
+   "name": "SANTA HAT (SANTAHAT)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "FASTUSD",
+   "name": "Sei fastUSD (FASTUSD)",
+   "built_on": "SEI"
+  },
+  {
+   "symbol": "DG",
+   "name": "Decentral Games (DG)",
+   "built_on": "POL"
+  },
+  {
+   "symbol": "GUAN",
+   "name": "Guanciale by Virtuals (GUAN)",
+   "built_on": "BASE"
+  },
+  {
+   "symbol": "CBBTCBASE",
+   "name": "cbBTC (CBBTCBASE)"
+  },
+  {
+   "symbol": "LTAI",
+   "name": "LibertAI (LTAI)",
+   "built_on": "BASE"
+  },
+  {
+   "symbol": "YEETI",
+   "name": "YEETI 液体 (YEETI)"
+  },
+  {
+   "symbol": "AMORE",
+   "name": "Amocucinare (AMORE)",
+   "built_on": "TON"
+  },
+  {
+   "symbol": "BANK",
+   "name": "Float Protocol (BANK)",
+   "built_on": "ETH"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "DG",
+   "name": "Decentral Games (DG)"
+  }
+ ]
+}

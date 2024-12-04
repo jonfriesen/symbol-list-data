@@ -1,0 +1,54 @@
+{
+ "added": [
+  {
+   "symbol": "FSGS",
+   "name": "First Trust SMID Growth Strength ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "FSGS"
+  },
+  {
+   "symbol": "JUNS",
+   "name": "Jupiter Neurosciences, Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "JUNS"
+  },
+  {
+   "symbol": "METCZ",
+   "name": "Ramaco Resources, Inc. - 8.375% Senior Notes due 2029",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "METCZ"
+  },
+  {
+   "symbol": "PCMM",
+   "name": "BondBloxx Private Credit CLO ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "PCMM"
+  },
+  {
+   "symbol": "TTGT",
+   "name": "TechTarget, Inc. - Common Stock",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "TTGT"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "VZIO",
+   "name": "VIZIO Holding Corp. Class A Common Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "VZIO"
+  },
+  {
+   "symbol": "ATIP",
+   "name": "ATI Physical Therapy, Inc. Class A Common Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "ATIP"
+  },
+  {
+   "symbol": "RNSC",
+   "name": "Small Cap US Equity Select ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "RNSC"
+  }
+ ]
+}
