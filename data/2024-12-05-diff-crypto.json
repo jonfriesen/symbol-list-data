@@ -1,0 +1,65 @@
+{
+ "added": [
+  {
+   "symbol": "DEGATE",
+   "name": "DeGate (DEGATE)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "TREE",
+   "name": "HyperionX (TREE)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "ABTC",
+   "name": "aBTC (ABTC)",
+   "built_on": "APT"
+  },
+  {
+   "symbol": "STAU",
+   "name": "STAU (STAU)",
+   "built_on": "POL"
+  },
+  {
+   "symbol": "TETH",
+   "name": "Treehouse ETH (TETH)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "BANKETH",
+   "name": "BankEth (BANKETH)"
+  },
+  {
+   "symbol": "ECLD",
+   "name": "Ethernity Cloud (ECLD)",
+   "built_on": "POL"
+  },
+  {
+   "symbol": "NEKOARC",
+   "name": "Neko Arc (NEKOARC)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "GETH",
+   "name": "Guarded Ether (GETH)"
+  },
+  {
+   "symbol": "CBBTCBASE",
+   "name": "cbBTC (CBBTCBASE)"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "ZEDCOIN",
+   "name": "ZedCoin (ZEDCOIN)"
+  },
+  {
+   "symbol": "ECLD",
+   "name": "Ethernity Cloud (ECLD)"
+  },
+  {
+   "symbol": "TREE",
+   "name": "HyperionX (TREE)"
+  }
+ ]
+}

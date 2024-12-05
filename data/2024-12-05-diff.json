@@ -1,0 +1,66 @@
+{
+ "added": [
+  {
+   "symbol": "CEPI",
+   "name": "REX Crypto Equity Premium Income ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "CEPI"
+  },
+  {
+   "symbol": "CORO",
+   "name": "iShares International Country Rotation Active ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "CORO"
+  },
+  {
+   "symbol": "GFLW",
+   "name": "VictoryShares Free Cash Flow Growth ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "GFLW"
+  },
+  {
+   "symbol": "QBIG",
+   "name": "Invesco Top QQQ ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "QBIG"
+  },
+  {
+   "symbol": "QQLV",
+   "name": "Invesco QQQ Low Volatility ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "QQLV"
+  },
+  {
+   "symbol": "STEC",
+   "name": "Santech Holdings Limited - American Depositary Shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "STEC"
+  },
+  {
+   "symbol": "TAVIU",
+   "name": "Tavia Acquisition Corp. - Unit",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "TAVIU"
+  },
+  {
+   "symbol": "VOLT",
+   "name": "Tema Electrification ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "VOLT"
+  },
+  {
+   "symbol": "OPP$C",
+   "name": "RiverNorth/DoubleLine Strategic Opportunity Fund, Inc. 6.00% Series C Term Preferred Stock (Liquidation Preference $10.00 per share)",
+   "exchange": "NYSE MKT",
+   "yahoo_symbol": "OPP$C"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "STEC",
+   "name": "Santech Holdings Limited - American Depositary Shares",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "STEC"
+  }
+ ]
+}
