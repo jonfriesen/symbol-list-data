@@ -1,0 +1,144 @@
+{
+ "added": [
+  {
+   "symbol": "LNKS",
+   "name": "Linkers Industries Limited - Class A Ordinary Shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "LNKS"
+  },
+  {
+   "symbol": "SPHAU",
+   "name": "Shepherd Ave Capital Acquisition Corporation - Unit",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "SPHAU"
+  },
+  {
+   "symbol": "ZSPC",
+   "name": "zSpace, Inc. - Common stock",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "ZSPC"
+  },
+  {
+   "symbol": "CRBD",
+   "name": "Corebridge Financial Inc. 6.375% Junior Subordinated Notes due 2064",
+   "exchange": "NYSE",
+   "yahoo_symbol": "CRBD"
+  },
+  {
+   "symbol": "JACS.U",
+   "name": "Jackson Acquisition Company II Units, each consisting of one Class A ordinary share and one right to acquire one-tenth (1/10) of one Class A ordinary share",
+   "exchange": "NYSE",
+   "yahoo_symbol": "JACS.U"
+  },
+  {
+   "symbol": "SPFD",
+   "name": "Mulvihill Enhanced Split Preferred Share ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "SPFD.TO",
+   "instruments": [
+    {
+     "name": "Mulvihill EnSpPr ETF",
+     "symbol": "SPFD"
+    }
+   ]
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "GHIXU",
+   "name": "Gores Holdings IX, Inc. - Unit",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "GHIXU"
+  },
+  {
+   "symbol": "ENG",
+   "name": "ENGlobal Corporation - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "ENG"
+  },
+  {
+   "symbol": "RA.UN",
+   "name": "Middlefield Global Real Asset Fund",
+   "exchange": "TSX",
+   "yahoo_symbol": "RA.UN.TO",
+   "instruments": [
+    {
+     "name": "Middlefld GlbRl Asst",
+     "symbol": "RA.UN"
+    }
+   ]
+  },
+  {
+   "symbol": "GGG",
+   "name": "G6 Materials Corp.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "GGG.V",
+   "instruments": [
+    {
+     "name": "G6 Materials Corp.",
+     "symbol": "GGG"
+    }
+   ]
+  },
+  {
+   "symbol": "BIK.PR.A",
+   "name": "BIP Investment Corporation",
+   "exchange": "TSX",
+   "yahoo_symbol": "BIK.PR.A.TO",
+   "instruments": [
+    {
+     "name": "BIP Invest Ser 1 Pr",
+     "symbol": "BIK.PR.A"
+    }
+   ]
+  },
+  {
+   "symbol": "BOCNW",
+   "name": "Blue Ocean Acquisition Corp - Warrants",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "BOCNW"
+  },
+  {
+   "symbol": "GHIXW",
+   "name": "Gores Holdings IX, Inc. - Warrant",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "GHIXW"
+  },
+  {
+   "symbol": "GHIX",
+   "name": "Gores Holdings IX, Inc. - Class A Common Stock",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "GHIX"
+  },
+  {
+   "symbol": "BOCNU",
+   "name": "Blue Ocean Acquisition Corp - Units",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "BOCNU"
+  },
+  {
+   "symbol": "MOND",
+   "name": "Mondee Holdings, Inc. - Class A Common Stock",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "MOND"
+  },
+  {
+   "symbol": "XLVE",
+   "name": "Mulvihill U.S. Health Care Enhanced Yield ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "XLVE.TO",
+   "instruments": [
+    {
+     "name": "MulvhillUS HlthCrYld",
+     "symbol": "XLVE"
+    }
+   ]
+  },
+  {
+   "symbol": "BOCN",
+   "name": "Blue Ocean Acquisition Corp - Class A Ordinary Shares",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "BOCN"
+  }
+ ]
+}
