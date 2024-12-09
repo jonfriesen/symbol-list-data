@@ -1,0 +1,55 @@
+{
+ "added": [
+  {
+   "symbol": "ETHEREUMMEME",
+   "name": "Solana Ethereum Meme (ETHEREUMMEME)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "LIGHTSPEED",
+   "name": "LightSpeedCoin (LIGHTSPEED)"
+  },
+  {
+   "symbol": "HERMIONE",
+   "name": "Hermione (HERMIONE)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "BANKETH",
+   "name": "BankEth (BANKETH)"
+  },
+  {
+   "symbol": "G",
+   "name": "Gravity (G)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "CBBTCBASE",
+   "name": "cbBTC (CBBTCBASE)"
+  },
+  {
+   "symbol": "LSD",
+   "name": "Pontem Liquidswap (LSD)",
+   "built_on": "APT"
+  },
+  {
+   "symbol": "JFP",
+   "name": "JUSTICE FOR PEANUT (JFP)",
+   "built_on": "SOL"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "TETHER",
+   "name": "Hermione (TETHER)"
+  },
+  {
+   "symbol": "LSD",
+   "name": "LightSpeedCoin (LSD)"
+  },
+  {
+   "symbol": "ETHEREUM",
+   "name": "Solana Ethereum Meme (ETHEREUM)"
+  }
+ ]
+}

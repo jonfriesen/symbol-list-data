@@ -1,0 +1,162 @@
+{
+ "added": [
+  {
+   "symbol": "MSPR",
+   "name": "MSP Recovery, Inc. - Class A Common Stock",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "MSPR"
+  },
+  {
+   "symbol": "MSPRW",
+   "name": "MSP Recovery, Inc. - Warrant",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "MSPRW"
+  },
+  {
+   "symbol": "MSPRZ",
+   "name": "MSP Recovery, Inc. - Warrant",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "MSPRZ"
+  },
+  {
+   "symbol": "NAMI",
+   "name": "Jinxin Technology Holding Company - American Depositary Shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "NAMI"
+  },
+  {
+   "symbol": "TNMG",
+   "name": "TNL Mediagene - Ordinary Shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "TNMG"
+  },
+  {
+   "symbol": "PCG$X",
+   "name": "PG\u0026E Corp 6.000% Series A Mandatory Convertible Preferred Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "PCG$X"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "PFTA",
+   "name": "Perception Capital Corp. III - Class A Ordinary Share",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "PFTA"
+  },
+  {
+   "symbol": "PFTAW",
+   "name": "Perception Capital Corp. III - Warrant",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "PFTAW"
+  },
+  {
+   "symbol": "TLGYW",
+   "name": "TLGY Acquisition Corporation - Warrant",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "TLGYW"
+  },
+  {
+   "symbol": "LIFW",
+   "name": "MSP Recovery, Inc. - Class A Common Stock",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "LIFW"
+  },
+  {
+   "symbol": "STH",
+   "name": "Stelmine Canada Ltd.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "STH.V",
+   "instruments": [
+    {
+     "name": "Stelmine Canada Ltd.",
+     "symbol": "STH"
+    }
+   ]
+  },
+  {
+   "symbol": "ROCLU",
+   "name": "Roth CH Acquisition V Co. - Unit",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "ROCLU"
+  },
+  {
+   "symbol": "TLGYU",
+   "name": "TLGY Acquisition Corporation - Unit",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "TLGYU"
+  },
+  {
+   "symbol": "BTV",
+   "name": "BlueRush Inc.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "BTV.V",
+   "instruments": [
+    {
+     "name": "BlueRush Inc.",
+     "symbol": "BTV"
+    }
+   ]
+  },
+  {
+   "symbol": "PFTAU",
+   "name": "Perception Capital Corp. III - Unit",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "PFTAU"
+  },
+  {
+   "symbol": "TLGY",
+   "name": "TLGY Acquisition Corporation - Class A Ordinary Share",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "TLGY"
+  },
+  {
+   "symbol": "YORK",
+   "name": "York Harbour Metals Inc.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "YORK.V",
+   "instruments": [
+    {
+     "name": "York Harbour Metals Inc.",
+     "symbol": "YORK"
+    }
+   ]
+  },
+  {
+   "symbol": "ROCL",
+   "name": "Roth CH Acquisition V Co. - Common Stock",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "ROCL"
+  },
+  {
+   "symbol": "LIFWZ",
+   "name": "MSP Recovery, Inc. - Warrant",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "LIFWZ"
+  },
+  {
+   "symbol": "ROCLW",
+   "name": "Roth CH Acquisition V Co. - Warrant",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "ROCLW"
+  },
+  {
+   "symbol": "ARR",
+   "name": "Altius Renewable Royalties Corp.",
+   "exchange": "TSX",
+   "yahoo_symbol": "ARR.TO",
+   "instruments": [
+    {
+     "name": "Altius RenewRoylty J",
+     "symbol": "ARR"
+    }
+   ]
+  },
+  {
+   "symbol": "LIFWW",
+   "name": "MSP Recovery, Inc. - Warrant",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "LIFWW"
+  }
+ ]
+}
