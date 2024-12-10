@@ -1,0 +1,50 @@
+{
+ "added": [
+  {
+   "symbol": "AKUMA",
+   "name": "Akuma Inu (AKUMA)",
+   "built_on": "BASE"
+  },
+  {
+   "symbol": "AGENTFUN",
+   "name": "AgentFun.AI (AGENTFUN)",
+   "built_on": "CRO"
+  },
+  {
+   "symbol": "DGV1",
+   "name": "Decentral Games v1 (DGV1)"
+  },
+  {
+   "symbol": "SHIRO",
+   "name": "Shiro Neko (SHIRO)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "XMOON",
+   "name": "r/CryptoCurrency Moons v1 (XMOON)"
+  },
+  {
+   "symbol": "GUS",
+   "name": "Gus (GUS)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "G",
+   "name": "Gravity (G)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "BANKETH",
+   "name": "BankEth (BANKETH)"
+  },
+  {
+   "symbol": "CBBTCBASE",
+   "name": "cbBTC (CBBTCBASE)"
+  },
+  {
+   "symbol": "NOKUV1",
+   "name": "NOKU Master token v1 (NOKUV1)",
+   "built_on": "ETH"
+  }
+ ]
+}

@@ -1,0 +1,72 @@
+{
+ "added": [
+  {
+   "symbol": "DYNX",
+   "name": "Dynamix Corporation - Class A Ordinary Share",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "DYNX"
+  },
+  {
+   "symbol": "DYNXW",
+   "name": "Dynamix Corporation - Warrant",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "DYNXW"
+  },
+  {
+   "symbol": "MSPR",
+   "name": "MSP Recovery, Inc. - Class A Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "MSPR"
+  },
+  {
+   "symbol": "MSPRW",
+   "name": "MSP Recovery, Inc. - Warrant",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "MSPRW"
+  },
+  {
+   "symbol": "MSPRZ",
+   "name": "MSP Recovery, Inc. - Warrant",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "MSPRZ"
+  },
+  {
+   "symbol": "NEHC",
+   "name": "New Era Helium Inc - Common Stock",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "NEHC"
+  },
+  {
+   "symbol": "NEHCW",
+   "name": "New Era Helium Inc - Warrants",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "NEHCW"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "MSPRZ",
+   "name": "MSP Recovery, Inc. - Warrant",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "MSPRZ"
+  },
+  {
+   "symbol": "TCS",
+   "name": "Container Store (The) Common Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "TCS"
+  },
+  {
+   "symbol": "MSPR",
+   "name": "MSP Recovery, Inc. - Class A Common Stock",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "MSPR"
+  },
+  {
+   "symbol": "MSPRW",
+   "name": "MSP Recovery, Inc. - Warrant",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "MSPRW"
+  }
+ ]
+}
