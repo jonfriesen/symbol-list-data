@@ -1,0 +1,84 @@
+{
+ "added": [
+  {
+   "symbol": "XXIX",
+   "name": "XXIX Metal Corp.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "XXIX.V",
+   "instruments": [
+    {
+     "name": "XXIX Metal Corp.",
+     "symbol": "XXIX"
+    }
+   ]
+  },
+  {
+   "symbol": "BUFI",
+   "name": "AB International Buffer ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "BUFI"
+  },
+  {
+   "symbol": "BUFM",
+   "name": "AB Moderate Buffer ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "BUFM"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "THCPU",
+   "name": "Thunder Bridge Capital Partners IV, Inc. - Unit",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "THCPU"
+  },
+  {
+   "symbol": "ATEK.W",
+   "name": "Athena Technology Acquisition Corp. II Redeemable Warrants",
+   "exchange": "NYSE MKT",
+   "yahoo_symbol": "ATEK.W"
+  },
+  {
+   "symbol": "ATEK.U",
+   "name": "Athena Technology Acquisition Corp. II Units, each consisting of one share of Class A common stock, and one-half of one Redeemable Warrant",
+   "exchange": "NYSE MKT",
+   "yahoo_symbol": "ATEK.U"
+  },
+  {
+   "symbol": "THCP",
+   "name": "Thunder Bridge Capital Partners IV, Inc. - Class A Common Stock",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "THCP"
+  },
+  {
+   "symbol": "ATEK",
+   "name": "Athena Technology Acquisition Corp. II Class A Common Stock",
+   "exchange": "NYSE MKT",
+   "yahoo_symbol": "ATEK"
+  },
+  {
+   "symbol": "BIOR",
+   "name": "Biora Therapeutics, Inc.  - Common Stock",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "BIOR"
+  },
+  {
+   "symbol": "QCCU",
+   "name": "QC Copper and Gold Inc.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "QCCU.V",
+   "instruments": [
+    {
+     "name": "QC Copper and Gold Inc.",
+     "symbol": "QCCU"
+    }
+   ]
+  },
+  {
+   "symbol": "THCPW",
+   "name": "Thunder Bridge Capital Partners IV, Inc. - Warrant",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "THCPW"
+  }
+ ]
+}

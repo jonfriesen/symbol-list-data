@@ -1,0 +1,70 @@
+{
+ "added": [
+  {
+   "symbol": "AVAV1",
+   "name": "AVA v1 (AVAV1)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "SKICAT",
+   "name": "SKI MASK CAT (SKICAT)",
+   "built_on": "BASE"
+  },
+  {
+   "symbol": "GLS",
+   "name": "Glacier (GLS)",
+   "built_on": "BASE"
+  },
+  {
+   "symbol": "LANDW",
+   "name": "LandWolf (LANDW)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "ATRV1",
+   "name": "Artrade v1 (ATRV1)"
+  },
+  {
+   "symbol": "GLASS",
+   "name": "Glass Chain (GLASS)"
+  },
+  {
+   "symbol": "CBBTCBASE",
+   "name": "cbBTC (CBBTCBASE)"
+  },
+  {
+   "symbol": "BANK",
+   "name": "Float Protocol (BANK)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "ARTHERA",
+   "name": "Arthera (ARTHERA)"
+  },
+  {
+   "symbol": "G",
+   "name": "Gravity (G)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "OM",
+   "name": "MANTRA (OM)"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "OM",
+   "name": "MANTRA (OM)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "GLS",
+   "name": "Glass Chain (GLS)"
+  },
+  {
+   "symbol": "ATRV1",
+   "name": "Artrade v1 (ATRV1)",
+   "built_on": "BNB"
+  }
+ ]
+}
