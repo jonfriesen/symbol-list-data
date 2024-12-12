@@ -1,0 +1,84 @@
+{
+ "added": [
+  {
+   "symbol": "CAN",
+   "name": "Canadian Gold Resources Ltd.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "CAN.V",
+   "instruments": [
+    {
+     "name": "Canadian Gold Resources Ltd.",
+     "symbol": "CAN"
+    }
+   ]
+  },
+  {
+   "symbol": "ATLN",
+   "name": "Atlantic International Corp. - Common Stock",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "ATLN"
+  },
+  {
+   "symbol": "BRKD",
+   "name": "Direxion Daily BRKB Bear 1X Shares",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "BRKD"
+  },
+  {
+   "symbol": "BRKU",
+   "name": "Direxion Daily BRKB Bull 2X Shares",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "BRKU"
+  },
+  {
+   "symbol": "CNCK",
+   "name": "Coincheck Group N.V. - Ordinary Shares",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "CNCK"
+  },
+  {
+   "symbol": "CNCKW",
+   "name": "Coincheck Group N.V. - Warrants",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "CNCKW"
+  },
+  {
+   "symbol": "PLTD",
+   "name": "Direxion Daily PLTR Bear 1X Shares",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "PLTD"
+  },
+  {
+   "symbol": "PLTU",
+   "name": "Direxion Daily PLTR Bull 2X Shares",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "PLTU"
+  },
+  {
+   "symbol": "LUCK",
+   "name": "Lucky Strike Entertainment Corporation Class A Common Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "LUCK"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "WUCT",
+   "name": "UBS AG ETRACS Whitney U.S. Critical Technologies Index ETN",
+   "exchange": "NYSE ARCA",
+   "yahoo_symbol": "WUCT"
+  },
+  {
+   "symbol": "BOWL",
+   "name": "Bowlero Corp. Class A Common Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "BOWL"
+  },
+  {
+   "symbol": "AMTR",
+   "name": "ETRACS Alerian Midstream Energy Total Return Index ETN",
+   "exchange": "NYSE ARCA",
+   "yahoo_symbol": "AMTR"
+  }
+ ]
+}

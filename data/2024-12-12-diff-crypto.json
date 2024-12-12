@@ -1,0 +1,94 @@
+{
+ "added": [
+  {
+   "symbol": "FCTR",
+   "name": "FactorDAO (FCTR)",
+   "built_on": "ARB"
+  },
+  {
+   "symbol": "SUIAI",
+   "name": "SUI Agents (SUIAI)",
+   "built_on": "SUI"
+  },
+  {
+   "symbol": "HYPE",
+   "name": "Hype (HYPE)"
+  },
+  {
+   "symbol": "HERMY",
+   "name": "Hermy The Stallion (HERMY)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "DUKE",
+   "name": "Duke Inu (DUKE)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "CBBTCBASE",
+   "name": "cbBTC (CBBTCBASE)"
+  },
+  {
+   "symbol": "1GUY",
+   "name": "1GUY (1GUY)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "HYPEV1",
+   "name": "Hype v1 (HYPEV1)"
+  },
+  {
+   "symbol": "DELAY",
+   "name": "DegenLayer (DELAY)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "RURI",
+   "name": "Ruri - Truth Terminal's Crush (RURI)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "NIGHT",
+   "name": "Midnight (NIGHT)"
+  },
+  {
+   "symbol": "SSDX",
+   "name": "SpunkySDX (SSDX)",
+   "built_on": "ARB"
+  },
+  {
+   "symbol": "F",
+   "name": "SynFutures (F)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "BANKETH",
+   "name": "BankEth (BANKETH)"
+  },
+  {
+   "symbol": "G",
+   "name": "Gravity (G)",
+   "built_on": "ETH"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "DUKE",
+   "name": "Duke Inu (DUKE)"
+  },
+  {
+   "symbol": "HYPE",
+   "name": "Hype (HYPE)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "ZEDCOIN",
+   "name": "ZedCoin (ZEDCOIN)"
+  },
+  {
+   "symbol": "NIGHT",
+   "name": "Midnight (NIGHT)",
+   "built_on": "POL"
+  }
+ ]
+}
