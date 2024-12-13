@@ -1,0 +1,118 @@
+{
+ "added": [
+  {
+   "symbol": "FTII",
+   "name": "FutureTech II Acquisition Corp. - Class A Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "FTII"
+  },
+  {
+   "symbol": "FTIIU",
+   "name": "FutureTech II Acquisition Corp. - Unit",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "FTIIU"
+  },
+  {
+   "symbol": "FTIIW",
+   "name": "FutureTech II Acquisition Corp. - Warrant",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "FTIIW"
+  },
+  {
+   "symbol": "SMCL",
+   "name": "GraniteShares 2x Long SMCI Daily ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "SMCL"
+  },
+  {
+   "symbol": "TTAN",
+   "name": "ServiceTitan, Inc. - Class A Common Stock",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "TTAN"
+  },
+  {
+   "symbol": "MR.UN",
+   "name": "Melcor Real Estate Investment Trust",
+   "exchange": "TSX",
+   "yahoo_symbol": "MR.UN.TO",
+   "instruments": [
+    {
+     "name": "Melcor REIT Un",
+     "symbol": "MR.UN"
+    }
+   ]
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "EFC$E",
+   "name": "Ellington Financial Inc. 8.250% Series E Fixed-to-Floating Rate Cumulative Redeemable Preferred Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "EFC$E"
+  },
+  {
+   "symbol": "AY",
+   "name": "Atlantica Sustainable Infrastructure plc - Ordinary Shares",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "AY"
+  },
+  {
+   "symbol": "TFFP",
+   "name": "TFF Pharmaceuticals, Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "TFFP"
+  },
+  {
+   "symbol": "PMD",
+   "name": "Psychemedics Corporation - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "PMD"
+  },
+  {
+   "symbol": "FTIIU",
+   "name": "FutureTech II Acquisition Corp. - Unit",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "FTIIU"
+  },
+  {
+   "symbol": "FTIIW",
+   "name": "FutureTech II Acquisition Corp. - Warrant",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "FTIIW"
+  },
+  {
+   "symbol": "MR.DB.B",
+   "name": "Melcor Real Estate Investment Trust",
+   "exchange": "TSX",
+   "yahoo_symbol": "MR.DB.B.TO",
+   "instruments": [
+    {
+     "name": "Melcor REIT 5.1% Deb",
+     "symbol": "MR.DB.B"
+    },
+    {
+     "name": "Melcor REIT Un",
+     "symbol": "MR.UN"
+    }
+   ]
+  },
+  {
+   "symbol": "PGRU",
+   "name": "PropertyGuru Group Limited Ordinary Shares",
+   "exchange": "NYSE",
+   "yahoo_symbol": "PGRU"
+  },
+  {
+   "symbol": "FTII",
+   "name": "FutureTech II Acquisition Corp. - Class A Common Stock",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "FTII"
+  },
+  {
+   "symbol": "LUMO",
+   "name": "Lumos Pharma, Inc. - Common Stock",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "LUMO"
+  }
+ ]
+}

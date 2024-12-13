@@ -1,0 +1,82 @@
+{
+ "added": [
+  {
+   "symbol": "OPSECV1",
+   "name": "OpSec v1 (OPSECV1)"
+  },
+  {
+   "symbol": "MIDNIGHT",
+   "name": "Midnight (MIDNIGHT)",
+   "built_on": "POL"
+  },
+  {
+   "symbol": "GETH",
+   "name": "Guarded Ether (GETH)"
+  },
+  {
+   "symbol": "BANKETH",
+   "name": "BankEth (BANKETH)"
+  },
+  {
+   "symbol": "PURR",
+   "name": "Purr (PURR)",
+   "built_on": "HYPE"
+  },
+  {
+   "symbol": "SKI",
+   "name": "Ski Mask Dog (SKI)",
+   "built_on": "BASE"
+  },
+  {
+   "symbol": "ZEDCOIN",
+   "name": "ZedCoin (ZEDCOIN)"
+  },
+  {
+   "symbol": "SKILLC",
+   "name": "Skillchain (SKILLC)"
+  },
+  {
+   "symbol": "ALLMEE",
+   "name": "All.me (ALLMEE)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "ME",
+   "name": "Magic Eden (ME)"
+  },
+  {
+   "symbol": "SUPREMEFINANCE",
+   "name": "Hype (SUPREMEFINANCE)",
+   "built_on": "POL"
+  },
+  {
+   "symbol": "NIGHT",
+   "name": "Midnight (NIGHT)",
+   "built_on": "APT"
+  },
+  {
+   "symbol": "CBBTC",
+   "name": "Coinbase Wrapped BTC (CBBTC)",
+   "built_on": "BASE"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "NIGHT",
+   "name": "Midnight (NIGHT)"
+  },
+  {
+   "symbol": "PURR",
+   "name": "Purr (PURR)"
+  },
+  {
+   "symbol": "SKI",
+   "name": "Skillchain (SKI)"
+  },
+  {
+   "symbol": "ME",
+   "name": "All.me (ME)",
+   "built_on": "ETH"
+  }
+ ]
+}
