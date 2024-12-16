@@ -1,0 +1,234 @@
+{
+ "added": [
+  {
+   "symbol": "MATA",
+   "name": "Matador Technologies Inc.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "MATA.V",
+   "instruments": [
+    {
+     "name": "Matador Technologies Inc.",
+     "symbol": "MATA"
+    }
+   ]
+  },
+  {
+   "symbol": "FFM",
+   "name": "FireFly Metals Ltd.",
+   "exchange": "TSX",
+   "yahoo_symbol": "FFM.TO",
+   "instruments": [
+    {
+     "name": "FireFly Metals Ltd",
+     "symbol": "FFM"
+    }
+   ]
+  },
+  {
+   "symbol": "ALDF",
+   "name": "Aldel Financial II Inc. - Class A Ordinary Shares",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "ALDF"
+  },
+  {
+   "symbol": "ALDFW",
+   "name": "Aldel Financial II Inc. - Warrants",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "ALDFW"
+  },
+  {
+   "symbol": "AMOD",
+   "name": "Alpha Modus Holdings, Inc. - Class A Common Stock",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "AMOD"
+  },
+  {
+   "symbol": "AMODW",
+   "name": "Alpha Modus Holdings, Inc. - Warrant",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "AMODW"
+  },
+  {
+   "symbol": "AVR",
+   "name": "Anteris Technologies Global Corp. - Common Stock",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "AVR"
+  },
+  {
+   "symbol": "DRDBU",
+   "name": "Roman DBDR Acquisition Corp. II - Unit",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "DRDBU"
+  },
+  {
+   "symbol": "MLACU",
+   "name": "Mountain Lake Acquisition Corp. - Units",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "MLACU"
+  },
+  {
+   "symbol": "NTCL",
+   "name": "NETCLASS TECHNOLOGY INC - Class A Ordinary Shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "NTCL"
+  },
+  {
+   "symbol": "NVDG",
+   "name": "Leverage Shares 2X Long NVDA Daily ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "NVDG"
+  },
+  {
+   "symbol": "PVLA",
+   "name": "Palvella Therapeutics, Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "PVLA"
+  },
+  {
+   "symbol": "TSLG",
+   "name": "Leverage Shares 2X Long TSLA Daily ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "TSLG"
+  },
+  {
+   "symbol": "YHC",
+   "name": "LQR House Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "YHC"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "IVCP",
+   "name": "Swiftmerge Acquisition Corp. - Class A Ordinary Share",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "IVCP"
+  },
+  {
+   "symbol": "TSLT",
+   "name": "T-REX 2X Long Tesla Daily Target ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "TSLT"
+  },
+  {
+   "symbol": "AXIS",
+   "name": "Axis Auto Finance Inc.",
+   "exchange": "TSX",
+   "yahoo_symbol": "AXIS.TO",
+   "instruments": [
+    {
+     "name": "Axis Auto Finance",
+     "symbol": "AXIS"
+    }
+   ]
+  },
+  {
+   "symbol": "BSJO",
+   "name": "Invesco BulletShares 2024 High Yield Corporate Bond ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "BSJO"
+  },
+  {
+   "symbol": "INAQ",
+   "name": "Insight Acquisition Corp. - Class A Common Stock",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "INAQ"
+  },
+  {
+   "symbol": "WEL.U",
+   "name": "Integrated Wellness Acquisition Corp Units, each consisting of one Class A ordinary share and one-half of one redeemable warrant(",
+   "exchange": "NYSE",
+   "yahoo_symbol": "WEL.U"
+  },
+  {
+   "symbol": "IVCPW",
+   "name": "Swiftmerge Acquisition Corp. - Warrants",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "IVCPW"
+  },
+  {
+   "symbol": "BSCO",
+   "name": "Invesco BulletShares 2024 Corporate Bond ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "BSCO"
+  },
+  {
+   "symbol": "BSMO",
+   "name": "Invesco BulletShares 2024 Municipal Bond ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "BSMO"
+  },
+  {
+   "symbol": "PIRS",
+   "name": "Pieris Pharmaceuticals, Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "PIRS"
+  },
+  {
+   "symbol": "WEL.W",
+   "name": "Integrated Wellness Acquisition Corp Redeemable Warrants",
+   "exchange": "NYSE",
+   "yahoo_symbol": "WEL.W"
+  },
+  {
+   "symbol": "INAQU",
+   "name": "Insight Acquisition Corp. - Unit",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "INAQU"
+  },
+  {
+   "symbol": "TSLZ",
+   "name": "T-Rex 2X Inverse Tesla Daily Target ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "TSLZ"
+  },
+  {
+   "symbol": "IVCPU",
+   "name": "Swiftmerge Acquisition Corp. - Unit",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "IVCPU"
+  },
+  {
+   "symbol": "LQR",
+   "name": "LQR House Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "LQR"
+  },
+  {
+   "symbol": "TBC",
+   "name": "AT\u0026T Inc. 5.625% Global Notes due 2067",
+   "exchange": "NYSE",
+   "yahoo_symbol": "TBC"
+  },
+  {
+   "symbol": "SKAL.P",
+   "name": "Scaling Capital 1 Corp.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "SKAL.P.V",
+   "instruments": [
+    {
+     "name": "Scaling Capital 1 Corp.",
+     "symbol": "SKAL.P"
+    }
+   ]
+  },
+  {
+   "symbol": "WEL",
+   "name": "Integrated Wellness Acquisition Corp Class A Ordinary Shares",
+   "exchange": "NYSE",
+   "yahoo_symbol": "WEL"
+  },
+  {
+   "symbol": "AUMN",
+   "name": "Golden Minerals Company Common Stock",
+   "exchange": "NYSE MKT",
+   "yahoo_symbol": "AUMN"
+  },
+  {
+   "symbol": "INAQW",
+   "name": "Insight Acquisition Corp. - Warrant",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "INAQW"
+  }
+ ]
+}
