@@ -1,0 +1,234 @@
+{
+ "added": [
+  {
+   "symbol": "NMC",
+   "name": "Nuvau Minerals Inc.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "NMC.V",
+   "instruments": [
+    {
+     "name": "Nuvau Minerals Inc.",
+     "symbol": "NMC"
+    }
+   ]
+  },
+  {
+   "symbol": "ANNA",
+   "name": "AleAnna, Inc. - Class A Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "ANNA"
+  },
+  {
+   "symbol": "ANNAW",
+   "name": "AleAnna, Inc. - Warrant",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "ANNAW"
+  },
+  {
+   "symbol": "BEAG",
+   "name": "Bold Eagle Acquisition Corp. - Class A Ordinary Shares",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "BEAG"
+  },
+  {
+   "symbol": "BEAGR",
+   "name": "Bold Eagle Acquisition Corp. - Right",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "BEAGR"
+  },
+  {
+   "symbol": "BEEX",
+   "name": "The Beehive ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "BEEX"
+  },
+  {
+   "symbol": "OACC",
+   "name": "Oaktree Acquisition Corp. III Life Sciences - Class A Ordinary Share",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "OACC"
+  },
+  {
+   "symbol": "OACCW",
+   "name": "Oaktree Acquisition Corp. III Life Sciences - Warrant",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "OACCW"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "ZIONL",
+   "name": "Zions Bancorporation N.A. - 6.95% Fixed-to-Floating Rate Subordinated Notes due September 15, 2028",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "ZIONL"
+  },
+  {
+   "symbol": "GLLIR",
+   "name": "Globalink Investment Inc. - Rights",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "GLLIR"
+  },
+  {
+   "symbol": "HAIAW",
+   "name": "Healthcare AI Acquisition Corp. - Warrants",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "HAIAW"
+  },
+  {
+   "symbol": "BFAC.U",
+   "name": "Battery Future Acquisition Corp. Units, each consisting of one Class A ordinary share and one-half of one redeemable warrant",
+   "exchange": "NYSE",
+   "yahoo_symbol": "BFAC.U"
+  },
+  {
+   "symbol": "GLLIU",
+   "name": "Globalink Investment Inc. - Units",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "GLLIU"
+  },
+  {
+   "symbol": "TGAAW",
+   "name": "Target Global Acquisition I Corp. - Warrant",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "TGAAW"
+  },
+  {
+   "symbol": "HAIA",
+   "name": "Healthcare AI Acquisition Corp. - Class A Ordinary Shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "HAIA"
+  },
+  {
+   "symbol": "IGTAR",
+   "name": "Inception Growth Acquisition Limited - Rights",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "IGTAR"
+  },
+  {
+   "symbol": "GENE",
+   "name": "Genetic Technologies Ltd - American Depositary Shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "GENE"
+  },
+  {
+   "symbol": "EVE.W",
+   "name": "EVe Mobility Acquisition Corp Redeemable warrants, each whole warrant exercisable for one Class A ordinary share at an exercise price of $11.50",
+   "exchange": "NYSE MKT",
+   "yahoo_symbol": "EVE.W"
+  },
+  {
+   "symbol": "HAIAU",
+   "name": "Healthcare AI Acquisition Corp. - Units",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "HAIAU"
+  },
+  {
+   "symbol": "ACCB.P",
+   "name": "Aardvark 2 Capital Corp.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "ACCB.P.V",
+   "instruments": [
+    {
+     "name": "Aardvark 2 Capital Corp.",
+     "symbol": "ACCB.P"
+    }
+   ]
+  },
+  {
+   "symbol": "SGNL",
+   "name": "Signal Gold Inc.",
+   "exchange": "TSX",
+   "yahoo_symbol": "SGNL.TO",
+   "instruments": [
+    {
+     "name": "Signal Gold Inc. J",
+     "symbol": "SGNL"
+    }
+   ]
+  },
+  {
+   "symbol": "IGTAU",
+   "name": "Inception Growth Acquisition Limited - Units",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "IGTAU"
+  },
+  {
+   "symbol": "BFAC.W",
+   "name": "Battery Future Acquisition Corp. Warrants, each whole warrant exercisable for one Class A ordinary share at an exercise price of $11.50 per share",
+   "exchange": "NYSE",
+   "yahoo_symbol": "BFAC.W"
+  },
+  {
+   "symbol": "TGAA",
+   "name": "Target Global Acquisition I Corp. - Class A Ordinary Share",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "TGAA"
+  },
+  {
+   "symbol": "ZIONO",
+   "name": "Zions Bancorporation N.A. - Depositary Shares each representing a 1/40th ownership interest in a share of Series G Fixed/Floating-Rate Non-Cumulative Perpetual Preferred Stock",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "ZIONO"
+  },
+  {
+   "symbol": "TGAAU",
+   "name": "Target Global Acquisition I Corp. - Unit",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "TGAAU"
+  },
+  {
+   "symbol": "APXI",
+   "name": "APx Acquisition Corp. I - Class A Ordinary Share",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "APXI"
+  },
+  {
+   "symbol": "IBTE",
+   "name": "iShares iBonds Dec 2024 Term Treasury ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "IBTE"
+  },
+  {
+   "symbol": "IGTAW",
+   "name": "Inception Growth Acquisition Limited - Warrants",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "IGTAW"
+  },
+  {
+   "symbol": "BFAC",
+   "name": "Battery Future Acquisition Corp. Class A Ordinary Shares",
+   "exchange": "NYSE",
+   "yahoo_symbol": "BFAC"
+  },
+  {
+   "symbol": "GLLI",
+   "name": "Globalink Investment Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "GLLI"
+  },
+  {
+   "symbol": "EVE.U",
+   "name": "EVe Mobility Acquisition Corp Units, each consisting of one Class A ordinary share and one-half of one redeemable warrant(",
+   "exchange": "NYSE MKT",
+   "yahoo_symbol": "EVE.U"
+  },
+  {
+   "symbol": "IGTA",
+   "name": "Inception Growth Acquisition Limited - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "IGTA"
+  },
+  {
+   "symbol": "EVE",
+   "name": "EVe Mobility Acquisition Corp Class A Ordinary Shares",
+   "exchange": "NYSE MKT",
+   "yahoo_symbol": "EVE"
+  },
+  {
+   "symbol": "GLLIW",
+   "name": "Globalink Investment Inc. - Warrants",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "GLLIW"
+  }
+ ]
+}

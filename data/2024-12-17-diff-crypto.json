@@ -1,0 +1,69 @@
+{
+ "added": [
+  {
+   "symbol": "FRED",
+   "name": "First Convicted Raccon Fred (FRED)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "G",
+   "name": "Gravity (G)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "MONKY",
+   "name": "Wise Monkey (MONKY)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "SOSWAP",
+   "name": "Solana Swap (SOSWAP)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "BANK",
+   "name": "Float Protocol (BANK)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "GRIFFAIN",
+   "name": "GRIFFAIN (GRIFFAIN)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "ZEX",
+   "name": "Zeta (ZEX)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "PENGUI",
+   "name": "Penguiana (PENGUI)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "FREDE",
+   "name": "FREDEnergy (FREDE)",
+   "built_on": "XLM"
+  },
+  {
+   "symbol": "CBBTC",
+   "name": "Coinbase Wrapped BTC (CBBTC)",
+   "built_on": "BASE"
+  },
+  {
+   "symbol": "BTCBASE",
+   "name": "Bitcoin on Base (BTCBASE)",
+   "built_on": "BASE"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "FRED",
+   "name": "FREDEnergy (FRED)"
+  },
+  {
+   "symbol": "ZEDCOIN",
+   "name": "ZedCoin (ZEDCOIN)"
+  }
+ ]
+}
