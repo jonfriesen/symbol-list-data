@@ -1,0 +1,109 @@
+{
+ "added": [
+  {
+   "symbol": "CHEDDA",
+   "name": "Chedda (CHEDDA)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "BUB",
+   "name": "BUBCAT (BUB)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "SYNDOG",
+   "name": "Synthesizer Dog (SYNDOG)",
+   "built_on": "BASE"
+  },
+  {
+   "symbol": "BUBV1",
+   "name": "BUBCAT v1 (BUBV1)"
+  },
+  {
+   "symbol": "METADOGEV2",
+   "name": "MetaDoge V2 (METADOGEV2)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "ELYS",
+   "name": "Elys Network (ELYS)"
+  },
+  {
+   "symbol": "FLOPPA",
+   "name": "Floppa Cat (FLOPPA)",
+   "built_on": "BASE"
+  },
+  {
+   "symbol": "TDC",
+   "name": "Tidecoin (TDC)"
+  },
+  {
+   "symbol": "METADOGEV1",
+   "name": "MetaDoge V1 (METADOGEV1)"
+  },
+  {
+   "symbol": "RONNIE",
+   "name": "Ronnie (RONNIE)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "SYNK",
+   "name": "Synk (SYNK)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "TRACKEDBIO",
+   "name": "TrackedBio (TRACKEDBIO)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "POZO",
+   "name": "Pozo Coin (POZO)",
+   "built_on": "KAVA"
+  },
+  {
+   "symbol": "YUKO",
+   "name": "YUKO (YUKO)",
+   "built_on": "BASE"
+  },
+  {
+   "symbol": "VMANTA",
+   "name": "Bifrost Voucher MANTA (VMANTA)",
+   "built_on": "MANTA"
+  },
+  {
+   "symbol": "G",
+   "name": "Gravity (G)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "WART",
+   "name": "Warthog (WART)"
+  },
+  {
+   "symbol": "BANK",
+   "name": "Float Protocol (BANK)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "CBBTC",
+   "name": "Coinbase Wrapped BTC (CBBTC)",
+   "built_on": "BASE"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "CHEDDA",
+   "name": "Chedda (CHEDDA)"
+  },
+  {
+   "symbol": "METADOGEV2",
+   "name": "MetaDoge V2 (METADOGEV2)"
+  },
+  {
+   "symbol": "BUB",
+   "name": "BUBCAT (BUB)",
+   "built_on": "BASE"
+  }
+ ]
+}

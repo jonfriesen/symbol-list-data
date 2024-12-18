@@ -1,0 +1,158 @@
+{
+ "added": [
+  {
+   "symbol": "DVQQ",
+   "name": "WEBs Defined Volatility QQQ ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "DVQQ"
+  },
+  {
+   "symbol": "DVSP",
+   "name": "WEBs Defined Volatility SPY ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "DVSP"
+  },
+  {
+   "symbol": "FEAT",
+   "name": "YieldMax Dorsey Wright Featured 5 Income ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "FEAT"
+  },
+  {
+   "symbol": "FIVY",
+   "name": "YieldMax Dorsey Wright Hybrid 5 Income ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "FIVY"
+  },
+  {
+   "symbol": "FLDD",
+   "name": "FTAC Emerald Acquisition Corp. - Class A Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "FLDD"
+  },
+  {
+   "symbol": "GITS",
+   "name": "Global Interactive Technologies, Inc. Common Stock - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "GITS"
+  },
+  {
+   "symbol": "PHLT",
+   "name": "Performant Healthcare, Inc. - Common Stock",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "PHLT"
+  },
+  {
+   "symbol": "ZBAI",
+   "name": "ATIF Holdings Limited - Ordinary Shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "ZBAI"
+  },
+  {
+   "symbol": "EXOD",
+   "name": "Exodus Movement, Inc. Class A Common Stock",
+   "exchange": "NYSE MKT",
+   "yahoo_symbol": "EXOD"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "VCNX",
+   "name": "Vaccinex, Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "VCNX"
+  },
+  {
+   "symbol": "LEV",
+   "name": "Lion Electric Company (The)",
+   "exchange": "TSX",
+   "yahoo_symbol": "LEV.TO",
+   "instruments": [
+    {
+     "name": "Lion Electric Co J",
+     "symbol": "LEV"
+    },
+    {
+     "name": "Lion ElectricCo J Wt",
+     "symbol": "LEV.WT"
+    },
+    {
+     "name": "Lion Elect Co J A Wt",
+     "symbol": "LEV.WT.A"
+    }
+   ]
+  },
+  {
+   "symbol": "AKTS",
+   "name": "Akoustis Technologies, Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "AKTS"
+  },
+  {
+   "symbol": "BRKHW",
+   "name": "BurTech Acquisition Corp. - Warrants",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "BRKHW"
+  },
+  {
+   "symbol": "BRKHU",
+   "name": "BurTech Acquisition Corp. - Unit",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "BRKHU"
+  },
+  {
+   "symbol": "HRYU",
+   "name": "Hanryu Holdings, Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "HRYU"
+  },
+  {
+   "symbol": "DBGI",
+   "name": "Digital Brands Group, Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "DBGI"
+  },
+  {
+   "symbol": "ATIF",
+   "name": "ATIF Holdings Limited - Ordinary Shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "ATIF"
+  },
+  {
+   "symbol": "BRKH",
+   "name": "BurTech Acquisition Corp. - Class A Common Stock",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "BRKH"
+  },
+  {
+   "symbol": "DBGIW",
+   "name": "Digital Brands Group, Inc. - Warrant",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "DBGIW"
+  },
+  {
+   "symbol": "PNST.W",
+   "name": "Pinstripes Holdings, Inc. Warrants, each whole warrant exercisable for one share of Class A common stock at an exercise price of $11.50 per share",
+   "exchange": "NYSE",
+   "yahoo_symbol": "PNST.W"
+  },
+  {
+   "symbol": "PFMT",
+   "name": "Performant Healthcare, Inc. - Common Stock",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "PFMT"
+  },
+  {
+   "symbol": "CTLT",
+   "name": "Catalent, Inc. Common Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "CTLT"
+  },
+  {
+   "symbol": "FLD",
+   "name": "FTAC Emerald Acquisition Corp. - Class A Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "FLD"
+  }
+ ]
+}
