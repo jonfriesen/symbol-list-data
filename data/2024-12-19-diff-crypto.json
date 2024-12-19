@@ -1,0 +1,148 @@
+{
+ "added": [
+  {
+   "symbol": "M3M3",
+   "name": "M3M3 (M3M3)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "CHEEMS",
+   "name": "Cheems (CHEEMS)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "ZLDAV1",
+   "name": "ZELDA v1 (ZLDAV1)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "STEAKUSDC",
+   "name": "Steakhouse USDC Morpho Vault (STEAKUSDC)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "AAAHHM",
+   "name": "Plankton in Pain (AAAHHM)"
+  },
+  {
+   "symbol": "PEPU",
+   "name": "Pepe Unchained (PEPU)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "KIBA",
+   "name": "Kiba Inu (KIBA)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "PBTCV1",
+   "name": "pTokens BTC v1 (PBTCV1)"
+  },
+  {
+   "symbol": "TAXLESSTRUMP",
+   "name": "MAGA TAXLESS (TAXLESSTRUMP)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "BOBLS",
+   "name": "Boblles (BOBLS)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "SUSDS",
+   "name": "Savings USDS (SUSDS)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "FXN",
+   "name": "FXN (FXN)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "LILFLOKI",
+   "name": "Lil Floki (LILFLOKI)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "GRIFT",
+   "name": "ORBIT (GRIFT)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "G",
+   "name": "Gravity (G)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "GALA",
+   "name": "Gala (GALA)"
+  },
+  {
+   "symbol": "CBBTCBASE",
+   "name": "cbBTC (CBBTCBASE)"
+  },
+  {
+   "symbol": "BANK",
+   "name": "Float Protocol (BANK)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "LINGO",
+   "name": "Lingo (LINGO)",
+   "built_on": "BASE"
+  },
+  {
+   "symbol": "PBTC",
+   "name": "pTokens BTC (PBTC)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "DROP",
+   "name": "Dropil (DROP)",
+   "built_on": "XRP"
+  },
+  {
+   "symbol": "MOVE",
+   "name": "MarketMove (MOVE)"
+  },
+  {
+   "symbol": "ZLDA",
+   "name": "ZELDA 2.0 (ZLDA)",
+   "built_on": "ETH"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "ZLDA",
+   "name": "Zelda Inu (ZLDA)"
+  },
+  {
+   "symbol": "CHEEMS",
+   "name": "Cheems (CHEEMS)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "MOVE",
+   "name": "MarketMove (MOVE)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "KIBA",
+   "name": "Kiba Inu (KIBA)"
+  },
+  {
+   "symbol": "LILFLOKI",
+   "name": "Lil Floki (LILFLOKI)"
+  },
+  {
+   "symbol": "DROP",
+   "name": "Dropil (DROP)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "GALA",
+   "name": "Gala (GALA)",
+   "built_on": "ETH"
+  }
+ ]
+}

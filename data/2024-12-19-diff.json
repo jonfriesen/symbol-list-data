@@ -1,0 +1,108 @@
+{
+ "added": [
+  {
+   "symbol": "GAINI",
+   "name": "Gladstone Investment Corporation - 7.875% Notes due 2030",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "GAINI"
+  },
+  {
+   "symbol": "LEXI",
+   "name": "Alexis Practical Tactical ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "LEXI"
+  },
+  {
+   "symbol": "NCEW",
+   "name": "New Century Logistics (BVI) Limited - Ordinary Shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "NCEW"
+  },
+  {
+   "symbol": "STNC",
+   "name": "Hennessy Stance ESG ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "STNC"
+  },
+  {
+   "symbol": "TAX",
+   "name": "Cambria Tax Aware ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "TAX"
+  },
+  {
+   "symbol": "TSYY",
+   "name": "GraniteShares YieldBOOST TSLA ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "TSYY"
+  },
+  {
+   "symbol": "YSXT",
+   "name": "YSX Tech. Co., Ltd  - Class A Ordinary Shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "YSXT"
+  },
+  {
+   "symbol": "ZAP",
+   "name": "Global X U.S. Electrification ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "ZAP"
+  },
+  {
+   "symbol": "ECCU",
+   "name": "Eagle Point Credit Company Inc. 7.75% Notes due 2030",
+   "exchange": "NYSE",
+   "yahoo_symbol": "ECCU"
+  },
+  {
+   "symbol": "NPKI",
+   "name": "NPK International Inc. Common Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "NPKI"
+  },
+  {
+   "symbol": "RCD",
+   "name": "Ready Capital Corporation 9.00% Senior Notes due 2029",
+   "exchange": "NYSE",
+   "yahoo_symbol": "RCD"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "SMR.W",
+   "name": "NuScale Power Corporation Warrants, each exercisable for one share of Class A Common Stock at an exercise price of $11.50 per share",
+   "exchange": "NYSE",
+   "yahoo_symbol": "SMR.W"
+  },
+  {
+   "symbol": "NR",
+   "name": "Newpark Resources, Inc. Common Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "NR"
+  },
+  {
+   "symbol": "ZUM",
+   "name": "ZoomerMedia Limited",
+   "exchange": "TSXV",
+   "yahoo_symbol": "ZUM.V",
+   "instruments": [
+    {
+     "name": "ZoomerMedia Limited",
+     "symbol": "ZUM"
+    }
+   ]
+  },
+  {
+   "symbol": "LEV.A",
+   "name": "The Lion Electric Company Warrants to purchase common shares",
+   "exchange": "NYSE",
+   "yahoo_symbol": "LEV.A"
+  },
+  {
+   "symbol": "LEV",
+   "name": "The Lion Electric Company Common Shares",
+   "exchange": "NYSE",
+   "yahoo_symbol": "LEV"
+  }
+ ]
+}
