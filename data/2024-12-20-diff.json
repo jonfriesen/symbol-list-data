@@ -1,0 +1,120 @@
+{
+ "added": [
+  {
+   "symbol": "SHRX",
+   "name": "Sharp Therapeutics Corp.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "SHRX.V",
+   "instruments": [
+    {
+     "name": "Sharp Therapeutics Corp.",
+     "symbol": "SHRX"
+    }
+   ]
+  },
+  {
+   "symbol": "GLYC",
+   "name": "GlycoMimetics, Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "GLYC"
+  },
+  {
+   "symbol": "GSRT",
+   "name": "GSR III Acquisition Corp. - Ordinary Shares",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "GSRT"
+  },
+  {
+   "symbol": "GSRTR",
+   "name": "GSR III Acquisition Corp. - Right",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "GSRTR"
+  },
+  {
+   "symbol": "JXG",
+   "name": "JX Luxventure Limited - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "JXG"
+  },
+  {
+   "symbol": "LSE",
+   "name": "Leishen Energy Holding Co., Ltd. - Ordinary Shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "LSE"
+  },
+  {
+   "symbol": "ZTEN",
+   "name": "F/m 10-Year Investment Grade Corporate Bond ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "ZTEN"
+  },
+  {
+   "symbol": "ZTRE",
+   "name": "F/m 3-Year Investment Grade Corporate Bond ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "ZTRE"
+  },
+  {
+   "symbol": "ZTWO",
+   "name": "F/m 2-Year Investment Grade Corporate Bond ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "ZTWO"
+  },
+  {
+   "symbol": "PDPA",
+   "name": "Pearl Diver Credit Company Inc. 8.00% Series A Preferred Stock Due 2029",
+   "exchange": "NYSE",
+   "yahoo_symbol": "PDPA"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "CYTO",
+   "name": "Altamira Therapeutics Ltd. - Common Shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "CYTO"
+  },
+  {
+   "symbol": "JXJT",
+   "name": "JX Luxventure Limited - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "JXJT"
+  },
+  {
+   "symbol": "BROGW",
+   "name": "Brooge Energy Limited  - Warrant",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "BROGW"
+  },
+  {
+   "symbol": "EVP.P",
+   "name": "EVP Capital Inc.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "EVP.P.V",
+   "instruments": [
+    {
+     "name": "EVP Capital Inc.",
+     "symbol": "EVP.P"
+    }
+   ]
+  },
+  {
+   "symbol": "GLYC",
+   "name": "GlycoMimetics, Inc. - Common Stock",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "GLYC"
+  },
+  {
+   "symbol": "SMCP",
+   "name": "AlphaMark Actively Managed Small Cap ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "SMCP"
+  },
+  {
+   "symbol": "BSFC",
+   "name": "Blue Star Foods Corp. - Common stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "BSFC"
+  }
+ ]
+}

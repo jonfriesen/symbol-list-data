@@ -1,0 +1,78 @@
+{
+ "added": [
+  {
+   "symbol": "SOVRN",
+   "name": "Sovrun (SOVRN)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "CHEEMSCO",
+   "name": "Cheems (CHEEMSCO)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "TMAI",
+   "name": "Token Metrics AI (TMAI)",
+   "built_on": "BASE"
+  },
+  {
+   "symbol": "BANK",
+   "name": "Float Protocol (BANK)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "DROPIL",
+   "name": "Dropil (DROPIL)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "NYANTE",
+   "name": "Nyantereum International (NYANTE)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "PONCH",
+   "name": "Ponchiqs (PONCH)",
+   "built_on": "TON"
+  },
+  {
+   "symbol": "G",
+   "name": "Gravity (G)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "ZEDCOIN",
+   "name": "ZedCoin (ZEDCOIN)"
+  },
+  {
+   "symbol": "SOPH",
+   "name": "Sophon (SOPH)"
+  },
+  {
+   "symbol": "MOODENGSBS",
+   "name": "Moo Deng (moodeng.sbs) (MOODENGSBS)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "CBBTC",
+   "name": "Coinbase Wrapped BTC (CBBTC)",
+   "built_on": "BASE"
+  },
+  {
+   "symbol": "MARKETMOVE",
+   "name": "MarketMove (MARKETMOVE)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "KWEEN",
+   "name": "KWEEN (KWEEN)",
+   "built_on": "SOL"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "NYANTE",
+   "name": "Nyantereum International (NYANTE)"
+  }
+ ]
+}
