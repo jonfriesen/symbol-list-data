@@ -1,0 +1,100 @@
+{
+ "added": [
+  {
+   "symbol": "MOCHI",
+   "name": "Mochiswap (MOCHISWAP)",
+   "built_on": "BASE"
+  },
+  {
+   "symbol": "TARDI",
+   "name": "Tardi (TARDI)",
+   "built_on": "SUI"
+  },
+  {
+   "symbol": "PARTY",
+   "name": "Party (PARTY)",
+   "built_on": "MERL"
+  },
+  {
+   "symbol": "DRUGS",
+   "name": "Big Pharmai (DRUGS)"
+  },
+  {
+   "symbol": "CHEEMSV1",
+   "name": "Cheems (cheems.pet) v1 (CHEEMSV1)",
+   "built_on": "ZK"
+  },
+  {
+   "symbol": "SHIBELON",
+   "name": "ShibElon (SHIBELON)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "DEGEN",
+   "name": "Degen (DEGEN)"
+  },
+  {
+   "symbol": "TOMO",
+   "name": "Tomo Cat (TOMO)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "CBBTCBASE",
+   "name": "cbBTC (CBBTCBASE)"
+  },
+  {
+   "symbol": "KIBAV1",
+   "name": "Kiba Inu v1 (KIBAV1)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "3",
+   "name": "The Three Musketeers (3)"
+  },
+  {
+   "symbol": "HARRYPO",
+   "name": "HarryPotterObamaPacMan8Inu (HARRYPO)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "G",
+   "name": "Gravity (G)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "MOODENGBNB",
+   "name": "MOODENG (moodengbnb.com) (MOODENGBNB)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "BANKETH",
+   "name": "BankEth (BANKETH)"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "XRP8",
+   "name": "HarryPotterObamaPacMan8Inu (XRP8)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "MOCHI",
+   "name": "Mochiswap (MOCHI)"
+  },
+  {
+   "symbol": "DEGEN",
+   "name": "Degen (DEGEN)",
+   "built_on": "BASE"
+  },
+  {
+   "symbol": "SHIBELON",
+   "name": "ShibElon (SHIBELON)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "3",
+   "name": "The Three Musketeers (3)",
+   "built_on": "SOL"
+  }
+ ]
+}

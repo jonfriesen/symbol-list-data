@@ -1,0 +1,306 @@
+{
+ "added": [
+  {
+   "symbol": "AOHY",
+   "name": "Angel Oak High Yield Opportunities ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "AOHY"
+  },
+  {
+   "symbol": "CARY",
+   "name": "Angel Oak Income ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "CARY"
+  },
+  {
+   "symbol": "FACT",
+   "name": "FACT II Acquisition Corp. - Class A Ordinary Shares",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "FACT"
+  },
+  {
+   "symbol": "FACTW",
+   "name": "FACT II Acquisition Corp. - Warrant",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "FACTW"
+  },
+  {
+   "symbol": "MBS",
+   "name": "Angel Oak Mortgage-Backed Securities ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "MBS"
+  },
+  {
+   "symbol": "NUSI",
+   "name": "NEOS Nasdaq-100 Hedged Equity Income ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "NUSI"
+  },
+  {
+   "symbol": "RANGU",
+   "name": "Range Capital Acquisition Corp. - Units",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "RANGU"
+  },
+  {
+   "symbol": "TAVI",
+   "name": "Tavia Acquisition Corp. - Ordinary Shares",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "TAVI"
+  },
+  {
+   "symbol": "TAVIR",
+   "name": "Tavia Acquisition Corp. - Right",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "TAVIR"
+  },
+  {
+   "symbol": "UYLD",
+   "name": "Angel Oak UltraShort Income ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "UYLD"
+  },
+  {
+   "symbol": "YAAS",
+   "name": "Youxin Technology Ltd - Class A Ordinary shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "YAAS"
+  },
+  {
+   "symbol": "WPG",
+   "name": "West Point Gold Corp.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "WPG.V",
+   "instruments": [
+    {
+     "name": "West Point Gold Corp.",
+     "symbol": "WPG"
+    }
+   ]
+  },
+  {
+   "symbol": "PMEI.UN",
+   "name": "PIMCO Monthly Enhanced Income Fund",
+   "exchange": "TSX",
+   "yahoo_symbol": "PMEI.UN.TO",
+   "instruments": [
+    {
+     "name": "PIMCO Mo Enhanced In",
+     "symbol": "PMEI.UN"
+    }
+   ]
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "PIX.UN",
+   "name": "PIMCO Multi-Sector Income Fund",
+   "exchange": "TSX",
+   "yahoo_symbol": "PIX.UN.TO",
+   "instruments": [
+    {
+     "name": "PIMCO MultiSecIncm A",
+     "symbol": "PIX.UN"
+    }
+   ]
+  },
+  {
+   "symbol": "NTG",
+   "name": "Tortoise Midstream Energy Fund, Inc. Common Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "NTG"
+  },
+  {
+   "symbol": "PTI.UN",
+   "name": "PIMCO Tactical Income Fund",
+   "exchange": "TSX",
+   "yahoo_symbol": "PTI.UN.TO",
+   "instruments": [
+    {
+     "name": "PIMCO Tact Incm A Un",
+     "symbol": "PTI.UN"
+    }
+   ]
+  },
+  {
+   "symbol": "TPZ",
+   "name": "Tortoise Power and Energy Infrastructure Fund, Inc Common Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "TPZ"
+  },
+  {
+   "symbol": "OUST",
+   "name": "Ouster, Inc. Common Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "OUST"
+  },
+  {
+   "symbol": "PLRB",
+   "name": "Pluribus Technologies Corp.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "PLRB.V",
+   "instruments": [
+    {
+     "name": "Pluribus Technologies Corp.",
+     "symbol": "PLRB"
+    }
+   ]
+  },
+  {
+   "symbol": "NDP",
+   "name": "Tortoise Energy Independence Fund, Inc. Common Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "NDP"
+  },
+  {
+   "symbol": "AGR",
+   "name": "Avangrid, Inc. Common Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "AGR"
+  },
+  {
+   "symbol": "NCP",
+   "name": "Nickel Creek Platinum Corp.",
+   "exchange": "TSX",
+   "yahoo_symbol": "NCP.TO",
+   "instruments": [
+    {
+     "name": "Nickel CrkPlatinum J",
+     "symbol": "NCP"
+    }
+   ]
+  },
+  {
+   "symbol": "KACLU",
+   "name": "Kairous Acquisition Corp. Limited - Unit",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "KACLU"
+  },
+  {
+   "symbol": "CFFS",
+   "name": "CF Acquisition Corp. VII - Class A Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "CFFS"
+  },
+  {
+   "symbol": "KACL",
+   "name": "Kairous Acquisition Corp. Limited - Ordinary Shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "KACL"
+  },
+  {
+   "symbol": "ALSAR",
+   "name": "Alpha Star Acquisition Corporation - Rights",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "ALSAR"
+  },
+  {
+   "symbol": "ALSAW",
+   "name": "Alpha Star Acquisition Corporation - Warrants",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "ALSAW"
+  },
+  {
+   "symbol": "PRLHU",
+   "name": "Pearl Holdings Acquisition Corp - Unit",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "PRLHU"
+  },
+  {
+   "symbol": "PRLH",
+   "name": "Pearl Holdings Acquisition Corp - Class A Ordinary Shares",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "PRLH"
+  },
+  {
+   "symbol": "ALSA",
+   "name": "Alpha Star Acquisition Corporation - Ordinary Shares",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "ALSA"
+  },
+  {
+   "symbol": "TTP",
+   "name": "Tortoise Pipeline \u0026 Energy Fund, Inc. Common Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "TTP"
+  },
+  {
+   "symbol": "OUST.A",
+   "name": "Ouster, Inc. Warrants to purchase Common Stock",
+   "exchange": "NYSE MKT",
+   "yahoo_symbol": "OUST.A"
+  },
+  {
+   "symbol": "KACLW",
+   "name": "Kairous Acquisition Corp. Limited - Warrants",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "KACLW"
+  },
+  {
+   "symbol": "CFFSW",
+   "name": "CF Acquisition Corp. VII - Warrant",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "CFFSW"
+  },
+  {
+   "symbol": "PTO.UN",
+   "name": "PIMCO Tactical Income Opportunities Fund",
+   "exchange": "TSX",
+   "yahoo_symbol": "PTO.UN.TO",
+   "instruments": [
+    {
+     "name": "PIMCO Tact IncmOpp A",
+     "symbol": "PTO.UN"
+    }
+   ]
+  },
+  {
+   "symbol": "AUU",
+   "name": "Gold79 Mines Ltd.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "AUU.V",
+   "instruments": [
+    {
+     "name": "Gold79 Mines Ltd.",
+     "symbol": "AUU"
+    }
+   ]
+  },
+  {
+   "symbol": "CFFSU",
+   "name": "CF Acquisition Corp. VII - Unit",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "CFFSU"
+  },
+  {
+   "symbol": "OUST.W",
+   "name": "Ouster, Inc. Warrants",
+   "exchange": "NYSE",
+   "yahoo_symbol": "OUST.W"
+  },
+  {
+   "symbol": "ALSAU",
+   "name": "Alpha Star Acquisition Corporation - Units",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "ALSAU"
+  },
+  {
+   "symbol": "KACLR",
+   "name": "Kairous Acquisition Corp. Limited - Rights",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "KACLR"
+  },
+  {
+   "symbol": "PRIF$G",
+   "name": "Priority Income Fund, Inc. 6.25% Series G Preferred Stock Due 2026",
+   "exchange": "NYSE",
+   "yahoo_symbol": "PRIF$G"
+  },
+  {
+   "symbol": "PRLHW",
+   "name": "Pearl Holdings Acquisition Corp - Warrant",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "PRLHW"
+  }
+ ]
+}
