@@ -1,0 +1,108 @@
+{
+ "added": [
+  {
+   "symbol": "NCP",
+   "name": "Nickel Creek Platinum Corp.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "NCP.V",
+   "instruments": [
+    {
+     "name": "Nickel Creek Platinum Corp.",
+     "symbol": "NCP"
+    }
+   ]
+  },
+  {
+   "symbol": "HIT",
+   "name": "Health In Tech, Inc. - Class A Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "HIT"
+  },
+  {
+   "symbol": "NEUP",
+   "name": "Neuphoria Therapeutics Inc. - Common Stock",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "NEUP"
+  },
+  {
+   "symbol": "OUST",
+   "name": "Ouster, Inc. - Common Stock",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "OUST"
+  },
+  {
+   "symbol": "OUSTW",
+   "name": "Ouster, Inc. - Warrants",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "OUSTW"
+  },
+  {
+   "symbol": "OUSTZ",
+   "name": "Ouster, Inc. - Warrants",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "OUSTZ"
+  },
+  {
+   "symbol": "TDACU",
+   "name": "Translational Development Acquisition Corp. - Units",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "TDACU"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "IVCB",
+   "name": "Investcorp Europe Acquisition Corp I - Class A Ordinary Shares",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "IVCB"
+  },
+  {
+   "symbol": "NAPA",
+   "name": "The Duckhorn Portfolio, Inc. Common Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "NAPA"
+  },
+  {
+   "symbol": "FRES",
+   "name": "Fresh2 Group Limited - American Depositary Shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "FRES"
+  },
+  {
+   "symbol": "IVCBW",
+   "name": "Investcorp Europe Acquisition Corp I - Warrant",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "IVCBW"
+  },
+  {
+   "symbol": "FLDDW",
+   "name": "FTAC Emerald Acquisition Corp. - Warrant",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "FLDDW"
+  },
+  {
+   "symbol": "IVCBU",
+   "name": "Investcorp Europe Acquisition Corp I - Unit",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "IVCBU"
+  },
+  {
+   "symbol": "FLDD",
+   "name": "FTAC Emerald Acquisition Corp. - Class A Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "FLDD"
+  },
+  {
+   "symbol": "BNOX",
+   "name": "Bionomics Limited - Common Stock",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "BNOX"
+  },
+  {
+   "symbol": "FLDDU",
+   "name": "FTAC Emerald Acquisition Corp. - Unit",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "FLDDU"
+  }
+ ]
+}

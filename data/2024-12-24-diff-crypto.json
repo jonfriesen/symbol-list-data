@@ -1,0 +1,49 @@
+{
+ "added": [
+  {
+   "symbol": "NIRVA",
+   "name": "Nirvana (NIRVA)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "GETH",
+   "name": "Guarded Ether (GETH)"
+  },
+  {
+   "symbol": "888",
+   "name": "888 (888)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "CBBTCBASE",
+   "name": "cbBTC (CBBTCBASE)"
+  },
+  {
+   "symbol": "OCTOCOIN",
+   "name": "Octocoin (OCTOCOIN)"
+  },
+  {
+   "symbol": "BANKETH",
+   "name": "BankEth (BANKETH)"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "OCTOC",
+   "name": "OctoCoin (OCTOC)"
+  },
+  {
+   "symbol": "VANA",
+   "name": "Nirvana (VANA)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "ZEDCOIN",
+   "name": "ZedCoin (ZEDCOIN)"
+  },
+  {
+   "symbol": "888",
+   "name": "Octocoin (888)"
+  }
+ ]
+}
