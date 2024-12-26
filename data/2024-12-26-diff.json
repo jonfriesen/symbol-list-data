@@ -1,0 +1,16 @@
+{
+ "removed": [
+  {
+   "symbol": "PIK",
+   "name": "Kidpik Corp. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "PIK"
+  },
+  {
+   "symbol": "MTEM",
+   "name": "Molecular Templates, Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "MTEM"
+  }
+ ]
+}
