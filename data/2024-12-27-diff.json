@@ -1,0 +1,78 @@
+{
+ "added": [
+  {
+   "symbol": "PDN",
+   "name": "Paladin Energy Ltd.",
+   "exchange": "TSX",
+   "yahoo_symbol": "PDN.TO",
+   "instruments": [
+    {
+     "name": "Paladin Energy Ltd",
+     "symbol": "PDN"
+    }
+   ]
+  },
+  {
+   "symbol": "PSIX",
+   "name": "Power Solutions International, Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "PSIX"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "IVR$B",
+   "name": "Invesco Mortgage Capital Inc. Preferred Series B Cum Fxd to Fltg",
+   "exchange": "NYSE",
+   "yahoo_symbol": "IVR$B"
+  },
+  {
+   "symbol": "NVACW",
+   "name": "NorthView Acquisition Corporation - Warrant",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "NVACW"
+  },
+  {
+   "symbol": "MITAW",
+   "name": "Coliseum Acquisition Corp. - Warrant",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "MITAW"
+  },
+  {
+   "symbol": "MITAU",
+   "name": "Coliseum Acquisition Corp. - Unit",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "MITAU"
+  },
+  {
+   "symbol": "NVAC",
+   "name": "NorthView Acquisition Corporation - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "NVAC"
+  },
+  {
+   "symbol": "MITA",
+   "name": "Coliseum Acquisition Corp. - Class A Ordinary Share",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "MITA"
+  },
+  {
+   "symbol": "FCU",
+   "name": "Fission Uranium Corp.",
+   "exchange": "TSX",
+   "yahoo_symbol": "FCU.TO",
+   "instruments": [
+    {
+     "name": "Fission Uranium J",
+     "symbol": "FCU"
+    }
+   ]
+  },
+  {
+   "symbol": "NVACR",
+   "name": "NorthView Acquisition Corporation - Rights",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "NVACR"
+  }
+ ]
+}
