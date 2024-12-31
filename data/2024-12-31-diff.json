@@ -1,0 +1,54 @@
+{
+ "added": [
+  {
+   "symbol": "EGGQ",
+   "name": "NestYield Visionary ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "EGGQ"
+  },
+  {
+   "symbol": "WLAC",
+   "name": "Willow Lane Acquisition Corp. - Class A Ordinary Shares",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "WLAC"
+  },
+  {
+   "symbol": "WLACW",
+   "name": "Willow Lane Acquisition Corp. - Warrants",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "WLACW"
+  },
+  {
+   "symbol": "OPHC",
+   "name": "OptimumBank Holdings, Inc. Common Stock",
+   "exchange": "NYSE MKT",
+   "yahoo_symbol": "OPHC"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "OPHC",
+   "name": "OptimumBank Holdings, Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "OPHC"
+  },
+  {
+   "symbol": "DNMR",
+   "name": "Danimer Scientific, Inc. Common Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "DNMR"
+  },
+  {
+   "symbol": "FLY",
+   "name": "FLYHT Aerospace Solutions Ltd.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "FLY.V",
+   "instruments": [
+    {
+     "name": "FLYHT Aerospace Solutions Ltd.",
+     "symbol": "FLY"
+    }
+   ]
+  }
+ ]
+}
