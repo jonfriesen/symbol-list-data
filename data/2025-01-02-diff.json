@@ -1,0 +1,162 @@
+{
+ "added": [
+  {
+   "symbol": "NHPAP",
+   "name": "National Healthcare Properties, Inc. - 7.375% Series A Cumulative Redeemable Perpetual Preferred Stock",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "NHPAP"
+  },
+  {
+   "symbol": "NHPBP",
+   "name": "National Healthcare Properties, Inc. - 7.125% Series B Cumulative Redeemable Perpetual Preferred Stock",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "NHPBP"
+  },
+  {
+   "symbol": "ONC",
+   "name": "BeiGene, Ltd. - American Depositary Shares",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "ONC"
+  },
+  {
+   "symbol": "AAMI",
+   "name": "Acadian Asset Management Inc. Common Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "AAMI"
+  },
+  {
+   "symbol": "PRSU",
+   "name": "Pursuit Attractions and Hospitality, Inc. Common Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "PRSU"
+  },
+  {
+   "symbol": "NVLH",
+   "name": "Nevada Lithium Resources Inc.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "NVLH.V",
+   "instruments": [
+    {
+     "name": "Nevada Lithium Resources Inc.",
+     "symbol": "NVLH"
+    }
+   ]
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "HTIBP",
+   "name": "National Healthcare Properties, Inc. - 7.125% Series B Cumulative Redeemable Perpetual Preferred Stock",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "HTIBP"
+  },
+  {
+   "symbol": "AILEW",
+   "name": "iLearningEngines, Inc. - Warrant",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "AILEW"
+  },
+  {
+   "symbol": "MCW",
+   "name": "Mister Car Wash, Inc. Common Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "MCW"
+  },
+  {
+   "symbol": "AL",
+   "name": "ALX Resources Corp.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "AL.V",
+   "instruments": [
+    {
+     "name": "ALX Resources Corp.",
+     "symbol": "AL"
+    }
+   ]
+  },
+  {
+   "symbol": "BGNE",
+   "name": "BeiGene, Ltd. - American Depositary Shares",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "BGNE"
+  },
+  {
+   "symbol": "DPZ",
+   "name": "Domino's Pizza Inc Common Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "DPZ"
+  },
+  {
+   "symbol": "BSIG",
+   "name": "BrightSphere Investment Group Inc. Common Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "BSIG"
+  },
+  {
+   "symbol": "GHML",
+   "name": "Golden Horse Minerals Limited",
+   "exchange": "TSXV",
+   "yahoo_symbol": "GHML.V",
+   "instruments": [
+    {
+     "name": "Golden Horse Minerals Limited",
+     "symbol": "GHML"
+    }
+   ]
+  },
+  {
+   "symbol": "IBTX",
+   "name": "Independent Bank Group, Inc - Common Stock",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "IBTX"
+  },
+  {
+   "symbol": "IBG.DB.E",
+   "name": "IBI Group Inc.",
+   "exchange": "TSX",
+   "yahoo_symbol": "IBG.DB.E.TO",
+   "instruments": [
+    {
+     "name": "IBI Group 6.50% Deb",
+     "symbol": "IBG.DB.E"
+    }
+   ]
+  },
+  {
+   "symbol": "AILE",
+   "name": "iLearningEngines, Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "AILE"
+  },
+  {
+   "symbol": "INSP",
+   "name": "Inspire Semiconductor Holdings Inc.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "INSP.V",
+   "instruments": [
+    {
+     "name": "Inspire Semiconductor Holdings Inc.",
+     "symbol": "INSP"
+    }
+   ]
+  },
+  {
+   "symbol": "AHL$C",
+   "name": "Aspen Insurance Holdings Limited 5.95% Fixed-to-Floating Rate Perpetual Non-Cumulative Preference Shares",
+   "exchange": "NYSE",
+   "yahoo_symbol": "AHL$C"
+  },
+  {
+   "symbol": "HTIA",
+   "name": "National Healthcare Properties, Inc. - 7.375% Series A Cumulative Redeemable Perpetual Preferred Stock",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "HTIA"
+  },
+  {
+   "symbol": "VVI",
+   "name": "Viad Corp Common Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "VVI"
+  }
+ ]
+}
