@@ -1,0 +1,186 @@
+{
+ "added": [
+  {
+   "symbol": "CYG",
+   "name": "Cygnus Metals Limited",
+   "exchange": "TSXV",
+   "yahoo_symbol": "CYG.V",
+   "instruments": [
+    {
+     "name": "Cygnus Metals Limited",
+     "symbol": "CYG"
+    }
+   ]
+  },
+  {
+   "symbol": "RPR.DB",
+   "name": "Ravelin Properties REIT",
+   "exchange": "TSX",
+   "yahoo_symbol": "RPR.DB.TO",
+   "instruments": [
+    {
+     "name": "Slate Office REIT Db",
+     "symbol": "RPR.DB"
+    },
+    {
+     "name": "SlateOfficeREIT Db A",
+     "symbol": "RPR.DB.A"
+    },
+    {
+     "name": "SlateOfficeREIT Db B",
+     "symbol": "RPR.DB.B"
+    },
+    {
+     "name": "Slate Office REIT Un",
+     "symbol": "RPR.UN"
+    }
+   ]
+  },
+  {
+   "symbol": "DPZ",
+   "name": "Domino's Pizza Inc - Common Stock",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "DPZ"
+  },
+  {
+   "symbol": "INLF",
+   "name": "INLIF LIMITED - ordinary shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "INLF"
+  },
+  {
+   "symbol": "MCW",
+   "name": "Mister Car Wash, Inc. - Common Stock",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "MCW"
+  },
+  {
+   "symbol": "PBQQ",
+   "name": "PGIM Laddered Nasdaq-100 Buffer 12 ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "PBQQ"
+  },
+  {
+   "symbol": "PQAP",
+   "name": "PGIM Nasdaq-100 Buffer 12 ETF - April",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "PQAP"
+  },
+  {
+   "symbol": "PQJA",
+   "name": "PGIM Nasdaq-100 Buffer 12 ETF - January",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "PQJA"
+  },
+  {
+   "symbol": "PQJL",
+   "name": "PGIM Nasdaq-100 Buffer 12 ETF - July",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "PQJL"
+  },
+  {
+   "symbol": "PQOC",
+   "name": "PGIM Nasdaq-100 Buffer 12 ETF - October",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "PQOC"
+  },
+  {
+   "symbol": "RAIN",
+   "name": "Rain Enhancement Technologies Holdco, Inc. - Class A Common Stock",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "RAIN"
+  },
+  {
+   "symbol": "RAINW",
+   "name": "Rain Enhancement Technologies Holdco, Inc. - Warrants",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "RAINW"
+  },
+  {
+   "symbol": "JBTM",
+   "name": "JBT Marel Corporation Common Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "JBTM"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "MARXR",
+   "name": "Mars Acquisition Corp. - Rights",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "MARXR"
+  },
+  {
+   "symbol": "STCN",
+   "name": "Steel Connect, Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "STCN"
+  },
+  {
+   "symbol": "DCMC",
+   "name": "Dore Copper Mining Corp.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "DCMC.V",
+   "instruments": [
+    {
+     "name": "Dore Copper Mining Corp.",
+     "symbol": "DCMC"
+    }
+   ]
+  },
+  {
+   "symbol": "JBT",
+   "name": "John Bean Technologies Corporation Common Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "JBT"
+  },
+  {
+   "symbol": "MARX",
+   "name": "Mars Acquisition Corp. - Ordinary Shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "MARX"
+  },
+  {
+   "symbol": "MARXU",
+   "name": "Mars Acquisition Corp. - Unit",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "MARXU"
+  },
+  {
+   "symbol": "MBINO",
+   "name": "Merchants Bancorp - Depositary Shares Each Representing a 1/40th Interest in a Share of Series B Fixed-to-Floating Rate",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "MBINO"
+  },
+  {
+   "symbol": "MNTX",
+   "name": "Manitex International, Inc. - common stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "MNTX"
+  },
+  {
+   "symbol": "SOT.DB",
+   "name": "Slate Office REIT",
+   "exchange": "TSX",
+   "yahoo_symbol": "SOT.DB.TO",
+   "instruments": [
+    {
+     "name": "Slate Office REIT Db",
+     "symbol": "SOT.DB"
+    },
+    {
+     "name": "SlateOfficeREIT Db A",
+     "symbol": "SOT.DB.A"
+    },
+    {
+     "name": "SlateOfficeREIT Db B",
+     "symbol": "SOT.DB.B"
+    },
+    {
+     "name": "Slate Office REIT Un",
+     "symbol": "SOT.UN"
+    }
+   ]
+  }
+ ]
+}

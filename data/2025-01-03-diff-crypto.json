@@ -1,0 +1,38 @@
+{
+ "added": [
+  {
+   "symbol": "SDM",
+   "name": "Shieldeum (SDM)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "WOULD",
+   "name": "would (WOULD)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "CBBTCBASE",
+   "name": "cbBTC (CBBTCBASE)"
+  },
+  {
+   "symbol": "NS",
+   "name": "NodeSynapse (NS)"
+  },
+  {
+   "symbol": "BANKETH",
+   "name": "BankEth (BANKETH)"
+  },
+  {
+   "symbol": "G",
+   "name": "Gravity (G)",
+   "built_on": "ETH"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "NS",
+   "name": "NodeSynapse (NS)",
+   "built_on": "ETH"
+  }
+ ]
+}
