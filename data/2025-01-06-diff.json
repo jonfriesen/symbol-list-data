@@ -1,0 +1,126 @@
+{
+ "added": [
+  {
+   "symbol": "CPI",
+   "name": "Carlton Precious Inc.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "CPI.V",
+   "instruments": [
+    {
+     "name": "Carlton Precious Inc.",
+     "symbol": "CPI"
+    }
+   ]
+  },
+  {
+   "symbol": "HOM.U",
+   "name": "BSR Real Estate Investment Trust",
+   "exchange": "TSX",
+   "yahoo_symbol": "HOM.U.TO",
+   "instruments": [
+    {
+     "name": "BSR REIT Invest USF",
+     "symbol": "HOM.U"
+    },
+    {
+     "name": "BSR REIT Invest Un",
+     "symbol": "HOM.UN"
+    }
+   ]
+  },
+  {
+   "symbol": "ASPC",
+   "name": "A SPAC III Acquisition Corp. - Class A Ordinary Shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "ASPC"
+  },
+  {
+   "symbol": "ASPCR",
+   "name": "A SPAC III Acquisition Corp. - Right",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "ASPCR"
+  },
+  {
+   "symbol": "BOLT",
+   "name": "Bolt Biotherapeutics, Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "BOLT"
+  },
+  {
+   "symbol": "IPM",
+   "name": "Intelligent Protection Management Corp.  - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "IPM"
+  },
+  {
+   "symbol": "STAI",
+   "name": "ScanTech AI Systems Inc. - Common stock",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "STAI"
+  },
+  {
+   "symbol": "TSEL",
+   "name": "Touchstone Sands Capital US Select Growth ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "TSEL"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "GEAR",
+   "name": "Revelyst, Inc. Common Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "GEAR"
+  },
+  {
+   "symbol": "HOM.DB.U",
+   "name": "BSR Real Estate Investment Trust",
+   "exchange": "TSX",
+   "yahoo_symbol": "HOM.DB.U.TO",
+   "instruments": [
+    {
+     "name": "BSR REIT Deb USF",
+     "symbol": "HOM.DB.U"
+    },
+    {
+     "name": "BSR REIT Invest USF",
+     "symbol": "HOM.U"
+    },
+    {
+     "name": "BSR REIT Invest Un",
+     "symbol": "HOM.UN"
+    }
+   ]
+  },
+  {
+   "symbol": "PALT",
+   "name": "Paltalk, Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "PALT"
+  },
+  {
+   "symbol": "NBR",
+   "name": "Nubian Resources Ltd.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "NBR.V",
+   "instruments": [
+    {
+     "name": "Nubian Resources Ltd",
+     "symbol": "NBR"
+    }
+   ]
+  },
+  {
+   "symbol": "PFIE",
+   "name": "Profire Energy, Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "PFIE"
+  },
+  {
+   "symbol": "BOLT",
+   "name": "Bolt Biotherapeutics, Inc. - Common Stock",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "BOLT"
+  }
+ ]
+}
