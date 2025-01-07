@@ -1,0 +1,75 @@
+{
+ "added": [
+  {
+   "symbol": "COGE",
+   "name": "Cogecoin (COGE)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "FAI",
+   "name": "Freysa AI (FAI)",
+   "built_on": "BASE"
+  },
+  {
+   "symbol": "EGOCOIN",
+   "name": "EGOcoin (EGOCOIN)"
+  },
+  {
+   "symbol": "JOECOIN",
+   "name": "Joe Coin (JOECOIN)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "RAINBOW",
+   "name": "Rainbow Token (RAINBOW)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "LOWB",
+   "name": "Loser Coin (LOWB)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "CBBTC",
+   "name": "Coinbase Wrapped BTC (CBBTC)",
+   "built_on": "BASE"
+  },
+  {
+   "symbol": "PIG",
+   "name": "Pig Finance (PIG)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "SUIDEPIN",
+   "name": "Sui DePIN (SUIDEPIN)",
+   "built_on": "SUI"
+  },
+  {
+   "symbol": "BANK",
+   "name": "Float Protocol (BANK)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "GETH",
+   "name": "Guarded Ether (GETH)"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "RAINBOW",
+   "name": "Rainbow Token (RAINBOW)"
+  },
+  {
+   "symbol": "LOWB",
+   "name": "Loser Coin (LOWB)"
+  },
+  {
+   "symbol": "PIG",
+   "name": "Pig Finance (PIG)"
+  },
+  {
+   "symbol": "COGE",
+   "name": "Cogecoin (COGE)"
+  }
+ ]
+}

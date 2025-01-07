@@ -1,0 +1,48 @@
+{
+ "added": [
+  {
+   "symbol": "TBCH",
+   "name": "Turtle Beach Corporation - Common Stock",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "TBCH"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "WTMAR",
+   "name": "Welsbach Technology Metals Acquisition Corp. - one right to receive 1/10th of a share of common stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "WTMAR"
+  },
+  {
+   "symbol": "HEAR",
+   "name": "Turtle Beach Corporation - Common Stock",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "HEAR"
+  },
+  {
+   "symbol": "RGF",
+   "name": "The Real Good Food Company, Inc. - Class A Common Stock",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "RGF"
+  },
+  {
+   "symbol": "LUNA",
+   "name": "Luna Innovations Incorporated - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "LUNA"
+  },
+  {
+   "symbol": "WTMAU",
+   "name": "Welsbach Technology Metals Acquisition Corp. - Unit",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "WTMAU"
+  },
+  {
+   "symbol": "WTMA",
+   "name": "Welsbach Technology Metals Acquisition Corp. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "WTMA"
+  }
+ ]
+}
