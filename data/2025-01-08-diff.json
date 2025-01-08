@@ -1,0 +1,54 @@
+{
+ "added": [
+  {
+   "symbol": "CEPO",
+   "name": "Cantor Equity Partners I, Inc. - Class A Ordinary Shares",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "CEPO"
+  },
+  {
+   "symbol": "SNSE",
+   "name": "Sensei Biotherapeutics, Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "SNSE"
+  },
+  {
+   "symbol": "ZYBT",
+   "name": "Zhengye Biotechnology Holding Limited - Ordinary Shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "ZYBT"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "CPTNW",
+   "name": "Cepton, Inc. - Warrant",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "CPTNW"
+  },
+  {
+   "symbol": "CPTN",
+   "name": "Cepton, Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "CPTN"
+  },
+  {
+   "symbol": "SNSE",
+   "name": "Sensei Biotherapeutics, Inc. - Common Stock",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "SNSE"
+  },
+  {
+   "symbol": "EWS",
+   "name": "Environmental Waste International Inc.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "EWS.V",
+   "instruments": [
+    {
+     "name": "Environmental Waste International Inc.",
+     "symbol": "EWS"
+    }
+   ]
+  }
+ ]
+}

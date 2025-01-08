@@ -1,0 +1,65 @@
+{
+ "added": [
+  {
+   "symbol": "PCNT",
+   "name": "Playcent (PCNT)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "HUMV1",
+   "name": "Humanscape v1 (HUMV1)"
+  },
+  {
+   "symbol": "BASEDTURBO",
+   "name": "Based Turbo (BASEDTURBO)",
+   "built_on": "BASE"
+  },
+  {
+   "symbol": "L1",
+   "name": "Lamina1 (L1)"
+  },
+  {
+   "symbol": "KIKI",
+   "name": "Kiki Flaminki (KIKI)",
+   "built_on": "BASE"
+  },
+  {
+   "symbol": "BANK",
+   "name": "Float Protocol (BANK)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "CBBTC",
+   "name": "Coinbase Wrapped BTC (CBBTC)",
+   "built_on": "BASE"
+  },
+  {
+   "symbol": "GETH",
+   "name": "Guarded Ether (GETH)"
+  },
+  {
+   "symbol": "SAFEMARS",
+   "name": "Safemars (SAFEMARS)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "HUM",
+   "name": "Humanscape (HUM)"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "SAFEMARS",
+   "name": "Safemars (SAFEMARS)"
+  },
+  {
+   "symbol": "HUM",
+   "name": "Humanscape (HUM)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "PCNT",
+   "name": "Playcent (PCNT)"
+  }
+ ]
+}
