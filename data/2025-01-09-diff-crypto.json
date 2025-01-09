@@ -1,0 +1,33 @@
+{
+ "added": [
+  {
+   "symbol": "SWARMS",
+   "name": "Swarms (SWARMS)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "G",
+   "name": "Gravity (G)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "JNFTC",
+   "name": "Jumbo Blockchain (JNFTC)"
+  },
+  {
+   "symbol": "BANK",
+   "name": "Float Protocol (BANK)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "CBBTC",
+   "name": "Coinbase Wrapped BTC (CBBTC)",
+   "built_on": "BASE"
+  },
+  {
+   "symbol": "SIMBA",
+   "name": "SIMBA The Sloth (SIMBA)",
+   "built_on": "BASE"
+  }
+ ]
+}
