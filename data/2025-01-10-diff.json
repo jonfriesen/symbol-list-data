@@ -1,0 +1,34 @@
+{
+ "removed": [
+  {
+   "symbol": "EXTO",
+   "name": "Almacenes Exito S.A. American Depositary Share, each representing eight (8) Common Shares",
+   "exchange": "NYSE",
+   "yahoo_symbol": "EXTO"
+  },
+  {
+   "symbol": "PSTX",
+   "name": "Poseida Therapeutics, Inc. - Common Stock",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "PSTX"
+  },
+  {
+   "symbol": "ASAI",
+   "name": "Sendas Distribuidora S A ADS",
+   "exchange": "NYSE",
+   "yahoo_symbol": "ASAI"
+  },
+  {
+   "symbol": "MMVWW",
+   "name": "MultiMetaVerse Holdings Limited - Warrant",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "MMVWW"
+  },
+  {
+   "symbol": "MMV",
+   "name": "MultiMetaVerse Holdings Limited - Class A Ordinary Share",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "MMV"
+  }
+ ]
+}

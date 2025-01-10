@@ -1,0 +1,46 @@
+{
+ "added": [
+  {
+   "symbol": "TIMICOIN",
+   "name": "Timicoin (TIMICOIN)"
+  },
+  {
+   "symbol": "HSK",
+   "name": "HashKey Platform Token (HSK)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "TIMI",
+   "name": "This Is My Iguana (TIMI)",
+   "built_on": "BASE"
+  },
+  {
+   "symbol": "MADCOIN",
+   "name": "MAD (MADCOIN)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "ZEDCOIN",
+   "name": "ZedCoin (ZEDCOIN)"
+  },
+  {
+   "symbol": "CBBTCBASE",
+   "name": "cbBTC (CBBTCBASE)"
+  },
+  {
+   "symbol": "G",
+   "name": "Gravity (G)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "BANKETH",
+   "name": "BankEth (BANKETH)"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "TIMI",
+   "name": "Timicoin (TIMI)"
+  }
+ ]
+}
