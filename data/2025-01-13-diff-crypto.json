@@ -1,0 +1,56 @@
+{
+ "added": [
+  {
+   "symbol": "SMOK",
+   "name": "Smoking Chicken Fish (SMOK)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "GINU",
+   "name": "Green Shiba Inu (GINU)"
+  },
+  {
+   "symbol": "SDEUSD",
+   "name": "Staked deUSD (SDEUSD)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "DYDXV1",
+   "name": "dYdX v1 (DYDXV1)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "ENERGYLEDGER",
+   "name": "Energy Ledger (ENERGYLEDGER)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "RIFA",
+   "name": "Rifampicin (RIFA)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "GETH",
+   "name": "Guarded Ether (GETH)"
+  },
+  {
+   "symbol": "CBBTCBASE",
+   "name": "cbBTC (CBBTCBASE)"
+  },
+  {
+   "symbol": "BANK",
+   "name": "Float Protocol (BANK)",
+   "built_on": "ETH"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "ELX",
+   "name": "Energy Ledger (ELX)"
+  },
+  {
+   "symbol": "ZEDCOIN",
+   "name": "ZedCoin (ZEDCOIN)"
+  }
+ ]
+}
