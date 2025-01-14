@@ -1,0 +1,46 @@
+{
+ "added": [
+  {
+   "symbol": "YNE",
+   "name": "yesnoerror (YNE)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "LUFFYV1",
+   "name": "Luffy v1 (LUFFYV1)"
+  },
+  {
+   "symbol": "WSTUSR",
+   "name": "Resolv wstUSR (WSTUSR)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "LUFFYOLD",
+   "name": "Luffy (LUFFYOLD)"
+  },
+  {
+   "symbol": "G",
+   "name": "Gravity (G)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "BANKETH",
+   "name": "BankEth (BANKETH)"
+  },
+  {
+   "symbol": "CBBTCBASE",
+   "name": "cbBTC (CBBTCBASE)"
+  },
+  {
+   "symbol": "ZEDCOIN",
+   "name": "ZedCoin (ZEDCOIN)"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "LUFFYOLD",
+   "name": "Luffy (LUFFYOLD)",
+   "built_on": "ETH"
+  }
+ ]
+}
