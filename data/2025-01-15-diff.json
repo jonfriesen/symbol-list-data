@@ -1,0 +1,162 @@
+{
+ "added": [
+  {
+   "symbol": "SXGC",
+   "name": "Southern Cross Gold Consolidated Ltd.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "SXGC.V",
+   "instruments": [
+    {
+     "name": "Southern Cross Gold Consolidated Ltd.",
+     "symbol": "SXGC"
+    }
+   ]
+  },
+  {
+   "symbol": "COLA",
+   "name": "Coca-Cola CDR (CAD Hedged)",
+   "exchange": "TSX",
+   "yahoo_symbol": "COLA.TO",
+   "instruments": [
+    {
+     "name": "Coca-Cola CDR CAD HD",
+     "symbol": "COLA"
+    }
+   ]
+  },
+  {
+   "symbol": "WAAV",
+   "name": "WaveFront All-Weather Alternative Fund",
+   "exchange": "TSX",
+   "yahoo_symbol": "WAAV.TO",
+   "instruments": [
+    {
+     "name": "WaveFront AWAF ETF",
+     "symbol": "WAAV"
+    }
+   ]
+  },
+  {
+   "symbol": "ARMG",
+   "name": "Leverage Shares 2X Long ARM Daily ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "ARMG"
+  },
+  {
+   "symbol": "ASMG",
+   "name": "Leverage Shares 2X Long ASML Daily ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "ASMG"
+  },
+  {
+   "symbol": "BZAI",
+   "name": "Blaize Holdings, Inc. - Common Stock",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "BZAI"
+  },
+  {
+   "symbol": "BZAIW",
+   "name": "Blaize Holdings, Inc. - Warrant",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "BZAIW"
+  },
+  {
+   "symbol": "SNYR",
+   "name": "Synergy CHC Corp. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "SNYR"
+  },
+  {
+   "symbol": "TSMG",
+   "name": "Leverage Shares 2X Long TSM Daily ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "TSMG"
+  },
+  {
+   "symbol": "UFG",
+   "name": "Uni-Fuels Holdings Limited - Class A Ordinary Shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "UFG"
+  },
+  {
+   "symbol": "ANG$D",
+   "name": "American National Group Inc. Depositary Shares, each representing a 1/1000th interest in a share of 7.375% Fixed-Rate Non-Cumulative Preferred Stock, Series D",
+   "exchange": "NYSE",
+   "yahoo_symbol": "ANG$D"
+  },
+  {
+   "symbol": "CNR",
+   "name": "Core Natural Resources, Inc. Common Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "CNR"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "NMHI",
+   "name": "Nature's Miracle Holding Inc. - Common Stock",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "NMHI"
+  },
+  {
+   "symbol": "SPI",
+   "name": "SPI Energy Co., Ltd. - Ordinary Shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "SPI"
+  },
+  {
+   "symbol": "COG",
+   "name": "Condor Gold plc",
+   "exchange": "TSX",
+   "yahoo_symbol": "COG.TO",
+   "instruments": [
+    {
+     "name": "Condor Gold plc J",
+     "symbol": "COG"
+    }
+   ]
+  },
+  {
+   "symbol": "CEIX",
+   "name": "CONSOL Energy Inc. Common Stock ",
+   "exchange": "NYSE",
+   "yahoo_symbol": "CEIX"
+  },
+  {
+   "symbol": "NMHIW",
+   "name": "Nature's Miracle Holding Inc. - Warrants",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "NMHIW"
+  },
+  {
+   "symbol": "SNYR",
+   "name": "Synergy CHC Corp. - Common Stock",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "SNYR"
+  },
+  {
+   "symbol": "MAW",
+   "name": "Mawson Gold Limited",
+   "exchange": "TSXV",
+   "yahoo_symbol": "MAW.V",
+   "instruments": [
+    {
+     "name": "Mawson Gold Limited",
+     "symbol": "MAW"
+    }
+   ]
+  },
+  {
+   "symbol": "BSR",
+   "name": "Bluestone Resources Inc.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "BSR.V",
+   "instruments": [
+    {
+     "name": "Bluestone Resources Inc.",
+     "symbol": "BSR"
+    }
+   ]
+  }
+ ]
+}

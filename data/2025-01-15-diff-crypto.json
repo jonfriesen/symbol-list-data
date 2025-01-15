@@ -1,0 +1,79 @@
+{
+ "added": [
+  {
+   "symbol": "KEKIUS",
+   "name": "Kekius Maximus (KEKIUS)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "CBBTCBASE",
+   "name": "cbBTC (CBBTCBASE)"
+  },
+  {
+   "symbol": "HENLO",
+   "name": "Henlo (HENLO)",
+   "built_on": "BASE"
+  },
+  {
+   "symbol": "G",
+   "name": "Gravity (G)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "CLUSTR",
+   "name": "Clustr Labs (CLUSTR)",
+   "built_on": "BASE"
+  },
+  {
+   "symbol": "IDRISS",
+   "name": "IDRISS (IDRISS)",
+   "built_on": "BASE"
+  },
+  {
+   "symbol": "GAMESTO",
+   "name": "GameStop (GAMESTO)"
+  },
+  {
+   "symbol": "HTERM",
+   "name": "Hiero Terminal (HTERM)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "LLM",
+   "name": "Large Language Model Based (LLM)",
+   "built_on": "BASE"
+  },
+  {
+   "symbol": "DIGIMON",
+   "name": "Digimon (DIGIMON)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "SYNTH",
+   "name": "Synthswap (SYNTH)",
+   "built_on": "ARB"
+  },
+  {
+   "symbol": "BANK",
+   "name": "Float Protocol (BANK)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "KUDAI",
+   "name": "Kudai (KUDAI)",
+   "built_on": "BASE"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "SYNTH",
+   "name": "Synthswap (SYNTH)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "GAMESTO",
+   "name": "GameStop (GAMESTO)",
+   "built_on": "ETH"
+  }
+ ]
+}
