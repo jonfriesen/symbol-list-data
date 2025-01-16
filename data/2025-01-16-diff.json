@@ -1,0 +1,150 @@
+{
+ "added": [
+  {
+   "symbol": "CONY",
+   "name": "Harvest Coinbase High Income Shares ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "CONY.TO",
+   "instruments": [
+    {
+     "name": "Harvest Coin HIS ETF",
+     "symbol": "CONY"
+    }
+   ]
+  },
+  {
+   "symbol": "HHIS",
+   "name": "Harvest Diversified High Income Shares ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "HHIS.TO",
+   "instruments": [
+    {
+     "name": "Harvest Dive HIS ETF",
+     "symbol": "HHIS"
+    }
+   ]
+  },
+  {
+   "symbol": "METE",
+   "name": "Harvest Meta Enhanced High Income Shares ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "METE.TO",
+   "instruments": [
+    {
+     "name": "Harvest MeE HIS ETF",
+     "symbol": "METE"
+    }
+   ]
+  },
+  {
+   "symbol": "MSTY",
+   "name": "Harvest MicroStrategy High Income Shares ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "MSTY.TO",
+   "instruments": [
+    {
+     "name": "Harvest Micr HIS ETF",
+     "symbol": "MSTY"
+    }
+   ]
+  },
+  {
+   "symbol": "PLTE",
+   "name": "Harvest Palantir Enhanced High Income Shares ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "PLTE.TO",
+   "instruments": [
+    {
+     "name": "Harvest PaEn HIS ETF",
+     "symbol": "PLTE"
+    }
+   ]
+  },
+  {
+   "symbol": "TSLY",
+   "name": "Harvest Tesla Enhanced High Income Shares ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "TSLY.TO",
+   "instruments": [
+    {
+     "name": "Harvest TeEn HIS ETF",
+     "symbol": "TSLY"
+    }
+   ]
+  },
+  {
+   "symbol": "HKPD",
+   "name": "Hong Kong Pharma Digital Technology Holdings Limited - Ordinary shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "HKPD"
+  },
+  {
+   "symbol": "NYMTG",
+   "name": "New York Mortgage Trust, Inc. - 9.125% Senior Notes Due 2030",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "NYMTG"
+  },
+  {
+   "symbol": "ORR",
+   "name": "Militia Long/Short Equity ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "ORR"
+  },
+  {
+   "symbol": "PLMKU",
+   "name": "Plum Acquisition Corp. IV - Unit",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "PLMKU"
+  },
+  {
+   "symbol": "RIBBU",
+   "name": "Ribbon Acquisition Corp - Unit",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "RIBBU"
+  },
+  {
+   "symbol": "SLVR",
+   "name": "Sprott Silver Miners \u0026 Physical Silver ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "SLVR"
+  },
+  {
+   "symbol": "FLOC",
+   "name": "Flowco Holdings Inc. Class A Common Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "FLOC"
+  },
+  {
+   "symbol": "LGPS",
+   "name": "LogProstyle Inc. Common Shares",
+   "exchange": "NYSE MKT",
+   "yahoo_symbol": "LGPS"
+  },
+  {
+   "symbol": "SOJF",
+   "name": "Southern Company (The) Series 2025A 6.50% Junior Subordinated Notes due March 15, 2085",
+   "exchange": "NYSE",
+   "yahoo_symbol": "SOJF"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "LATGU",
+   "name": "Chenghe Acquisition I Co. - Units",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "LATGU"
+  },
+  {
+   "symbol": "GATO",
+   "name": "Gatos Silver, Inc. Common Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "GATO"
+  },
+  {
+   "symbol": "LATG",
+   "name": "Chenghe Acquisition I Co. - Class A Ordinary Shares",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "LATG"
+  }
+ ]
+}

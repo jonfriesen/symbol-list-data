@@ -1,0 +1,109 @@
+{
+ "added": [
+  {
+   "symbol": "KEVINTOKENME",
+   "name": "KEVIN (kevintoken.me) (KEVINTOKENME)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "SYNTHSWAP",
+   "name": "Synthswap (SYNTHSWAP)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "SENTAI",
+   "name": "SentAI (SENTAI)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "USD1",
+   "name": "USD1 (USD1)",
+   "built_on": "XLM"
+  },
+  {
+   "symbol": "THE",
+   "name": "The Protocol (THE)"
+  },
+  {
+   "symbol": "JEWELRY",
+   "name": "Jewelry Token (JEWELRY)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "LAVA",
+   "name": "Lavaswap (LAVA)"
+  },
+  {
+   "symbol": "CATG",
+   "name": "Crypto Agent Trading (CATG)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "KEVIN",
+   "name": "Kevin (kevinonbase.xyz) (KEVIN)",
+   "built_on": "BASE"
+  },
+  {
+   "symbol": "G",
+   "name": "Gravity (G)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "KOII",
+   "name": "Koii (KOII)"
+  },
+  {
+   "symbol": "DRV",
+   "name": "Derive (DRV)"
+  },
+  {
+   "symbol": "CBBTCBASE",
+   "name": "cbBTC (CBBTCBASE)"
+  },
+  {
+   "symbol": "ACOLYT",
+   "name": "Acolyte by Virtuals (ACOLYT)",
+   "built_on": "BASE"
+  },
+  {
+   "symbol": "DEFAI",
+   "name": "DeFAI (DEFAI)",
+   "built_on": "BASE"
+  },
+  {
+   "symbol": "KEVINTOKENNET",
+   "name": "Kevin (KEVINTOKENNET)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "PYTHIA",
+   "name": "Pythia (PYTHIA)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "USUALX",
+   "name": "USUALx (USUALX)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "BANKETH",
+   "name": "BankEth (BANKETH)"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "LAVA",
+   "name": "Lavaswap (LAVA)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "THE",
+   "name": "The Protocol (THE)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "ZEDCOIN",
+   "name": "ZedCoin (ZEDCOIN)"
+  }
+ ]
+}
