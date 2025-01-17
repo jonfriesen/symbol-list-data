@@ -1,0 +1,108 @@
+{
+ "added": [
+  {
+   "symbol": "KBSX",
+   "name": "FST Corp. - Ordinary Shares",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "KBSX"
+  },
+  {
+   "symbol": "NOEM",
+   "name": "CO2 Energy Transition Corp. - Common Stock",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "NOEM"
+  },
+  {
+   "symbol": "NOEMR",
+   "name": "CO2 Energy Transition Corp. - Right",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "NOEMR"
+  },
+  {
+   "symbol": "NOEMW",
+   "name": "CO2 Energy Transition Corp. - Warrant",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "NOEMW"
+  },
+  {
+   "symbol": "PCLA",
+   "name": "PicoCELA Inc. - American Depositary Shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "PCLA"
+  },
+  {
+   "symbol": "SOFX",
+   "name": "Defiance Daily Target 2X Long SOFI ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "SOFX"
+  },
+  {
+   "symbol": "JFR.V",
+   "name": "Nuveen Floating Rate Income Fund Rights (expiring February 19, 2025) Rights when issued",
+   "exchange": "NYSE",
+   "yahoo_symbol": "JFR.V"
+  },
+  {
+   "symbol": "QXO",
+   "name": "QXO, Inc. Common Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "QXO"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "QXO",
+   "name": "QXO, Inc.  - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "QXO"
+  },
+  {
+   "symbol": "LFLY",
+   "name": "Leafly Holdings, Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "LFLY"
+  },
+  {
+   "symbol": "JRV",
+   "name": "Jervois Global Limited",
+   "exchange": "TSXV",
+   "yahoo_symbol": "JRV.V",
+   "instruments": [
+    {
+     "name": "Jervois Global Limited",
+     "symbol": "JRV"
+    }
+   ]
+  },
+  {
+   "symbol": "BC$B",
+   "name": "Brunswick Corporation 6.625% Senior Notes due 2049",
+   "exchange": "NYSE",
+   "yahoo_symbol": "BC$B"
+  },
+  {
+   "symbol": "LFLYW",
+   "name": "Leafly Holdings, Inc. - Warrant",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "LFLYW"
+  },
+  {
+   "symbol": "LUXH",
+   "name": "LuxUrban Hotels Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "LUXH"
+  },
+  {
+   "symbol": "TRINL",
+   "name": "Trinity Capital Inc. - 7.00% Notes Due 2025",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "TRINL"
+  },
+  {
+   "symbol": "LUXHP",
+   "name": "LuxUrban Hotels Inc. - 13.00% Series A Cumulative Redeemable Preferred Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "LUXHP"
+  }
+ ]
+}

@@ -1,0 +1,147 @@
+{
+ "added": [
+  {
+   "symbol": "JETFUEL",
+   "name": "Jetfuel Finance (JETFUEL)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "DUCKAI",
+   "name": "Duck AI (DUCKAI)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "HENG",
+   "name": "HengCoin (HENG)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "FUEGO",
+   "name": "FUEGO (FUEGO)",
+   "built_on": "BASE"
+  },
+  {
+   "symbol": "THEP",
+   "name": "The Protocol (THEP)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "LIHUA",
+   "name": "LIHUA (LIHUA)",
+   "built_on": "XRP"
+  },
+  {
+   "symbol": "MB28",
+   "name": "MBridge28 (MB28)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "LAVASWAP",
+   "name": "Lavaswap (LAVASWAP)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "BITONE",
+   "name": "BITONE (BITONE)"
+  },
+  {
+   "symbol": "SNAI",
+   "name": "SwarmNode.ai (SNAI)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "ANEX",
+   "name": "AstroNexus (ANEX)"
+  },
+  {
+   "symbol": "SPERG",
+   "name": "Bloomsperg Terminal (SPERG)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "BTORO",
+   "name": "Bitoro Network (BTORO)",
+   "built_on": "ARB"
+  },
+  {
+   "symbol": "AIOS",
+   "name": "INT OS (AIOS)",
+   "built_on": "BASE"
+  },
+  {
+   "symbol": "HENLOV1",
+   "name": "Henlo v1 (HENLOV1)"
+  },
+  {
+   "symbol": "BRP",
+   "name": "BananaRepublic (BRP)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "1000X",
+   "name": "1000x by Virtuals (1000X)",
+   "built_on": "BASE"
+  },
+  {
+   "symbol": "PLANT",
+   "name": "Plant (PLANT)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "BIO",
+   "name": "Bio Protocol (BIO)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "WULFY",
+   "name": "Wulfy (WULFY)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "BOTIFY",
+   "name": "BOTIFY (BOTIFY)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "SOIL",
+   "name": "SoilCoin (SOIL)",
+   "built_on": "POL"
+  },
+  {
+   "symbol": "CBBTCBASE",
+   "name": "cbBTC (CBBTCBASE)"
+  },
+  {
+   "symbol": "GETH",
+   "name": "Guarded Ether (GETH)"
+  },
+  {
+   "symbol": "BANKETH",
+   "name": "BankEth (BANKETH)"
+  },
+  {
+   "symbol": "AIVIA",
+   "name": "AI Virtual Agents (AIVIA)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "CHATOSHI",
+   "name": "chAtoshI (CHATOSHI)",
+   "built_on": "SOL"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "BIO",
+   "name": "BITONE (BIO)"
+  },
+  {
+   "symbol": "SOIL",
+   "name": "SoilCoin (SOIL)"
+  },
+  {
+   "symbol": "THE",
+   "name": "The Protocol (THE)"
+  }
+ ]
+}
