@@ -1,0 +1,608 @@
+{
+ "added": [
+  {
+   "symbol": "GDXD",
+   "name": "BetaPro Canadian Gold Miners -2x Daily Bear ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "GDXD.TO",
+   "instruments": [
+    {
+     "name": "BetaProCdnGldMn-2xBr",
+     "symbol": "GDXD"
+    }
+   ]
+  },
+  {
+   "symbol": "GDXU",
+   "name": "BetaPro Canadian Gold Miners 2x Daily Bull ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "GDXU.TO",
+   "instruments": [
+    {
+     "name": "BetaProCdnGldMnr2xBl",
+     "symbol": "GDXU"
+    }
+   ]
+  },
+  {
+   "symbol": "ATMD",
+   "name": "BetaPro Equal Weight Canadian Bank -2x Daily Bear ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "ATMD.TO",
+   "instruments": [
+    {
+     "name": "BetaPro EqCdnBnk2xBr",
+     "symbol": "ATMD"
+    }
+   ]
+  },
+  {
+   "symbol": "ATMU",
+   "name": "BetaPro Equal Weight Canadian Bank 2x Daily Bull ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "ATMU.TO",
+   "instruments": [
+    {
+     "name": "BetaPro EqCdnBnk2xBl",
+     "symbol": "ATMU"
+    }
+   ]
+  },
+  {
+   "symbol": "RITD",
+   "name": "BetaPro Equal Weight Canadian REIT -2x Daily Bear ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "RITD.TO",
+   "instruments": [
+    {
+     "name": "BetProEqCA REIT-2xBr",
+     "symbol": "RITD"
+    }
+   ]
+  },
+  {
+   "symbol": "RITU",
+   "name": "BetaPro Equal Weight Canadian REIT 2x Daily Bull ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "RITU.TO",
+   "instruments": [
+    {
+     "name": "BetaProEqCA REIT2xBl",
+     "symbol": "RITU"
+    }
+   ]
+  },
+  {
+   "symbol": "GLDD",
+   "name": "BetaPro Gold Bullion -2x Daily Bear ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "GLDD.TO",
+   "instruments": [
+    {
+     "name": "BetaPro GldBul-2x Br",
+     "symbol": "GLDD"
+    }
+   ]
+  },
+  {
+   "symbol": "GLDU",
+   "name": "BetaPro Gold Bullion 2x Daily Bull ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "GLDU.TO",
+   "instruments": [
+    {
+     "name": "BetaPro GldBul 2x Bl",
+     "symbol": "GLDU"
+    }
+   ]
+  },
+  {
+   "symbol": "QQD",
+   "name": "BetaPro NASDAQ-100 -2x Daily Bear ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "QQD.TO",
+   "instruments": [
+    {
+     "name": "BetaProNSDQ100 -2xBr",
+     "symbol": "QQD"
+    },
+    {
+     "name": "BtaProNSDQ100-2xBrUS",
+     "symbol": "QQD.U"
+    }
+   ]
+  },
+  {
+   "symbol": "QQU",
+   "name": "BetaPro NASDAQ-100 2x Daily Bull ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "QQU.TO",
+   "instruments": [
+    {
+     "name": "BetaProNASDQ100 2xBl",
+     "symbol": "QQU"
+    }
+   ]
+  },
+  {
+   "symbol": "SPXU",
+   "name": "BetaPro S\u0026P 500 2x Daily Bull ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "SPXU.TO",
+   "instruments": [
+    {
+     "name": "BetaPro S\u0026P500 2x Bl",
+     "symbol": "SPXU"
+    }
+   ]
+  },
+  {
+   "symbol": "SPXI",
+   "name": "BetaPro S\u0026P 500 Daily Inverse ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "SPXI.TO",
+   "instruments": [
+    {
+     "name": "BetaProSP500DlyInvrs",
+     "symbol": "SPXI"
+    }
+   ]
+  },
+  {
+   "symbol": "VOLX",
+   "name": "BetaPro S\u0026P 500 VIX Short-Term Futures ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "VOLX.TO",
+   "instruments": [
+    {
+     "name": "BetaProSP500ST Futre",
+     "symbol": "VOLX"
+    }
+   ]
+  },
+  {
+   "symbol": "CNDD",
+   "name": "BetaPro S\u0026P/TSX 60 -2x Daily Bear ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "CNDD.TO",
+   "instruments": [
+    {
+     "name": "BetaProS\u0026PTSX60-2xBr",
+     "symbol": "CNDD"
+    }
+   ]
+  },
+  {
+   "symbol": "CNDU",
+   "name": "BetaPro S\u0026P/TSX 60 2x Daily Bull ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "CNDU.TO",
+   "instruments": [
+    {
+     "name": "BetaProS\u0026PTSX60 2xBl",
+     "symbol": "CNDU"
+    }
+   ]
+  },
+  {
+   "symbol": "CNDI",
+   "name": "BetaPro S\u0026P/TSX 60 Daily Inverse ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "CNDI.TO",
+   "instruments": [
+    {
+     "name": "BetaPro60 DailyInvrs",
+     "symbol": "CNDI"
+    }
+   ]
+  },
+  {
+   "symbol": "NRGD",
+   "name": "BetaPro S\u0026P/TSX Capped Energy -2x Daily Bear ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "NRGD.TO",
+   "instruments": [
+    {
+     "name": "BetaProS\u0026PTSXEngy-2x",
+     "symbol": "NRGD"
+    }
+   ]
+  },
+  {
+   "symbol": "NRGU",
+   "name": "BetaPro S\u0026P/TSX Capped Energy 2x Daily Bull ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "NRGU.TO",
+   "instruments": [
+    {
+     "name": "BetaProS\u0026PTSX Engy2x",
+     "symbol": "NRGU"
+    }
+   ]
+  },
+  {
+   "symbol": "CFOD",
+   "name": "BetaPro S\u0026P/TSX Capped Financials -2x Daily Bear ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "CFOD.TO",
+   "instruments": [
+    {
+     "name": "BetaProSPTSX Fin -2x",
+     "symbol": "CFOD"
+    }
+   ]
+  },
+  {
+   "symbol": "CFOU",
+   "name": "BetaPro S\u0026P/TSX Capped Financials 2x Daily Bull ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "CFOU.TO",
+   "instruments": [
+    {
+     "name": "BetaProSPTSXFin 2xBl",
+     "symbol": "CFOU"
+    }
+   ]
+  },
+  {
+   "symbol": "SLVD",
+   "name": "BetaPro Silver -2x Daily Bear ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "SLVD.TO",
+   "instruments": [
+    {
+     "name": "BetaPro Slvr -2DlyBr",
+     "symbol": "SLVD"
+    }
+   ]
+  },
+  {
+   "symbol": "SLVU",
+   "name": "BetaPro Silver 2x Daily Bull ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "SLVU.TO",
+   "instruments": [
+    {
+     "name": "BetaPro Slvr 2xDlyBl",
+     "symbol": "SLVU"
+    }
+   ]
+  },
+  {
+   "symbol": "NOU",
+   "name": "Nouveau Monde Graphite Inc.",
+   "exchange": "TSX",
+   "yahoo_symbol": "NOU.TO",
+   "instruments": [
+    {
+     "name": "Nouveau Mond Gra Inc",
+     "symbol": "NOU"
+    }
+   ]
+  },
+  {
+   "symbol": "HVIIU",
+   "name": "Hennessy Capital Investment Corp. VII - Unit",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "HVIIU"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "NOU",
+   "name": "Nouveau Monde Graphite Inc.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "NOU.V",
+   "instruments": [
+    {
+     "name": "Nouveau Monde Graphite Inc.",
+     "symbol": "NOU"
+    }
+   ]
+  },
+  {
+   "symbol": "HZD",
+   "name": "BetaPro Silver -2x Daily Bear ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "HZD.TO",
+   "instruments": [
+    {
+     "name": "BetaPro Slvr -2DlyBr",
+     "symbol": "HZD"
+    }
+   ]
+  },
+  {
+   "symbol": "HSU",
+   "name": "BetaPro S\u0026P 500 2x Daily Bull ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "HSU.TO",
+   "instruments": [
+    {
+     "name": "BetaPro S\u0026P500 2x Bl",
+     "symbol": "HSU"
+    }
+   ]
+  },
+  {
+   "symbol": "HXD",
+   "name": "BetaPro S\u0026P/TSX 60 -2x Daily Bear ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "HXD.TO",
+   "instruments": [
+    {
+     "name": "BetaProS\u0026PTSX60-2xBr",
+     "symbol": "HXD"
+    }
+   ]
+  },
+  {
+   "symbol": "HIX",
+   "name": "BetaPro S\u0026P/TSX 60 Daily Inverse ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "HIX.TO",
+   "instruments": [
+    {
+     "name": "BetaPro60 DailyInvrs",
+     "symbol": "HIX"
+    }
+   ]
+  },
+  {
+   "symbol": "HBKU",
+   "name": "BetaPro Equal Weight Canadian Bank 2x Daily Bull ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "HBKU.TO",
+   "instruments": [
+    {
+     "name": "BetaPro EqCdnBnk2xBl",
+     "symbol": "HBKU"
+    }
+   ]
+  },
+  {
+   "symbol": "HIU",
+   "name": "BetaPro S\u0026P 500 Daily Inverse ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "HIU.TO",
+   "instruments": [
+    {
+     "name": "BetaProSP500DlyInvrs",
+     "symbol": "HIU"
+    }
+   ]
+  },
+  {
+   "symbol": "HEU",
+   "name": "BetaPro S\u0026P/TSX Capped Energy 2x Daily Bull ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "HEU.TO",
+   "instruments": [
+    {
+     "name": "BetaProS\u0026PTSX Engy2x",
+     "symbol": "HEU"
+    }
+   ]
+  },
+  {
+   "symbol": "HXU",
+   "name": "BetaPro S\u0026P/TSX 60 2x Daily Bull ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "HXU.TO",
+   "instruments": [
+    {
+     "name": "BetaProS\u0026PTSX60 2xBl",
+     "symbol": "HXU"
+    }
+   ]
+  },
+  {
+   "symbol": "HSD",
+   "name": "BetaPro S\u0026P 500 -2x Daily Bear ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "HSD.TO",
+   "instruments": [
+    {
+     "name": "BetaPro S\u0026P500 -2xBr",
+     "symbol": "HSD"
+    }
+   ]
+  },
+  {
+   "symbol": "HFD",
+   "name": "BetaPro S\u0026P/TSX Capped Financials -2x Daily Bear ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "HFD.TO",
+   "instruments": [
+    {
+     "name": "BetaProSPTSX Fin -2x",
+     "symbol": "HFD"
+    }
+   ]
+  },
+  {
+   "symbol": "HED",
+   "name": "BetaPro S\u0026P/TSX Capped Energy -2x Daily Bear ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "HED.TO",
+   "instruments": [
+    {
+     "name": "BetaProS\u0026PTSXEngy-2x",
+     "symbol": "HED"
+    }
+   ]
+  },
+  {
+   "symbol": "HUV",
+   "name": "BetaPro S\u0026P 500 VIX Short-Term Futures ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "HUV.TO",
+   "instruments": [
+    {
+     "name": "BetaProSP500ST Futre",
+     "symbol": "HUV"
+    }
+   ]
+  },
+  {
+   "symbol": "HBU",
+   "name": "BetaPro Gold Bullion 2x Daily Bull ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "HBU.TO",
+   "instruments": [
+    {
+     "name": "BetaPro GldBul 2x Bl",
+     "symbol": "HBU"
+    }
+   ]
+  },
+  {
+   "symbol": "HQU",
+   "name": "BetaPro NASDAQ-100 2x Daily Bull ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "HQU.TO",
+   "instruments": [
+    {
+     "name": "BetaProNASDQ100 2xBl",
+     "symbol": "HQU"
+    }
+   ]
+  },
+  {
+   "symbol": "HGD",
+   "name": "BetaPro Canadian Gold Miners -2x Daily Bear ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "HGD.TO",
+   "instruments": [
+    {
+     "name": "BetaProCdnGldMn-2xBr",
+     "symbol": "HGD"
+    }
+   ]
+  },
+  {
+   "symbol": "HBD",
+   "name": "BetaPro Gold Bullion -2x Daily Bear ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "HBD.TO",
+   "instruments": [
+    {
+     "name": "BetaPro GldBul-2x Br",
+     "symbol": "HBD"
+    }
+   ]
+  },
+  {
+   "symbol": "HQD",
+   "name": "BetaPro NASDAQ-100 -2x Daily Bear ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "HQD.TO",
+   "instruments": [
+    {
+     "name": "BetaProNSDQ100 -2xBr",
+     "symbol": "HQD"
+    },
+    {
+     "name": "BtaProNSDQ100-2xBrUS",
+     "symbol": "HQD.U"
+    }
+   ]
+  },
+  {
+   "symbol": "FIL",
+   "name": "Filo Corp",
+   "exchange": "TSX",
+   "yahoo_symbol": "FIL.TO",
+   "instruments": [
+    {
+     "name": "Filo Corp. J",
+     "symbol": "FIL"
+    }
+   ]
+  },
+  {
+   "symbol": "GATO",
+   "name": "Gatos Silver, Inc.",
+   "exchange": "TSX",
+   "yahoo_symbol": "GATO.TO",
+   "instruments": [
+    {
+     "name": "Gatos Silver, Inc. J",
+     "symbol": "GATO"
+    }
+   ]
+  },
+  {
+   "symbol": "HBKD",
+   "name": "BetaPro Equal Weight Canadian Bank -2x Daily Bear ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "HBKD.TO",
+   "instruments": [
+    {
+     "name": "BetaPro EqCdnBnk2xBr",
+     "symbol": "HBKD"
+    }
+   ]
+  },
+  {
+   "symbol": "HZU",
+   "name": "BetaPro Silver 2x Daily Bull ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "HZU.TO",
+   "instruments": [
+    {
+     "name": "BetaPro Slvr 2xDlyBl",
+     "symbol": "HZU"
+    }
+   ]
+  },
+  {
+   "symbol": "HFU",
+   "name": "BetaPro S\u0026P/TSX Capped Financials 2x Daily Bull ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "HFU.TO",
+   "instruments": [
+    {
+     "name": "BetaProSPTSXFin 2xBl",
+     "symbol": "HFU"
+    }
+   ]
+  },
+  {
+   "symbol": "HGU",
+   "name": "BetaPro Canadian Gold Miners 2x Daily Bull ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "HGU.TO",
+   "instruments": [
+    {
+     "name": "BetaProCdnGldMnr2xBl",
+     "symbol": "HGU"
+    }
+   ]
+  },
+  {
+   "symbol": "HRED",
+   "name": "BetaPro Equal Weight Canadian REIT -2x Daily Bear ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "HRED.TO",
+   "instruments": [
+    {
+     "name": "BetProEqCA REIT-2xBr",
+     "symbol": "HRED"
+    }
+   ]
+  },
+  {
+   "symbol": "HREU",
+   "name": "BetaPro Equal Weight Canadian REIT 2x Daily Bull ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "HREU.TO",
+   "instruments": [
+    {
+     "name": "BetaProEqCA REIT2xBl",
+     "symbol": "HREU"
+    }
+   ]
+  }
+ ]
+}
