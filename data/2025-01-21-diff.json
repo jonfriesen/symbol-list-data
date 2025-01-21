@@ -1,0 +1,60 @@
+{
+ "added": [
+  {
+   "symbol": "BGIE",
+   "name": "Brompton Global Infrastructure ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "BGIE.TO",
+   "instruments": [
+    {
+     "name": "BromptonSusRl AsstDv",
+     "symbol": "BGIE"
+    }
+   ]
+  },
+  {
+   "symbol": "HFN",
+   "name": "Hamilton Canadian Financials Index ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "HFN.TO",
+   "instruments": [
+    {
+     "name": "Hamilton Cad Fin Ind",
+     "symbol": "HFN"
+    }
+   ]
+  },
+  {
+   "symbol": "FGSN",
+   "name": "F\u0026G Annuities \u0026 Life, Inc. 7.300% Junior Subordinated Notes due 2065",
+   "exchange": "NYSE",
+   "yahoo_symbol": "FGSN"
+  },
+  {
+   "symbol": "XYZ",
+   "name": "Block, Inc. Class A Common Stock,",
+   "exchange": "NYSE",
+   "yahoo_symbol": "XYZ"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "SQ",
+   "name": "Block, Inc. Class A Common Stock,",
+   "exchange": "NYSE",
+   "yahoo_symbol": "SQ"
+  },
+  {
+   "symbol": "BREA",
+   "name": "Brompton Sustainable Real Assets Dividend ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "BREA.TO",
+   "instruments": [
+    {
+     "name": "BromptonSusRl AsstDv",
+     "symbol": "BREA"
+    }
+   ]
+  }
+ ]
+}
