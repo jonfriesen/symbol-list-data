@@ -1,0 +1,94 @@
+{
+ "added": [
+  {
+   "symbol": "SPXD",
+   "name": "BetaPro S\u0026P 500 -2x Daily Bear ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "SPXD.TO",
+   "instruments": [
+    {
+     "name": "BetaPro S\u0026P500 -2xBr",
+     "symbol": "SPXD"
+    }
+   ]
+  },
+  {
+   "symbol": "DXID",
+   "name": "Dynamic Active Innovation and Disruption ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "DXID.TO",
+   "instruments": [
+    {
+     "name": "Dynamic Act I\u0026D CAD",
+     "symbol": "DXID"
+    },
+    {
+     "name": "Dynamic Act I\u0026D USD",
+     "symbol": "DXID.U"
+    }
+   ]
+  },
+  {
+   "symbol": "NRO.V",
+   "name": "Neuberger Berman Real Estate Securities Income Fund, Inc. Rights (expiring February 19, 2025) Rights when issued",
+   "exchange": "NYSE MKT",
+   "yahoo_symbol": "NRO.V"
+  },
+  {
+   "symbol": "TOPP",
+   "name": "Toppoint Holdings Inc. Common Stock",
+   "exchange": "NYSE MKT",
+   "yahoo_symbol": "TOPP"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "CSLM",
+   "name": "CSLM Acquisition Corp. - Class A Ordinary Share",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "CSLM"
+  },
+  {
+   "symbol": "SVMH",
+   "name": "SRIVARU Holding Limited - Ordinary Shares",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "SVMH"
+  },
+  {
+   "symbol": "LGPS",
+   "name": "LogProstyle Inc. Common Shares",
+   "exchange": "NYSE MKT",
+   "yahoo_symbol": "LGPS"
+  },
+  {
+   "symbol": "SMAR",
+   "name": "Smartsheet Inc. Class A Common Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "SMAR"
+  },
+  {
+   "symbol": "SVMHW",
+   "name": "SRIVARU Holding Limited - Warrant",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "SVMHW"
+  },
+  {
+   "symbol": "CSLMR",
+   "name": "CSLM Acquisition Corp. - Right",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "CSLMR"
+  },
+  {
+   "symbol": "CSLMU",
+   "name": "CSLM Acquisition Corp. - Unit",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "CSLMU"
+  },
+  {
+   "symbol": "CSLMW",
+   "name": "CSLM Acquisition Corp. - Warrant",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "CSLMW"
+  }
+ ]
+}

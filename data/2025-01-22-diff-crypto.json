@@ -1,0 +1,88 @@
+{
+ "added": [
+  {
+   "symbol": "LEGEND",
+   "name": "Legend (LEGEND)",
+   "built_on": "BASE"
+  },
+  {
+   "symbol": "YILONGMA",
+   "name": "Chinese Elon Musk (YILONGMA)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "ZKEX",
+   "name": "zkExchange (ZKEX)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "PPCOIN",
+   "name": "Project Plutus (PPCOIN)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "METAIVERSE",
+   "name": "MetAIverse (METAIVERSE)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "G",
+   "name": "Gravity (G)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "TRUMPJRVIP",
+   "name": "TrumpJr (TRUMPJRVIP)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "PEIPEICN",
+   "name": "PEIPEI (PEIPEICN)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "BANK",
+   "name": "Float Protocol (BANK)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "BDOGITO",
+   "name": "BullDogito (BDOGITO)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "AICRYPTO",
+   "name": "AI Crypto (AICRYPTO)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "CBBTCBASE",
+   "name": "cbBTC (CBBTCBASE)"
+  },
+  {
+   "symbol": "TRUMPJR",
+   "name": "OFFICIAL TRUMP JR (TRUMPJR)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "HLOV1",
+   "name": "Halo v1 (HLOV1)"
+  },
+  {
+   "symbol": "YILONG",
+   "name": "Yi Long Ma (YILONG)",
+   "built_on": "SOL"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "TRUMPJR",
+   "name": "TrumpJr (TRUMPJR)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "AIC",
+   "name": "AI Crypto (AIC)"
+  }
+ ]
+}
