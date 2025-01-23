@@ -1,0 +1,84 @@
+{
+ "added": [
+  {
+   "symbol": "THEN",
+   "name": "THENA (THEN)"
+  },
+  {
+   "symbol": "UBC",
+   "name": "Ubcoin (UBC)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "BFWOG",
+   "name": "Based Fwog (basedfwog.info) (BFWOG)",
+   "built_on": "BASE"
+  },
+  {
+   "symbol": "PLUME",
+   "name": "Plume (PLUME)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "LUXCOIN",
+   "name": "LUXCoin (LUXCOIN)"
+  },
+  {
+   "symbol": "CBBTCBASE",
+   "name": "cbBTC (CBBTCBASE)"
+  },
+  {
+   "symbol": "BANK",
+   "name": "Float Protocol (BANK)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "CROWWITH",
+   "name": "crow with knife (CROWWITH)",
+   "built_on": "CRO"
+  },
+  {
+   "symbol": "AIC",
+   "name": "AI Companions (AIC)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "SONIC",
+   "name": "Sonic (SONIC)"
+  },
+  {
+   "symbol": "G",
+   "name": "Gravity (G)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "LUX",
+   "name": "Lux Token (LUX)",
+   "built_on": "BASE"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "LUX",
+   "name": "LUXCoin (LUX)"
+  },
+  {
+   "symbol": "ZEDCOIN",
+   "name": "ZedCoin (ZEDCOIN)"
+  },
+  {
+   "symbol": "THEN",
+   "name": "THENA (THEN)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "UBC",
+   "name": "Ubcoin (UBC)"
+  },
+  {
+   "symbol": "SONIC",
+   "name": "Sonic (SONIC)",
+   "built_on": "ETH"
+  }
+ ]
+}

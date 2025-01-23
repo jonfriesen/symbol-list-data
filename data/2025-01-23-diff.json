@@ -1,0 +1,132 @@
+{
+ "added": [
+  {
+   "symbol": "CSCO",
+   "name": "Cisco CDR (CAD Hedged)",
+   "exchange": "TSX",
+   "yahoo_symbol": "CSCO.TO",
+   "instruments": [
+    {
+     "name": "Cisco CDR CAD Hedged",
+     "symbol": "CSCO"
+    }
+   ]
+  },
+  {
+   "symbol": "DGNX",
+   "name": "Diginex Limited - Ordinary Shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "DGNX"
+  },
+  {
+   "symbol": "DXST",
+   "name": "Decent Holding Inc. - Ordinary Shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "DXST"
+  },
+  {
+   "symbol": "MCTR",
+   "name": "CTRL Group Limited - ordinary shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "MCTR"
+  },
+  {
+   "symbol": "TXUE",
+   "name": "Thornburg International Equity ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "TXUE"
+  },
+  {
+   "symbol": "GNS.V",
+   "name": "Genius Group Limited Rights (expiring February 14, 2025) Rights when issued",
+   "exchange": "NYSE MKT",
+   "yahoo_symbol": "GNS.V"
+  },
+  {
+   "symbol": "JFR.R",
+   "name": "Nuveen Floating Rate Income Fund Rights (expiring February 19, 2025) Rights",
+   "exchange": "NYSE",
+   "yahoo_symbol": "JFR.R"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "TETEW",
+   "name": "Technology \u0026 Telecommunication Acquisition Corporation - Warrant",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "TETEW"
+  },
+  {
+   "symbol": "WAVS",
+   "name": "Western Acquisition Ventures Corp. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "WAVS"
+  },
+  {
+   "symbol": "BRACU",
+   "name": "Broad Capital Acquisition Corp - Units",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "BRACU"
+  },
+  {
+   "symbol": "PPYAW",
+   "name": "Papaya Growth Opportunity Corp. I - Warrant",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "PPYAW"
+  },
+  {
+   "symbol": "WAVSU",
+   "name": "Western Acquisition Ventures Corp. - Unit",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "WAVSU"
+  },
+  {
+   "symbol": "PPYAU",
+   "name": "Papaya Growth Opportunity Corp. I - Unit",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "PPYAU"
+  },
+  {
+   "symbol": "WAVSW",
+   "name": "Western Acquisition Ventures Corp. - Warrant",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "WAVSW"
+  },
+  {
+   "symbol": "BRAC",
+   "name": "Broad Capital Acquisition Corp - Common Stock",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "BRAC"
+  },
+  {
+   "symbol": "TETE",
+   "name": "Technology \u0026 Telecommunication Acquisition Corporation - Class A Ordinary Shares",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "TETE"
+  },
+  {
+   "symbol": "PPYA",
+   "name": "Papaya Growth Opportunity Corp. I - Class A Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "PPYA"
+  },
+  {
+   "symbol": "JFR.V",
+   "name": "Nuveen Floating Rate Income Fund Rights (expiring February 19, 2025) Rights when issued",
+   "exchange": "NYSE",
+   "yahoo_symbol": "JFR.V"
+  },
+  {
+   "symbol": "TETEU",
+   "name": "Technology \u0026 Telecommunication Acquisition Corporation - Unit",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "TETEU"
+  },
+  {
+   "symbol": "BRACR",
+   "name": "Broad Capital Acquisition Corp - Rights",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "BRACR"
+  }
+ ]
+}
