@@ -1,0 +1,66 @@
+{
+ "added": [
+  {
+   "symbol": "MOJOB",
+   "name": "Mojo on Base (MOJOB)",
+   "built_on": "BASE"
+  },
+  {
+   "symbol": "WMCOIN",
+   "name": "WMCoin (WMCOIN)"
+  },
+  {
+   "symbol": "SHOGGOTHAI",
+   "name": "Shoggoth (SHOGGOTHAI)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "SONICSONIC",
+   "name": "Sonic (SONICSONIC)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "CBBTC",
+   "name": "Coinbase Wrapped BTC (CBBTC)",
+   "built_on": "BASE"
+  },
+  {
+   "symbol": "WMC",
+   "name": "Wrapped MistCoin (WMC)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "GETH",
+   "name": "Guarded Ether (GETH)"
+  },
+  {
+   "symbol": "POTUS",
+   "name": "President Trump (POTUS)",
+   "built_on": "BASE"
+  },
+  {
+   "symbol": "BABYNEIROB",
+   "name": "Baby Neiro (BABYNEIROB)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "BANKETH",
+   "name": "BankEth (BANKETH)"
+  },
+  {
+   "symbol": "MISTCOIN",
+   "name": "MistCoin (MISTCOIN)",
+   "built_on": "ETH"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "SONIC",
+   "name": "Sonic (SONIC)"
+  },
+  {
+   "symbol": "WMC",
+   "name": "WMCoin (WMC)"
+  }
+ ]
+}

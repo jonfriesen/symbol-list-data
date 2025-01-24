@@ -1,0 +1,110 @@
+{
+ "added": [
+  {
+   "symbol": "COLAU",
+   "name": "Columbus Acquisition Corp - Unit",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "COLAU"
+  },
+  {
+   "symbol": "GEME",
+   "name": "Pacific North of South EM Equity Active ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "GEME"
+  },
+  {
+   "symbol": "SKBL",
+   "name": "Skyline Builders Group Holding Limited - Class A Ordinary Shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "SKBL"
+  },
+  {
+   "symbol": "TXUG",
+   "name": "Thornburg International Growth Fund ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "TXUG"
+  },
+  {
+   "symbol": "DXF",
+   "name": "Eason Technology Limited American Depositary Shares (each representing sixty-thousand (60,000) Ordinary Shares)",
+   "exchange": "NYSE MKT",
+   "yahoo_symbol": "DXF"
+  },
+  {
+   "symbol": "NRO.R",
+   "name": "Neuberger Berman Real Estate Securities Income Fund, Inc. Rights (expiring February 19, 2025) Rights",
+   "exchange": "NYSE MKT",
+   "yahoo_symbol": "NRO.R"
+  },
+  {
+   "symbol": "VG",
+   "name": "Venture Global, Inc. Class A common stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "VG"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "GSH",
+   "name": "Golden Share Resources Corporation",
+   "exchange": "TSXV",
+   "yahoo_symbol": "GSH.V",
+   "instruments": [
+    {
+     "name": "Golden Share Resources Corporation",
+     "symbol": "GSH"
+    }
+   ]
+  },
+  {
+   "symbol": "HUDAU",
+   "name": "Hudson Acquisition I Corp. - Unit",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "HUDAU"
+  },
+  {
+   "symbol": "HUDA",
+   "name": "Hudson Acquisition I Corp. - Common Stock",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "HUDA"
+  },
+  {
+   "symbol": "NRO.V",
+   "name": "Neuberger Berman Real Estate Securities Income Fund, Inc. Rights (expiring February 19, 2025) Rights when issued",
+   "exchange": "NYSE MKT",
+   "yahoo_symbol": "NRO.V"
+  },
+  {
+   "symbol": "HUDAR",
+   "name": "Hudson Acquisition I Corp. - Right",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "HUDAR"
+  },
+  {
+   "symbol": "USAP",
+   "name": "Universal Stainless \u0026 Alloy Products, Inc. - Common Stock",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "USAP"
+  },
+  {
+   "symbol": "RHC",
+   "name": "Royal Helium Ltd.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "RHC.V",
+   "instruments": [
+    {
+     "name": "Royal Helium Ltd.",
+     "symbol": "RHC"
+    },
+    {
+     "name": "Royal Helium Ltd. wt 14Nov2026",
+     "symbol": "RHC.WT.A"
+    },
+    {
+     "name": "Royal Helium Ltd. wt08May2027",
+     "symbol": "RHC.WT.B"
+    }
+   ]
+  }
+ ]
+}
