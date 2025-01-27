@@ -1,0 +1,198 @@
+{
+ "added": [
+  {
+   "symbol": "DGC",
+   "name": "Daura Gold Corp.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "DGC.V",
+   "instruments": [
+    {
+     "name": "Daura Gold Corp.",
+     "symbol": "DGC"
+    }
+   ]
+  },
+  {
+   "symbol": "CMVP",
+   "name": "HAMILTON CHAMPIONS TM Canadian Dividend Index ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "CMVP.TO",
+   "instruments": [
+    {
+     "name": "HAMILTON CHAM CAD Di",
+     "symbol": "CMVP"
+    }
+   ]
+  },
+  {
+   "symbol": "SMVP",
+   "name": "HAMILTON CHAMPIONS TM U.S. Dividend Index ETF\r",
+   "exchange": "TSX",
+   "yahoo_symbol": "SMVP.TO",
+   "instruments": [
+    {
+     "name": "HAMILTON CHAM US Div",
+     "symbol": "SMVP"
+    }
+   ]
+  },
+  {
+   "symbol": "LAR",
+   "name": "Lithium Argentina AG\r",
+   "exchange": "TSX",
+   "yahoo_symbol": "LAR.TO",
+   "instruments": [
+    {
+     "name": "Lithium Argentina J",
+     "symbol": "LAR"
+    }
+   ]
+  },
+  {
+   "symbol": "AAPG",
+   "name": "Ascentage Pharma Group International - American Depository Shares",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "AAPG"
+  },
+  {
+   "symbol": "AMDG",
+   "name": "Leverage Shares 2X Long AMD Daily ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "AMDG"
+  },
+  {
+   "symbol": "BLNE",
+   "name": "Eastside Distilling, Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "BLNE"
+  },
+  {
+   "symbol": "HWH",
+   "name": "HWH International Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "HWH"
+  },
+  {
+   "symbol": "ACCS",
+   "name": "ACCESS Newswire Inc. Common Stock",
+   "exchange": "NYSE MKT",
+   "yahoo_symbol": "ACCS"
+  },
+  {
+   "symbol": "GNS.R",
+   "name": "Genius Group Limited Rights (expiring February 14, 2025) Rights",
+   "exchange": "NYSE MKT",
+   "yahoo_symbol": "GNS.R"
+  },
+  {
+   "symbol": "LAR",
+   "name": "Lithium Argentina AG Common Shares",
+   "exchange": "NYSE",
+   "yahoo_symbol": "LAR"
+  },
+  {
+   "symbol": "SKYH",
+   "name": "Sky Harbour Group Corporation Class A Common Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "SKYH"
+  },
+  {
+   "symbol": "SKYH.W",
+   "name": "Sky Harbour Group Corporation Warrants, each whole warrant exercisable for one share of Class A common stock at an exercise price of $11.50 per share",
+   "exchange": "NYSE",
+   "yahoo_symbol": "SKYH.W"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "SKYH",
+   "name": "Sky Harbour Group Corporation Class A Common Stock",
+   "exchange": "NYSE MKT",
+   "yahoo_symbol": "SKYH"
+  },
+  {
+   "symbol": "ISDR",
+   "name": "Issuer Direct Corporation Common Stock",
+   "exchange": "NYSE MKT",
+   "yahoo_symbol": "ISDR"
+  },
+  {
+   "symbol": "DUR.P",
+   "name": "Daura Capital Corp.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "DUR.P.V",
+   "instruments": [
+    {
+     "name": "Daura Capital Corp.",
+     "symbol": "DUR.P"
+    }
+   ]
+  },
+  {
+   "symbol": "HWH",
+   "name": "HWH International Inc. - Common Stock",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "HWH"
+  },
+  {
+   "symbol": "EAST",
+   "name": "Eastside Distilling, Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "EAST"
+  },
+  {
+   "symbol": "GNS.V",
+   "name": "Genius Group Limited Rights (expiring February 14, 2025) Rights when issued",
+   "exchange": "NYSE MKT",
+   "yahoo_symbol": "GNS.V"
+  },
+  {
+   "symbol": "SKYH.W",
+   "name": "Sky Harbour Group Corporation Warrants, each whole warrant exercisable for one share of Class A common stock at an exercise price of $11.50 per share",
+   "exchange": "NYSE MKT",
+   "yahoo_symbol": "SKYH.W"
+  },
+  {
+   "symbol": "LAAC",
+   "name": "Lithium Americas (Argentina) Corp.",
+   "exchange": "TSX",
+   "yahoo_symbol": "LAAC.TO",
+   "instruments": [
+    {
+     "name": "Lithium Argentina J",
+     "symbol": "LAAC"
+    }
+   ]
+  },
+  {
+   "symbol": "B",
+   "name": "Barnes Group, Inc. Common Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "B"
+  },
+  {
+   "symbol": "GODN",
+   "name": "Golden Star Acquisition Corporation - Ordinary Shares",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "GODN"
+  },
+  {
+   "symbol": "GODNU",
+   "name": "Golden Star Acquisition Corporation - Unit",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "GODNU"
+  },
+  {
+   "symbol": "GODNR",
+   "name": "Golden Star Acquisition Corporation - Rights",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "GODNR"
+  },
+  {
+   "symbol": "LAAC",
+   "name": "Lithium Americas (Argentina) Corp. Common Shares",
+   "exchange": "NYSE",
+   "yahoo_symbol": "LAAC"
+  }
+ ]
+}

@@ -1,0 +1,82 @@
+{
+ "added": [
+  {
+   "symbol": "YUSD",
+   "name": "YieldFi yToken (YUSD)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "TAIKO",
+   "name": "Taiko (TAIKO)"
+  },
+  {
+   "symbol": "WKEYDAO",
+   "name": "WebKey DAO (WKEYDAO)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "ZBUV1",
+   "name": "ZEEBU v1 (ZBUV1)"
+  },
+  {
+   "symbol": "ZEDCOIN",
+   "name": "ZedCoin (ZEDCOIN)"
+  },
+  {
+   "symbol": "GPRO",
+   "name": "GoldPro (GPRO)",
+   "built_on": "POL"
+  },
+  {
+   "symbol": "BERASTONE",
+   "name": "StakeStone Berachain Vault Token (BERASTONE)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "YETIUSD",
+   "name": "YUSD Stablecoin (YETIUSD)",
+   "built_on": "AVAX"
+  },
+  {
+   "symbol": "BANK",
+   "name": "Float Protocol (BANK)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "INDX",
+   "name": "CryptoIndex (INDX)"
+  },
+  {
+   "symbol": "VINE",
+   "name": "Vine Coin (VINE)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "G",
+   "name": "Gravity (G)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "VOID",
+   "name": "Nothing (VOID)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "CBBTC",
+   "name": "Coinbase Wrapped BTC (CBBTC)",
+   "built_on": "BASE"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "YUSD",
+   "name": "YUSD Stablecoin (YUSD)",
+   "built_on": "AVAX"
+  },
+  {
+   "symbol": "TAIKO",
+   "name": "Taiko (TAIKO)",
+   "built_on": "ETH"
+  }
+ ]
+}
