@@ -1,0 +1,72 @@
+{
+ "added": [
+  {
+   "symbol": "REG",
+   "name": "RealToken Ecosystem Governance (REG)",
+   "built_on": "XDAI"
+  },
+  {
+   "symbol": "MAGA47",
+   "name": "MAGA 47 (MAGA47)",
+   "built_on": "BASE"
+  },
+  {
+   "symbol": "BTR",
+   "name": "BTRIPS (BTR)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "SOSO",
+   "name": "SoSoValue (SOSO)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "FLOCK",
+   "name": "Flockerz (FLOCK)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "FARTBOY",
+   "name": "Fartboy (FARTBOY)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "OSOL",
+   "name": "OSOL (OSOL)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "BANK",
+   "name": "Float Protocol (BANK)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "L1X",
+   "name": "Layer One X (L1X)"
+  },
+  {
+   "symbol": "GETH",
+   "name": "Guarded Ether (GETH)"
+  },
+  {
+   "symbol": "VVV",
+   "name": "Venice Token (VVV)",
+   "built_on": "BASE"
+  },
+  {
+   "symbol": "CBBTCBASE",
+   "name": "cbBTC (CBBTCBASE)"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "BTR",
+   "name": "BTRIPS (BTR)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "ZEDCOIN",
+   "name": "ZedCoin (ZEDCOIN)"
+  }
+ ]
+}

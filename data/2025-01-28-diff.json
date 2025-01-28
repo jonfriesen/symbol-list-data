@@ -1,0 +1,180 @@
+{
+ "added": [
+  {
+   "symbol": "FMTO",
+   "name": "Femto Technologies Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "FMTO"
+  },
+  {
+   "symbol": "GMHS",
+   "name": "Gamehaus Holdings Inc. - Class A Ordinary Shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "GMHS"
+  },
+  {
+   "symbol": "SPHA",
+   "name": "Shepherd Ave Capital Acquisition Corporation - Class A Ordinary shares",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "SPHA"
+  },
+  {
+   "symbol": "SPHAR",
+   "name": "Shepherd Ave Capital Acquisition Corporation - Right",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "SPHAR"
+  },
+  {
+   "symbol": "XCYT",
+   "name": "Xcyte Digital Corp.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "XCYT.V",
+   "instruments": [
+    {
+     "name": "Xcyte Digital Corp.",
+     "symbol": "XCYT"
+    }
+   ]
+  },
+  {
+   "symbol": "FCAB",
+   "name": "Fidelity Absolute Income Fund",
+   "exchange": "TSX",
+   "yahoo_symbol": "FCAB.TO",
+   "instruments": [
+    {
+     "name": "Fidelity Abs InF ETF",
+     "symbol": "FCAB"
+    },
+    {
+     "name": "Fidelity Abs Inc USF",
+     "symbol": "FCAB.U"
+    }
+   ]
+  },
+  {
+   "symbol": "FAUS",
+   "name": "Fidelity Advanced U.S. Equity Fund",
+   "exchange": "TSX",
+   "yahoo_symbol": "FAUS.TO",
+   "instruments": [
+    {
+     "name": "Fidelty Adv US EqETF",
+     "symbol": "FAUS"
+    },
+    {
+     "name": "Fidelity AdvUS Eq US",
+     "symbol": "FAUS.U"
+    }
+   ]
+  },
+  {
+   "symbol": "FCUB",
+   "name": "Fidelity Core U.S. Bond ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "FCUB.TO",
+   "instruments": [
+    {
+     "name": "Fidelty CoUS Bd ETF",
+     "symbol": "FCUB"
+    },
+    {
+     "name": "Fidty CoUS Bd ETF US",
+     "symbol": "FCUB.U"
+    }
+   ]
+  },
+  {
+   "symbol": "CWIN",
+   "name": "HAMILTON CHAMPIONS TM Enhanced Canadian Dividend ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "CWIN.TO",
+   "instruments": [
+    {
+     "name": "Ham ChmpEnh CdDv ETF",
+     "symbol": "CWIN"
+    }
+   ]
+  },
+  {
+   "symbol": "SWIN",
+   "name": "HAMILTON CHAMPIONS TM Enhanced U.S. Dividend ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "SWIN.TO",
+   "instruments": [
+    {
+     "name": "Ham ChmpEnh USDv ETF",
+     "symbol": "SWIN"
+    }
+   ]
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "AEVA.W",
+   "name": "Aeva Technologies, Inc. Redeemable Warrants, each whole warrant exercisable for shares of common stock at an exercise price of $11.50 per share",
+   "exchange": "NYSE",
+   "yahoo_symbol": "AEVA.W"
+  },
+  {
+   "symbol": "QTI",
+   "name": "QT Imaging Holdings, Inc. - Common Stock",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "QTI"
+  },
+  {
+   "symbol": "PLMJU",
+   "name": "Plum Acquisition Corp. III - Unit",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "PLMJU"
+  },
+  {
+   "symbol": "PLMJW",
+   "name": "Plum Acquisition Corp. III - Warrant",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "PLMJW"
+  },
+  {
+   "symbol": "AEVA",
+   "name": "Aeva Technologies, Inc. Common Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "AEVA"
+  },
+  {
+   "symbol": "BCAN",
+   "name": "Femto Technologies Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "BCAN"
+  },
+  {
+   "symbol": "PLMJ",
+   "name": "Plum Acquisition Corp. III - Class A Ordinary Shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "PLMJ"
+  },
+  {
+   "symbol": "ROCK",
+   "name": "Rockridge Resources Ltd.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "ROCK.V",
+   "instruments": [
+    {
+     "name": "Rockridge Resources Ltd.",
+     "symbol": "ROCK"
+    }
+   ]
+  },
+  {
+   "symbol": "MAS",
+   "name": "Mas Gold Corp.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "MAS.V",
+   "instruments": [
+    {
+     "name": "Mas Gold Corp.",
+     "symbol": "MAS"
+    }
+   ]
+  }
+ ]
+}
