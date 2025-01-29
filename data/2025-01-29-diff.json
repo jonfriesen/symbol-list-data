@@ -1,0 +1,72 @@
+{
+ "added": [
+  {
+   "symbol": "AEVA",
+   "name": "Aeva Technologies, Inc. - Common Stock",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "AEVA"
+  },
+  {
+   "symbol": "AEVAW",
+   "name": "Aeva Technologies, Inc. - Redeemable Warrants",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "AEVAW"
+  },
+  {
+   "symbol": "DMAAU",
+   "name": "Drugs Made In America Acquisition Corp. - Units",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "DMAAU"
+  },
+  {
+   "symbol": "FATAV",
+   "name": "FAT Brands Inc. - Class A Common Stock Ex-distribution When-Issued",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "FATAV"
+  },
+  {
+   "symbol": "FATBV",
+   "name": "FAT Brands Inc. - Class B Common Stock Ex-distribution When-Issued",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "FATBV"
+  },
+  {
+   "symbol": "SFD",
+   "name": "Smithfield Foods, Inc. - Common Stock",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "SFD"
+  },
+  {
+   "symbol": "TWNPV",
+   "name": "Twin Hospitality Group Inc. - Class A Common Stock",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "TWNPV"
+  },
+  {
+   "symbol": "MSIF",
+   "name": "MSC Income Fund, Inc. Common Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "MSIF"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "GOEV",
+   "name": "Canoo Inc.  - Class A Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "GOEV"
+  },
+  {
+   "symbol": "GOEVW",
+   "name": "Canoo Inc.  - Warrant",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "GOEVW"
+  },
+  {
+   "symbol": "WBUY",
+   "name": "WEBUY GLOBAL LTD. - Ordinary Shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "WBUY"
+  }
+ ]
+}

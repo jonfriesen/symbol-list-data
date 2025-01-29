@@ -1,0 +1,86 @@
+{
+ "added": [
+  {
+   "symbol": "CBBTC",
+   "name": "Coinbase Wrapped BTC (CBBTC)",
+   "built_on": "BASE"
+  },
+  {
+   "symbol": "ROPE",
+   "name": "Rope Token (ROPE)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "DCOIN",
+   "name": "Crypto Delivery (DCOIN)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "TAXAD",
+   "name": "TAXAD (TAXAD)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "ZEDCOIN",
+   "name": "ZedCoin (ZEDCOIN)"
+  },
+  {
+   "symbol": "DAR",
+   "name": "Mines of Dalarnia (DAR)"
+  },
+  {
+   "symbol": "MXNA",
+   "name": "Machina (MXNA)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "MDOGS",
+   "name": "Money Dogs (MDOGS)",
+   "built_on": "TON"
+  },
+  {
+   "symbol": "BANKETH",
+   "name": "BankEth (BANKETH)"
+  },
+  {
+   "symbol": "JFOX",
+   "name": "JuniperFox AI (JFOX)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "PASTERNAK",
+   "name": "Ben Pasternak (PASTERNAK)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "YULI",
+   "name": "Yuliverse (YULI)",
+   "built_on": "KAIA"
+  },
+  {
+   "symbol": "DENARIUS",
+   "name": "Denarius (DENARIUS)"
+  },
+  {
+   "symbol": "G",
+   "name": "Gravity (G)",
+   "built_on": "ETH"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "DCOIN",
+   "name": "Crypto Delivery (DCOIN)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "DAR",
+   "name": "Mines of Dalarnia (DAR)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "D",
+   "name": "Denarius (D)"
+  }
+ ]
+}
