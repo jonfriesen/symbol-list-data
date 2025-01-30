@@ -1,0 +1,72 @@
+{
+ "added": [
+  {
+   "symbol": "FGMCU",
+   "name": "FG Merger II Corp. - Unit",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "FGMCU"
+  },
+  {
+   "symbol": "PASG",
+   "name": "Passage Bio, Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "PASG"
+  },
+  {
+   "symbol": "TWNP",
+   "name": "Twin Hospitality Group Inc. - Class A Common Stock",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "TWNP"
+  },
+  {
+   "symbol": "JACS",
+   "name": "Jackson Acquisition Company II Class A Ordinary Shares",
+   "exchange": "NYSE",
+   "yahoo_symbol": "JACS"
+  },
+  {
+   "symbol": "JACS.R",
+   "name": "Jackson Acquisition Company II Rights, each right to acquire one-tenth (1/10) of one Class A ordinary share",
+   "exchange": "NYSE",
+   "yahoo_symbol": "JACS.R"
+  },
+  {
+   "symbol": "RWTP",
+   "name": "Redwood Trust, Inc. 9.125% Senior Notes Due 2030",
+   "exchange": "NYSE",
+   "yahoo_symbol": "RWTP"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "KNW",
+   "name": "Know Labs, Inc. Common Stock",
+   "exchange": "NYSE MKT",
+   "yahoo_symbol": "KNW"
+  },
+  {
+   "symbol": "FATBV",
+   "name": "FAT Brands Inc. - Class B Common Stock Ex-distribution When-Issued",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "FATBV"
+  },
+  {
+   "symbol": "PASG",
+   "name": "Passage Bio, Inc. - Common Stock",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "PASG"
+  },
+  {
+   "symbol": "TWNPV",
+   "name": "Twin Hospitality Group Inc. - Class A Common Stock",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "TWNPV"
+  },
+  {
+   "symbol": "FATAV",
+   "name": "FAT Brands Inc. - Class A Common Stock Ex-distribution When-Issued",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "FATAV"
+  }
+ ]
+}

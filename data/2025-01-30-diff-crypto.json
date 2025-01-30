@@ -1,0 +1,85 @@
+{
+ "added": [
+  {
+   "symbol": "SOLVBTCBBN",
+   "name": "Solv Protocol SolvBTC.BBN (SOLVBTCBBN)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "TICO",
+   "name": "Tico (TICO)",
+   "built_on": "AVAX"
+  },
+  {
+   "symbol": "EDGE",
+   "name": "EDGE (EDGE)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "BANKETH",
+   "name": "BankEth (BANKETH)"
+  },
+  {
+   "symbol": "SWANSOL",
+   "name": "Black Swan (SWANSOL)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "CBBTC",
+   "name": "Coinbase Wrapped BTC (CBBTC)",
+   "built_on": "BASE"
+  },
+  {
+   "symbol": "J",
+   "name": "Jambo (J)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "GETH",
+   "name": "Guarded Ether (GETH)"
+  },
+  {
+   "symbol": "AIMONICA",
+   "name": "Aimonica Brands (AIMONICA)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "SWAN",
+   "name": "Swan Chain (SWAN)"
+  },
+  {
+   "symbol": "CRYPTODELIVERY",
+   "name": "Crypto Delivery (CRYPTODELIVERY)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "CRYPTOJESUS",
+   "name": "Crypto Jesus Trump (CRYPTOJESUS)",
+   "built_on": "BASE"
+  },
+  {
+   "symbol": "JOINCOIN",
+   "name": "JoinCoin (JOINCOIN)"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "SWAN",
+   "name": "Black Swan (SWAN)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "EDGE",
+   "name": "EDGE (EDGE)"
+  },
+  {
+   "symbol": "J",
+   "name": "JoinCoin (J)"
+  },
+  {
+   "symbol": "SOLVBTCBBN",
+   "name": "Solv Protocol SolvBTC.BBN (SOLVBTCBBN)",
+   "built_on": "BNB"
+  }
+ ]
+}
