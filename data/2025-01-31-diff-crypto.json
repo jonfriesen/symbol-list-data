@@ -1,0 +1,125 @@
+{
+ "added": [
+  {
+   "symbol": "SEND",
+   "name": "Suilend (SEND)",
+   "built_on": "SUI"
+  },
+  {
+   "symbol": "KIKIF",
+   "name": "Kiki Flaminki (KIKIF)",
+   "built_on": "BASE"
+  },
+  {
+   "symbol": "UBC",
+   "name": "Universal Basic Compute (UBC)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "KIKI",
+   "name": "KIKICat (KIKI)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "UBCOIN",
+   "name": "Ubcoin (UBCOIN)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "NC",
+   "name": "Nodecoin (NC)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "BULLIONFX",
+   "name": "BullionFX (BULLIONFX)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "CBBTCBASE",
+   "name": "cbBTC (CBBTCBASE)"
+  },
+  {
+   "symbol": "EFFECT",
+   "name": "Effect AI (EFFECT)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "MAXAIAGENT",
+   "name": "MAX (MAXAIAGENT)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "EAFIN",
+   "name": "EAFIN (EAFIN)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "G",
+   "name": "Gravity (G)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "SOLVBTCENA",
+   "name": "SolvBTC Ethena (SOLVBTCENA)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "BULL",
+   "name": "Bullieverse (BULL)",
+   "built_on": "POL"
+  },
+  {
+   "symbol": "SOLVBTCJUP",
+   "name": "SolvBTC Jupiter (SOLVBTCJUP)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "SOCIALSEND",
+   "name": "Social Send (SOCIALSEND)"
+  },
+  {
+   "symbol": "BANK",
+   "name": "Float Protocol (BANK)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "NAYUTA",
+   "name": "Nayuta Coin (NAYUTA)",
+   "built_on": "ENQ"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "NC",
+   "name": "Nayuta Coin (NC)"
+  },
+  {
+   "symbol": "ZEDCOIN",
+   "name": "ZedCoin (ZEDCOIN)"
+  },
+  {
+   "symbol": "UBC",
+   "name": "Ubcoin (UBC)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "SEND",
+   "name": "Social Send (SEND)"
+  },
+  {
+   "symbol": "BULLION",
+   "name": "BullionFX (BULLION)"
+  },
+  {
+   "symbol": "KIKI",
+   "name": "Kiki Flaminki (KIKI)",
+   "built_on": "BASE"
+  },
+  {
+   "symbol": "BULL",
+   "name": "Bullieverse (BULL)",
+   "built_on": "ETH"
+  }
+ ]
+}

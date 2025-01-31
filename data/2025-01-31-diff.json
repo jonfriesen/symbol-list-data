@@ -1,0 +1,130 @@
+{
+ "added": [
+  {
+   "symbol": "CUB",
+   "name": "Cubicfarm Systems Corp.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "CUB.V",
+   "instruments": [
+    {
+     "name": "Cubicfarm Systems Corp.",
+     "symbol": "CUB"
+    },
+    {
+     "name": "CubicFarm Systems Corp. db 02Jun2027",
+     "symbol": "CUB.DB"
+    }
+   ]
+  },
+  {
+   "symbol": "MCC",
+   "name": "Morocco Strategic Minerals Corporation",
+   "exchange": "TSXV",
+   "yahoo_symbol": "MCC.V",
+   "instruments": [
+    {
+     "name": "Morocco Strategic Minerals Corporation",
+     "symbol": "MCC"
+    }
+   ]
+  },
+  {
+   "symbol": "REVX",
+   "name": "Rev Exploration Corp.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "REVX.V",
+   "instruments": [
+    {
+     "name": "Rev Exploration Corp.",
+     "symbol": "REVX"
+    }
+   ]
+  },
+  {
+   "symbol": "INR",
+   "name": "Infinity Natural Resources, Inc. Class A Common Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "INR"
+  },
+  {
+   "symbol": "AAVM",
+   "name": "Alpha Architect Global Factor Equity ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "AAVM"
+  },
+  {
+   "symbol": "BBNX",
+   "name": "Beta Bionics, Inc. - Common Stock",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "BBNX"
+  },
+  {
+   "symbol": "BCLO",
+   "name": "iShares BBB-B CLO Active ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "BCLO"
+  },
+  {
+   "symbol": "CSAI",
+   "name": "Cloudastructure, Inc. - Class A Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "CSAI"
+  },
+  {
+   "symbol": "SVCCU",
+   "name": "Stellar V Capital Corp. - Unit",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "SVCCU"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "HYZNW",
+   "name": "Hyzon Motors Inc. - Warrant",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "HYZNW"
+  },
+  {
+   "symbol": "HYZN",
+   "name": "Hyzon Motors Inc. - Class A Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "HYZN"
+  },
+  {
+   "symbol": "GIT",
+   "name": "Gitennes Exploration Inc.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "GIT.V",
+   "instruments": [
+    {
+     "name": "Gitennes Exploration Inc.",
+     "symbol": "GIT"
+    }
+   ]
+  },
+  {
+   "symbol": "VMOT",
+   "name": "Alpha Architect Value Momentum Trend ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "VMOT"
+  },
+  {
+   "symbol": "GENI",
+   "name": "Genius Metals Inc.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "GENI.V",
+   "instruments": [
+    {
+     "name": "Genius Metals Inc.",
+     "symbol": "GENI"
+    }
+   ]
+  },
+  {
+   "symbol": "ENLC",
+   "name": "EnLink Midstream, LLC Common Units representing Limited Partner Interests",
+   "exchange": "NYSE",
+   "yahoo_symbol": "ENLC"
+  }
+ ]
+}
