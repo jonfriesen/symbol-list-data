@@ -1,0 +1,47 @@
+{
+ "added": [
+  {
+   "symbol": "G",
+   "name": "Gravity (G)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "CBBTC",
+   "name": "Coinbase Wrapped BTC (CBBTC)",
+   "built_on": "BASE"
+  },
+  {
+   "symbol": "MEMDEX",
+   "name": "Memdex100 (MEMDEX)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "ZEDCOIN",
+   "name": "ZedCoin (ZEDCOIN)"
+  },
+  {
+   "symbol": "BANKETH",
+   "name": "BankEth (BANKETH)"
+  },
+  {
+   "symbol": "JELLYJELLY",
+   "name": "Jelly-My-Jelly (JELLYJELLY)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "N3",
+   "name": "Network3 (N3)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "RIFT",
+   "name": "RIFT AI (RIFT)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "KAPPA",
+   "name": "Kappa (KAPPA)",
+   "built_on": "SOL"
+  }
+ ]
+}

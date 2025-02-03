@@ -1,0 +1,108 @@
+{
+ "added": [
+  {
+   "symbol": "HTOO",
+   "name": "Fusion Fuel Green PLC - Ordinary Shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "HTOO"
+  },
+  {
+   "symbol": "HTOOW",
+   "name": "Fusion Fuel Green PLC - Warrant",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "HTOOW"
+  },
+  {
+   "symbol": "MAZE",
+   "name": "Maze Therapeutics, Inc. - Common Stock",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "MAZE"
+  },
+  {
+   "symbol": "MTSR",
+   "name": "Metsera, Inc. - Common Stock",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "MTSR"
+  },
+  {
+   "symbol": "PLMK",
+   "name": "Plum Acquisition Corp. IV - Class A Ordinary Shares",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "PLMK"
+  },
+  {
+   "symbol": "PLMKW",
+   "name": "Plum Acquisition Corp. IV - Warrants",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "PLMKW"
+  },
+  {
+   "symbol": "XIFR",
+   "name": "XPLR Infrastructure, LP Common Units representing limited partner interests",
+   "exchange": "NYSE",
+   "yahoo_symbol": "XIFR"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "MAGS",
+   "name": "Roundhill Magnificent Seven ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "MAGS"
+  },
+  {
+   "symbol": "BMTX.W",
+   "name": "BM Technologies, Inc. Warrants",
+   "exchange": "NYSE MKT",
+   "yahoo_symbol": "BMTX.W"
+  },
+  {
+   "symbol": "HTOO",
+   "name": "Fusion Fuel Green PLC - Ordinary Shares",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "HTOO"
+  },
+  {
+   "symbol": "MAGX",
+   "name": "Roundhill Daily 2X Long Magnificent Seven ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "MAGX"
+  },
+  {
+   "symbol": "HTLFP",
+   "name": "Heartland Financial USA, Inc. - Depositary Shares, each representing a 1/400th ownership interest in a share of 7.00% Fixed-Rate Reset Non-Cumulative Perpetual Preferred Stock, Series E",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "HTLFP"
+  },
+  {
+   "symbol": "INSI",
+   "name": "Insight Select Income Fund",
+   "exchange": "NYSE",
+   "yahoo_symbol": "INSI"
+  },
+  {
+   "symbol": "HTLF",
+   "name": "Heartland Financial USA, Inc. - Common Stock",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "HTLF"
+  },
+  {
+   "symbol": "NEP",
+   "name": "NextEra Energy Partners, LP Common Units representing limited partner interests",
+   "exchange": "NYSE",
+   "yahoo_symbol": "NEP"
+  },
+  {
+   "symbol": "HTOOW",
+   "name": "Fusion Fuel Green PLC - Warrant",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "HTOOW"
+  },
+  {
+   "symbol": "BMTX",
+   "name": "BM Technologies, Inc. Common Stock",
+   "exchange": "NYSE MKT",
+   "yahoo_symbol": "BMTX"
+  }
+ ]
+}
