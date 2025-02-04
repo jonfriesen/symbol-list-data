@@ -1,0 +1,108 @@
+{
+ "added": [
+  {
+   "symbol": "DRDB",
+   "name": "Roman DBDR Acquisition Corp. II - Ordinary shares",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "DRDB"
+  },
+  {
+   "symbol": "DRDBW",
+   "name": "Roman DBDR Acquisition Corp. II - Warrants",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "DRDBW"
+  },
+  {
+   "symbol": "LYRA",
+   "name": "Lyra Therapeutics, Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "LYRA"
+  },
+  {
+   "symbol": "MLAC",
+   "name": "Mountain Lake Acquisition Corp. - Class A Ordinary Shares",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "MLAC"
+  },
+  {
+   "symbol": "MLACR",
+   "name": "Mountain Lake Acquisition Corp. - Right",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "MLACR"
+  },
+  {
+   "symbol": "UMBFP",
+   "name": "UMB Financial Corporation - Depositary Shares, each representing a 1/400th of 7.00% Fixed-Rate Reset Non-Cumulative Perpetual Preferred Stock",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "UMBFP"
+  },
+  {
+   "symbol": "ROCK",
+   "name": "Eros Resources Corp.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "ROCK.V",
+   "instruments": [
+    {
+     "name": "Eros Resources Corp.",
+     "symbol": "ROCK"
+    }
+   ]
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "SCY",
+   "name": "Scandium International Mining Corp.",
+   "exchange": "TSX",
+   "yahoo_symbol": "SCY.TO",
+   "instruments": [
+    {
+     "name": "Scandium Int'l Mng J",
+     "symbol": "SCY"
+    }
+   ]
+  },
+  {
+   "symbol": "VIRX",
+   "name": "Viracta Therapeutics, Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "VIRX"
+  },
+  {
+   "symbol": "PROC",
+   "name": "Procaps Group, S.A. - Ordinary Shares",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "PROC"
+  },
+  {
+   "symbol": "PROCW",
+   "name": "Procaps Group, S.A. - Warrants",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "PROCW"
+  },
+  {
+   "symbol": "ERC",
+   "name": "Eros Resources Corp.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "ERC.V",
+   "instruments": [
+    {
+     "name": "Eros Resources Corp.",
+     "symbol": "ERC"
+    }
+   ]
+  },
+  {
+   "symbol": "SCWX",
+   "name": "SecureWorks Corp. - Class A Common Stock",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "SCWX"
+  },
+  {
+   "symbol": "LYRA",
+   "name": "Lyra Therapeutics, Inc. - Common Stock",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "LYRA"
+  }
+ ]
+}

@@ -1,0 +1,139 @@
+{
+ "added": [
+  {
+   "symbol": "AINTI",
+   "name": "AIntivirus (AINTI)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "BTRUMP",
+   "name": "Official Baby Trump (BTRUMP)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "LEGIT",
+   "name": "LEGIT (LEGIT)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "QWEN",
+   "name": "Qwen AI (QWEN)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "ONDOAI",
+   "name": "Ondo DeFAI (ONDOAI)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "32",
+   "name": "Project 32 (32)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "EDWIN",
+   "name": "Edwin (EDWIN)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "DEEPSEEK",
+   "name": "Global DePIN Chain (DEEPSEEK)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "KARUM",
+   "name": "Karum Coin (KARUM)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "GROK3",
+   "name": "Grok 3 (GROK3)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "DOGECAUCUS",
+   "name": "Doge Caucus (DOGECAUCUS)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "BEATAI",
+   "name": "eBeat AI (BEATAI)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "USTREAM",
+   "name": "Ustream Coin (USTREAM)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "KEIRA",
+   "name": "Keira (KEIRA)",
+   "built_on": "BASE"
+  },
+  {
+   "symbol": "PINEYE",
+   "name": "PinEye (PINEYE)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "BIGFACTS",
+   "name": "BIGFACTS (BIGFACTS)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "ELON4AFD",
+   "name": "Elon for AfD (ELON4AFD)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "CAIV",
+   "name": "CARVIS (CAIV)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "EVAL",
+   "name": "Chromia's EVAL by Virtuals (EVAL)",
+   "built_on": "BASE"
+  },
+  {
+   "symbol": "NIBBLES",
+   "name": "Nibbles (NIBBLES)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "AGIALPHA",
+   "name": "AGI ALPHA AGENT (AGIALPHA)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "G",
+   "name": "Gravity (G)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "BANK",
+   "name": "Float Protocol (BANK)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "CBBTCBASE",
+   "name": "cbBTC (CBBTCBASE)"
+  },
+  {
+   "symbol": "BAHIA",
+   "name": "Esporte Clube Bahia Fan Token (BAHIA)",
+   "built_on": "CHZ"
+  },
+  {
+   "symbol": "ANDYBSCVIP",
+   "name": "ANDY (ANDYBSCVIP)",
+   "built_on": "BNB"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "ZEDCOIN",
+   "name": "ZedCoin (ZEDCOIN)"
+  }
+ ]
+}
