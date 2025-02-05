@@ -1,0 +1,228 @@
+{
+ "added": [
+  {
+   "symbol": "CERO",
+   "name": "CERo Therapeutics Holdings, Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "CERO"
+  },
+  {
+   "symbol": "MRP.V",
+   "name": "Millrose Properties, Inc. Class A Common Stock When-Issued",
+   "exchange": "NYSE",
+   "yahoo_symbol": "MRP.V"
+  },
+  {
+   "symbol": "SCY",
+   "name": "Scandium International Mining Corp.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "SCY.V",
+   "instruments": [
+    {
+     "name": "Scandium International Mining Corp.",
+     "symbol": "SCY"
+    }
+   ]
+  },
+  {
+   "symbol": "GOOG",
+   "name": "Alphabet CDR (CAD Hedged)",
+   "exchange": "TSX",
+   "yahoo_symbol": "GOOG.TO",
+   "instruments": [
+    {
+     "name": "Alphabet CDR CAD HD",
+     "symbol": "GOOG"
+    }
+   ]
+  },
+  {
+   "symbol": "AMZN",
+   "name": "Amazon.com CDR (CAD Hedged)",
+   "exchange": "TSX",
+   "yahoo_symbol": "AMZN.TO",
+   "instruments": [
+    {
+     "name": "Amazon.comCDR CAD HD",
+     "symbol": "AMZN"
+    }
+   ]
+  },
+  {
+   "symbol": "AAPL",
+   "name": "Apple CDR (CAD Hedged)",
+   "exchange": "TSX",
+   "yahoo_symbol": "AAPL.TO",
+   "instruments": [
+    {
+     "name": "Apple CDR CAD HD",
+     "symbol": "AAPL"
+    }
+   ]
+  },
+  {
+   "symbol": "BRK",
+   "name": "Berkshire Hathaway CDR (CAD Hedged)",
+   "exchange": "TSX",
+   "yahoo_symbol": "BRK.TO",
+   "instruments": [
+    {
+     "name": "Berk Hath CDR CAD HD",
+     "symbol": "BRK"
+    }
+   ]
+  },
+  {
+   "symbol": "CWB.PR.B",
+   "name": "Canadian Western Bank",
+   "exchange": "TSX",
+   "yahoo_symbol": "CWB.PR.B.TO",
+   "instruments": [
+    {
+     "name": "Cdn Wstrn Bk Sr 5 Pr",
+     "symbol": "CWB.PR.B"
+    },
+    {
+     "name": "Cdn Wstrn Bk Sr 9 Pr",
+     "symbol": "CWB.PR.D"
+    }
+   ]
+  },
+  {
+   "symbol": "COST",
+   "name": "Costco CDR (CAD Hedged)",
+   "exchange": "TSX",
+   "yahoo_symbol": "COST.TO",
+   "instruments": [
+    {
+     "name": "Costco CDR CAD HD",
+     "symbol": "COST"
+    }
+   ]
+  },
+  {
+   "symbol": "META",
+   "name": "Meta CDR (CAD Hedged)",
+   "exchange": "TSX",
+   "yahoo_symbol": "META.TO",
+   "instruments": [
+    {
+     "name": "Meta CDR CAD Hedged",
+     "symbol": "META"
+    }
+   ]
+  },
+  {
+   "symbol": "MSFT",
+   "name": "Microsoft CDR (CAD Hedged)",
+   "exchange": "TSX",
+   "yahoo_symbol": "MSFT.TO",
+   "instruments": [
+    {
+     "name": "Microsoft CDR CAD HD",
+     "symbol": "MSFT"
+    }
+   ]
+  },
+  {
+   "symbol": "NVDA",
+   "name": "Nvidia CDR (CAD Hedged)",
+   "exchange": "TSX",
+   "yahoo_symbol": "NVDA.TO",
+   "instruments": [
+    {
+     "name": "Nvidia CDR CAD HD",
+     "symbol": "NVDA"
+    }
+   ]
+  },
+  {
+   "symbol": "TSLA",
+   "name": "Tesla CDR (CAD Hedged)",
+   "exchange": "TSX",
+   "yahoo_symbol": "TSLA.TO",
+   "instruments": [
+    {
+     "name": "Tesla CDR CAD HD",
+     "symbol": "TSLA"
+    }
+   ]
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "RHE$A",
+   "name": "Regional Health Properties, Inc. 10.875% Series A Cumulative Redeemable Preferred Stock",
+   "exchange": "NYSE MKT",
+   "yahoo_symbol": "RHE$A"
+  },
+  {
+   "symbol": "CWB",
+   "name": "Canadian Western Bank",
+   "exchange": "TSX",
+   "yahoo_symbol": "CWB.TO",
+   "instruments": [
+    {
+     "name": "Cdn Wstrn Bank",
+     "symbol": "CWB"
+    },
+    {
+     "name": "Cdn Wstrn Bk Sr 5 Pr",
+     "symbol": "CWB.PR.B"
+    },
+    {
+     "name": "Cdn Wstrn Bk Sr 9 Pr",
+     "symbol": "CWB.PR.D"
+    }
+   ]
+  },
+  {
+   "symbol": "RHE",
+   "name": "Regional Health Properties, Inc. Common Stock",
+   "exchange": "NYSE MKT",
+   "yahoo_symbol": "RHE"
+  },
+  {
+   "symbol": "AE",
+   "name": "Adams Resources \u0026 Energy, Inc. Common Stock",
+   "exchange": "NYSE MKT",
+   "yahoo_symbol": "AE"
+  },
+  {
+   "symbol": "GETT",
+   "name": "G.E.T.T. Gold Inc.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "GETT.V",
+   "instruments": [
+    {
+     "name": "G.E.T.T. Gold Inc.",
+     "symbol": "GETT"
+    }
+   ]
+  },
+  {
+   "symbol": "FEME",
+   "name": "Forstrong Emerging Markets Equity ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "FEME.TO",
+   "instruments": [
+    {
+     "name": "Forstrong EmrgMkt Eq",
+     "symbol": "FEME"
+    }
+   ]
+  },
+  {
+   "symbol": "CERO",
+   "name": "CERo Therapeutics Holdings, Inc. - Common Stock",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "CERO"
+  },
+  {
+   "symbol": "BCOV",
+   "name": "Brightcove Inc. - Common Stock",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "BCOV"
+  }
+ ]
+}
