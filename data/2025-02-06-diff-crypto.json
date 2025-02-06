@@ -1,0 +1,104 @@
+{
+ "added": [
+  {
+   "symbol": "WOLF",
+   "name": "LANDWOLF (AVAX) (WOLF)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "MWH",
+   "name": "Melania Wif Hat (MWH)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "FRIC",
+   "name": "Frictionless (FRIC)"
+  },
+  {
+   "symbol": "LOFI",
+   "name": "LOFI (LOFI)"
+  },
+  {
+   "symbol": "EMYC",
+   "name": "E Money (EMYC)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "HCAT",
+   "name": "Hover Cat (HCAT)",
+   "built_on": "BASE"
+  },
+  {
+   "symbol": "STOCK",
+   "name": "Digital Asset Stockpile (STOCK)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "GGGG",
+   "name": "Good Game Gary Gensler (GGGG)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "$ROPE",
+   "name": "Rope ($ROPE)"
+  },
+  {
+   "symbol": "CBBTC",
+   "name": "Coinbase Wrapped BTC (CBBTC)",
+   "built_on": "BASE"
+  },
+  {
+   "symbol": "DOGETF",
+   "name": "DOGE ETF (DOGETF)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "GETH",
+   "name": "Guarded Ether (GETH)"
+  },
+  {
+   "symbol": "DOGEMOON",
+   "name": "DOGE TO MOON (DOGEMOON)"
+  },
+  {
+   "symbol": "BITCOINOTE",
+   "name": "BitcoiNote (BITCOINOTE)"
+  },
+  {
+   "symbol": "BLUE",
+   "name": "Blue Protocol (BLUE)",
+   "built_on": "SUI"
+  },
+  {
+   "symbol": "BANKETH",
+   "name": "BankEth (BANKETH)"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "WOLF",
+   "name": "LANDWOLF (AVAX) (WOLF)",
+   "built_on": "AVAX"
+  },
+  {
+   "symbol": "FRIC",
+   "name": "Frictionless (FRIC)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "$ROPE",
+   "name": "Rope ($ROPE)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "LOFI",
+   "name": "LOFI (LOFI)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "BLUE",
+   "name": "Blue Protocol (BLUE)",
+   "built_on": "ETH"
+  }
+ ]
+}

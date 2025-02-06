@@ -1,0 +1,380 @@
+{
+ "added": [
+  {
+   "symbol": "AMD",
+   "name": "Advanced Micro Devices CDR (CAD Hedged)",
+   "exchange": "TSX",
+   "yahoo_symbol": "AMD.TO",
+   "instruments": [
+    {
+     "name": "AMD CDR CAD Hedged",
+     "symbol": "AMD"
+    }
+   ]
+  },
+  {
+   "symbol": "ZXLC",
+   "name": "BMO SPDR Communication Services Select Sector Index ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "ZXLC.TO",
+   "instruments": [
+    {
+     "name": "BMO SPDR Com SSS ETF",
+     "symbol": "ZXLC"
+    },
+    {
+     "name": "BMO SPDRCom SSS ETFH",
+     "symbol": "ZXLC.F"
+    }
+   ]
+  },
+  {
+   "symbol": "ZXLY",
+   "name": "BMO SPDR Consumer Discretionary Select Sector Index ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "ZXLY.TO",
+   "instruments": [
+    {
+     "name": "BMO SPDR CDsSSI ETF",
+     "symbol": "ZXLY"
+    },
+    {
+     "name": "BMO SPDR CDsSSI ETFH",
+     "symbol": "ZXLY.F"
+    }
+   ]
+  },
+  {
+   "symbol": "ZXLP",
+   "name": "BMO SPDR Consumer Staples Select Sector Index ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "ZXLP.TO",
+   "instruments": [
+    {
+     "name": "BMO SPDR ConSSSI ETF",
+     "symbol": "ZXLP"
+    },
+    {
+     "name": "BMO SPDR CnSSSI ETFH",
+     "symbol": "ZXLP.F"
+    }
+   ]
+  },
+  {
+   "symbol": "ZXLE",
+   "name": "BMO SPDR Energy Select Sector Index ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "ZXLE.TO",
+   "instruments": [
+    {
+     "name": "BMO SPDR EnSeSeI ETF",
+     "symbol": "ZXLE"
+    },
+    {
+     "name": "BMO SPDR EnSeSe ETFH",
+     "symbol": "ZXLE.F"
+    }
+   ]
+  },
+  {
+   "symbol": "ZXLF",
+   "name": "BMO SPDR Financials Select Sector Index ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "ZXLF.TO",
+   "instruments": [
+    {
+     "name": "BMO SPDR FiSeSeI ETF",
+     "symbol": "ZXLF"
+    },
+    {
+     "name": "BMO SPDR FiSeSe ETFH",
+     "symbol": "ZXLF.F"
+    }
+   ]
+  },
+  {
+   "symbol": "ZXLV",
+   "name": "BMO SPDR Health Care Select Sector Index ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "ZXLV.TO",
+   "instruments": [
+    {
+     "name": "BMO SPDR HlCSSI ETF",
+     "symbol": "ZXLV"
+    },
+    {
+     "name": "BMO SPDR HlCSSI ETFH",
+     "symbol": "ZXLV.F"
+    }
+   ]
+  },
+  {
+   "symbol": "ZXLI",
+   "name": "BMO SPDR Industrials Select Sector Index ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "ZXLI.TO",
+   "instruments": [
+    {
+     "name": "BMO SPDR InSeSeI ETF",
+     "symbol": "ZXLI"
+    },
+    {
+     "name": "BMO SPDR InSeSe ETFH",
+     "symbol": "ZXLI.F"
+    }
+   ]
+  },
+  {
+   "symbol": "ZXLB",
+   "name": "BMO SPDR Materials Select Sector Index ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "ZXLB.TO",
+   "instruments": [
+    {
+     "name": "BMO SPDR MaSelSe ETF",
+     "symbol": "ZXLB"
+    },
+    {
+     "name": "BMO SPDR MaSeSe ETFH",
+     "symbol": "ZXLB.F"
+    }
+   ]
+  },
+  {
+   "symbol": "ZXLR",
+   "name": "BMO SPDR Real Estate Select Sector Index ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "ZXLR.TO",
+   "instruments": [
+    {
+     "name": "BMO SPDR ReSSI ETF",
+     "symbol": "ZXLR"
+    },
+    {
+     "name": "BMO SPDR ReSSI ETFH",
+     "symbol": "ZXLR.F"
+    }
+   ]
+  },
+  {
+   "symbol": "ZXLK",
+   "name": "BMO SPDR Technology Select Sector Index ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "ZXLK.TO",
+   "instruments": [
+    {
+     "name": "BMO SPDR TechSSI ETF",
+     "symbol": "ZXLK"
+    },
+    {
+     "name": "BMOSPDR TechSSI ETFH",
+     "symbol": "ZXLK.F"
+    }
+   ]
+  },
+  {
+   "symbol": "ZXLU",
+   "name": "BMO SPDR Utilities Select Sector Index ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "ZXLU.TO",
+   "instruments": [
+    {
+     "name": "BMO SPDPR UtSSI ETF",
+     "symbol": "ZXLU"
+    },
+    {
+     "name": "BMO SPDPR UtSSI ETFH",
+     "symbol": "ZXLU.F"
+    }
+   ]
+  },
+  {
+   "symbol": "RGBM",
+   "name": "Return Stacked® Global Balanced \u0026 Macro ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "RGBM.TO",
+   "instruments": [
+    {
+     "name": "Return Sta GlBlM ETF",
+     "symbol": "RGBM"
+    }
+   ]
+  },
+  {
+   "symbol": "CJMB",
+   "name": "Callan JMB Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "CJMB"
+  },
+  {
+   "symbol": "HCAI",
+   "name": "Huachen AI Parking Management Technology Holding Co., Ltd. - Ordinary Shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "HCAI"
+  },
+  {
+   "symbol": "HSPT",
+   "name": "Horizon Space Acquisition II Corp. - Ordinary share",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "HSPT"
+  },
+  {
+   "symbol": "HSPTR",
+   "name": "Horizon Space Acquisition II Corp. - Right",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "HSPTR"
+  },
+  {
+   "symbol": "KFIIU",
+   "name": "K\u0026F Growth Acquisition Corp. II - Unit",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "KFIIU"
+  },
+  {
+   "symbol": "LDTC",
+   "name": "LeddarTech Holdings Inc. - Common Shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "LDTC"
+  },
+  {
+   "symbol": "LDTCW",
+   "name": "LeddarTech Holdings Inc. - Warrants",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "LDTCW"
+  },
+  {
+   "symbol": "PLUT",
+   "name": "Plutus Financial Group Limited - Ordinary Shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "PLUT"
+  },
+  {
+   "symbol": "TMB",
+   "name": "Thornburg Multi Sector Bond ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "TMB"
+  },
+  {
+   "symbol": "TPLS",
+   "name": "Thornburg Core Plus Bond ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "TPLS"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "LDTCW",
+   "name": "LeddarTech Holdings Inc. - Warrants",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "LDTCW"
+  },
+  {
+   "symbol": "IBO",
+   "name": "Universal Ibogaine Inc.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "IBO.V",
+   "instruments": [
+    {
+     "name": "Universal Ibogaine Inc.",
+     "symbol": "IBO"
+    }
+   ]
+  },
+  {
+   "symbol": "SNAXW",
+   "name": "Stryve Foods, Inc. - Warrant",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "SNAXW"
+  },
+  {
+   "symbol": "LORD",
+   "name": "St. James Gold Corp.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "LORD.V",
+   "instruments": [
+    {
+     "name": "St. James Gold Corp.",
+     "symbol": "LORD"
+    }
+   ]
+  },
+  {
+   "symbol": "NHHH",
+   "name": "FuelPositive Corporation",
+   "exchange": "TSXV",
+   "yahoo_symbol": "NHHH.V",
+   "instruments": [
+    {
+     "name": "FuelPositive Corporation",
+     "symbol": "NHHH"
+    }
+   ]
+  },
+  {
+   "symbol": "MVY",
+   "name": "Moovly Media Inc.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "MVY.V",
+   "instruments": [
+    {
+     "name": "Moovly Media Inc.",
+     "symbol": "MVY"
+    }
+   ]
+  },
+  {
+   "symbol": "SAY",
+   "name": "Sparta Capital Ltd.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "SAY.V",
+   "instruments": [
+    {
+     "name": "Sparta Capital Ltd.",
+     "symbol": "SAY"
+    }
+   ]
+  },
+  {
+   "symbol": "LDTC",
+   "name": "LeddarTech Holdings Inc. - Common Shares",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "LDTC"
+  },
+  {
+   "symbol": "SNAX",
+   "name": "Stryve Foods, Inc. - Class A Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "SNAX"
+  },
+  {
+   "symbol": "THP",
+   "name": "Totally Hip Technologies Inc.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "THP.V",
+   "instruments": [
+    {
+     "name": "Totally Hip Technologies Inc.",
+     "symbol": "THP"
+    }
+   ]
+  },
+  {
+   "symbol": "CDMO",
+   "name": "Avid Bioservices, Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "CDMO"
+  },
+  {
+   "symbol": "GDP",
+   "name": "Golden Pursuit Resources Ltd.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "GDP.V",
+   "instruments": [
+    {
+     "name": "Golden Pursuit Resources Ltd.",
+     "symbol": "GDP"
+    }
+   ]
+  }
+ ]
+}
