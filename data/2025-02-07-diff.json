@@ -1,0 +1,96 @@
+{
+ "added": [
+  {
+   "symbol": "EPWK",
+   "name": "EPWK Holdings Ltd. - Class A Ordinary Shares",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "EPWK"
+  },
+  {
+   "symbol": "FBGL",
+   "name": "FBS Global Limited - Ordinary Shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "FBGL"
+  },
+  {
+   "symbol": "HVII",
+   "name": "Hennessy Capital Investment Corp. VII - Ordinary Shares",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "HVII"
+  },
+  {
+   "symbol": "HVIIR",
+   "name": "Hennessy Capital Investment Corp. VII - Rights",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "HVIIR"
+  },
+  {
+   "symbol": "INAB",
+   "name": "IN8bio, Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "INAB"
+  },
+  {
+   "symbol": "SDTY",
+   "name": "YieldMax S\u0026P 500 0DTE Covered Call Strategy ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "SDTY"
+  },
+  {
+   "symbol": "STRK",
+   "name": "MicroStrategy Incorporated - 8.00% Series A Perpetual Strike Preferred Stock",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "STRK"
+  },
+  {
+   "symbol": "MRP",
+   "name": "Millrose Properties, Inc. Class A Common Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "MRP"
+  },
+  {
+   "symbol": "TTAM",
+   "name": "Titan America SA Common Shares",
+   "exchange": "NYSE",
+   "yahoo_symbol": "TTAM"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "INAB",
+   "name": "IN8bio, Inc. - Common Stock",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "INAB"
+  },
+  {
+   "symbol": "MRP.V",
+   "name": "Millrose Properties, Inc. Class A Common Stock When-Issued",
+   "exchange": "NYSE",
+   "yahoo_symbol": "MRP.V"
+  },
+  {
+   "symbol": "VRDN",
+   "name": "Viridian Metals Inc.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "VRDN.V",
+   "instruments": [
+    {
+     "name": "Viridian Metals Inc.",
+     "symbol": "VRDN"
+    }
+   ]
+  },
+  {
+   "symbol": "RVNC",
+   "name": "Revance Therapeutics, Inc. - Common Stock",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "RVNC"
+  },
+  {
+   "symbol": "BALY",
+   "name": "Bally's Corporation Common Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "BALY"
+  }
+ ]
+}

@@ -1,0 +1,132 @@
+{
+ "added": [
+  {
+   "symbol": "BLUEPROTOCOL",
+   "name": "Blue Protocol (BLUEPROTOCOL)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "AVAXAI",
+   "name": "AIvalanche DeFAI Agents (AVAXAI)",
+   "built_on": "AVAX"
+  },
+  {
+   "symbol": "LOFIBUZZ",
+   "name": "LOFI (LOFIBUZZ)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "BUTTHOLE",
+   "name": "Butthole Coin (BUTTHOLE)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "FRIC",
+   "name": "Fric (FRIC)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "BULL",
+   "name": "Tron Bull (BULL)",
+   "built_on": "TRX"
+  },
+  {
+   "symbol": "BANKETH",
+   "name": "BankEth (BANKETH)"
+  },
+  {
+   "symbol": "LOFI",
+   "name": "LOFI (LOFI)",
+   "built_on": "SUI"
+  },
+  {
+   "symbol": "BITZ",
+   "name": "MARBITZ (BITZ)",
+   "built_on": "BASE"
+  },
+  {
+   "symbol": "ROPELOL",
+   "name": "Rope (ROPELOL)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "BULLIEVERSE",
+   "name": "Bullieverse (BULLIEVERSE)",
+   "built_on": "POL"
+  },
+  {
+   "symbol": "RAIREFLEX",
+   "name": "Rai Reflex Index (RAIREFLEX)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "OMEGAX",
+   "name": "Ome‎gaX He‎alth (OMEGAX)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "CBBTC",
+   "name": "Coinbase Wrapped BTC (CBBTC)",
+   "built_on": "BASE"
+  },
+  {
+   "symbol": "G",
+   "name": "Gravity (G)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "BITZBIZ",
+   "name": "Bitz Coin (BITZBIZ)"
+  },
+  {
+   "symbol": "BHCO",
+   "name": "Billion Happiness (BHCO)"
+  },
+  {
+   "symbol": "FRICTION",
+   "name": "Frictionless (FRICTION)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "REKT2",
+   "name": "REKT 2.0 (REKT2)"
+  },
+  {
+   "symbol": "BERA",
+   "name": "Berachain (BERA)"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "BITZ",
+   "name": "Bitz Coin (BITZ)"
+  },
+  {
+   "symbol": "$ROPE",
+   "name": "Rope ($ROPE)"
+  },
+  {
+   "symbol": "FRIC",
+   "name": "Frictionless (FRIC)"
+  },
+  {
+   "symbol": "REKT2",
+   "name": "REKT 2.0 (REKT2)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "BHC",
+   "name": "BillionHappiness (BHC)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "LOFI",
+   "name": "LOFI (LOFI)"
+  },
+  {
+   "symbol": "BULL",
+   "name": "Bullieverse (BULL)",
+   "built_on": "POL"
+  }
+ ]
+}
