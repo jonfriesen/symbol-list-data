@@ -1,0 +1,72 @@
+{
+ "added": [
+  {
+   "symbol": "EFSI",
+   "name": "Eagle Financial Services Inc - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "EFSI"
+  },
+  {
+   "symbol": "ORCX",
+   "name": "Defiance Daily Target 2X Long ORCL ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "ORCX"
+  },
+  {
+   "symbol": "SION",
+   "name": "Sionna Therapeutics, Inc. - Common Stock",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "SION"
+  },
+  {
+   "symbol": "BALY",
+   "name": "Bally's Corporation Common Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "BALY"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "SGLD",
+   "name": "Sabre Gold Mines Corp.",
+   "exchange": "TSX",
+   "yahoo_symbol": "SGLD.TO",
+   "instruments": [
+    {
+     "name": "Sabre Gold Mines . J",
+     "symbol": "SGLD"
+    }
+   ]
+  },
+  {
+   "symbol": "VISL",
+   "name": "Vislink Technologies, Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "VISL"
+  },
+  {
+   "symbol": "SUM",
+   "name": "Summit Materials, Inc. Class A Common Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "SUM"
+  },
+  {
+   "symbol": "GXE",
+   "name": "Gear Energy Ltd.",
+   "exchange": "TSX",
+   "yahoo_symbol": "GXE.TO",
+   "instruments": [
+    {
+     "name": "Gear Energy Ltd.",
+     "symbol": "GXE"
+    }
+   ]
+  },
+  {
+   "symbol": "BALY.T",
+   "name": "Bally's Corporation Common Stock (Rolling Shares)",
+   "exchange": "NYSE",
+   "yahoo_symbol": "BALY.T"
+  }
+ ]
+}
