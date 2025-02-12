@@ -1,0 +1,88 @@
+{
+ "added": [
+  {
+   "symbol": "DARK",
+   "name": "Dark Frontiers (DARK)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "B3",
+   "name": "B3 (B3)",
+   "built_on": "BASE"
+  },
+  {
+   "symbol": "GOKUINU",
+   "name": "Goku (gokuinu.io) (GOKUINU)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "B3COIN",
+   "name": "B3 Coin (B3COIN)"
+  },
+  {
+   "symbol": "CHEFDOTFUN",
+   "name": "Chefdotfun (CHEFDOTFUN)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "PIN",
+   "name": "PinLink (PIN)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "GOKU",
+   "name": "Goku Super Saiyan (GOKU)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "G",
+   "name": "Gravity (G)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "PINCHAIN",
+   "name": "Pin (PINCHAIN)"
+  },
+  {
+   "symbol": "CLBTC",
+   "name": "clBTC (CLBTC)",
+   "built_on": "BASE"
+  },
+  {
+   "symbol": "CBBTCBASE",
+   "name": "cbBTC (CBBTCBASE)"
+  },
+  {
+   "symbol": "PTGC",
+   "name": "The Grays Currency (PTGC)",
+   "built_on": "PLS"
+  },
+  {
+   "symbol": "BANK",
+   "name": "Float Protocol (BANK)",
+   "built_on": "ETH"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "ZEDCOIN",
+   "name": "ZedCoin (ZEDCOIN)"
+  },
+  {
+   "symbol": "KB3",
+   "name": "B3Coin (KB3)"
+  },
+  {
+   "symbol": "PIN",
+   "name": "Pin (PIN)"
+  },
+  {
+   "symbol": "GOKU",
+   "name": "Goku (GOKU)"
+  },
+  {
+   "symbol": "B3",
+   "name": "B3 Coin (B3)"
+  }
+ ]
+}

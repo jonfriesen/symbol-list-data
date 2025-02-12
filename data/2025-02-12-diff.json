@@ -1,0 +1,108 @@
+{
+ "added": [
+  {
+   "symbol": "AMV.P",
+   "name": "AMV II Capital Corporation",
+   "exchange": "TSXV",
+   "yahoo_symbol": "AMV.P.V",
+   "instruments": [
+    {
+     "name": "AMV II Capital Corporation",
+     "symbol": "AMV.P"
+    }
+   ]
+  },
+  {
+   "symbol": "LTC",
+   "name": "Lotus Creek Exploration Inc.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "LTC.V",
+   "instruments": [
+    {
+     "name": "Lotus Creek Exploration Inc.",
+     "symbol": "LTC"
+    }
+   ]
+  },
+  {
+   "symbol": "ATIIU",
+   "name": "Archimedes Tech SPAC Partners II Co. - Unit",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "ATIIU"
+  },
+  {
+   "symbol": "EXOZ",
+   "name": "eXoZymes Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "EXOZ"
+  },
+  {
+   "symbol": "FGMC",
+   "name": "FG Merger II Corp. - Common stock",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "FGMC"
+  },
+  {
+   "symbol": "FGMCR",
+   "name": "FG Merger II Corp. - Rights",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "FGMCR"
+  },
+  {
+   "symbol": "GSAT",
+   "name": "Globalstar, Inc. - Common Stock",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "GSAT"
+  },
+  {
+   "symbol": "ODYS",
+   "name": "Odysight.ai Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "ODYS"
+  },
+  {
+   "symbol": "VBIL",
+   "name": "Vanguard 0-3 Month Treasury Bill ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "VBIL"
+  },
+  {
+   "symbol": "VGUS",
+   "name": "Vanguard Ultra-Short Treasury ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "VGUS"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "TTOO",
+   "name": "T2 Biosystems, Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "TTOO"
+  },
+  {
+   "symbol": "IZTC",
+   "name": "Invizyne Technologies Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "IZTC"
+  },
+  {
+   "symbol": "HYB",
+   "name": "New America High Income Fund, Inc. (The) Common Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "HYB"
+  },
+  {
+   "symbol": "ALCE",
+   "name": "Alternus Clean Energy, Inc. - Class A Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "ALCE"
+  },
+  {
+   "symbol": "MRNS",
+   "name": "Marinus Pharmaceuticals, Inc. - Common Stock",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "MRNS"
+  }
+ ]
+}
