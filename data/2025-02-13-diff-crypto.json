@@ -1,0 +1,100 @@
+{
+ "added": [
+  {
+   "symbol": "BIGBALLS",
+   "name": "Edward Coristine (BIGBALLS)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "SOMNIUM",
+   "name": "Somnium Space CUBEs (SOMNIUM)"
+  },
+  {
+   "symbol": "GOHOME",
+   "name": "GOHOME (GOHOME)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "ZEDCOIN",
+   "name": "ZedCoin (ZEDCOIN)"
+  },
+  {
+   "symbol": "ANIME",
+   "name": "Anime (ANIME)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "CUBENETWORK",
+   "name": "Cube Network (CUBENETWORK)"
+  },
+  {
+   "symbol": "USDDV1",
+   "name": "USDD v1 (USDDV1)"
+  },
+  {
+   "symbol": "CBBTCBASE",
+   "name": "cbBTC (CBBTCBASE)"
+  },
+  {
+   "symbol": "EXPERT",
+   "name": "EXPERT_MONEY (EXPERT)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "WLSC",
+   "name": "WESTLAND SMART CITY (WLSC)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "G",
+   "name": "Gravity (G)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "HEU",
+   "name": "Heurist AI (HEU)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "USDT0",
+   "name": "USDT0 (USDT0)",
+   "built_on": "INKCHAIN"
+  },
+  {
+   "symbol": "HARRYBOLZ",
+   "name": "Harry Bolz (HARRYBOLZ)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "BANK",
+   "name": "Float Protocol (BANK)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "SOLV",
+   "name": "Solv Protocol (SOLV)",
+   "built_on": "BNB"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "SOMNIUM",
+   "name": "Somnium Space CUBEs (SOMNIUM)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "SOLV",
+   "name": "Solv Protocol (SOLV)",
+   "built_on": "POL"
+  },
+  {
+   "symbol": "CUBE",
+   "name": "Cube Network (CUBE)"
+  },
+  {
+   "symbol": "ANIME",
+   "name": "Anime (ANIME)",
+   "built_on": "BASE"
+  }
+ ]
+}

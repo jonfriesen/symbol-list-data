@@ -1,0 +1,78 @@
+{
+ "added": [
+  {
+   "symbol": "AGH",
+   "name": "Aureus Greenway Holdings Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "AGH"
+  },
+  {
+   "symbol": "AMDD",
+   "name": "Direxion Daily AMD Bear 1X Shares",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "AMDD"
+  },
+  {
+   "symbol": "AMUU",
+   "name": "Direxion Daily AMD Bull 2X Shares",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "AMUU"
+  },
+  {
+   "symbol": "KRMN",
+   "name": "Karman Holdings Inc. Common Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "KRMN"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "EVGRW",
+   "name": "Evergreen Corporation - Warrant",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "EVGRW"
+  },
+  {
+   "symbol": "CTV.W",
+   "name": "Innovid Corp. Warrants, each whole warrant exercisable for one share of Common Stock at an exercise price of $11.50 per share",
+   "exchange": "NYSE",
+   "yahoo_symbol": "CTV.W"
+  },
+  {
+   "symbol": "ROIC",
+   "name": "Retail Opportunity Investments Corp. - Common Stock",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "ROIC"
+  },
+  {
+   "symbol": "STAF",
+   "name": "Staffing 360 Solutions, Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "STAF"
+  },
+  {
+   "symbol": "EVGRU",
+   "name": "Evergreen Corporation - Unit",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "EVGRU"
+  },
+  {
+   "symbol": "GNS.R",
+   "name": "Genius Group Limited Rights (expiring February 14, 2025) Rights",
+   "exchange": "NYSE MKT",
+   "yahoo_symbol": "GNS.R"
+  },
+  {
+   "symbol": "EVGR",
+   "name": "Evergreen Corporation - Class A Ordinary Share",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "EVGR"
+  },
+  {
+   "symbol": "CTV",
+   "name": "Innovid Corp. Common Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "CTV"
+  }
+ ]
+}
