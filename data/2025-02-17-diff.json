@@ -1,0 +1,22 @@
+{
+ "added": [
+  {
+   "symbol": "GCL",
+   "name": "GCL Global Holdings Ltd - Ordinary Shares",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "GCL"
+  },
+  {
+   "symbol": "GCLWW",
+   "name": "GCL Global Holdings Ltd - Warrants",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "GCLWW"
+  },
+  {
+   "symbol": "NCIQ",
+   "name": "Hashdex Nasdaq Crypto Index US ETF - Shares of Beneficial Interest",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "NCIQ"
+  }
+ ]
+}

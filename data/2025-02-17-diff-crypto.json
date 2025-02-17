@@ -1,0 +1,137 @@
+{
+ "added": [
+  {
+   "symbol": "BROCCOLI",
+   "name": "CZ'S Dog (broccoli.gg) (BROCCOLI)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "GMRT",
+   "name": "Gamertag Token (GMRT)",
+   "built_on": "BASE"
+  },
+  {
+   "symbol": "ANLOG",
+   "name": "Analog (ANLOG)"
+  },
+  {
+   "symbol": "FIUSD",
+   "name": "Sygnum FIUSD Liquidity Fund (FIUSD)",
+   "built_on": "ZK"
+  },
+  {
+   "symbol": "POLLY",
+   "name": "Polynetica (POLLY)",
+   "built_on": "POL"
+  },
+  {
+   "symbol": "SOLFUN",
+   "name": "SolFun (SOLFUN)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "PIUU",
+   "name": "PIXIU (PIUU)",
+   "built_on": "BASE"
+  },
+  {
+   "symbol": "BERAETH",
+   "name": "Berachain Staked ETH (BERAETH)",
+   "built_on": "BERA"
+  },
+  {
+   "symbol": "ESM",
+   "name": "EL SALVADOR MEME (ESM)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "USDW",
+   "name": "USD DWIN (USDW)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "MWETH",
+   "name": "Moonwell Flagship ETH (Morpho Vault) (MWETH)",
+   "built_on": "BASE"
+  },
+  {
+   "symbol": "BROCCOL",
+   "name": "Broccoli (broccolibsc.com) (BROCCOL)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "NINA",
+   "name": "NINA (NINA)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "BORGY",
+   "name": "BORGY (BORGY)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "CGAI",
+   "name": "GDAI Agent (CGAI)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "BANK",
+   "name": "Float Protocol (BANK)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "KIMIAI",
+   "name": "Kimi AI Agent (KIMIAI)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "CBBTCBASE",
+   "name": "cbBTC (CBBTCBASE)"
+  },
+  {
+   "symbol": "BABYBROC",
+   "name": "Baby Broccoli (BABYBROC)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "BHC",
+   "name": "Billion Happiness (BHC)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "BOMT",
+   "name": "Baby One More Time (BOMT)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "DOGPU",
+   "name": "DogeGPU (DOGPU)"
+  },
+  {
+   "symbol": "BHCV1",
+   "name": "Billion Happiness v1 (BHCV1)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "FABIENNE",
+   "name": "Fabienne (FABIENNE)",
+   "built_on": "BASE"
+  },
+  {
+   "symbol": "G",
+   "name": "Gravity (G)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "FARTDEV",
+   "name": "Fart Dev (FARTDEV)",
+   "built_on": "SOL"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "BHCO",
+   "name": "Billion Happiness (BHCO)"
+  }
+ ]
+}
