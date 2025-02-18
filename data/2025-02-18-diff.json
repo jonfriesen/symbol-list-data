@@ -1,0 +1,126 @@
+{
+ "added": [
+  {
+   "symbol": "OSRH",
+   "name": "OSR Holdings, Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "OSRH"
+  },
+  {
+   "symbol": "OSRHW",
+   "name": "OSR Holdings, Inc. - Warrant",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "OSRHW"
+  },
+  {
+   "symbol": "SGI",
+   "name": "Somnigroup International Inc. Common Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "SGI"
+  },
+  {
+   "symbol": "TIC",
+   "name": "Acuren Corporation Common Stock",
+   "exchange": "NYSE MKT",
+   "yahoo_symbol": "TIC"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "BLACR",
+   "name": "Bellevue Life Sciences Acquisition Corp. - Rights",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "BLACR"
+  },
+  {
+   "symbol": "OCTA",
+   "name": "Octane All-Cap Value Energy ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "OCTA"
+  },
+  {
+   "symbol": "MUI",
+   "name": "BlackRock Municipal Income Fund, Inc. Common Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "MUI"
+  },
+  {
+   "symbol": "BYNOW",
+   "name": "byNordic Acquisition Corporation - Warrant",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "BYNOW"
+  },
+  {
+   "symbol": "FUND",
+   "name": "Katipult Technology Corp.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "FUND.V",
+   "instruments": [
+    {
+     "name": "Katipult Technology Corp.",
+     "symbol": "FUND"
+    }
+   ]
+  },
+  {
+   "symbol": "BLACW",
+   "name": "Bellevue Life Sciences Acquisition Corp. - Warrant",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "BLACW"
+  },
+  {
+   "symbol": "BLAC",
+   "name": "Bellevue Life Sciences Acquisition Corp. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "BLAC"
+  },
+  {
+   "symbol": "TPX",
+   "name": "Tempur Sealy International, Inc. Common Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "TPX"
+  },
+  {
+   "symbol": "BLACU",
+   "name": "Bellevue Life Sciences Acquisition Corp. - Unit",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "BLACU"
+  },
+  {
+   "symbol": "MYNA",
+   "name": "Mynaric AG - American Depository Shares",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "MYNA"
+  },
+  {
+   "symbol": "FTAIO",
+   "name": "FTAI Aviation Ltd. - 8.00% Fixed-to-Floating Rate Series B Cumulative Perpetual Redeemable Preferred Shares",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "FTAIO"
+  },
+  {
+   "symbol": "AVGR",
+   "name": "Avinger, Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "AVGR"
+  },
+  {
+   "symbol": "BYNOU",
+   "name": "byNordic Acquisition Corporation - Units",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "BYNOU"
+  },
+  {
+   "symbol": "BYNO",
+   "name": "byNordic Acquisition Corporation - Class A Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "BYNO"
+  },
+  {
+   "symbol": "QYLE",
+   "name": "Global X Nasdaq 100 ESG Covered Call ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "QYLE"
+  }
+ ]
+}

@@ -1,0 +1,143 @@
+{
+ "added": [
+  {
+   "symbol": "A47",
+   "name": "AGENDA 47 (A47)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "JAIHOZ",
+   "name": "Jaihoz by Virtuals (JAIHOZ)",
+   "built_on": "BASE"
+  },
+  {
+   "symbol": "HOUND",
+   "name": "BaseHoundBot by Virtuals (HOUND)",
+   "built_on": "BASE"
+  },
+  {
+   "symbol": "ROUGE",
+   "name": "Rouge Studio (ROUGE)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "SIREN",
+   "name": "siren (SIREN)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "PIDOGE",
+   "name": "Pi Network Doge (PIDOGE)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "WOKIE",
+   "name": "Wokie Plumpkin by Virtuals (WOKIE)",
+   "built_on": "BASE"
+  },
+  {
+   "symbol": "1HUB",
+   "name": "1HubAI (1HUB)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "DAKU",
+   "name": "Der Daku (DAKU)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "RAMON",
+   "name": "Ramon (RAMON)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "TIND",
+   "name": "Tinder Swindler (TIND)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "UTHR",
+   "name": "Utherverse Xaeon (UTHR)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "TAPS",
+   "name": "TapSwap (TAPS)",
+   "built_on": "TON"
+  },
+  {
+   "symbol": "BUTTCOIN",
+   "name": "The Next Bitcoin (BUTTCOIN)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "H1DR4",
+   "name": "H1DR4 by Virtuals (H1DR4)",
+   "built_on": "BASE"
+  },
+  {
+   "symbol": "BANKETH",
+   "name": "BankEth (BANKETH)"
+  },
+  {
+   "symbol": "MANDY",
+   "name": "MANDY COIN (MANDY)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "APEMAN",
+   "name": "APEMAN (APEMAN)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "VOLTX",
+   "name": "VolatilityX (VOLTX)",
+   "built_on": "BASE"
+  },
+  {
+   "symbol": "KIP",
+   "name": "KIP (KIP)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "BABYKEKIUS",
+   "name": "Baby Kekius Maximus (BABYKEKIUS)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "CBBTCBASE",
+   "name": "cbBTC (CBBTCBASE)"
+  },
+  {
+   "symbol": "PIAI",
+   "name": "Pi Network AI (PIAI)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "TBR",
+   "name": "Tuebor (TBR)",
+   "built_on": "BASE"
+  },
+  {
+   "symbol": "G",
+   "name": "Gravity (G)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "SAAS",
+   "name": "SaaSGo (SAAS)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "ZHOUKING",
+   "name": "ZhouKing (ZHOUKING)",
+   "built_on": "BNB"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "ZEDCOIN",
+   "name": "ZedCoin (ZEDCOIN)"
+  }
+ ]
+}
