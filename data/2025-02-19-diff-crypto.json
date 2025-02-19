@@ -1,0 +1,181 @@
+{
+ "added": [
+  {
+   "symbol": "KOGIN",
+   "name": "Kogin by Virtuals (KOGIN)",
+   "built_on": "BASE"
+  },
+  {
+   "symbol": "BABYSNAKE",
+   "name": "Baby Snake BSC (BABYSNAKE)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "MXNBC",
+   "name": "Rekt Burgundy by Virtuals (MXNBC)",
+   "built_on": "BASE"
+  },
+  {
+   "symbol": "HOODRAT",
+   "name": "Hoodrat Coin (HOODRAT)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "BNBXBT",
+   "name": "BNBXBT (BNBXBT)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "FLSH",
+   "name": "FlashWash (FLSH)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "BGSC",
+   "name": "BugsCoin (BGSC)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "BNBAI",
+   "name": "BNB Agents (BNBAI)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "MOGULV1",
+   "name": "Mogul Productions v1 (MOGULV1)"
+  },
+  {
+   "symbol": "SPROUT",
+   "name": "Sprout (SPROUT)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "LIT",
+   "name": "Litentry (LIT)"
+  },
+  {
+   "symbol": "AAAI",
+   "name": "AAAI_agent by Virtuals (AAAI)",
+   "built_on": "BASE"
+  },
+  {
+   "symbol": "3RDEYE",
+   "name": "3rd Eye (3RDEYE)",
+   "built_on": "XRP"
+  },
+  {
+   "symbol": "BNBPRINTER",
+   "name": "BNBPrinter (BNBPRINTER)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "TXAI",
+   "name": "TrumpX Ai (TXAI)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "BANKETH",
+   "name": "BankEth (BANKETH)"
+  },
+  {
+   "symbol": "GUDTEK",
+   "name": "ai16zterminalfartARCzereLLMswarm (GUDTEK)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "HULEZHI",
+   "name": "HU LE ZHI (HULEZHI)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "FULLSEND",
+   "name": "Fullsend Community Coin (FULLSEND)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "AI23T",
+   "name": "23 Turtles (AI23T)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "AI69SAKURA",
+   "name": "Sakura (AI69SAKURA)",
+   "built_on": "BASE"
+  },
+  {
+   "symbol": "HEI",
+   "name": "Heima (HEI)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "ZEDCOIN",
+   "name": "ZedCoin (ZEDCOIN)"
+  },
+  {
+   "symbol": "WEPE",
+   "name": "Wall Street Pepe (WEPE)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "DEXEV1",
+   "name": "DeXe v1 (DEXEV1)"
+  },
+  {
+   "symbol": "MRB",
+   "name": "MoonRabbits (MRB)",
+   "built_on": "TON"
+  },
+  {
+   "symbol": "MAGABRO",
+   "name": "M.A.G.A. Bro (MAGABRO)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "XAIGAME",
+   "name": "xAI Game Studio (XAIGAME)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "GENZAI",
+   "name": "GENZAI (GENZAI)",
+   "built_on": "BASE"
+  },
+  {
+   "symbol": "REDNOTE",
+   "name": "RedNote Xiaohongshu (REDNOTE)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "ISLAND",
+   "name": "ISLAND Token (ISLAND)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "ETHR",
+   "name": "Ethereal (ETHR)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "G",
+   "name": "Gravity (G)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "CBBTC",
+   "name": "Coinbase Wrapped BTC (CBBTC)",
+   "built_on": "BASE"
+  },
+  {
+   "symbol": "TIKTOK",
+   "name": "Tiktok (TIKTOK)",
+   "built_on": "SOL"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "LIT",
+   "name": "Litentry (LIT)",
+   "built_on": "ETH"
+  }
+ ]
+}
