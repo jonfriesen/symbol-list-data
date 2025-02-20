@@ -1,0 +1,118 @@
+{
+ "added": [
+  {
+   "symbol": "BTX",
+   "name": "BlackRock Technology and Private Equity Term Trust Common Shares of Beneficial Interest",
+   "exchange": "NYSE",
+   "yahoo_symbol": "BTX"
+  },
+  {
+   "symbol": "ASBP",
+   "name": "Aspire Biopharma Holdings, Inc.  - Common Stock",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "ASBP"
+  },
+  {
+   "symbol": "ASBPW",
+   "name": "Aspire Biopharma Holdings, Inc.  - Warrant",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "ASBPW"
+  },
+  {
+   "symbol": "FLD",
+   "name": "Fold Holdings, Inc. - Class A Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "FLD"
+  },
+  {
+   "symbol": "FLDDW",
+   "name": "Fold Holdings, Inc. - Warrant",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "FLDDW"
+  },
+  {
+   "symbol": "NNNN",
+   "name": "Anbio Biotechnology - Class A Ordinary Shares",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "NNNN"
+  },
+  {
+   "symbol": "OOQB",
+   "name": "One One Nasdaq-100 and Bitcoin ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "OOQB"
+  },
+  {
+   "symbol": "OOSB",
+   "name": "One One S\u0026P 500 and Bitcoin ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "OOSB"
+  },
+  {
+   "symbol": "MTRX",
+   "name": "Global X Artificial Intelligence Infrastructure Index ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "MTRX.TO",
+   "instruments": [
+    {
+     "name": "Global X AI Infr ETF",
+     "symbol": "MTRX"
+    }
+   ]
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "MGOL",
+   "name": "MGO Global Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "MGOL"
+  },
+  {
+   "symbol": "CWB.PR.B",
+   "name": "Canadian Western Bank",
+   "exchange": "TSX",
+   "yahoo_symbol": "CWB.PR.B.TO",
+   "instruments": [
+    {
+     "name": "Cdn Wstrn Bk Sr 5 Pr",
+     "symbol": "CWB.PR.B"
+    },
+    {
+     "name": "Cdn Wstrn Bk Sr 9 Pr",
+     "symbol": "CWB.PR.D"
+    }
+   ]
+  },
+  {
+   "symbol": "PWUP",
+   "name": "PowerUp Acquisition Corp. - Class A Ordinary Shares",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "PWUP"
+  },
+  {
+   "symbol": "PWUPW",
+   "name": "PowerUp Acquisition Corp. - Warrant",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "PWUPW"
+  },
+  {
+   "symbol": "BIGZ",
+   "name": "BlackRock Innovation and Growth Term Trust Common Shares of Beneficial Interest",
+   "exchange": "NYSE",
+   "yahoo_symbol": "BIGZ"
+  },
+  {
+   "symbol": "PWUPU",
+   "name": "PowerUp Acquisition Corp. - Unit",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "PWUPU"
+  },
+  {
+   "symbol": "NARI",
+   "name": "Inari Medical, Inc. - Common Stock",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "NARI"
+  }
+ ]
+}

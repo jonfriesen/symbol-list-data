@@ -1,0 +1,124 @@
+{
+ "added": [
+  {
+   "symbol": "DEEPSEARCH",
+   "name": "Grok 3 DeepSearch (DEEPSEARCH)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "AI21X",
+   "name": "ai21x (AI21X)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "BROCCOLIBNB",
+   "name": "BROCCOLI (broccolibnb.xyz) (BROCCOLIBNB)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "AIWS",
+   "name": "AIWS (AIWS)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "VICE",
+   "name": "VICE Token (VICE)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "BROCCOLIVIP",
+   "name": "Broccoli(broccoli.vip) (BROCCOLIVIP)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "PHRZ",
+   "name": "Pharaohs (PHRZ)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "HINAGI",
+   "name": "Hinagi (HINAGI)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "WBERA",
+   "name": "Wrapped Bera (WBERA)",
+   "built_on": "BERA"
+  },
+  {
+   "symbol": "CGX",
+   "name": "Forkast (CGX)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "SHIROSOL",
+   "name": "Shiro Neko (shirosol.online) (SHIROSOL)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "BANK",
+   "name": "Float Protocol (BANK)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "ADRI",
+   "name": "AdRise (ADRI)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "DEEPSEEKR1",
+   "name": "DeepSeek R1 (DEEPSEEKR1)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "CZBROCCOLI",
+   "name": "Cz Broccoli (CZBROCCOLI)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "BBROCCOLI",
+   "name": "Baby Broccoli (BBROCCOLI)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "BABYBROCCOLI",
+   "name": "BabyBroccoli (BABYBROCCOLI)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "CBBTCBASE",
+   "name": "cbBTC (CBBTCBASE)"
+  },
+  {
+   "symbol": "JYAI",
+   "name": "Jerry The Turtle By Matt Furie (JYAI)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "BROCCOLICZ",
+   "name": "Broccoli (broccoli_cz) (BROCCOLICZ)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "HVLO",
+   "name": "Hivello (HVLO)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "TRUMPPROJECT",
+   "name": "Trump Project 2025 (TRUMPPROJECT)",
+   "built_on": "BASE"
+  },
+  {
+   "symbol": "G",
+   "name": "Gravity (G)",
+   "built_on": "ETH"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "ZEDCOIN",
+   "name": "ZedCoin (ZEDCOIN)"
+  }
+ ]
+}
