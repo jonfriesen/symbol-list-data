@@ -1,0 +1,96 @@
+{
+ "added": [
+  {
+   "symbol": "ANGH",
+   "name": "Anghami Inc. - Ordinary Shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "ANGH"
+  },
+  {
+   "symbol": "CMPOV",
+   "name": "CompoSecure, Inc.  - Class A Common Stock Ex-distribution When-Issued",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "CMPOV"
+  },
+  {
+   "symbol": "GBUG",
+   "name": "Sprott Active Gold \u0026 Silver Miners ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "GBUG"
+  },
+  {
+   "symbol": "HMR",
+   "name": "Heidmar Maritime Holdings Corp. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "HMR"
+  },
+  {
+   "symbol": "IPA",
+   "name": "ImmunoPrecise Antibodies Ltd. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "IPA"
+  },
+  {
+   "symbol": "QQQH",
+   "name": "NEOS Nasdaq-100 Hedged Equity Income ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "QQQH"
+  },
+  {
+   "symbol": "RHLDV",
+   "name": "Resolute Holdings Management - Common Stock",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "RHLDV"
+  },
+  {
+   "symbol": "VRM",
+   "name": "Vroom, Inc. - Common Stock",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "VRM"
+  },
+  {
+   "symbol": "CCDS",
+   "name": "Carrier Connect Data Solutions Inc.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "CCDS.V",
+   "instruments": [
+    {
+     "name": "Carrier Connect Data Solutions Inc.",
+     "symbol": "CCDS"
+    }
+   ]
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "HVII.P",
+   "name": "Hopefield Ventures Two Inc.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "HVII.P.V",
+   "instruments": [
+    {
+     "name": "Hopefield Ventures Two Inc.",
+     "symbol": "HVII.P"
+    }
+   ]
+  },
+  {
+   "symbol": "IPA",
+   "name": "ImmunoPrecise Antibodies Ltd. - Common Stock",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "IPA"
+  },
+  {
+   "symbol": "ANGH",
+   "name": "Anghami Inc. - Ordinary Shares",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "ANGH"
+  },
+  {
+   "symbol": "NUSI",
+   "name": "NEOS Nasdaq-100 Hedged Equity Income ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "NUSI"
+  }
+ ]
+}

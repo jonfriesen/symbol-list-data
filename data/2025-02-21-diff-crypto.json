@@ -1,0 +1,92 @@
+{
+ "added": [
+  {
+   "symbol": "BGR",
+   "name": "Bitgrit (BGR)",
+   "built_on": "AVAX"
+  },
+  {
+   "symbol": "AICRYPTOKEN",
+   "name": "AI Crypto Token (AICRYPTOKEN)",
+   "built_on": "BASE"
+  },
+  {
+   "symbol": "AUTONO",
+   "name": "Autonomi (AUTONO)",
+   "built_on": "ARB"
+  },
+  {
+   "symbol": "OGC",
+   "name": "OGCommunity (OGC)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "KAITO",
+   "name": "KAITO (KAITO)",
+   "built_on": "BASE"
+  },
+  {
+   "symbol": "SERAPH",
+   "name": "Seraph (SERAPH)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "REXBT",
+   "name": "rexbt by VIRTUALS (REXBT)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "LGNS",
+   "name": "Longinus (LGNS)",
+   "built_on": "POL"
+  },
+  {
+   "symbol": "MANYUDOG",
+   "name": "MANYU (MANYUDOG)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "BADAI",
+   "name": "BAD Coin (BADAI)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "FROC",
+   "name": "Based Froc (FROC)",
+   "built_on": "BASE"
+  },
+  {
+   "symbol": "CBBTCBASE",
+   "name": "cbBTC (CBBTCBASE)"
+  },
+  {
+   "symbol": "G",
+   "name": "Gravity (G)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "BIBI2025",
+   "name": "Bibi (BIBI2025)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "ORIGINA",
+   "name": "Original Gangsters (ORIGINA)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "UNITREEDOG",
+   "name": "Unitree AI Robot Dog (UNITREEDOG)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "PAPPLE",
+   "name": "Pineapple (PAPPLE)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "BANKETH",
+   "name": "BankEth (BANKETH)"
+  }
+ ]
+}
