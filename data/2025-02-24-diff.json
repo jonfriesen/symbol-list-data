@@ -1,0 +1,162 @@
+{
+ "added": [
+  {
+   "symbol": "HTB",
+   "name": "HomeTrust Bancshares, Inc. Common Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "HTB"
+  },
+  {
+   "symbol": "QVCGA",
+   "name": "QVC Group, Inc. - Series A Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "QVCGA"
+  },
+  {
+   "symbol": "QVCGB",
+   "name": "QVC Group, Inc. - Series B Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "QVCGB"
+  },
+  {
+   "symbol": "QVCGP",
+   "name": "QVC Group, Inc. - 8.0% Fixed Rate Cumulative Redeemable Preferred Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "QVCGP"
+  },
+  {
+   "symbol": "SNDK",
+   "name": "Sandisk Corporation - Common Stock",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "SNDK"
+  },
+  {
+   "symbol": "WGRX",
+   "name": "Wellgistics Health, Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "WGRX"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "QQQW",
+   "name": "Tradr 2X Long Triple Q Weekly ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "QQQW"
+  },
+  {
+   "symbol": "OMIC",
+   "name": "Singular Genomics Systems, Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "OMIC"
+  },
+  {
+   "symbol": "NVDW",
+   "name": "Tradr 1.75X Long NVDA Weekly ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "NVDW"
+  },
+  {
+   "symbol": "HTBI",
+   "name": "HomeTrust Bancshares, Inc. - Common Stock",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "HTBI"
+  },
+  {
+   "symbol": "QRTEP",
+   "name": "Qurate Retail, Inc. - 8.0% Fixed Rate Cumulative Redeemable Preferred Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "QRTEP"
+  },
+  {
+   "symbol": "SNDKV",
+   "name": "Sandisk Corporation - Common Stock When-Issued",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "SNDKV"
+  },
+  {
+   "symbol": "TLTM",
+   "name": "Tradr 2X Long TLT Monthly ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "TLTM"
+  },
+  {
+   "symbol": "SPYB",
+   "name": "Tradr 2X Long SPY Weekly ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "SPYB"
+  },
+  {
+   "symbol": "SPYM",
+   "name": "Tradr 2X Long SPY Monthly ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "SPYM"
+  },
+  {
+   "symbol": "SOXM",
+   "name": "Tradr 2X Long SOXX Monthly ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "SOXM"
+  },
+  {
+   "symbol": "GRND.W",
+   "name": "Grindr Inc. Warrants, each exercisable for one share of Common Stock at an exercise price of $11.50 per share",
+   "exchange": "NYSE",
+   "yahoo_symbol": "GRND.W"
+  },
+  {
+   "symbol": "WDCVV",
+   "name": "Western Digital Corporation - Common Stock Ex-distribution When-Issued",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "WDCVV"
+  },
+  {
+   "symbol": "MDCX",
+   "name": "Medicus Pharma Ltd.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "MDCX.V",
+   "instruments": [
+    {
+     "name": "Medicus Pharma Ltd.",
+     "symbol": "MDCX"
+    }
+   ]
+  },
+  {
+   "symbol": "QRTEB",
+   "name": "Qurate Retail, Inc. - Series B Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "QRTEB"
+  },
+  {
+   "symbol": "ANG$A",
+   "name": "American National Group Inc. Depositary Shares, each representing a 1/1,000th interest in a share of  5.95% Fixed-Rate Reset Non-Cumulative Preferred Stock, Series A",
+   "exchange": "NYSE",
+   "yahoo_symbol": "ANG$A"
+  },
+  {
+   "symbol": "SOXW",
+   "name": "Tradr 2X Long SOXX Weekly ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "SOXW"
+  },
+  {
+   "symbol": "TSLW",
+   "name": "Tradr 1.5X Long TSLA Weekly ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "TSLW"
+  },
+  {
+   "symbol": "TLTQ",
+   "name": "Tradr 1.75X Long TLT Quarterly ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "TLTQ"
+  },
+  {
+   "symbol": "QRTEA",
+   "name": "Qurate Retail, Inc. - Series A Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "QRTEA"
+  }
+ ]
+}

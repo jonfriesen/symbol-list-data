@@ -1,0 +1,184 @@
+{
+ "added": [
+  {
+   "symbol": "INST",
+   "name": "Instadapp (INST)"
+  },
+  {
+   "symbol": "UNITREEAI",
+   "name": "Unitree G1 AI (UNITREEAI)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "TSTAI",
+   "name": "Test AI (TSTAI)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "NEZHATOKEN",
+   "name": "NezhaToken (NEZHATOKEN)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "GFM",
+   "name": "GoFundMeme (GFM)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "NEZHA",
+   "name": "NEZHA (NEZHA)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "BABYBROCCOL",
+   "name": "Baby Broccoli (BABYBROCCOL)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "SHIBAW",
+   "name": "Shiba $Wing (SHIBAW)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "UNIL",
+   "name": "UniLayer (UNIL)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "RIZ",
+   "name": "Rivalz Network (RIZ)"
+  },
+  {
+   "symbol": "MISSK",
+   "name": "Miss Kaka (MISSK)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "LIBRA",
+   "name": "Libra (LIBRA)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "XHUNT",
+   "name": "CryptoHunter World (XHUNT)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "NES",
+   "name": "Nest AI (NES)",
+   "built_on": "BASE"
+  },
+  {
+   "symbol": "GETH",
+   "name": "Guarded Ether (GETH)"
+  },
+  {
+   "symbol": "TST",
+   "name": "Test (TST)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "0LNETWORK",
+   "name": "0L Network (0LNETWORK)"
+  },
+  {
+   "symbol": "SHELLTOKEN",
+   "name": "Shell Token (SHELLTOKEN)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "TELEPORT",
+   "name": "Teleport System Token (TELEPORT)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "BANK",
+   "name": "Float Protocol (BANK)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "GIGAG",
+   "name": "GIGAGEEK (GIGAG)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "DNOW",
+   "name": "DuelNow (DNOW)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "LEI",
+   "name": "Leia Games (LEI)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "CBBTC",
+   "name": "Coinbase Wrapped BTC (CBBTC)",
+   "built_on": "BASE"
+  },
+  {
+   "symbol": "DEE",
+   "name": "Deep AI (DEE)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "FLUIDTRADE",
+   "name": "Fluid (FLUIDTRADE)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "FPIBANK",
+   "name": "FPIBANK (FPIBANK)",
+   "built_on": "TON"
+  },
+  {
+   "symbol": "OIIAOIIA",
+   "name": "spinning cat (OIIAOIIA)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "UPP",
+   "name": "Sentinel Protocol (UPP)"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "UPP",
+   "name": "Sentinel Protocol (UPP)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "NEZHA",
+   "name": "NezhaToken (NEZHA)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "LIBRA",
+   "name": "0L Network (LIBRA)"
+  },
+  {
+   "symbol": "INST",
+   "name": "Instadapp (INST)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "LAYER",
+   "name": "UniLayer (LAYER)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "FLUID",
+   "name": "Fluid (FLUID)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "SHELL",
+   "name": "Shell Token (SHELL)"
+  },
+  {
+   "symbol": "TST",
+   "name": "Teleport System Token (TST)",
+   "built_on": "ETH"
+  }
+ ]
+}
