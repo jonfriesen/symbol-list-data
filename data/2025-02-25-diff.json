@@ -1,0 +1,96 @@
+{
+ "added": [
+  {
+   "symbol": "YOKE",
+   "name": "YOKE Core ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "YOKE"
+  },
+  {
+   "symbol": "FRAS.P",
+   "name": "Fraser Big Sky Capital Corp.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "FRAS.P.V",
+   "instruments": [
+    {
+     "name": "Fraser Big Sky Capital Corp.",
+     "symbol": "FRAS.P"
+    }
+   ]
+  },
+  {
+   "symbol": "ICGH",
+   "name": "IC Group Holdings Inc.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "ICGH.V",
+   "instruments": [
+    {
+     "name": "IC Group Holdings Inc.",
+     "symbol": "ICGH"
+    }
+   ]
+  },
+  {
+   "symbol": "BTB.DB.I",
+   "name": "BTB Real Estate Investment Trust",
+   "exchange": "TSX",
+   "yahoo_symbol": "BTB.DB.I.TO",
+   "instruments": [
+    {
+     "name": "BTB ReEst I 7.25 Deb",
+     "symbol": "BTB.DB.I"
+    },
+    {
+     "name": "BTB REIT Un",
+     "symbol": "BTB.UN"
+    }
+   ]
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "TRI",
+   "name": "Thomson Reuters Corp Common Shares",
+   "exchange": "NYSE",
+   "yahoo_symbol": "TRI"
+  },
+  {
+   "symbol": "OMGA",
+   "name": "Omega Therapeutics, Inc. - Common Stock",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "OMGA"
+  },
+  {
+   "symbol": "BTB.DB.H",
+   "name": "BTB Real Estate Investment Trust",
+   "exchange": "TSX",
+   "yahoo_symbol": "BTB.DB.H.TO",
+   "instruments": [
+    {
+     "name": "BTB REIT 7% H Deb",
+     "symbol": "BTB.DB.H"
+    },
+    {
+     "name": "BTB ReEst I 7.25 Deb",
+     "symbol": "BTB.DB.I"
+    },
+    {
+     "name": "BTB REIT Un",
+     "symbol": "BTB.UN"
+    }
+   ]
+  },
+  {
+   "symbol": "CCII.P",
+   "name": "Cuspis Capital II Ltd.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "CCII.P.V",
+   "instruments": [
+    {
+     "name": "Cuspis Capital II Ltd.",
+     "symbol": "CCII.P"
+    }
+   ]
+  }
+ ]
+}

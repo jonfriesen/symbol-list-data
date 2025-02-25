@@ -1,0 +1,103 @@
+{
+ "added": [
+  {
+   "symbol": "REWARDS",
+   "name": "Solana Rewards (REWARDS)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "THE369",
+   "name": "The 369 code (THE369)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "SHELL",
+   "name": "MyShell (SHELL)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "HKU5",
+   "name": "New Coronavirus (HKU5)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "NEWERASOL",
+   "name": "New Era AI (NEWERASOL)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "LAYER",
+   "name": "Solayer (LAYER)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "ONTACT",
+   "name": "OnTact (ONTACT)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "FLUID",
+   "name": "Fluid (FLUID)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "PEE",
+   "name": "peecoin (PEE)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "ESOL",
+   "name": "Earn Solana (ESOL)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "ORACLER",
+   "name": "Oracler (ORACLER)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "BANKETH",
+   "name": "BankEth (BANKETH)"
+  },
+  {
+   "symbol": "THEDOGE",
+   "name": "The Dogefather (THEDOGE)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "BOUNTY",
+   "name": "ChainBounty (BOUNTY)",
+   "built_on": "ARB"
+  },
+  {
+   "symbol": "THEFACE",
+   "name": "FACE (THEFACE)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "CTOAI",
+   "name": "ClustroAI (CTOAI)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "G",
+   "name": "Gravity (G)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "CBBTCBASE",
+   "name": "cbBTC (CBBTCBASE)"
+  },
+  {
+   "symbol": "RELIGN",
+   "name": "RELIGN (RELIGN)",
+   "built_on": "SOL"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "INST",
+   "name": "Instadapp (INST)"
+  }
+ ]
+}
