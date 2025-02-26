@@ -1,0 +1,84 @@
+{
+ "added": [
+  {
+   "symbol": "BMGL",
+   "name": "Basel Medical Group Ltd - ordinary shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "BMGL"
+  },
+  {
+   "symbol": "DMAA",
+   "name": "Drugs Made In America Acquisition Corp. - Ordinary Shares",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "DMAA"
+  },
+  {
+   "symbol": "DMAAR",
+   "name": "Drugs Made In America Acquisition Corp. - Rights",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "DMAAR"
+  },
+  {
+   "symbol": "RBIL",
+   "name": "F/m Ultrashort Treasury Inflation-Protected Security (TIPS) ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "RBIL"
+  },
+  {
+   "symbol": "TRI",
+   "name": "Thomson Reuters Corp - Common Shares",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "TRI"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "FTIIU",
+   "name": "FutureTech II Acquisition Corp. - Unit",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "FTIIU"
+  },
+  {
+   "symbol": "NKLA",
+   "name": "Nikola Corporation - Common Stock",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "NKLA"
+  },
+  {
+   "symbol": "FTIIW",
+   "name": "FutureTech II Acquisition Corp. - Warrant",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "FTIIW"
+  },
+  {
+   "symbol": "OSIX",
+   "name": "Oceansix Future Paths Ltd.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "OSIX.V",
+   "instruments": [
+    {
+     "name": "Oceansix Future Paths Ltd.",
+     "symbol": "OSIX"
+    }
+   ]
+  },
+  {
+   "symbol": "FTII",
+   "name": "FutureTech II Acquisition Corp. - Class A Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "FTII"
+  },
+  {
+   "symbol": "CRBK",
+   "name": "Carebook Technologies Inc.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "CRBK.V",
+   "instruments": [
+    {
+     "name": "Carebook Technologies Inc.",
+     "symbol": "CRBK"
+    }
+   ]
+  }
+ ]
+}

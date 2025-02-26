@@ -1,0 +1,210 @@
+{
+ "added": [
+  {
+   "symbol": "GRIND",
+   "name": "Self Improving (GRIND)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "YZY",
+   "name": "Yeezy (YZY)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "ASTRALAB",
+   "name": "Astra Labs (ASTRALAB)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "NIMBUS",
+   "name": "Nimbus AI (NIMBUS)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "DOGUN",
+   "name": "Dogun (DOGUN)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "BBDOGITO",
+   "name": "BabyBullDogito (BBDOGITO)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "OFFIC",
+   "name": "OFFICIAL SIMPSON (OFFIC)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "FAFOSOL",
+   "name": "Fafo (FAFOSOL)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "CBBTC",
+   "name": "Coinbase Wrapped BTC (CBBTC)",
+   "built_on": "BASE"
+  },
+  {
+   "symbol": "JAPAN",
+   "name": "Japan Open Chain (JAPAN)"
+  },
+  {
+   "symbol": "TOROSOL",
+   "name": "Toro (TOROSOL)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "VITALIK",
+   "name": "OFFICIAL VITALIK (VITALIK)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "VZ",
+   "name": "Vault Zero (VZ)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "FARTING",
+   "name": "Farting Unicorn (FARTING)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "DOGEDI",
+   "name": "Doge Dividends (DOGEDI)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "KAIM",
+   "name": "Kai Meme (KAIM)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "ZRC",
+   "name": "ZrCoin (ZRC)",
+   "built_on": "WAVES"
+  },
+  {
+   "symbol": "SKAIN",
+   "name": "SKAINET (SKAIN)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "BANK",
+   "name": "Float Protocol (BANK)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "WAGM",
+   "name": "WAGMI (WAGM)",
+   "built_on": "BASE"
+  },
+  {
+   "symbol": "BOOF",
+   "name": "Boofus by Virtuals (BOOF)",
+   "built_on": "BASE"
+  },
+  {
+   "symbol": "PHA",
+   "name": "Phala Network (PHA)"
+  },
+  {
+   "symbol": "LESTE",
+   "name": "LESTER by Virtuals (LESTE)",
+   "built_on": "BASE"
+  },
+  {
+   "symbol": "DGLD",
+   "name": "Digital Gold (DGLD)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "FLOTUS47",
+   "name": "Melania Trump (FLOTUS47)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "DONALDP",
+   "name": "Donald Pump (DONALDP)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "BRAI",
+   "name": "Brain Frog (BRAI)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "TRUT",
+   "name": "Truth (TRUT)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "KEKARMY",
+   "name": "Kek (KEKARMY)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "MOMO2025",
+   "name": "momo (MOMO2025)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "AITRUMP",
+   "name": "AITRUMP (AITRUMP)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "GETH",
+   "name": "Guarded Ether (GETH)"
+  },
+  {
+   "symbol": "GTY",
+   "name": "G-Agents AI (GTY)",
+   "built_on": "BASE"
+  },
+  {
+   "symbol": "CPXTB",
+   "name": "Coin Prediction Tool On Base (CPXTB)",
+   "built_on": "BASE"
+  },
+  {
+   "symbol": "NUT",
+   "name": "Native Utility Token (NUT)",
+   "built_on": "EOS"
+  },
+  {
+   "symbol": "DATAB",
+   "name": "Databot (DATAB)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "VILADY",
+   "name": "Vitalik Milady (VILADY)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "MAYILONG",
+   "name": "Yi long ma (MAYILONG)",
+   "built_on": "SOL"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "PHA",
+   "name": "Phala Network (PHA)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "ZRC",
+   "name": "ZrCoin (ZRC)"
+  },
+  {
+   "symbol": "DGLD",
+   "name": "Digital Gold (DGLD)"
+  },
+  {
+   "symbol": "NUT",
+   "name": "Native Utility Token (NUT)"
+  }
+ ]
+}
