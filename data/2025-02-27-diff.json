@@ -1,0 +1,96 @@
+{
+ "added": [
+  {
+   "symbol": "ABRA",
+   "name": "AbraSilver Resource Corp.",
+   "exchange": "TSX",
+   "yahoo_symbol": "ABRA.TO",
+   "instruments": [
+    {
+     "name": "AbraSilver Resrce Co",
+     "symbol": "ABRA"
+    }
+   ]
+  },
+  {
+   "symbol": "DMEE",
+   "name": "Desjardins Emerging Markets Equity Index ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "DMEE.TO",
+   "instruments": [
+    {
+     "name": "Desjrdn EmMaEqIn ETF",
+     "symbol": "DMEE"
+    }
+   ]
+  },
+  {
+   "symbol": "RAA",
+   "name": "SMI 3Fourteen REAL Asset Allocation ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "RAA"
+  },
+  {
+   "symbol": "STAK",
+   "name": "STAK Inc. - Ordinary Shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "STAK"
+  },
+  {
+   "symbol": "SY",
+   "name": "So-Young International Inc. - American Depository Shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "SY"
+  },
+  {
+   "symbol": "TQQY",
+   "name": "GraniteShares YieldBOOST QQQ ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "TQQY"
+  },
+  {
+   "symbol": "YSPY",
+   "name": "GraniteShares YieldBOOST SPY ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "YSPY"
+  },
+  {
+   "symbol": "LUD",
+   "name": "Luda Technology Group Limited Ordinary Shares",
+   "exchange": "NYSE MKT",
+   "yahoo_symbol": "LUD"
+  },
+  {
+   "symbol": "RAC.U",
+   "name": "Rithm Acquisition Corp. Units (each consists of one Class A Ordinary Share and one-third of one redeemable Warrant)",
+   "exchange": "NYSE",
+   "yahoo_symbol": "RAC.U"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "ABRA",
+   "name": "AbraSilver Resource Corp.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "ABRA.V",
+   "instruments": [
+    {
+     "name": "Abrasilver Resource Corp.",
+     "symbol": "ABRA"
+    }
+   ]
+  },
+  {
+   "symbol": "LICY",
+   "name": "Li-Cycle Holdings Corp. Common Shares",
+   "exchange": "NYSE",
+   "yahoo_symbol": "LICY"
+  },
+  {
+   "symbol": "SY",
+   "name": "So-Young International Inc. - American Depository Shares",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "SY"
+  }
+ ]
+}
