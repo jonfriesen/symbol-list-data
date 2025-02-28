@@ -1,0 +1,90 @@
+{
+ "added": [
+  {
+   "symbol": "EBI",
+   "name": "The RBB Fund Trust Longview Advantage ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "EBI"
+  },
+  {
+   "symbol": "EVYM",
+   "name": "Eaton Vance High Income Municipal ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "EVYM"
+  },
+  {
+   "symbol": "LZMH",
+   "name": "LZ Technology Holdings Limited - Class B Ordinary Shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "LZMH"
+  },
+  {
+   "symbol": "NIVF",
+   "name": "NewGenIvf Group Limited - Class A Ordinary Shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "NIVF"
+  },
+  {
+   "symbol": "RCGE",
+   "name": "RockCreek Global Equality ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "RCGE"
+  },
+  {
+   "symbol": "RHLD",
+   "name": "Resolute Holdings Management - Common Stock",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "RHLD"
+  },
+  {
+   "symbol": "WETO",
+   "name": "Webus International Limited - Ordinary Shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "WETO"
+  },
+  {
+   "symbol": "CTEV",
+   "name": "Claritev Corporation Class A Common Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "CTEV"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "RILYM",
+   "name": "B. Riley Financial, Inc. - 6.375% Senior Notes due 2025",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "RILYM"
+  },
+  {
+   "symbol": "HCP",
+   "name": "HashiCorp, Inc. - Class A Common Stock",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "HCP"
+  },
+  {
+   "symbol": "CMPOV",
+   "name": "CompoSecure, Inc.  - Class A Common Stock Ex-distribution When-Issued",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "CMPOV"
+  },
+  {
+   "symbol": "RHLDV",
+   "name": "Resolute Holdings Management - Common Stock",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "RHLDV"
+  },
+  {
+   "symbol": "MPLN",
+   "name": "MultiPlan Corporation Class A Common Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "MPLN"
+  },
+  {
+   "symbol": "NIVF",
+   "name": "NewGenIvf Group Limited - Class A Ordinary Shares",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "NIVF"
+  }
+ ]
+}
