@@ -1,0 +1,105 @@
+{
+ "added": [
+  {
+   "symbol": "BDCA",
+   "name": "BitDCA (BDCA)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "CURIO",
+   "name": "Curio Governance (CURIO)",
+   "built_on": "BOBA"
+  },
+  {
+   "symbol": "REALUSD",
+   "name": "Real USD (REALUSD)",
+   "built_on": "ARB"
+  },
+  {
+   "symbol": "HEARTN",
+   "name": "Heart Number (HEARTN)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "STAR10",
+   "name": "Ronaldinho Coin (STAR10)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "MIAO",
+   "name": "MIAOCoin (MIAO)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "BROCCO",
+   "name": "Broccoli (firstbroccoli.com) (BROCCO)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "GETH",
+   "name": "Guarded Ether (GETH)"
+  },
+  {
+   "symbol": "CGTV2",
+   "name": "Curio Gas Token (CGTV2)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "FINVESTA",
+   "name": "Finvesta (FINVESTA)",
+   "built_on": "PLS"
+  },
+  {
+   "symbol": "CHPD",
+   "name": "Chirppad (CHPD)",
+   "built_on": "BASE"
+  },
+  {
+   "symbol": "PURPLEBTC",
+   "name": "Purple Bitcoin (PURPLEBTC)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "IP",
+   "name": "Story (IP)"
+  },
+  {
+   "symbol": "CBBTCBASE",
+   "name": "cbBTC (CBBTCBASE)"
+  },
+  {
+   "symbol": "BANK",
+   "name": "Float Protocol (BANK)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "EURRV1",
+   "name": "StablR Euro v1 (EURRV1)"
+  },
+  {
+   "symbol": "AIMXV1",
+   "name": "Aimedis v1 (AIMXV1)"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "CURIO",
+   "name": "Curio Governance (CURIO)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "USDR",
+   "name": "Real USD (USDR)",
+   "built_on": "ARB"
+  },
+  {
+   "symbol": "FINVESTA",
+   "name": "Finvesta (FINVESTA)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "ZEDCOIN",
+   "name": "ZedCoin (ZEDCOIN)"
+  }
+ ]
+}
