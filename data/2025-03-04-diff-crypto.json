@@ -1,0 +1,130 @@
+{
+ "added": [
+  {
+   "symbol": "DOGONB",
+   "name": "Dog on Base (DOGONB)",
+   "built_on": "BASE"
+  },
+  {
+   "symbol": "COLLAT",
+   "name": "Collaterize (COLLAT)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "ORACOLXOR",
+   "name": "Oracolxor (ORACOLXOR)"
+  },
+  {
+   "symbol": "JOBSEEK",
+   "name": "JobSeek AI (JOBSEEK)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "MEMHASH",
+   "name": "Memhash (MEMHASH)",
+   "built_on": "TON"
+  },
+  {
+   "symbol": "BANK",
+   "name": "Float Protocol (BANK)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "SSR",
+   "name": "SOL Strategic Reserve (SSR)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "AIVA",
+   "name": "AI Voice Agents (AIVA)",
+   "built_on": "BASE"
+  },
+  {
+   "symbol": "USDN",
+   "name": "Neutrino USD (USDN)"
+  },
+  {
+   "symbol": "LLD",
+   "name": "Liberland dollar (LLD)"
+  },
+  {
+   "symbol": "ROP",
+   "name": "Redemption Of Pets (ROP)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "ZEDCOIN",
+   "name": "ZedCoin (ZEDCOIN)"
+  },
+  {
+   "symbol": "YTC",
+   "name": "Yachtscoin (YTC)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "USDR",
+   "name": "StablR USD (USDR)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "AIMX",
+   "name": "Aimedis (AIMX)",
+   "built_on": "POL"
+  },
+  {
+   "symbol": "101M",
+   "name": "101M (101M)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "GETH",
+   "name": "Guarded Ether (GETH)"
+  },
+  {
+   "symbol": "CRYPTOAGENT",
+   "name": "CRYPTO AGENT TRUMP (CRYPTOAGENT)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "BULLBEAR",
+   "name": "BullBear AI (BULLBEAR)",
+   "built_on": "ARB"
+  },
+  {
+   "symbol": "FRENC",
+   "name": "Frencoin (FRENC)",
+   "built_on": "BASE"
+  },
+  {
+   "symbol": "CBBTC",
+   "name": "Coinbase Wrapped BTC (CBBTC)",
+   "built_on": "BASE"
+  },
+  {
+   "symbol": "MOZA",
+   "name": "Mozaic (MOZA)",
+   "built_on": "ARB"
+  },
+  {
+   "symbol": "XPI",
+   "name": "XPi (XPI)",
+   "built_on": "SOL"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "AIMX",
+   "name": "Aimedis (AIMX)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "USDN",
+   "name": "Neutrino USD (USDN)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "ORA",
+   "name": "Oracolxor (ORA)"
+  }
+ ]
+}

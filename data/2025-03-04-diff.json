@@ -1,0 +1,60 @@
+{
+ "added": [
+  {
+   "symbol": "GIDY",
+   "name": "Guardian i3 Global Dividend Premium Yield Fund",
+   "exchange": "TSX",
+   "yahoo_symbol": "GIDY.TO",
+   "instruments": [
+    {
+     "name": "Guard I3 GlDv Py Fnd",
+     "symbol": "GIDY"
+    }
+   ]
+  },
+  {
+   "symbol": "RDGT",
+   "name": "Ridgetech, Inc. - Ordinary Shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "RDGT"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "HTC",
+   "name": "HTC Purenergy Inc.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "HTC.V",
+   "instruments": [
+    {
+     "name": "HTC Purenergy Inc",
+     "symbol": "HTC"
+    }
+   ]
+  },
+  {
+   "symbol": "IBIO",
+   "name": "iBio, Inc. Common Stock",
+   "exchange": "NYSE MKT",
+   "yahoo_symbol": "IBIO"
+  },
+  {
+   "symbol": "CFB",
+   "name": "CrossFirst Bankshares, Inc. - Common Stock",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "CFB"
+  },
+  {
+   "symbol": "CJJD",
+   "name": "China Jo-Jo Drugstores, Inc. - Ordinary Shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "CJJD"
+  },
+  {
+   "symbol": "PFC",
+   "name": "Premier Financial Corp.  - Common Stock",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "PFC"
+  }
+ ]
+}
