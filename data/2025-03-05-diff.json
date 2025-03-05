@@ -1,0 +1,150 @@
+{
+ "added": [
+  {
+   "symbol": "GOGY",
+   "name": "Harvest Alphabet Enhanced High Income Shares ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "GOGY.TO",
+   "instruments": [
+    {
+     "name": "Harv Alph EHIShr ETF",
+     "symbol": "GOGY"
+    }
+   ]
+  },
+  {
+   "symbol": "AMDY",
+   "name": "Harvest AMD Enhanced High Income Shares ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "AMDY.TO",
+   "instruments": [
+    {
+     "name": "Harv AMD EHIShrs ETF",
+     "symbol": "AMDY"
+    }
+   ]
+  },
+  {
+   "symbol": "AVGY",
+   "name": "Harvest Broadcom Enhanced High Income Shares ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "AVGY.TO",
+   "instruments": [
+    {
+     "name": "Harv BrdCm EHIS ETF",
+     "symbol": "AVGY"
+    }
+   ]
+  },
+  {
+   "symbol": "CNYE",
+   "name": "Harvest Coinbase Enhanced High Income Shares ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "CNYE.TO",
+   "instruments": [
+    {
+     "name": "Harv CoinBs EHIS ETF",
+     "symbol": "CNYE"
+    }
+   ]
+  },
+  {
+   "symbol": "COSY",
+   "name": "Harvest Costco Enhanced High Income Shares ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "COSY.TO",
+   "instruments": [
+    {
+     "name": "Harv Costco EHIS ETF",
+     "symbol": "COSY"
+    }
+   ]
+  },
+  {
+   "symbol": "MSTE",
+   "name": "Harvest MicroStrategy Enhanced High Income Shares ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "MSTE.TO",
+   "instruments": [
+    {
+     "name": "Harv MicStgy EHISETF",
+     "symbol": "MSTE"
+    }
+   ]
+  },
+  {
+   "symbol": "NFLY",
+   "name": "Harvest Netflix Enhanced High Income Shares ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "NFLY.TO",
+   "instruments": [
+    {
+     "name": "Harv Ntflix EHIS ETF",
+     "symbol": "NFLY"
+    }
+   ]
+  },
+  {
+   "symbol": "IBIO",
+   "name": "iBio, Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "IBIO"
+  },
+  {
+   "symbol": "PN",
+   "name": "Skycorp Solar Group Limited - Ordinary Shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "PN"
+  },
+  {
+   "symbol": "APUS",
+   "name": "Apimeds Pharmaceuticals US, Inc. Common Stock",
+   "exchange": "NYSE MKT",
+   "yahoo_symbol": "APUS"
+  },
+  {
+   "symbol": "KNW",
+   "name": "Know Labs, Inc. Common Stock",
+   "exchange": "NYSE MKT",
+   "yahoo_symbol": "KNW"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "ZOM",
+   "name": "Zomedica Corp. Common Shares",
+   "exchange": "NYSE MKT",
+   "yahoo_symbol": "ZOM"
+  },
+  {
+   "symbol": "CRKN",
+   "name": "Crown Electrokinetics Corp. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "CRKN"
+  },
+  {
+   "symbol": "PAY",
+   "name": "Payfare Inc.",
+   "exchange": "TSX",
+   "yahoo_symbol": "PAY.TO",
+   "instruments": [
+    {
+     "name": "Payfare Inc. J Cl A",
+     "symbol": "PAY"
+    }
+   ]
+  },
+  {
+   "symbol": "NKGN",
+   "name": "NKGen Biotech, Inc. - Common Stock",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "NKGN"
+  },
+  {
+   "symbol": "NKGNW",
+   "name": "NKGen Biotech, Inc. - Warrants",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "NKGNW"
+  }
+ ]
+}

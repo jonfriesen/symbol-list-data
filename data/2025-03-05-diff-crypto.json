@@ -1,0 +1,159 @@
+{
+ "added": [
+  {
+   "symbol": "TAOBOT",
+   "name": "tao.bot (TAOBOT)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "BSEN",
+   "name": "Baby Sen by Sentio (BSEN)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "INFR",
+   "name": "infraX (INFR)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "UNIFI",
+   "name": "Unifi (UNIFI)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "REALUSDV2",
+   "name": "Real USD v2 (REALUSDV2)"
+  },
+  {
+   "symbol": "GROWNCOIN",
+   "name": "GrownCoin (GROWNCOIN)"
+  },
+  {
+   "symbol": "GPS",
+   "name": "Triffic (GPS)",
+   "built_on": "BASE"
+  },
+  {
+   "symbol": "REALUSD",
+   "name": "Real USD (REALUSD)",
+   "built_on": "POL"
+  },
+  {
+   "symbol": "UTYA",
+   "name": "Utya (UTYA)",
+   "built_on": "TON"
+  },
+  {
+   "symbol": "GETH",
+   "name": "Guarded Ether (GETH)"
+  },
+  {
+   "symbol": "ETNA",
+   "name": "ETNA Network (ETNA)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "FLOURI",
+   "name": "Flourishing AI (FLOURI)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "NEUR",
+   "name": "neur.sh (NEUR)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "TRAI",
+   "name": "Trackgood AI (TRAI)",
+   "built_on": "BASE"
+  },
+  {
+   "symbol": "VECTOR",
+   "name": "VectorChat.ai (VECTOR)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "REALUSDV1",
+   "name": "Real USD v1 (REALUSDV1)"
+  },
+  {
+   "symbol": "BANKETH",
+   "name": "BankEth (BANKETH)"
+  },
+  {
+   "symbol": "XTN",
+   "name": "Neutrino Index Token (XTN)",
+   "built_on": "WAVES"
+  },
+  {
+   "symbol": "GROW",
+   "name": "Grow Token (GROW)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "AIEPK",
+   "name": "EpiK Protocol (AIEPK)"
+  },
+  {
+   "symbol": "CBBTC",
+   "name": "Coinbase Wrapped BTC (CBBTC)",
+   "built_on": "BASE"
+  },
+  {
+   "symbol": "SUD",
+   "name": "Sudo Labs (SUD)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "SHOE",
+   "name": "ShoeFy (SHOE)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "ORA",
+   "name": "ORA Coin (ORA)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "CSPN",
+   "name": "Crypto Sports (CSPN)",
+   "built_on": "POL"
+  },
+  {
+   "symbol": "HERAF",
+   "name": "Hera Finance (HERAF)",
+   "built_on": "METIS"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "USDN",
+   "name": "Neutrino USD (USDN)"
+  },
+  {
+   "symbol": "GROW",
+   "name": "GrownCoin (GROW)"
+  },
+  {
+   "symbol": "ETNA",
+   "name": "ETNA Network (ETNA)"
+  },
+  {
+   "symbol": "GPS",
+   "name": "Triffic (GPS)"
+  },
+  {
+   "symbol": "SHOE",
+   "name": "ShoeFy (SHOE)"
+  },
+  {
+   "symbol": "CSPN",
+   "name": "Crypto Sports (CSPN)"
+  },
+  {
+   "symbol": "REALUSD",
+   "name": "Real USD (REALUSD)",
+   "built_on": "ARB"
+  }
+ ]
+}
