@@ -1,0 +1,119 @@
+{
+ "added": [
+  {
+   "symbol": "FUCKTRUMP",
+   "name": "FUCK TRUMP (FUCKTRUMP)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "CBBTCBASE",
+   "name": "cbBTC (CBBTCBASE)"
+  },
+  {
+   "symbol": "UNISDV1",
+   "name": "uniswap State Dollar (UNISDV1)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "OCNEST",
+   "name": "OcNest AI (OCNEST)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "GETH",
+   "name": "Guarded Ether (GETH)"
+  },
+  {
+   "symbol": "GAIA",
+   "name": "Gaia Everworld (GAIA)",
+   "built_on": "POL"
+  },
+  {
+   "symbol": "BTCSR",
+   "name": "BTC Strategic Reserve (BTCSR)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "REALESTATE",
+   "name": "RealEstate (REALESTATE)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "CURIO",
+   "name": "Curio Governance (CURIO)"
+  },
+  {
+   "symbol": "NEXTV1",
+   "name": "Connext Network (NEXTV1)"
+  },
+  {
+   "symbol": "COKEONS",
+   "name": "Coke on Sol (COKEONS)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "PWEASE",
+   "name": "Pwease (PWEASE)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "AZER",
+   "name": "Azerop (AZER)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "GPSTOKEN",
+   "name": "GPS Token (GPSTOKEN)"
+  },
+  {
+   "symbol": "BANK",
+   "name": "Float Protocol (BANK)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "YELP",
+   "name": "Yelpro (YELP)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "NORDO",
+   "name": "Greenland Rare Bear (NORDO)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "BUIL",
+   "name": "BUILD (BUIL)",
+   "built_on": "TON"
+  },
+  {
+   "symbol": "HOGONSOLANA",
+   "name": "HOG (HOGONSOLANA)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "UNISD",
+   "name": "unified Stable Dollar (UNISD)",
+   "built_on": "ETH"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "ZEDCOIN",
+   "name": "ZedCoin (ZEDCOIN)"
+  },
+  {
+   "symbol": "NEXTV1",
+   "name": "Connext Network (NEXTV1)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "CURIO",
+   "name": "Curio Governance (CURIO)",
+   "built_on": "BOBA"
+  },
+  {
+   "symbol": "GAIA",
+   "name": "Gaia Everworld (GAIA)"
+  }
+ ]
+}

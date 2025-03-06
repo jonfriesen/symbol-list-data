@@ -1,0 +1,54 @@
+{
+ "added": [
+  {
+   "symbol": "DGX",
+   "name": "Digi Power X Inc.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "DGX.V",
+   "instruments": [
+    {
+     "name": "Digi Power X Inc.",
+     "symbol": "DGX"
+    }
+   ]
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "BLB.UN",
+   "name": "Bloom Select Income Fund",
+   "exchange": "TSX",
+   "yahoo_symbol": "BLB.UN.TO",
+   "instruments": [
+    {
+     "name": "Bloom Select Incm Un",
+     "symbol": "BLB.UN"
+    }
+   ]
+  },
+  {
+   "symbol": "PNST",
+   "name": "Pinstripes Holdings, Inc. Class A Common Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "PNST"
+  },
+  {
+   "symbol": "DGHI",
+   "name": "Digihost Technology Inc.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "DGHI.V",
+   "instruments": [
+    {
+     "name": "Digihost Technology Inc.",
+     "symbol": "DGHI"
+    }
+   ]
+  },
+  {
+   "symbol": "ALTM",
+   "name": "Arcadium Lithium plc Ordinary Shares",
+   "exchange": "NYSE",
+   "yahoo_symbol": "ALTM"
+  }
+ ]
+}
