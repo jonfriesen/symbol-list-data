@@ -1,0 +1,150 @@
+{
+ "added": [
+  {
+   "symbol": "DPF",
+   "name": "Dr. Phone Fix Canada Corporation",
+   "exchange": "TSXV",
+   "yahoo_symbol": "DPF.V",
+   "instruments": [
+    {
+     "name": "Dr. Phone Fix Canada Corporation",
+     "symbol": "DPF"
+    }
+   ]
+  },
+  {
+   "symbol": "EHLDV",
+   "name": "Euroholdings Ltd. - Common Stock When Issued",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "EHLDV"
+  },
+  {
+   "symbol": "ESEAV",
+   "name": "Euroseas Ltd. - Ex-Distribution When Issued",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "ESEAV"
+  },
+  {
+   "symbol": "FFAI",
+   "name": "Faraday Future Intelligent Electric Inc. - Class A Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "FFAI"
+  },
+  {
+   "symbol": "FFAIW",
+   "name": "Faraday Future Intelligent Electric Inc. - Warrant",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "FFAIW"
+  },
+  {
+   "symbol": "MAYA",
+   "name": "Maywood Acquisition Corp. - Class A Ordinary Shares",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "MAYA"
+  },
+  {
+   "symbol": "MAYAR",
+   "name": "Maywood Acquisition Corp. - Right",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "MAYAR"
+  },
+  {
+   "symbol": "MRAL",
+   "name": "GraniteShares 2x Long MARA Daily ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "MRAL"
+  },
+  {
+   "symbol": "MVLL",
+   "name": "GraniteShares 2x Long MRVL Daily ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "MVLL"
+  },
+  {
+   "symbol": "RIBB",
+   "name": "Ribbon Acquisition Corp - Class A Ordinary Shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "RIBB"
+  },
+  {
+   "symbol": "RIBBR",
+   "name": "Ribbon Acquisition Corp - Rights",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "RIBBR"
+  },
+  {
+   "symbol": "SAGT",
+   "name": "SAGTEC GLOBAL LIMITED - Ordinary shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "SAGT"
+  },
+  {
+   "symbol": "SNWV",
+   "name": "SANUWAVE Health, Inc. - Common Stock",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "SNWV"
+  },
+  {
+   "symbol": "XAGE",
+   "name": "Longevity Health Holdings, Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "XAGE"
+  },
+  {
+   "symbol": "XAGEW",
+   "name": "Longevity Health Holdings, Inc. - Warrant",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "XAGEW"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "FFIEW",
+   "name": "Faraday Future Intelligent Electric Inc. - Warrant",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "FFIEW"
+  },
+  {
+   "symbol": "BCOW",
+   "name": "1895 Bancorp of Wisconsin, Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "BCOW"
+  },
+  {
+   "symbol": "FFIE",
+   "name": "Faraday Future Intelligent Electric Inc. - Class A Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "FFIE"
+  },
+  {
+   "symbol": "BEST",
+   "name": "BEST Inc. American Depositary Shares, each representing twenty (20) Class A Ordinary Shares",
+   "exchange": "NYSE",
+   "yahoo_symbol": "BEST"
+  },
+  {
+   "symbol": "AUK.P",
+   "name": "Auka Capital Corp.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "AUK.P.V",
+   "instruments": [
+    {
+     "name": "Auka Capital Corp.",
+     "symbol": "AUK.P"
+    }
+   ]
+  },
+  {
+   "symbol": "CTCX",
+   "name": "Carmell Corporation - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "CTCX"
+  },
+  {
+   "symbol": "CTCXW",
+   "name": "Carmell Corporation - Warrant",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "CTCXW"
+  }
+ ]
+}

@@ -1,0 +1,80 @@
+{
+ "added": [
+  {
+   "symbol": "BIFIV1",
+   "name": "Beefy v1 (BIFIV1)"
+  },
+  {
+   "symbol": "EARNB",
+   "name": "Earn BTC (EARNB)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "BSAI",
+   "name": "Bitcoin Silver AI (BSAI)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "USDN",
+   "name": "Neutral AI (USDN)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "USDQSTABLE",
+   "name": "USDQ (USDQSTABLE)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "DRX",
+   "name": "DRX Token (DRX)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "AP3X",
+   "name": "Apex token (AP3X)"
+  },
+  {
+   "symbol": "CBBTC",
+   "name": "Coinbase Wrapped BTC (CBBTC)",
+   "built_on": "BASE"
+  },
+  {
+   "symbol": "CORTEX",
+   "name": "Cortex Protocol (CORTEX)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "REACT",
+   "name": "Reactive Network (REACT)"
+  },
+  {
+   "symbol": "SOLANATREASURY",
+   "name": "Solana Treasury Machine (SOLANATREASURY)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "G",
+   "name": "Gravity (G)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "PEPEMUSK",
+   "name": "pepemusk (PEPEMUSK)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "BANKETH",
+   "name": "BankEth (BANKETH)"
+  },
+  {
+   "symbol": "ROAM",
+   "name": "Roam Token (ROAM)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "HOMEBREW",
+   "name": "Homebrew Robotics Club (HOMEBREW)",
+   "built_on": "SOL"
+  }
+ ]
+}
