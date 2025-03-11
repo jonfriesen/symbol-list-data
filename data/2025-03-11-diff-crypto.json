@@ -1,0 +1,121 @@
+{
+ "added": [
+  {
+   "symbol": "MERG",
+   "name": "Merge Token (MERG)",
+   "built_on": "TON"
+  },
+  {
+   "symbol": "GROKVANCE",
+   "name": "GROK VANCE (GROKVANCE)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "MND",
+   "name": "Mound Token (MND)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "BIRDD",
+   "name": "BIRD DOG (BIRDD)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "NOPAIN",
+   "name": "No Pain No Gain (NOPAIN)",
+   "built_on": "BASE"
+  },
+  {
+   "symbol": "NVG8",
+   "name": "Navigate (NVG8)",
+   "built_on": "BASE"
+  },
+  {
+   "symbol": "DPIN",
+   "name": "DPIN (DPIN)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "DANCING",
+   "name": "Dancing Michi (DANCING)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "SILVERNOV",
+   "name": "Silvernova Token (SILVERNOV)",
+   "built_on": "TRX"
+  },
+  {
+   "symbol": "MTHB",
+   "name": "MTHAIBAHT (MTHB)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "3DVANCE",
+   "name": "3D Vance (3DVANCE)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "MANUSAI",
+   "name": "Manus AI Agent (MANUSAI)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "CBBTCBASE",
+   "name": "cbBTC (CBBTCBASE)"
+  },
+  {
+   "symbol": "BANK",
+   "name": "Float Protocol (BANK)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "TRUMPDOGECOIN",
+   "name": "DOGE (TRUMPDOGECOIN)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "CARROTSWAP",
+   "name": "CarrotSwap (CARROTSWAP)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "BROCC",
+   "name": "Broccoli (BROCC)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "PENGUIN",
+   "name": "Penguin (PENGUIN)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "CARROT",
+   "name": "Carrot by Puffer (CARROT)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "CLUTCH",
+   "name": "Clutch (CLUTCH)",
+   "built_on": "ARB"
+  },
+  {
+   "symbol": "GETH",
+   "name": "Guarded Ether (GETH)"
+  },
+  {
+   "symbol": "ZEDCOIN",
+   "name": "ZedCoin (ZEDCOIN)"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "CARROT",
+   "name": "CarrotSwap (CARROT)"
+  },
+  {
+   "symbol": "MND",
+   "name": "Mound Token (MND)"
+  }
+ ]
+}

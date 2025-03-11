@@ -1,0 +1,96 @@
+{
+ "added": [
+  {
+   "symbol": "PXLW",
+   "name": "Pixelworks, Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "PXLW"
+  },
+  {
+   "symbol": "KCP",
+   "name": "King Copper Discovery Corp.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "KCP.V",
+   "instruments": [
+    {
+     "name": "King Copper Discovery Corp.",
+     "symbol": "KCP"
+    }
+   ]
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "VMCAU",
+   "name": "Valuence Merger Corp. I - Unit",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "VMCAU"
+  },
+  {
+   "symbol": "TBX",
+   "name": "Turmalina Metals Corp.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "TBX.V",
+   "instruments": [
+    {
+     "name": "Turmalina Metals Corp.",
+     "symbol": "TBX"
+    }
+   ]
+  },
+  {
+   "symbol": "LOU",
+   "name": "Lucero Energy Corp.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "LOU.V",
+   "instruments": [
+    {
+     "name": "Lucero Energy Corp.",
+     "symbol": "LOU"
+    }
+   ]
+  },
+  {
+   "symbol": "VMCAW",
+   "name": "Valuence Merger Corp. I - Warrant",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "VMCAW"
+  },
+  {
+   "symbol": "VMCA",
+   "name": "Valuence Merger Corp. I - Class A Ordinary Shares",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "VMCA"
+  },
+  {
+   "symbol": "MNX",
+   "name": "Manitex Capital Inc.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "MNX.V",
+   "instruments": [
+    {
+     "name": "Manitex Capital Inc.",
+     "symbol": "MNX"
+    }
+   ]
+  },
+  {
+   "symbol": "SBM",
+   "name": "Sirona Biochem Corp.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "SBM.V",
+   "instruments": [
+    {
+     "name": "Sirona Biochem Corp",
+     "symbol": "SBM"
+    }
+   ]
+  },
+  {
+   "symbol": "PXLW",
+   "name": "Pixelworks, Inc. - Common Stock",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "PXLW"
+  }
+ ]
+}
