@@ -1,0 +1,114 @@
+{
+ "added": [
+  {
+   "symbol": "HLU",
+   "name": "Homeland Uranium Corp.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "HLU.V",
+   "instruments": [
+    {
+     "name": "Homeland Uranium Corp.",
+     "symbol": "HLU"
+    }
+   ]
+  },
+  {
+   "symbol": "MCI",
+   "name": "Minnova Corp.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "MCI.V",
+   "instruments": [
+    {
+     "name": "Minnova Corp.",
+     "symbol": "MCI"
+    }
+   ]
+  },
+  {
+   "symbol": "OGO",
+   "name": "Organto Foods Inc.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "OGO.V",
+   "instruments": [
+    {
+     "name": "Organto Foods Inc.",
+     "symbol": "OGO"
+    }
+   ]
+  },
+  {
+   "symbol": "PTX",
+   "name": "PTX Metals Inc.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "PTX.V",
+   "instruments": [
+    {
+     "name": "PTX Metals Inc.",
+     "symbol": "PTX"
+    }
+   ]
+  },
+  {
+   "symbol": "AIFE",
+   "name": "Aifeex Nexus Acquisition Corporation - Class A Ordinary Shares",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "AIFE"
+  },
+  {
+   "symbol": "AIFER",
+   "name": "Aifeex Nexus Acquisition Corporation - Right",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "AIFER"
+  },
+  {
+   "symbol": "AIFEU",
+   "name": "Aifeex Nexus Acquisition Corporation - Unit",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "AIFEU"
+  },
+  {
+   "symbol": "KKR$D",
+   "name": "KKR \u0026 Co. Inc. 6.25% Series D Mandatory Convertible Preferred Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "KKR$D"
+  },
+  {
+   "symbol": "RPT$C",
+   "name": "Rithm Property Trust Inc. 9.875% Series C Fixed-to-Floating Rate Cumulative Redeemable Preferred Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "RPT$C"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "SPHAR",
+   "name": "Shepherd Ave Capital Acquisition Corporation - Right",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "SPHAR"
+  },
+  {
+   "symbol": "SPHA",
+   "name": "Shepherd Ave Capital Acquisition Corporation - Class A Ordinary shares",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "SPHA"
+  },
+  {
+   "symbol": "SPHAU",
+   "name": "Shepherd Ave Capital Acquisition Corporation - Unit",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "SPHAU"
+  },
+  {
+   "symbol": "VVR",
+   "name": "Valleyview Resources Ltd.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "VVR.V",
+   "instruments": [
+    {
+     "name": "Valleyview Resources Ltd.",
+     "symbol": "VVR"
+    }
+   ]
+  }
+ ]
+}
