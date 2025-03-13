@@ -1,0 +1,54 @@
+{
+ "added": [
+  {
+   "symbol": "VYVO",
+   "name": "Vyvo AI (VYVO)"
+  },
+  {
+   "symbol": "RICHIEV1",
+   "name": "Richie (RICHIEV1)"
+  },
+  {
+   "symbol": "RICHIE",
+   "name": "Richie2.0 (RICHIE)"
+  },
+  {
+   "symbol": "SOCIALLT",
+   "name": "Social Lending Network (SOCIALLT)"
+  },
+  {
+   "symbol": "OBABYTRUMP",
+   "name": "Official Baby Trump (OBABYTRUMP)"
+  },
+  {
+   "symbol": "DARKTOKEN",
+   "name": "DarkToken (DARKTOKEN)"
+  },
+  {
+   "symbol": "BITXOXO",
+   "name": "Bitxoxo (BITXOXO)"
+  },
+  {
+   "symbol": "MAGNE",
+   "name": "Magnetix (MAGNE)"
+  },
+  {
+   "symbol": "SSEV1",
+   "name": "Soroosh Smart Ecosystem v1 (SSEV1)"
+  },
+  {
+   "symbol": "BABYDOGE2",
+   "name": "Baby Doge 2.0 (BABYDOGE2)"
+  },
+  {
+   "symbol": "XOXO",
+   "name": "XO Protocol (XOXO)"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "RICH",
+   "name": "Richie (RICH)"
+  }
+ ]
+}

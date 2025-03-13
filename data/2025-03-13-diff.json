@@ -1,0 +1,66 @@
+{
+ "added": [
+  {
+   "symbol": "AMBR",
+   "name": "Amber International Holding Limited - American Depositary Shares",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "AMBR"
+  },
+  {
+   "symbol": "IONX",
+   "name": "Defiance Daily Target 2X Long IONQ ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "IONX"
+  },
+  {
+   "symbol": "KBAB",
+   "name": "KraneShares 2x Long BABA Daily ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "KBAB"
+  },
+  {
+   "symbol": "KPDD",
+   "name": "KraneShares 2x Long PDD Daily ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "KPDD"
+  },
+  {
+   "symbol": "HFRO$B",
+   "name": "Highland Opportunities and Income Fund 5.375% Series B Cumulative Preferred Shares",
+   "exchange": "NYSE",
+   "yahoo_symbol": "HFRO$B"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "CUTR",
+   "name": "Cutera, Inc. - Common Stock",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "CUTR"
+  },
+  {
+   "symbol": "ICLK",
+   "name": "iClick Interactive Asia Group Limited - American Depositary Shares",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "ICLK"
+  },
+  {
+   "symbol": "QUIS",
+   "name": "Quisitive Technology Solutions Inc.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "QUIS.V",
+   "instruments": [
+    {
+     "name": "Quisitive Technology Solutions Inc.",
+     "symbol": "QUIS"
+    }
+   ]
+  },
+  {
+   "symbol": "AZPN",
+   "name": "Aspen Technology, Inc. - Common Stock",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "AZPN"
+  }
+ ]
+}
