@@ -1,0 +1,62 @@
+{
+ "added": [
+  {
+   "symbol": "OCTOF",
+   "name": "OctoFi (OCTOF)"
+  },
+  {
+   "symbol": "ADAIV1",
+   "name": "Aave DAI (ADAIV1)"
+  },
+  {
+   "symbol": "ZEDCOIN",
+   "name": "ZedCoin (ZEDCOIN)"
+  },
+  {
+   "symbol": "SOLIC",
+   "name": "Solice (SOLIC)"
+  },
+  {
+   "symbol": "BUNNI",
+   "name": "Bunni (BUNNI)"
+  },
+  {
+   "symbol": "FLOCKE",
+   "name": "Flockerz (FLOCKE)"
+  },
+  {
+   "symbol": "HINTCH",
+   "name": "Hintchain (HINTCH)"
+  },
+  {
+   "symbol": "WHOLE",
+   "name": "Whole Network (WHOLE)"
+  },
+  {
+   "symbol": "VIAC",
+   "name": "ViaCoin (VIAC)"
+  },
+  {
+   "symbol": "VIDTV1",
+   "name": "VIDT Datalink (VIDTV1)"
+  },
+  {
+   "symbol": "BUNNIV1",
+   "name": "Timeless (BUNNIV1)"
+  },
+  {
+   "symbol": "TRUMPTESLA",
+   "name": "Trump Tesla (TRUMPTESLA)"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "BUNN",
+   "name": "Bunni (BUNN)"
+  },
+  {
+   "symbol": "ADAI",
+   "name": "Aave DAI (ADAI)"
+  }
+ ]
+}

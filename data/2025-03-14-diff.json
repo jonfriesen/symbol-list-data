@@ -1,0 +1,132 @@
+{
+ "added": [
+  {
+   "symbol": "ALFA.UN",
+   "name": "Margaux Real Estate Investment Trust",
+   "exchange": "TSXV",
+   "yahoo_symbol": "ALFA.UN.V",
+   "instruments": [
+    {
+     "name": "Margaux Real Estate Investment Trust",
+     "symbol": "ALFA.UN"
+    }
+   ]
+  },
+  {
+   "symbol": "CGTX",
+   "name": "Cognition Therapeutics, Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "CGTX"
+  },
+  {
+   "symbol": "HIMZ",
+   "name": "Defiance Daily Target 2X Long HIMS ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "HIMZ"
+  },
+  {
+   "symbol": "KFII",
+   "name": "K\u0026F Growth Acquisition Corp. II - Class A Ordinary shares",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "KFII"
+  },
+  {
+   "symbol": "KFIIR",
+   "name": "K\u0026F Growth Acquisition Corp. II - Rights",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "KFIIR"
+  },
+  {
+   "symbol": "MWYN",
+   "name": "Marwynn Holdings, Inc. - Common stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "MWYN"
+  },
+  {
+   "symbol": "RKLX",
+   "name": "Defiance Daily Target 2X Long RKLB ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "RKLX"
+  },
+  {
+   "symbol": "USAR",
+   "name": "USA Rare Earth, Inc. - Common Stock",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "USAR"
+  },
+  {
+   "symbol": "USARW",
+   "name": "USA Rare Earth, Inc. - Warrant",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "USARW"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "ICCH",
+   "name": "ICC Holdings, Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "ICCH"
+  },
+  {
+   "symbol": "GLST",
+   "name": "Global Star Acquisition, Inc. - Class A Common Stock",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "GLST"
+  },
+  {
+   "symbol": "GLSTW",
+   "name": "Global Star Acquisition, Inc. - Warrants",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "GLSTW"
+  },
+  {
+   "symbol": "CGTX",
+   "name": "Cognition Therapeutics, Inc. - Common Stock",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "CGTX"
+  },
+  {
+   "symbol": "IPXXU",
+   "name": "Inflection Point Acquisition Corp. II - Unit",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "IPXXU"
+  },
+  {
+   "symbol": "ALFA.P",
+   "name": "Odessa Capital Ltd.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "ALFA.P.V",
+   "instruments": [
+    {
+     "name": "Odessa Capital Ltd.",
+     "symbol": "ALFA.P"
+    }
+   ]
+  },
+  {
+   "symbol": "GLSTU",
+   "name": "Global Star Acquisition, Inc. - Unit",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "GLSTU"
+  },
+  {
+   "symbol": "GLSTR",
+   "name": "Global Star Acquisition, Inc. - Right",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "GLSTR"
+  },
+  {
+   "symbol": "IPXX",
+   "name": "Inflection Point Acquisition Corp. II - Class A Ordinary Shares",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "IPXX"
+  },
+  {
+   "symbol": "IPXXW",
+   "name": "Inflection Point Acquisition Corp. II - Warrant",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "IPXXW"
+  }
+ ]
+}
