@@ -1,0 +1,114 @@
+{
+ "added": [
+  {
+   "symbol": "CDPR",
+   "name": "Cerro de Pasco Resources Inc.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "CDPR.V",
+   "instruments": [
+    {
+     "name": "Cerro De Pasco Resources Inc.",
+     "symbol": "CDPR"
+    }
+   ]
+  },
+  {
+   "symbol": "LEAP",
+   "name": "Quantum Critical Metals Corp.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "LEAP.V",
+   "instruments": [
+    {
+     "name": "Quantum Critical Metals Corp.",
+     "symbol": "LEAP"
+    }
+   ]
+  },
+  {
+   "symbol": "BMAX",
+   "name": "REX Bitcoin Corporate Treasury Convertible Bond ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "BMAX"
+  },
+  {
+   "symbol": "COIG",
+   "name": "Leverage Shares 2X Long COIN Daily ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "COIG"
+  },
+  {
+   "symbol": "NWTG",
+   "name": "Newton Golf Company, Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "NWTG"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "BNIX",
+   "name": "Bannix Acquisition Corp. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "BNIX"
+  },
+  {
+   "symbol": "SDIG",
+   "name": "Stronghold Digital Mining, Inc. - Class A Common Stock",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "SDIG"
+  },
+  {
+   "symbol": "GBRC",
+   "name": "Gold Bull Resources Corp.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "GBRC.V",
+   "instruments": [
+    {
+     "name": "Gold Bull Resources Corp.",
+     "symbol": "GBRC"
+    }
+   ]
+  },
+  {
+   "symbol": "DGO",
+   "name": "Durango Resources Inc.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "DGO.V",
+   "instruments": [
+    {
+     "name": "Durango Resources Inc.",
+     "symbol": "DGO"
+    }
+   ]
+  },
+  {
+   "symbol": "BNIXW",
+   "name": "Bannix Acquisition Corp. - Warrant",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "BNIXW"
+  },
+  {
+   "symbol": "BNIXR",
+   "name": "Bannix Acquisition Corp. - Right",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "BNIXR"
+  },
+  {
+   "symbol": "SPGC",
+   "name": "Sacks Parente Golf, Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "SPGC"
+  },
+  {
+   "symbol": "SFTC",
+   "name": "Softchoice Corporation",
+   "exchange": "TSX",
+   "yahoo_symbol": "SFTC.TO",
+   "instruments": [
+    {
+     "name": "Softchoice Corp J",
+     "symbol": "SFTC"
+    }
+   ]
+  }
+ ]
+}
