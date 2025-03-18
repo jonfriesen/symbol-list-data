@@ -1,0 +1,80 @@
+{
+ "added": [
+  {
+   "symbol": "COLA",
+   "name": "Columbus Acquisition Corp - Ordinary Shares",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "COLA"
+  },
+  {
+   "symbol": "COLAR",
+   "name": "Columbus Acquisition Corp - Rights",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "COLAR"
+  },
+  {
+   "symbol": "DGXX",
+   "name": "Digi Power X Inc. - Common Subordinate Voting Shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "DGXX"
+  },
+  {
+   "symbol": "EHLD",
+   "name": "Euroholdings Ltd. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "EHLD"
+  },
+  {
+   "symbol": "LBIT",
+   "name": "Evolve Levered Bitcoin ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "LBIT.TO",
+   "instruments": [
+    {
+     "name": "Ev Lev Bitc ETF CAD",
+     "symbol": "LBIT"
+    },
+    {
+     "name": "Ev Lev Bitc ETF USD",
+     "symbol": "LBIT.U"
+    }
+   ]
+  },
+  {
+   "symbol": "LETH",
+   "name": "Evolve Levered Ether ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "LETH.TO",
+   "instruments": [
+    {
+     "name": "Ev Lev Eth ETF CAD ",
+     "symbol": "LETH"
+    },
+    {
+     "name": "Ev Lev Eth ETF USD",
+     "symbol": "LETH.U"
+    }
+   ]
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "ESEAV",
+   "name": "Euroseas Ltd. - Ex-Distribution When Issued",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "ESEAV"
+  },
+  {
+   "symbol": "EHLDV",
+   "name": "Euroholdings Ltd. - Common Stock When Issued",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "EHLDV"
+  },
+  {
+   "symbol": "DGHI",
+   "name": "Digi Power X Inc. - Common Subordinate Voting Shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "DGHI"
+  }
+ ]
+}
