@@ -1,0 +1,120 @@
+{
+ "added": [
+  {
+   "symbol": "KLRS",
+   "name": "Kalaris Therapeutics, Inc.  - Common Stock",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "KLRS"
+  },
+  {
+   "symbol": "NAGE",
+   "name": "Niagen Bioscience, Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "NAGE"
+  },
+  {
+   "symbol": "QSEAU",
+   "name": "Quartzsea Acquisition Corporation - Units",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "QSEAU"
+  },
+  {
+   "symbol": "WHWK",
+   "name": "Whitehawk Therapeutics, Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "WHWK"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "PLAO",
+   "name": "Patria Latin American Opportunity Acquisition Corp. - Class A Ordinary Shares",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "PLAO"
+  },
+  {
+   "symbol": "ALVR",
+   "name": "AlloVir, Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "ALVR"
+  },
+  {
+   "symbol": "FINE",
+   "name": "Forstrong Global Ex-North America Equity ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "FINE.TO",
+   "instruments": [
+    {
+     "name": "Forstrng GlbEx-NA Eq",
+     "symbol": "FINE"
+    }
+   ]
+  },
+  {
+   "symbol": "CDXC",
+   "name": "ChromaDex Corporation - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "CDXC"
+  },
+  {
+   "symbol": "CARB",
+   "name": "Global X Carbon Credits ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "CARB.TO",
+   "instruments": [
+    {
+     "name": "GblX CarbonCredt ETF",
+     "symbol": "CARB"
+    }
+   ]
+  },
+  {
+   "symbol": "HGGB",
+   "name": "Global X S\u0026P Green Bond Index ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "HGGB.TO",
+   "instruments": [
+    {
+     "name": "GblX SP GreenBnd Inx",
+     "symbol": "HGGB"
+    }
+   ]
+  },
+  {
+   "symbol": "MTAV",
+   "name": "Global X Metaverse Index ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "MTAV.TO",
+   "instruments": [
+    {
+     "name": "GblX GlbMetavrs Inx",
+     "symbol": "MTAV"
+    }
+   ]
+  },
+  {
+   "symbol": "AADI",
+   "name": "Aadi Bioscience, Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "AADI"
+  },
+  {
+   "symbol": "ATXI",
+   "name": "Avenue Therapeutics, Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "ATXI"
+  },
+  {
+   "symbol": "HRAA",
+   "name": "Global X ReSolve Adaptive Asset Allocation Corporate Class ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "HRAA.TO",
+   "instruments": [
+    {
+     "name": "GblX ReSolvAlloc Cor",
+     "symbol": "HRAA"
+    }
+   ]
+  }
+ ]
+}

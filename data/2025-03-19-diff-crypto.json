@@ -1,0 +1,52 @@
+{
+ "added": [
+  {
+   "symbol": "NOEL",
+   "name": "AskNoel (NOEL)"
+  },
+  {
+   "symbol": "ASIXDEV",
+   "name": "ASIX (ASIXDEV)"
+  },
+  {
+   "symbol": "BASEDALF",
+   "name": "Based Alf (BASEDALF)"
+  },
+  {
+   "symbol": "BUILDON",
+   "name": "Build On BNB (BUILDON)"
+  },
+  {
+   "symbol": "DAVINC",
+   "name": "DaVinci Protocol (DAVINC)"
+  },
+  {
+   "symbol": "ARACOIN",
+   "name": "Ara (ARACOIN)"
+  },
+  {
+   "symbol": "WEHODL",
+   "name": "HODL (WEHODL)"
+  },
+  {
+   "symbol": "AMR",
+   "name": "Amero (AMR)"
+  },
+  {
+   "symbol": "SHRX",
+   "name": "Sherex (SHRX)"
+  },
+  {
+   "symbol": "GAMEBYV",
+   "name": "GAME by Virtuals (GAMEBYV)"
+  },
+  {
+   "symbol": "LABZBASE",
+   "name": "Insane Labz (Base) (LABZBASE)"
+  },
+  {
+   "symbol": "MANTI",
+   "name": "Mantis (MANTI)"
+  }
+ ]
+}
