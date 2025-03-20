@@ -1,0 +1,18 @@
+{
+ "added": [
+  {
+   "symbol": "HOOX",
+   "name": "Defiance Daily Target 2X Long HOOD ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "HOOX"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "SYRS",
+   "name": "Syros Pharmaceuticals, Inc. - Common Stock",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "SYRS"
+  }
+ ]
+}
