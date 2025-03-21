@@ -1,0 +1,94 @@
+{
+ "added": [
+  {
+   "symbol": "FORMNET",
+   "name": "Form (FORMNET)"
+  },
+  {
+   "symbol": "SHORT",
+   "name": "Bermuda Shorts (SHORT)"
+  },
+  {
+   "symbol": "TOTHEMOON",
+   "name": "To The Moon (TOTHEMOON)"
+  },
+  {
+   "symbol": "FORMATION",
+   "name": "Formation FI (FORMATION)"
+  },
+  {
+   "symbol": "BNBAICLUB",
+   "name": "BNB AI Agent (BNBAICLUB)"
+  },
+  {
+   "symbol": "IBERA",
+   "name": "Infrared Bera (IBERA)"
+  },
+  {
+   "symbol": "SFAGRO",
+   "name": "SFAGRO (SFAGRO)"
+  },
+  {
+   "symbol": "WNKV1",
+   "name": "The Winkyverse v1 (WNKV1)"
+  },
+  {
+   "symbol": "USDACC",
+   "name": "USDA (USDACC)"
+  },
+  {
+   "symbol": "REDTOKEN",
+   "name": "RED TOKEN (REDTOKEN)"
+  },
+  {
+   "symbol": "SSEV2",
+   "name": "Soroosh Smart Ecosystem (SSEV2)"
+  },
+  {
+   "symbol": "KETCOIN",
+   "name": "KET (KETCOIN)"
+  },
+  {
+   "symbol": "ATNIO",
+   "name": "ATN (ATNIO)"
+  },
+  {
+   "symbol": "LIONT",
+   "name": "Lion Token (LIONT)"
+  },
+  {
+   "symbol": "TRIPPKI",
+   "name": "Trippki (TRIPPKI)"
+  },
+  {
+   "symbol": "CAITOKEN",
+   "name": "Cai Token (CAITOKEN)"
+  },
+  {
+   "symbol": "TRDX",
+   "name": "Trendix (TRDX)"
+  },
+  {
+   "symbol": "WTFO",
+   "name": "WTF Opossum (WTFO)"
+  },
+  {
+   "symbol": "MNSRY",
+   "name": "MANSORY (MNSRY)"
+  },
+  {
+   "symbol": "SFMV2",
+   "name": "SafeMoon v2 (SFMV2)"
+  },
+  {
+   "symbol": "FLOCO",
+   "name": "flocoin (FLOCO)"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "FORM",
+   "name": "Formation FI (FORM)"
+  }
+ ]
+}

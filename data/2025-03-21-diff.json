@@ -1,0 +1,150 @@
+{
+ "added": [
+  {
+   "symbol": "HART",
+   "name": "Gold Hart Copper Corp.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "HART.V",
+   "instruments": [
+    {
+     "name": "Gold Hart Copper Corp.",
+     "symbol": "HART"
+    }
+   ]
+  },
+  {
+   "symbol": "ZXCO",
+   "name": "BMO Target 2027 Canadian Corporate Bond ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "ZXCO.TO",
+   "instruments": [
+    {
+     "name": "BMO Tgt 2027 CCB ETF",
+     "symbol": "ZXCO"
+    }
+   ]
+  },
+  {
+   "symbol": "ZXCP",
+   "name": "BMO Target 2028 Canadian Corporate Bond ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "ZXCP.TO",
+   "instruments": [
+    {
+     "name": "BMO Tgt 2028 CCB ETF",
+     "symbol": "ZXCP"
+    }
+   ]
+  },
+  {
+   "symbol": "ZXCQ",
+   "name": "BMO Target 2029 Canadian Corporate Bond ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "ZXCQ.TO",
+   "instruments": [
+    {
+     "name": "BMO Tgt 2029 CCB ETF",
+     "symbol": "ZXCQ"
+    }
+   ]
+  },
+  {
+   "symbol": "CLSA",
+   "name": "Brompton Split Corp. Class A Share ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "CLSA.TO",
+   "instruments": [
+    {
+     "name": "Brmp SpltCrp ClA ETF",
+     "symbol": "CLSA"
+    }
+   ]
+  },
+  {
+   "symbol": "ELEV",
+   "name": "Elevation Oncology, Inc. - Common stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "ELEV"
+  },
+  {
+   "symbol": "FMTM",
+   "name": "MarketDesk Focused U.S. Momentum ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "FMTM"
+  },
+  {
+   "symbol": "SOLT",
+   "name": "2x Solana ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "SOLT"
+  },
+  {
+   "symbol": "SOLZ",
+   "name": "Solana ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "SOLZ"
+  },
+  {
+   "symbol": "BK$K",
+   "name": "The Bank Of New York Mellon Corporation  Depositary Shares, each representing a 1/4,000th interest in a share of Series K Noncumulative Perpetual Preferred Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "BK$K"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "WINVW",
+   "name": "WinVest Acquisition Corp. - Warrant",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "WINVW"
+  },
+  {
+   "symbol": "CCLDP",
+   "name": "CareCloud, Inc. - 8.75% Series A Cumulative Redeemable Perpetual Preferred Stock",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "CCLDP"
+  },
+  {
+   "symbol": "WINVR",
+   "name": "WinVest Acquisition Corp. - Right",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "WINVR"
+  },
+  {
+   "symbol": "WINV",
+   "name": "WinVest Acquisition Corp. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "WINV"
+  },
+  {
+   "symbol": "ELEV",
+   "name": "Elevation Oncology, Inc. - Common stock",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "ELEV"
+  },
+  {
+   "symbol": "WINVU",
+   "name": "WinVest Acquisition Corp. - Unit",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "WINVU"
+  },
+  {
+   "symbol": "ACHL",
+   "name": "Achilles Therapeutics plc - American Depositary Shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "ACHL"
+  },
+  {
+   "symbol": "OIII",
+   "name": "O3 Mining Inc.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "OIII.V",
+   "instruments": [
+    {
+     "name": "O3 Mining Inc.",
+     "symbol": "OIII"
+    }
+   ]
+  }
+ ]
+}
