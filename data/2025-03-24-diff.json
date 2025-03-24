@@ -1,0 +1,114 @@
+{
+ "added": [
+  {
+   "symbol": "ADBG",
+   "name": "Leverage Shares 2X Long ADBE Daily ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "ADBG"
+  },
+  {
+   "symbol": "BIYA",
+   "name": "Baiya International Group Inc.  - Ordinary Shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "BIYA"
+  },
+  {
+   "symbol": "GSHRU",
+   "name": "Gesher Acquisition Corp. II - Units",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "GSHRU"
+  },
+  {
+   "symbol": "HOOG",
+   "name": "Leverage Shares 2X Long HOOD Daily ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "HOOG"
+  },
+  {
+   "symbol": "PANG",
+   "name": "Leverage Shares 2X Long PANW Daily ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "PANG"
+  },
+  {
+   "symbol": "QTTB",
+   "name": "Q32 Bio Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "QTTB"
+  },
+  {
+   "symbol": "RCT",
+   "name": "RedCloud Holdings plc - Ordinary Shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "RCT"
+  },
+  {
+   "symbol": "ACVA",
+   "name": "ACV Auctions Inc. Class A Common Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "ACVA"
+  },
+  {
+   "symbol": "AMZE",
+   "name": "Amaze Holdings, Inc. Common Stock",
+   "exchange": "NYSE MKT",
+   "yahoo_symbol": "AMZE"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "ACVA",
+   "name": "ACV Auctions Inc. - Class A Common Stock",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "ACVA"
+  },
+  {
+   "symbol": "BLLD",
+   "name": "JPMorgan Sustainable Infrastructure ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "BLLD"
+  },
+  {
+   "symbol": "QTTB",
+   "name": "Q32 Bio Inc. - Common Stock",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "QTTB"
+  },
+  {
+   "symbol": "EDR",
+   "name": "Endeavor Group Holdings, Inc. Class A Common Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "EDR"
+  },
+  {
+   "symbol": "VINE",
+   "name": "Fresh Vine Wine, Inc. Common Stock",
+   "exchange": "NYSE MKT",
+   "yahoo_symbol": "VINE"
+  },
+  {
+   "symbol": "TCBPW",
+   "name": "TC BioPharm (Holdings) plc - Warrants",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "TCBPW"
+  },
+  {
+   "symbol": "TCBP",
+   "name": "TC BioPharm (Holdings) plc - American Depositary Shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "TCBP"
+  },
+  {
+   "symbol": "EGF",
+   "name": "Blackrock Enhanced Government Fund, Inc. Common Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "EGF"
+  },
+  {
+   "symbol": "RDW.W",
+   "name": "Redwire Corporation Redeemable Warrants",
+   "exchange": "NYSE",
+   "yahoo_symbol": "RDW.W"
+  }
+ ]
+}

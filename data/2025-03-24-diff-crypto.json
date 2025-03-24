@@ -1,0 +1,54 @@
+{
+ "added": [
+  {
+   "symbol": "RX",
+   "name": "RealtyX (RX)"
+  },
+  {
+   "symbol": "GRAB",
+   "name": "GRABWAY (GRAB)"
+  },
+  {
+   "symbol": "CORXB",
+   "name": "CorionX BSC (CORXB)"
+  },
+  {
+   "symbol": "GLUE",
+   "name": "Glue (GLUE)"
+  },
+  {
+   "symbol": "HYPERSKIDS",
+   "name": "HYPERSKIDS (HYPERSKIDS)"
+  },
+  {
+   "symbol": "AO",
+   "name": "AO (AO)"
+  },
+  {
+   "symbol": "SAMS",
+   "name": "Samsara.Build (SAMS)"
+  },
+  {
+   "symbol": "BARAKATUH",
+   "name": "Barakatuh (BARAKATUH)"
+  },
+  {
+   "symbol": "PATLU",
+   "name": "Patlu (PATLU)"
+  },
+  {
+   "symbol": "LEGAL",
+   "name": "LegalX (LEGAL)"
+  },
+  {
+   "symbol": "BUBB",
+   "name": "Bubb (BUBB)"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "ZEDCOIN",
+   "name": "ZedCoin (ZEDCOIN)"
+  }
+ ]
+}
