@@ -1,0 +1,90 @@
+{
+ "added": [
+  {
+   "symbol": "WLR",
+   "name": "Walker Lane Resources Ltd.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "WLR.V",
+   "instruments": [
+    {
+     "name": "Walker Lane Resources Ltd.",
+     "symbol": "WLR"
+    }
+   ]
+  },
+  {
+   "symbol": "JGRO",
+   "name": "JPMorgan US Growth Active ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "JGRO.TO",
+   "instruments": [
+    {
+     "name": "JPM US Gr Active ETF",
+     "symbol": "JGRO"
+    }
+   ]
+  },
+  {
+   "symbol": "JAVA",
+   "name": "JPMorgan US Value Active ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "JAVA.TO",
+   "instruments": [
+    {
+     "name": "JPM USVal Active ETF",
+     "symbol": "JAVA"
+    }
+   ]
+  },
+  {
+   "symbol": "LGPS",
+   "name": "LogProstyle Inc. Common Shares",
+   "exchange": "NYSE MKT",
+   "yahoo_symbol": "LGPS"
+  },
+  {
+   "symbol": "MKDW",
+   "name": "MKDWELL Tech Inc. - Ordinary Shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "MKDW"
+  },
+  {
+   "symbol": "SVCC",
+   "name": "Stellar V Capital Corp. - Class A Ordinary Shares",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "SVCC"
+  },
+  {
+   "symbol": "SVCCW",
+   "name": "Stellar V Capital Corp. - Warrant",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "SVCCW"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "CMB",
+   "name": "CMC Metals Ltd.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "CMB.V",
+   "instruments": [
+    {
+     "name": "CMC Metals Ltd.",
+     "symbol": "CMB"
+    }
+   ]
+  },
+  {
+   "symbol": "ETWO.W",
+   "name": "E2open Parent Holdings, Inc. Warrants",
+   "exchange": "NYSE",
+   "yahoo_symbol": "ETWO.W"
+  },
+  {
+   "symbol": "MKDW",
+   "name": "MKDWELL Tech Inc. - Ordinary Shares",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "MKDW"
+  }
+ ]
+}
