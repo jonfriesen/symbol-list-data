@@ -1,0 +1,84 @@
+{
+ "added": [
+  {
+   "symbol": "FFU",
+   "name": "F4 Uranium Corp.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "FFU.V",
+   "instruments": [
+    {
+     "name": "F4 Uranium Corp.",
+     "symbol": "FFU"
+    }
+   ]
+  },
+  {
+   "symbol": "ANGIV",
+   "name": "Angi Inc. - Class A Common Stock When Issued",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "ANGIV"
+  },
+  {
+   "symbol": "IACVV",
+   "name": "IAC Inc. - Common Stock Ex-distribution When-Issued",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "IACVV"
+  },
+  {
+   "symbol": "IONL",
+   "name": "GraniteShares 2x Long IONQ Daily ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "IONL"
+  },
+  {
+   "symbol": "RDTL",
+   "name": "GraniteShares 2x Long RDDT Daily ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "RDTL"
+  },
+  {
+   "symbol": "VRTL",
+   "name": "GraniteShares 2x Long VRT Daily ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "VRTL"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "GDSTU",
+   "name": "Goldenstone Acquisition Limited - Units",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "GDSTU"
+  },
+  {
+   "symbol": "GDST",
+   "name": "Goldenstone Acquisition Limited - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "GDST"
+  },
+  {
+   "symbol": "GDL$C",
+   "name": "The GDL Fund Series C Cumulative Puttable and Callable Preferred Shares",
+   "exchange": "NYSE",
+   "yahoo_symbol": "GDL$C"
+  },
+  {
+   "symbol": "GDSTW",
+   "name": "Goldenstone Acquisition Limited - Warrants",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "GDSTW"
+  },
+  {
+   "symbol": "BACK",
+   "name": "IMAC Holdings, Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "BACK"
+  },
+  {
+   "symbol": "GDSTR",
+   "name": "Goldenstone Acquisition Limited - Rights",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "GDSTR"
+  }
+ ]
+}
