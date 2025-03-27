@@ -1,0 +1,164 @@
+{
+ "added": [
+  {
+   "symbol": "ELIL",
+   "name": "Direxion Daily LLY Bull 2X Shares",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "ELIL"
+  },
+  {
+   "symbol": "ELIS",
+   "name": "Direxion Daily LLY Bear 1X Shares",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "ELIS"
+  },
+  {
+   "symbol": "EPSM",
+   "name": "Epsium Enterprise Limited - Ordinary Shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "EPSM"
+  },
+  {
+   "symbol": "IBGB",
+   "name": "iShares iBonds Dec 2045 Term Treasury ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "IBGB"
+  },
+  {
+   "symbol": "IBGL",
+   "name": "iShares iBonds Dec 2055 Term Treasury ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "IBGL"
+  },
+  {
+   "symbol": "IBTQ",
+   "name": "iShares iBonds Dec 2035 Term Treasury ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "IBTQ"
+  },
+  {
+   "symbol": "LRE",
+   "name": "Lead Real Estate Co., Ltd - American Depositary Shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "LRE"
+  },
+  {
+   "symbol": "MCHPP",
+   "name": "Microchip Technology Incorporated - Depositary Shares Each Representing a 1/20th Interest in a Share of 7.50% Series A Mandatory Convertible Preferred Stock",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "MCHPP"
+  },
+  {
+   "symbol": "NTHI",
+   "name": "NeOnc Technologies Holdings, Inc. - Common Stock",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "NTHI"
+  },
+  {
+   "symbol": "PALD",
+   "name": "Direxion Daily PANW Bear 1X Shares",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "PALD"
+  },
+  {
+   "symbol": "PALU",
+   "name": "Direxion Daily PANW Bull 2X Shares",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "PALU"
+  },
+  {
+   "symbol": "STRF",
+   "name": "MicroStrategy Incorporated - 10.00% Series A Perpetual Strife Preferred Stock",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "STRF"
+  },
+  {
+   "symbol": "JTWO",
+   "name": "J2 Metals Inc.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "JTWO.V",
+   "instruments": [
+    {
+     "name": "J2 Metals Inc.",
+     "symbol": "JTWO"
+    }
+   ]
+  },
+  {
+   "symbol": "OILY",
+   "name": "Evolve Canadian Energy Enhanced Yield Index Fund",
+   "exchange": "TSX",
+   "yahoo_symbol": "OILY.TO",
+   "instruments": [
+    {
+     "name": "Evolve Cdn EnEnY ETF",
+     "symbol": "OILY"
+    }
+   ]
+  },
+  {
+   "symbol": "MIDB",
+   "name": "Evolve Enhanced Yield Mid Term Bond Fund",
+   "exchange": "TSX",
+   "yahoo_symbol": "MIDB.TO",
+   "instruments": [
+    {
+     "name": "Evolve EnYiMi Hd ETF",
+     "symbol": "MIDB"
+    },
+    {
+     "name": "Evolv EnYiMi UHd ETF",
+     "symbol": "MIDB.B"
+    },
+    {
+     "name": "Evol EnYiMi USUH ETF",
+     "symbol": "MIDB.U"
+    }
+   ]
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "LRE",
+   "name": "Lead Real Estate Co., Ltd - American Depositary Shares",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "LRE"
+  },
+  {
+   "symbol": "CYTH",
+   "name": "Cyclo Therapeutics, Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "CYTH"
+  },
+  {
+   "symbol": "BHIL",
+   "name": "Benson Hill, Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "BHIL"
+  },
+  {
+   "symbol": "CYTHW",
+   "name": "Cyclo Therapeutics, Inc. - Warrant",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "CYTHW"
+  },
+  {
+   "symbol": "CRAN.P",
+   "name": "Cranstown Capital Corp",
+   "exchange": "TSXV",
+   "yahoo_symbol": "CRAN.P.V",
+   "instruments": [
+    {
+     "name": "Cranstown Capital Corp.",
+     "symbol": "CRAN.P"
+    }
+   ]
+  },
+  {
+   "symbol": "ALTR",
+   "name": "Altair Engineering Inc. - Class A Common Stock",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "ALTR"
+  }
+ ]
+}

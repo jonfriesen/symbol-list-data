@@ -1,0 +1,94 @@
+{
+ "added": [
+  {
+   "symbol": "QUAI",
+   "name": "Quai Network (QUAI)"
+  },
+  {
+   "symbol": "SPEEDCOIN",
+   "name": "Speed Coin (SPEEDCOIN)"
+  },
+  {
+   "symbol": "4THPILLAR",
+   "name": "4th Pillar Four Token (4THPILLAR)"
+  },
+  {
+   "symbol": "CONTENTBOX",
+   "name": "ContentBox (CONTENTBOX)"
+  },
+  {
+   "symbol": "BANANAS31",
+   "name": "Banana For Scale (BANANAS31)"
+  },
+  {
+   "symbol": "ACRED",
+   "name": "Apollo Diversified Credit Securitize Fund (ACRED)"
+  },
+  {
+   "symbol": "PUNDIAI",
+   "name": "Pundi AI (PUNDIAI)"
+  },
+  {
+   "symbol": "SYRUPUSDC",
+   "name": "SyrupUSDC (SYRUPUSDC)"
+  },
+  {
+   "symbol": "NFPV1",
+   "name": "Token NFPrompt Token v1 (NFPV1)"
+  },
+  {
+   "symbol": "QUSDT",
+   "name": "Tether (Qom Bridge) (QUSDT)"
+  },
+  {
+   "symbol": "GHIBLI",
+   "name": "Ghiblification (GHIBLI)"
+  },
+  {
+   "symbol": "BYB",
+   "name": "BiorBank (BYB)"
+  },
+  {
+   "symbol": "WFRAGSOL",
+   "name": "Wrapped fragSOL (WFRAGSOL)"
+  },
+  {
+   "symbol": "EXPERIENCE",
+   "name": "Experience Points (EXPERIENCE)"
+  },
+  {
+   "symbol": "MYTOKEN",
+   "name": "MyToken (MYTOKEN)"
+  },
+  {
+   "symbol": "REUSDC",
+   "name": "Relend USDC (REUSDC)"
+  },
+  {
+   "symbol": "DOGEMARS",
+   "name": "DOGE TO MARS (DOGEMARS)"
+  },
+  {
+   "symbol": "SHAREV1",
+   "name": "Seigniorage Shares v1 (SHAREV1)"
+  },
+  {
+   "symbol": "SPEED",
+   "name": "IShowSpeed (SPEED)"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "FOUR",
+   "name": "4THPILLAR TECHNOLOGIES (FOUR)"
+  },
+  {
+   "symbol": "BOX",
+   "name": "ContentBox (BOX)"
+  },
+  {
+   "symbol": "MT",
+   "name": "MyToken (MT)"
+  }
+ ]
+}
