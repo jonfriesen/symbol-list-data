@@ -1,0 +1,66 @@
+{
+ "added": [
+  {
+   "symbol": "JQC.V",
+   "name": "Nuveen Credit Strategies Income Fund Rights (expiring April 29, 2025) Rights when issued",
+   "exchange": "NYSE",
+   "yahoo_symbol": "JQC.V"
+  },
+  {
+   "symbol": "AIEV",
+   "name": "Thunder Power Holdings, Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "AIEV"
+  },
+  {
+   "symbol": "ALMU",
+   "name": "Aeluma, Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "ALMU"
+  },
+  {
+   "symbol": "AVUQ",
+   "name": "Avantis U.S. Quality ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "AVUQ"
+  },
+  {
+   "symbol": "GLCR",
+   "name": "GlacierShares Nasdaq Iceland ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "GLCR"
+  },
+  {
+   "symbol": "HEQQ",
+   "name": "JPMorgan Nasdaq Hedged Equity Laddered Overlay ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "HEQQ"
+  },
+  {
+   "symbol": "WFF",
+   "name": "WF Holding Limited - Ordinary Shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "WFF"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "GPMD",
+   "name": "GuardPath TM Managed Decumulation 2042 Fund",
+   "exchange": "TSX",
+   "yahoo_symbol": "GPMD.TO",
+   "instruments": [
+    {
+     "name": "GuardPath Decumltn42",
+     "symbol": "GPMD"
+    }
+   ]
+  },
+  {
+   "symbol": "AIEV",
+   "name": "Thunder Power Holdings, Inc. - Common Stock",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "AIEV"
+  }
+ ]
+}
