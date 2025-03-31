@@ -1,0 +1,84 @@
+{
+ "added": [
+  {
+   "symbol": "CRWV",
+   "name": "CoreWeave, Inc. - Class A Common Stock",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "CRWV"
+  },
+  {
+   "symbol": "JOYY",
+   "name": "JOYY Inc. - American Depositary Shares",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "JOYY"
+  },
+  {
+   "symbol": "NCT",
+   "name": "Intercont (Cayman) Limited - Ordinary shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "NCT"
+  },
+  {
+   "symbol": "TSBX",
+   "name": "Turnstone Biologics Corp. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "TSBX"
+  },
+  {
+   "symbol": "NMAX",
+   "name": "Newsmax, Inc. Class B Common Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "NMAX"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "YY",
+   "name": "JOYY Inc. - American Depositary Shares",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "YY"
+  },
+  {
+   "symbol": "LKCO",
+   "name": "Luokung Technology Corp - Ordinary Shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "LKCO"
+  },
+  {
+   "symbol": "TSBX",
+   "name": "Turnstone Biologics Corp. - Common Stock",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "TSBX"
+  },
+  {
+   "symbol": "SHOP",
+   "name": "Shopify Inc. Class A Subordinate Voting Shares",
+   "exchange": "NYSE",
+   "yahoo_symbol": "SHOP"
+  },
+  {
+   "symbol": "BTCTW",
+   "name": "BTC Digital Ltd. - Warrant",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "BTCTW"
+  },
+  {
+   "symbol": "BKDT",
+   "name": "Brookdale Senior Living Inc. 7.00% Tangible Equity Units",
+   "exchange": "NYSE",
+   "yahoo_symbol": "BKDT"
+  },
+  {
+   "symbol": "LYT",
+   "name": "Lytus Technologies Holdings PTV. Ltd. - Common Shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "LYT"
+  },
+  {
+   "symbol": "ME",
+   "name": "23andMe Holding Co. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "ME"
+  }
+ ]
+}
