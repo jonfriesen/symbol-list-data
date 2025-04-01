@@ -1,0 +1,164 @@
+{
+ "added": [
+  {
+   "symbol": "FBLG",
+   "name": "FibroBiologics, Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "FBLG"
+  },
+  {
+   "symbol": "GXDW",
+   "name": "Global X Dorsey Wright Thematic ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "GXDW"
+  },
+  {
+   "symbol": "HEAL",
+   "name": "Global X HealthTech ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "HEAL"
+  },
+  {
+   "symbol": "HWSM",
+   "name": "Hotchkis \u0026 Wiley SMID Cap Diversified Value Fund",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "HWSM"
+  },
+  {
+   "symbol": "SHOP",
+   "name": "Shopify Inc. - Class A Subordinate Voting Shares",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "SHOP"
+  },
+  {
+   "symbol": "UYSCU",
+   "name": "UY Scuti Acquisition Corp. - Units",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "UYSCU"
+  },
+  {
+   "symbol": "RFL.W",
+   "name": "Rafael Holdings, Inc. Warrants to Purchase Shares of Class B Common Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "RFL.W"
+  },
+  {
+   "symbol": "NWH.DB.H",
+   "name": "NorthWest Healthcare Properties Real Estate Investment Trust",
+   "exchange": "TSX",
+   "yahoo_symbol": "NWH.DB.H.TO",
+   "instruments": [
+    {
+     "name": "NW Healthcare 2027Db",
+     "symbol": "NWH.DB.H"
+    },
+    {
+     "name": "NW Healthcare 2028Db",
+     "symbol": "NWH.DB.I"
+    },
+    {
+     "name": "NW Healthcare Un",
+     "symbol": "NWH.UN"
+    }
+   ]
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "SBT",
+   "name": "Sterling Bancorp, Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "SBT"
+  },
+  {
+   "symbol": "IACVV",
+   "name": "IAC Inc. - Common Stock Ex-distribution When-Issued",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "IACVV"
+  },
+  {
+   "symbol": "BUI",
+   "name": "Buhler Industries Inc.",
+   "exchange": "TSX",
+   "yahoo_symbol": "BUI.TO",
+   "instruments": [
+    {
+     "name": "Buhler Industries",
+     "symbol": "BUI"
+    }
+   ]
+  },
+  {
+   "symbol": "GXTG",
+   "name": "Global X Thematic Growth ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "GXTG"
+  },
+  {
+   "symbol": "EDOC",
+   "name": "Global X Telemedicine \u0026 Digital Health ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "EDOC"
+  },
+  {
+   "symbol": "ANGIV",
+   "name": "Angi Inc. - Class A Common Stock When Issued",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "ANGIV"
+  },
+  {
+   "symbol": "FBMS",
+   "name": "First Bancshares, Inc.",
+   "exchange": "NYSE",
+   "yahoo_symbol": "FBMS"
+  },
+  {
+   "symbol": "SASR",
+   "name": "Sandy Spring Bancorp, Inc. - Common Stock",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "SASR"
+  },
+  {
+   "symbol": "VBFC",
+   "name": "Village Bank and Trust Financial Corp. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "VBFC"
+  },
+  {
+   "symbol": "IVAC",
+   "name": "Intevac, Inc. - Common Stock",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "IVAC"
+  },
+  {
+   "symbol": "NWH.DB.G",
+   "name": "NorthWest Healthcare Properties Real Estate Investment Trust",
+   "exchange": "TSX",
+   "yahoo_symbol": "NWH.DB.G.TO",
+   "instruments": [
+    {
+     "name": "NW Healthcare 2025Db",
+     "symbol": "NWH.DB.G"
+    },
+    {
+     "name": "NW Healthcare 2027Db",
+     "symbol": "NWH.DB.H"
+    },
+    {
+     "name": "NW Healthcare 2028Db",
+     "symbol": "NWH.DB.I"
+    },
+    {
+     "name": "NW Healthcare Un",
+     "symbol": "NWH.UN"
+    }
+   ]
+  },
+  {
+   "symbol": "FBLG",
+   "name": "FibroBiologics, Inc. - Common Stock",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "FBLG"
+  }
+ ]
+}
