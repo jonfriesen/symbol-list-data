@@ -1,0 +1,166 @@
+{
+ "added": [
+  {
+   "symbol": "DMCU",
+   "name": "Domestic Metals Corp.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "DMCU.V",
+   "instruments": [
+    {
+     "name": "Domestic Metals Corp.",
+     "symbol": "DMCU"
+    }
+   ]
+  },
+  {
+   "symbol": "RUST",
+   "name": "RBC Canadian Ultra Short Term Bond ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "RUST.TO",
+   "instruments": [
+    {
+     "name": "RBC Cdn Ultra ST Bd ",
+     "symbol": "RUST"
+    }
+   ]
+  },
+  {
+   "symbol": "RQT",
+   "name": "RBC Target 2031 Canadian Corporate Bond ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "RQT.TO",
+   "instruments": [
+    {
+     "name": "RBC Tg2031 Ca Cop Bd",
+     "symbol": "RQT"
+    }
+   ]
+  },
+  {
+   "symbol": "RGQT",
+   "name": "RBC Target 2031 Canadian Government Bond ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "RGQT.TO",
+   "instruments": [
+    {
+     "name": "RBC Tg2031 Ca Gvt Bd",
+     "symbol": "RGQT"
+    }
+   ]
+  },
+  {
+   "symbol": "RUQT",
+   "name": "RBC Target 2031 U.S. Corporate Bond ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "RUQT.TO",
+   "instruments": [
+    {
+     "name": "RBC Tg2031 Us Cop Bd",
+     "symbol": "RUQT"
+    },
+    {
+     "name": "RBC T2031 Us CoBd US",
+     "symbol": "RUQT.U"
+    }
+   ]
+  },
+  {
+   "symbol": "ENGS",
+   "name": "Energys Group Limited - Ordinary Shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "ENGS"
+  },
+  {
+   "symbol": "RGTX",
+   "name": "Defiance Daily Target 2X Long RGTI ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "RGTX"
+  },
+  {
+   "symbol": "SDHIU",
+   "name": "Siddhi Acquisition Corp - Unit",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "SDHIU"
+  },
+  {
+   "symbol": "SMCZ",
+   "name": "Defiance Daily Target 2X Short SMCI ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "SMCZ"
+  },
+  {
+   "symbol": "WTF",
+   "name": "Waton Financial Limited - Ordinary Shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "WTF"
+  },
+  {
+   "symbol": "WXM",
+   "name": "WF International Limited - Ordinary Shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "WXM"
+  },
+  {
+   "symbol": "JQC.R",
+   "name": "Nuveen Credit Strategies Income Fund Rights (expiring April 29, 2025) Rights",
+   "exchange": "NYSE",
+   "yahoo_symbol": "JQC.R"
+  },
+  {
+   "symbol": "SMA",
+   "name": "SmartStop Self Storage REIT, Inc. Common Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "SMA"
+  },
+  {
+   "symbol": "SOUL.U",
+   "name": "Soulpower Acquisition Corporation Units, each consisting of one Class A ordinary share and one right",
+   "exchange": "NYSE",
+   "yahoo_symbol": "SOUL.U"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "DM",
+   "name": "Desktop Metal, Inc. Class A Common Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "DM"
+  },
+  {
+   "symbol": "PTVE",
+   "name": "Pactiv Evergreen Inc. - Common stock",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "PTVE"
+  },
+  {
+   "symbol": "NOCR",
+   "name": "Norden Crown Metals Corporation",
+   "exchange": "TSXV",
+   "yahoo_symbol": "NOCR.V",
+   "instruments": [
+    {
+     "name": "Norden Crown Metals Corporation",
+     "symbol": "NOCR"
+    }
+   ]
+  },
+  {
+   "symbol": "VOXX",
+   "name": "VOXX International Corporation - Class A Common Stock",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "VOXX"
+  },
+  {
+   "symbol": "JQC.V",
+   "name": "Nuveen Credit Strategies Income Fund Rights (expiring April 29, 2025) Rights when issued",
+   "exchange": "NYSE",
+   "yahoo_symbol": "JQC.V"
+  },
+  {
+   "symbol": "APTO",
+   "name": "Aptose Biosciences, Inc. - Common Shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "APTO"
+  }
+ ]
+}

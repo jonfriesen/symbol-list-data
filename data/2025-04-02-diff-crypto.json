@@ -1,0 +1,86 @@
+{
+ "added": [
+  {
+   "symbol": "GHIB",
+   "name": "GhibliCZ (GHIB)"
+  },
+  {
+   "symbol": "POLLEN",
+   "name": "Beraborrow (POLLEN)"
+  },
+  {
+   "symbol": "DEURO",
+   "name": "DecentralizedEURO (DEURO)"
+  },
+  {
+   "symbol": "BINA",
+   "name": "Binance Mascort Dog (BINA)"
+  },
+  {
+   "symbol": "HNTV1",
+   "name": "Helium v1 (HNTV1)"
+  },
+  {
+   "symbol": "ROBOCOIN",
+   "name": "First Bitcoin ATM (ROBOCOIN)"
+  },
+  {
+   "symbol": "XTER",
+   "name": "Xterio (XTER)"
+  },
+  {
+   "symbol": "GHI",
+   "name": "Ghibli HeYi (GHI)"
+  },
+  {
+   "symbol": "AVRK",
+   "name": "Avarik Saga (AVRK)"
+  },
+  {
+   "symbol": "AIRENE",
+   "name": "AIRENE by Virtuals (AIRENE)"
+  },
+  {
+   "symbol": "SNOR",
+   "name": "SNOR (SNOR)"
+  },
+  {
+   "symbol": "AITHER",
+   "name": "Aither Protocol (AITHER)"
+  },
+  {
+   "symbol": "DRAGONZ",
+   "name": "Dragonz Land (DRAGONZ)"
+  },
+  {
+   "symbol": "PNDN",
+   "name": "Pandana (PNDN)"
+  },
+  {
+   "symbol": "HOPECOIN",
+   "name": "Hopecoin (HOPECOIN)"
+  },
+  {
+   "symbol": "ALEXIUS",
+   "name": "Alexius Maximus (ALEXIUS)"
+  },
+  {
+   "symbol": "PEAGUY",
+   "name": "The Pea Guy by Virtuals (PEAGUY)"
+  },
+  {
+   "symbol": "ZKGPT",
+   "name": "ZKGPT (ZKGPT)"
+  },
+  {
+   "symbol": "SHRUBIUS",
+   "name": "Shrubius Maximus (SHRUBIUS)"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "ZEDCOIN",
+   "name": "ZedCoin (ZEDCOIN)"
+  }
+ ]
+}
