@@ -1,0 +1,72 @@
+{
+ "added": [
+  {
+   "symbol": "EQLT",
+   "name": "Invesco S\u0026P/TSX 60 Equal Weight Index ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "EQLT.TO",
+   "instruments": [
+    {
+     "name": "Invesco SP TSX60 EWI",
+     "symbol": "EQLT"
+    }
+   ]
+  },
+  {
+   "symbol": "GLDY",
+   "name": "Defiance Gold Enhanced Options Income ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "GLDY"
+  },
+  {
+   "symbol": "SZZLU",
+   "name": "Sizzle Acquisition Corp. II - Unit",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "SZZLU"
+  },
+  {
+   "symbol": "TOPW",
+   "name": "Top Win International Limited - Ordinary Shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "TOPW"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "ITCI",
+   "name": "Intra-Cellular Therapies Inc. - Common Stock",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "ITCI"
+  },
+  {
+   "symbol": "SHLT",
+   "name": "SHL Telemedicine Ltd - American Depositary Shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "SHLT"
+  },
+  {
+   "symbol": "NVRO",
+   "name": "Nevro Corp. Common Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "NVRO"
+  },
+  {
+   "symbol": "AKR",
+   "name": "Ackroo Inc.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "AKR.V",
+   "instruments": [
+    {
+     "name": "Ackroo Inc.",
+     "symbol": "AKR"
+    }
+   ]
+  },
+  {
+   "symbol": "TBNK",
+   "name": "Territorial Bancorp Inc. - Common Stock",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "TBNK"
+  }
+ ]
+}
