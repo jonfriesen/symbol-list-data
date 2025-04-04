@@ -1,0 +1,120 @@
+{
+ "added": [
+  {
+   "symbol": "VITA",
+   "name": "Vitalist Inc.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "VITA.V",
+   "instruments": [
+    {
+     "name": "Vitalist Inc.",
+     "symbol": "VITA"
+    }
+   ]
+  },
+  {
+   "symbol": "ATII",
+   "name": "Archimedes Tech SPAC Partners II Co. - Ordinary Shares",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "ATII"
+  },
+  {
+   "symbol": "ATIIW",
+   "name": "Archimedes Tech SPAC Partners II Co. - Warrant",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "ATIIW"
+  },
+  {
+   "symbol": "GIND",
+   "name": "Goldman Sachs India Equity ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "GIND"
+  },
+  {
+   "symbol": "LHSW",
+   "name": "Lianhe Sowell International Group Ltd - Ordinary Shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "LHSW"
+  },
+  {
+   "symbol": "WSML",
+   "name": "iShares MSCI World Small-Cap ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "WSML"
+  },
+  {
+   "symbol": "WTMU",
+   "name": "WisdomTree Core Laddered Municipal Fund",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "WTMU"
+  },
+  {
+   "symbol": "WTMY",
+   "name": "WisdomTree High Income Laddered Municipal Fund",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "WTMY"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "HCVIW",
+   "name": "Hennessy Capital Investment Corp. VI - Warrant",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "HCVIW"
+  },
+  {
+   "symbol": "HCVI",
+   "name": "Hennessy Capital Investment Corp. VI - Class A Common Stock",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "HCVI"
+  },
+  {
+   "symbol": "GATEW",
+   "name": "Marblegate Acquisition Corp. - Warrant",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "GATEW"
+  },
+  {
+   "symbol": "CEBI",
+   "name": "CE Brands Inc.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "CEBI.V",
+   "instruments": [
+    {
+     "name": "CE Brands Inc.",
+     "symbol": "CEBI"
+    }
+   ]
+  },
+  {
+   "symbol": "GATE",
+   "name": "Marblegate Acquisition Corp. - Class A Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "GATE"
+  },
+  {
+   "symbol": "EFSH",
+   "name": "1847 Holdings LLC Common Shares",
+   "exchange": "NYSE MKT",
+   "yahoo_symbol": "EFSH"
+  },
+  {
+   "symbol": "GATEU",
+   "name": "Marblegate Acquisition Corp. - Unit",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "GATEU"
+  },
+  {
+   "symbol": "HCVIU",
+   "name": "Hennessy Capital Investment Corp. VI - Unit",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "HCVIU"
+  },
+  {
+   "symbol": "VRPX",
+   "name": "Virpax Pharmaceuticals, Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "VRPX"
+  }
+ ]
+}
