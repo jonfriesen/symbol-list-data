@@ -1,0 +1,186 @@
+{
+ "added": [
+  {
+   "symbol": "FTRC",
+   "name": "The FUTR Corporation",
+   "exchange": "TSXV",
+   "yahoo_symbol": "FTRC.V",
+   "instruments": [
+    {
+     "name": "The FUTR Corporation",
+     "symbol": "FTRC"
+    }
+   ]
+  },
+  {
+   "symbol": "BLIV",
+   "name": "BeLive Holdings - ordinary shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "BLIV"
+  },
+  {
+   "symbol": "CHGX",
+   "name": "Stance Sustainable Beta ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "CHGX"
+  },
+  {
+   "symbol": "CRMG",
+   "name": "Leverage Shares 2X Long CRM Daily ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "CRMG"
+  },
+  {
+   "symbol": "PYPG",
+   "name": "Leverage Shares 2X Long PYPL Daily ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "PYPG"
+  },
+  {
+   "symbol": "VSA",
+   "name": "TCTM Kids IT Education Inc. - American Depositary Shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "VSA"
+  },
+  {
+   "symbol": "XYZG",
+   "name": "Leverage Shares 2X Long XYZ Daily ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "XYZG"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "BITK",
+   "name": "Blockchaink2 Corp.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "BITK.V",
+   "instruments": [
+    {
+     "name": "Blockchaink2 Corp.",
+     "symbol": "BITK"
+    }
+   ]
+  },
+  {
+   "symbol": "TCTM",
+   "name": "TCTM Kids IT Education Inc. - American Depositary Shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "TCTM"
+  },
+  {
+   "symbol": "CDNA",
+   "name": "CI Bio-Revolution Index ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "CDNA.TO",
+   "instruments": [
+    {
+     "name": "CI Bio-Revolution Un",
+     "symbol": "CDNA"
+    }
+   ]
+  },
+  {
+   "symbol": "GLACU",
+   "name": "Global Lights Acquisition Corp - Unit",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "GLACU"
+  },
+  {
+   "symbol": "OPTG",
+   "name": "Optegra Ventures Inc.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "OPTG.V",
+   "instruments": [
+    {
+     "name": "Optegra Ventures Inc.",
+     "symbol": "OPTG"
+    }
+   ]
+  },
+  {
+   "symbol": "TEA",
+   "name": "Tearlach Resources Limited",
+   "exchange": "TSXV",
+   "yahoo_symbol": "TEA.V",
+   "instruments": [
+    {
+     "name": "Tearlach Resources Limited",
+     "symbol": "TEA"
+    }
+   ]
+  },
+  {
+   "symbol": "GLACR",
+   "name": "Global Lights Acquisition Corp - Rights",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "GLACR"
+  },
+  {
+   "symbol": "CMVX",
+   "name": "CI Galaxy Metaverse Index ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "CMVX.TO",
+   "instruments": [
+    {
+     "name": "CI Galaxy Metavrs Un",
+     "symbol": "CMVX"
+    }
+   ]
+  },
+  {
+   "symbol": "HANK",
+   "name": "Hank Payments Corp.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "HANK.V",
+   "instruments": [
+    {
+     "name": "Hank Payments Corp.",
+     "symbol": "HANK"
+    }
+   ]
+  },
+  {
+   "symbol": "JQC.R",
+   "name": "Nuveen Credit Strategies Income Fund Rights (expiring April 29, 2025) Rights",
+   "exchange": "NYSE",
+   "yahoo_symbol": "JQC.R"
+  },
+  {
+   "symbol": "LGTY",
+   "name": "Logility Supply Chain Solutions, Inc. - Common Stock",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "LGTY"
+  },
+  {
+   "symbol": "STSB",
+   "name": "Stance Sustainable Beta ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "STSB"
+  },
+  {
+   "symbol": "GLAC",
+   "name": "Global Lights Acquisition Corp - Ordinary Shares",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "GLAC"
+  },
+  {
+   "symbol": "FGB",
+   "name": "CI Short Term Government Bond Index Class ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "FGB.TO",
+   "instruments": [
+    {
+     "name": "CI ST GovtBondCl ETF",
+     "symbol": "FGB"
+    }
+   ]
+  },
+  {
+   "symbol": "AIM",
+   "name": "AIM ImmunoTech Inc. Common Stock",
+   "exchange": "NYSE MKT",
+   "yahoo_symbol": "AIM"
+  }
+ ]
+}

@@ -1,0 +1,56 @@
+{
+ "added": [
+  {
+   "symbol": "MNEMO",
+   "name": "Mnemonics (MNEMO)"
+  },
+  {
+   "symbol": "DIGI",
+   "name": "Digicoin (DIGI)"
+  },
+  {
+   "symbol": "FISH2",
+   "name": "FISH2 (FISH2)"
+  },
+  {
+   "symbol": "SHONG",
+   "name": "Shong Inu (SHONG)"
+  },
+  {
+   "symbol": "D",
+   "name": "Dar Open Network (D)"
+  },
+  {
+   "symbol": "IMGX10",
+   "name": "IMGx10 (IMGX10)"
+  },
+  {
+   "symbol": "NYS",
+   "name": "node.sys (NYS)"
+  },
+  {
+   "symbol": "BABYLON",
+   "name": "Babylon (BABYLON)"
+  },
+  {
+   "symbol": "PUMPB",
+   "name": "Pump (PUMPB)"
+  },
+  {
+   "symbol": "BNBETF",
+   "name": "BNB ETF (BNBETF)"
+  },
+  {
+   "symbol": "BIKE",
+   "name": "White Bike (BIKE)"
+  },
+  {
+   "symbol": "GHIBL",
+   "name": "Ghibli Zao (GHIBL)"
+  },
+  {
+   "symbol": "K",
+   "name": "Kinto (K)"
+  }
+ ]
+}
