@@ -1,0 +1,108 @@
+{
+ "added": [
+  {
+   "symbol": "GDP",
+   "name": "Golden Pursuit Resources Ltd.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "GDP.V",
+   "instruments": [
+    {
+     "name": "Golden Pursuit Resources Ltd.",
+     "symbol": "GDP"
+    }
+   ]
+  },
+  {
+   "symbol": "AACB",
+   "name": "Artius II Acquisition Inc. - Class A Ordinary Shares",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "AACB"
+  },
+  {
+   "symbol": "AACBR",
+   "name": "Artius II Acquisition Inc. - Rights",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "AACBR"
+  },
+  {
+   "symbol": "FMUB",
+   "name": "Fidelity Municipal Bond Opportunities ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "FMUB"
+  },
+  {
+   "symbol": "FMUN",
+   "name": "Fidelity Systematic Municipal Bond Index ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "FMUN"
+  },
+  {
+   "symbol": "JPY",
+   "name": "Lazard Japanese Equity ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "JPY"
+  },
+  {
+   "symbol": "KIDZ",
+   "name": "Classover Holdings, Inc. - Class B Common Stock",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "KIDZ"
+  },
+  {
+   "symbol": "KIDZW",
+   "name": "Classover Holdings, Inc. - Warrants",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "KIDZW"
+  },
+  {
+   "symbol": "RBNEV",
+   "name": "Robin Energy Ltd. - Common Stock When Issued",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "RBNEV"
+  },
+  {
+   "symbol": "TEKY",
+   "name": "Lazard Next Gen Technologies ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "TEKY"
+  },
+  {
+   "symbol": "THMZ",
+   "name": "Lazard Equity Megatrends ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "THMZ"
+  },
+  {
+   "symbol": "TOROV",
+   "name": "Toro Corp. - Common Stock Ex-distribution When Issued",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "TOROV"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "FRD",
+   "name": "Friedman Industries Inc. Common Stock",
+   "exchange": "NYSE MKT",
+   "yahoo_symbol": "FRD"
+  },
+  {
+   "symbol": "SST.W",
+   "name": "System1, Inc. Warrants, each whole warrant exercisable for one share of Class A Common Stock at an exercise price of $11.50 per share",
+   "exchange": "NYSE",
+   "yahoo_symbol": "SST.W"
+  },
+  {
+   "symbol": "MINN",
+   "name": "Middlefield Innovation Dividend ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "MINN.TO",
+   "instruments": [
+    {
+     "name": "Middlefld Innov Div",
+     "symbol": "MINN"
+    }
+   ]
+  }
+ ]
+}
