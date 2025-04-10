@@ -1,0 +1,90 @@
+{
+ "added": [
+  {
+   "symbol": "IBO",
+   "name": "Universal Ibogaine Inc.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "IBO.V",
+   "instruments": [
+    {
+     "name": "Universal Ibogaine Inc.",
+     "symbol": "IBO"
+    }
+   ]
+  },
+  {
+   "symbol": "ABIG",
+   "name": "Argent Large Cap ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "ABIG"
+  },
+  {
+   "symbol": "ALIL",
+   "name": "Argent Focused Small Cap ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "ALIL"
+  },
+  {
+   "symbol": "HCWB",
+   "name": "HCW Biologics Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "HCWB"
+  },
+  {
+   "symbol": "TACHU",
+   "name": "Titan Acquisition Corp. - Units",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "TACHU"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "HCWB",
+   "name": "HCW Biologics Inc. - Common Stock",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "HCWB"
+  },
+  {
+   "symbol": "CLRCW",
+   "name": "ClimateRock - Warrant",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "CLRCW"
+  },
+  {
+   "symbol": "CLRC",
+   "name": "ClimateRock - Class A Ordinary Shares",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "CLRC"
+  },
+  {
+   "symbol": "CLRCU",
+   "name": "ClimateRock - Unit",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "CLRCU"
+  },
+  {
+   "symbol": "NXU",
+   "name": "Nxu, Inc.  - Class A Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "NXU"
+  },
+  {
+   "symbol": "GSD",
+   "name": "Devonian Health Group Inc.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "GSD.V",
+   "instruments": [
+    {
+     "name": "Devonian Health Group Inc.",
+     "symbol": "GSD"
+    }
+   ]
+  },
+  {
+   "symbol": "CLRCR",
+   "name": "ClimateRock - Right",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "CLRCR"
+  }
+ ]
+}
