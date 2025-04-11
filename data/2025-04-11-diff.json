@@ -1,0 +1,102 @@
+{
+ "added": [
+  {
+   "symbol": "PDQ",
+   "name": "Paradigm Gold Corporation",
+   "exchange": "TSXV",
+   "yahoo_symbol": "PDQ.V",
+   "instruments": [
+    {
+     "name": "Paradigm Gold Corporation",
+     "symbol": "PDQ"
+    }
+   ]
+  },
+  {
+   "symbol": "ATHR",
+   "name": "Aether Holdings, Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "ATHR"
+  },
+  {
+   "symbol": "CIIT",
+   "name": "Tianci International, Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "CIIT"
+  },
+  {
+   "symbol": "CUPR",
+   "name": "Cuprina Holdings (Cayman) Limited - Ordinary shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "CUPR"
+  },
+  {
+   "symbol": "ELFY",
+   "name": "ALPS Electrification Infrastructure ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "ELFY"
+  },
+  {
+   "symbol": "ENDW",
+   "name": "Cambria Endowment Style ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "ENDW"
+  },
+  {
+   "symbol": "IOTR",
+   "name": "iOThree Limited - Ordinary Shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "IOTR"
+  },
+  {
+   "symbol": "MB",
+   "name": "MasterBeef Group - Ordinary Shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "MB"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "NICK",
+   "name": "Nickelex Resource Corporation",
+   "exchange": "TSXV",
+   "yahoo_symbol": "NICK.V",
+   "instruments": [
+    {
+     "name": "Nickelex Resource Corporation",
+     "symbol": "NICK"
+    }
+   ]
+  },
+  {
+   "symbol": "SKGRU",
+   "name": "SK Growth Opportunities Corporation - Unit",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "SKGRU"
+  },
+  {
+   "symbol": "SKGRW",
+   "name": "SK Growth Opportunities Corporation - Warrant",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "SKGRW"
+  },
+  {
+   "symbol": "SKGR",
+   "name": "SK Growth Opportunities Corporation - Class A Common Stock",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "SKGR"
+  },
+  {
+   "symbol": "XCYT",
+   "name": "Xcyte Digital Corp.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "XCYT.V",
+   "instruments": [
+    {
+     "name": "Xcyte Digital Corp.",
+     "symbol": "XCYT"
+    }
+   ]
+  }
+ ]
+}
