@@ -1,0 +1,38 @@
+{
+ "added": [
+  {
+   "symbol": "ALCHEMYV1",
+   "name": "Alchemy (ALCHEMYV1)"
+  },
+  {
+   "symbol": "PALCOIN",
+   "name": "Palcoin Ventures (PALCOIN)"
+  },
+  {
+   "symbol": "DUOLINGOAI",
+   "name": "DUOLINGO AI (DUOLINGOAI)"
+  },
+  {
+   "symbol": "TRUMPI",
+   "name": "TRUMP IP (TRUMPI)"
+  },
+  {
+   "symbol": "AEGS",
+   "name": "Aegisum (AEGS)"
+  },
+  {
+   "symbol": "AVAAI",
+   "name": "Ava AI (AVAAI)"
+  },
+  {
+   "symbol": "KILO",
+   "name": "KiloEx (KILO)"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "ZEDCOIN",
+   "name": "ZedCoin (ZEDCOIN)"
+  }
+ ]
+}

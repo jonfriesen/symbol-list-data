@@ -1,0 +1,42 @@
+{
+ "added": [
+  {
+   "symbol": "GRL",
+   "name": "GreenLight Metals Inc.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "GRL.V",
+   "instruments": [
+    {
+     "name": "GreenLight Metals Inc.",
+     "symbol": "GRL"
+    }
+   ]
+  },
+  {
+   "symbol": "BULL",
+   "name": "Webull Corporation - Class A Ordinary Shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "BULL"
+  },
+  {
+   "symbol": "BULLW",
+   "name": "Webull Corporation - Warrants",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "BULLW"
+  },
+  {
+   "symbol": "BULLZ",
+   "name": "Webull Corporation - Incentive Warrant",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "BULLZ"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "ATSG",
+   "name": "Air Transport Services Group, Inc - Common Stock",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "ATSG"
+  }
+ ]
+}
