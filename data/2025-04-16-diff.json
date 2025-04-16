@@ -1,0 +1,152 @@
+{
+ "added": [
+  {
+   "symbol": "SOLQ",
+   "name": "3iQ Solana Staking ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "SOLQ.TO",
+   "instruments": [
+    {
+     "name": "3iQ Solana Stakg ETF",
+     "symbol": "SOLQ"
+    },
+    {
+     "name": "3iQ Sola Stak ETF US",
+     "symbol": "SOLQ.U"
+    }
+   ]
+  },
+  {
+   "symbol": "SOLX.B",
+   "name": "CI Galaxy Solana ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "SOLX.B.TO",
+   "instruments": [
+    {
+     "name": "CI Galaxy Sol ETF CA",
+     "symbol": "SOLX.B"
+    },
+    {
+     "name": "CI Galaxy Sol ETF US",
+     "symbol": "SOLX.U"
+    }
+   ]
+  },
+  {
+   "symbol": "SOLA",
+   "name": "Evolve Solana ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "SOLA.TO",
+   "instruments": [
+    {
+     "name": "Evolve Solana ETF CA",
+     "symbol": "SOLA"
+    },
+    {
+     "name": "Evolve Solana ETF US",
+     "symbol": "SOLA.U"
+    }
+   ]
+  },
+  {
+   "symbol": "SOLL",
+   "name": "Purpose Solana ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "SOLL.TO",
+   "instruments": [
+    {
+     "name": "Purpose Solana Ca Hd",
+     "symbol": "SOLL"
+    },
+    {
+     "name": "Purpose Sol Ca NonHd",
+     "symbol": "SOLL.B"
+    },
+    {
+     "name": "Purpose Sol US NonHd",
+     "symbol": "SOLL.U"
+    }
+   ]
+  },
+  {
+   "symbol": "HXHX",
+   "name": "Haoxin Holdings Limited - Class A Ordinary Shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "HXHX"
+  },
+  {
+   "symbol": "TVRD",
+   "name": "Tvardi Therapeutics, Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "TVRD"
+  },
+  {
+   "symbol": "ZTOP",
+   "name": "F/m High Yield 100 ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "ZTOP"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "AITRU",
+   "name": "AI TRANSPORTATION ACQUISITION CORP - Unit",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "AITRU"
+  },
+  {
+   "symbol": "DECA",
+   "name": "Denali Capital Acquisition Corp. - Class A Ordinary Shares",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "DECA"
+  },
+  {
+   "symbol": "AMPS",
+   "name": "Altus Power, Inc. Class A Common Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "AMPS"
+  },
+  {
+   "symbol": "CARA",
+   "name": "Cara Therapeutics, Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "CARA"
+  },
+  {
+   "symbol": "VINC",
+   "name": "Vincerx Pharma, Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "VINC"
+  },
+  {
+   "symbol": "AITRR",
+   "name": "AI TRANSPORTATION ACQUISITION CORP - Right",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "AITRR"
+  },
+  {
+   "symbol": "AITR",
+   "name": "AI TRANSPORTATION ACQUISITION CORP - Ordinary shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "AITR"
+  },
+  {
+   "symbol": "SWI",
+   "name": "SolarWinds Corporation Common Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "SWI"
+  },
+  {
+   "symbol": "DECAU",
+   "name": "Denali Capital Acquisition Corp. - Unit",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "DECAU"
+  },
+  {
+   "symbol": "DECAW",
+   "name": "Denali Capital Acquisition Corp. - Warrant",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "DECAW"
+  }
+ ]
+}

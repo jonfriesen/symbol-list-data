@@ -1,0 +1,96 @@
+{
+ "added": [
+  {
+   "symbol": "DEEPS",
+   "name": "DeepSeek AI (DEEPS)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "BULLSEYE",
+   "name": "bulls-eye (BULLSEYE)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "LVVA",
+   "name": "Levva Protocol Token (LVVA)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "COCOROERC",
+   "name": "COCORO (COCOROERC)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "KLKSYNC",
+   "name": "KLK Sync Protocol (KLKSYNC)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "DEEPSEE",
+   "name": "DeepSeek AI (DEEPSEE)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "DEEPSE",
+   "name": "DeepSeek AI Assistant (DEEPSE)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "FHE",
+   "name": "MindNetwork FHE Token (FHE)"
+  },
+  {
+   "symbol": "WCT",
+   "name": "Waves Community Token (WCT)",
+   "built_on": "OP"
+  },
+  {
+   "symbol": "SOLEY",
+   "name": "Soley (SOLEY)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "KULA",
+   "name": "Kula (KULA)",
+   "built_on": "AVAX"
+  },
+  {
+   "symbol": "CBBTCBASE",
+   "name": "cbBTC (CBBTCBASE)"
+  },
+  {
+   "symbol": "DEEPSEEKAI",
+   "name": "DeepSeek AI Agent (DEEPSEEKAI)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "D",
+   "name": "Dar Open Network (D)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "IAOMIN",
+   "name": "Yao Ming (IAOMIN)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "G",
+   "name": "Gravity (G)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "PALCOINV1",
+   "name": "PALCOIN Venture Capital v1 (PALCOINV1)"
+  },
+  {
+   "symbol": "BANKETH",
+   "name": "BankEth (BANKETH)"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "WCT",
+   "name": "Waves Community Token (WCT)"
+  }
+ ]
+}
