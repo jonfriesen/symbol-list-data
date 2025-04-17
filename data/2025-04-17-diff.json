@@ -1,0 +1,154 @@
+{
+ "added": [
+  {
+   "symbol": "GPS",
+   "name": "Great Plains Metals Corp.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "GPS.V",
+   "instruments": [
+    {
+     "name": "Great Plains Metals Corp.",
+     "symbol": "GPS"
+    }
+   ]
+  },
+  {
+   "symbol": "MGMA",
+   "name": "Magma Silver Corp.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "MGMA.V",
+   "instruments": [
+    {
+     "name": "Magma Silver Corp.",
+     "symbol": "MGMA"
+    }
+   ]
+  },
+  {
+   "symbol": "PVF.A",
+   "name": "Partners Value Investments L.P.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "PVF.A.V",
+   "instruments": [
+    {
+     "name": "Partners Value Investments L.P. exch sh",
+     "symbol": "PVF.A"
+    },
+    {
+     "name": "Partners Value Investments L.P. pref ser1",
+     "symbol": "PVF.PR.U"
+    },
+    {
+     "name": "Partners Value Investments L.P. pref 27nov2030",
+     "symbol": "PVF.PR.V"
+    },
+    {
+     "name": "Partners Value Investments L.P.",
+     "symbol": "PVF.UN"
+    },
+    {
+     "name": "Partners Value Investments L.P. wt 30Jun2026",
+     "symbol": "PVF.WT"
+    }
+   ]
+  },
+  {
+   "symbol": "ATHA",
+   "name": "Athira Pharma, Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "ATHA"
+  },
+  {
+   "symbol": "CMCT",
+   "name": "Creative Media  - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "CMCT"
+  },
+  {
+   "symbol": "FINS.V",
+   "name": "Angel Oak Financial Strategies Income Term Trust Rights (expiring May 14, 2025) Rights when issued",
+   "exchange": "NYSE",
+   "yahoo_symbol": "FINS.V"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "PVF.PR.U",
+   "name": "Partners Value Investments L.P.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "PVF.PR.U.V",
+   "instruments": [
+    {
+     "name": "Partners Value Investments L.P. pref ser1",
+     "symbol": "PVF.PR.U"
+    },
+    {
+     "name": "Partners Value Investments L.P. pref 27nov2030",
+     "symbol": "PVF.PR.V"
+    },
+    {
+     "name": "Partners Value Investments L.P.",
+     "symbol": "PVF.UN"
+    },
+    {
+     "name": "Partners Value Investments L.P. wt 30Jun2026",
+     "symbol": "PVF.WT"
+    }
+   ]
+  },
+  {
+   "symbol": "ATHA",
+   "name": "Athira Pharma, Inc. - Common Stock",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "ATHA"
+  },
+  {
+   "symbol": "ML",
+   "name": "MoneyLion Inc. Class A Common Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "ML"
+  },
+  {
+   "symbol": "HBK",
+   "name": "Highbank Resources Ltd.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "HBK.V",
+   "instruments": [
+    {
+     "name": "Highbank Resources Ltd.",
+     "symbol": "HBK"
+    }
+   ]
+  },
+  {
+   "symbol": "CMCT",
+   "name": "Creative Media \u0026 Community Trust Corporation - Common Stock",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "CMCT"
+  },
+  {
+   "symbol": "ML.W",
+   "name": "MoneyLion Inc. Warrants, each whole warrant exercisable for one share of Class A common stock at an exercise price of $11.50 per share",
+   "exchange": "NYSE",
+   "yahoo_symbol": "ML.W"
+  },
+  {
+   "symbol": "NORR",
+   "name": "Norrland Gold Corp.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "NORR.V",
+   "instruments": [
+    {
+     "name": "Norrland Gold Corp.",
+     "symbol": "NORR"
+    }
+   ]
+  },
+  {
+   "symbol": "AWH",
+   "name": "Aspira Women's Health Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "AWH"
+  }
+ ]
+}

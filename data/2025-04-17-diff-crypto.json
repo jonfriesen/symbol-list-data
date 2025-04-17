@@ -1,0 +1,86 @@
+{
+ "added": [
+  {
+   "symbol": "RWA",
+   "name": "Xend Finance (RWA)",
+   "built_on": "BASE"
+  },
+  {
+   "symbol": "BDTC",
+   "name": "BDTCOIN (BDTC)"
+  },
+  {
+   "symbol": "GMUBARAK",
+   "name": "Ghibli Mubarak (GMUBARAK)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "DETH",
+   "name": "DarkEther (DETH)"
+  },
+  {
+   "symbol": "BANK",
+   "name": "Float Protocol (BANK)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "CBBTC",
+   "name": "Coinbase Wrapped BTC (CBBTC)",
+   "built_on": "BASE"
+  },
+  {
+   "symbol": "AQA",
+   "name": " AQA Token (AQA)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "WAVESCOMM",
+   "name": "Waves Community Token (WAVESCOMM)",
+   "built_on": "WAVES"
+  },
+  {
+   "symbol": "JARVIS",
+   "name": "Jarvis AI (JARVIS)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "BINAN",
+   "name": "Binance Mascot (BINAN)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "GETH",
+   "name": "Guarded Ether (GETH)"
+  },
+  {
+   "symbol": "TOADCOIN",
+   "name": "TOAD (TOADCOIN)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "UPT",
+   "name": "Universal Protocol Token (UPT)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "XEND",
+   "name": "Xend Finance (XEND)"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "ZEDCOIN",
+   "name": "ZedCoin (ZEDCOIN)"
+  },
+  {
+   "symbol": "RWA",
+   "name": "Xend Finance (RWA)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "XEND",
+   "name": "Xend Finance (XEND)",
+   "built_on": "ETH"
+  }
+ ]
+}
