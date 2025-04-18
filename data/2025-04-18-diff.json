@@ -1,0 +1,40 @@
+{
+ "added": [
+  {
+   "symbol": "AVGB",
+   "name": "Avantis Credit ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "AVGB"
+  },
+  {
+   "symbol": "CHA",
+   "name": "Chagee Holdings Limited - American Depositary Shares, each representing 1 Class A ordinary share",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "CHA"
+  },
+  {
+   "symbol": "EDHL",
+   "name": "Everbright Digital Holding Limited - Ordinary Shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "EDHL"
+  },
+  {
+   "symbol": "GENVR",
+   "name": "Gen Digital Inc. - Contingent Value Rights",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "GENVR"
+  },
+  {
+   "symbol": "NHIC",
+   "name": "NewHold Investment Corp III - Class A Ordinary shares",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "NHIC"
+  },
+  {
+   "symbol": "NHICW",
+   "name": "NewHold Investment Corp III - Warrants",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "NHICW"
+  }
+ ]
+}

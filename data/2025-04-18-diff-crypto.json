@@ -1,0 +1,75 @@
+{
+ "added": [
+  {
+   "symbol": "WIOTA",
+   "name": "wIOTA (WIOTA)",
+   "built_on": "MIOTA"
+  },
+  {
+   "symbol": "NUMITOR",
+   "name": "Numitor (NUMITOR)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "XENDV1",
+   "name": "Xend Finance (XENDV1)"
+  },
+  {
+   "symbol": "USDD",
+   "name": "USDD (USDD)",
+   "built_on": "TRX"
+  },
+  {
+   "symbol": "NUMI",
+   "name": "NUMINE Token (NUMI)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "D",
+   "name": "Dar Open Network (D)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "CBBTCBASE",
+   "name": "cbBTC (CBBTCBASE)"
+  },
+  {
+   "symbol": "XENDV2",
+   "name": "Xend Finance (XENDV2)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "BANKETH",
+   "name": "BankEth (BANKETH)"
+  },
+  {
+   "symbol": "VRTX",
+   "name": "Vertex Protocol (VRTX)",
+   "built_on": "ARB"
+  },
+  {
+   "symbol": "G",
+   "name": "Gravity (G)",
+   "built_on": "ETH"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "XEND",
+   "name": "Xend Finance (XEND)"
+  },
+  {
+   "symbol": "NUMI",
+   "name": "Numitor (NUMI)"
+  },
+  {
+   "symbol": "USDD",
+   "name": "USDD (USDD)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "VRTX",
+   "name": "Vertex Protocol (VRTX)"
+  }
+ ]
+}
