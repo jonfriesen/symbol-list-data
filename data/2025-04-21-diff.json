@@ -1,0 +1,72 @@
+{
+ "added": [
+  {
+   "symbol": "DVS",
+   "name": "Dolly Varden Silver Corporation Common Shares",
+   "exchange": "NYSE MKT",
+   "yahoo_symbol": "DVS"
+  },
+  {
+   "symbol": "RAC",
+   "name": "Rithm Acquisition Corp. Class A Ordinary Shares",
+   "exchange": "NYSE",
+   "yahoo_symbol": "RAC"
+  },
+  {
+   "symbol": "RAC.W",
+   "name": "Rithm Acquisition Corp. Redeemable warrants, each whole warrant exercisable for one Class A ordinary share at an exercise price of $11.50",
+   "exchange": "NYSE",
+   "yahoo_symbol": "RAC.W"
+  },
+  {
+   "symbol": "TMDE",
+   "name": "TMD Energy Limited Ordinary Shares",
+   "exchange": "NYSE MKT",
+   "yahoo_symbol": "TMDE"
+  },
+  {
+   "symbol": "AUX",
+   "name": "Golden Cross Resources Inc.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "AUX.V",
+   "instruments": [
+    {
+     "name": "Golden Cross Resources Inc.",
+     "symbol": "AUX"
+    }
+   ]
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "ENZ",
+   "name": "Enzo Biochem, Inc. Common Stock ($0.01 Par Value)",
+   "exchange": "NYSE",
+   "yahoo_symbol": "ENZ"
+  },
+  {
+   "symbol": "PDCO",
+   "name": "Patterson Companies, Inc. - Common Stock",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "PDCO"
+  },
+  {
+   "symbol": "ENFN",
+   "name": "Enfusion, Inc. Class A Common Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "ENFN"
+  },
+  {
+   "symbol": "FNA",
+   "name": "Paragon 28, Inc. Common Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "FNA"
+  },
+  {
+   "symbol": "SYRA",
+   "name": "Syra Health Corp. - Class A Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "SYRA"
+  }
+ ]
+}
