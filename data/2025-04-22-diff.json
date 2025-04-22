@@ -1,0 +1,174 @@
+{
+ "added": [
+  {
+   "symbol": "ESBL",
+   "name": "Eshbal Functional Food Inc.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "ESBL.V",
+   "instruments": [
+    {
+     "name": "Eshbal Functional Food Inc.",
+     "symbol": "ESBL"
+    }
+   ]
+  },
+  {
+   "symbol": "FERA",
+   "name": "Fifth Era Acquisition Corp I - Class A Ordinary Shares",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "FERA"
+  },
+  {
+   "symbol": "FERAR",
+   "name": "Fifth Era Acquisition Corp I - Rights",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "FERAR"
+  },
+  {
+   "symbol": "LOKV",
+   "name": "Live Oak Acquisition Corp. V - Class A Ordinary Shares",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "LOKV"
+  },
+  {
+   "symbol": "LOKVW",
+   "name": "Live Oak Acquisition Corp. V - Warrants",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "LOKVW"
+  },
+  {
+   "symbol": "SPWR",
+   "name": "Complete Solaria, Inc. - Common Stock",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "SPWR"
+  },
+  {
+   "symbol": "SPWRW",
+   "name": "Complete Solaria, Inc. - Warrant",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "SPWRW"
+  },
+  {
+   "symbol": "VINC",
+   "name": "Vincerx Pharma, Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "VINC"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "CMRX",
+   "name": "Chimerix, Inc. - Common Stock",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "CMRX"
+  },
+  {
+   "symbol": "SCPX",
+   "name": "Scorpius Holdings, Inc. Common Stock",
+   "exchange": "NYSE MKT",
+   "yahoo_symbol": "SCPX"
+  },
+  {
+   "symbol": "CSLRW",
+   "name": "Complete Solaria, Inc. - Warrant",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "CSLRW"
+  },
+  {
+   "symbol": "ZUVE",
+   "name": "BMO U.S. Equity Value MFR Fund",
+   "exchange": "TSX",
+   "yahoo_symbol": "ZUVE.TO",
+   "instruments": [
+    {
+     "name": "BMO US Eqty Val MFR",
+     "symbol": "ZUVE"
+    }
+   ]
+  },
+  {
+   "symbol": "ESGH",
+   "name": "BMO ESG High Yield US Corporate Bond Index ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "ESGH.TO",
+   "instruments": [
+    {
+     "name": "BMO ESG HiYldUSBndET",
+     "symbol": "ESGH"
+    },
+    {
+     "name": "BMO ESG HiYldUSBndH",
+     "symbol": "ESGH.F"
+    }
+   ]
+  },
+  {
+   "symbol": "HAKK.P",
+   "name": "Hakken Capital Corp.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "HAKK.P.V",
+   "instruments": [
+    {
+     "name": "Hakken Capital Corp.",
+     "symbol": "HAKK.P"
+    }
+   ]
+  },
+  {
+   "symbol": "TIPS",
+   "name": "BMO US TIPS Index ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "TIPS.TO",
+   "instruments": [
+    {
+     "name": "BMO US TipsIndx ETF",
+     "symbol": "TIPS"
+    },
+    {
+     "name": "BMO US Tips Idx ETFH",
+     "symbol": "TIPS.F"
+    },
+    {
+     "name": "BMO US Tips Idx ETFU",
+     "symbol": "TIPS.U"
+    }
+   ]
+  },
+  {
+   "symbol": "EQC",
+   "name": "Equity Commonwealth Common Shares of Beneficial Interest",
+   "exchange": "NYSE",
+   "yahoo_symbol": "EQC"
+  },
+  {
+   "symbol": "FFNW",
+   "name": "First Financial Northwest, Inc. - Common Stock",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "FFNW"
+  },
+  {
+   "symbol": "AIEV",
+   "name": "Thunder Power Holdings, Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "AIEV"
+  },
+  {
+   "symbol": "CSLR",
+   "name": "Complete Solaria, Inc. - Common Stock",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "CSLR"
+  },
+  {
+   "symbol": "ZUGE",
+   "name": "BMO U.S. Equity Growth MFR Fund",
+   "exchange": "TSX",
+   "yahoo_symbol": "ZUGE.TO",
+   "instruments": [
+    {
+     "name": "BMO US Eqty GrowMFR",
+     "symbol": "ZUGE"
+    }
+   ]
+  }
+ ]
+}

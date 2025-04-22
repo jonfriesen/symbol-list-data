@@ -1,0 +1,34 @@
+{
+ "added": [
+  {
+   "symbol": "TAOCAT",
+   "name": "TAOCat by Virtuals (TAOCAT)"
+  },
+  {
+   "symbol": "MOONBEANS",
+   "name": "Moonbeans (MOONBEANS)"
+  },
+  {
+   "symbol": "INSANECOIN",
+   "name": "InsaneCoin (INSANECOIN)"
+  },
+  {
+   "symbol": "MEOWCAT",
+   "name": "MeowCat (MEOWCAT)"
+  },
+  {
+   "symbol": "EIGENP",
+   "name": "Eigenpie (EIGENP)"
+  },
+  {
+   "symbol": "BITBOARD",
+   "name": "Bitboard (BITBOARD)"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "INSN",
+   "name": "Insane Coin (INSN)"
+  }
+ ]
+}
