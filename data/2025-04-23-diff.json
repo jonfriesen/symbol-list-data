@@ -1,0 +1,88 @@
+{
+ "added": [
+  {
+   "symbol": "BAAA",
+   "name": "Brompton Wellington Square AAA CLO ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "BAAA.TO",
+   "instruments": [
+    {
+     "name": "Brompton WeS AAA CLO",
+     "symbol": "BAAA"
+    },
+    {
+     "name": "Bromp WeS AAA CLO US",
+     "symbol": "BAAA.U"
+    }
+   ]
+  },
+  {
+   "symbol": "CIGL",
+   "name": "Concorde International Group Ltd - Class A Ordinary Shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "CIGL"
+  },
+  {
+   "symbol": "LCDL",
+   "name": "GraniteShares 2x Long LCID Daily ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "LCDL"
+  },
+  {
+   "symbol": "MBBC",
+   "name": "Marathon Bancorp, Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "MBBC"
+  },
+  {
+   "symbol": "PFAI",
+   "name": "Pinnacle Food Group Limited - Class A Common Shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "PFAI"
+  },
+  {
+   "symbol": "RVNL",
+   "name": "GraniteShares 2x Long RIVN Daily ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "RVNL"
+  },
+  {
+   "symbol": "FINS.R",
+   "name": "Angel Oak Financial Strategies Income Term Trust Rights (expiring May 14, 2025) Rights",
+   "exchange": "NYSE",
+   "yahoo_symbol": "FINS.R"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "VINC",
+   "name": "Vincerx Pharma, Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "VINC"
+  },
+  {
+   "symbol": "FINS.V",
+   "name": "Angel Oak Financial Strategies Income Term Trust Rights (expiring May 14, 2025) Rights when issued",
+   "exchange": "NYSE",
+   "yahoo_symbol": "FINS.V"
+  },
+  {
+   "symbol": "DTC",
+   "name": "Solo Brands, Inc. Class A Common Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "DTC"
+  },
+  {
+   "symbol": "NHT.U",
+   "name": "NexPoint Hospitality Trust",
+   "exchange": "TSXV",
+   "yahoo_symbol": "NHT.U.V",
+   "instruments": [
+    {
+     "name": "Nexpoint Hospitality Trust",
+     "symbol": "NHT.U"
+    }
+   ]
+  }
+ ]
+}
