@@ -1,0 +1,86 @@
+{
+ "added": [
+  {
+   "symbol": "WHATSONPIC",
+   "name": "WhatsOnPic (WHATSONPIC)"
+  },
+  {
+   "symbol": "ZULU",
+   "name": "Zulu Network (ZULU)"
+  },
+  {
+   "symbol": "PIGC",
+   "name": "Pigcoin (PIGC)"
+  },
+  {
+   "symbol": "MAROV1",
+   "name": "TTC PROTOCOL (MAROV1)"
+  },
+  {
+   "symbol": "OLA",
+   "name": "Ola (OLA)"
+  },
+  {
+   "symbol": "ZEDCOIN",
+   "name": "ZedCoin (ZEDCOIN)"
+  },
+  {
+   "symbol": "USDONE",
+   "name": "Currency One USD (USDONE)"
+  },
+  {
+   "symbol": "AB",
+   "name": "Newton (AB)"
+  },
+  {
+   "symbol": "MANA3",
+   "name": "MANA3 (MANA3)"
+  },
+  {
+   "symbol": "OVER",
+   "name": "OverProtocol (OVER)"
+  },
+  {
+   "symbol": "EYWA",
+   "name": "EYWA (EYWA)"
+  },
+  {
+   "symbol": "KIMA",
+   "name": "Kima (KIMA)"
+  },
+  {
+   "symbol": "CST",
+   "name": "Crypto Samurai (CST)"
+  },
+  {
+   "symbol": "CASPERTOKEN",
+   "name": "Casper Token (CASPERTOKEN)"
+  },
+  {
+   "symbol": "CATGOLD",
+   "name": "Cat Gold Miner (CATGOLD)"
+  },
+  {
+   "symbol": "AIPUMP",
+   "name": "aiPump (AIPUMP)"
+  },
+  {
+   "symbol": "SQ3",
+   "name": "Squad3 (SQ3)"
+  },
+  {
+   "symbol": "YOZI",
+   "name": "YoZi Protocol (YOZI)"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "TTC",
+   "name": "TTC PROTOCOL (TTC)"
+  },
+  {
+   "symbol": "NEW",
+   "name": "Newton (NEW)"
+  }
+ ]
+}

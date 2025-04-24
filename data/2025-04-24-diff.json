@@ -1,0 +1,90 @@
+{
+ "added": [
+  {
+   "symbol": "BOED",
+   "name": "Direxion Daily BA Bear 1X Shares",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "BOED"
+  },
+  {
+   "symbol": "BOEU",
+   "name": "Direxion Daily BA Bull 2X Shares",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "BOEU"
+  },
+  {
+   "symbol": "TVACU",
+   "name": "Texas Ventures Acquisition III Corp - Unit",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "TVACU"
+  },
+  {
+   "symbol": "VIVS",
+   "name": "VivoSim Labs, Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "VIVS"
+  },
+  {
+   "symbol": "XOMX",
+   "name": "Direxion Daily XOM Bull 2X Shares",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "XOMX"
+  },
+  {
+   "symbol": "XOMZ",
+   "name": "Direxion Daily XOM Bear 1X Shares",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "XOMZ"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "OCEAW",
+   "name": "Ocean Biomedical, Inc. - Warrants",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "OCEAW"
+  },
+  {
+   "symbol": "CSF",
+   "name": "VictoryShares US Discovery Enhanced Volatility Wtd ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "CSF"
+  },
+  {
+   "symbol": "MDCP",
+   "name": "VictoryShares THB Mid Cap ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "MDCP"
+  },
+  {
+   "symbol": "ONVO",
+   "name": "Organovo Holdings, Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "ONVO"
+  },
+  {
+   "symbol": "OCEA",
+   "name": "Ocean Biomedical, Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "OCEA"
+  },
+  {
+   "symbol": "CTS",
+   "name": "Converge Technology Solutions Corp.",
+   "exchange": "TSX",
+   "yahoo_symbol": "CTS.TO",
+   "instruments": [
+    {
+     "name": "Converge TechSoltn J",
+     "symbol": "CTS"
+    }
+   ]
+  },
+  {
+   "symbol": "CSA",
+   "name": "VictoryShares US Small Cap Volatility Wtd ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "CSA"
+  }
+ ]
+}
