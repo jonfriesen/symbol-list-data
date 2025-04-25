@@ -1,0 +1,66 @@
+{
+ "added": [
+  {
+   "symbol": "UNIPT",
+   "name": "Universal Protocol Token (UNIPT)"
+  },
+  {
+   "symbol": "VON",
+   "name": "Vameon (VON)"
+  },
+  {
+   "symbol": "BANKBRC",
+   "name": "BANK Ordinals (BANKBRC)"
+  },
+  {
+   "symbol": "AQDC",
+   "name": "AQDC (AQDC)"
+  },
+  {
+   "symbol": "HYPERSTAKE",
+   "name": "HyperStake (HYPERSTAKE)"
+  },
+  {
+   "symbol": "E4C",
+   "name": "E4C (E4C)"
+  },
+  {
+   "symbol": "20EX",
+   "name": "20ex (20EX)"
+  },
+  {
+   "symbol": "PINGO",
+   "name": "PinGo (PINGO)"
+  },
+  {
+   "symbol": "TTC",
+   "name": "TonTycoon (TTC)"
+  },
+  {
+   "symbol": "PROJECTPAI",
+   "name": "Project Pai (PROJECTPAI)"
+  },
+  {
+   "symbol": "BABYSWAP",
+   "name": "BabySwap (BABYSWAP)"
+  },
+  {
+   "symbol": "COCOROBNB",
+   "name": "Cocoro (COCOROBNB)"
+  },
+  {
+   "symbol": "ZEEP",
+   "name": "ZEEPR (ZEEP)"
+  },
+  {
+   "symbol": "BLOCKSSPACE",
+   "name": "Blocks Space (BLOCKSSPACE)"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "BABY",
+   "name": "BabySwap (BABY)"
+  }
+ ]
+}

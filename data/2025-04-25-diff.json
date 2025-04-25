@@ -1,0 +1,82 @@
+{
+ "added": [
+  {
+   "symbol": "SLT",
+   "name": "Saltire Capital Ltd.",
+   "exchange": "TSX",
+   "yahoo_symbol": "SLT.TO",
+   "instruments": [
+    {
+     "name": "Saltire Capital CAD",
+     "symbol": "SLT"
+    },
+    {
+     "name": "Saltire Capital USD",
+     "symbol": "SLT.U"
+    },
+    {
+     "name": "Saltire Cap Wts CAD",
+     "symbol": "SLT.WT"
+    },
+    {
+     "name": "Saltire Cap Wts USD ",
+     "symbol": "SLT.WT.U"
+    }
+   ]
+  },
+  {
+   "symbol": "NPACU",
+   "name": "New Providence Acquisition Corp. III - Units",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "NPACU"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "MKFG",
+   "name": "Markforged Holding Corporation Common Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "MKFG"
+  },
+  {
+   "symbol": "MR.UN",
+   "name": "Melcor Real Estate Investment Trust",
+   "exchange": "TSX",
+   "yahoo_symbol": "MR.UN.TO",
+   "instruments": [
+    {
+     "name": "Melcor REIT Un",
+     "symbol": "MR.UN"
+    }
+   ]
+  },
+  {
+   "symbol": "CTHR",
+   "name": "Charles \u0026 Colvard Ltd. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "CTHR"
+  },
+  {
+   "symbol": "SLT.U",
+   "name": "Saltire Capital Ltd.",
+   "exchange": "TSX",
+   "yahoo_symbol": "SLT.U.TO",
+   "instruments": [
+    {
+     "name": "Saltire Capital USD",
+     "symbol": "SLT.U"
+    },
+    {
+     "name": "Saltire Cap Wts USD ",
+     "symbol": "SLT.WT.U"
+    }
+   ]
+  },
+  {
+   "symbol": "WBX.W",
+   "name": "Wallbox N.V. Warrants, each warrant to purchase one Class A Ordinary Share",
+   "exchange": "NYSE",
+   "yahoo_symbol": "WBX.W"
+  }
+ ]
+}
