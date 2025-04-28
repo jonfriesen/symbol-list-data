@@ -1,0 +1,108 @@
+{
+ "added": [
+  {
+   "symbol": "APPX",
+   "name": "Tradr 2X Long APP Daily ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "APPX"
+  },
+  {
+   "symbol": "BCTXZ",
+   "name": "BriaCell Therapeutics Corp. - Warrant",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "BCTXZ"
+  },
+  {
+   "symbol": "CHACU",
+   "name": "Crane Harbor Acquisition Corp. - Units",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "CHACU"
+  },
+  {
+   "symbol": "INEO",
+   "name": "INNEOVA Holdings Limited - Ordinary Shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "INEO"
+  },
+  {
+   "symbol": "IPCXU",
+   "name": "Inflection Point Acquisition Corp. III - Units",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "IPCXU"
+  },
+  {
+   "symbol": "IVF",
+   "name": "INVO Fertility, Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "IVF"
+  },
+  {
+   "symbol": "PHOE",
+   "name": "Phoenix Asia Holdings Limited - Ordinary Shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "PHOE"
+  },
+  {
+   "symbol": "PLTG",
+   "name": "Leverage Shares 2X Long PLTR Daily ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "PLTG"
+  },
+  {
+   "symbol": "SSII",
+   "name": "SS Innovations International Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "SSII"
+  },
+  {
+   "symbol": "MIX",
+   "name": "Hamilton Enhanced Mixed Asset ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "MIX.TO",
+   "instruments": [
+    {
+     "name": "Hamilton Enh Mix Ase",
+     "symbol": "MIX"
+    }
+   ]
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "YOTAR",
+   "name": "Yotta Acquisition Corporation - Right",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "YOTAR"
+  },
+  {
+   "symbol": "SAG",
+   "name": "SAG Holdings Limited - Ordinary Shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "SAG"
+  },
+  {
+   "symbol": "YOTAU",
+   "name": "Yotta Acquisition Corporation - Unit",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "YOTAU"
+  },
+  {
+   "symbol": "YOTA",
+   "name": "Yotta Acquisition Corporation - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "YOTA"
+  },
+  {
+   "symbol": "NAYA",
+   "name": "NAYA Biosciences, Inc.  - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "NAYA"
+  },
+  {
+   "symbol": "YOTAW",
+   "name": "Yotta Acquisition Corporation - Warrant",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "YOTAW"
+  }
+ ]
+}

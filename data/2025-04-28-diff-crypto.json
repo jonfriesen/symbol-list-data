@@ -1,0 +1,20 @@
+{
+ "added": [
+  {
+   "symbol": "CROS",
+   "name": "Cros Token (CROS)"
+  },
+  {
+   "symbol": "EZSWAP",
+   "name": "EZswap Protocol (EZSWAP)"
+  },
+  {
+   "symbol": "XYRO",
+   "name": "XYRO (XYRO)"
+  },
+  {
+   "symbol": "SS20",
+   "name": "Shell Trade (SS20)"
+  }
+ ]
+}
