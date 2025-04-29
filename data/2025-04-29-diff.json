@@ -1,0 +1,102 @@
+{
+ "added": [
+  {
+   "symbol": "JBIO",
+   "name": "Jade Biosciences, Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "JBIO"
+  },
+  {
+   "symbol": "XBP",
+   "name": "XBP Europe Holdings, Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "XBP"
+  },
+  {
+   "symbol": "FLYY",
+   "name": "Spirit Aviation Holdings, Inc. Common Stock",
+   "exchange": "NYSE MKT",
+   "yahoo_symbol": "FLYY"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "MAU",
+   "name": "Montage Gold Corp.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "MAU.V",
+   "instruments": [
+    {
+     "name": "Montage Gold Corp.",
+     "symbol": "MAU"
+    }
+   ]
+  },
+  {
+   "symbol": "PITAW",
+   "name": "Heramba Electric plc - Warrants",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "PITAW"
+  },
+  {
+   "symbol": "AVTE",
+   "name": "Aerovate Therapeutics, Inc. - Common Stock",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "AVTE"
+  },
+  {
+   "symbol": "SEV",
+   "name": "Spectra7 Microsystems Inc.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "SEV.V",
+   "instruments": [
+    {
+     "name": "Spectra7 Microsystems Inc.",
+     "symbol": "SEV"
+    }
+   ]
+  },
+  {
+   "symbol": "QIE",
+   "name": "AGF Systematic International Equity ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "QIE.TO",
+   "instruments": [
+    {
+     "name": "AGF Sys Intl Eqty Un",
+     "symbol": "QIE"
+    }
+   ]
+  },
+  {
+   "symbol": "PITA",
+   "name": "Heramba Electric plc - Ordinary Shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "PITA"
+  },
+  {
+   "symbol": "QUS",
+   "name": "AGF Systematic US Equity ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "QUS.TO",
+   "instruments": [
+    {
+     "name": "AGF Sys US Eqty Un",
+     "symbol": "QUS"
+    }
+   ]
+  },
+  {
+   "symbol": "SPRB",
+   "name": "Spruce Biosciences, Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "SPRB"
+  },
+  {
+   "symbol": "XBP",
+   "name": "XBP Europe Holdings, Inc. - Common Stock",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "XBP"
+  }
+ ]
+}

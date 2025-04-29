@@ -1,0 +1,26 @@
+{
+ "added": [
+  {
+   "symbol": "FOCAI",
+   "name": "focai.fun (FOCAI)"
+  },
+  {
+   "symbol": "WHYPAD",
+   "name": "Unamano (WHYPAD)"
+  },
+  {
+   "symbol": "ESCC",
+   "name": "Eos Stable Coin Chain (ESCC)"
+  },
+  {
+   "symbol": "PLENA",
+   "name": "PLENA (PLENA)"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "ZEDCOIN",
+   "name": "ZedCoin (ZEDCOIN)"
+  }
+ ]
+}
