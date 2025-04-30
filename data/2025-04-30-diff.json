@@ -1,0 +1,192 @@
+{
+ "added": [
+  {
+   "symbol": "GSD",
+   "name": "Devonian Health Group Inc.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "GSD.V",
+   "instruments": [
+    {
+     "name": "Devonian Health Group Inc.",
+     "symbol": "GSD"
+    }
+   ]
+  },
+  {
+   "symbol": "SHLD",
+   "name": "Global X Defence Tech Index ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "SHLD.TO",
+   "instruments": [
+    {
+     "name": "Global X Def Tech Id",
+     "symbol": "SHLD"
+    }
+   ]
+  },
+  {
+   "symbol": "RNCL",
+   "name": "Global X Enhanced Equal Weight Canadian Telecommunications Covered Call ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "RNCL.TO",
+   "instruments": [
+    {
+     "name": "Glob X EnEqWe CDN Te",
+     "symbol": "RNCL"
+    }
+   ]
+  },
+  {
+   "symbol": "GLCL",
+   "name": "Global X Enhanced Gold Producer Equity Covered Call ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "GLCL.TO",
+   "instruments": [
+    {
+     "name": "Globl X Enh Gold Pro",
+     "symbol": "GLCL"
+    }
+   ]
+  },
+  {
+   "symbol": "REIT",
+   "name": "Global X Equal Weight Canadian REITs Index ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "REIT.TO",
+   "instruments": [
+    {
+     "name": "Globl X EqWe CDN REI",
+     "symbol": "REIT"
+    }
+   ]
+  },
+  {
+   "symbol": "RNCC",
+   "name": "Global X Equal Weight Canadian Telecommunications Covered Call ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "RNCC.TO",
+   "instruments": [
+    {
+     "name": "Globl X EqWe CDN Tel",
+     "symbol": "RNCC"
+    }
+   ]
+  },
+  {
+   "symbol": "MEDX",
+   "name": "Global X Equal Weight Global Healthcare Index ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "MEDX.TO",
+   "instruments": [
+    {
+     "name": "Globl X EqWe Gl Heal",
+     "symbol": "MEDX"
+    }
+   ]
+  },
+  {
+   "symbol": "UBNK",
+   "name": "Global X Equal Weight U.S. Banks Index ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "UBNK.TO",
+   "instruments": [
+    {
+     "name": "Global X EqWe US Bnk",
+     "symbol": "UBNK"
+    }
+   ]
+  },
+  {
+   "symbol": "UMRT",
+   "name": "Global X Equal Weight U.S. Groceries \u0026 Staples Index ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "UMRT.TO",
+   "instruments": [
+    {
+     "name": "Global X EqWe US Gro",
+     "symbol": "UMRT"
+    }
+   ]
+  },
+  {
+   "symbol": "MAU",
+   "name": "Montage Gold Corp.",
+   "exchange": "TSX",
+   "yahoo_symbol": "MAU.TO",
+   "instruments": [
+    {
+     "name": "Montage Gold Corp",
+     "symbol": "MAU"
+    }
+   ]
+  },
+  {
+   "symbol": "DAAQU",
+   "name": "Digital Asset Acquisition Corp. - Units",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "DAAQU"
+  },
+  {
+   "symbol": "GGR",
+   "name": "Gogoro Inc. - Ordinary Shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "GGR"
+  },
+  {
+   "symbol": "GGROW",
+   "name": "Gogoro Inc. - Warrant",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "GGROW"
+  },
+  {
+   "symbol": "RAAQU",
+   "name": "Real Asset Acquisition Corp. - Unit",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "RAAQU"
+  },
+  {
+   "symbol": "MPTI.W",
+   "name": "M-tron Industries, Inc. Warrants to Purchase Shares of Common Stock, Expiring on or before April 25, 2028",
+   "exchange": "NYSE MKT",
+   "yahoo_symbol": "MPTI.W"
+  },
+  {
+   "symbol": "SRXH",
+   "name": "SRX Health Solutions, Inc. Common Stock",
+   "exchange": "NYSE MKT",
+   "yahoo_symbol": "SRXH"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "BTTR",
+   "name": "Better Choice Company Inc. Common Stock",
+   "exchange": "NYSE MKT",
+   "yahoo_symbol": "BTTR"
+  },
+  {
+   "symbol": "GGROW",
+   "name": "Gogoro Inc. - Warrant",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "GGROW"
+  },
+  {
+   "symbol": "BERY",
+   "name": "Berry Global Group, Inc. Common Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "BERY"
+  },
+  {
+   "symbol": "BECN",
+   "name": "Beacon Roofing Supply, Inc. - Common Stock",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "BECN"
+  },
+  {
+   "symbol": "GGR",
+   "name": "Gogoro Inc. - Ordinary Shares",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "GGR"
+  }
+ ]
+}
