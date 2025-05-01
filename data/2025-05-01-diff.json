@@ -1,0 +1,156 @@
+{
+ "added": [
+  {
+   "symbol": "CGNT",
+   "name": "Copper Giant Resources Corp.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "CGNT.V",
+   "instruments": [
+    {
+     "name": "Copper Giant Resources Corp.",
+     "symbol": "CGNT"
+    }
+   ]
+  },
+  {
+   "symbol": "MAAA",
+   "name": "Mackenzie AAA CLO ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "MAAA.TO",
+   "instruments": [
+    {
+     "name": "Macknzie AAA CLO ETF",
+     "symbol": "MAAA"
+    }
+   ]
+  },
+  {
+   "symbol": "MTBA",
+   "name": "Mackenzie Target 2027 North American IG Corporate Bond ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "MTBA.TO",
+   "instruments": [
+    {
+     "name": "Macknzie Tg2027 NAIG",
+     "symbol": "MTBA"
+    }
+   ]
+  },
+  {
+   "symbol": "MTBB",
+   "name": "Mackenzie Target 2029 North American IG Corporate Bond ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "MTBB.TO",
+   "instruments": [
+    {
+     "name": "Macknzie Tg2029 NAIG",
+     "symbol": "MTBB"
+    }
+   ]
+  },
+  {
+   "symbol": "GBFH",
+   "name": "GBank Financial Holdings Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "GBFH"
+  },
+  {
+   "symbol": "LCCCU",
+   "name": "Lakeshore Acquisition III Corp. - Unit",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "LCCCU"
+  },
+  {
+   "symbol": "SMXT",
+   "name": "Solarmax Technology Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "SMXT"
+  },
+  {
+   "symbol": "TACOU",
+   "name": "Berto Acquisition Corp. - unit",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "TACOU"
+  },
+  {
+   "symbol": "YB",
+   "name": "Yuanbao Inc. - American Depositary Shares",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "YB"
+  },
+  {
+   "symbol": "CMDB.V",
+   "name": "Costamare Bulkers Holdings Limited Common Stock When-Issued",
+   "exchange": "NYSE",
+   "yahoo_symbol": "CMDB.V"
+  },
+  {
+   "symbol": "CMRE.V",
+   "name": "Costamare Inc. Common Stock When-Issued",
+   "exchange": "NYSE",
+   "yahoo_symbol": "CMRE.V"
+  },
+  {
+   "symbol": "COPL.U",
+   "name": "Copley Acquisition Corp Units, each consisting of one ordinary share and one-half warrant",
+   "exchange": "NYSE",
+   "yahoo_symbol": "COPL.U"
+  },
+  {
+   "symbol": "LUXE",
+   "name": "LuxExperience B.V. American Depositary Shares, each representing one Ordinary Share",
+   "exchange": "NYSE",
+   "yahoo_symbol": "LUXE"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "WMPN",
+   "name": "William Penn Bancorporation - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "WMPN"
+  },
+  {
+   "symbol": "QPM",
+   "name": "Quebec Precious Metals Corporation",
+   "exchange": "TSXV",
+   "yahoo_symbol": "QPM.V",
+   "instruments": [
+    {
+     "name": "Quebec Precious Metals Corporation",
+     "symbol": "QPM"
+    }
+   ]
+  },
+  {
+   "symbol": "LBC",
+   "name": "Libero Copper \u0026 Gold Corporation",
+   "exchange": "TSXV",
+   "yahoo_symbol": "LBC.V",
+   "instruments": [
+    {
+     "name": "Libero Copper \u0026 Gold Corporation",
+     "symbol": "LBC"
+    }
+   ]
+  },
+  {
+   "symbol": "PAVMZ",
+   "name": "PAVmed Inc. - Series Z Warrant",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "PAVMZ"
+  },
+  {
+   "symbol": "SMXT",
+   "name": "Solarmax Technology Inc. - Common Stock",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "SMXT"
+  },
+  {
+   "symbol": "MYTE",
+   "name": "MYT Netherlands Parent B.V. American Depositary Shares, each representing one Ordinary Share",
+   "exchange": "NYSE",
+   "yahoo_symbol": "MYTE"
+  }
+ ]
+}
