@@ -1,0 +1,84 @@
+{
+ "added": [
+  {
+   "symbol": "ADAP",
+   "name": "Adaptimmune Therapeutics plc - American Depositary Shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "ADAP"
+  },
+  {
+   "symbol": "AGGA",
+   "name": "Astoria Dynamic Core US Fixed Income ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "AGGA"
+  },
+  {
+   "symbol": "CJET",
+   "name": "Chijet Motor Company, Inc. - Ordinary Shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "CJET"
+  },
+  {
+   "symbol": "LIMN",
+   "name": "Liminatus Pharma, Inc. - Class A Common Stock",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "LIMN"
+  },
+  {
+   "symbol": "LIMNW",
+   "name": "Liminatus Pharma, Inc. - Warrants",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "LIMNW"
+  },
+  {
+   "symbol": "RDAGU",
+   "name": "Republic Digital Acquisition Company - Unit",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "RDAGU"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "CJET",
+   "name": "Chijet Motor Company, Inc. - Ordinary Shares",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "CJET"
+  },
+  {
+   "symbol": "SPLP",
+   "name": "Steel Partners Holdings LP LTD PARTNERSHIP UNIT",
+   "exchange": "NYSE",
+   "yahoo_symbol": "SPLP"
+  },
+  {
+   "symbol": "ADAP",
+   "name": "Adaptimmune Therapeutics plc - American Depositary Shares",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "ADAP"
+  },
+  {
+   "symbol": "SPLP$A",
+   "name": "Steel Partners Holdings LP 6.0% Series A Preferred Units, no par value",
+   "exchange": "NYSE",
+   "yahoo_symbol": "SPLP$A"
+  },
+  {
+   "symbol": "VCSA",
+   "name": "Vacasa, Inc. - Class A Common Stock",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "VCSA"
+  },
+  {
+   "symbol": "NURO",
+   "name": "NeuroMetrix, Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "NURO"
+  },
+  {
+   "symbol": "CMLS",
+   "name": "Cumulus Media Inc. - Class A Common Stock",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "CMLS"
+  }
+ ]
+}
