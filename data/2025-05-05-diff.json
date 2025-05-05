@@ -1,0 +1,102 @@
+{
+ "added": [
+  {
+   "symbol": "CEPT",
+   "name": "Cantor Equity Partners II, Inc. - Class A ordinary share",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "CEPT"
+  },
+  {
+   "symbol": "CGCTU",
+   "name": "Cartesian Growth Corporation III - unit",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "CGCTU"
+  },
+  {
+   "symbol": "DFDV",
+   "name": "DeFi Development Corp. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "DFDV"
+  },
+  {
+   "symbol": "GTENU",
+   "name": "Gores Holdings X, Inc. - Units",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "GTENU"
+  },
+  {
+   "symbol": "MAAS",
+   "name": "Highest Performances Holdings Inc. - American Depository Shares",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "MAAS"
+  },
+  {
+   "symbol": "MST",
+   "name": "Defiance Leveraged Long Income MSTR ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "MST"
+  },
+  {
+   "symbol": "SDM",
+   "name": "Smart Digital Group Limited - Ordinary Shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "SDM"
+  },
+  {
+   "symbol": "WSBK",
+   "name": "Winchester Bancorp, Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "WSBK"
+  },
+  {
+   "symbol": "ISOU",
+   "name": "IsoEnergy Ltd. Common Shares",
+   "exchange": "NYSE MKT",
+   "yahoo_symbol": "ISOU"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "STBX",
+   "name": "Starbox Group Holdings Ltd. - Class A Ordinary Shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "STBX"
+  },
+  {
+   "symbol": "EVBN",
+   "name": "Evans Bancorp, Inc. Common Stock",
+   "exchange": "NYSE MKT",
+   "yahoo_symbol": "EVBN"
+  },
+  {
+   "symbol": "AIMBU",
+   "name": "Aimfinity Investment Corp. I - Subunit",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "AIMBU"
+  },
+  {
+   "symbol": "HPH",
+   "name": "Highest Performances Holdings Inc. - American Depository Shares",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "HPH"
+  },
+  {
+   "symbol": "JNVR",
+   "name": "Janover Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "JNVR"
+  },
+  {
+   "symbol": "AIMAU",
+   "name": "Aimfinity Investment Corp. I - Unit",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "AIMAU"
+  },
+  {
+   "symbol": "AIMAW",
+   "name": "Aimfinity Investment Corp. I - Warrant",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "AIMAW"
+  }
+ ]
+}
