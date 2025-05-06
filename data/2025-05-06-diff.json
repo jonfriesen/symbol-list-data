@@ -1,0 +1,48 @@
+{
+ "added": [
+  {
+   "symbol": "HTO",
+   "name": "H2O America  - Common Stock",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "HTO"
+  },
+  {
+   "symbol": "LDRX",
+   "name": "SGI Enhanced Market Leaders ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "LDRX"
+  },
+  {
+   "symbol": "TGEN",
+   "name": "Tecogen Inc. Common Stock",
+   "exchange": "NYSE MKT",
+   "yahoo_symbol": "TGEN"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "YCBD$A",
+   "name": "cbdMD, Inc. 8.0% Series A Cumulative Convertible Preferred Stock",
+   "exchange": "NYSE MKT",
+   "yahoo_symbol": "YCBD$A"
+  },
+  {
+   "symbol": "HPQ",
+   "name": "HPQ Silicon Inc.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "HPQ.V",
+   "instruments": [
+    {
+     "name": "HPQ Silicon Inc.",
+     "symbol": "HPQ"
+    }
+   ]
+  },
+  {
+   "symbol": "SJW",
+   "name": "SJW Group - Common Stock",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "SJW"
+  }
+ ]
+}
