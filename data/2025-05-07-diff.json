@@ -1,0 +1,84 @@
+{
+ "added": [
+  {
+   "symbol": "CMDB",
+   "name": "Costamare Bulkers Holdings Limited Common Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "CMDB"
+  },
+  {
+   "symbol": "LION",
+   "name": "Lionsgate Studios Corp Common Shares",
+   "exchange": "NYSE",
+   "yahoo_symbol": "LION"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "LION",
+   "name": "Lionsgate Studios Corp. - Common Shares",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "LION"
+  },
+  {
+   "symbol": "CMDB.V",
+   "name": "Costamare Bulkers Holdings Limited Common Stock When-Issued",
+   "exchange": "NYSE",
+   "yahoo_symbol": "CMDB.V"
+  },
+  {
+   "symbol": "LGF.B",
+   "name": "Lions Gate Entertainment Corporation Class B Non-Voting Shares",
+   "exchange": "NYSE",
+   "yahoo_symbol": "LGF.B"
+  },
+  {
+   "symbol": "CMRE.V",
+   "name": "Costamare Inc. Common Stock When-Issued",
+   "exchange": "NYSE",
+   "yahoo_symbol": "CMRE.V"
+  },
+  {
+   "symbol": "GNFI",
+   "name": "Genifi Inc.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "GNFI.V",
+   "instruments": [
+    {
+     "name": "Genifi Inc.",
+     "symbol": "GNFI"
+    }
+   ]
+  },
+  {
+   "symbol": "LGF.A",
+   "name": "Lions Gate Entertainment Corporation Class A Voting Shares",
+   "exchange": "NYSE",
+   "yahoo_symbol": "LGF.A"
+  },
+  {
+   "symbol": "BMK",
+   "name": "MacDonald Mines Exploration Ltd.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "BMK.V",
+   "instruments": [
+    {
+     "name": "MacDonald Mines Exploration Ltd.",
+     "symbol": "BMK"
+    }
+   ]
+  },
+  {
+   "symbol": "EXN",
+   "name": "Excellon Resources Inc.",
+   "exchange": "TSX",
+   "yahoo_symbol": "EXN.TO",
+   "instruments": [
+    {
+     "name": "Excellon Resources J",
+     "symbol": "EXN"
+    }
+   ]
+  }
+ ]
+}

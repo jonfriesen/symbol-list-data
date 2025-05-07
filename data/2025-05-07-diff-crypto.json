@@ -1,0 +1,134 @@
+{
+ "added": [
+  {
+   "symbol": "SMIL",
+   "name": "Smile Token (SMIL)"
+  },
+  {
+   "symbol": "ANTMONS",
+   "name": "Antmons (ANTMONS)"
+  },
+  {
+   "symbol": "OVATO",
+   "name": "Ovato (OVATO)"
+  },
+  {
+   "symbol": "VISIONCITY",
+   "name": "Vision City (VISIONCITY)"
+  },
+  {
+   "symbol": "BABY",
+   "name": "Babylon (BABY)"
+  },
+  {
+   "symbol": "XR",
+   "name": "Xraders (XR)"
+  },
+  {
+   "symbol": "CAREBIT",
+   "name": "Carebit (CAREBIT)"
+  },
+  {
+   "symbol": "MANSONCOIN",
+   "name": "Manson Coin (MANSONCOIN)"
+  },
+  {
+   "symbol": "ELIXI",
+   "name": "Elixir (ELIXI)"
+  },
+  {
+   "symbol": "WELL3",
+   "name": "WELL3 (WELL3)"
+  },
+  {
+   "symbol": "TERRACOIN",
+   "name": "TerraCoin (TERRACOIN)"
+  },
+  {
+   "symbol": "BLAZECOIN",
+   "name": "Blaze (BLAZECOIN)"
+  },
+  {
+   "symbol": "CATSV2",
+   "name": "CatCoin Token (CATSV2)"
+  },
+  {
+   "symbol": "SPACELENS",
+   "name": "Spacelens (SPACELENS)"
+  },
+  {
+   "symbol": "SHIB20",
+   "name": "Shib2.0 (SHIB20)"
+  },
+  {
+   "symbol": "ZRCOIN",
+   "name": "ZrCoin (ZRCOIN)"
+  },
+  {
+   "symbol": "MINTCHAIN",
+   "name": "Mint (MINTCHAIN)"
+  },
+  {
+   "symbol": "IMBREX",
+   "name": "Imbrex (IMBREX)"
+  },
+  {
+   "symbol": "ASTONV",
+   "name": "Aston Villa Fan Token (ASTONV)"
+  },
+  {
+   "symbol": "KAIRO",
+   "name": "Kairo (KAIRO)"
+  },
+  {
+   "symbol": "GOFINDXR",
+   "name": "Gofind XR (GOFINDXR)"
+  },
+  {
+   "symbol": "HOLDCO",
+   "name": "HOLD (HOLDCO)"
+  },
+  {
+   "symbol": "SNAKETOKEN",
+   "name": "Snake Token (SNAKETOKEN)"
+  },
+  {
+   "symbol": "WORKCHAIN",
+   "name": "WorkChain.io (WORKCHAIN)"
+  },
+  {
+   "symbol": "MICROMINES",
+   "name": "Micromines (MICROMINES)"
+  },
+  {
+   "symbol": "TROLLC",
+   "name": "Trollcoin (TROLLC)"
+  },
+  {
+   "symbol": "BLOCKMAX",
+   "name": "BLOCKMAX (BLOCKMAX)"
+  },
+  {
+   "symbol": "MEETPLE",
+   "name": "Meetple (MEETPLE)"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "ZEDCOIN",
+   "name": "ZedCoin (ZEDCOIN)"
+  },
+  {
+   "symbol": "BABYLON",
+   "name": "Babylon (BABYLON)"
+  },
+  {
+   "symbol": "SOSNOVKINO",
+   "name": "Sosnovkino (SOSNOVKINO)"
+  },
+  {
+   "symbol": "SNK",
+   "name": "Snake Token (SNK)"
+  }
+ ]
+}
