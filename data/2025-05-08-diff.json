@@ -1,0 +1,150 @@
+{
+ "added": [
+  {
+   "symbol": "ASPSW",
+   "name": "Altisource Portfolio Solutions S.A. - Net Settle Stakeholder Warrants",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "ASPSW"
+  },
+  {
+   "symbol": "ASPSZ",
+   "name": "Altisource Portfolio Solutions S.A. - Cash Exercise Stakeholder Warrants",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "ASPSZ"
+  },
+  {
+   "symbol": "GURE",
+   "name": "Gulf Resources, Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "GURE"
+  },
+  {
+   "symbol": "IPODU",
+   "name": "Dune Acquisition Corporation II - Units",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "IPODU"
+  },
+  {
+   "symbol": "QQHG",
+   "name": "Invesco QQQ Hedged Advantage ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "QQHG"
+  },
+  {
+   "symbol": "QQWZ",
+   "name": "Pacer Cash COWZ 100-Nasdaq 100 Rotator ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "QQWZ"
+  },
+  {
+   "symbol": "STRZ",
+   "name": "Starz Entertainment Corp. - Common Shares",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "STRZ"
+  },
+  {
+   "symbol": "CNCO",
+   "name": "Core Nickel Corp.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "CNCO.V",
+   "instruments": [
+    {
+     "name": "Core Nickel Corp.",
+     "symbol": "CNCO"
+    }
+   ]
+  },
+  {
+   "symbol": "EXN",
+   "name": "Excellon Resources Inc.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "EXN.V",
+   "instruments": [
+    {
+     "name": "Excellon Resources Inc.",
+     "symbol": "EXN"
+    }
+   ]
+  },
+  {
+   "symbol": "AHL",
+   "name": "Aspen Insurance Holdings Limited Class A Ordinary Shares",
+   "exchange": "NYSE",
+   "yahoo_symbol": "AHL"
+  },
+  {
+   "symbol": "AII",
+   "name": "American Integrity Insurance Group, Inc. Common Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "AII"
+  },
+  {
+   "symbol": "FOUR$A",
+   "name": "Shift4 Payments, Inc. 6.00% Series A Mandatory Convertible Preferred Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "FOUR$A"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "IVCAU",
+   "name": "Investcorp AI Acquisition Corp. - Unit",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "IVCAU"
+  },
+  {
+   "symbol": "DSY",
+   "name": "Destiny Media Technologies Inc.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "DSY.V",
+   "instruments": [
+    {
+     "name": "Destiny Media Technologies Inc.",
+     "symbol": "DSY"
+    }
+   ]
+  },
+  {
+   "symbol": "ZCAR",
+   "name": "Zoomcar Holdings, Inc. - Common Stock",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "ZCAR"
+  },
+  {
+   "symbol": "PTN",
+   "name": "Palatin Technologies, Inc. Common Stock",
+   "exchange": "NYSE MKT",
+   "yahoo_symbol": "PTN"
+  },
+  {
+   "symbol": "IVCA",
+   "name": "Investcorp AI Acquisition Corp. - Class A Ordinary Shares",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "IVCA"
+  },
+  {
+   "symbol": "IVCAW",
+   "name": "Investcorp AI Acquisition Corp. - Warrant",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "IVCAW"
+  },
+  {
+   "symbol": "GURE",
+   "name": "Gulf Resources, Inc. - Common Stock",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "GURE"
+  },
+  {
+   "symbol": "ZCARW",
+   "name": "Zoomcar Holdings, Inc. - Warrants",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "ZCARW"
+  },
+  {
+   "symbol": "CNTM",
+   "name": "ConnectM Technology Solutions, Inc. - Common Stock",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "CNTM"
+  }
+ ]
+}
