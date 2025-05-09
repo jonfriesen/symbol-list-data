@@ -1,0 +1,198 @@
+{
+ "added": [
+  {
+   "symbol": "SPRO.P",
+   "name": "Sprock-It Acquisitions Ltd.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "SPRO.P.V",
+   "instruments": [
+    {
+     "name": "Sprock-It Acquisitions Ltd.",
+     "symbol": "SPRO.P"
+    }
+   ]
+  },
+  {
+   "symbol": "KRON",
+   "name": "Kronos Bio, Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "KRON"
+  },
+  {
+   "symbol": "WBUY",
+   "name": "WEBUY GLOBAL LTD. - Class A Ordinary Shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "WBUY"
+  },
+  {
+   "symbol": "APUS",
+   "name": "Apimeds Pharmaceuticals US, Inc. Common Stock",
+   "exchange": "NYSE MKT",
+   "yahoo_symbol": "APUS"
+  },
+  {
+   "symbol": "B",
+   "name": "Barrick Mining Corporation Common Shares",
+   "exchange": "NYSE",
+   "yahoo_symbol": "B"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "BMR",
+   "name": "Battery Mineral Resources Corp.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "BMR.V",
+   "instruments": [
+    {
+     "name": "Battery Mineral Resources Corp.",
+     "symbol": "BMR"
+    }
+   ]
+  },
+  {
+   "symbol": "IMC",
+   "name": "Ibero Mining Corp.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "IMC.V",
+   "instruments": [
+    {
+     "name": "Ibero Mining Corp.",
+     "symbol": "IMC"
+    }
+   ]
+  },
+  {
+   "symbol": "KRON",
+   "name": "Kronos Bio, Inc. - Common Stock",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "KRON"
+  },
+  {
+   "symbol": "ICRS",
+   "name": "Icarus Capital Corp.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "ICRS.V",
+   "instruments": [
+    {
+     "name": "Icarus Capital Corp.",
+     "symbol": "ICRS"
+    }
+   ]
+  },
+  {
+   "symbol": "BGA",
+   "name": "BioNeutra Global Corporation",
+   "exchange": "TSXV",
+   "yahoo_symbol": "BGA.V",
+   "instruments": [
+    {
+     "name": "BioNeutra Global Corporation",
+     "symbol": "BGA"
+    }
+   ]
+  },
+  {
+   "symbol": "BUJAU",
+   "name": "Bukit Jalil Global Acquisition 1 Ltd. - Unit",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "BUJAU"
+  },
+  {
+   "symbol": "GXX",
+   "name": "Gold Basin Resources Corporation",
+   "exchange": "TSXV",
+   "yahoo_symbol": "GXX.V",
+   "instruments": [
+    {
+     "name": "Gold Basin Resources Corporation",
+     "symbol": "GXX"
+    }
+   ]
+  },
+  {
+   "symbol": "GDX",
+   "name": "Goldex Resources Corporation",
+   "exchange": "TSXV",
+   "yahoo_symbol": "GDX.V",
+   "instruments": [
+    {
+     "name": "Goldex Resources Corporation",
+     "symbol": "GDX"
+    }
+   ]
+  },
+  {
+   "symbol": "GOLD",
+   "name": "Barrick Gold Corporation Common Stock (BC)",
+   "exchange": "NYSE",
+   "yahoo_symbol": "GOLD"
+  },
+  {
+   "symbol": "EON",
+   "name": "EON Lithium Corp.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "EON.V",
+   "instruments": [
+    {
+     "name": "EON Lithium Corp.",
+     "symbol": "EON"
+    }
+   ]
+  },
+  {
+   "symbol": "BUJA",
+   "name": "Bukit Jalil Global Acquisition 1 Ltd. - Ordinary Shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "BUJA"
+  },
+  {
+   "symbol": "EVMT",
+   "name": "Evome Medical Technologies Inc.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "EVMT.V",
+   "instruments": [
+    {
+     "name": "Evome Medical Technologies Inc.",
+     "symbol": "EVMT"
+    }
+   ]
+  },
+  {
+   "symbol": "OKAI",
+   "name": "EvokAI Creative Labs Inc.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "OKAI.V",
+   "instruments": [
+    {
+     "name": "EvokAI Creative Labs Inc.",
+     "symbol": "OKAI"
+    }
+   ]
+  },
+  {
+   "symbol": "BUJAR",
+   "name": "Bukit Jalil Global Acquisition 1 Ltd. - Rights",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "BUJAR"
+  },
+  {
+   "symbol": "BUJAW",
+   "name": "Bukit Jalil Global Acquisition 1 Ltd. - Warrants",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "BUJAW"
+  },
+  {
+   "symbol": "NZ",
+   "name": "New Zealand Energy Corp.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "NZ.V",
+   "instruments": [
+    {
+     "name": "New Zealand Energy Corp.",
+     "symbol": "NZ"
+    }
+   ]
+  }
+ ]
+}
