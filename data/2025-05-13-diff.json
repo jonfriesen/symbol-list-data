@@ -1,0 +1,150 @@
+{
+ "added": [
+  {
+   "symbol": "SIEN",
+   "name": "Sienna Resources Inc.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "SIEN.V",
+   "instruments": [
+    {
+     "name": "Sienna Resources Inc.",
+     "symbol": "SIEN"
+    }
+   ]
+  },
+  {
+   "symbol": "CVVY",
+   "name": "Cavvy Energy Ltd.",
+   "exchange": "TSX",
+   "yahoo_symbol": "CVVY.TO",
+   "instruments": [
+    {
+     "name": "Pieridae Energy",
+     "symbol": "CVVY"
+    }
+   ]
+  },
+  {
+   "symbol": "HSLV",
+   "name": "Highlander Silver Corp.",
+   "exchange": "TSX",
+   "yahoo_symbol": "HSLV.TO",
+   "instruments": [
+    {
+     "name": "Highlander Silver Co",
+     "symbol": "HSLV"
+    }
+   ]
+  },
+  {
+   "symbol": "DEFT",
+   "name": "Defi Technologies, Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "DEFT"
+  },
+  {
+   "symbol": "GSHR",
+   "name": "Gesher Acquisition Corp. II - Class A Ordinary Shares",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "GSHR"
+  },
+  {
+   "symbol": "GSHRW",
+   "name": "Gesher Acquisition Corp. II - Warrants",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "GSHRW"
+  },
+  {
+   "symbol": "GTM",
+   "name": "ZoomInfo Technologies Inc. - Common Stock",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "GTM"
+  },
+  {
+   "symbol": "ISBA",
+   "name": "Isabella Bank Corporation - Common stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "ISBA"
+  },
+  {
+   "symbol": "QSEA",
+   "name": "Quartzsea Acquisition Corporation - Ordinary Shares",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "QSEA"
+  },
+  {
+   "symbol": "QSEAR",
+   "name": "Quartzsea Acquisition Corporation - Rights",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "QSEAR"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "HEPA",
+   "name": "Hepion Pharmaceuticals, Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "HEPA"
+  },
+  {
+   "symbol": "ZI",
+   "name": "ZoomInfo Technologies Inc. - Common Stock",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "ZI"
+  },
+  {
+   "symbol": "VLV",
+   "name": "Venerable Ventures Ltd.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "VLV.V",
+   "instruments": [
+    {
+     "name": "Venerable Ventures Ltd.",
+     "symbol": "VLV"
+    }
+   ]
+  },
+  {
+   "symbol": "RENE",
+   "name": "Cartesian Growth Corporation II - Class A Ordinary Shares",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "RENE"
+  },
+  {
+   "symbol": "RENEU",
+   "name": "Cartesian Growth Corporation II - Unit",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "RENEU"
+  },
+  {
+   "symbol": "RENEW",
+   "name": "Cartesian Growth Corporation II - Warrant",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "RENEW"
+  },
+  {
+   "symbol": "SIE",
+   "name": "Sienna Resources Inc.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "SIE.V",
+   "instruments": [
+    {
+     "name": "Sienna Resources Inc.",
+     "symbol": "SIE"
+    }
+   ]
+  },
+  {
+   "symbol": "PEA",
+   "name": "Pieridae Energy Limited",
+   "exchange": "TSX",
+   "yahoo_symbol": "PEA.TO",
+   "instruments": [
+    {
+     "name": "Pieridae Energy",
+     "symbol": "PEA"
+    }
+   ]
+  }
+ ]
+}
