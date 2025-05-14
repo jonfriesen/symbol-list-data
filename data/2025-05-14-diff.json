@@ -1,0 +1,144 @@
+{
+ "added": [
+  {
+   "symbol": "CALB",
+   "name": "CIBC Canadian Government Long-Term Bond ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "CALB.TO",
+   "instruments": [
+    {
+     "name": "CIBC Cdn Gvt LT Bond",
+     "symbol": "CALB"
+    }
+   ]
+  },
+  {
+   "symbol": "CCAD",
+   "name": "CIBC Premium Cash Management ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "CCAD.TO",
+   "instruments": [
+    {
+     "name": "CIBC Pre Cash Mg ETF",
+     "symbol": "CCAD"
+    }
+   ]
+  },
+  {
+   "symbol": "CUSD.U",
+   "name": "CIBC USD Premium Cash Management ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "CUSD.U.TO",
+   "instruments": [
+    {
+     "name": "CIBC US Pre Cash Mgt",
+     "symbol": "CUSD.U"
+    }
+   ]
+  },
+  {
+   "symbol": "ALTN",
+   "name": "Aeonian Resources Corp.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "ALTN.V",
+   "instruments": [
+    {
+     "name": "Aeonian Resources Corp.",
+     "symbol": "ALTN"
+    }
+   ]
+  },
+  {
+   "symbol": "CSG",
+   "name": "Cosigo Resources Ltd.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "CSG.V",
+   "instruments": [
+    {
+     "name": "Cosigo Resources Ltd.",
+     "symbol": "CSG"
+    }
+   ]
+  },
+  {
+   "symbol": "JAPN",
+   "name": "Horizon Kinetics Japan Owner Operator ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "JAPN"
+  },
+  {
+   "symbol": "NVYY",
+   "name": "GraniteShares YieldBOOST NVDA ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "NVYY"
+  },
+  {
+   "symbol": "OMSE",
+   "name": "OMS Energy Technologies Inc. - Ordinary Shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "OMSE"
+  },
+  {
+   "symbol": "PMTRU",
+   "name": "Perimeter Acquisition Corp. I - Unit",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "PMTRU"
+  },
+  {
+   "symbol": "XBTY",
+   "name": "GraniteShares YieldBOOST Bitcoin ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "XBTY"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "VRN",
+   "name": "Veren Inc.",
+   "exchange": "TSX",
+   "yahoo_symbol": "VRN.TO",
+   "instruments": [
+    {
+     "name": "Veren Inc.",
+     "symbol": "VRN"
+    }
+   ]
+  },
+  {
+   "symbol": "TSVT",
+   "name": "2seventy bio, Inc. - Common Stock",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "TSVT"
+  },
+  {
+   "symbol": "AQS",
+   "name": "Aequus Pharmaceuticals Inc.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "AQS.V",
+   "instruments": [
+    {
+     "name": "Aequus Pharmaceuticals Inc.",
+     "symbol": "AQS"
+    }
+   ]
+  },
+  {
+   "symbol": "FINS.R",
+   "name": "Angel Oak Financial Strategies Income Term Trust Rights (expiring May 14, 2025) Rights",
+   "exchange": "NYSE",
+   "yahoo_symbol": "FINS.R"
+  },
+  {
+   "symbol": "ALTN.P",
+   "name": "Altina Capital Corp.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "ALTN.P.V",
+   "instruments": [
+    {
+     "name": "Altina Capital Corp.",
+     "symbol": "ALTN.P"
+    }
+   ]
+  }
+ ]
+}

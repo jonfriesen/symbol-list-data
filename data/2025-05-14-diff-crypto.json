@@ -1,0 +1,70 @@
+{
+ "added": [
+  {
+   "symbol": "EVOVERSES",
+   "name": "EvoVerses (EVOVERSES)"
+  },
+  {
+   "symbol": "DIAMON",
+   "name": "Diamond (DIAMON)"
+  },
+  {
+   "symbol": "ORNG",
+   "name": "Juice Town (ORNG)"
+  },
+  {
+   "symbol": "FUDFINANCE",
+   "name": "FUD.finance (FUDFINANCE)"
+  },
+  {
+   "symbol": "ORBI",
+   "name": "Orbs (ORBI)"
+  },
+  {
+   "symbol": "GROWAI",
+   "name": "SocialGrowAI (GROWAI)"
+  },
+  {
+   "symbol": "PURGE",
+   "name": "Forgive Me Father (PURGE)"
+  },
+  {
+   "symbol": "GLIZZY",
+   "name": "GLIZZY (GLIZZY)"
+  },
+  {
+   "symbol": "SPOT",
+   "name": "Spotcoin (SPOT)"
+  },
+  {
+   "symbol": "ITHACA",
+   "name": "Ithaca Protocol (ITHACA)"
+  },
+  {
+   "symbol": "MONART",
+   "name": "Monart (MONART)"
+  },
+  {
+   "symbol": "HENAI",
+   "name": "HenjinAI Token (HENAI)"
+  },
+  {
+   "symbol": "SAVEOCEAN",
+   "name": "Save The Ocean (SAVEOCEAN)"
+  },
+  {
+   "symbol": "MILKSHAKE",
+   "name": "Milkshake Swap (MILKSHAKE)"
+  },
+  {
+   "symbol": "UNA",
+   "name": "Unagi Token (UNA)"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "ZEDCOIN",
+   "name": "ZedCoin (ZEDCOIN)"
+  }
+ ]
+}
