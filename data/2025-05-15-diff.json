@@ -1,0 +1,128 @@
+{
+ "added": [
+  {
+   "symbol": "BTCO.B",
+   "name": "Purpose Core Bitcoin ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "BTCO.B.TO",
+   "instruments": [
+    {
+     "name": "Purpose CorBit CA HD",
+     "symbol": "BTCO.B"
+    },
+    {
+     "name": "Purpose CorBit US HD",
+     "symbol": "BTCO.U"
+    }
+   ]
+  },
+  {
+   "symbol": "ETHO.B",
+   "name": "Purpose Core Ether ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "ETHO.B.TO",
+   "instruments": [
+    {
+     "name": "Purpose CoEth CAD HD",
+     "symbol": "ETHO.B"
+    },
+    {
+     "name": "Purpose CoEth USD HD",
+     "symbol": "ETHO.U"
+    }
+   ]
+  },
+  {
+   "symbol": "ANTA",
+   "name": "Antalpha Platform Holding Company - Ordinary Shares",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "ANTA"
+  },
+  {
+   "symbol": "CCCXU",
+   "name": "Churchill Capital Corp X - Unit",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "CCCXU"
+  },
+  {
+   "symbol": "ETOR",
+   "name": "eToro Group Ltd. - Class A Common Shares",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "ETOR"
+  },
+  {
+   "symbol": "IQST",
+   "name": "iQSTEL Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "IQST"
+  },
+  {
+   "symbol": "KWM",
+   "name": "K Wave Media, Ltd. - Ordinary Shares",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "KWM"
+  },
+  {
+   "symbol": "KWMWW",
+   "name": "K Wave Media, Ltd. - Warrant",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "KWMWW"
+  },
+  {
+   "symbol": "RIFR",
+   "name": "Global Infrastructure Active ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "RIFR"
+  },
+  {
+   "symbol": "RINT",
+   "name": "International Developed Equity Active ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "RINT"
+  },
+  {
+   "symbol": "RUSC",
+   "name": "US Small Cap Equity Active ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "RUSC"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "GRFX",
+   "name": "Graphex Group Limited American Depositary Shares, each representing twenty (20) Ordinary Shares",
+   "exchange": "NYSE MKT",
+   "yahoo_symbol": "GRFX"
+  },
+  {
+   "symbol": "AXDX",
+   "name": "Accelerate Diagnostics, Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "AXDX"
+  },
+  {
+   "symbol": "PAPL",
+   "name": "Pineapple Financial Inc. Common Stock",
+   "exchange": "NYSE MKT",
+   "yahoo_symbol": "PAPL"
+  },
+  {
+   "symbol": "DESP",
+   "name": "Despegar.com, Corp. Ordinary Shares",
+   "exchange": "NYSE",
+   "yahoo_symbol": "DESP"
+  },
+  {
+   "symbol": "RTC",
+   "name": "Baijiayun Group Ltd - Class A Ordinary Shares",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "RTC"
+  },
+  {
+   "symbol": "FNGA",
+   "name": "MicroSectors FANG  Index 3X Leveraged ETNs due January 8, 2038",
+   "exchange": "NYSE ARCA",
+   "yahoo_symbol": "FNGA"
+  }
+ ]
+}

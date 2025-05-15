@@ -1,0 +1,52 @@
+{
+ "added": [
+  {
+   "symbol": "PRAI",
+   "name": "Privasea AI (PRAI)"
+  },
+  {
+   "symbol": "AGRI",
+   "name": "AgriDex Token (AGRI)"
+  },
+  {
+   "symbol": "NEURO",
+   "name": "NeuroWeb (NEURO)"
+  },
+  {
+   "symbol": "SNPT",
+   "name": "SNPIT TOKEN (SNPT)"
+  },
+  {
+   "symbol": "FYDE",
+   "name": "Fyde (FYDE)"
+  },
+  {
+   "symbol": "ZAAR",
+   "name": "THE•ORDZAAR•RUNES (ZAAR)"
+  },
+  {
+   "symbol": "BEES",
+   "name": "BEEs (BEES)"
+  },
+  {
+   "symbol": "GORK",
+   "name": "New XAI gork (GORK)"
+  },
+  {
+   "symbol": "CLND",
+   "name": "COLEND (CLND)"
+  },
+  {
+   "symbol": "BYIN",
+   "name": "BYIN (BYIN)"
+  },
+  {
+   "symbol": "MIRX",
+   "name": "Mirada AI (MIRX)"
+  },
+  {
+   "symbol": "SMB",
+   "name": "SMB Token (SMB)"
+  }
+ ]
+}
