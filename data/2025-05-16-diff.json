@@ -1,0 +1,60 @@
+{
+ "added": [
+  {
+   "symbol": "ARAI",
+   "name": "Arrive AI Inc. - Common Stock",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "ARAI"
+  },
+  {
+   "symbol": "RNIN",
+   "name": "Bushido Capital US SMID Cap Equity ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "RNIN"
+  },
+  {
+   "symbol": "RTACU",
+   "name": "Renatus Tactical Acquisition Corp I - Unit",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "RTACU"
+  },
+  {
+   "symbol": "TVAIU",
+   "name": "Thayer Ventures Acquisition Corporation II - Unit",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "TVAIU"
+  },
+  {
+   "symbol": "ZDAI",
+   "name": "Primega Group Holdings Limited - Ordinary Shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "ZDAI"
+  },
+  {
+   "symbol": "TWOD",
+   "name": "Two Harbors Investments Corp 9.375% Senior Notes due 2030",
+   "exchange": "NYSE",
+   "yahoo_symbol": "TWOD"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "WW",
+   "name": "WW International, Inc.  - Common Stock",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "WW"
+  },
+  {
+   "symbol": "PGHL",
+   "name": "Primega Group Holdings Limited - Ordinary Shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "PGHL"
+  },
+  {
+   "symbol": "ALLK",
+   "name": "Allakos Inc. - Common Stock",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "ALLK"
+  }
+ ]
+}
