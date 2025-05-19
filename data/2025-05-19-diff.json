@@ -1,0 +1,78 @@
+{
+ "added": [
+  {
+   "symbol": "AACG",
+   "name": "ATA Creativity Global - American Depositary Shares, each representing two common shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "AACG"
+  },
+  {
+   "symbol": "AVGG",
+   "name": "Leverage Shares 2X Long AVGO Daily ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "AVGG"
+  },
+  {
+   "symbol": "CCCMU",
+   "name": "Columbus Circle Capital Corp I - Units",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "CCCMU"
+  },
+  {
+   "symbol": "GLXY",
+   "name": "Galaxy Digital Inc. - Class A common stock",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "GLXY"
+  },
+  {
+   "symbol": "TVA",
+   "name": "Texas Ventures Acquisition III Corp - Class A Ordinary Share",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "TVA"
+  },
+  {
+   "symbol": "TVACW",
+   "name": "Texas Ventures Acquisition III Corp - Warrants",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "TVACW"
+  },
+  {
+   "symbol": "WENNU",
+   "name": "Wen Acquisition Corp - Unit",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "WENNU"
+  },
+  {
+   "symbol": "MTEST",
+   "name": "NYSE Texas, Inc. TEST Common Stock",
+   "exchange": "UNKNOWN",
+   "yahoo_symbol": "MTEST"
+  },
+  {
+   "symbol": "TIC",
+   "name": "Acuren Corporation Common Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "TIC"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "AACG",
+   "name": "ATA Creativity Global - American Depositary Shares, each representing two common shares",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "AACG"
+  },
+  {
+   "symbol": "DFS",
+   "name": "Discover Financial Services Common Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "DFS"
+  },
+  {
+   "symbol": "TIC",
+   "name": "Acuren Corporation Common Stock",
+   "exchange": "NYSE MKT",
+   "yahoo_symbol": "TIC"
+  }
+ ]
+}
