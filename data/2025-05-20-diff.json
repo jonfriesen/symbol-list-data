@@ -1,0 +1,108 @@
+{
+ "added": [
+  {
+   "symbol": "HPQ",
+   "name": "HPQ Silicon Inc.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "HPQ.V",
+   "instruments": [
+    {
+     "name": "HPQ Silicon Inc.",
+     "symbol": "HPQ"
+    }
+   ]
+  },
+  {
+   "symbol": "MER",
+   "name": "Meren Energy Inc.",
+   "exchange": "TSX",
+   "yahoo_symbol": "MER.TO",
+   "instruments": [
+    {
+     "name": "Africa Oil Corp. J",
+     "symbol": "MER"
+    }
+   ]
+  },
+  {
+   "symbol": "CHAC",
+   "name": "Crane Harbor Acquisition Corp. - Class A Ordinary Shares",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "CHAC"
+  },
+  {
+   "symbol": "CHACR",
+   "name": "Crane Harbor Acquisition Corp. - Rights",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "CHACR"
+  },
+  {
+   "symbol": "NEE$U",
+   "name": "NextEra Energy, Inc. Series U Junior Subordinated Debentures due June 1, 2085",
+   "exchange": "NYSE",
+   "yahoo_symbol": "NEE$U"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "APCX",
+   "name": "AppTech Payments Corp. - Common stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "APCX"
+  },
+  {
+   "symbol": "AOI",
+   "name": "Africa Oil Corp.",
+   "exchange": "TSX",
+   "yahoo_symbol": "AOI.TO",
+   "instruments": [
+    {
+     "name": "Africa Oil Corp. J",
+     "symbol": "AOI"
+    }
+   ]
+  },
+  {
+   "symbol": "APCXW",
+   "name": "AppTech Payments Corp. - Warrant",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "APCXW"
+  },
+  {
+   "symbol": "MMS",
+   "name": "Macarthur Minerals Limited",
+   "exchange": "TSXV",
+   "yahoo_symbol": "MMS.V",
+   "instruments": [
+    {
+     "name": "Macarthur Minerals Limited",
+     "symbol": "MMS"
+    }
+   ]
+  },
+  {
+   "symbol": "ZAPPW",
+   "name": "Zapp Electric Vehicles Group Limited - Warrant",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "ZAPPW"
+  },
+  {
+   "symbol": "ZAPP",
+   "name": "Zapp Electric Vehicles Group Limited - Ordinary shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "ZAPP"
+  },
+  {
+   "symbol": "DMN",
+   "name": "Damon Inc. - Common Stock",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "DMN"
+  },
+  {
+   "symbol": "AFMD",
+   "name": "Affimed N.V. - Common Stock",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "AFMD"
+  }
+ ]
+}
