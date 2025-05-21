@@ -1,0 +1,82 @@
+{
+ "added": [
+  {
+   "symbol": "THINGSOP",
+   "name": "ThingsOperatingSystem (THINGSOP)"
+  },
+  {
+   "symbol": "BIAOCOIN",
+   "name": "Biaocoin (BIAOCOIN)"
+  },
+  {
+   "symbol": "KOKOSWAP",
+   "name": "KokoSwap (KOKOSWAP)"
+  },
+  {
+   "symbol": "WHYPADV1",
+   "name": "Unamano v1 (WHYPADV1)"
+  },
+  {
+   "symbol": "SPICETOKEN",
+   "name": "Spice (SPICETOKEN)"
+  },
+  {
+   "symbol": "ANCIENTKING",
+   "name": "Ancient Kingdom (ANCIENTKING)"
+  },
+  {
+   "symbol": "OWNLY",
+   "name": "Ownly (OWNLY)"
+  },
+  {
+   "symbol": "EZSWAPV1",
+   "name": "EZswap Protocol v1 (EZSWAPV1)"
+  },
+  {
+   "symbol": "MIRAIBUILD",
+   "name": "MIRAI (MIRAIBUILD)"
+  },
+  {
+   "symbol": "AGATOKEN",
+   "name": "AGA Token (AGATOKEN)"
+  },
+  {
+   "symbol": "AUTISMTOKEN",
+   "name": "AUTISM (AUTISMTOKEN)"
+  },
+  {
+   "symbol": "SPOTCOIN",
+   "name": "Spotcoin (SPOTCOIN)"
+  },
+  {
+   "symbol": "BEEPBOOP",
+   "name": "Boop (BEEPBOOP)"
+  },
+  {
+   "symbol": "BOMBTOKEN",
+   "name": "BOMB (BOMBTOKEN)"
+  },
+  {
+   "symbol": "STREAMIT",
+   "name": "STREAMIT COIN (STREAMIT)"
+  },
+  {
+   "symbol": "EMBERCOIN",
+   "name": "EmberCoin (EMBERCOIN)"
+  },
+  {
+   "symbol": "GAME5BALL",
+   "name": "Game 5 BALL (GAME5BALL)"
+  },
+  {
+   "symbol": "ECLIPSE",
+   "name": "Eclipse (ECLIPSE)"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "ZEDCOIN",
+   "name": "ZedCoin (ZEDCOIN)"
+  }
+ ]
+}

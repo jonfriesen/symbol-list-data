@@ -1,0 +1,72 @@
+{
+ "added": [
+  {
+   "symbol": "VMET",
+   "name": "Versamet Royalties Corporation",
+   "exchange": "TSXV",
+   "yahoo_symbol": "VMET.V",
+   "instruments": [
+    {
+     "name": "Versamet Royalties Corporation",
+     "symbol": "VMET"
+    }
+   ]
+  },
+  {
+   "symbol": "MCAN",
+   "name": "Manulife Canadian Equity Class",
+   "exchange": "TSX",
+   "yahoo_symbol": "MCAN.TO",
+   "instruments": [
+    {
+     "name": "Manulife Cdn Eqt Cls",
+     "symbol": "MCAN"
+    }
+   ]
+  },
+  {
+   "symbol": "MCOR",
+   "name": "Manulife Core Plus Bond Fund",
+   "exchange": "TSX",
+   "yahoo_symbol": "MCOR.TO",
+   "instruments": [
+    {
+     "name": "Manulife Cor Pl Bd F",
+     "symbol": "MCOR"
+    }
+   ]
+  },
+  {
+   "symbol": "MDIF",
+   "name": "Manulife Dividend Income Fund",
+   "exchange": "TSX",
+   "yahoo_symbol": "MDIF.TO",
+   "instruments": [
+    {
+     "name": "Manulife Divd Inc Fd",
+     "symbol": "MDIF"
+    }
+   ]
+  },
+  {
+   "symbol": "MFUN",
+   "name": "Manulife Fundamental Equity Fund",
+   "exchange": "TSX",
+   "yahoo_symbol": "MFUN.TO",
+   "instruments": [
+    {
+     "name": "Manulife Fdml Eqt Fd",
+     "symbol": "MFUN"
+    }
+   ]
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "JWN",
+   "name": "Nordstrom, Inc. Common Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "JWN"
+  }
+ ]
+}
