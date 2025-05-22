@@ -1,0 +1,78 @@
+{
+ "added": [
+  {
+   "symbol": "AACIU",
+   "name": "Armada Acquisition Corp. II - Units",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "AACIU"
+  },
+  {
+   "symbol": "IDEF",
+   "name": "iShares Defense Industrials Active ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "IDEF"
+  },
+  {
+   "symbol": "OFAL",
+   "name": "OFA Group - Ordinary shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "OFAL"
+  },
+  {
+   "symbol": "PCAPU",
+   "name": "ProCap Acquisition Corp - Unit",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "PCAPU"
+  },
+  {
+   "symbol": "HNGE",
+   "name": "Hinge Health, Inc. Class A Common Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "HNGE"
+  },
+  {
+   "symbol": "MNTN",
+   "name": "MNTN, Inc. Class A Common Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "MNTN"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "OPTN",
+   "name": "OptiNose, Inc. - Common Stock",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "OPTN"
+  },
+  {
+   "symbol": "SLRN",
+   "name": "ACELYRIN, INC. - Common Stock",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "SLRN"
+  },
+  {
+   "symbol": "PTPI",
+   "name": "Petros Pharmaceuticals, Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "PTPI"
+  },
+  {
+   "symbol": "ICCT",
+   "name": "iCoreConnect Inc. - Common stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "ICCT"
+  },
+  {
+   "symbol": "ASND",
+   "name": "Ascendant Resources Inc.",
+   "exchange": "TSX",
+   "yahoo_symbol": "ASND.TO",
+   "instruments": [
+    {
+     "name": "Ascendant Res J",
+     "symbol": "ASND"
+    }
+   ]
+  }
+ ]
+}

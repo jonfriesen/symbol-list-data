@@ -1,0 +1,44 @@
+{
+ "added": [
+  {
+   "symbol": "MPTV1",
+   "name": "Miracleplay Token v1 (MPTV1)"
+  },
+  {
+   "symbol": "MAECENAS",
+   "name": "Maecenas (MAECENAS)"
+  },
+  {
+   "symbol": "BEBEV1",
+   "name": "BEBE v1 (BEBEV1)"
+  },
+  {
+   "symbol": "EARNGUILD",
+   "name": "EarnGuild (EARNGUILD)"
+  },
+  {
+   "symbol": "MELDV1",
+   "name": "MELD v1 (MELDV1)"
+  },
+  {
+   "symbol": "WEAVE6",
+   "name": "Weave6 (WEAVE6)"
+  },
+  {
+   "symbol": "DOCTO",
+   "name": "DoctorX (DOCTO)"
+  },
+  {
+   "symbol": "MEMBERSHIP",
+   "name": "Membership Placeholders (MEMBERSHIP)"
+  },
+  {
+   "symbol": "UNIR",
+   "name": "UniRouter (UNIR)"
+  },
+  {
+   "symbol": "ZENPROTOCOL",
+   "name": "Zen Protocol (ZENPROTOCOL)"
+  }
+ ]
+}
