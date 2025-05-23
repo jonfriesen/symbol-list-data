@@ -1,0 +1,56 @@
+{
+ "added": [
+  {
+   "symbol": "SIGNMETA",
+   "name": "Sign Token (SIGNMETA)"
+  },
+  {
+   "symbol": "STMXV1",
+   "name": "StormX v1 (STMXV1)"
+  },
+  {
+   "symbol": "anyeth1",
+   "name": "anyeth1 (anyeth1)"
+  },
+  {
+   "symbol": "UNIPOWER",
+   "name": "UniPower (UNIPOWER)"
+  },
+  {
+   "symbol": "IONOMY",
+   "name": "Ionomy (IONOMY)"
+  },
+  {
+   "symbol": "WORLDOFD",
+   "name": "World of Defish (WORLDOFD)"
+  },
+  {
+   "symbol": "REALPUMPITCOIN",
+   "name": "PUMP (REALPUMPITCOIN)"
+  },
+  {
+   "symbol": "FIBOS",
+   "name": "FIBOS (FIBOS)"
+  },
+  {
+   "symbol": "BITSEEDS",
+   "name": "BitSeeds (BITSEEDS)"
+  },
+  {
+   "symbol": "ALPHAPLATFORM",
+   "name": "Alpha Token (ALPHAPLATFORM)"
+  },
+  {
+   "symbol": "CALCI",
+   "name": "Calcium (CALCI)"
+  },
+  {
+   "symbol": "GREENCOIN",
+   "name": "Greencoin (GREENCOIN)"
+  },
+  {
+   "symbol": "HAWALA",
+   "name": "HAWALA (HAWALA)"
+  }
+ ]
+}
