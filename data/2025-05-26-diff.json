@@ -1,0 +1,114 @@
+{
+ "added": [
+  {
+   "symbol": "KSM",
+   "name": "Kirkstone Metals Corp.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "KSM.V",
+   "instruments": [
+    {
+     "name": "Kirkstone Metals Corp.",
+     "symbol": "KSM"
+    }
+   ]
+  },
+  {
+   "symbol": "RFX",
+   "name": "Reeflex Solutions Inc.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "RFX.V",
+   "instruments": [
+    {
+     "name": "Reeflex Solutions Inc.",
+     "symbol": "RFX"
+    }
+   ]
+  },
+  {
+   "symbol": "TRBR",
+   "name": "TRUBAR Inc.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "TRBR.V",
+   "instruments": [
+    {
+     "name": "TRUBAR Inc.",
+     "symbol": "TRBR"
+    }
+   ]
+  },
+  {
+   "symbol": "VLD",
+   "name": "Vinland Lithium Inc.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "VLD.V",
+   "instruments": [
+    {
+     "name": "Vinland Lithium Inc.",
+     "symbol": "VLD"
+    }
+   ]
+  },
+  {
+   "symbol": "BEEP",
+   "name": "Mobile Infrastructure Corporation - Common Stock",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "BEEP"
+  },
+  {
+   "symbol": "CRACU",
+   "name": "Cal Redwood Acquisition Corp. - Units",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "CRACU"
+  },
+  {
+   "symbol": "FTRK",
+   "name": "FAST TRACK GROUP - Ordinary shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "FTRK"
+  },
+  {
+   "symbol": "PELIU",
+   "name": "Pelican Acquisition Corporation - Unit",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "PELIU"
+  },
+  {
+   "symbol": "SZZL",
+   "name": "Sizzle Acquisition Corp. II - Class A ordinary shares",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "SZZL"
+  },
+  {
+   "symbol": "SZZLR",
+   "name": "Sizzle Acquisition Corp. II - Right",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "SZZLR"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "STAK.P",
+   "name": "Bigstack Opportunities I Inc.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "STAK.P.V",
+   "instruments": [
+    {
+     "name": "BigStack Opportunities Inc.",
+     "symbol": "STAK.P"
+    }
+   ]
+  },
+  {
+   "symbol": "SBBC",
+   "name": "Simply Better Brands Corp.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "SBBC.V",
+   "instruments": [
+    {
+     "name": "Simply Better Brands Corp.",
+     "symbol": "SBBC"
+    }
+   ]
+  }
+ ]
+}

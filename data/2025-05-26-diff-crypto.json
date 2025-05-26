@@ -1,0 +1,52 @@
+{
+ "added": [
+  {
+   "symbol": "MAOMEME",
+   "name": "Mao (MAOMEME)"
+  },
+  {
+   "symbol": "SPACEHAMSTER",
+   "name": "Space Hamster (SPACEHAMSTER)"
+  },
+  {
+   "symbol": "MINDSYNC",
+   "name": "Mindsync (MINDSYNC)"
+  },
+  {
+   "symbol": "NETCOI",
+   "name": "NetCoin (NETCOI)"
+  },
+  {
+   "symbol": "HASHNET",
+   "name": "HashNet BitEco (HASHNET)"
+  },
+  {
+   "symbol": "RUBIUS",
+   "name": "Rubius (RUBIUS)"
+  },
+  {
+   "symbol": "ZEDCOIN",
+   "name": "ZedCoin (ZEDCOIN)"
+  },
+  {
+   "symbol": "MINIAPPS",
+   "name": "MiniApps (MINIAPPS)"
+  },
+  {
+   "symbol": "AEROME",
+   "name": "AeroMe (AEROME)"
+  },
+  {
+   "symbol": "SLK",
+   "name": "SLK (SLK)"
+  },
+  {
+   "symbol": "SMARTCASH",
+   "name": "SmartCash (SMARTCASH)"
+  },
+  {
+   "symbol": "TOKENPLACE",
+   "name": "Tokenplace (TOKENPLACE)"
+  }
+ ]
+}
