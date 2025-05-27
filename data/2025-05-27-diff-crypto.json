@@ -1,0 +1,28 @@
+{
+ "added": [
+  {
+   "symbol": "TOMA",
+   "name": "TomaInfo (TOMA)"
+  },
+  {
+   "symbol": "ASMAT",
+   "name": "AsMatch (ASMAT)"
+  },
+  {
+   "symbol": "BCPAY",
+   "name": "Bitcashpay (BCPAY)"
+  },
+  {
+   "symbol": "AMC",
+   "name": "AI Meta Coin (AMC)"
+  },
+  {
+   "symbol": "RUNESX",
+   "name": "RUNES·X·BITCOIN (RUNESX)"
+  },
+  {
+   "symbol": "NEKTAR",
+   "name": "Nektar Token (NEKTAR)"
+  }
+ ]
+}

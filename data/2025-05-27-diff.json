@@ -1,0 +1,66 @@
+{
+ "added": [
+  {
+   "symbol": "ZWGD",
+   "name": "BMO Covered Call Spread Gold Bullion ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "ZWGD.TO",
+   "instruments": [
+    {
+     "name": "BMO Cov Call SpGoBul",
+     "symbol": "ZWGD"
+    }
+   ]
+  },
+  {
+   "symbol": "CRAQU",
+   "name": "Cal Redwood Acquisition Corp. - Units",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "CRAQU"
+  },
+  {
+   "symbol": "SORA",
+   "name": "Top Win International Limited - Ordinary Shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "SORA"
+  },
+  {
+   "symbol": "AOMD",
+   "name": "Angel Oak Mortgage REIT, Inc. 9.750% Senior Notes due 2030",
+   "exchange": "NYSE",
+   "yahoo_symbol": "AOMD"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "CRACU",
+   "name": "Cal Redwood Acquisition Corp. - Units",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "CRACU"
+  },
+  {
+   "symbol": "VSTE",
+   "name": "Vast Renewables Limited - Ordinary Shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "VSTE"
+  },
+  {
+   "symbol": "TOPW",
+   "name": "Top Win International Limited - Ordinary Shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "TOPW"
+  },
+  {
+   "symbol": "VSTEW",
+   "name": "Vast Renewables Limited - Warrants",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "VSTEW"
+  },
+  {
+   "symbol": "OCFCP",
+   "name": "OceanFirst Financial Corp. - Depositary Shares",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "OCFCP"
+  }
+ ]
+}
