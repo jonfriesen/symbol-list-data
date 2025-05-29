@@ -1,0 +1,102 @@
+{
+ "added": [
+  {
+   "symbol": "TLTU",
+   "name": "MegaLong (3X) 20+ Year US Treasury Daily Leveraged Alternative ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "TLTU.TO",
+   "instruments": [
+    {
+     "name": "MegaLong 3X 20+Yr US",
+     "symbol": "TLTU"
+    }
+   ]
+  },
+  {
+   "symbol": "BNKU",
+   "name": "MegaLong (3X) Canadian Banks Daily Leveraged Alternative ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "BNKU.TO",
+   "instruments": [
+    {
+     "name": "MegaLong 3X Cdn Bank",
+     "symbol": "BNKU"
+    }
+   ]
+  },
+  {
+   "symbol": "CGMU",
+   "name": "MegaLong (3X) Canadian Gold Miners Daily Leveraged Alternative ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "CGMU.TO",
+   "instruments": [
+    {
+     "name": "MegaLong 3X Cdn Gold",
+     "symbol": "CGMU"
+    }
+   ]
+  },
+  {
+   "symbol": "TLTD",
+   "name": "MegaShort (-3X) 20+ Year US Treasury Daily Leveraged Alternative ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "TLTD.TO",
+   "instruments": [
+    {
+     "name": "MegaShort-3X 20+Y US",
+     "symbol": "TLTD"
+    }
+   ]
+  },
+  {
+   "symbol": "CGMD",
+   "name": "MegaShort (-3X) Canadian Gold Miners Daily Leveraged Alternative ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "CGMD.TO",
+   "instruments": [
+    {
+     "name": "MegaShort-3X Cdn Gol",
+     "symbol": "CGMD"
+    }
+   ]
+  },
+  {
+   "symbol": "CHPGU",
+   "name": "ChampionsGate Acquisition Corporation - Unit",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "CHPGU"
+  },
+  {
+   "symbol": "KCHVU",
+   "name": "Kochav Defense Acquisition Corp. - Units",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "KCHVU"
+  },
+  {
+   "symbol": "LOGO",
+   "name": "Alpha Brands Consumption Leaders ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "LOGO"
+  },
+  {
+   "symbol": "JENA.U",
+   "name": "Jena Acquisition Corporation II Units, each consisting of one Class A ordinary share and one right",
+   "exchange": "NYSE",
+   "yahoo_symbol": "JENA.U"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "SYT",
+   "name": "SYLA Technologies Co., Ltd. - American Depositary Shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "SYT"
+  },
+  {
+   "symbol": "HYMCW",
+   "name": "Hycroft Mining Holding Corporation - Warrant",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "HYMCW"
+  }
+ ]
+}
