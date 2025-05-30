@@ -1,0 +1,66 @@
+{
+ "added": [
+  {
+   "symbol": "CVNX",
+   "name": "Defiance Daily Target 2X Long CVNA ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "CVNX"
+  },
+  {
+   "symbol": "TLPH",
+   "name": "Talphera, Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "TLPH"
+  },
+  {
+   "symbol": "WTGUU",
+   "name": "Wintergreen Acquisition Corp. - Unit",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "WTGUU"
+  },
+  {
+   "symbol": "BHK.R",
+   "name": "Blackrock Core Bond Trust Rights (expiring June 18, 2025) Rights",
+   "exchange": "NYSE",
+   "yahoo_symbol": "BHK.R"
+  },
+  {
+   "symbol": "KKRT",
+   "name": "KKR \u0026 Co. Inc. 6.875% Subordinated Notes due 2065",
+   "exchange": "NYSE",
+   "yahoo_symbol": "KKRT"
+  },
+  {
+   "symbol": "QXO$B",
+   "name": "QXO, Inc.  Depositary Shares, each representing a 1/20th interest in a share of 5.50% Series B Mandatory Convertible Preferred Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "QXO$B"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "BHK.V",
+   "name": "Blackrock Core Bond Trust Rights (expiring June 18, 2025) Rights when issued",
+   "exchange": "NYSE",
+   "yahoo_symbol": "BHK.V"
+  },
+  {
+   "symbol": "KMB",
+   "name": "Kimberly-Clark Corporation Common Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "KMB"
+  },
+  {
+   "symbol": "TLPH",
+   "name": "Talphera, Inc. - Common Stock",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "TLPH"
+  },
+  {
+   "symbol": "AZUL",
+   "name": "Azul S.A. American Depositary Shares (each representing three preferred shares)",
+   "exchange": "NYSE",
+   "yahoo_symbol": "AZUL"
+  }
+ ]
+}

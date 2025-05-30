@@ -1,0 +1,102 @@
+{
+ "added": [
+  {
+   "symbol": "SATOPAY",
+   "name": "SatoPay (SATOPAY)"
+  },
+  {
+   "symbol": "URMOM",
+   "name": "urmom (URMOM)"
+  },
+  {
+   "symbol": "CANDLECAT",
+   "name": "Candle Cat (CANDLECAT)"
+  },
+  {
+   "symbol": "BUCKAZOIDS",
+   "name": "Buckazoids (BUCKAZOIDS)"
+  },
+  {
+   "symbol": "FILEST",
+   "name": "FileStar (FILEST)"
+  },
+  {
+   "symbol": "ZAIFIN",
+   "name": "Zero Collateral Dai (ZAIFIN)"
+  },
+  {
+   "symbol": "KAMB",
+   "name": "Kambria (KAMB)"
+  },
+  {
+   "symbol": "AWARDCOIN",
+   "name": "Award (AWARDCOIN)"
+  },
+  {
+   "symbol": "LISTEN",
+   "name": "Listen (LISTEN)"
+  },
+  {
+   "symbol": "CULTDAO",
+   "name": "Cult DAO (CULTDAO)"
+  },
+  {
+   "symbol": "BASIL",
+   "name": "Basilisk (BASIL)"
+  },
+  {
+   "symbol": "VANKEDISI",
+   "name": "vankedisi (VANKEDISI)"
+  },
+  {
+   "symbol": "SUEDE",
+   "name": "Johnny Suede (SUEDE)"
+  },
+  {
+   "symbol": "MEGATECH",
+   "name": "Megatech (MEGATECH)"
+  },
+  {
+   "symbol": "LUMO",
+   "name": "Lumo-8B-Instruct (LUMO)"
+  },
+  {
+   "symbol": "PAWSTARS",
+   "name": "PawStars (PAWSTARS)"
+  },
+  {
+   "symbol": "SABER",
+   "name": "Saber (SABER)"
+  },
+  {
+   "symbol": "CRYPTOTANKS",
+   "name": "CryptoTanks (CRYPTOTANKS)"
+  },
+  {
+   "symbol": "AGIXT",
+   "name": "AGiXT (AGIXT)"
+  },
+  {
+   "symbol": "GRPH",
+   "name": "Soul Graph (GRPH)"
+  },
+  {
+   "symbol": "REALR",
+   "name": "Real Realm (REALR)"
+  },
+  {
+   "symbol": "MOONPIG",
+   "name": "Moonpig (MOONPIG)"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "MAOMEME",
+   "name": "Mao (MAOMEME)"
+  },
+  {
+   "symbol": "ZEDCOIN",
+   "name": "ZedCoin (ZEDCOIN)"
+  }
+ ]
+}
