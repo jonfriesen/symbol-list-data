@@ -1,0 +1,118 @@
+{
+ "added": [
+  {
+   "symbol": "COPL",
+   "name": "Copley Acquisition Corp Ordinary Shares",
+   "exchange": "NYSE",
+   "yahoo_symbol": "COPL"
+  },
+  {
+   "symbol": "COPL.W",
+   "name": "Copley Acquisition Corp Redeemable warrants, each whole warrant exercisable for one Class A ordinary share at an exercise price of $11.50",
+   "exchange": "NYSE",
+   "yahoo_symbol": "COPL.W"
+  },
+  {
+   "symbol": "RSF.V",
+   "name": "RiverNorth Capital and Income Fund Rights (expiring July 07, 2025) Rights when issued",
+   "exchange": "NYSE",
+   "yahoo_symbol": "RSF.V"
+  },
+  {
+   "symbol": "LUXR",
+   "name": "Luxor Metals Ltd.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "LUXR.V",
+   "instruments": [
+    {
+     "name": "Luxor Metals Ltd.",
+     "symbol": "LUXR"
+    }
+   ]
+  },
+  {
+   "symbol": "XSMB",
+   "name": "iShares Core Canadian Short-Mid Term Universe Bond Index ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "XSMB.TO",
+   "instruments": [
+    {
+     "name": "iShares Core Cdn SMT",
+     "symbol": "XSMB"
+    }
+   ]
+  },
+  {
+   "symbol": "XTOT",
+   "name": "iShares Core S\u0026P Total U.S. Stock Market Index ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "XTOT.TO",
+   "instruments": [
+    {
+     "name": "iShares Cor SP Total",
+     "symbol": "XTOT"
+    },
+    {
+     "name": "iShares Cor SP To US",
+     "symbol": "XTOT.U"
+    }
+   ]
+  },
+  {
+   "symbol": "KMB",
+   "name": "Kimberly-Clark Corporation - Common Stock",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "KMB"
+  },
+  {
+   "symbol": "PTNM",
+   "name": "Pitanium Limited - Class A Ordinary Shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "PTNM"
+  },
+  {
+   "symbol": "REMG",
+   "name": "Emerging Markets Active ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "REMG"
+  },
+  {
+   "symbol": "RGLO",
+   "name": "Global Equity Active ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "RGLO"
+  },
+  {
+   "symbol": "SUPX",
+   "name": "Super X AI Technology Limited - Ordinary Shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "SUPX"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "JUNE",
+   "name": "Junee Limited - Ordinary Shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "JUNE"
+  },
+  {
+   "symbol": "FLIC",
+   "name": "The First of Long Island Corporation - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "FLIC"
+  },
+  {
+   "symbol": "CKPT",
+   "name": "Checkpoint Therapeutics, Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "CKPT"
+  },
+  {
+   "symbol": "LGMK",
+   "name": "LogicMark, Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "LGMK"
+  }
+ ]
+}
