@@ -1,0 +1,90 @@
+{
+ "added": [
+  {
+   "symbol": "DAAQ",
+   "name": "Digital Asset Acquisition Corp. - Class A Ordinary shares",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "DAAQ"
+  },
+  {
+   "symbol": "DAAQW",
+   "name": "Digital Asset Acquisition Corp. - Warrant",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "DAAQW"
+  },
+  {
+   "symbol": "MINM",
+   "name": "Minim, Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "MINM"
+  },
+  {
+   "symbol": "RAAQ",
+   "name": "Real Asset Acquisition Corp. - Class A Ordinary Share",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "RAAQ"
+  },
+  {
+   "symbol": "RAAQW",
+   "name": "Real Asset Acquisition Corp. - Warrants",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "RAAQW"
+  },
+  {
+   "symbol": "TACH",
+   "name": "Titan Acquisition Corp. - Class A Ordinary Shares",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "TACH"
+  },
+  {
+   "symbol": "TACHW",
+   "name": "Titan Acquisition Corp. - Warrants",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "TACHW"
+  },
+  {
+   "symbol": "TRUG",
+   "name": "TruGolf Holdings, Inc. - Class A Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "TRUG"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "CMD",
+   "name": "Commander Resources Ltd.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "CMD.V",
+   "instruments": [
+    {
+     "name": "Commander Resources Ltd.",
+     "symbol": "CMD"
+    }
+   ]
+  },
+  {
+   "symbol": "TRUG",
+   "name": "TruGolf Holdings, Inc. - Class A Common Stock",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "TRUG"
+  },
+  {
+   "symbol": "HEES",
+   "name": "H\u0026E Equipment Services, Inc. - Common Stock",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "HEES"
+  },
+  {
+   "symbol": "CLEU",
+   "name": "China Liberal Education Holdings Limited - Ordinary Shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "CLEU"
+  },
+  {
+   "symbol": "BLUE",
+   "name": "bluebird bio, Inc. - Common Stock",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "BLUE"
+  }
+ ]
+}
