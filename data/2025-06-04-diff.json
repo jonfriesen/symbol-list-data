@@ -1,0 +1,96 @@
+{
+ "added": [
+  {
+   "symbol": "PUL",
+   "name": "Pulse Oil Corp.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "PUL.V",
+   "instruments": [
+    {
+     "name": "Pulse Oil Corp.",
+     "symbol": "PUL"
+    }
+   ]
+  },
+  {
+   "symbol": "AAPU",
+   "name": "SavvyLong (2X) AAPL ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "AAPU.TO",
+   "instruments": [
+    {
+     "name": "SavvyLong (2X) AAPL",
+     "symbol": "AAPU"
+    }
+   ]
+  },
+  {
+   "symbol": "AMZU",
+   "name": "SavvyLong (2X) AMZN ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "AMZU.TO",
+   "instruments": [
+    {
+     "name": "SavvyLong (2X) AMZN",
+     "symbol": "AMZU"
+    }
+   ]
+  },
+  {
+   "symbol": "ALPU",
+   "name": "SavvyLong (2X) GOOGL ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "ALPU.TO",
+   "instruments": [
+    {
+     "name": "SavvyLong 2X GOOGL E",
+     "symbol": "ALPU"
+    }
+   ]
+  },
+  {
+   "symbol": "MSFU",
+   "name": "SavvyLong (2X) MSFT ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "MSFU.TO",
+   "instruments": [
+    {
+     "name": "SavvyLong (2X) MSFT",
+     "symbol": "MSFU"
+    }
+   ]
+  },
+  {
+   "symbol": "NVDU",
+   "name": "SavvyLong (2X) NVDA ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "NVDU.TO",
+   "instruments": [
+    {
+     "name": "SavvyLong (2X) NVDA",
+     "symbol": "NVDU"
+    }
+   ]
+  },
+  {
+   "symbol": "TSLU",
+   "name": "SavvyLong (2X) TSLA ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "TSLU.TO",
+   "instruments": [
+    {
+     "name": "SavvyLong (2X) TSLA",
+     "symbol": "TSLU"
+    }
+   ]
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "LOGC",
+   "name": "ContextLogic Inc. - Class A Common Stock",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "LOGC"
+  }
+ ]
+}

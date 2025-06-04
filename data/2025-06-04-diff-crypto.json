@@ -1,0 +1,64 @@
+{
+ "added": [
+  {
+   "symbol": "POPMART",
+   "name": "POP MART (POPMART)"
+  },
+  {
+   "symbol": "SOPHIA",
+   "name": "SophiaVerse (SOPHIA)"
+  },
+  {
+   "symbol": "BROAK",
+   "name": "Broak on Base (BROAK)"
+  },
+  {
+   "symbol": "EDGEN",
+   "name": "LayerEdge (EDGEN)"
+  },
+  {
+   "symbol": "IDOODLES",
+   "name": "IDOODLES (IDOODLES)"
+  },
+  {
+   "symbol": "FANTOM",
+   "name": "Fantom Maker (FANTOM)"
+  },
+  {
+   "symbol": "DAPPTOKEN",
+   "name": "LiquidApps (DAPPTOKEN)"
+  },
+  {
+   "symbol": "CORALSWAP",
+   "name": "Coral Swap (CORALSWAP)"
+  },
+  {
+   "symbol": "BRANDY",
+   "name": "BRANDY (BRANDY)"
+  },
+  {
+   "symbol": "AETHUSDT",
+   "name": "Aave Ethereum USDT (AETHUSDT)"
+  },
+  {
+   "symbol": "LUCYAI",
+   "name": "Pitch Lucy AI (LUCYAI)"
+  },
+  {
+   "symbol": "FDS",
+   "name": "Foodie Squirrel (FDS)"
+  },
+  {
+   "symbol": "SKYOPS",
+   "name": "Skyops (SKYOPS)"
+  },
+  {
+   "symbol": "AETHWETH",
+   "name": "Aave Ethereum WETH (AETHWETH)"
+  },
+  {
+   "symbol": "CONY",
+   "name": "Cony (CONY)"
+  }
+ ]
+}
