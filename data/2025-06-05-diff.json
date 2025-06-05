@@ -1,0 +1,94 @@
+{
+ "added": [
+  {
+   "symbol": "AXO",
+   "name": "Axo Copper Corp.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "AXO.V",
+   "instruments": [
+    {
+     "name": "Axo Copper Corp.",
+     "symbol": "AXO"
+    }
+   ]
+  },
+  {
+   "symbol": "BUSEP",
+   "name": "First Busey Corporation - Depositary Shares, Each Representing a 1/40th Interest in a Share of 8.25% Fixed-Rate Series B Non-Cumulative Perpetual Preferred Stock, $0.001 par value",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "BUSEP"
+  },
+  {
+   "symbol": "SDHI",
+   "name": "Siddhi Acquisition Corp - Class A Common stock",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "SDHI"
+  },
+  {
+   "symbol": "SDHIR",
+   "name": "Siddhi Acquisition Corp - Right",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "SDHIR"
+  },
+  {
+   "symbol": "BMNR",
+   "name": "BitMine Immersion Technologies, Inc. Common Stock",
+   "exchange": "NYSE MKT",
+   "yahoo_symbol": "BMNR"
+  },
+  {
+   "symbol": "CRCL",
+   "name": "Circle Internet Group, Inc. Class A Common Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "CRCL"
+  },
+  {
+   "symbol": "TGE",
+   "name": "The Generation Essentials Group Class A Ordinary Shares",
+   "exchange": "NYSE",
+   "yahoo_symbol": "TGE"
+  },
+  {
+   "symbol": "TGE.W",
+   "name": "The Generation Essentials Group Warrants, each whole warrant exercisable for one Class A Ordinary Share",
+   "exchange": "NYSE MKT",
+   "yahoo_symbol": "TGE.W"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "BSIIU",
+   "name": "Black Spade Acquisition II Co - unit",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "BSIIU"
+  },
+  {
+   "symbol": "BSII",
+   "name": "Black Spade Acquisition II Co - Class A Ordinary Share",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "BSII"
+  },
+  {
+   "symbol": "MDVD",
+   "name": "Mackenzie Global Sustainable Dividend Index ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "MDVD.TO",
+   "instruments": [
+    {
+     "name": "MackenzieGlbl SusDiv",
+     "symbol": "MDVD"
+    },
+    {
+     "name": "MackenzieGlbSusDivUS",
+     "symbol": "MDVD.U"
+    }
+   ]
+  },
+  {
+   "symbol": "BSIIW",
+   "name": "Black Spade Acquisition II Co - Warrant",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "BSIIW"
+  }
+ ]
+}

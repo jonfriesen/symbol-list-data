@@ -1,0 +1,88 @@
+{
+ "added": [
+  {
+   "symbol": "TOMAINFO",
+   "name": "TomaInfo (TOMAINFO)"
+  },
+  {
+   "symbol": "FRANK",
+   "name": "Frank (FRANK)"
+  },
+  {
+   "symbol": "MASHA",
+   "name": "Masha (MASHA)"
+  },
+  {
+   "symbol": "MARSCOIN",
+   "name": "MarsCoin (MARSCOIN)"
+  },
+  {
+   "symbol": "BCPV1",
+   "name": "BitcashPay (BCPV1)"
+  },
+  {
+   "symbol": "NYANCOIN",
+   "name": "NyanCoin (NYANCOIN)"
+  },
+  {
+   "symbol": "BDXN",
+   "name": "Bondex Token (BDXN)"
+  },
+  {
+   "symbol": "NIANNIAN",
+   "name": "NianNian (NIANNIAN)"
+  },
+  {
+   "symbol": "SEALFINANCE",
+   "name": "Seal Finance (SEALFINANCE)"
+  },
+  {
+   "symbol": "LYNXCOIN",
+   "name": "Lynx (LYNXCOIN)"
+  },
+  {
+   "symbol": "TRIPIO",
+   "name": "Tripio (TRIPIO)"
+  },
+  {
+   "symbol": "KCALV2",
+   "name": "Phantasma Energy (KCALV2)"
+  },
+  {
+   "symbol": "BBOB",
+   "name": "BabyBuilder (BBOB)"
+  },
+  {
+   "symbol": "GATCOIN",
+   "name": "GATCOIN (GATCOIN)"
+  },
+  {
+   "symbol": "PVPCHAIN",
+   "name": "PVPChain (PVPCHAIN)"
+  },
+  {
+   "symbol": "XCHAT",
+   "name": "XChat (XCHAT)"
+  },
+  {
+   "symbol": "KORI",
+   "name": "Kori The Pom (KORI)"
+  },
+  {
+   "symbol": "BECKOS",
+   "name": "Beckos (BECKOS)"
+  },
+  {
+   "symbol": "SATOEXCHANGE",
+   "name": "SatoExchange Token (SATOEXCHANGE)"
+  },
+  {
+   "symbol": "COLISEUM",
+   "name": "Coliseum (COLISEUM)"
+  },
+  {
+   "symbol": "LIVENCOIN",
+   "name": "LivenPay (LIVENCOIN)"
+  }
+ ]
+}
