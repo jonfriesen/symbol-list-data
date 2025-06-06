@@ -1,0 +1,72 @@
+{
+ "added": [
+  {
+   "symbol": "NHHH",
+   "name": "FuelPositive Corporation",
+   "exchange": "TSXV",
+   "yahoo_symbol": "NHHH.V",
+   "instruments": [
+    {
+     "name": "FuelPositive Corporation",
+     "symbol": "NHHH"
+    }
+   ]
+  },
+  {
+   "symbol": "FFUT",
+   "name": "Fidelity Managed Futures ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "FFUT"
+  },
+  {
+   "symbol": "KIDZ",
+   "name": "Classover Holdings, Inc. - Class B Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "KIDZ"
+  },
+  {
+   "symbol": "KOID",
+   "name": "KraneShares Global Humanoid and Embodied Intelligence Index ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "KOID"
+  },
+  {
+   "symbol": "MHUA",
+   "name": "Meihua International Medical Technologies Co., Ltd. - Ordinary Shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "MHUA"
+  },
+  {
+   "symbol": "TACO",
+   "name": "Berto Acquisition Corp. - Ordinary Shares",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "TACO"
+  },
+  {
+   "symbol": "TACOW",
+   "name": "Berto Acquisition Corp. - Warrant",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "TACOW"
+  },
+  {
+   "symbol": "VBIX",
+   "name": "Viewbix Inc. - Common Stock ",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "VBIX"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "KIDZ",
+   "name": "Classover Holdings, Inc. - Class B Common Stock",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "KIDZ"
+  },
+  {
+   "symbol": "MHUA",
+   "name": "Meihua International Medical Technologies Co., Ltd. - Ordinary Shares",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "MHUA"
+  }
+ ]
+}

@@ -1,0 +1,102 @@
+{
+ "added": [
+  {
+   "symbol": "ORBTV1",
+   "name": "Orbitt Pro (ORBTV1)"
+  },
+  {
+   "symbol": "CHIRPFI",
+   "name": "Chirp (CHIRPFI)"
+  },
+  {
+   "symbol": "AIGA",
+   "name": "Aigang (AIGA)"
+  },
+  {
+   "symbol": "VSYNC",
+   "name": "Vsync (VSYNC)"
+  },
+  {
+   "symbol": "LAUNCHMOBY",
+   "name": "Moby (LAUNCHMOBY)"
+  },
+  {
+   "symbol": "MTV1",
+   "name": "Mint Club (MTV1)"
+  },
+  {
+   "symbol": "CAPYBARA1995",
+   "name": "Capybara (CAPYBARA1995)"
+  },
+  {
+   "symbol": "ANSCRYPTO",
+   "name": "ANS Crypto Coin (ANSCRYPTO)"
+  },
+  {
+   "symbol": "TITANSWAP",
+   "name": "TitanSwap (TITANSWAP)"
+  },
+  {
+   "symbol": "COFOUNDIT",
+   "name": "Cofound.it (COFOUNDIT)"
+  },
+  {
+   "symbol": "HAPPYC",
+   "name": "HappyCoin (HAPPYC)"
+  },
+  {
+   "symbol": "ONEROOT",
+   "name": "OneRoot Network (ONEROOT)"
+  },
+  {
+   "symbol": "ANONCRYPTO",
+   "name": "ANON (ANONCRYPTO)"
+  },
+  {
+   "symbol": "SANTI",
+   "name": "Santiment (SANTI)"
+  },
+  {
+   "symbol": "TROLLRUN",
+   "name": "TROLL (TROLLRUN)"
+  },
+  {
+   "symbol": "TATETOKENETH",
+   "name": "Tate (TATETOKENETH)"
+  },
+  {
+   "symbol": "HPOWSB10I",
+   "name": "HarryPotterObamaWallStreetBets10Inu (HPOWSB10I)"
+  },
+  {
+   "symbol": "COOKTOKEN",
+   "name": "Cook (COOKTOKEN)"
+  },
+  {
+   "symbol": "CLAYN",
+   "name": "Clay Nation (CLAYN)"
+  },
+  {
+   "symbol": "GODLAPP",
+   "name": "GODL (GODLAPP)"
+  },
+  {
+   "symbol": "DRINKCHAIN",
+   "name": "DrinkChain (DRINKCHAIN)"
+  },
+  {
+   "symbol": "LYMPO",
+   "name": "Lympo Market Token (LYMPO)"
+  },
+  {
+   "symbol": "HANACOIN",
+   "name": "Hanacoin (HANACOIN)"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "MINT",
+   "name": "Mint Club (MINT)"
+  }
+ ]
+}
