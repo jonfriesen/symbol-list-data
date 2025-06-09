@@ -1,0 +1,90 @@
+{
+ "added": [
+  {
+   "symbol": "KEEK",
+   "name": "Personas Social Incorporated",
+   "exchange": "TSXV",
+   "yahoo_symbol": "KEEK.V",
+   "instruments": [
+    {
+     "name": "Personas Social Incorporated",
+     "symbol": "KEEK"
+    }
+   ]
+  },
+  {
+   "symbol": "NAMM",
+   "name": "Namib Minerals - Ordinary Shares",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "NAMM"
+  },
+  {
+   "symbol": "NAMMW",
+   "name": "Namib Minerals - Warrants",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "NAMMW"
+  },
+  {
+   "symbol": "OMDA",
+   "name": "Omada Health, Inc. - Common Stock",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "OMDA"
+  },
+  {
+   "symbol": "PLTZ",
+   "name": "Defiance Daily Target 2x Short PLTR ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "PLTZ"
+  },
+  {
+   "symbol": "RTXG",
+   "name": "Leverage Shares 2X Long RTX Daily ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "RTXG"
+  },
+  {
+   "symbol": "AAUC",
+   "name": "Allied Gold Corporation Common Shares",
+   "exchange": "NYSE",
+   "yahoo_symbol": "AAUC"
+  },
+  {
+   "symbol": "CSW",
+   "name": "CSW Industrials, Inc. Common Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "CSW"
+  },
+  {
+   "symbol": "RSF.R",
+   "name": "RiverNorth Capital and Income Fund Rights (expiring July 07, 2025) Rights",
+   "exchange": "NYSE",
+   "yahoo_symbol": "RSF.R"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "PRSN",
+   "name": "Personas Social Incorporated",
+   "exchange": "TSXV",
+   "yahoo_symbol": "PRSN.V",
+   "instruments": [
+    {
+     "name": "Personas Social Incorporated",
+     "symbol": "PRSN"
+    }
+   ]
+  },
+  {
+   "symbol": "CSWI",
+   "name": "CSW Industrials, Inc. - Common Stock",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "CSWI"
+  },
+  {
+   "symbol": "RSF.V",
+   "name": "RiverNorth Capital and Income Fund Rights (expiring July 07, 2025) Rights when issued",
+   "exchange": "NYSE",
+   "yahoo_symbol": "RSF.V"
+  }
+ ]
+}

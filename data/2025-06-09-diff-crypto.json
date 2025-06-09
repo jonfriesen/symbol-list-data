@@ -1,0 +1,58 @@
+{
+ "added": [
+  {
+   "symbol": "METAVPAD",
+   "name": "MetaVPad (METAVPAD)"
+  },
+  {
+   "symbol": "WATERCOIN",
+   "name": "WATER (WATERCOIN)"
+  },
+  {
+   "symbol": "SEATLABNFT",
+   "name": "SeatlabNFT (SEATLABNFT)"
+  },
+  {
+   "symbol": "GO4",
+   "name": "GameonForge (GO4)"
+  },
+  {
+   "symbol": "SUT",
+   "name": "SuperTrust (SUT)"
+  },
+  {
+   "symbol": "XPARTY",
+   "name": "X Party (XPARTY)"
+  },
+  {
+   "symbol": "DARKF",
+   "name": "Dark Frontiers (DARKF)"
+  },
+  {
+   "symbol": "COINBUCK",
+   "name": "Coinbuck (COINBUCK)"
+  },
+  {
+   "symbol": "MONEYGOD",
+   "name": "Money God One (MONEYGOD)"
+  },
+  {
+   "symbol": "AWE",
+   "name": "AWE Network (AWE)"
+  },
+  {
+   "symbol": "MINT",
+   "name": "Mintify (MINT)"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "MAOMEME",
+   "name": "Mao (MAOMEME)"
+  },
+  {
+   "symbol": "ZEDCOIN",
+   "name": "ZedCoin (ZEDCOIN)"
+  }
+ ]
+}
