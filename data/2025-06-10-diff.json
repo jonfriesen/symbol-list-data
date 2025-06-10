@@ -1,0 +1,114 @@
+{
+ "added": [
+  {
+   "symbol": "IDEX",
+   "name": "IDEX Metals Corp.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "IDEX.V",
+   "instruments": [
+    {
+     "name": "IDEX Metals Corp.",
+     "symbol": "IDEX"
+    }
+   ]
+  },
+  {
+   "symbol": "CCCM",
+   "name": "Columbus Circle Capital Corp I - Class A Ordinary Shares",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "CCCM"
+  },
+  {
+   "symbol": "CCCMW",
+   "name": "Columbus Circle Capital Corp I - Warrant.",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "CCCMW"
+  },
+  {
+   "symbol": "JEM",
+   "name": "707 Cayman Holdings Limited - Ordinary Shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "JEM"
+  },
+  {
+   "symbol": "LVLU",
+   "name": "Lulu's Fashion Lounge Holdings, Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "LVLU"
+  },
+  {
+   "symbol": "RTAC",
+   "name": "Renatus Tactical Acquisition Corp I - Class A Ordinary Shares",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "RTAC"
+  },
+  {
+   "symbol": "RTACW",
+   "name": "Renatus Tactical Acquisition Corp I - Warrant",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "RTACW"
+  },
+  {
+   "symbol": "SAFX",
+   "name": "XCF Global, Inc. - Class A Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "SAFX"
+  },
+  {
+   "symbol": "TEAD",
+   "name": "Teads Holding Co. - Common Stock",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "TEAD"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "NOVA",
+   "name": "Sunnova Energy International Inc. Common Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "NOVA"
+  },
+  {
+   "symbol": "OB",
+   "name": "Outbrain Inc. - Common Stock",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "OB"
+  },
+  {
+   "symbol": "GODB.P",
+   "name": "Goodbridge Capital Corp.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "GODB.P.V",
+   "instruments": [
+    {
+     "name": "Goodbridge Capital Corp.",
+     "symbol": "GODB.P"
+    }
+   ]
+  },
+  {
+   "symbol": "RENT.P",
+   "name": "Shine Box Capital Corp.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "RENT.P.V",
+   "instruments": [
+    {
+     "name": "Shine Box Capital Corp.",
+     "symbol": "RENT.P"
+    }
+   ]
+  },
+  {
+   "symbol": "LVLU",
+   "name": "Lulu's Fashion Lounge Holdings, Inc. - Common Stock",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "LVLU"
+  },
+  {
+   "symbol": "GB.W",
+   "name": "Global Blue Group Holding AG Warrants exercisable for one Ordinary Share of Global Blue Group Holding AG at a price of $11.50 per share",
+   "exchange": "NYSE",
+   "yahoo_symbol": "GB.W"
+  }
+ ]
+}
