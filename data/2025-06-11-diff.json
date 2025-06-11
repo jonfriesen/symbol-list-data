@@ -1,0 +1,108 @@
+{
+ "added": [
+  {
+   "symbol": "NEXM",
+   "name": "NexMetals Mining Corp.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "NEXM.V",
+   "instruments": [
+    {
+     "name": "NexMetals Mining Corp.",
+     "symbol": "NEXM"
+    }
+   ]
+  },
+  {
+   "symbol": "BLUWU",
+   "name": "Blue Water Acquisition Corp. III - Unit.",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "BLUWU"
+  },
+  {
+   "symbol": "HUBC",
+   "name": "Hub Cyber Security Ltd. - Ordinary Shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "HUBC"
+  },
+  {
+   "symbol": "HUBCZ",
+   "name": "Hub Cyber Security Ltd. - Warrant",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "HUBCZ"
+  },
+  {
+   "symbol": "MSDD",
+   "name": "GraniteShares 2x Short MSTR Daily ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "MSDD"
+  },
+  {
+   "symbol": "MSTP",
+   "name": "GraniteShares 2x Long MSTR Daily ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "MSTP"
+  },
+  {
+   "symbol": "ASIC",
+   "name": "Ategrity Specialty Insurance Company Holdings Common Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "ASIC"
+  },
+  {
+   "symbol": "SCD.V",
+   "name": "LMP Capital and Income Fund Inc. Rights (expiring July 11, 2025) Rights when issued",
+   "exchange": "NYSE",
+   "yahoo_symbol": "SCD.V"
+  },
+  {
+   "symbol": "VOYG",
+   "name": "Voyager Technologies, Inc. Class A Common Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "VOYG"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "HUBC",
+   "name": "Hub Cyber Security Ltd. - Ordinary Shares",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "HUBC"
+  },
+  {
+   "symbol": "HUBCZ",
+   "name": "Hub Cyber Security Ltd. - Warrant",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "HUBCZ"
+  },
+  {
+   "symbol": "PRIF$F",
+   "name": "Priority Income Fund, Inc. 6.625% Series F Term Preferred Stock due 2027",
+   "exchange": "NYSE",
+   "yahoo_symbol": "PRIF$F"
+  },
+  {
+   "symbol": "JNH",
+   "name": "Jack Nathan Medical Corp.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "JNH.V",
+   "instruments": [
+    {
+     "name": "Jack Nathan Medical Corp.",
+     "symbol": "JNH"
+    }
+   ]
+  },
+  {
+   "symbol": "PREM",
+   "name": "Premium Resources Ltd.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "PREM.V",
+   "instruments": [
+    {
+     "name": "Premium Resources Ltd.",
+     "symbol": "PREM"
+    }
+   ]
+  }
+ ]
+}

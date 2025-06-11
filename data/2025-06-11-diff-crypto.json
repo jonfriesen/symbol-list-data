@@ -1,0 +1,44 @@
+{
+ "added": [
+  {
+   "symbol": "ZEDCOIN",
+   "name": "ZedCoin (ZEDCOIN)"
+  },
+  {
+   "symbol": "BANK",
+   "name": "Float Protocol (BANK)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "CBBTCBASE",
+   "name": "cbBTC (CBBTCBASE)"
+  },
+  {
+   "symbol": "G",
+   "name": "Gravity (G)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "D",
+   "name": "Dar Open Network (D)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "MAOMEME",
+   "name": "Mao (MAOMEME)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "BORA",
+   "name": "BORA (BORA)",
+   "built_on": "KAIA"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "BORA",
+   "name": "BORA (BORA)",
+   "built_on": "ETH"
+  }
+ ]
+}
