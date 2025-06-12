@@ -1,0 +1,84 @@
+{
+ "added": [
+  {
+   "symbol": "ADAD.P",
+   "name": "Adagio 2 Capital Inc.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "ADAD.P.V",
+   "instruments": [
+    {
+     "name": "Adagio 2 Capital Inc.",
+     "symbol": "ADAD.P"
+    }
+   ]
+  },
+  {
+   "symbol": "SPN",
+   "name": "Snipp Interactive Inc.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "SPN.V",
+   "instruments": [
+    {
+     "name": "Snipp Interactive Inc.",
+     "symbol": "SPN"
+    }
+   ]
+  },
+  {
+   "symbol": "OTF",
+   "name": "Blue Owl Technology Finance Corp. Common Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "OTF"
+  },
+  {
+   "symbol": "PMTW",
+   "name": "PennyMac Mortgage Investment Trust 9.00% Senior Notes due 2030",
+   "exchange": "NYSE",
+   "yahoo_symbol": "PMTW"
+  },
+  {
+   "symbol": "VNTG",
+   "name": "Vantage Corp Class A Ordinary Shares",
+   "exchange": "NYSE MKT",
+   "yahoo_symbol": "VNTG"
+  },
+  {
+   "symbol": "BSCZ",
+   "name": "Invesco BulletShares 2035 Corporate Bond ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "BSCZ"
+  },
+  {
+   "symbol": "BSJX",
+   "name": "Invesco BulletShares 2033 High Yield Corporate Bond ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "BSJX"
+  },
+  {
+   "symbol": "CARM",
+   "name": "Carisma Therapeutics, Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "CARM"
+  },
+  {
+   "symbol": "HBDC",
+   "name": "Hilton BDC Corporate Bond ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "HBDC"
+  },
+  {
+   "symbol": "STRD",
+   "name": "MicroStrategy Incorporated - 10.00% Series A Perpetual Stride Preferred Stock",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "STRD"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "CARM",
+   "name": "Carisma Therapeutics, Inc. - Common Stock",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "CARM"
+  }
+ ]
+}
