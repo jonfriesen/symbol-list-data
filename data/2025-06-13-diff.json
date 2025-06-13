@@ -1,0 +1,108 @@
+{
+ "added": [
+  {
+   "symbol": "CCFE",
+   "name": "Concourse Capital Focused Equity ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "CCFE"
+  },
+  {
+   "symbol": "CHYM",
+   "name": "Chime Financial, Inc. - Class A Common Stock",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "CHYM"
+  },
+  {
+   "symbol": "IPOD",
+   "name": "Dune Acquisition Corporation II - Class A ordinary shares",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "IPOD"
+  },
+  {
+   "symbol": "IPODW",
+   "name": "Dune Acquisition Corporation II - Warrants",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "IPODW"
+  },
+  {
+   "symbol": "KMLI",
+   "name": "KraneShares 2x Long MELI Daily ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "KMLI"
+  },
+  {
+   "symbol": "PELI",
+   "name": "Pelican Acquisition Corporation - Ordinary Shares",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "PELI"
+  },
+  {
+   "symbol": "PELIR",
+   "name": "Pelican Acquisition Corporation - Right",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "PELIR"
+  },
+  {
+   "symbol": "QQDN",
+   "name": "ProShares UltraShort Top QQQ",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "QQDN"
+  },
+  {
+   "symbol": "QQUP",
+   "name": "ProShares Ultra Top QQQ",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "QQUP"
+  },
+  {
+   "symbol": "TFNS",
+   "name": "T. Rowe Price Financials ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "TFNS"
+  },
+  {
+   "symbol": "TMED",
+   "name": "T. Rowe Price Health Care ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "TMED"
+  },
+  {
+   "symbol": "TURF",
+   "name": "T. Rowe Price Natural Resources ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "TURF"
+  },
+  {
+   "symbol": "VAPE",
+   "name": "CEA Industries Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "VAPE"
+  },
+  {
+   "symbol": "VAPEW",
+   "name": "CEA Industries Inc. - Warrant",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "VAPEW"
+  },
+  {
+   "symbol": "JBS",
+   "name": "JBS N.V. Class A Common Shares",
+   "exchange": "NYSE",
+   "yahoo_symbol": "JBS"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "CEAD",
+   "name": "CEA Industries Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "CEAD"
+  },
+  {
+   "symbol": "CEADW",
+   "name": "CEA Industries Inc. - Warrant",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "CEADW"
+  }
+ ]
+}
