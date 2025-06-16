@@ -1,0 +1,132 @@
+{
+ "added": [
+  {
+   "symbol": "GAMA",
+   "name": "Gamma Resources Ltd.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "GAMA.V",
+   "instruments": [
+    {
+     "name": "Gamma Resources Ltd.",
+     "symbol": "GAMA"
+    }
+   ]
+  },
+  {
+   "symbol": "SMY",
+   "name": "Search Minerals Inc.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "SMY.V",
+   "instruments": [
+    {
+     "name": "Search Minerals Inc.",
+     "symbol": "SMY"
+    }
+   ]
+  },
+  {
+   "symbol": "APLE",
+   "name": "Harvest Apple Enhanced High Income Shares ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "APLE.TO",
+   "instruments": [
+    {
+     "name": "Harvest Apl EnhHigIn",
+     "symbol": "APLE"
+    }
+   ]
+  },
+  {
+   "symbol": "JCOR",
+   "name": "JPMorgan US Core Active ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "JCOR.TO",
+   "instruments": [
+    {
+     "name": "JPMorgan US Core Act",
+     "symbol": "JCOR"
+    }
+   ]
+  },
+  {
+   "symbol": "AIRO",
+   "name": "AIRO Group Holdings, Inc. - Common Stock",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "AIRO"
+  },
+  {
+   "symbol": "BACCU",
+   "name": "Blue Acquisition Corp. - Unit",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "BACCU"
+  },
+  {
+   "symbol": "BOEG",
+   "name": "Leverage Shares 2X Long BA Daily ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "BOEG"
+  },
+  {
+   "symbol": "BSAAU",
+   "name": "BEST SPAC I Acquisition Corp. - Unit",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "BSAAU"
+  },
+  {
+   "symbol": "CBIO",
+   "name": "Crescent Biopharma, Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "CBIO"
+  },
+  {
+   "symbol": "UMBFO",
+   "name": "UMB Financial Corporation - Depositary Shares Each Representing a 1/400th Interest in a Share of 7.750% Fixed-Rate Reset Non-Cumulative Perpetual Preferred Stock, Series B",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "UMBFO"
+  },
+  {
+   "symbol": "DIVZ",
+   "name": "Listed Funds Trust Opal Dividend Income ETF",
+   "exchange": "NYSE ARCA",
+   "yahoo_symbol": "DIVZ"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "PLYA",
+   "name": "Playa Hotels \u0026 Resorts N.V. - Ordinary Shares",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "PLYA"
+  },
+  {
+   "symbol": "DCAP",
+   "name": "Unity Wealth Partners Dynamic Capital Appreciation \u0026 Options ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "DCAP"
+  },
+  {
+   "symbol": "GAB",
+   "name": "Gabo Mining Ltd.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "GAB.V",
+   "instruments": [
+    {
+     "name": "Gabo Mining Ltd.",
+     "symbol": "GAB"
+    }
+   ]
+  },
+  {
+   "symbol": "CUBI$E",
+   "name": "Customers Bancorp, Inc Fixed-to-Floating Rate Non-Cumulative Perpetual Preferred Stock, Series E",
+   "exchange": "NYSE",
+   "yahoo_symbol": "CUBI$E"
+  },
+  {
+   "symbol": "GLYC",
+   "name": "GlycoMimetics, Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "GLYC"
+  }
+ ]
+}
