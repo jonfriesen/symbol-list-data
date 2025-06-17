@@ -1,0 +1,168 @@
+{
+ "added": [
+  {
+   "symbol": "BASG",
+   "name": "Brown Advisory Sustainable Growth ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "BASG"
+  },
+  {
+   "symbol": "BASV",
+   "name": "Brown Advisory Sustainable Value ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "BASV"
+  },
+  {
+   "symbol": "IPCX",
+   "name": "Inflection Point Acquisition Corp. III - Class A ordinary shares",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "IPCX"
+  },
+  {
+   "symbol": "IPCXR",
+   "name": "Inflection Point Acquisition Corp. III - Rights",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "IPCXR"
+  },
+  {
+   "symbol": "NPAC",
+   "name": "New Providence Acquisition Corp. III - Ordinary Shares",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "NPAC"
+  },
+  {
+   "symbol": "NPACW",
+   "name": "New Providence Acquisition Corp. III - Warrants",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "NPACW"
+  },
+  {
+   "symbol": "SQQQ",
+   "name": "BetaPro -3x Nasdaq-100 Daily Leveraged Bear Alternative ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "SQQQ.TO",
+   "instruments": [
+    {
+     "name": "Bp-3xNq100 dlba ETF ",
+     "symbol": "SQQQ"
+    }
+   ]
+  },
+  {
+   "symbol": "SSPX",
+   "name": "BetaPro -3x S\u0026P 500 Daily Leveraged Bear Alternative ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "SSPX.TO",
+   "instruments": [
+    {
+     "name": "Bp-3xSP500 dlba ETF ",
+     "symbol": "SSPX"
+    }
+   ]
+  },
+  {
+   "symbol": "TQQQ",
+   "name": "BetaPro 3x Nasdaq-100 Daily Leveraged Bull Alternative ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "TQQQ.TO",
+   "instruments": [
+    {
+     "name": "Bp3x Nq100 dlba ETF ",
+     "symbol": "TQQQ"
+    }
+   ]
+  },
+  {
+   "symbol": "TSPX",
+   "name": "BetaPro 3x S\u0026P 500 Daily Leveraged Bull Alternative ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "TSPX.TO",
+   "instruments": [
+    {
+     "name": "Bp3x SP500 dlba ETF ",
+     "symbol": "TSPX"
+    }
+   ]
+  },
+  {
+   "symbol": "NTGA",
+   "name": "NBI Target 2026 Investment Grade Bond Fund",
+   "exchange": "TSX",
+   "yahoo_symbol": "NTGA.TO",
+   "instruments": [
+    {
+     "name": "NBI Ta2026 InGrBd Fd",
+     "symbol": "NTGA"
+    }
+   ]
+  },
+  {
+   "symbol": "NTGB",
+   "name": "NBI Target 2027 Investment Grade Bond Fund",
+   "exchange": "TSX",
+   "yahoo_symbol": "NTGB.TO",
+   "instruments": [
+    {
+     "name": "NBI Ta2027 InGrBd Fd",
+     "symbol": "NTGB"
+    }
+   ]
+  },
+  {
+   "symbol": "NTGC",
+   "name": "NBI Target 2028 Investment Grade Bond Fund",
+   "exchange": "TSX",
+   "yahoo_symbol": "NTGC.TO",
+   "instruments": [
+    {
+     "name": "NBI Ta2028 InGrBd Fd",
+     "symbol": "NTGC"
+    }
+   ]
+  },
+  {
+   "symbol": "AIM",
+   "name": "AIM ImmunoTech Inc. Common Stock",
+   "exchange": "NYSE MKT",
+   "yahoo_symbol": "AIM"
+  },
+  {
+   "symbol": "SCD.R",
+   "name": "LMP Capital and Income Fund Inc. Rights (expiring July 11, 2025) Rights",
+   "exchange": "NYSE",
+   "yahoo_symbol": "SCD.R"
+  },
+  {
+   "symbol": "VIRT",
+   "name": "Virtu Financial, Inc. Class A Common Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "VIRT"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "VIRT",
+   "name": "Virtu Financial, Inc. - Class A Common Stock",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "VIRT"
+  },
+  {
+   "symbol": "DADA",
+   "name": "Dada Nexus Limited - American Depositary Shares",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "DADA"
+  },
+  {
+   "symbol": "LGHLW",
+   "name": "Lion Group Holding Ltd. - Warrant",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "LGHLW"
+  },
+  {
+   "symbol": "SCD.V",
+   "name": "LMP Capital and Income Fund Inc. Rights (expiring July 11, 2025) Rights when issued",
+   "exchange": "NYSE",
+   "yahoo_symbol": "SCD.V"
+  }
+ ]
+}
