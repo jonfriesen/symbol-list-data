@@ -1,0 +1,124 @@
+{
+ "added": [
+  {
+   "symbol": "XRPQ",
+   "name": "3iQ XRP ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "XRPQ.TO",
+   "instruments": [
+    {
+     "name": "3iQ XRP ETF",
+     "symbol": "XRPQ"
+    },
+    {
+     "name": "3iQ XRP ETF USF",
+     "symbol": "XRPQ.U"
+    }
+   ]
+  },
+  {
+   "symbol": "XRP",
+   "name": "Evolve XRP ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "XRP.TO",
+   "instruments": [
+    {
+     "name": "Evolve XRP ETF CAD U",
+     "symbol": "XRP"
+    },
+    {
+     "name": "Evolve XRP ETF USF",
+     "symbol": "XRP.U"
+    }
+   ]
+  },
+  {
+   "symbol": "PFCO",
+   "name": "PICTON Credit Opportunities Alternative Fund",
+   "exchange": "TSX",
+   "yahoo_symbol": "PFCO.TO",
+   "instruments": [
+    {
+     "name": "PictonMhnyFortSpeSit",
+     "symbol": "PFCO"
+    }
+   ]
+  },
+  {
+   "symbol": "XRPP",
+   "name": "Purpose XRP ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "XRPP.TO",
+   "instruments": [
+    {
+     "name": "Purpose XRP CAD CuHd",
+     "symbol": "XRPP"
+    },
+    {
+     "name": "Purpose XRP CAD NoCu",
+     "symbol": "XRPP.B"
+    },
+    {
+     "name": "Purpose XRP ETF USF",
+     "symbol": "XRPP.U"
+    }
+   ]
+  },
+  {
+   "symbol": "IMDX",
+   "name": "Insight Molecular Diagnostics Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "IMDX"
+  },
+  {
+   "symbol": "MENS",
+   "name": "Jyong Biotech Ltd. - Ordinary shares",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "MENS"
+  },
+  {
+   "symbol": "EGG",
+   "name": "Enigmatig Limited Class A Ordinary Shares",
+   "exchange": "NYSE MKT",
+   "yahoo_symbol": "EGG"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "OCX",
+   "name": "Oncocyte Corporation - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "OCX"
+  },
+  {
+   "symbol": "PFSS",
+   "name": "Picton Mahoney Fortified Special Situations Alternative Fund",
+   "exchange": "TSX",
+   "yahoo_symbol": "PFSS.TO",
+   "instruments": [
+    {
+     "name": "PictonMhnyFortSpeSit",
+     "symbol": "PFSS"
+    }
+   ]
+  },
+  {
+   "symbol": "BHK.R",
+   "name": "Blackrock Core Bond Trust Rights (expiring June 18, 2025) Rights",
+   "exchange": "NYSE",
+   "yahoo_symbol": "BHK.R"
+  },
+  {
+   "symbol": "X",
+   "name": "United States Steel Corporation Common Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "X"
+  },
+  {
+   "symbol": "DMF",
+   "name": "BNY Mellon Municipal Income Inc. Common Stock",
+   "exchange": "NYSE MKT",
+   "yahoo_symbol": "DMF"
+  }
+ ]
+}
