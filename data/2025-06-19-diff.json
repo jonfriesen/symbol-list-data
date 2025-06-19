@@ -1,0 +1,78 @@
+{
+ "added": [
+  {
+   "symbol": "FINX",
+   "name": "FinEx Metals Ltd.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "FINX.V",
+   "instruments": [
+    {
+     "name": "FinEx Metals Ltd.",
+     "symbol": "FINX"
+    }
+   ]
+  },
+  {
+   "symbol": "AXINU",
+   "name": "Axiom Intelligence Acquisition Corp 1 - Units",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "AXINU"
+  },
+  {
+   "symbol": "CAI",
+   "name": "Caris Life Sciences, Inc. - Common Stock",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "CAI"
+  },
+  {
+   "symbol": "EXUS",
+   "name": "Macquarie Focused International Core ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "EXUS"
+  },
+  {
+   "symbol": "PACHU",
+   "name": "Pioneer Acquisition I Corp - Units",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "PACHU"
+  },
+  {
+   "symbol": "SLDE",
+   "name": "Slide Insurance Holdings, Inc. - Common Stock",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "SLDE"
+  },
+  {
+   "symbol": "WTIP",
+   "name": "WisdomTree Inflation Plus Fund",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "WTIP"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "SOLG",
+   "name": "SolGold plc",
+   "exchange": "TSX",
+   "yahoo_symbol": "SOLG.TO",
+   "instruments": [
+    {
+     "name": "SolGold plc J Ord",
+     "symbol": "SOLG"
+    }
+   ]
+  },
+  {
+   "symbol": "CXB",
+   "name": "Calibre Mining Corp.",
+   "exchange": "TSX",
+   "yahoo_symbol": "CXB.TO",
+   "instruments": [
+    {
+     "name": "Calibre Mining Corp.",
+     "symbol": "CXB"
+    }
+   ]
+  }
+ ]
+}
