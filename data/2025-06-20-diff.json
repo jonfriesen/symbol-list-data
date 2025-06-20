@@ -1,0 +1,66 @@
+{
+ "added": [
+  {
+   "symbol": "FCI",
+   "name": "First Canadian Graphite Inc.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "FCI.V",
+   "instruments": [
+    {
+     "name": "First Canadian Graphite Inc.",
+     "symbol": "FCI"
+    }
+   ]
+  },
+  {
+   "symbol": "DMQC",
+   "name": "Desjardins Quebec Equity ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "DMQC.TO",
+   "instruments": [
+    {
+     "name": "Desjardins Quebec Eq",
+     "symbol": "DMQC"
+    }
+   ]
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "LDTC",
+   "name": "LeddarTech Holdings Inc. - Common Shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "LDTC"
+  },
+  {
+   "symbol": "BROG",
+   "name": "Brooge Energy Limited  - Ordinary Shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "BROG"
+  },
+  {
+   "symbol": "GEM",
+   "name": "Green Battery Minerals Inc.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "GEM.V",
+   "instruments": [
+    {
+     "name": "Green Battery Minerals Inc.",
+     "symbol": "GEM"
+    }
+   ]
+  },
+  {
+   "symbol": "LIPO",
+   "name": "Lipella Pharmaceuticals Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "LIPO"
+  },
+  {
+   "symbol": "LDTCW",
+   "name": "LeddarTech Holdings Inc. - Warrants",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "LDTCW"
+  }
+ ]
+}

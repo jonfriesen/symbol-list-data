@@ -1,0 +1,38 @@
+{
+ "added": [
+  {
+   "symbol": "XFT",
+   "name": "Offshift (XFT)"
+  },
+  {
+   "symbol": "RODEO",
+   "name": "Rodeo Finance (RODEO)"
+  },
+  {
+   "symbol": "BTCONETH",
+   "name": "bitcoin on Ethereum (BTCONETH)"
+  },
+  {
+   "symbol": "LICKO",
+   "name": "LICKO (LICKO)"
+  },
+  {
+   "symbol": "BITCORE",
+   "name": "BitCore (BITCORE)"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "XFTC",
+   "name": "Offshift (XFTC)"
+  },
+  {
+   "symbol": "ZEDCOIN",
+   "name": "ZedCoin (ZEDCOIN)"
+  },
+  {
+   "symbol": "MAOMEME",
+   "name": "Mao (MAOMEME)"
+  }
+ ]
+}
