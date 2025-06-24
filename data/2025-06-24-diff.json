@@ -1,0 +1,102 @@
+{
+ "added": [
+  {
+   "symbol": "CRAQ",
+   "name": "Cal Redwood Acquisition Corp. - Class A Ordinary Shares",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "CRAQ"
+  },
+  {
+   "symbol": "CRAQR",
+   "name": "Cal Redwood Acquisition Corp. - Right",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "CRAQR"
+  },
+  {
+   "symbol": "GTEN",
+   "name": "Gores Holdings X, Inc. - Class A ordinary shares",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "GTEN"
+  },
+  {
+   "symbol": "GTENW",
+   "name": "Gores Holdings X, Inc. - Warrants",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "GTENW"
+  },
+  {
+   "symbol": "LCCC",
+   "name": "Lakeshore Acquisition III Corp. - Ordinary Shares",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "LCCC"
+  },
+  {
+   "symbol": "LCCCR",
+   "name": "Lakeshore Acquisition III Corp. - Rights",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "LCCCR"
+  },
+  {
+   "symbol": "RDAG",
+   "name": "Republic Digital Acquisition Company - Class A Ordinary Shares",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "RDAG"
+  },
+  {
+   "symbol": "RDAGW",
+   "name": "Republic Digital Acquisition Company - Warrants",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "RDAGW"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "DIVZ",
+   "name": "Listed Funds Trust Opal Dividend Income ETF",
+   "exchange": "NYSE ARCA",
+   "yahoo_symbol": "DIVZ"
+  },
+  {
+   "symbol": "VRMEW",
+   "name": "VerifyMe, Inc. - Warrant",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "VRMEW"
+  },
+  {
+   "symbol": "ATLE",
+   "name": "Atlas Energy Corp.",
+   "exchange": "TSX",
+   "yahoo_symbol": "ATLE.TO",
+   "instruments": [
+    {
+     "name": "Atlas Energy Corp",
+     "symbol": "ATLE"
+    }
+   ]
+  },
+  {
+   "symbol": "PHX",
+   "name": "PHX Minerals Inc. Common Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "PHX"
+  },
+  {
+   "symbol": "SLMN",
+   "name": "Solis Minerals Ltd.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "SLMN.V",
+   "instruments": [
+    {
+     "name": "Solis Minerals Ltd.",
+     "symbol": "SLMN"
+    }
+   ]
+  },
+  {
+   "symbol": "RNEW",
+   "name": "VanEck Green Infrastructure ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "RNEW"
+  }
+ ]
+}
