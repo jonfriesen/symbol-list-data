@@ -1,0 +1,50 @@
+{
+ "added": [
+  {
+   "symbol": "STB",
+   "name": "stabble (STB)"
+  },
+  {
+   "symbol": "LOLLYBOMB",
+   "name": "LollyBomb (LOLLYBOMB)"
+  },
+  {
+   "symbol": "GORTH",
+   "name": "Gorth (GORTH)"
+  },
+  {
+   "symbol": "LATOKEN",
+   "name": "LATOKEN (LATOKEN)"
+  },
+  {
+   "symbol": "AGORK",
+   "name": "@gork (AGORK)"
+  },
+  {
+   "symbol": "TUKIV1",
+   "name": "Tuki v1 (TUKIV1)"
+  },
+  {
+   "symbol": "BFTOKEN",
+   "name": "BOSS FIGHTERS (BFTOKEN)"
+  },
+  {
+   "symbol": "PLAYFUN",
+   "name": "PLAYFUN (PLAYFUN)"
+  },
+  {
+   "symbol": "QU3V1",
+   "name": "QU3ai v1 (QU3V1)"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "MAOMEME",
+   "name": "Mao (MAOMEME)"
+  },
+  {
+   "symbol": "ZEDCOIN",
+   "name": "ZedCoin (ZEDCOIN)"
+  }
+ ]
+}

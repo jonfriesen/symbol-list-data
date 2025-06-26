@@ -1,0 +1,132 @@
+{
+ "added": [
+  {
+   "symbol": "BTCT",
+   "name": "Bitcoin Treasury Corporation",
+   "exchange": "TSXV",
+   "yahoo_symbol": "BTCT.V",
+   "instruments": [
+    {
+     "name": "Bitcoin Treasury Corporation",
+     "symbol": "BTCT"
+    }
+   ]
+  },
+  {
+   "symbol": "LIB",
+   "name": "LibertyStream Infrastructure Partners Inc.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "LIB.V",
+   "instruments": [
+    {
+     "name": "LibertyStream Infrastructure Partners Inc.",
+     "symbol": "LIB"
+    }
+   ]
+  },
+  {
+   "symbol": "XTOH",
+   "name": "iShares Core S\u0026P Total U.S. Stock Market Index ETF (CAD-Hedged)",
+   "exchange": "TSX",
+   "yahoo_symbol": "XTOH.TO",
+   "instruments": [
+    {
+     "name": "iShares Core SP Tota",
+     "symbol": "XTOH"
+    }
+   ]
+  },
+  {
+   "symbol": "CSCL",
+   "name": "Direxion Daily CSCO Bull 2X ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "CSCL"
+  },
+  {
+   "symbol": "CSCS",
+   "name": "Direxion Daily CSCO Bear 1X ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "CSCS"
+  },
+  {
+   "symbol": "FMFC",
+   "name": "Kandal M Venture Limited - Class A ordinary Shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "FMFC"
+  },
+  {
+   "symbol": "LWACU",
+   "name": "LightWave Acquisition Corp. - Units",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "LWACU"
+  },
+  {
+   "symbol": "OBAWU",
+   "name": "Oxley Bridge Acquisition Limited - Unit",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "OBAWU"
+  },
+  {
+   "symbol": "QCMD",
+   "name": "Direxion Daily QCOM Bear 1X ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "QCMD"
+  },
+  {
+   "symbol": "QCMU",
+   "name": "Direxion Daily QCOM Bull 2X ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "QCMU"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "MRIN",
+   "name": "Marin Software Incorporated - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "MRIN"
+  },
+  {
+   "symbol": "RGLS",
+   "name": "Regulus Therapeutics Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "RGLS"
+  },
+  {
+   "symbol": "LSEA",
+   "name": "Landsea Homes Corporation - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "LSEA"
+  },
+  {
+   "symbol": "VLT",
+   "name": "Volt Lithium Corp.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "VLT.V",
+   "instruments": [
+    {
+     "name": "Volt Lithium Corp.",
+     "symbol": "VLT"
+    }
+   ]
+  },
+  {
+   "symbol": "LSEAW",
+   "name": "Landsea Homes Corporation - Warrant",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "LSEAW"
+  },
+  {
+   "symbol": "LUM",
+   "name": "Lumina Gold Corp.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "LUM.V",
+   "instruments": [
+    {
+     "name": "Lumina Gold Corp.",
+     "symbol": "LUM"
+    }
+   ]
+  }
+ ]
+}
