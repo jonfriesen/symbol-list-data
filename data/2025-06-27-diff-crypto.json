@@ -1,0 +1,32 @@
+{
+ "added": [
+  {
+   "symbol": "H",
+   "name": "Humanity (H)"
+  },
+  {
+   "symbol": "BITCOINCONFI",
+   "name": "Bitcoin Confidential (BITCOINCONFI)"
+  },
+  {
+   "symbol": "SOGUR",
+   "name": "Sogur Currency (SOGUR)"
+  },
+  {
+   "symbol": "TAG",
+   "name": "Tagger (TAG)"
+  },
+  {
+   "symbol": "TOPBIDDER",
+   "name": "TopBidder (TOPBIDDER)"
+  },
+  {
+   "symbol": "SGA",
+   "name": "Saga (SGA)"
+  },
+  {
+   "symbol": "MONEYTOKEN",
+   "name": "Moneytoken (MONEYTOKEN)"
+  }
+ ]
+}

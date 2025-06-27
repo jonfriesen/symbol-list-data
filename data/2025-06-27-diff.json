@@ -1,0 +1,108 @@
+{
+ "added": [
+  {
+   "symbol": "NZ",
+   "name": "New Zealand Energy Corp.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "NZ.V",
+   "instruments": [
+    {
+     "name": "New Zealand Energy Corp.",
+     "symbol": "NZ"
+    }
+   ]
+  },
+  {
+   "symbol": "ABI",
+   "name": "VictoryShares Pioneer Asset-Based Income ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "ABI"
+  },
+  {
+   "symbol": "AFOS",
+   "name": "ARS Focused Opportunity Strategy ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "AFOS"
+  },
+  {
+   "symbol": "BGL",
+   "name": "Blue Gold Limited - Class A ordinary shares",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "BGL"
+  },
+  {
+   "symbol": "BGLWW",
+   "name": "Blue Gold Limited - Warrant",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "BGLWW"
+  },
+  {
+   "symbol": "CAEP",
+   "name": "Cantor Equity Partners III, Inc. - Class A Ordinary Shares",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "CAEP"
+  },
+  {
+   "symbol": "FGSI",
+   "name": "FT Vest Growth Strength \u0026 Target Income ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "FGSI"
+  },
+  {
+   "symbol": "GRIN",
+   "name": "VictoryShares International Free Cash Flow Growth ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "GRIN"
+  },
+  {
+   "symbol": "IFLO",
+   "name": "VictoryShares International Free Cash Flow ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "IFLO"
+  },
+  {
+   "symbol": "JCAP",
+   "name": "Jefferson Capital, Inc. - Common Stock",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "JCAP"
+  },
+  {
+   "symbol": "JLHL",
+   "name": "Julong Holding Limited - Class A Ordinary Shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "JLHL"
+  },
+  {
+   "symbol": "QB",
+   "name": "ProShares Nasdaq-100 Dynamic Buffer ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "QB"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "HOFVW",
+   "name": "Hall of Fame Resort \u0026 Entertainment Company - Warrant",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "HOFVW"
+  },
+  {
+   "symbol": "CML",
+   "name": "CaNickel Mining Limited",
+   "exchange": "TSXV",
+   "yahoo_symbol": "CML.V",
+   "instruments": [
+    {
+     "name": "Canickel Mining Limited",
+     "symbol": "CML"
+    }
+   ]
+  },
+  {
+   "symbol": "HOFV",
+   "name": "Hall of Fame Resort \u0026 Entertainment Company - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "HOFV"
+  }
+ ]
+}
