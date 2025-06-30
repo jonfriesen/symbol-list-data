@@ -1,0 +1,38 @@
+{
+ "added": [
+  {
+   "symbol": "ARABCLUB",
+   "name": "The Arab Club Token (ARABCLUB)"
+  },
+  {
+   "symbol": "SAHARA",
+   "name": "Sahara AI (SAHARA)"
+  },
+  {
+   "symbol": "CUDIS",
+   "name": "Cudis (CUDIS)"
+  },
+  {
+   "symbol": "SAHA",
+   "name": "Sahara AI Coin (SAHA)"
+  },
+  {
+   "symbol": "RUBIX",
+   "name": "Rubix (RUBIX)"
+  },
+  {
+   "symbol": "IMOV",
+   "name": "IMOV (IMOV)"
+  },
+  {
+   "symbol": "BINANCIENS",
+   "name": "Binanciens (BINANCIENS)"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "MONEYIMT",
+   "name": "MoneyToken (MONEYIMT)"
+  }
+ ]
+}

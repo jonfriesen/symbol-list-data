@@ -1,0 +1,170 @@
+{
+ "added": [
+  {
+   "symbol": "DFSC",
+   "name": "DEFSEC Technologies Inc.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "DFSC.V",
+   "instruments": [
+    {
+     "name": "DEFSEC Technologies Inc.",
+     "symbol": "DFSC"
+    },
+    {
+     "name": "DEFSEC Technologies Inc. wt 09Dec2027",
+     "symbol": "DFSC.WT.U"
+    }
+   ]
+  },
+  {
+   "symbol": "TGC",
+   "name": "TooGood Gold Corp.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "TGC.V",
+   "instruments": [
+    {
+     "name": "TooGood Gold Corp.",
+     "symbol": "TGC"
+    }
+   ]
+  },
+  {
+   "symbol": "RAL",
+   "name": "Ralliant Corporation Common Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "RAL"
+  },
+  {
+   "symbol": "SEG",
+   "name": "Seaport Entertainment Group Inc. Common Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "SEG"
+  },
+  {
+   "symbol": "AIFD",
+   "name": "TCW Artificial Intelligence ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "AIFD"
+  },
+  {
+   "symbol": "DFSC",
+   "name": "DEFSEC Technologies Inc. - common stock, no R/S concurrent with offering",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "DFSC"
+  },
+  {
+   "symbol": "DFSCW",
+   "name": "DEFSEC Technologies Inc. - warrant",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "DFSCW"
+  },
+  {
+   "symbol": "FIGXU",
+   "name": "FIGX Capital Acquisition Corp. - Units",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "FIGXU"
+  },
+  {
+   "symbol": "GRW",
+   "name": "TCW Compounders ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "GRW"
+  },
+  {
+   "symbol": "PWRD",
+   "name": "TCW Transform Systems ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "PWRD"
+  },
+  {
+   "symbol": "SUPP",
+   "name": "TCW Transform Supply Chain ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "SUPP"
+  },
+  {
+   "symbol": "VOTE",
+   "name": "TCW Transform 500 ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "VOTE"
+  },
+  {
+   "symbol": "YORKU",
+   "name": "Yorkville Acquisition Corp. - Unit",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "YORKU"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "KWESW",
+   "name": "KWESST Micro Systems Inc. - warrant",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "KWESW"
+  },
+  {
+   "symbol": "FTV.V",
+   "name": "Fortive Corporation Common Stock When-Issued",
+   "exchange": "NYSE",
+   "yahoo_symbol": "FTV.V"
+  },
+  {
+   "symbol": "SMTH.P",
+   "name": "Smithe Resources Corp.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "SMTH.P.V",
+   "instruments": [
+    {
+     "name": "Smithe Resources Corp.",
+     "symbol": "SMTH.P"
+    }
+   ]
+  },
+  {
+   "symbol": "FGB",
+   "name": "First Trust Specialty Finance and Financial Opportunities Fund",
+   "exchange": "NYSE",
+   "yahoo_symbol": "FGB"
+  },
+  {
+   "symbol": "KWE",
+   "name": "KWESST Micro Systems Inc.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "KWE.V",
+   "instruments": [
+    {
+     "name": "KWESST Micro Systems Inc.",
+     "symbol": "KWE"
+    },
+    {
+     "name": "Kwesst Micro Systems Inc. wt 09Dec2027",
+     "symbol": "KWE.WT.U"
+    }
+   ]
+  },
+  {
+   "symbol": "RAL.V",
+   "name": "Ralliant Corporation Common Stock When-Issued",
+   "exchange": "NYSE",
+   "yahoo_symbol": "RAL.V"
+  },
+  {
+   "symbol": "KWE",
+   "name": "KWESST Micro Systems Inc. - common stock, no R/S concurrent with offering",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "KWE"
+  },
+  {
+   "symbol": "ATH$C",
+   "name": "Athene Holding Ltd. Depositary Shares, each representing a 1/1,000th Interest in a Share of 6.375% Fixed-Rate Reset Perpetual Non-Cumulative Preference Shares, Series C",
+   "exchange": "NYSE",
+   "yahoo_symbol": "ATH$C"
+  },
+  {
+   "symbol": "SEG",
+   "name": "Seaport Entertainment Group Inc. Common Stock",
+   "exchange": "NYSE MKT",
+   "yahoo_symbol": "SEG"
+  }
+ ]
+}
