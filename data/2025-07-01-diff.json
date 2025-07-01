@@ -1,0 +1,120 @@
+{
+ "added": [
+  {
+   "symbol": "EGHA",
+   "name": "EGH Acquisition Corp. - Class A ordinary shares",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "EGHA"
+  },
+  {
+   "symbol": "EGHAR",
+   "name": "EGH Acquisition Corp. - rights",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "EGHAR"
+  },
+  {
+   "symbol": "MZTI",
+   "name": "The Marzetti Company - Common Stock",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "MZTI"
+  },
+  {
+   "symbol": "OPPJ",
+   "name": "WisdomTree Japan Opportunities Fund",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "OPPJ"
+  },
+  {
+   "symbol": "SCAG",
+   "name": "Scage Future - American Depositary Shares",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "SCAG"
+  },
+  {
+   "symbol": "SCAGW",
+   "name": "Scage Future - Warrants",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "SCAGW"
+  },
+  {
+   "symbol": "TAOX",
+   "name": "Tao Synergies Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "TAOX"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "BPT",
+   "name": "BP Prudhoe Bay Royalty Trust Common Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "BPT"
+  },
+  {
+   "symbol": "AGS",
+   "name": "PlayAGS, Inc. Common Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "AGS"
+  },
+  {
+   "symbol": "EVRI",
+   "name": "Everi Holdings Inc. Common Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "EVRI"
+  },
+  {
+   "symbol": "JVSA",
+   "name": "JVSPAC Acquisition Corp. - Class A Ordinary Share",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "JVSA"
+  },
+  {
+   "symbol": "SNPX",
+   "name": "Synaptogenix, Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "SNPX"
+  },
+  {
+   "symbol": "JVSAR",
+   "name": "JVSPAC Acquisition Corp. - Right",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "JVSAR"
+  },
+  {
+   "symbol": "DXJS",
+   "name": "WisdomTree Japan Hedged SmallCap Equity Fund",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "DXJS"
+  },
+  {
+   "symbol": "JVSAU",
+   "name": "JVSPAC Acquisition Corp. - Unit",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "JVSAU"
+  },
+  {
+   "symbol": "AZEK",
+   "name": "The AZEK Company Inc. Class A Common Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "AZEK"
+  },
+  {
+   "symbol": "BULLZ",
+   "name": "Webull Corporation - Incentive Warrant",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "BULLZ"
+  },
+  {
+   "symbol": "IMTXW",
+   "name": "Immatics N.V. - Warrants",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "IMTXW"
+  },
+  {
+   "symbol": "LANC",
+   "name": "Lancaster Colony Corporation - Common Stock",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "LANC"
+  }
+ ]
+}

@@ -1,0 +1,94 @@
+{
+ "added": [
+  {
+   "symbol": "GOOGLX",
+   "name": "Alphabet xStock (GOOGLX)"
+  },
+  {
+   "symbol": "ABTX",
+   "name": "Abbott xStock (ABTX)"
+  },
+  {
+   "symbol": "NVDAX",
+   "name": "NVIDIA xStock (NVDAX)"
+  },
+  {
+   "symbol": "ACNX",
+   "name": "Accenture xStock (ACNX)"
+  },
+  {
+   "symbol": "ABBVX",
+   "name": "AbbVie xStock (ABBVX)"
+  },
+  {
+   "symbol": "BLUM",
+   "name": "Blum (BLUM)"
+  },
+  {
+   "symbol": "INFOFI",
+   "name": "WAGMI HUB (INFOFI)"
+  },
+  {
+   "symbol": "MYX",
+   "name": "MYX Finance (MYX)"
+  },
+  {
+   "symbol": "MOONCOIN",
+   "name": "Mooncoin (MOONCOIN)"
+  },
+  {
+   "symbol": "SPARKSPAY",
+   "name": "SparksPay (SPARKSPAY)"
+  },
+  {
+   "symbol": "RABET",
+   "name": "Rabet (RABET)"
+  },
+  {
+   "symbol": "TUGGIN",
+   "name": "Tuggin (TUGGIN)"
+  },
+  {
+   "symbol": "ZEDCOIN",
+   "name": "ZedCoin (ZEDCOIN)"
+  },
+  {
+   "symbol": "CESS",
+   "name": "CESS Token (CESS)"
+  },
+  {
+   "symbol": "MAOMEME",
+   "name": "Mao (MAOMEME)"
+  },
+  {
+   "symbol": "ESX",
+   "name": "EstateX (ESX)"
+  },
+  {
+   "symbol": "CRCL",
+   "name": "Circle (CRCL)"
+  },
+  {
+   "symbol": "AMBRX",
+   "name": "Amber xStock (AMBRX)"
+  },
+  {
+   "symbol": "KNCH",
+   "name": "Kaanch Network (KNCH)"
+  },
+  {
+   "symbol": "AMZNX",
+   "name": "Amazon xStocks (AMZNX)"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "RBT",
+   "name": "Rabet (RBT)"
+  },
+  {
+   "symbol": "SPK",
+   "name": "SparksPay (SPK)"
+  }
+ ]
+}
