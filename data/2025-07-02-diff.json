@@ -1,0 +1,262 @@
+{
+ "added": [
+  {
+   "symbol": "BIP.PR.B",
+   "name": "Brookfield Infrastructure Partners L.P.",
+   "exchange": "TSX",
+   "yahoo_symbol": "BIP.PR.B.TO",
+   "instruments": [
+    {
+     "name": "Brookfield InfrasPr3",
+     "symbol": "BIP.PR.B"
+    },
+    {
+     "name": "Brookfield InfrasPr9",
+     "symbol": "BIP.PR.E"
+    },
+    {
+     "name": "Brookfield InfraPr11",
+     "symbol": "BIP.PR.F"
+    },
+    {
+     "name": "Brookfield Infras Un",
+     "symbol": "BIP.UN"
+    }
+   ]
+  },
+  {
+   "symbol": "COIU",
+   "name": "LFG Daily (2X) COIN Long ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "COIU.TO",
+   "instruments": [
+    {
+     "name": "LFG Daily 2X COIN Lg",
+     "symbol": "COIU"
+    }
+   ]
+  },
+  {
+   "symbol": "MSTU",
+   "name": "LFG Daily (2X) MSTR Long ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "MSTU.TO",
+   "instruments": [
+    {
+     "name": "LFG Daily 2X MSTR Lg",
+     "symbol": "MSTU"
+    }
+   ]
+  },
+  {
+   "symbol": "SXGC",
+   "name": "Southern Cross Gold Consolidated Ltd.",
+   "exchange": "TSX",
+   "yahoo_symbol": "SXGC.TO",
+   "instruments": [
+    {
+     "name": "Southern Cross Gold ",
+     "symbol": "SXGC"
+    }
+   ]
+  },
+  {
+   "symbol": "AEBI",
+   "name": "Aebi Schmidt Holding AG - Common Stock",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "AEBI"
+  },
+  {
+   "symbol": "CCIIU",
+   "name": "Cohen Circle Acquisition Corp. II - Unit",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "CCIIU"
+  },
+  {
+   "symbol": "GRAN",
+   "name": "Grande Group Limited - Class A Ordinary Shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "GRAN"
+  },
+  {
+   "symbol": "HBNB",
+   "name": "Hotel101 Global Holdings Corp. - Class A Ordinary Shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "HBNB"
+  },
+  {
+   "symbol": "INACU",
+   "name": "Indigo Acquisition Corp. - Unit",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "INACU"
+  },
+  {
+   "symbol": "NMPAU",
+   "name": "NMP Acquisition Corp. - Units",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "NMPAU"
+  },
+  {
+   "symbol": "BRSL",
+   "name": "Brightstar Lottery Ordinary Shares",
+   "exchange": "NYSE",
+   "yahoo_symbol": "BRSL"
+  },
+  {
+   "symbol": "COSO",
+   "name": "CoastalSouth Bancshares, Inc. Common Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "COSO"
+  },
+  {
+   "symbol": "EVAC.U",
+   "name": "EQV Ventures Acquisition Corp. II Units, each unit consists of one Class A ordinary share and one-third of one redeemable warrant",
+   "exchange": "NYSE",
+   "yahoo_symbol": "EVAC.U"
+  },
+  {
+   "symbol": "PTHS",
+   "name": "Pelthos Therapeutics Inc. Common Stock",
+   "exchange": "NYSE MKT",
+   "yahoo_symbol": "PTHS"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "SATX",
+   "name": "SatixFy Communications Ltd. Ordinary Share",
+   "exchange": "NYSE MKT",
+   "yahoo_symbol": "SATX"
+  },
+  {
+   "symbol": "IGT",
+   "name": "International Game Technology Ordinary Shares",
+   "exchange": "NYSE",
+   "yahoo_symbol": "IGT"
+  },
+  {
+   "symbol": "GUS",
+   "name": "Angus Gold Inc.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "GUS.V",
+   "instruments": [
+    {
+     "name": "Angus Gold Inc.",
+     "symbol": "GUS"
+    }
+   ]
+  },
+  {
+   "symbol": "EBTC",
+   "name": "Enterprise Bancorp Inc - Common Stock",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "EBTC"
+  },
+  {
+   "symbol": "JNPR",
+   "name": "Juniper Networks, Inc. Common Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "JNPR"
+  },
+  {
+   "symbol": "LSPK",
+   "name": "LifeSpeak Inc",
+   "exchange": "TSX",
+   "yahoo_symbol": "LSPK.TO",
+   "instruments": [
+    {
+     "name": "LifeSpeak Inc. J",
+     "symbol": "LSPK"
+    }
+   ]
+  },
+  {
+   "symbol": "SWTX",
+   "name": "SpringWorks Therapeutics, Inc. - common stock",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "SWTX"
+  },
+  {
+   "symbol": "SHYF",
+   "name": "The Shyft Group, Inc. - Common Stock",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "SHYF"
+  },
+  {
+   "symbol": "SSBK",
+   "name": "Southern States Bancshares, Inc. - Common Stock",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "SSBK"
+  },
+  {
+   "symbol": "BIP.PR.A",
+   "name": "Brookfield Infrastructure Partners L.P.",
+   "exchange": "TSX",
+   "yahoo_symbol": "BIP.PR.A.TO",
+   "instruments": [
+    {
+     "name": "Brookfield InfrasPr1",
+     "symbol": "BIP.PR.A"
+    },
+    {
+     "name": "Brookfield InfrasPr3",
+     "symbol": "BIP.PR.B"
+    },
+    {
+     "name": "Brookfield InfrasPr9",
+     "symbol": "BIP.PR.E"
+    },
+    {
+     "name": "Brookfield InfraPr11",
+     "symbol": "BIP.PR.F"
+    },
+    {
+     "name": "Brookfield Infras Un",
+     "symbol": "BIP.UN"
+    }
+   ]
+  },
+  {
+   "symbol": "RDFN",
+   "name": "Redfin Corporation - Common Stock",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "RDFN"
+  },
+  {
+   "symbol": "YERB.U",
+   "name": "Yerbae Brands Corp.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "YERB.U.V",
+   "instruments": [
+    {
+     "name": "Yerbae Brands Corp.",
+     "symbol": "YERB.U"
+    }
+   ]
+  },
+  {
+   "symbol": "CHRO",
+   "name": "Channel Therapeutics Corporation Common Stock",
+   "exchange": "NYSE MKT",
+   "yahoo_symbol": "CHRO"
+  },
+  {
+   "symbol": "INZY",
+   "name": "Inozyme Pharma, Inc. - Common Stock",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "INZY"
+  },
+  {
+   "symbol": "SXGC",
+   "name": "Southern Cross Gold Consolidated Ltd.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "SXGC.V",
+   "instruments": [
+    {
+     "name": "Southern Cross Gold Consolidated Ltd.",
+     "symbol": "SXGC"
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,152 @@
+{
+ "added": [
+  {
+   "symbol": "COINX",
+   "name": "Coinbase xStock (COINX)"
+  },
+  {
+   "symbol": "KOX",
+   "name": "Coca-Cola xStock (KOX)"
+  },
+  {
+   "symbol": "USUD",
+   "name": "USUD (USUD)"
+  },
+  {
+   "symbol": "KYO",
+   "name": "Kayyo (KYO)"
+  },
+  {
+   "symbol": "AZNX",
+   "name": "AstraZeneca xStock (AZNX)"
+  },
+  {
+   "symbol": "GAMECOIN",
+   "name": "Game Coin (GAMECOIN)"
+  },
+  {
+   "symbol": "HONX",
+   "name": "Honeywell xStock (HONX)"
+  },
+  {
+   "symbol": "ELYSIAN",
+   "name": "Elysian (ELYSIAN)"
+  },
+  {
+   "symbol": "CMCSAX",
+   "name": "Comcast xStock (CMCSAX)"
+  },
+  {
+   "symbol": "CRWDX",
+   "name": "CrowdStrike xStock (CRWDX)"
+  },
+  {
+   "symbol": "PLMS",
+   "name": "Polemos (PLMS)"
+  },
+  {
+   "symbol": "NAGANO",
+   "name": "nagano (NAGANO)"
+  },
+  {
+   "symbol": "AAPLX",
+   "name": "Apple xStock (AAPLX)"
+  },
+  {
+   "symbol": "IBMX",
+   "name": "International Business Machines xStock (IBMX)"
+  },
+  {
+   "symbol": "CVXX",
+   "name": "Chevron xStock (CVXX)"
+  },
+  {
+   "symbol": "LLYX",
+   "name": "Eli Lilly xStock (LLYX)"
+  },
+  {
+   "symbol": "CSCOX",
+   "name": "Cisco xStock (CSCOX)"
+  },
+  {
+   "symbol": "BRKBX",
+   "name": "Berkshire Hathaway xStock (BRKBX)"
+  },
+  {
+   "symbol": "MARGE",
+   "name": "Marge Simpson (MARGE)"
+  },
+  {
+   "symbol": "SPYX",
+   "name": "SP500 xStock (SPYX)"
+  },
+  {
+   "symbol": "GRDM",
+   "name": "GridiumAI (GRDM)"
+  },
+  {
+   "symbol": "JNJX",
+   "name": "Johnson \u0026 Johnson xStock (JNJX)"
+  },
+  {
+   "symbol": "VULPEFI",
+   "name": "Vulpe Finance (VULPEFI)"
+  },
+  {
+   "symbol": "CRCLX",
+   "name": "Circle xStock (CRCLX)"
+  },
+  {
+   "symbol": "DFDVX",
+   "name": "DFDV xStock (DFDVX)"
+  },
+  {
+   "symbol": "XOMX",
+   "name": "Exxon Mobil xStock (XOMX)"
+  },
+  {
+   "symbol": "BACX",
+   "name": "Bank of America xStock (BACX)"
+  },
+  {
+   "symbol": "DHRX",
+   "name": "Danaher xStock (DHRX)"
+  },
+  {
+   "symbol": "APPX",
+   "name": "AppLovin xStock (APPX)"
+  },
+  {
+   "symbol": "MTPLF",
+   "name": "Metaplanet (MTPLF)"
+  },
+  {
+   "symbol": "BABYLABUBU",
+   "name": "BABY LABUBU (BABYLABUBU)"
+  },
+  {
+   "symbol": "YURU",
+   "name": "YURU COIN (YURU)"
+  },
+  {
+   "symbol": "AVGOX",
+   "name": "Broadcom xStock (AVGOX)"
+  },
+  {
+   "symbol": "INTCX",
+   "name": "Intel xStock (INTCX)"
+  },
+  {
+   "symbol": "RICH",
+   "name": "GET RICH QUICK (RICH)"
+  },
+  {
+   "symbol": "BPSCRT",
+   "name": "Secret (Binance Bridge) (BPSCRT)"
+  },
+  {
+   "symbol": "TSLAX",
+   "name": "Tesla xStock (TSLAX)"
+  }
+ ]
+}
