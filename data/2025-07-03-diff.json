@@ -1,0 +1,66 @@
+{
+ "added": [
+  {
+   "symbol": "CV",
+   "name": "CapsoVision, Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "CV"
+  },
+  {
+   "symbol": "EMPG",
+   "name": "Empro Group Inc. - Ordinary shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "EMPG"
+  },
+  {
+   "symbol": "HYPD",
+   "name": "Hyperion DeFi, Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "HYPD"
+  },
+  {
+   "symbol": "ONCHU",
+   "name": "1RT Acquisition Corp. - Units",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "ONCHU"
+  },
+  {
+   "symbol": "ORIQU",
+   "name": "Origin Investment Corp I - Units",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "ORIQU"
+  },
+  {
+   "symbol": "TVAI",
+   "name": "Thayer Ventures Acquisition Corporation II - Class A Ordinary Shares",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "TVAI"
+  },
+  {
+   "symbol": "TVAIR",
+   "name": "Thayer Ventures Acquisition Corporation II - Rights",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "TVAIR"
+  },
+  {
+   "symbol": "VNMEU",
+   "name": "Vendome Acquisition Corporation I - Unit",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "VNMEU"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "EYEN",
+   "name": "Eyenovia, Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "EYEN"
+  },
+  {
+   "symbol": "ESGR",
+   "name": "Enstar Group Limited - Ordinary Shares",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "ESGR"
+  }
+ ]
+}
