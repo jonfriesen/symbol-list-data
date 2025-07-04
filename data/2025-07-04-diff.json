@@ -1,0 +1,30 @@
+{
+ "added": [
+  {
+   "symbol": "FORT",
+   "name": "Fort Technology Inc.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "FORT.V",
+   "instruments": [
+    {
+     "name": "Fort Technology Inc.",
+     "symbol": "FORT"
+    }
+   ]
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "IMPC.P",
+   "name": "Impact Acquisitions Corp.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "IMPC.P.V",
+   "instruments": [
+    {
+     "name": "Impact Acquisitions Corp.",
+     "symbol": "IMPC.P"
+    }
+   ]
+  }
+ ]
+}
