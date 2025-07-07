@@ -1,0 +1,94 @@
+{
+ "added": [
+  {
+   "symbol": "STUD",
+   "name": "Stallion Uranium Corp.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "STUD.V",
+   "instruments": [
+    {
+     "name": "Stallion Uranium Corp.",
+     "symbol": "STUD"
+    }
+   ]
+  },
+  {
+   "symbol": "HERZ",
+   "name": "Herzfeld Credit Income Fund, Inc.  - Closed End Fund",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "HERZ"
+  },
+  {
+   "symbol": "LXRX",
+   "name": "Lexicon Pharmaceuticals, Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "LXRX"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "MNC",
+   "name": "Magnetic North Acquisition Corp.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "MNC.V",
+   "instruments": [
+    {
+     "name": "Magnetic North Acquisition Corp.",
+     "symbol": "MNC"
+    },
+    {
+     "name": "Magnetic North Acquisition Corp. pref a",
+     "symbol": "MNC.PR.A"
+    }
+   ]
+  },
+  {
+   "symbol": "SVT",
+   "name": "Servotronics, Inc. Common Stock",
+   "exchange": "NYSE MKT",
+   "yahoo_symbol": "SVT"
+  },
+  {
+   "symbol": "LXRX",
+   "name": "Lexicon Pharmaceuticals, Inc. - Common Stock",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "LXRX"
+  },
+  {
+   "symbol": "MBNKP",
+   "name": "Medallion Bank - Fixed-to-Floating Rate Non-Cumulative Perpetual Preferred Stock, Series F",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "MBNKP"
+  },
+  {
+   "symbol": "ATCOL",
+   "name": "Atlas Corp. - 7.125% Notes due 2027",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "ATCOL"
+  },
+  {
+   "symbol": "RSF.R",
+   "name": "RiverNorth Capital and Income Fund Rights (expiring July 07, 2025) Rights",
+   "exchange": "NYSE",
+   "yahoo_symbol": "RSF.R"
+  },
+  {
+   "symbol": "PNN",
+   "name": "Pambili Natural Resources Corporation",
+   "exchange": "TSXV",
+   "yahoo_symbol": "PNN.V",
+   "instruments": [
+    {
+     "name": "Pambili Natural Resources Corporation",
+     "symbol": "PNN"
+    }
+   ]
+  },
+  {
+   "symbol": "CUBA",
+   "name": "The Herzfeld Caribbean Basin Fund, Inc. - Closed End Fund",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "CUBA"
+  }
+ ]
+}
