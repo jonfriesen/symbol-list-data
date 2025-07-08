@@ -1,0 +1,100 @@
+{
+ "added": [
+  {
+   "symbol": "CCCX",
+   "name": "Churchill Capital Corp X - Class A Ordinary Shares",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "CCCX"
+  },
+  {
+   "symbol": "CCCXW",
+   "name": "Churchill Capital Corp X - Warrants",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "CCCXW"
+  },
+  {
+   "symbol": "MAMK",
+   "name": "MaxsMaking Inc. - Class A Ordinary Shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "MAMK"
+  },
+  {
+   "symbol": "SEGG",
+   "name": "Lottery.com, Inc. - Common Stock",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "SEGG"
+  },
+  {
+   "symbol": "WENN",
+   "name": "Wen Acquisition Corp - Class A Ordinary Shares",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "WENN"
+  },
+  {
+   "symbol": "WENNW",
+   "name": "Wen Acquisition Corp - Warrant",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "WENNW"
+  },
+  {
+   "symbol": "WW",
+   "name": "WW International, Inc.  - Common Stock",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "WW"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "JHC",
+   "name": "Jinhua Capital Corporation",
+   "exchange": "TSXV",
+   "yahoo_symbol": "JHC.V",
+   "instruments": [
+    {
+     "name": "Jinhua Capital Corporation",
+     "symbol": "JHC"
+    }
+   ]
+  },
+  {
+   "symbol": "ADD",
+   "name": "Arctic Star Exploration Corp.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "ADD.V",
+   "instruments": [
+    {
+     "name": "Arctic Star Exploration Corp.",
+     "symbol": "ADD"
+    }
+   ]
+  },
+  {
+   "symbol": "VXRT",
+   "name": "Vaxart, Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "VXRT"
+  },
+  {
+   "symbol": "LTRY",
+   "name": "Lottery.com, Inc. - Common Stock",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "LTRY"
+  },
+  {
+   "symbol": "CUB",
+   "name": "Cubicfarm Systems Corp.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "CUB.V",
+   "instruments": [
+    {
+     "name": "Cubicfarm Systems Corp.",
+     "symbol": "CUB"
+    },
+    {
+     "name": "CubicFarm Systems Corp. db 02Jun2027",
+     "symbol": "CUB.DB"
+    }
+   ]
+  }
+ ]
+}

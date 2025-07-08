@@ -1,0 +1,107 @@
+{
+ "added": [
+  {
+   "symbol": "IRC",
+   "name": "IRONCOIN (IRC)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "BANKETH",
+   "name": "BankEth (BANKETH)"
+  },
+  {
+   "symbol": "NPT",
+   "name": "Neopin (NPT)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "REF",
+   "name": "Ref Finance (REF)",
+   "built_on": "NEAR"
+  },
+  {
+   "symbol": "MAY",
+   "name": "Theresa May Coin (MAY)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "ECOIN",
+   "name": "Ecoin (ECOIN)",
+   "built_on": "XDC"
+  },
+  {
+   "symbol": "EVN",
+   "name": "Evn Token (EVN)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "LNC",
+   "name": "Blocklancer (LNC)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "AT",
+   "name": "AWARE (AT)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "D",
+   "name": "Dar Open Network (D)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "GETH",
+   "name": "Guarded Ether (GETH)"
+  },
+  {
+   "symbol": "MLA",
+   "name": "Moola (MLA)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "CBBTC",
+   "name": "Coinbase Wrapped BTC (CBBTC)",
+   "built_on": "BASE"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "REF",
+   "name": "Ref Finance (REF)"
+  },
+  {
+   "symbol": "AT",
+   "name": "AWARE (AT)"
+  },
+  {
+   "symbol": "EVN",
+   "name": "Evn Token (EVN)"
+  },
+  {
+   "symbol": "ECOIN",
+   "name": "Ecoin (ECOIN)"
+  },
+  {
+   "symbol": "LNC",
+   "name": "Blocklancer (LNC)"
+  },
+  {
+   "symbol": "MLA",
+   "name": "Moola (MLA)"
+  },
+  {
+   "symbol": "MAY",
+   "name": "Theresa May Coin (MAY)"
+  },
+  {
+   "symbol": "NPT",
+   "name": "Neopin (NPT)",
+   "built_on": "KAIA"
+  },
+  {
+   "symbol": "IRC",
+   "name": "IRONCOIN (IRC)",
+   "built_on": "ETH"
+  }
+ ]
+}
