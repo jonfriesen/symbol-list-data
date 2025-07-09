@@ -1,0 +1,72 @@
+{
+ "added": [
+  {
+   "symbol": "ANPA",
+   "name": "Rich Sparkle Holdings Limited - Ordinary Shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "ANPA"
+  },
+  {
+   "symbol": "MSGY",
+   "name": "Masonglory Limited - Ordinary Shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "MSGY"
+  },
+  {
+   "symbol": "TLIH",
+   "name": "Ten-League International Holdings Limited - Ordinary Shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "TLIH"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "AKYA",
+   "name": "Akoya BioSciences, Inc. - Common Stock",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "AKYA"
+  },
+  {
+   "symbol": "CRP",
+   "name": "Ceres Global Ag Corp.",
+   "exchange": "TSX",
+   "yahoo_symbol": "CRP.TO",
+   "instruments": [
+    {
+     "name": "Ceres Global Ag Corp",
+     "symbol": "CRP"
+    }
+   ]
+  },
+  {
+   "symbol": "CAND",
+   "name": "Candelaria Mining Corp.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "CAND.V",
+   "instruments": [
+    {
+     "name": "Candelaria Mining Corp.",
+     "symbol": "CAND"
+    }
+   ]
+  },
+  {
+   "symbol": "GOFL",
+   "name": "Goldflare Exploration Inc.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "GOFL.V",
+   "instruments": [
+    {
+     "name": "Goldflare Exploration Inc.",
+     "symbol": "GOFL"
+    }
+   ]
+  },
+  {
+   "symbol": "UBX",
+   "name": "Unity Biotechnology, Inc. - Common Stock",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "UBX"
+  }
+ ]
+}
