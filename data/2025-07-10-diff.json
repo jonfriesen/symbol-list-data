@@ -1,0 +1,108 @@
+{
+ "added": [
+  {
+   "symbol": "DLXY",
+   "name": "Delixy Holdings Limited - Ordinary Shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "DLXY"
+  },
+  {
+   "symbol": "FIEE",
+   "name": "FiEE, Inc - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "FIEE"
+  },
+  {
+   "symbol": "GTERU",
+   "name": "Globa Terra Acquisition Corporation - Units",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "GTERU"
+  },
+  {
+   "symbol": "IXHL",
+   "name": "Incannex Healthcare Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "IXHL"
+  },
+  {
+   "symbol": "NYMTH",
+   "name": "New York Mortgage Trust, Inc. - 9.875% Senior Notes Due 2030",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "NYMTH"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "IXHL",
+   "name": "Incannex Healthcare Inc. - Common Stock",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "IXHL"
+  },
+  {
+   "symbol": "WRI",
+   "name": "Waseco Resources Inc.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "WRI.V",
+   "instruments": [
+    {
+     "name": "Waseco Resources Inc",
+     "symbol": "WRI"
+    }
+   ]
+  },
+  {
+   "symbol": "DISTW",
+   "name": "Distoken Acquisition Corporation - Warrant",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "DISTW"
+  },
+  {
+   "symbol": "DIST",
+   "name": "Distoken Acquisition Corporation - Ordinary Shares",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "DIST"
+  },
+  {
+   "symbol": "ATCO$D",
+   "name": "Atlas Corp. 7.95% Series D",
+   "exchange": "NYSE",
+   "yahoo_symbol": "ATCO$D"
+  },
+  {
+   "symbol": "MINM",
+   "name": "Minim, Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "MINM"
+  },
+  {
+   "symbol": "PLY",
+   "name": "Playfair Mining Ltd.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "PLY.V",
+   "instruments": [
+    {
+     "name": "Playfair Mining Ltd.",
+     "symbol": "PLY"
+    }
+   ]
+  },
+  {
+   "symbol": "LEXI",
+   "name": "Lithium Energi Exploration Inc.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "LEXI.V",
+   "instruments": [
+    {
+     "name": "Lithium Energi Exploration Inc.",
+     "symbol": "LEXI"
+    }
+   ]
+  },
+  {
+   "symbol": "DISTR",
+   "name": "Distoken Acquisition Corporation - Right",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "DISTR"
+  }
+ ]
+}
