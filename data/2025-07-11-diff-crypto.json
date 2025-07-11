@@ -1,0 +1,184 @@
+{
+ "added": [
+  {
+   "symbol": "TME",
+   "name": "Timereum (TME)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "CRYSTALS",
+   "name": "CRYSTALS (CRYSTALS)"
+  },
+  {
+   "symbol": "BEAVER",
+   "name": "beaver (BEAVER)"
+  },
+  {
+   "symbol": "BTBS",
+   "name": "BitBase Token (BTBS)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "MRBEAST",
+   "name": "X Super Official CEO (MRBEAST)"
+  },
+  {
+   "symbol": "RBT",
+   "name": "RebootWorld (RBT)"
+  },
+  {
+   "symbol": "VELVET",
+   "name": "Velvet (VELVET)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "CBBTCBASE",
+   "name": "cbBTC (CBBTCBASE)"
+  },
+  {
+   "symbol": "GRVE",
+   "name": "Grave (GRVE)",
+   "built_on": "CRO"
+  },
+  {
+   "symbol": "PRIMEX",
+   "name": "Primex Finance (PRIMEX)",
+   "built_on": "BASE"
+  },
+  {
+   "symbol": "PRESIDEN",
+   "name": "President Elon (PRESIDEN)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "MATR1X",
+   "name": "Matr1x (MATR1X)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "DETH",
+   "name": "DarkEther (DETH)"
+  },
+  {
+   "symbol": "TIGERCV1",
+   "name": "TigerCash v1 (TIGERCV1)"
+  },
+  {
+   "symbol": "GUNS",
+   "name": "GeoFunders (GUNS)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "HUSTLE",
+   "name": "Agent Hustle (HUSTLE)"
+  },
+  {
+   "symbol": "METAVERSEX",
+   "name": "MetaverseX (METAVERSEX)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "DORAEMON",
+   "name": "Doraemon (DORAEMON)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "CRED",
+   "name": "Verify (CRED)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "BBBTC",
+   "name": "Big Back Bitcoin (BBBTC)"
+  },
+  {
+   "symbol": "VITAFAST",
+   "name": "Molecules of Korolchuk IP-NFT (VITAFAST)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "SFLOKI",
+   "name": "SuiFloki-Inu (SFLOKI)",
+   "built_on": "SUI"
+  },
+  {
+   "symbol": "GETH",
+   "name": "Guarded Ether (GETH)"
+  },
+  {
+   "symbol": "STARTUP",
+   "name": "Startup (STARTUP)"
+  },
+  {
+   "symbol": "HYDRADX",
+   "name": "HydraDX (HYDRADX)"
+  },
+  {
+   "symbol": "BANKETH",
+   "name": "BankEth (BANKETH)"
+  },
+  {
+   "symbol": "UNIBOTV1",
+   "name": "Unibot v1 (UNIBOTV1)"
+  },
+  {
+   "symbol": "ZARO",
+   "name": "Zaro Coin (ZARO)"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "TME",
+   "name": "Timereum (TME)"
+  },
+  {
+   "symbol": "MAX",
+   "name": "Matr1x (MAX)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "METAX",
+   "name": "MetaverseX (METAX)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "SFLOKI",
+   "name": "SuiFloki-Inu (SFLOKI)"
+  },
+  {
+   "symbol": "GRVE",
+   "name": "Grave (GRVE)"
+  },
+  {
+   "symbol": "GUNS",
+   "name": "GeoFunders (GUNS)"
+  },
+  {
+   "symbol": "VITAFAST",
+   "name": "Molecules of Korolchuk IP-NFT (VITAFAST)"
+  },
+  {
+   "symbol": "PMX",
+   "name": "Primex Finance (PMX)",
+   "built_on": "BASE"
+  },
+  {
+   "symbol": "BITUNE",
+   "name": "Bitune (BITUNE)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "BTBS",
+   "name": "BitBase Token (BTBS)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "CRED",
+   "name": "Verify (CRED)"
+  },
+  {
+   "symbol": "CRS",
+   "name": "CRYSTALS (CRS)"
+  }
+ ]
+}

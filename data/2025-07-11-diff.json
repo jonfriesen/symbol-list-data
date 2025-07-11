@@ -1,0 +1,84 @@
+{
+ "added": [
+  {
+   "symbol": "ATMC",
+   "name": "AlphaTime Acquisition Corp - Ordinary Shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "ATMC"
+  },
+  {
+   "symbol": "ATMCR",
+   "name": "AlphaTime Acquisition Corp - Right",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "ATMCR"
+  },
+  {
+   "symbol": "ATMCU",
+   "name": "AlphaTime Acquisition Corp - Unit",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "ATMCU"
+  },
+  {
+   "symbol": "ATMCW",
+   "name": "AlphaTime Acquisition Corp - Warrant",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "ATMCW"
+  },
+  {
+   "symbol": "QGRD",
+   "name": "Horizon Nasdaq-100 Defined Risk ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "QGRD"
+  },
+  {
+   "symbol": "YNOT",
+   "name": "Horizon Digital Frontier ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "YNOT"
+  },
+  {
+   "symbol": "YOUL",
+   "name": "Youlife Group Inc. - American Depositary Shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "YOUL"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "ATMC",
+   "name": "AlphaTime Acquisition Corp - Ordinary Shares",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "ATMC"
+  },
+  {
+   "symbol": "SCD.R",
+   "name": "LMP Capital and Income Fund Inc. Rights (expiring July 11, 2025) Rights",
+   "exchange": "NYSE",
+   "yahoo_symbol": "SCD.R"
+  },
+  {
+   "symbol": "ATMCU",
+   "name": "AlphaTime Acquisition Corp - Unit",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "ATMCU"
+  },
+  {
+   "symbol": "ATMCW",
+   "name": "AlphaTime Acquisition Corp - Warrant",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "ATMCW"
+  },
+  {
+   "symbol": "RDUS",
+   "name": "Radius Recycling, Inc. - Class A Common Stock",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "RDUS"
+  },
+  {
+   "symbol": "ATMCR",
+   "name": "AlphaTime Acquisition Corp - Right",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "ATMCR"
+  }
+ ]
+}
