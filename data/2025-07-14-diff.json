@@ -1,0 +1,132 @@
+{
+ "added": [
+  {
+   "symbol": "AALG",
+   "name": "Leverage Shares 2X Long AAL Daily ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "AALG"
+  },
+  {
+   "symbol": "AMOD",
+   "name": "Alpha Modus Holdings, Inc. - Class A Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "AMOD"
+  },
+  {
+   "symbol": "BMHL",
+   "name": "Bluemount Holdings Limited - Class B Ordinary Shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "BMHL"
+  },
+  {
+   "symbol": "GLBAV",
+   "name": "GCI Liberty, Inc. - Series A GCI Group Common Stock When Issued",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "GLBAV"
+  },
+  {
+   "symbol": "GLBKV",
+   "name": "GCI Liberty, Inc. - Series C GCI Group Common Stock When Issued",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "GLBKV"
+  },
+  {
+   "symbol": "KLTO",
+   "name": "Klotho Neurosciences, Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "KLTO"
+  },
+  {
+   "symbol": "LBDAV",
+   "name": "Liberty Broadband Corporation - Class A Common Stock Ex-distribution When-Issued",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "LBDAV"
+  },
+  {
+   "symbol": "LBDKV",
+   "name": "Liberty Broadband Corporation - Class C Common Stock Ex-distribution When-Issued",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "LBDKV"
+  },
+  {
+   "symbol": "OYSE",
+   "name": "Oyster Enterprises II Acquisition Corp - Class A Ordinary Shares",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "OYSE"
+  },
+  {
+   "symbol": "OYSER",
+   "name": "Oyster Enterprises II Acquisition Corp - Rights",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "OYSER"
+  },
+  {
+   "symbol": "PCAP",
+   "name": "ProCap Acquisition Corp - Class A Ordinary Shares",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "PCAP"
+  },
+  {
+   "symbol": "PCAPW",
+   "name": "ProCap Acquisition Corp - Warrant",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "PCAPW"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "KLTO",
+   "name": "Klotho Neurosciences, Inc. - Common Stock",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "KLTO"
+  },
+  {
+   "symbol": "GPV",
+   "name": "GreenPower Motor Company Inc.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "GPV.V",
+   "instruments": [
+    {
+     "name": "GreenPower Motor Company Inc.",
+     "symbol": "GPV"
+    }
+   ]
+  },
+  {
+   "symbol": "FBZ",
+   "name": "First Trust Brazil AlphaDEX Fund",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "FBZ"
+  },
+  {
+   "symbol": "AMOD",
+   "name": "Alpha Modus Holdings, Inc. - Class A Common Stock",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "AMOD"
+  },
+  {
+   "symbol": "ESGRO",
+   "name": "Enstar Group Limited - Depository Shares 7.00% Perpetual Non-Cumulative Preference Shares, Series E",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "ESGRO"
+  },
+  {
+   "symbol": "AVPTW",
+   "name": "AvePoint, Inc. - Warrant",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "AVPTW"
+  },
+  {
+   "symbol": "ESGRP",
+   "name": "Enstar Group Limited - Depositary Shares Each Representing 1/1000th of an interest in Preference Shares",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "ESGRP"
+  },
+  {
+   "symbol": "PRIF$I",
+   "name": "Priority Income Fund, Inc. 6.125% Series I Term Preferred Stock due 2028",
+   "exchange": "NYSE",
+   "yahoo_symbol": "PRIF$I"
+  }
+ ]
+}

@@ -1,0 +1,187 @@
+{
+ "added": [
+  {
+   "symbol": "MRBEAST",
+   "name": "X Super Official CEO (MRBEAST)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "CRYPSURE",
+   "name": "CrypSure (CRYPSURE)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "CBBTC",
+   "name": "Coinbase Wrapped BTC (CBBTC)",
+   "built_on": "BASE"
+  },
+  {
+   "symbol": "RBT",
+   "name": "RebootWorld (RBT)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "BANKETH",
+   "name": "BankEth (BANKETH)"
+  },
+  {
+   "symbol": "DFTV1",
+   "name": "DigiFinexToken v1 (DFTV1)"
+  },
+  {
+   "symbol": "PMX",
+   "name": "Phillip Morris xStock (PMX)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "CARATSTOKEN",
+   "name": "Carats Token (CARATSTOKEN)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "D",
+   "name": "Dar Open Network (D)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "HUSTLE",
+   "name": "Agent Hustle (HUSTLE)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "METAX",
+   "name": "Meta xStock (METAX)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "KUAI",
+   "name": "Kuai Token (KUAI)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "GETH",
+   "name": "Guarded Ether (GETH)"
+  },
+  {
+   "symbol": "GETP",
+   "name": "GET Protocol (GETP)"
+  },
+  {
+   "symbol": "CARAT",
+   "name": "AlaskaGoldRush (CARAT)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "ZARO",
+   "name": "Zaro Coin (ZARO)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "CRS",
+   "name": "CYRUS (CRS)",
+   "built_on": "POL"
+  },
+  {
+   "symbol": "ASI",
+   "name": "Sender AI Token (ASI)",
+   "built_on": "NEAR"
+  },
+  {
+   "symbol": "KT",
+   "name": "KingdomX (KT)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "BBBTC",
+   "name": "Big Back Bitcoin (BBBTC)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "MAX",
+   "name": "Mastercard xStock (MAX)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "STARTUP",
+   "name": "Startup (STARTUP)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "GET",
+   "name": "Global Entertainment Token (GET)",
+   "built_on": "ADA"
+  },
+  {
+   "symbol": "BEAVER",
+   "name": "beaver (BEAVER)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "HDX",
+   "name": "Home Depot xStock (HDX)",
+   "built_on": "SOL"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "KT",
+   "name": "Kuai Token (KT)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "GET",
+   "name": "Guaranteed Entrance Token (GET)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "HDX",
+   "name": "Home Depot xStock (HDX)"
+  },
+  {
+   "symbol": "ZARO",
+   "name": "Zaro Coin (ZARO)"
+  },
+  {
+   "symbol": "MRBEAST",
+   "name": "X Super Official CEO (MRBEAST)"
+  },
+  {
+   "symbol": "BBBTC",
+   "name": "Big Back Bitcoin (BBBTC)"
+  },
+  {
+   "symbol": "MAOMEME",
+   "name": "Mao (MAOMEME)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "STARTUP",
+   "name": "Startup (STARTUP)"
+  },
+  {
+   "symbol": "ZEDCOIN",
+   "name": "ZedCoin (ZEDCOIN)"
+  },
+  {
+   "symbol": "HUSTLE",
+   "name": "Agent Hustle (HUSTLE)"
+  },
+  {
+   "symbol": "RBT",
+   "name": "RebootWorld (RBT)"
+  },
+  {
+   "symbol": "CARAT",
+   "name": "Carats Token (CARAT)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "ASI",
+   "name": "Sender AI Token (ASI)"
+  },
+  {
+   "symbol": "BEAVER",
+   "name": "beaver (BEAVER)"
+  }
+ ]
+}
