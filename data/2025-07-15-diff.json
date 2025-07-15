@@ -1,0 +1,78 @@
+{
+ "added": [
+  {
+   "symbol": "ALM",
+   "name": "Almonty Industries Inc. - Common Shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "ALM"
+  },
+  {
+   "symbol": "GLIBA",
+   "name": "GCI Liberty, Inc. - Series A GCI Group Common Stock",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "GLIBA"
+  },
+  {
+   "symbol": "GLIBK",
+   "name": "GCI Liberty, Inc. - Series C GCI Group Common Stock",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "GLIBK"
+  },
+  {
+   "symbol": "OTGL",
+   "name": "OTG Latin America ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "OTGL"
+  },
+  {
+   "symbol": "PFSA",
+   "name": "Profusa, Inc. - Common Stock",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "PFSA"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "GLBAV",
+   "name": "GCI Liberty, Inc. - Series A GCI Group Common Stock When Issued",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "GLBAV"
+  },
+  {
+   "symbol": "LBDKV",
+   "name": "Liberty Broadband Corporation - Class C Common Stock Ex-distribution When-Issued",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "LBDKV"
+  },
+  {
+   "symbol": "GLBKV",
+   "name": "GCI Liberty, Inc. - Series C GCI Group Common Stock When Issued",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "GLBKV"
+  },
+  {
+   "symbol": "LBDAV",
+   "name": "Liberty Broadband Corporation - Class A Common Stock Ex-distribution When-Issued",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "LBDAV"
+  },
+  {
+   "symbol": "WTFCM",
+   "name": "Wintrust Financial Corporation - Fixed-to-Floating Rate Non-Cumulative Perpetual Preferred Stock, Series D",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "WTFCM"
+  },
+  {
+   "symbol": "UMBFP",
+   "name": "UMB Financial Corporation - Depositary Shares, each representing a 1/400th of 7.00% Fixed-Rate Reset Non-Cumulative Perpetual Preferred Stock",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "UMBFP"
+  },
+  {
+   "symbol": "WTFCP",
+   "name": "Wintrust Financial Corporation - Depositary Shares, Each Representing a 1/1,000th Interest in a Share of 6.875% Fixed-Rate Reset Non-Cumulative Perpetual Preferred Stock, Series E",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "WTFCP"
+  }
+ ]
+}

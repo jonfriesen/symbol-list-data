@@ -1,0 +1,167 @@
+{
+ "added": [
+  {
+   "symbol": "BRAM",
+   "name": "Defibox bRAM (BRAM)",
+   "built_on": "EOS"
+  },
+  {
+   "symbol": "WMDR",
+   "name": "WaterMinder (WMDR)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "LIS",
+   "name": "Realis Network (LIS)",
+   "built_on": "NEAR"
+  },
+  {
+   "symbol": "FACT",
+   "name": "Orcfax (FACT)",
+   "built_on": "ADA"
+  },
+  {
+   "symbol": "TALE",
+   "name": "PrompTale AI (TALE)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "BANK",
+   "name": "Float Protocol (BANK)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "ZEDCOIN",
+   "name": "ZedCoin (ZEDCOIN)"
+  },
+  {
+   "symbol": "CBBTC",
+   "name": "Coinbase Wrapped BTC (CBBTC)",
+   "built_on": "BASE"
+  },
+  {
+   "symbol": "3FT",
+   "name": "ThreeFold Token (3FT)",
+   "built_on": "XLM"
+  },
+  {
+   "symbol": "DSLV",
+   "name": "iShares Silver Trust Defichain (DSLV)",
+   "built_on": "DFI"
+  },
+  {
+   "symbol": "SARM",
+   "name": "Stella Armada (SARM)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "NOL",
+   "name": "NORDO MILE (NOL)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "MNTA",
+   "name": "MantaDAO (MNTA)",
+   "built_on": "KUJI"
+  },
+  {
+   "symbol": "NDQ",
+   "name": "Nasdaq666 (NDQ)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "BIGPUMP",
+   "name": "Big Pump (BIGPUMP)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "DGME",
+   "name": "GameStop Tokenized Stock Defichain (DGME)",
+   "built_on": "DFI"
+  },
+  {
+   "symbol": "G",
+   "name": "Gravity (G)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "PUMP",
+   "name": "Pump.fun (PUMP)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "DRDR",
+   "name": "DRDR Token (DRDR)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "ROSCOE",
+   "name": "Roscoe (ROSCOE)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "D",
+   "name": "Dar Open Network (D)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "TFT",
+   "name": "The Famous Token (TFT)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "MOONDOGE",
+   "name": "MOONDOGE (MOONDOGE)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "LNCHM",
+   "name": "Launchium (LNCHM)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "MAOMEME",
+   "name": "Mao (MAOMEME)",
+   "built_on": "ETH"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "MNTA",
+   "name": "MantaDAO (MNTA)"
+  },
+  {
+   "symbol": "BRAM",
+   "name": "Defibox bRAM (BRAM)"
+  },
+  {
+   "symbol": "DSLV",
+   "name": "iShares Silver Trust Defichain (DSLV)"
+  },
+  {
+   "symbol": "LIS",
+   "name": "Realis Network (LIS)"
+  },
+  {
+   "symbol": "DGME",
+   "name": "GameStop Tokenized Stock Defichain (DGME)"
+  },
+  {
+   "symbol": "TFT",
+   "name": "The Famous Token (TFT)"
+  },
+  {
+   "symbol": "3FT",
+   "name": "ThreeFold Token (3FT)"
+  },
+  {
+   "symbol": "FACT",
+   "name": "Orcfax (FACT)"
+  },
+  {
+   "symbol": "PUMP",
+   "name": "Big Pump (PUMP)",
+   "built_on": "BNB"
+  }
+ ]
+}
