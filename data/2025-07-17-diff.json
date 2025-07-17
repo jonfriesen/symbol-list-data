@@ -1,0 +1,96 @@
+{
+ "added": [
+  {
+   "symbol": "AUGO",
+   "name": "Aura Minerals Inc. - Common Shares",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "AUGO"
+  },
+  {
+   "symbol": "KMRK",
+   "name": "K-Tech Solutions Company Limited - Class A Ordinary Shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "KMRK"
+  },
+  {
+   "symbol": "MGRT",
+   "name": "Mega Fortune Company Limited - Ordinary Shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "MGRT"
+  },
+  {
+   "symbol": "NEXM",
+   "name": "NexMetals Mining Corp. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "NEXM"
+  },
+  {
+   "symbol": "SOCAU",
+   "name": "Solarius Capital Acquisition Corp. - Units",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "SOCAU"
+  },
+  {
+   "symbol": "TRON",
+   "name": "Tron Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "TRON"
+  },
+  {
+   "symbol": "VWAVW",
+   "name": "VisionWave Holdings, Inc. - Warrant",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "VWAVW"
+  },
+  {
+   "symbol": "PAII.U",
+   "name": "Pyrophyte Acquisition Corp. II Units, each consisting of one Class A ordinary share and one-half of one redeemable warrant",
+   "exchange": "NYSE",
+   "yahoo_symbol": "PAII.U"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "VWAVW",
+   "name": "VisionWave Holdings, Inc. - Warrant",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "VWAVW"
+  },
+  {
+   "symbol": "CGBSW",
+   "name": "Crown LNG Holdings Limited - Warrants",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "CGBSW"
+  },
+  {
+   "symbol": "FATBW",
+   "name": "FAT Brands Inc. - Warrant",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "FATBW"
+  },
+  {
+   "symbol": "CGBS",
+   "name": "Crown LNG Holdings Limited - Ordinary Shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "CGBS"
+  },
+  {
+   "symbol": "SRM",
+   "name": "SRM Entertainment, Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "SRM"
+  },
+  {
+   "symbol": "CHX",
+   "name": "ChampionX Corporation - Common Stock",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "CHX"
+  },
+  {
+   "symbol": "ZVSA",
+   "name": "ZyVersa Therapeutics, Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "ZVSA"
+  }
+ ]
+}
