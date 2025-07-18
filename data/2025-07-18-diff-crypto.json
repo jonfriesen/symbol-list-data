@@ -1,0 +1,75 @@
+{
+ "added": [
+  {
+   "symbol": "NALA",
+   "name": "NALA (NALA)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "STMXV2",
+   "name": "StormX v1 (STMXV2)"
+  },
+  {
+   "symbol": "SOMEEV1",
+   "name": "SoMee.Social (SOMEEV1)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "STORM",
+   "name": "STORM (STORM)",
+   "built_on": "TON"
+  },
+  {
+   "symbol": "SAVAX",
+   "name": "BENQI Liquid Staked AVAX (SAVAX)",
+   "built_on": "AVAX"
+  },
+  {
+   "symbol": "D",
+   "name": "Dar Open Network (D)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "MOOMOO",
+   "name": "MOOMOO THE BULL (MOOMOO)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "BANKETH",
+   "name": "BankEth (BANKETH)"
+  },
+  {
+   "symbol": "OPNV1",
+   "name": "GET Protocol (OPNV1)"
+  },
+  {
+   "symbol": "CBBTC",
+   "name": "Coinbase Wrapped BTC (CBBTC)",
+   "built_on": "BASE"
+  },
+  {
+   "symbol": "G",
+   "name": "Gravity (G)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "MOOMEME",
+   "name": "MOO MOO (MOOMEME)",
+   "built_on": "APT"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "ONG",
+   "name": "SoMee.Social (ONG)"
+  },
+  {
+   "symbol": "GETP",
+   "name": "GET Protocol (GETP)"
+  },
+  {
+   "symbol": "STORM",
+   "name": "Storm (STORM)"
+  }
+ ]
+}

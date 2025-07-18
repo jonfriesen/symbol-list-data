@@ -1,0 +1,66 @@
+{
+ "added": [
+  {
+   "symbol": "LAWR",
+   "name": "Robot Consulting Co., Ltd. - ADS",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "LAWR"
+  },
+  {
+   "symbol": "DTC",
+   "name": "Solo Brands, Inc. Class A Common Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "DTC"
+  },
+  {
+   "symbol": "NXG.V",
+   "name": "NXG NextGen Infrastructure Income Fund Rights (expiring August 13, 2025) Rights when issued",
+   "exchange": "NYSE",
+   "yahoo_symbol": "NXG.V"
+  },
+  {
+   "symbol": "SPME",
+   "name": "Sound Point Meridian Capital, Inc. 7.875% Series B Preferred Shares due 2030",
+   "exchange": "NYSE",
+   "yahoo_symbol": "SPME"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "NESRW",
+   "name": "National Energy Services Reunited Corp - Warrants",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "NESRW"
+  },
+  {
+   "symbol": "NXO",
+   "name": "NexOptic Technology Corp.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "NXO.V",
+   "instruments": [
+    {
+     "name": "NexOptic Technology Corp.",
+     "symbol": "NXO"
+    }
+   ]
+  },
+  {
+   "symbol": "BCLI",
+   "name": "Brainstorm Cell Therapeutics Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "BCLI"
+  },
+  {
+   "symbol": "ICAD",
+   "name": "icad inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "ICAD"
+  },
+  {
+   "symbol": "ANSS",
+   "name": "ANSYS, Inc. - Common Stock",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "ANSS"
+  }
+ ]
+}
