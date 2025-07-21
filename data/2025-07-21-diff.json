@@ -1,0 +1,72 @@
+{
+ "added": [
+  {
+   "symbol": "JENA",
+   "name": "Jena Acquisition Corporation II Class A Ordinary Shares",
+   "exchange": "NYSE",
+   "yahoo_symbol": "JENA"
+  },
+  {
+   "symbol": "JENA.R",
+   "name": "Jena Acquisition Corporation II Rights, each right to acquire one-twentieth (1/20) of one Class A ordinary share",
+   "exchange": "NYSE",
+   "yahoo_symbol": "JENA.R"
+  },
+  {
+   "symbol": "NXDR",
+   "name": "Nextdoor Holdings, Inc. Class A Common Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "NXDR"
+  },
+  {
+   "symbol": "MJID",
+   "name": "Majestic Ideal Holdings Ltd - Ordinary Shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "MJID"
+  },
+  {
+   "symbol": "FTLS",
+   "name": "First Trust Long/Short Equity ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "FTLS.TO",
+   "instruments": [
+    {
+     "name": "First Trust Lg Sh Eq",
+     "symbol": "FTLS"
+    }
+   ]
+  },
+  {
+   "symbol": "GTRI",
+   "name": "IA Clarington Agile Global Total Return Income Fund",
+   "exchange": "TSX",
+   "yahoo_symbol": "GTRI.TO",
+   "instruments": [
+    {
+     "name": "IA Clarngtn Agl Glb ",
+     "symbol": "GTRI"
+    }
+   ]
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "BPMC",
+   "name": "Blueprint Medicines Corporation - Common Stock",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "BPMC"
+  },
+  {
+   "symbol": "KIND",
+   "name": "Nextdoor Holdings, Inc. Class A Common Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "KIND"
+  },
+  {
+   "symbol": "HES",
+   "name": "Hess Corporation Common Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "HES"
+  }
+ ]
+}
