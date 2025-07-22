@@ -1,0 +1,78 @@
+{
+ "added": [
+  {
+   "symbol": "NXG.R",
+   "name": "NXG NextGen Infrastructure Income Fund Rights (expiring August 13, 2025) Rights",
+   "exchange": "NYSE",
+   "yahoo_symbol": "NXG.R"
+  },
+  {
+   "symbol": "PAPL",
+   "name": "Pineapple Financial Inc. Common Stock",
+   "exchange": "NYSE MKT",
+   "yahoo_symbol": "PAPL"
+  },
+  {
+   "symbol": "KCHV",
+   "name": "Kochav Defense Acquisition Corp. - Class A Ordinary Shares",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "KCHV"
+  },
+  {
+   "symbol": "KCHVR",
+   "name": "Kochav Defense Acquisition Corp. - Right",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "KCHVR"
+  },
+  {
+   "symbol": "WTG",
+   "name": "Wintergreen Acquisition Corp. - Ordinary Shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "WTG"
+  },
+  {
+   "symbol": "WTGUR",
+   "name": "Wintergreen Acquisition Corp. - Rights",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "WTGUR"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "TIL",
+   "name": "Till Capital Corporation",
+   "exchange": "TSXV",
+   "yahoo_symbol": "TIL.V",
+   "instruments": [
+    {
+     "name": "Till Capital Corporation",
+     "symbol": "TIL"
+    }
+   ]
+  },
+  {
+   "symbol": "PFC",
+   "name": "PetroFrontier Corp.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "PFC.V",
+   "instruments": [
+    {
+     "name": "PetroFrontier Corp",
+     "symbol": "PFC"
+    }
+   ]
+  },
+  {
+   "symbol": "FARO",
+   "name": "FARO Technologies, Inc. - Common Stock",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "FARO"
+  },
+  {
+   "symbol": "NXG.V",
+   "name": "NXG NextGen Infrastructure Income Fund Rights (expiring August 13, 2025) Rights when issued",
+   "exchange": "NYSE",
+   "yahoo_symbol": "NXG.V"
+  }
+ ]
+}
