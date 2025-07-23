@@ -1,0 +1,106 @@
+{
+ "added": [
+  {
+   "symbol": "MONT",
+   "name": "Montfort Capital Corp.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "MONT.V",
+   "instruments": [
+    {
+     "name": "Montfort Capital Corp.",
+     "symbol": "MONT"
+    },
+    {
+     "name": "Montfort Capital Corp. Preferred A",
+     "symbol": "MONT.PR.A"
+    }
+   ]
+  },
+  {
+   "symbol": "XTAO.U",
+   "name": "XTAO Inc.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "XTAO.U.V",
+   "instruments": [
+    {
+     "name": "XTAO Inc.",
+     "symbol": "XTAO.U"
+    }
+   ]
+  },
+  {
+   "symbol": "NCAP",
+   "name": "Ninepoint Capital Appreciation Fund",
+   "exchange": "TSX",
+   "yahoo_symbol": "NCAP.TO",
+   "instruments": [
+    {
+     "name": "Ninepoint Cptl App F",
+     "symbol": "NCAP"
+    }
+   ]
+  },
+  {
+   "symbol": "NIQ",
+   "name": "NIQ Global Intelligence plc Ordinary Shares",
+   "exchange": "NYSE",
+   "yahoo_symbol": "NIQ"
+  },
+  {
+   "symbol": "ENVXW",
+   "name": "Enovix Corporation - Warrant",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "ENVXW"
+  },
+  {
+   "symbol": "UNHG",
+   "name": "Leverage Shares 2X Long UNH Daily ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "UNHG"
+  },
+  {
+   "symbol": "VSTL",
+   "name": "Defiance Daily Target 2X Long VST ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "VSTL"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "KORE",
+   "name": "Kore Mining Ltd.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "KORE.V",
+   "instruments": [
+    {
+     "name": "Kore Mining Ltd.",
+     "symbol": "KORE"
+    }
+   ]
+  },
+  {
+   "symbol": "INE",
+   "name": "Innergex Renewable Energy Inc.",
+   "exchange": "TSX",
+   "yahoo_symbol": "INE.TO",
+   "instruments": [
+    {
+     "name": "Innergex Renew Engy",
+     "symbol": "INE"
+    },
+    {
+     "name": "Innergex Renew4.65Db",
+     "symbol": "INE.DB.C"
+    },
+    {
+     "name": "Innergex Renew Pr A",
+     "symbol": "INE.PR.A"
+    },
+    {
+     "name": "Innergex Renew Pr C",
+     "symbol": "INE.PR.C"
+    }
+   ]
+  }
+ ]
+}
