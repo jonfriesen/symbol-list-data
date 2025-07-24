@@ -1,0 +1,78 @@
+{
+ "added": [
+  {
+   "symbol": "BIBTA",
+   "name": "Backed IBTA $ Treasury Bond 1-3yr (BIBTA)"
+  },
+  {
+   "symbol": "ZEDCOIN",
+   "name": "ZedCoin (ZEDCOIN)"
+  },
+  {
+   "symbol": "BNIU",
+   "name": "Backed Niu Technologies (BNIU)"
+  },
+  {
+   "symbol": "BNVDA",
+   "name": "Backed NVIDIA (BNVDA)"
+  },
+  {
+   "symbol": "BC3M",
+   "name": "Backed GOVIES 0-6 Months Euro Investment Grade (BC3M)"
+  },
+  {
+   "symbol": "ERASWAP",
+   "name": "Era Swap Token (ERASWAP)"
+  },
+  {
+   "symbol": "MAOMEME",
+   "name": "Mao (MAOMEME)"
+  },
+  {
+   "symbol": "BIB01",
+   "name": "Backed IB01 $ Treasury Bond 0-1yr (BIB01)"
+  },
+  {
+   "symbol": "KLICKZIE",
+   "name": "Klickzie (KLICKZIE)"
+  },
+  {
+   "symbol": "BGME",
+   "name": "Backed GameStop (BGME)"
+  },
+  {
+   "symbol": "BCSPX",
+   "name": "Backed CSPX Core S\u0026P 500 (BCSPX)"
+  },
+  {
+   "symbol": "BMSFT",
+   "name": "Backed Microsoft (BMSFT)"
+  },
+  {
+   "symbol": "BHIGH",
+   "name": "Backed HIGH € High Yield Corp Bond (BHIGH)"
+  },
+  {
+   "symbol": "METV1",
+   "name": "Metronome (METV1)"
+  },
+  {
+   "symbol": "KPOPCOIN",
+   "name": "KPOP Coin (KPOPCOIN)"
+  },
+  {
+   "symbol": "BTSLA",
+   "name": "Backed Tesla (BTSLA)"
+  },
+  {
+   "symbol": "BMSTR",
+   "name": "Backed MicroStrategy (BMSTR)"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "METOLD",
+   "name": "Metronome (METOLD)"
+  }
+ ]
+}
