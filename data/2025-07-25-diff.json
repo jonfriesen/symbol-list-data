@@ -1,0 +1,66 @@
+{
+ "added": [
+  {
+   "symbol": "GO.U",
+   "name": "GO Residential Real Estate Investment Trust",
+   "exchange": "TSX",
+   "yahoo_symbol": "GO.U.TO",
+   "instruments": [
+    {
+     "name": "GO Resid REIT USD WI",
+     "symbol": "GO.U"
+    }
+   ]
+  },
+  {
+   "symbol": "ACFN",
+   "name": "Acorn Energy, Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "ACFN"
+  },
+  {
+   "symbol": "JPX",
+   "name": "Defiance Daily Target 2X Long JPM ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "JPX"
+  },
+  {
+   "symbol": "LHAI",
+   "name": "Linkhome Holdings Inc. - Common stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "LHAI"
+  },
+  {
+   "symbol": "OFSSO",
+   "name": "OFS Capital Corporation - 7.50% Notes due 2028",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "OFSSO"
+  },
+  {
+   "symbol": "SPXD",
+   "name": "Xtrackers S\u0026P 500 Diversified Sector Weight ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "SPXD"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "TGI",
+   "name": "Triumph Group, Inc. Common Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "TGI"
+  },
+  {
+   "symbol": "ESSA",
+   "name": "ESSA Bancorp, Inc. - common stock",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "ESSA"
+  },
+  {
+   "symbol": "DLNG$B",
+   "name": "Dynagas LNG Partners LP 8.75% Series B Fixed to Floating Rate Cumulative Redeemable Perpetual Preferred Units, liquidation preference $25.00 per Uni",
+   "exchange": "NYSE",
+   "yahoo_symbol": "DLNG$B"
+  }
+ ]
+}
