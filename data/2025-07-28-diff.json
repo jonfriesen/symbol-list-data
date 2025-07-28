@@ -1,0 +1,90 @@
+{
+ "added": [
+  {
+   "symbol": "JGLO",
+   "name": "JPMorgan Global Select Equity Active ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "JGLO.TO",
+   "instruments": [
+    {
+     "name": "JPMorgan Glb SeEqAct",
+     "symbol": "JGLO"
+    }
+   ]
+  },
+  {
+   "symbol": "AIPO",
+   "name": "Defiance AI \u0026 Power Infrastructure ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "AIPO"
+  },
+  {
+   "symbol": "BINI",
+   "name": "Bollinger Innovations, Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "BINI"
+  },
+  {
+   "symbol": "GTERA",
+   "name": "Globa Terra Acquisition Corporation - Class A Ordinary Shares",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "GTERA"
+  },
+  {
+   "symbol": "GTERR",
+   "name": "Globa Terra Acquisition Corporation - Rights",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "GTERR"
+  },
+  {
+   "symbol": "GTERW",
+   "name": "Globa Terra Acquisition Corporation - Warrants",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "GTERW"
+  },
+  {
+   "symbol": "IMA",
+   "name": "ImageneBio, Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "IMA"
+  },
+  {
+   "symbol": "YORK",
+   "name": "Yorkville Acquisition Corp. - Class A Ordinary Share",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "YORK"
+  },
+  {
+   "symbol": "YORKW",
+   "name": "Yorkville Acquisition Corp. - Warrant",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "YORKW"
+  },
+  {
+   "symbol": "IAUX.W",
+   "name": "i-80 Gold Corp. Warrants, each warrant exercisable for one Common Share at an exercise price of $0.70",
+   "exchange": "NYSE MKT",
+   "yahoo_symbol": "IAUX.W"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "MULN",
+   "name": "Mullen Automotive, Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "MULN"
+  },
+  {
+   "symbol": "VERV",
+   "name": "Verve Therapeutics, Inc. - Common Stock",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "VERV"
+  },
+  {
+   "symbol": "IKNA",
+   "name": "Ikena Oncology, Inc. - Common Stock",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "IKNA"
+  }
+ ]
+}
