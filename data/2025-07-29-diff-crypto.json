@@ -1,0 +1,62 @@
+{
+ "added": [
+  {
+   "symbol": "SOMEE",
+   "name": "SoMee.Social (SOMEE)"
+  },
+  {
+   "symbol": "CRESV1",
+   "name": "Cresio v1 (CRESV1)"
+  },
+  {
+   "symbol": "QANXV2",
+   "name": "QANplatform v2 (QANXV2)"
+  },
+  {
+   "symbol": "AMETA",
+   "name": "Alpha City (AMETA)"
+  },
+  {
+   "symbol": "HEST",
+   "name": "Hash Epoch Sports Token (HEST)"
+  },
+  {
+   "symbol": "GOLDSECURED",
+   "name": "Gold Secured Currency (GOLDSECURED)"
+  },
+  {
+   "symbol": "UNIART",
+   "name": "UNIART (UNIART)"
+  },
+  {
+   "symbol": "ASETQU",
+   "name": "AsetQu (ASETQU)"
+  },
+  {
+   "symbol": "BRWS",
+   "name": "Browsr Ai (BRWS)"
+  },
+  {
+   "symbol": "ASSDAQ",
+   "name": "ASSDAQ (ASSDAQ)"
+  },
+  {
+   "symbol": "DELABS",
+   "name": "Delabs Games (DELABS)"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "MAOMEME",
+   "name": "Mao (MAOMEME)"
+  },
+  {
+   "symbol": "ZEDCOIN",
+   "name": "ZedCoin (ZEDCOIN)"
+  },
+  {
+   "symbol": "GSX",
+   "name": "Gold Secured Currency (GSX)"
+  }
+ ]
+}

@@ -1,0 +1,54 @@
+{
+ "added": [
+  {
+   "symbol": "LORD",
+   "name": "St. James Gold Corp.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "LORD.V",
+   "instruments": [
+    {
+     "name": "St. James Gold Corp.",
+     "symbol": "LORD"
+    }
+   ]
+  },
+  {
+   "symbol": "TBHC",
+   "name": "The Brand House Collective, Inc - Common Stock",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "TBHC"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "PWOD",
+   "name": "Penns Woods Bancorp, Inc. - Common Stock",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "PWOD"
+  },
+  {
+   "symbol": "SGMA",
+   "name": "SigmaTron International, Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "SGMA"
+  },
+  {
+   "symbol": "KIRK",
+   "name": "Kirkland's, Inc. - Common Stock",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "KIRK"
+  },
+  {
+   "symbol": "RUG",
+   "name": "Rugby Resources Ltd.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "RUG.V",
+   "instruments": [
+    {
+     "name": "Rugby Resources Ltd.",
+     "symbol": "RUG"
+    }
+   ]
+  }
+ ]
+}
