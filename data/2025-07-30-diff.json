@@ -1,0 +1,30 @@
+{
+ "added": [
+  {
+   "symbol": "AMBQ",
+   "name": "Ambiq Micro, Inc. Common Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "AMBQ"
+  },
+  {
+   "symbol": "COYY",
+   "name": "GraniteShares YieldBOOST COIN ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "COYY"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "PETWW",
+   "name": "Wag! Group Co. - Warrant",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "PETWW"
+  },
+  {
+   "symbol": "PET",
+   "name": "Wag! Group Co. - Common Stock",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "PET"
+  }
+ ]
+}
