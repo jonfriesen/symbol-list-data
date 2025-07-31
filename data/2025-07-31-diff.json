@@ -1,0 +1,126 @@
+{
+ "added": [
+  {
+   "symbol": "APADU",
+   "name": "A Paradise Acquisition Corp. - Unit",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "APADU"
+  },
+  {
+   "symbol": "BRR",
+   "name": "Columbus Circle Capital Corp I - Class A Ordinary Shares",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "BRR"
+  },
+  {
+   "symbol": "BRRWU",
+   "name": "Columbus Circle Capital Corp I - Units",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "BRRWU"
+  },
+  {
+   "symbol": "BRRWW",
+   "name": "Columbus Circle Capital Corp I - Warrant.",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "BRRWW"
+  },
+  {
+   "symbol": "DAK",
+   "name": "Dakota Active Equity ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "DAK"
+  },
+  {
+   "symbol": "EMPD",
+   "name": "Empery Digital Inc. - Common stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "EMPD"
+  },
+  {
+   "symbol": "INAC",
+   "name": "Indigo Acquisition Corp. - Ordinary Shares",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "INAC"
+  },
+  {
+   "symbol": "INACR",
+   "name": "Indigo Acquisition Corp. - Right",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "INACR"
+  },
+  {
+   "symbol": "STRC",
+   "name": "MicroStrategy Incorporated - Variable Rate Series A Perpetual Stretch Preferred Stock",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "STRC"
+  },
+  {
+   "symbol": "YMAT",
+   "name": "J-Star Holding Co., Ltd. - Ordinary Shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "YMAT"
+  },
+  {
+   "symbol": "FIG",
+   "name": "Figma, Inc. Class A Common Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "FIG"
+  },
+  {
+   "symbol": "SI",
+   "name": "Shoulder Innovations, Inc. Common Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "SI"
+  },
+  {
+   "symbol": "VVTM",
+   "name": "VVT Med Inc.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "VVTM.V",
+   "instruments": [
+    {
+     "name": "VVT Med Inc.",
+     "symbol": "VVTM"
+    }
+   ]
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "VLCN",
+   "name": "Volcon, Inc. - Common stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "VLCN"
+  },
+  {
+   "symbol": "THRD",
+   "name": "Third Harmonic Bio, Inc. - Common Stock",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "THRD"
+  },
+  {
+   "symbol": "CCCMW",
+   "name": "Columbus Circle Capital Corp I - Warrant.",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "CCCMW"
+  },
+  {
+   "symbol": "CCCMU",
+   "name": "Columbus Circle Capital Corp I - Units",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "CCCMU"
+  },
+  {
+   "symbol": "AP.W",
+   "name": "Ampco-Pittsburgh Corporation Series A Warrants to purchase Shares of common stock",
+   "exchange": "NYSE MKT",
+   "yahoo_symbol": "AP.W"
+  },
+  {
+   "symbol": "CCCM",
+   "name": "Columbus Circle Capital Corp I - Class A Ordinary Shares",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "CCCM"
+  }
+ ]
+}
