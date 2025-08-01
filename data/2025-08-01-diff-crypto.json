@@ -1,0 +1,26 @@
+{
+ "added": [
+  {
+   "symbol": "BBITBTC",
+   "name": "BounceBit BTC (BBITBTC)"
+  },
+  {
+   "symbol": "MMV1",
+   "name": "Millimeter v1 (MMV1)"
+  },
+  {
+   "symbol": "SAFESV1",
+   "name": "SafeSwap v1 (SAFESV1)"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "MAOMEME",
+   "name": "Mao (MAOMEME)"
+  },
+  {
+   "symbol": "ZEDCOIN",
+   "name": "ZedCoin (ZEDCOIN)"
+  }
+ ]
+}

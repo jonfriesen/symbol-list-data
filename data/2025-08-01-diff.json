@@ -1,0 +1,66 @@
+{
+ "added": [
+  {
+   "symbol": "BCARU",
+   "name": "D. Boral ARC Acquisition I Corp. - Units",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "BCARU"
+  },
+  {
+   "symbol": "BLUW",
+   "name": "Blue Water Acquisition Corp. III - Class A Ordinary Shares",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "BLUW"
+  },
+  {
+   "symbol": "BLUWW",
+   "name": "Blue Water Acquisition Corp. III - Warrant.",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "BLUWW"
+  },
+  {
+   "symbol": "CMRC",
+   "name": "Commerce.com, Inc. - Series 1 Common Stock",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "CMRC"
+  },
+  {
+   "symbol": "DKNX",
+   "name": "Defiance Daily Target 2X Long DKNG ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "DKNX"
+  },
+  {
+   "symbol": "AVBC",
+   "name": "Avidia Bancorp, Inc. Common Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "AVBC"
+  },
+  {
+   "symbol": "CFG$I",
+   "name": "Citizens Financial Group, Inc. Depositary Shares, Each Representing a 1/40th Interest in a Share of 6.500% Fixed-Rate Reset Non-Cumulative Perpetual Preferred Stock, Series I",
+   "exchange": "NYSE",
+   "yahoo_symbol": "CFG$I"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "FHN$B",
+   "name": "First Horizon Corporation Depositary Shares, each representing a 1/400th interest in a share of Non-Cumulative Perpetual Preferred Stock, Series B",
+   "exchange": "NYSE",
+   "yahoo_symbol": "FHN$B"
+  },
+  {
+   "symbol": "BIGC",
+   "name": "BigCommerce Holdings, Inc. - Series 1 Common Stock",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "BIGC"
+  },
+  {
+   "symbol": "SAGE",
+   "name": "Sage Therapeutics, Inc. - Common Stock",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "SAGE"
+  }
+ ]
+}
