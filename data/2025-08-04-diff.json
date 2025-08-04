@@ -1,0 +1,84 @@
+{
+ "added": [
+  {
+   "symbol": "AXIN",
+   "name": "Axiom Intelligence Acquisition Corp 1 - Class A Ordinary Shares",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "AXIN"
+  },
+  {
+   "symbol": "AXINR",
+   "name": "Axiom Intelligence Acquisition Corp 1 - Right",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "AXINR"
+  },
+  {
+   "symbol": "HCMAU",
+   "name": "HCM III Acquisition Corp. - Units",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "HCMAU"
+  },
+  {
+   "symbol": "METCI",
+   "name": "Ramaco Resources, Inc. - 8.250% Senior Notes due 2030",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "METCI"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "PZC",
+   "name": "PIMCO California Municipal Income Fund III Common Shares of Beneficial Interest",
+   "exchange": "NYSE",
+   "yahoo_symbol": "PZC"
+  },
+  {
+   "symbol": "METCL",
+   "name": "Ramaco Resources, Inc. - 9.00% Senior Notes due 2026",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "METCL"
+  },
+  {
+   "symbol": "PCK",
+   "name": "Pimco California Municipal Income Fund II Common Shares of Beneficial Interest",
+   "exchange": "NYSE",
+   "yahoo_symbol": "PCK"
+  },
+  {
+   "symbol": "SANW",
+   "name": "S\u0026W Seed Company - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "SANW"
+  },
+  {
+   "symbol": "PMF",
+   "name": "PIMCO Municipal Income Fund Common Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "PMF"
+  },
+  {
+   "symbol": "PNF",
+   "name": "PIMCO New York Municipal Income Fund Common Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "PNF"
+  },
+  {
+   "symbol": "PMX",
+   "name": "PIMCO Municipal Income Fund III Common Shares of Beneficial Interest",
+   "exchange": "NYSE",
+   "yahoo_symbol": "PMX"
+  },
+  {
+   "symbol": "PYN",
+   "name": "PIMCO New York Municipal Income Fund III Common Shares of Beneficial Interest",
+   "exchange": "NYSE",
+   "yahoo_symbol": "PYN"
+  },
+  {
+   "symbol": "ETWO",
+   "name": "E2open Parent Holdings, Inc.Class A Common Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "ETWO"
+  }
+ ]
+}
