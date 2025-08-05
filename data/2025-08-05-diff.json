@@ -1,0 +1,126 @@
+{
+ "added": [
+  {
+   "symbol": "BEM",
+   "name": "Brasnova Energy Materials Inc.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "BEM.V",
+   "instruments": [
+    {
+     "name": "Brasnova Energy Materials Inc.",
+     "symbol": "BEM"
+    }
+   ]
+  },
+  {
+   "symbol": "W",
+   "name": "Spartan Metals Corp.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "W.V",
+   "instruments": [
+    {
+     "name": "Spartan Metals Corp.",
+     "symbol": "W"
+    }
+   ]
+  },
+  {
+   "symbol": "STW",
+   "name": "Stockworks Gold Inc.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "STW.V",
+   "instruments": [
+    {
+     "name": "Stockworks Gold Inc.",
+     "symbol": "STW"
+    }
+   ]
+  },
+  {
+   "symbol": "BACC",
+   "name": "Blue Acquisition Corp. - Class A Ordinary Shares",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "BACC"
+  },
+  {
+   "symbol": "BACCR",
+   "name": "Blue Acquisition Corp. - Right",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "BACCR"
+  },
+  {
+   "symbol": "RUBI",
+   "name": "Rubico Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "RUBI"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "SDCU",
+   "name": "Sonoran Desert Copper Corporation",
+   "exchange": "TSXV",
+   "yahoo_symbol": "SDCU.V",
+   "instruments": [
+    {
+     "name": "Sonoran Desert Copper Corporation",
+     "symbol": "SDCU"
+    }
+   ]
+  },
+  {
+   "symbol": "ROVR",
+   "name": "Rover Critical Minerals Corp.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "ROVR.V",
+   "instruments": [
+    {
+     "name": "Rover Critical Minerals Corp.",
+     "symbol": "ROVR"
+    }
+   ]
+  },
+  {
+   "symbol": "GMTN",
+   "name": "Gold Mountain Mining Corp.",
+   "exchange": "TSX",
+   "yahoo_symbol": "GMTN.TO",
+   "instruments": [
+    {
+     "name": "Gold Mountain Mng J",
+     "symbol": "GMTN"
+    }
+   ]
+  },
+  {
+   "symbol": "XAM",
+   "name": "Xanadu Mines Ltd.",
+   "exchange": "TSX",
+   "yahoo_symbol": "XAM.TO",
+   "instruments": [
+    {
+     "name": "Xanadu Mines J Ord",
+     "symbol": "XAM"
+    }
+   ]
+  },
+  {
+   "symbol": "BRMI",
+   "name": "Boat Rocker Media Inc.",
+   "exchange": "TSX",
+   "yahoo_symbol": "BRMI.TO",
+   "instruments": [
+    {
+     "name": "Boat RockrMedia J SV",
+     "symbol": "BRMI"
+    }
+   ]
+  },
+  {
+   "symbol": "NVEE",
+   "name": "NV5 Global, Inc. - Common Stock",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "NVEE"
+  }
+ ]
+}
