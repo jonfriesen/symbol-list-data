@@ -1,0 +1,72 @@
+{
+ "added": [
+  {
+   "symbol": "BAMI",
+   "name": "Blue Ant Media Corporation",
+   "exchange": "TSX",
+   "yahoo_symbol": "BAMI.TO",
+   "instruments": [
+    {
+     "name": "Boat RockrMedia J SV",
+     "symbol": "BAMI"
+    }
+   ]
+  },
+  {
+   "symbol": "BNC",
+   "name": "CEA Industries Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "BNC"
+  },
+  {
+   "symbol": "BNCWW",
+   "name": "CEA Industries Inc. - Warrant",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "BNCWW"
+  },
+  {
+   "symbol": "DADS",
+   "name": "Digital Asset Debt Strategy ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "DADS"
+  },
+  {
+   "symbol": "LOB$A",
+   "name": "Live Oak Bancshares, Inc. Depositary Shares, Each Representing a 1/40th Interest in a Share of 8.375% Fixed Rate Series A Non-Cumulative Perpetual Preferred Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "LOB$A"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "VIGL",
+   "name": "Vigil Neuroscience, Inc. - Common Stock",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "VIGL"
+  },
+  {
+   "symbol": "VAPEW",
+   "name": "CEA Industries Inc. - Warrant",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "VAPEW"
+  },
+  {
+   "symbol": "VAPE",
+   "name": "CEA Industries Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "VAPE"
+  },
+  {
+   "symbol": "SSVR",
+   "name": "Summa Silver Corp.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "SSVR.V",
+   "instruments": [
+    {
+     "name": "Summa Silver Corp.",
+     "symbol": "SSVR"
+    }
+   ]
+  }
+ ]
+}
