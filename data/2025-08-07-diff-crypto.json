@@ -1,0 +1,67 @@
+{
+ "added": [
+  {
+   "symbol": "BANKETH",
+   "name": "BankEth (BANKETH)"
+  },
+  {
+   "symbol": "MACRO",
+   "name": "Macro Millions (MACRO)",
+   "built_on": "BASE"
+  },
+  {
+   "symbol": "PROVE",
+   "name": "Succinct (PROVE)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "D",
+   "name": "Dar Open Network (D)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "MAOMEME",
+   "name": "Mao (MAOMEME)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "GETH",
+   "name": "Guarded Ether (GETH)"
+  },
+  {
+   "symbol": "FROGGIE",
+   "name": "Froggie (FROGGIE)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "NOBIKO",
+   "name": "Longcat (NOBIKO)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "METAVERSEM",
+   "name": "MetaVerse-M (METAVERSEM)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "M",
+   "name": "MemeCore (M)"
+  },
+  {
+   "symbol": "ZEDCOIN",
+   "name": "ZedCoin (ZEDCOIN)"
+  },
+  {
+   "symbol": "CBBTC",
+   "name": "Coinbase Wrapped BTC (CBBTC)",
+   "built_on": "BASE"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "M",
+   "name": "MetaVerse-M (M)",
+   "built_on": "BNB"
+  }
+ ]
+}

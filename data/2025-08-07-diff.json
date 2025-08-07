@@ -1,0 +1,168 @@
+{
+ "added": [
+  {
+   "symbol": "RME",
+   "name": "Roland Mineral Enterprises Corp.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "RME.V",
+   "instruments": [
+    {
+     "name": "Roland Mineral Enterprises Corp.",
+     "symbol": "RME"
+    }
+   ]
+  },
+  {
+   "symbol": "CFND",
+   "name": "C1 Fund Inc. Common Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "CFND"
+  },
+  {
+   "symbol": "ALK",
+   "name": "Alkane Resources Limited",
+   "exchange": "TSX",
+   "yahoo_symbol": "ALK.TO",
+   "instruments": [
+    {
+     "name": "Alkane Resources Ltd",
+     "symbol": "ALK"
+    }
+   ]
+  },
+  {
+   "symbol": "CTW",
+   "name": "CTW Cayman - Class A Ordinary Shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "CTW"
+  },
+  {
+   "symbol": "LMTL",
+   "name": "Direxion Daily LMT Bull 2X ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "LMTL"
+  },
+  {
+   "symbol": "LMTS",
+   "name": "Direxion Daily LMT Bear 1X ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "LMTS"
+  },
+  {
+   "symbol": "QUMSU",
+   "name": "Quantumsphere Acquisition Corp. - Units",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "QUMSU"
+  },
+  {
+   "symbol": "SHPD",
+   "name": "Direxion Daily SHOP Bear 1X ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "SHPD"
+  },
+  {
+   "symbol": "SHPU",
+   "name": "Direxion Daily SHOP Bull 2X ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "SHPU"
+  },
+  {
+   "symbol": "TMUSI",
+   "name": "T-Mobile US, Inc. - 5.500% Senior Notes due June 2070",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "TMUSI"
+  },
+  {
+   "symbol": "TMUSL",
+   "name": "T-Mobile US, Inc. - 6.250% Senior Notes due 2069",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "TMUSL"
+  },
+  {
+   "symbol": "TMUSZ",
+   "name": "T-Mobile US, Inc. - 5.500% Senior Notes due March 2070",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "TMUSZ"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "MND",
+   "name": "Mandalay Resources Corporation",
+   "exchange": "TSX",
+   "yahoo_symbol": "MND.TO",
+   "instruments": [
+    {
+     "name": "Mandalay Res Corp J",
+     "symbol": "MND"
+    }
+   ]
+  },
+  {
+   "symbol": "MNTL",
+   "name": "Tema Neuroscience and Mental Health ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "MNTL"
+  },
+  {
+   "symbol": "KLX",
+   "name": "Carbon Done Right Developments Inc.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "KLX.V",
+   "instruments": [
+    {
+     "name": "Carbon Done Right Developments Inc.",
+     "symbol": "KLX"
+    }
+   ]
+  },
+  {
+   "symbol": "EP",
+   "name": "Empire Metals Corp.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "EP.V",
+   "instruments": [
+    {
+     "name": "Empire Metals Corp.",
+     "symbol": "EP"
+    }
+   ]
+  },
+  {
+   "symbol": "AJA",
+   "name": "AJA Health and Wellness Inc.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "AJA.V",
+   "instruments": [
+    {
+     "name": "AJA Health and Wellness Inc.",
+     "symbol": "AJA"
+    }
+   ]
+  },
+  {
+   "symbol": "SXI",
+   "name": "Synex Renewable Energy Corporation",
+   "exchange": "TSX",
+   "yahoo_symbol": "SXI.TO",
+   "instruments": [
+    {
+     "name": "Synex Renewbl Engy J",
+     "symbol": "SXI"
+    }
+   ]
+  },
+  {
+   "symbol": "SMT",
+   "name": "Sierra Metals Inc.",
+   "exchange": "TSX",
+   "yahoo_symbol": "SMT.TO",
+   "instruments": [
+    {
+     "name": "Sierra Metals Inc. J",
+     "symbol": "SMT"
+    }
+   ]
+  }
+ ]
+}
