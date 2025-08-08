@@ -1,0 +1,88 @@
+{
+ "added": [
+  {
+   "symbol": "JOHN",
+   "name": "John Tsubasa Rivals (JOHN)",
+   "built_on": "KAIA"
+  },
+  {
+   "symbol": "FELIS",
+   "name": "Felis (FELIS)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "RUG",
+   "name": "Rug (RUG)",
+   "built_on": "HYPE"
+  },
+  {
+   "symbol": "DEPIN",
+   "name": "DEPIN (DEPIN)",
+   "built_on": "HYPE"
+  },
+  {
+   "symbol": "IFR",
+   "name": "Inferium (IFR)",
+   "built_on": "BASE"
+  },
+  {
+   "symbol": "BANK",
+   "name": "Float Protocol (BANK)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "CONSCIOUS",
+   "name": "Conscious Token (CONSCIOUS)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "CBBTCBASE",
+   "name": "cbBTC (CBBTCBASE)"
+  },
+  {
+   "symbol": "ASP",
+   "name": "Aspecta (ASP)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "ASPIRE",
+   "name": "Aspire (ASPIRE)"
+  },
+  {
+   "symbol": "D",
+   "name": "Dar Open Network (D)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "BUDDY",
+   "name": "BUDDY (BUDDY)",
+   "built_on": "HYPE"
+  },
+  {
+   "symbol": "FIR",
+   "name": "Fireverse (FIR)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "G",
+   "name": "Gravity (G)",
+   "built_on": "ETH"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "RUG",
+   "name": "Rug (RUG)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "BUDDY",
+   "name": "BUDDY (BUDDY)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "ASP",
+   "name": "Aspire (ASP)"
+  }
+ ]
+}

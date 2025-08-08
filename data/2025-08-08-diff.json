@@ -1,0 +1,192 @@
+{
+ "added": [
+  {
+   "symbol": "BSAA",
+   "name": "BEST SPAC I Acquisition Corp. - Class A Ordinary Shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "BSAA"
+  },
+  {
+   "symbol": "BSAAR",
+   "name": "BEST SPAC I Acquisition Corp. - Rights",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "BSAAR"
+  },
+  {
+   "symbol": "DGLO",
+   "name": "First Trust RBA Deglobalization ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "DGLO"
+  },
+  {
+   "symbol": "FLY",
+   "name": "Firefly Aerospace Inc. - Common Stock",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "FLY"
+  },
+  {
+   "symbol": "PGAC",
+   "name": "Pantages Capital Acquisition Corporation - Class A Ordinary Shares",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "PGAC"
+  },
+  {
+   "symbol": "PGACR",
+   "name": "Pantages Capital Acquisition Corporation - Right",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "PGACR"
+  },
+  {
+   "symbol": "PGACU",
+   "name": "Pantages Capital Acquisition Corporation - Unit",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "PGACU"
+  },
+  {
+   "symbol": "PSKY",
+   "name": "Paramount Skydance Corporation - Class B Common Stock",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "PSKY"
+  },
+  {
+   "symbol": "QPUX",
+   "name": "Defiance 2X Daily Long Pure Quantum ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "QPUX"
+  },
+  {
+   "symbol": "WYFI",
+   "name": "WhiteFiber, Inc. - Ordinary Shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "WYFI"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "CHEB.W",
+   "name": "Chenghe Acquisition II Co. Redeemable Warrants, each whole warrant exercisable for one Class A ordinary share at an exercise price of $11.50",
+   "exchange": "NYSE MKT",
+   "yahoo_symbol": "CHEB.W"
+  },
+  {
+   "symbol": "NGY",
+   "name": "Nexera Energy Inc.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "NGY.V",
+   "instruments": [
+    {
+     "name": "Nexera Energy Inc.",
+     "symbol": "NGY"
+    }
+   ]
+  },
+  {
+   "symbol": "PARA",
+   "name": "Paramount Global - Class B Common Stock",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "PARA"
+  },
+  {
+   "symbol": "PARAA",
+   "name": "Paramount Global - Class A Common Stock",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "PARAA"
+  },
+  {
+   "symbol": "CHEB.U",
+   "name": "Chenghe Acquisition II Co. Units, each consisting of one Class A ordinary share and one-half of one redeemable warrant",
+   "exchange": "NYSE MKT",
+   "yahoo_symbol": "CHEB.U"
+  },
+  {
+   "symbol": "AIFE",
+   "name": "Aifeex Nexus Acquisition Corporation - Class A Ordinary Shares",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "AIFE"
+  },
+  {
+   "symbol": "HOOK",
+   "name": "HOOKIPA Pharma Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "HOOK"
+  },
+  {
+   "symbol": "DWS",
+   "name": "Diamond Estates Wines \u0026 Spirits Inc.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "DWS.V",
+   "instruments": [
+    {
+     "name": "Diamond Estates Wines \u0026 Spirits Inc.",
+     "symbol": "DWS"
+    }
+   ]
+  },
+  {
+   "symbol": "CHEB",
+   "name": "Chenghe Acquisition II Co. Class A Ordinary Shares",
+   "exchange": "NYSE MKT",
+   "yahoo_symbol": "CHEB"
+  },
+  {
+   "symbol": "AIFER",
+   "name": "Aifeex Nexus Acquisition Corporation - Right",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "AIFER"
+  },
+  {
+   "symbol": "AIFEU",
+   "name": "Aifeex Nexus Acquisition Corporation - Unit",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "AIFEU"
+  },
+  {
+   "symbol": "XGC",
+   "name": "Xali Gold Corp.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "XGC.V",
+   "instruments": [
+    {
+     "name": "Xali Gold Corp.",
+     "symbol": "XGC"
+    }
+   ]
+  },
+  {
+   "symbol": "PCLO",
+   "name": "Pharmacielo Ltd.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "PCLO.V",
+   "instruments": [
+    {
+     "name": "Pharmacielo Ltd.",
+     "symbol": "PCLO"
+    }
+   ]
+  },
+  {
+   "symbol": "FTI",
+   "name": "FTI Foodtech International Inc.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "FTI.V",
+   "instruments": [
+    {
+     "name": "FTI Foodtech International Inc.",
+     "symbol": "FTI"
+    }
+   ]
+  },
+  {
+   "symbol": "MCI",
+   "name": "Minnova Corp.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "MCI.V",
+   "instruments": [
+    {
+     "name": "Minnova Corp.",
+     "symbol": "MCI"
+    }
+   ]
+  }
+ ]
+}
