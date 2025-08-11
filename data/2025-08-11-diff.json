@@ -1,0 +1,144 @@
+{
+ "added": [
+  {
+   "symbol": "BITK",
+   "name": "Blockchaink2 Corp.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "BITK.V",
+   "instruments": [
+    {
+     "name": "Blockchaink2 Corp.",
+     "symbol": "BITK"
+    }
+   ]
+  },
+  {
+   "symbol": "AVBH",
+   "name": "Avidbank Holdings, Inc. - Common Stock",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "AVBH"
+  },
+  {
+   "symbol": "BIVIW",
+   "name": "BioVie Inc. - Warrant",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "BIVIW"
+  },
+  {
+   "symbol": "DKI",
+   "name": "DarkIris Inc. - Class A Ordinary Shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "DKI"
+  },
+  {
+   "symbol": "EFTY",
+   "name": "Etoiles Capital Group Co., Ltd. - Class A Ordinary Shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "EFTY"
+  },
+  {
+   "symbol": "FGNX",
+   "name": "Fundamental Global Inc. - Common Stock",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "FGNX"
+  },
+  {
+   "symbol": "FGNXP",
+   "name": "Fundamental Global Inc. - 8.00% Cumulative Series A Preferred Stock",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "FGNXP"
+  },
+  {
+   "symbol": "HTFL",
+   "name": "Heartflow, Inc. - Common Stock",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "HTFL"
+  },
+  {
+   "symbol": "MYSE",
+   "name": "Myseum, Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "MYSE"
+  },
+  {
+   "symbol": "MYSEW",
+   "name": "Myseum, Inc. - Series A Warrant",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "MYSEW"
+  },
+  {
+   "symbol": "PLBL",
+   "name": "Polibeli Group Ltd - Class A Ordinary Shares",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "PLBL"
+  },
+  {
+   "symbol": "SSEAU",
+   "name": "Starry Sea Acquisition Corp - Unit",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "SSEAU"
+  },
+  {
+   "symbol": "VIXI",
+   "name": "Defiance Enhanced Long Vol ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "VIXI"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "DATS",
+   "name": "DatChat, Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "DATS"
+  },
+  {
+   "symbol": "FGFPP",
+   "name": "Fundamental Global Inc. - 8.00% Cumulative Series A Preferred Stock",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "FGFPP"
+  },
+  {
+   "symbol": "SSY",
+   "name": "SunLink Health Systems, Inc. Common Stock",
+   "exchange": "NYSE MKT",
+   "yahoo_symbol": "SSY"
+  },
+  {
+   "symbol": "FGF",
+   "name": "Fundamental Global Inc. - Common Stock",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "FGF"
+  },
+  {
+   "symbol": "BAT",
+   "name": "Batero Gold Corp.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "BAT.V",
+   "instruments": [
+    {
+     "name": "Batero Gold Corp",
+     "symbol": "BAT"
+    }
+   ]
+  },
+  {
+   "symbol": "DMI",
+   "name": "Diamcor Mining Inc.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "DMI.V",
+   "instruments": [
+    {
+     "name": "Diamcor Mining Inc",
+     "symbol": "DMI"
+    }
+   ]
+  },
+  {
+   "symbol": "DATSW",
+   "name": "DatChat, Inc. - Series A Warrant",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "DATSW"
+  }
+ ]
+}
