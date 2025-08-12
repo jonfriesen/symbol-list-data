@@ -1,0 +1,124 @@
+{
+ "added": [
+  {
+   "symbol": "SCND",
+   "name": "BetaPro -3x S\u0026P/TSX 60 Daily Leveraged Bear Alternative ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "SCND.TO",
+   "instruments": [
+    {
+     "name": "BetaPro-3xSPTSX60 Be",
+     "symbol": "SCND"
+    }
+   ]
+  },
+  {
+   "symbol": "TCND",
+   "name": "BetaPro 3x S\u0026P/TSX 60 Daily Leveraged Bull Alternative ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "TCND.TO",
+   "instruments": [
+    {
+     "name": "BetaPro 3xSPTSX60 Bu",
+     "symbol": "TCND"
+    }
+   ]
+  },
+  {
+   "symbol": "CGDI",
+   "name": "CI Global Dividend Private Pool",
+   "exchange": "TSX",
+   "yahoo_symbol": "CGDI.TO",
+   "instruments": [
+    {
+     "name": "CI Glbl Div PP ETF",
+     "symbol": "CGDI"
+    }
+   ]
+  },
+  {
+   "symbol": "CUIG",
+   "name": "CI U.S. Monthly Income Private Pool",
+   "exchange": "TSX",
+   "yahoo_symbol": "CUIG.TO",
+   "instruments": [
+    {
+     "name": "CI US Mipp C$ SrETF ",
+     "symbol": "CUIG"
+    },
+    {
+     "name": "CIUS Mipp US$ HSrETF",
+     "symbol": "CUIG.U"
+    }
+   ]
+  },
+  {
+   "symbol": "CSMD",
+   "name": "CI U.S. Small/Mid Cap Equity Private Pool",
+   "exchange": "TSX",
+   "yahoo_symbol": "CSMD.TO",
+   "instruments": [
+    {
+     "name": "CI US SmM CapEqPriPo",
+     "symbol": "CSMD"
+    }
+   ]
+  },
+  {
+   "symbol": "BBOT",
+   "name": "BridgeBio Oncology Therapeutics, Inc. - Common Stock",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "BBOT"
+  },
+  {
+   "symbol": "BULG",
+   "name": "Leverage Shares 2X Long BULL Daily ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "BULG"
+  },
+  {
+   "symbol": "CRCG",
+   "name": "Leverage Shares 2X Long CRCL Daily ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "CRCG"
+  },
+  {
+   "symbol": "CRWG",
+   "name": "Leverage Shares 2X Long CRWV Daily ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "CRWG"
+  },
+  {
+   "symbol": "AD",
+   "name": "Array Digital Infrastructure, Inc. Common Shares",
+   "exchange": "NYSE",
+   "yahoo_symbol": "AD"
+  },
+  {
+   "symbol": "SSY",
+   "name": "SunLink Health Systems, Inc. Common Stock",
+   "exchange": "NYSE MKT",
+   "yahoo_symbol": "SSY"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "HLXB",
+   "name": "Helix Acquisition Corp. II - Class A Ordinary Shares",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "HLXB"
+  },
+  {
+   "symbol": "USM",
+   "name": "United States Cellular Corporation Common Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "USM"
+  },
+  {
+   "symbol": "TSBX",
+   "name": "Turnstone Biologics Corp. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "TSBX"
+  }
+ ]
+}
