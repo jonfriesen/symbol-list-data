@@ -1,0 +1,156 @@
+{
+ "added": [
+  {
+   "symbol": "NVDD",
+   "name": "SavvyShort (-2X) NVDA ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "NVDD.TO",
+   "instruments": [
+    {
+     "name": "SavvyShort -2X NVDA",
+     "symbol": "NVDD"
+    }
+   ]
+  },
+  {
+   "symbol": "TSLD",
+   "name": "SavvyShort (-2X) TSLA ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "TSLD.TO",
+   "instruments": [
+    {
+     "name": "SavvyShort -2X TSLA",
+     "symbol": "TSLD"
+    }
+   ]
+  },
+  {
+   "symbol": "CPAG",
+   "name": "F/m Compoundr U.S. Aggregate Bond ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "CPAG"
+  },
+  {
+   "symbol": "CPHY",
+   "name": "F/m Compoundr High Yield Bond ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "CPHY"
+  },
+  {
+   "symbol": "HVMCU",
+   "name": "Highview Merger Corp. - Units",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "HVMCU"
+  },
+  {
+   "symbol": "MAGH",
+   "name": "Magnitude International Ltd - Ordinary Shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "MAGH"
+  },
+  {
+   "symbol": "MKLYU",
+   "name": "McKinley Acquisition Corporation - Units",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "MKLYU"
+  },
+  {
+   "symbol": "NUAI",
+   "name": "New Era Energy \u0026 Digital, Inc. - Common Stock",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "NUAI"
+  },
+  {
+   "symbol": "NUAIW",
+   "name": "New Era Energy \u0026 Digital, Inc. - Warrants",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "NUAIW"
+  },
+  {
+   "symbol": "OXSQH",
+   "name": "Oxford Square Capital Corp. - 7.75% Notes due 2030",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "OXSQH"
+  },
+  {
+   "symbol": "RDNW",
+   "name": "RideNow Group, Inc. - Class B Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "RDNW"
+  },
+  {
+   "symbol": "BLSH",
+   "name": "Bullish Ordinary Shares",
+   "exchange": "NYSE",
+   "yahoo_symbol": "BLSH"
+  },
+  {
+   "symbol": "NSRX",
+   "name": "Nasus Pharma Ltd. Ordinary Shares",
+   "exchange": "NYSE MKT",
+   "yahoo_symbol": "NSRX"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "NXG.R",
+   "name": "NXG NextGen Infrastructure Income Fund Rights (expiring August 13, 2025) Rights",
+   "exchange": "NYSE",
+   "yahoo_symbol": "NXG.R"
+  },
+  {
+   "symbol": "FOXO",
+   "name": "FOXO Technologies Inc. Class A Common Stock",
+   "exchange": "NYSE MKT",
+   "yahoo_symbol": "FOXO"
+  },
+  {
+   "symbol": "KEG.UN",
+   "name": "Keg Royalties Income Fund (The)",
+   "exchange": "TSX",
+   "yahoo_symbol": "KEG.UN.TO",
+   "instruments": [
+    {
+     "name": "Keg Royalties Fnd Un",
+     "symbol": "KEG.UN"
+    }
+   ]
+  },
+  {
+   "symbol": "AMM",
+   "name": "Almaden Minerals Ltd.",
+   "exchange": "TSX",
+   "yahoo_symbol": "AMM.TO",
+   "instruments": [
+    {
+     "name": "Almaden Minerals",
+     "symbol": "AMM"
+    }
+   ]
+  },
+  {
+   "symbol": "NEHCW",
+   "name": "New Era Helium Inc - Warrants",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "NEHCW"
+  },
+  {
+   "symbol": "NEHC",
+   "name": "New Era Helium Inc - Common Stock",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "NEHC"
+  },
+  {
+   "symbol": "RMBL",
+   "name": "RumbleOn, Inc. - Class B Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "RMBL"
+  },
+  {
+   "symbol": "STRM",
+   "name": "Streamline Health Solutions, Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "STRM"
+  }
+ ]
+}
