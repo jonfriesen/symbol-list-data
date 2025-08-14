@@ -1,0 +1,132 @@
+{
+ "added": [
+  {
+   "symbol": "AMM",
+   "name": "Almaden Minerals Ltd.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "AMM.V",
+   "instruments": [
+    {
+     "name": "Almaden Minerals Ltd.",
+     "symbol": "AMM"
+    }
+   ]
+  },
+  {
+   "symbol": "TOM",
+   "name": "Trinity One Metals Ltd.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "TOM.V",
+   "instruments": [
+    {
+     "name": "Trinity One Metals Ltd.",
+     "symbol": "TOM"
+    }
+   ]
+  },
+  {
+   "symbol": "OVID",
+   "name": "Ovid Therapeutics Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "OVID"
+  },
+  {
+   "symbol": "SOHO",
+   "name": "Sotherly Hotels Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "SOHO"
+  },
+  {
+   "symbol": "MIAX",
+   "name": "Miami International Holdings, Inc. Common Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "MIAX"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "RITD",
+   "name": "BetaPro Equal Weight Canadian REIT -2x Daily Bear ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "RITD.TO",
+   "instruments": [
+    {
+     "name": "BetProEqCA REIT-2xBr",
+     "symbol": "RITD"
+    }
+   ]
+  },
+  {
+   "symbol": "ATMD",
+   "name": "BetaPro Equal Weight Canadian Bank -2x Daily Bear ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "ATMD.TO",
+   "instruments": [
+    {
+     "name": "BetaPro EqCdnBnk2xBr",
+     "symbol": "ATMD"
+    }
+   ]
+  },
+  {
+   "symbol": "RITU",
+   "name": "BetaPro Equal Weight Canadian REIT 2x Daily Bull ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "RITU.TO",
+   "instruments": [
+    {
+     "name": "BetaProEqCA REIT2xBl",
+     "symbol": "RITU"
+    }
+   ]
+  },
+  {
+   "symbol": "OVID",
+   "name": "Ovid Therapeutics Inc. - Common Stock",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "OVID"
+  },
+  {
+   "symbol": "HBUG",
+   "name": "Global X Cybersecurity Index ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "HBUG.TO",
+   "instruments": [
+    {
+     "name": "GblX Cybrsec Inx ETF",
+     "symbol": "HBUG"
+    }
+   ]
+  },
+  {
+   "symbol": "SOHO",
+   "name": "Sotherly Hotels Inc. - Common Stock",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "SOHO"
+  },
+  {
+   "symbol": "ARJN",
+   "name": "Aranjin Resources Ltd.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "ARJN.V",
+   "instruments": [
+    {
+     "name": "Aranjin Resources Ltd.",
+     "symbol": "ARJN"
+    }
+   ]
+  },
+  {
+   "symbol": "ATMU",
+   "name": "BetaPro Equal Weight Canadian Bank 2x Daily Bull ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "ATMU.TO",
+   "instruments": [
+    {
+     "name": "BetaPro EqCdnBnk2xBl",
+     "symbol": "ATMU"
+    }
+   ]
+  }
+ ]
+}
