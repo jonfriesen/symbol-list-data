@@ -1,0 +1,156 @@
+{
+ "added": [
+  {
+   "symbol": "TT",
+   "name": "Total Metals Corp.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "TT.V",
+   "instruments": [
+    {
+     "name": "Total Metals Corp.",
+     "symbol": "TT"
+    }
+   ]
+  },
+  {
+   "symbol": "ETHZ",
+   "name": "ETHZilla Corporation - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "ETHZ"
+  },
+  {
+   "symbol": "ETHZW",
+   "name": "ETHZilla Corporation - Warrant",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "ETHZW"
+  },
+  {
+   "symbol": "KYIV",
+   "name": "Kyivstar Group Ltd. - Common Shares",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "KYIV"
+  },
+  {
+   "symbol": "KYIVW",
+   "name": "Kyivstar Group Ltd. - Warrant",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "KYIVW"
+  },
+  {
+   "symbol": "LWAC",
+   "name": "LightWave Acquisition Corp. - Class A Ordinary Shares",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "LWAC"
+  },
+  {
+   "symbol": "LWACW",
+   "name": "LightWave Acquisition Corp. - Warrants",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "LWACW"
+  },
+  {
+   "symbol": "NUTR",
+   "name": "Nusatrip Incorporated - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "NUTR"
+  },
+  {
+   "symbol": "OBA",
+   "name": "Oxley Bridge Acquisition Limited - Class A Ordinary Shares",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "OBA"
+  },
+  {
+   "symbol": "OBAWW",
+   "name": "Oxley Bridge Acquisition Limited - Warrants",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "OBAWW"
+  },
+  {
+   "symbol": "PACH",
+   "name": "Pioneer Acquisition I Corp - Class A Ordinary Shares",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "PACH"
+  },
+  {
+   "symbol": "PACHW",
+   "name": "Pioneer Acquisition I Corp - Warrants",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "PACHW"
+  },
+  {
+   "symbol": "PPCB",
+   "name": "Propanc Biopharma, Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "PPCB"
+  },
+  {
+   "symbol": "QQXL",
+   "name": "ProShares Ultra QQQ Top 30",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "QQXL"
+  },
+  {
+   "symbol": "BIT.V",
+   "name": "BlackRock Multi-Sector Income Trust Rights (expiring September 9, 2025) Rights when issued",
+   "exchange": "NYSE",
+   "yahoo_symbol": "BIT.V"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "PACE",
+   "name": "Pace Metals Ltd.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "PACE.V",
+   "instruments": [
+    {
+     "name": "Pace Metals Ltd.",
+     "symbol": "PACE"
+    }
+   ]
+  },
+  {
+   "symbol": "ATNF",
+   "name": "180 Life Sciences Corp. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "ATNF"
+  },
+  {
+   "symbol": "OTRK",
+   "name": "Ontrak, Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "OTRK"
+  },
+  {
+   "symbol": "SNRE",
+   "name": "Sunrise Communications AG - American Depositary Shares representing Class A shares",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "SNRE"
+  },
+  {
+   "symbol": "GB",
+   "name": "Global Blue Group Holding AG Ordinary Shares",
+   "exchange": "NYSE",
+   "yahoo_symbol": "GB"
+  },
+  {
+   "symbol": "ATNFW",
+   "name": "180 Life Sciences Corp. - Warrant",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "ATNFW"
+  },
+  {
+   "symbol": "GCX",
+   "name": "Granite Creek Copper Ltd.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "GCX.V",
+   "instruments": [
+    {
+     "name": "Granite Creek Copper Ltd.",
+     "symbol": "GCX"
+    }
+   ]
+  }
+ ]
+}
