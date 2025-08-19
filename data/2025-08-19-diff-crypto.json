@@ -1,0 +1,66 @@
+{
+ "added": [
+  {
+   "symbol": "HOLDFUN",
+   "name": "Hold.fun (HOLDFUN)"
+  },
+  {
+   "symbol": "FOUNDER",
+   "name": "Founder (FOUNDER)"
+  },
+  {
+   "symbol": "1PIECE",
+   "name": "OnePiece (1PIECE)"
+  },
+  {
+   "symbol": "FURO",
+   "name": "Furo (FURO)"
+  },
+  {
+   "symbol": "DRACTOKEN",
+   "name": "DRAC Network (DRACTOKEN)"
+  },
+  {
+   "symbol": "FTPY",
+   "name": "FTPY TOKEN (FTPY)"
+  },
+  {
+   "symbol": "AIVERONICA",
+   "name": "AIVeronica (AIVERONICA)"
+  },
+  {
+   "symbol": "BOATKID",
+   "name": "BoatKid (BOATKID)"
+  },
+  {
+   "symbol": "FKR",
+   "name": "Flicker (FKR)"
+  },
+  {
+   "symbol": "YESTOKENV1",
+   "name": "Yes Token v1 (YESTOKENV1)"
+  },
+  {
+   "symbol": "AOL",
+   "name": "AOL (America Online) (AOL)"
+  },
+  {
+   "symbol": "GPTON",
+   "name": "GPTON (GPTON)"
+  },
+  {
+   "symbol": "DIGIMONRABBIT",
+   "name": "Digimon Rabbit (DIGIMONRABBIT)"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "MAOMEME",
+   "name": "Mao (MAOMEME)"
+  },
+  {
+   "symbol": "ZEDCOIN",
+   "name": "ZedCoin (ZEDCOIN)"
+  }
+ ]
+}

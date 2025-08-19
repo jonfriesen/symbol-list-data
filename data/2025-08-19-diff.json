@@ -1,0 +1,102 @@
+{
+ "added": [
+  {
+   "symbol": "HHIH",
+   "name": "Harvest High Income Equity Shares ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "HHIH.TO",
+   "instruments": [
+    {
+     "name": "Harv HiIn Eq Shr ETF",
+     "symbol": "HHIH"
+    }
+   ]
+  },
+  {
+   "symbol": "MALX",
+   "name": "Mackenzie GQE US Alpha Extension ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "MALX.TO",
+   "instruments": [
+    {
+     "name": "Mackenzie GQE US Alp",
+     "symbol": "MALX"
+    }
+   ]
+  },
+  {
+   "symbol": "QQQQ",
+   "name": "Mackenzie NASDAQ 100 Index ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "QQQQ.TO",
+   "instruments": [
+    {
+     "name": "Mackenzie NASDAQ 100",
+     "symbol": "QQQQ"
+    }
+   ]
+  },
+  {
+   "symbol": "FIGX",
+   "name": "FIGX Capital Acquisition Corp. - Class A ordinary share",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "FIGX"
+  },
+  {
+   "symbol": "FIGXW",
+   "name": "FIGX Capital Acquisition Corp. - one-half of one redeemable warrant.",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "FIGXW"
+  },
+  {
+   "symbol": "TFIN",
+   "name": "Triumph Financial, Inc. Common Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "TFIN"
+  },
+  {
+   "symbol": "TFIN$",
+   "name": "Triumph Financial, Inc. Depositary Shares, Each Representing a 1/40th Interest in a Share of 7.125% Series C Fixed-Rate Non-Cumulative Perpetual Preferred Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "TFIN$"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "TFINP",
+   "name": "Triumph Financial, Inc. - Depositary Shares, Each Representing a 1/40th Interest in a Share of Series C Fixed-Rate Non-Cumulative Perpetual Preferred Stock",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "TFINP"
+  },
+  {
+   "symbol": "STR",
+   "name": "Sitio Royalties Corp. Class A Common Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "STR"
+  },
+  {
+   "symbol": "TPIC",
+   "name": "TPI Composites, Inc. - Common Stock",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "TPIC"
+  },
+  {
+   "symbol": "IVEG",
+   "name": "iShares Emergent Food and AgTech Multisector ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "IVEG"
+  },
+  {
+   "symbol": "TFIN",
+   "name": "Triumph Financial, Inc. - Common Stock",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "TFIN"
+  },
+  {
+   "symbol": "IWTR",
+   "name": "iShares MSCI Water Management Multisector ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "IWTR"
+  }
+ ]
+}
