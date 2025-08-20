@@ -1,0 +1,114 @@
+{
+ "added": [
+  {
+   "symbol": "YOTSUBA",
+   "name": "Yotsuba Koiwai (YOTSUBA)"
+  },
+  {
+   "symbol": "CLIPPY",
+   "name": "CLIPPY (CLIPPY)"
+  },
+  {
+   "symbol": "MOANER",
+   "name": "Moaner by Matt Furie (MOANER)"
+  },
+  {
+   "symbol": "CODEXTOKEN",
+   "name": "CodexToken (CODEXTOKEN)"
+  },
+  {
+   "symbol": "ZEDCOIN",
+   "name": "ZedCoin (ZEDCOIN)"
+  },
+  {
+   "symbol": "BABYETH",
+   "name": "Baby Ethereum (BABYETH)"
+  },
+  {
+   "symbol": "VCT",
+   "name": "VCHAT Token (VCT)"
+  },
+  {
+   "symbol": "TTAJ",
+   "name": "TTAJ (TTAJ)"
+  },
+  {
+   "symbol": "BERRIE",
+   "name": "Berrie Token (BERRIE)"
+  },
+  {
+   "symbol": "OVL",
+   "name": "Overlay (OVL)"
+  },
+  {
+   "symbol": "DILDO",
+   "name": "Green Dildo Coin (DILDO)"
+  },
+  {
+   "symbol": "OPAD",
+   "name": "OpenPad AI (OPAD)"
+  },
+  {
+   "symbol": "PENGUAI",
+   "name": "PENGU AI (PENGUAI)"
+  },
+  {
+   "symbol": "NOVAAI",
+   "name": "Nova AI (NOVAAI)"
+  },
+  {
+   "symbol": "AIBOT",
+   "name": "CherryAI (AIBOT)"
+  },
+  {
+   "symbol": "AINFT",
+   "name": "EthernaFi (AINFT)"
+  },
+  {
+   "symbol": "TCOM",
+   "name": "TCOM (TCOM)"
+  },
+  {
+   "symbol": "AIFI",
+   "name": "AIFinance Token (AIFI)"
+  },
+  {
+   "symbol": "GROKI",
+   "name": "Grok Imagine (GROKI)"
+  },
+  {
+   "symbol": "CTM",
+   "name": "c8ntinuum (CTM)"
+  },
+  {
+   "symbol": "BONZI",
+   "name": "Bonzi PFP Cult (BONZI)"
+  },
+  {
+   "symbol": "MAOMEME",
+   "name": "Mao (MAOMEME)"
+  },
+  {
+   "symbol": "FUZEX",
+   "name": "FuzeX (FUZEX)"
+  },
+  {
+   "symbol": "BABYSPARK",
+   "name": "Baby Spark (BABYSPARK)"
+  },
+  {
+   "symbol": "RECON",
+   "name": "RECON (RECON)"
+  },
+  {
+   "symbol": "XBO",
+   "name": "XBO (XBO)"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "CODEX",
+   "name": "CODEX Finance (CODEX)"
+  }
+ ]
+}
