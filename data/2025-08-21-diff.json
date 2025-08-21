@@ -1,0 +1,210 @@
+{
+ "added": [
+  {
+   "symbol": "AEME",
+   "name": "Harvest Agnico Eagle Enhanced High Income Shares ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "AEME.TO",
+   "instruments": [
+    {
+     "name": "Harvest Agnico Eagle",
+     "symbol": "AEME"
+    }
+   ]
+  },
+  {
+   "symbol": "BCEE",
+   "name": "Harvest BCE Enhanced High Income Shares ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "BCEE.TO",
+   "instruments": [
+    {
+     "name": "Harvest BCE Enh HiIn",
+     "symbol": "BCEE"
+    }
+   ]
+  },
+  {
+   "symbol": "CCOE",
+   "name": "Harvest Cameco Enhanced High Income Shares ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "CCOE.TO",
+   "instruments": [
+    {
+     "name": "Harvest Cameco EnHiI",
+     "symbol": "CCOE"
+    }
+   ]
+  },
+  {
+   "symbol": "HHIC",
+   "name": "Harvest Canadian High Income Shares ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "HHIC.TO",
+   "instruments": [
+    {
+     "name": "Harvest Cdn High Inc",
+     "symbol": "HHIC"
+    }
+   ]
+  },
+  {
+   "symbol": "CNQE",
+   "name": "Harvest CNQ Enhanced High Income Shares ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "CNQE.TO",
+   "instruments": [
+    {
+     "name": "Harvest CNQ Enh HiIn",
+     "symbol": "CNQE"
+    }
+   ]
+  },
+  {
+   "symbol": "ENBE",
+   "name": "Harvest Enbridge Enhanced High Income Shares ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "ENBE.TO",
+   "instruments": [
+    {
+     "name": "Harvest Enbridge Enh",
+     "symbol": "ENBE"
+    }
+   ]
+  },
+  {
+   "symbol": "RYHE",
+   "name": "Harvest Royal Bank Enhanced High Income Shares ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "RYHE.TO",
+   "instruments": [
+    {
+     "name": "Harv RB Enh HiSh ETF",
+     "symbol": "RYHE"
+    }
+   ]
+  },
+  {
+   "symbol": "SHPE",
+   "name": "Harvest Shopify Enhanced High Income Shares ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "SHPE.TO",
+   "instruments": [
+    {
+     "name": "Hrv Shp Enh HiSh ETF",
+     "symbol": "SHPE"
+    }
+   ]
+  },
+  {
+   "symbol": "SUHE",
+   "name": "Harvest Suncor Enhanced High Income Shares ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "SUHE.TO",
+   "instruments": [
+    {
+     "name": "Hrv Sun Enh HiSh ETF",
+     "symbol": "SUHE"
+    }
+   ]
+  },
+  {
+   "symbol": "TDHE",
+   "name": "Harvest TD Bank Enhanced High Income Shares ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "TDHE.TO",
+   "instruments": [
+    {
+     "name": "Hrv TD Enh HiSh ETF",
+     "symbol": "TDHE"
+    }
+   ]
+  },
+  {
+   "symbol": "TEHE",
+   "name": "Harvest TELUS Enhanced High Income Shares ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "TEHE.TO",
+   "instruments": [
+    {
+     "name": "Hrv Tel Enh HiSh ETF",
+     "symbol": "TEHE"
+    }
+   ]
+  },
+  {
+   "symbol": "AMDU",
+   "name": "Defiance Leveraged Long + Income AMD ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "AMDU"
+  },
+  {
+   "symbol": "BCAR",
+   "name": "D. Boral ARC Acquisition I Corp. - Class A Ordinary Shares",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "BCAR"
+  },
+  {
+   "symbol": "BCARW",
+   "name": "D. Boral ARC Acquisition I Corp. - Warrant",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "BCARW"
+  },
+  {
+   "symbol": "DBGI",
+   "name": "Digital Brands Group, Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "DBGI"
+  },
+  {
+   "symbol": "JHAI",
+   "name": "Janus Henderson Global Artificial Intelligence ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "JHAI"
+  },
+  {
+   "symbol": "SMCC",
+   "name": "Defiance Leveraged Long + Income SMCI ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "SMCC"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "EMCGW",
+   "name": "Embrace Change Acquisition Corp - Warrants",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "EMCGW"
+  },
+  {
+   "symbol": "EMCGR",
+   "name": "Embrace Change Acquisition Corp - Rights",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "EMCGR"
+  },
+  {
+   "symbol": "WINT",
+   "name": "Windtree Therapeutics, Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "WINT"
+  },
+  {
+   "symbol": "EMCGU",
+   "name": "Embrace Change Acquisition Corp - Units",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "EMCGU"
+  },
+  {
+   "symbol": "EMCG",
+   "name": "Embrace Change Acquisition Corp - Ordinary Shares",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "EMCG"
+  },
+  {
+   "symbol": "GOGL",
+   "name": "Golden Ocean Group Limited - Common Stock",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "GOGL"
+  }
+ ]
+}

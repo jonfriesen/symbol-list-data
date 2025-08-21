@@ -1,0 +1,20 @@
+{
+ "added": [
+  {
+   "symbol": "USDCV",
+   "name": "USD CoinVertible (USDCV)"
+  },
+  {
+   "symbol": "SWOL",
+   "name": "Snowy Owl (SWOL)"
+  },
+  {
+   "symbol": "RUNNODE",
+   "name": "Run (RUNNODE)"
+  },
+  {
+   "symbol": "PUBLIC",
+   "name": "PublicAI (PUBLIC)"
+  }
+ ]
+}
