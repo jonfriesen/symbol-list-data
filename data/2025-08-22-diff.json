@@ -1,0 +1,252 @@
+{
+ "added": [
+  {
+   "symbol": "ABHI",
+   "name": "Ninepoint Barrick HighShares ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "ABHI.TO",
+   "instruments": [
+    {
+     "name": "Ninepoint Barric ETF",
+     "symbol": "ABHI"
+    }
+   ]
+  },
+  {
+   "symbol": "BCHI",
+   "name": "Ninepoint BCE HighShares ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "BCHI.TO",
+   "instruments": [
+    {
+     "name": "Ninepoint BCE Hi ETF",
+     "symbol": "BCHI"
+    }
+   ]
+  },
+  {
+   "symbol": "CCHI",
+   "name": "Ninepoint Cameco HighShares ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "CCHI.TO",
+   "instruments": [
+    {
+     "name": "Ninepoint Cameco ETF",
+     "symbol": "CCHI"
+    }
+   ]
+  },
+  {
+   "symbol": "CQHI",
+   "name": "Ninepoint Canadian Natural Resources HighShares ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "CQHI.TO",
+   "instruments": [
+    {
+     "name": "Ninepoint Cdn NaReHi",
+     "symbol": "CQHI"
+    }
+   ]
+  },
+  {
+   "symbol": "CRHI",
+   "name": "Ninepoint CNR HighShares ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "CRHI.TO",
+   "instruments": [
+    {
+     "name": "Ninepoint CNR Hi ETF",
+     "symbol": "CRHI"
+    }
+   ]
+  },
+  {
+   "symbol": "ENHI",
+   "name": "Ninepoint Enbridge HighShares ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "ENHI.TO",
+   "instruments": [
+    {
+     "name": "Np Enh Enb HghSh ETF",
+     "symbol": "ENHI"
+    }
+   ]
+  },
+  {
+   "symbol": "ECHI",
+   "name": "Ninepoint Enhanced Canadian HighShares ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "ECHI.TO",
+   "instruments": [
+    {
+     "name": "Np Enh Cd HighSh ETF",
+     "symbol": "ECHI"
+    }
+   ]
+  },
+  {
+   "symbol": "RYHI",
+   "name": "Ninepoint Royal Bank HighShares ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "RYHI.TO",
+   "instruments": [
+    {
+     "name": "Np RylBnk HighSh ETF",
+     "symbol": "RYHI"
+    }
+   ]
+  },
+  {
+   "symbol": "SHHI",
+   "name": "Ninepoint Shopify HighShares ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "SHHI.TO",
+   "instruments": [
+    {
+     "name": "Np Shopfy HighSh ETF",
+     "symbol": "SHHI"
+    }
+   ]
+  },
+  {
+   "symbol": "SUHI",
+   "name": "Ninepoint Suncor HighShares ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "SUHI.TO",
+   "instruments": [
+    {
+     "name": "Np Suncor HighSh ETF",
+     "symbol": "SUHI"
+    }
+   ]
+  },
+  {
+   "symbol": "TDHI",
+   "name": "Ninepoint TD HighShares ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "TDHI.TO",
+   "instruments": [
+    {
+     "name": "Np TD HighShares ETF",
+     "symbol": "TDHI"
+    }
+   ]
+  },
+  {
+   "symbol": "OM",
+   "name": "Osisko Metals Incorporated",
+   "exchange": "TSX",
+   "yahoo_symbol": "OM.TO",
+   "instruments": [
+    {
+     "name": "Osisko Metals Incorp",
+     "symbol": "OM"
+    }
+   ]
+  },
+  {
+   "symbol": "EVAC",
+   "name": "EQV Ventures Acquisition Corp. II Class A Ordinary Shares",
+   "exchange": "NYSE",
+   "yahoo_symbol": "EVAC"
+  },
+  {
+   "symbol": "EVAC.W",
+   "name": "EQV Ventures Acquisition Corp. II Redeemable Warrants, each whole warrant exercisable for one Class A ordinary share at an exercise price of $11.50 per share",
+   "exchange": "NYSE",
+   "yahoo_symbol": "EVAC.W"
+  },
+  {
+   "symbol": "BAIG",
+   "name": "Leverage Shares 2X Long BBAI Daily ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "BAIG"
+  },
+  {
+   "symbol": "CEPF",
+   "name": "Cantor Equity Partners IV, Inc. - Class A Ordinary Shares",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "CEPF"
+  },
+  {
+   "symbol": "ETS",
+   "name": "Elite Express Holding Inc. - Class A Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "ETS"
+  },
+  {
+   "symbol": "GLGG",
+   "name": "Leverage Shares 2X Long GLXY Daily ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "GLGG"
+  },
+  {
+   "symbol": "TRUD",
+   "name": "VanEck Consumer Discretionary TruSector ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "TRUD"
+  },
+  {
+   "symbol": "TRUT",
+   "name": "VanEck Technology TruSector ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "TRUT"
+  },
+  {
+   "symbol": "ZNB",
+   "name": "Zeta Network Group - Class A Ordinary Shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "ZNB"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "STRRP",
+   "name": "Star Equity Holdings, Inc. - Series A Cumulative Perpetual Preferred Stock",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "STRRP"
+  },
+  {
+   "symbol": "OM",
+   "name": "Osisko Metals Incorporated",
+   "exchange": "TSXV",
+   "yahoo_symbol": "OM.V",
+   "instruments": [
+    {
+     "name": "Osisko Metals Incorporated",
+     "symbol": "OM"
+    }
+   ]
+  },
+  {
+   "symbol": "HPKEW",
+   "name": "HighPeak Energy, Inc. - Warrant",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "HPKEW"
+  },
+  {
+   "symbol": "ADD",
+   "name": "Color Star Technology Co., Ltd. - Class A Ordinary Shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "ADD"
+  },
+  {
+   "symbol": "STRR",
+   "name": "Star Equity Holdings, Inc. - Common Stock",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "STRR"
+  },
+  {
+   "symbol": "RSLV",
+   "name": "Reyna Silver Corp.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "RSLV.V",
+   "instruments": [
+    {
+     "name": "Reyna Silver Corp.",
+     "symbol": "RSLV"
+    }
+   ]
+  }
+ ]
+}

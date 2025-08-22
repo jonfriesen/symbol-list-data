@@ -1,0 +1,106 @@
+{
+ "added": [
+  {
+   "symbol": "PIVOTTOKEN",
+   "name": "Pivot Token (PIVOTTOKEN)"
+  },
+  {
+   "symbol": "EVERGROW",
+   "name": "EverGrowCoin (EVERGROW)"
+  },
+  {
+   "symbol": "WANAKA",
+   "name": "Wanaka Farm WAIRERE Token (WANAKA)"
+  },
+  {
+   "symbol": "KINTO",
+   "name": "Kinto (KINTO)"
+  },
+  {
+   "symbol": "RWAI",
+   "name": "RWA Inc. (RWAI)"
+  },
+  {
+   "symbol": "AINET",
+   "name": "AI Network (AINET)"
+  },
+  {
+   "symbol": "BCOINBNB",
+   "name": "Bombcrypto (BCOINBNB)"
+  },
+  {
+   "symbol": "EURA",
+   "name": "EURA (EURA)"
+  },
+  {
+   "symbol": "PLAYTOKEN",
+   "name": "Play Token (PLAYTOKEN)"
+  },
+  {
+   "symbol": "JOJOTOKEN",
+   "name": "JOJO (JOJOTOKEN)"
+  },
+  {
+   "symbol": "MAROV2",
+   "name": "Maro (MAROV2)"
+  },
+  {
+   "symbol": "BIN",
+   "name": "Binemon (binemon)"
+  },
+  {
+   "symbol": "THEDEBTBOX",
+   "name": "The Debt Box (THEDEBTBOX)"
+  },
+  {
+   "symbol": "FEATHER",
+   "name": "FeatherCoin (FEATHER)"
+  },
+  {
+   "symbol": "MOMO2",
+   "name": "MOMO 2.0 (MOMO2)"
+  },
+  {
+   "symbol": "TEDBNB",
+   "name": "TED (TEDBNB)"
+  },
+  {
+   "symbol": "FRANKLIN",
+   "name": "Franklin (FRANKLIN)"
+  },
+  {
+   "symbol": "GAIAE",
+   "name": "Gaia Everworld (GAIAE)"
+  },
+  {
+   "symbol": "FLOATBANK",
+   "name": "Float Protocol (FLOATBANK)"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "MARO",
+   "name": "Maro (MARO)"
+  },
+  {
+   "symbol": "BINEM",
+   "name": "Binemon (BINEM)"
+  },
+  {
+   "symbol": "ZEDCOIN",
+   "name": "ZedCoin (ZEDCOIN)"
+  },
+  {
+   "symbol": "MAOMEME",
+   "name": "Mao (MAOMEME)"
+  },
+  {
+   "symbol": "BCOIN",
+   "name": "Bombcrypto (BCOIN)"
+  },
+  {
+   "symbol": "BANK",
+   "name": "Float Protocol (BANK)"
+  }
+ ]
+}
