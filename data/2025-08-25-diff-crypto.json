@@ -1,0 +1,50 @@
+{
+ "added": [
+  {
+   "symbol": "EUROPACOIN",
+   "name": "Europa Coin (EUROPACOIN)"
+  },
+  {
+   "symbol": "EURAU",
+   "name": "AllUnity EUR (EURAU)"
+  },
+  {
+   "symbol": "SEUR",
+   "name": "Synth sEUR (SEUR)"
+  },
+  {
+   "symbol": "EUREV1",
+   "name": "Monerium EUR emoney v1 (EUREV1)"
+  },
+  {
+   "symbol": "EURD",
+   "name": "Quantoz EURD (EURD)"
+  },
+  {
+   "symbol": "EMONEYEUR",
+   "name": "e-Money EUR (EMONEYEUR)"
+  },
+  {
+   "symbol": "EURO3",
+   "name": "EURO3 (EURO3)"
+  },
+  {
+   "symbol": "SACKS",
+   "name": "SackFurie (SACKS)"
+  },
+  {
+   "symbol": "EEUR",
+   "name": "ARYZE eEUR (EEUR)"
+  },
+  {
+   "symbol": "OVPP",
+   "name": "OpenVPP (OVPP)"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "AGEUR",
+   "name": "agEUR (AGEUR)"
+  }
+ ]
+}
