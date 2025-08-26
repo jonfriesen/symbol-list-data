@@ -1,0 +1,128 @@
+{
+ "added": [
+  {
+   "symbol": "CCCX",
+   "name": "CI Galaxy Core Multi-Crypto ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "CCCX.TO",
+   "instruments": [
+    {
+     "name": "CI Gl C MltC ETF Ch",
+     "symbol": "CCCX"
+    },
+    {
+     "name": "CI Gl C MltC ETF CUh",
+     "symbol": "CCCX.B"
+    },
+    {
+     "name": "CI Gl C MltC ETF US$",
+     "symbol": "CCCX.U"
+    }
+   ]
+  },
+  {
+   "symbol": "DXDU.U",
+   "name": "Dynamic Active U.S. Discount Bond ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "DXDU.U.TO",
+   "instruments": [
+    {
+     "name": "Dynamic Active US DB",
+     "symbol": "DXDU.U"
+    }
+   ]
+  },
+  {
+   "symbol": "CCMC",
+   "name": "Core Critical Metals Corp.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "CCMC.V",
+   "instruments": [
+    {
+     "name": "Core Critical Metals Corp.",
+     "symbol": "CCMC"
+    }
+   ]
+  },
+  {
+   "symbol": "AIIO",
+   "name": "Robo.ai Inc. - Class B Ordinary Shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "AIIO"
+  },
+  {
+   "symbol": "AIIOW",
+   "name": "Robo.ai Inc. - Warrant",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "AIIOW"
+  },
+  {
+   "symbol": "GKAT",
+   "name": "Scharf Global Opportunity ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "GKAT"
+  },
+  {
+   "symbol": "KAT",
+   "name": "Scharf ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "KAT"
+  },
+  {
+   "symbol": "QALT",
+   "name": "SEI DBi Multi-Strategy Alternative ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "QALT"
+  },
+  {
+   "symbol": "SUIG",
+   "name": "Sui Group Holdings Limited - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "SUIG"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "NWTNW",
+   "name": "NWTN Inc. - Warrant",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "NWTNW"
+  },
+  {
+   "symbol": "NWTN",
+   "name": "NWTN Inc. - Class B Ordinary Shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "NWTN"
+  },
+  {
+   "symbol": "MCVT",
+   "name": "Mill City Ventures III, Ltd. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "MCVT"
+  },
+  {
+   "symbol": "XND",
+   "name": "Xander Resources Inc.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "XND.V",
+   "instruments": [
+    {
+     "name": "Xander Resources Inc.",
+     "symbol": "XND"
+    }
+   ]
+  },
+  {
+   "symbol": "WLGS",
+   "name": "Wang \u0026 Lee Group, Inc. - Ordinary Shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "WLGS"
+  },
+  {
+   "symbol": "DNB",
+   "name": "Dun \u0026 Bradstreet Holdings, Inc. Common Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "DNB"
+  }
+ ]
+}

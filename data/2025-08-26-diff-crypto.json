@@ -1,0 +1,68 @@
+{
+ "added": [
+  {
+   "symbol": "QLK",
+   "name": "Quantlink (QLK)"
+  },
+  {
+   "symbol": "GOBL",
+   "name": "GOBL (GOBL)"
+  },
+  {
+   "symbol": "SAPIEN",
+   "name": "Sapien (SAPIEN)"
+  },
+  {
+   "symbol": "OMFG",
+   "name": "Omnipair (OMFG)"
+  },
+  {
+   "symbol": "BFUSD",
+   "name": "BFUSD (BFUSD)"
+  },
+  {
+   "symbol": "MHRD",
+   "name": "MacroHard (MHRD)"
+  },
+  {
+   "symbol": "MEFAI",
+   "name": "META FINANCIAL AI (MEFAI)"
+  },
+  {
+   "symbol": "UGO",
+   "name": "UGO (UGO)"
+  },
+  {
+   "symbol": "BITCH",
+   "name": "OurBitch (BITCH)"
+  },
+  {
+   "symbol": "MAOMEME",
+   "name": "Mao (MAOMEME)"
+  },
+  {
+   "symbol": "STRAYDOG",
+   "name": "Stray Dog (STRAYDOG)"
+  },
+  {
+   "symbol": "YAIT",
+   "name": "YAITSIU (YAIT)"
+  },
+  {
+   "symbol": "ZEDCOIN",
+   "name": "ZedCoin (ZEDCOIN)"
+  },
+  {
+   "symbol": "MILLIM",
+   "name": "Millimeter (MILLIM)"
+  },
+  {
+   "symbol": "VBILL",
+   "name": "VanEck Treasury Fund (VBILL)"
+  },
+  {
+   "symbol": "SILENTIS",
+   "name": "Silentis (SILENTIS)"
+  }
+ ]
+}
