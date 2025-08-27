@@ -1,0 +1,90 @@
+{
+ "added": [
+  {
+   "symbol": "COIN",
+   "name": "Coinbase CDR (CAD Hedged)",
+   "exchange": "TSX",
+   "yahoo_symbol": "COIN.TO",
+   "instruments": [
+    {
+     "name": "Coinbase CDR CAD Hdg",
+     "symbol": "COIN"
+    }
+   ]
+  },
+  {
+   "symbol": "LMT",
+   "name": "Lockheed Martin CDR (CAD Hedged)",
+   "exchange": "TSX",
+   "yahoo_symbol": "LMT.TO",
+   "instruments": [
+    {
+     "name": "Lockheed Martin CDR",
+     "symbol": "LMT"
+    }
+   ]
+  },
+  {
+   "symbol": "CURX",
+   "name": "Curanex Pharmaceuticals Inc - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "CURX"
+  },
+  {
+   "symbol": "ETHM",
+   "name": "Dynamix Corporation - Class A Ordinary Share",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "ETHM"
+  },
+  {
+   "symbol": "ETHMU",
+   "name": "Dynamix Corporation - Unit",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "ETHMU"
+  },
+  {
+   "symbol": "ETHMW",
+   "name": "Dynamix Corporation - Warrant",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "ETHMW"
+  },
+  {
+   "symbol": "IPSC",
+   "name": "Century Therapeutics, Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "IPSC"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "DYNX",
+   "name": "Dynamix Corporation - Class A Ordinary Share",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "DYNX"
+  },
+  {
+   "symbol": "DYNXU",
+   "name": "Dynamix Corporation - Unit",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "DYNXU"
+  },
+  {
+   "symbol": "DYNXW",
+   "name": "Dynamix Corporation - Warrant",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "DYNXW"
+  },
+  {
+   "symbol": "IPSC",
+   "name": "Century Therapeutics, Inc. - Common Stock",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "IPSC"
+  },
+  {
+   "symbol": "DEVS",
+   "name": "DevvStream Corp. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "DEVS"
+  }
+ ]
+}
