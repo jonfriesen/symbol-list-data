@@ -1,0 +1,108 @@
+{
+ "added": [
+  {
+   "symbol": "VCG",
+   "name": "Visionary Copper and Gold Mines Inc.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "VCG.V",
+   "instruments": [
+    {
+     "name": "Visionary Copper and Gold Mines Inc.",
+     "symbol": "VCG"
+    }
+   ]
+  },
+  {
+   "symbol": "DMID",
+   "name": "Desjardins American Mid Cap Equity Index ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "DMID.TO",
+   "instruments": [
+    {
+     "name": "Desjardins Ame MiCaE",
+     "symbol": "DMID"
+    }
+   ]
+  },
+  {
+   "symbol": "DGLM",
+   "name": "Desjardins Global Macro ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "DGLM.TO",
+   "instruments": [
+    {
+     "name": "Desjardins GlbMa ETF",
+     "symbol": "DGLM"
+    }
+   ]
+  },
+  {
+   "symbol": "APAD",
+   "name": "A Paradise Acquisition Corp. - Class A Ordinary Shares",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "APAD"
+  },
+  {
+   "symbol": "APADR",
+   "name": "A Paradise Acquisition Corp. - Rights",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "APADR"
+  },
+  {
+   "symbol": "DEVS",
+   "name": "DevvStream Corp. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "DEVS"
+  },
+  {
+   "symbol": "KOYNU",
+   "name": "CSLM Digital Asset Acquisition Corp III - Units",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "KOYNU"
+  },
+  {
+   "symbol": "MBVIU",
+   "name": "M3-Brigade Acquisition VI Corp. - Units",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "MBVIU"
+  },
+  {
+   "symbol": "NEWTP",
+   "name": "NewtekOne, Inc. - Depositary Shares, Each Representing a 1/40th Interest in a Share of 8.500% Fixed Rate Reset Non-Cumulative Perpetual Preferred Stock, Series B",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "NEWTP"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "PTK",
+   "name": "POET Technologies Inc.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "PTK.V",
+   "instruments": [
+    {
+     "name": "POET Technologies Inc.",
+     "symbol": "PTK"
+    }
+   ]
+  },
+  {
+   "symbol": "MODV",
+   "name": "ModivCare Inc. - Common Stock",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "MODV"
+  },
+  {
+   "symbol": "CNX",
+   "name": "Callinex Mines Inc.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "CNX.V",
+   "instruments": [
+    {
+     "name": "Callinex Mines Inc.",
+     "symbol": "CNX"
+    }
+   ]
+  }
+ ]
+}
