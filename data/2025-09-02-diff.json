@@ -1,0 +1,96 @@
+{
+ "added": [
+  {
+   "symbol": "BBB",
+   "name": "CYBER HORNET S\u0026P 500 and Bitcoin 75/25 Strategy ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "BBB"
+  },
+  {
+   "symbol": "MCHB",
+   "name": "Mechanics Bancorp - Class A Common Stock",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "MCHB"
+  },
+  {
+   "symbol": "RYM",
+   "name": "RYTHM, Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "RYM"
+  },
+  {
+   "symbol": "TONX",
+   "name": "TON Strategy Company - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "TONX"
+  },
+  {
+   "symbol": "BBT",
+   "name": "Beacon Financial Corporation Common stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "BBT"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "NEE$R",
+   "name": "NextEra Energy, Inc. 6.926% Corporate Units",
+   "exchange": "NYSE",
+   "yahoo_symbol": "NEE$R"
+  },
+  {
+   "symbol": "BHLB",
+   "name": "Berkshire Hills Bancorp, Inc. Common Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "BHLB"
+  },
+  {
+   "symbol": "ZZZ",
+   "name": "Cyber Hornet S\u0026P 500 and Bitcoin 75/25 Strategy ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "ZZZ"
+  },
+  {
+   "symbol": "HMST",
+   "name": "HomeStreet, Inc. - Common Stock",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "HMST"
+  },
+  {
+   "symbol": "ITOS",
+   "name": "iTeos Therapeutics, Inc. - Common Stock",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "ITOS"
+  },
+  {
+   "symbol": "VERB",
+   "name": "Verb Technology Company, Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "VERB"
+  },
+  {
+   "symbol": "AGFY",
+   "name": "Agrify Corporation - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "AGFY"
+  },
+  {
+   "symbol": "PLL",
+   "name": "Piedmont Lithium Inc.   - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "PLL"
+  },
+  {
+   "symbol": "BRDG",
+   "name": "Bridge Investment Group Holdings Inc. Class A Common Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "BRDG"
+  },
+  {
+   "symbol": "ENVXW",
+   "name": "Enovix Corporation - Warrant",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "ENVXW"
+  }
+ ]
+}
