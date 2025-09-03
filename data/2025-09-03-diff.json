@@ -1,0 +1,270 @@
+{
+ "added": [
+  {
+   "symbol": "SOLR",
+   "name": "Solar Alliance Energy Inc.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "SOLR.V",
+   "instruments": [
+    {
+     "name": "Solar Alliance Energy Inc.",
+     "symbol": "SOLR"
+    }
+   ]
+  },
+  {
+   "symbol": "MHDC",
+   "name": "Mackenzie Canadian High Dividend Yield ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "MHDC.TO",
+   "instruments": [
+    {
+     "name": "Mackenzi C H Div Y E",
+     "symbol": "MHDC"
+    }
+   ]
+  },
+  {
+   "symbol": "MCYC",
+   "name": "Mackenzie Cyclical Tilt ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "MCYC.TO",
+   "instruments": [
+    {
+     "name": "Mackenzie Cyc Tlt E",
+     "symbol": "MCYC"
+    }
+   ]
+  },
+  {
+   "symbol": "MDEF",
+   "name": "Mackenzie Defensive Tilt ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "MDEF.TO",
+   "instruments": [
+    {
+     "name": "Mackenzie Def Tlt E",
+     "symbol": "MDEF"
+    }
+   ]
+  },
+  {
+   "symbol": "MHDU",
+   "name": "Mackenzie US High Dividend Yield ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "MHDU.TO",
+   "instruments": [
+    {
+     "name": "Mackenzie US H D Y E",
+     "symbol": "MHDU"
+    }
+   ]
+  },
+  {
+   "symbol": "RIO",
+   "name": "Rio2 Limited",
+   "exchange": "TSX",
+   "yahoo_symbol": "RIO.TO",
+   "instruments": [
+    {
+     "name": "Rio2 Limited ",
+     "symbol": "RIO"
+    }
+   ]
+  },
+  {
+   "symbol": "ABTC",
+   "name": "American Bitcoin Corp. - Class A Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "ABTC"
+  },
+  {
+   "symbol": "ADAM",
+   "name": "Adamas Trust, Inc. - Common Stock",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "ADAM"
+  },
+  {
+   "symbol": "ADAMG",
+   "name": "Adamas Trust, Inc. - 9.125% Senior Notes Due 2030",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "ADAMG"
+  },
+  {
+   "symbol": "ADAMH",
+   "name": "Adamas Trust, Inc. - 9.875% Senior Notes Due 2030",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "ADAMH"
+  },
+  {
+   "symbol": "ADAMI",
+   "name": "Adamas Trust, Inc. - 9.125% Senior Notes Due 2029",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "ADAMI"
+  },
+  {
+   "symbol": "ADAML",
+   "name": "Adamas Trust, Inc. - 6.875% Series F Fixed-to-Floating Rate Cumulative Redeemable Preferred Stock, $0.01 par value per share",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "ADAML"
+  },
+  {
+   "symbol": "ADAMM",
+   "name": "Adamas Trust, Inc. - 7.875% Series E Fixed-to-Floating Rate Cumulative Redeemable Preferred Stock",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "ADAMM"
+  },
+  {
+   "symbol": "ADAMN",
+   "name": "Adamas Trust, Inc. - 8.00% Series D Fixed-to-Floating Rate Cumulative Redeemable Preferred Stock",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "ADAMN"
+  },
+  {
+   "symbol": "ADAMZ",
+   "name": "Adamas Trust, Inc. - 7.000% Series G Cumulative Redeemable Preferred Stock, $0.01 par value per share",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "ADAMZ"
+  },
+  {
+   "symbol": "ELVR",
+   "name": "Sayona Mining Limited - American Depository Shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "ELVR"
+  },
+  {
+   "symbol": "VSTD",
+   "name": "Vestand Inc.  - Class A Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "VSTD"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "OPOF",
+   "name": "Old Point Financial Corporation - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "OPOF"
+  },
+  {
+   "symbol": "PPBI",
+   "name": "Pacific Premier Bancorp Inc - Common Stock",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "PPBI"
+  },
+  {
+   "symbol": "FLYY",
+   "name": "Spirit Aviation Holdings, Inc. Common Stock",
+   "exchange": "NYSE MKT",
+   "yahoo_symbol": "FLYY"
+  },
+  {
+   "symbol": "NYMTH",
+   "name": "New York Mortgage Trust, Inc. - 9.875% Senior Notes Due 2030",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "NYMTH"
+  },
+  {
+   "symbol": "NYMT",
+   "name": "New York Mortgage Trust, Inc. - Common Stock",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "NYMT"
+  },
+  {
+   "symbol": "GRYP",
+   "name": "Gryphon Digital Mining, Inc - Class A Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "GRYP"
+  },
+  {
+   "symbol": "FMC",
+   "name": "Forum Energy Metals Corp.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "FMC.V",
+   "instruments": [
+    {
+     "name": "Forum Energy Metals Corp.",
+     "symbol": "FMC"
+    }
+   ]
+  },
+  {
+   "symbol": "FLOW",
+   "name": "Flow Beverage Corp.",
+   "exchange": "TSX",
+   "yahoo_symbol": "FLOW.TO",
+   "instruments": [
+    {
+     "name": "Flow Beverage J SV",
+     "symbol": "FLOW"
+    }
+   ]
+  },
+  {
+   "symbol": "NYMTM",
+   "name": "New York Mortgage Trust, Inc. - 7.875% Series E Fixed-to-Floating Rate Cumulative Redeemable Preferred Stock",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "NYMTM"
+  },
+  {
+   "symbol": "NYMTG",
+   "name": "New York Mortgage Trust, Inc. - 9.125% Senior Notes Due 2030",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "NYMTG"
+  },
+  {
+   "symbol": "RIO",
+   "name": "Rio2 Limited",
+   "exchange": "TSXV",
+   "yahoo_symbol": "RIO.V",
+   "instruments": [
+    {
+     "name": "Rio2 Limited",
+     "symbol": "RIO"
+    }
+   ]
+  },
+  {
+   "symbol": "NYMTZ",
+   "name": "New York Mortgage Trust, Inc. - 7.000% Series G Cumulative Redeemable Preferred Stock, $0.01 par value per share",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "NYMTZ"
+  },
+  {
+   "symbol": "NYMTI",
+   "name": "New York Mortgage Trust, Inc. - 9.125% Senior Notes Due 2029",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "NYMTI"
+  },
+  {
+   "symbol": "NYMTN",
+   "name": "New York Mortgage Trust, Inc. - 8.00% Series D Fixed-to-Floating Rate Cumulative Redeemable Preferred Stock",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "NYMTN"
+  },
+  {
+   "symbol": "YOSH",
+   "name": "Yoshiharu Global Co. - Class A Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "YOSH"
+  },
+  {
+   "symbol": "BODI",
+   "name": "The Beachbody Company, Inc. Class A Common Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "BODI"
+  },
+  {
+   "symbol": "NYMTL",
+   "name": "New York Mortgage Trust, Inc. - 6.875% Series F Fixed-to-Floating Rate Cumulative Redeemable Preferred Stock, $0.01 par value per share",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "NYMTL"
+  },
+  {
+   "symbol": "BRKL",
+   "name": "Brookline Bancorp, Inc. - Common Stock",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "BRKL"
+  }
+ ]
+}
