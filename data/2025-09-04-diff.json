@@ -1,0 +1,132 @@
+{
+ "added": [
+  {
+   "symbol": "AUXX",
+   "name": "Gold X2 Mining Inc.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "AUXX.V",
+   "instruments": [
+    {
+     "name": "Gold X2 Mining Inc.",
+     "symbol": "AUXX"
+    }
+   ]
+  },
+  {
+   "symbol": "SEGN",
+   "name": "Seegnal Inc.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "SEGN.V",
+   "instruments": [
+    {
+     "name": "Seegnal Inc.",
+     "symbol": "SEGN"
+    }
+   ]
+  },
+  {
+   "symbol": "ATON",
+   "name": "AlphaTON Capital Corp. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "ATON"
+  },
+  {
+   "symbol": "BODI",
+   "name": "The Beachbody Company, Inc. - Class A Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "BODI"
+  },
+  {
+   "symbol": "BULX",
+   "name": "GraniteShares 2x Long BULL Daily ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "BULX"
+  },
+  {
+   "symbol": "ETRL",
+   "name": "GraniteShares 2x Long ETOR Daily ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "ETRL"
+  },
+  {
+   "symbol": "HYFT",
+   "name": "MindWalk Holdings Corp. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "HYFT"
+  },
+  {
+   "symbol": "LLYZ",
+   "name": "Defiance Daily Target 2X Short LLY ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "LLYZ"
+  },
+  {
+   "symbol": "NMP",
+   "name": "NMP Acquisition Corp. - Class A Ordinary Shares",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "NMP"
+  },
+  {
+   "symbol": "NMPAR",
+   "name": "NMP Acquisition Corp. - Right",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "NMPAR"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "MAG",
+   "name": "MAG Silver Corporation Ordinary Shares",
+   "exchange": "NYSE MKT",
+   "yahoo_symbol": "MAG"
+  },
+  {
+   "symbol": "PRTG",
+   "name": "Portage Biotech Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "PRTG"
+  },
+  {
+   "symbol": "GSHR",
+   "name": "Goldshore Resources Inc.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "GSHR.V",
+   "instruments": [
+    {
+     "name": "Goldshore Resources Inc.",
+     "symbol": "GSHR"
+    }
+   ]
+  },
+  {
+   "symbol": "REEM.P",
+   "name": "Reem Capital Corp.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "REEM.P.V",
+   "instruments": [
+    {
+     "name": "Reem Capital Corp.",
+     "symbol": "REEM.P"
+    }
+   ]
+  },
+  {
+   "symbol": "IPA",
+   "name": "ImmunoPrecise Antibodies Ltd. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "IPA"
+  },
+  {
+   "symbol": "XIN",
+   "name": "Xinyuan Real Estate Co Ltd American Depositary Shares",
+   "exchange": "NYSE",
+   "yahoo_symbol": "XIN"
+  },
+  {
+   "symbol": "CSCI",
+   "name": "COSCIENS Biopharma Inc.  - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "CSCI"
+  }
+ ]
+}
