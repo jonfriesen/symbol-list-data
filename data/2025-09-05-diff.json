@@ -1,0 +1,72 @@
+{
+ "added": [
+  {
+   "symbol": "ANEL",
+   "name": "Defiance Daily Target 2x Long ANET ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "ANEL"
+  },
+  {
+   "symbol": "FCHL",
+   "name": "Fitness Champs Holdings Limited - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "FCHL"
+  },
+  {
+   "symbol": "GSRFU",
+   "name": "GSR IV Acquisition Corp. - Units",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "GSRFU"
+  },
+  {
+   "symbol": "STRR",
+   "name": "Star Equity Holdings, Inc. - Common Stock",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "STRR"
+  },
+  {
+   "symbol": "STRRP",
+   "name": "Star Equity Holdings, Inc. - 10% Series A Cumulative Perpetual Preferred Stock",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "STRRP"
+  },
+  {
+   "symbol": "SVACU",
+   "name": "Spring Valley Acquisition Corp. III - Unit",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "SVACU"
+  },
+  {
+   "symbol": "ZYN",
+   "name": "Defiance Daily Target 2x Long PM ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "ZYN"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "HSON",
+   "name": "Hudson Global, Inc. - Common Stock",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "HSON"
+  },
+  {
+   "symbol": "AC",
+   "name": "Associated Capital Group, Inc. Common Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "AC"
+  },
+  {
+   "symbol": "HSONP",
+   "name": "Hudson Global, Inc. - 10% Series A Cumulative Perpetual Preferred Stock",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "HSONP"
+  },
+  {
+   "symbol": "GMS",
+   "name": "GMS Inc. Common Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "GMS"
+  }
+ ]
+}
