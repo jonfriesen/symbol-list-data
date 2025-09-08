@@ -1,0 +1,138 @@
+{
+ "added": [
+  {
+   "symbol": "GPV",
+   "name": "GreenPower Motor Company Inc.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "GPV.V",
+   "instruments": [
+    {
+     "name": "GreenPower Motor Company Inc.",
+     "symbol": "GPV"
+    }
+   ]
+  },
+  {
+   "symbol": "TVC",
+   "name": "Three Valley Copper Corp.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "TVC.V",
+   "instruments": [
+    {
+     "name": "Three Valley Copper Corp.",
+     "symbol": "TVC"
+    }
+   ]
+  },
+  {
+   "symbol": "MCGA",
+   "name": "Yorkville Acquisition Corp. - Class A Ordinary Share",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "MCGA"
+  },
+  {
+   "symbol": "MCGAU",
+   "name": "Yorkville Acquisition Corp. - Unit",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "MCGAU"
+  },
+  {
+   "symbol": "MCGAW",
+   "name": "Yorkville Acquisition Corp. - Warrant",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "MCGAW"
+  },
+  {
+   "symbol": "SOCA",
+   "name": "Solarius Capital Acquisition Corp. - Class A Ordinary Share",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "SOCA"
+  },
+  {
+   "symbol": "SOCAW",
+   "name": "Solarius Capital Acquisition Corp. - Warrant",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "SOCAW"
+  },
+  {
+   "symbol": "SSM",
+   "name": "Sono Group N.V. - Ordinary Shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "SSM"
+  },
+  {
+   "symbol": "PAII",
+   "name": "Pyrophyte Acquisition Corp. II Class A Ordinary Shares",
+   "exchange": "NYSE",
+   "yahoo_symbol": "PAII"
+  },
+  {
+   "symbol": "PAII.W",
+   "name": "Pyrophyte Acquisition Corp. II Warrants, each whole warrant exercisable for one Class A Ordinary Share at an exercise price of $11.50 per share",
+   "exchange": "NYSE",
+   "yahoo_symbol": "PAII.W"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "AMK",
+   "name": "American Creek Resources Ltd.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "AMK.V",
+   "instruments": [
+    {
+     "name": "American Creek Resources Ltd.",
+     "symbol": "AMK"
+    }
+   ]
+  },
+  {
+   "symbol": "MAG",
+   "name": "MAG Silver Corp.",
+   "exchange": "TSX",
+   "yahoo_symbol": "MAG.TO",
+   "instruments": [
+    {
+     "name": "MAG Silver Corp. J",
+     "symbol": "MAG"
+    }
+   ]
+  },
+  {
+   "symbol": "FL",
+   "name": "Foot Locker, Inc.",
+   "exchange": "NYSE",
+   "yahoo_symbol": "FL"
+  },
+  {
+   "symbol": "ARH",
+   "name": "Altima Energy Inc.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "ARH.V",
+   "instruments": [
+    {
+     "name": "Altima Energy Inc.",
+     "symbol": "ARH"
+    }
+   ]
+  },
+  {
+   "symbol": "YORK",
+   "name": "Yorkville Acquisition Corp. - Class A Ordinary Share",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "YORK"
+  },
+  {
+   "symbol": "YORKW",
+   "name": "Yorkville Acquisition Corp. - Warrant",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "YORKW"
+  },
+  {
+   "symbol": "YORKU",
+   "name": "Yorkville Acquisition Corp. - Unit",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "YORKU"
+  }
+ ]
+}
