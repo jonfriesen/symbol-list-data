@@ -1,0 +1,48 @@
+{
+ "added": [
+  {
+   "symbol": "PCU",
+   "name": "Pecoy Copper Corp.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "PCU.V",
+   "instruments": [
+    {
+     "name": "Pecoy Copper Corp.",
+     "symbol": "PCU"
+    }
+   ]
+  },
+  {
+   "symbol": "PFIN",
+   "name": "PICTON Income Fund",
+   "exchange": "TSX",
+   "yahoo_symbol": "PFIN.TO",
+   "instruments": [
+    {
+     "name": "PICTON Income Fd ETF",
+     "symbol": "PFIN"
+    }
+   ]
+  },
+  {
+   "symbol": "SPEG",
+   "name": "Silver Pegasus Acquisition Corp - Class A Ordinary Shares",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "SPEG"
+  },
+  {
+   "symbol": "SPEGR",
+   "name": "Silver Pegasus Acquisition Corp - Rights",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "SPEGR"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "BIT.R",
+   "name": "BlackRock Multi-Sector Income Trust Rights (expiring September 9, 2025) Rights",
+   "exchange": "NYSE",
+   "yahoo_symbol": "BIT.R"
+  }
+ ]
+}
