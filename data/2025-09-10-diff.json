@@ -1,0 +1,114 @@
+{
+ "added": [
+  {
+   "symbol": "BIGY",
+   "name": "Evolve US Equity UltraYield ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "BIGY.TO",
+   "instruments": [
+    {
+     "name": "Evolve US Eq UY C Hg",
+     "symbol": "BIGY"
+    }
+   ]
+  },
+  {
+   "symbol": "FMR",
+   "name": "Future Mineral Resources Inc.",
+   "exchange": "TSX",
+   "yahoo_symbol": "FMR.TO",
+   "instruments": [
+    {
+     "name": "Sulliden Mng Cap J",
+     "symbol": "FMR"
+    }
+   ]
+  },
+  {
+   "symbol": "KLAR",
+   "name": "Klarna Group plc Ordinary Shares",
+   "exchange": "NYSE",
+   "yahoo_symbol": "KLAR"
+  },
+  {
+   "symbol": "RIV.V",
+   "name": "RiverNorth Opportunities Fund, Inc. Rights (expiring October 6, 2025) Rights when issued",
+   "exchange": "NYSE",
+   "yahoo_symbol": "RIV.V"
+  },
+  {
+   "symbol": "BRKRP",
+   "name": "Bruker Corporation - 6.375% Mandatory Convertible Preferred Stock, Series A",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "BRKRP"
+  },
+  {
+   "symbol": "ORIQ",
+   "name": "Origin Investment Corp I - Ordinary Shares",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "ORIQ"
+  },
+  {
+   "symbol": "ORIQW",
+   "name": "Origin Investment Corp I - one-half of one redeemable warrant.",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "ORIQW"
+  },
+  {
+   "symbol": "STKE",
+   "name": "Sol Strategies Inc. - Common Shares",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "STKE"
+  },
+  {
+   "symbol": "TLNCU",
+   "name": "Talon Capital Corp. - Units",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "TLNCU"
+  },
+  {
+   "symbol": "ZGM",
+   "name": "Zenta Group Company Limited - Ordinary Shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "ZGM"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "CSPN",
+   "name": "CareSpan Health, Inc.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "CSPN.V",
+   "instruments": [
+    {
+     "name": "CareSpan Health, Inc.",
+     "symbol": "CSPN"
+    }
+   ]
+  },
+  {
+   "symbol": "VXTR",
+   "name": "Voxtur Analytics Corp.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "VXTR.V",
+   "instruments": [
+    {
+     "name": "Voxtur Analytics Corp.",
+     "symbol": "VXTR"
+    }
+   ]
+  },
+  {
+   "symbol": "SMC",
+   "name": "Sulliden Mining Capital Inc.",
+   "exchange": "TSX",
+   "yahoo_symbol": "SMC.TO",
+   "instruments": [
+    {
+     "name": "Sulliden Mng Cap J",
+     "symbol": "SMC"
+    }
+   ]
+  }
+ ]
+}
