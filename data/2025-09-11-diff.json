@@ -1,0 +1,186 @@
+{
+ "added": [
+  {
+   "symbol": "EXCL",
+   "name": "Excalibur Metals Corp.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "EXCL.V",
+   "instruments": [
+    {
+     "name": "Excalibur Metals Corp.",
+     "symbol": "EXCL"
+    }
+   ]
+  },
+  {
+   "symbol": "AGNCZ",
+   "name": "AGNC Investment Corp. - Depositary Shares Each Representing a 1/1,000th Interest in a Share of 8.75% Series H Fixed-Rate Cumulative Redeemable Preferred Stock",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "AGNCZ"
+  },
+  {
+   "symbol": "BLZRU",
+   "name": "Trailblazer Acquisition Corp. - Unit",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "BLZRU"
+  },
+  {
+   "symbol": "LITS",
+   "name": "Lite Strategy, Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "LITS"
+  },
+  {
+   "symbol": "METL",
+   "name": "Sprott Active Metals \u0026 Miners ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "METL"
+  },
+  {
+   "symbol": "ORBS",
+   "name": "Eightco Holdings Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "ORBS"
+  },
+  {
+   "symbol": "SMOM",
+   "name": "Symmetry Panoramic Sector Momentum ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "SMOM"
+  },
+  {
+   "symbol": "ANGX",
+   "name": "Angel Studios, Inc. Class A Common Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "ANGX"
+  },
+  {
+   "symbol": "EMO.V",
+   "name": "ClearBridge Energy Midstream Opportunity Fund Inc. Rights (expiring October 10, 2025) Rights when issued",
+   "exchange": "NYSE",
+   "yahoo_symbol": "EMO.V"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "RXD",
+   "name": "RBC Quant Emerging Markets Dividend Leaders ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "RXD.TO",
+   "instruments": [
+    {
+     "name": "RBC Quant EmrgMktDiv",
+     "symbol": "RXD"
+    },
+    {
+     "name": "RBC Quant EmrgMkt US",
+     "symbol": "RXD.U"
+    }
+   ]
+  },
+  {
+   "symbol": "RQN",
+   "name": "RBC Target 2025 Canadian Corporate Bond Index ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "RQN.TO",
+   "instruments": [
+    {
+     "name": "RBC Tgt25CDNCorp Bnd",
+     "symbol": "RQN"
+    }
+   ]
+  },
+  {
+   "symbol": "RUBY",
+   "name": "RBC U.S. Banks Yield Index ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "RUBY.TO",
+   "instruments": [
+    {
+     "name": "RBC US Banks Yld CAD",
+     "symbol": "RUBY"
+    },
+    {
+     "name": "RBC US Banks Yld USF",
+     "symbol": "RUBY.U"
+    }
+   ]
+  },
+  {
+   "symbol": "RUQN",
+   "name": "RBC Target 2025 U.S. Corporate Bond ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "RUQN.TO",
+   "instruments": [
+    {
+     "name": "RBC Tgt 25USCrpCaBnd",
+     "symbol": "RUQN"
+    },
+    {
+     "name": "RBC Tgt25USCrpUSBnd",
+     "symbol": "RUQN.U"
+    }
+   ]
+  },
+  {
+   "symbol": "VOC.P",
+   "name": "Victory Opportunities 1 Corp.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "VOC.P.V",
+   "instruments": [
+    {
+     "name": "Victory Opportunities 1 Corp.",
+     "symbol": "VOC.P"
+    }
+   ]
+  },
+  {
+   "symbol": "RGQN",
+   "name": "RBC Target 2025 Canadian Government Bond ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "RGQN.TO",
+   "instruments": [
+    {
+     "name": "RBC Tgt25 CDN GovBnd",
+     "symbol": "RGQN"
+    }
+   ]
+  },
+  {
+   "symbol": "RPSB",
+   "name": "RBC PH\u0026N Short Term Canadian Bond ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "RPSB.TO",
+   "instruments": [
+    {
+     "name": "RBC PH\u0026N ST CA Bond",
+     "symbol": "RPSB"
+    }
+   ]
+  },
+  {
+   "symbol": "OCTO",
+   "name": "Eightco Holdings Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "OCTO"
+  },
+  {
+   "symbol": "MEIP",
+   "name": "MEI Pharma, Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "MEIP"
+  },
+  {
+   "symbol": "RUBH",
+   "name": "RBC U.S. Banks Yield (CAD Hedged) Index ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "RUBH.TO",
+   "instruments": [
+    {
+     "name": "RBC USBanksYld CA-Hg",
+     "symbol": "RUBH"
+    }
+   ]
+  }
+ ]
+}
