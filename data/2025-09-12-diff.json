@@ -1,0 +1,102 @@
+{
+ "added": [
+  {
+   "symbol": "VIA",
+   "name": "Via Transportation, Inc. Class A Common Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "VIA"
+  },
+  {
+   "symbol": "BGMS",
+   "name": "Bio Green Med Solution, Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "BGMS"
+  },
+  {
+   "symbol": "BGMSP",
+   "name": "Bio Green Med Solution, Inc. - 6% Convertible Preferred Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "BGMSP"
+  },
+  {
+   "symbol": "CLGN",
+   "name": "CollPlant Biotechnologies Ltd. - Ordinary Shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "CLGN"
+  },
+  {
+   "symbol": "FIGR",
+   "name": "Figure Technology Solutions, Inc. - Class A Common Stock",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "FIGR"
+  },
+  {
+   "symbol": "LBRX",
+   "name": "LB Pharmaceuticals Inc - Common Stock",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "LBRX"
+  },
+  {
+   "symbol": "STEX",
+   "name": "Streamex Corp. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "STEX"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "DRRX",
+   "name": "DURECT Corporation - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "DRRX"
+  },
+  {
+   "symbol": "XAGE",
+   "name": "Longevity Health Holdings, Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "XAGE"
+  },
+  {
+   "symbol": "XAGEW",
+   "name": "Longevity Health Holdings, Inc. - Warrant",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "XAGEW"
+  },
+  {
+   "symbol": "CYCC",
+   "name": "Cyclacel Pharmaceuticals, Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "CYCC"
+  },
+  {
+   "symbol": "CLGN",
+   "name": "CollPlant Biotechnologies Ltd. - Ordinary Shares",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "CLGN"
+  },
+  {
+   "symbol": "OLO",
+   "name": "Olo Inc. Class A Common Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "OLO"
+  },
+  {
+   "symbol": "CYCCP",
+   "name": "Cyclacel Pharmaceuticals, Inc. - 6% Convertible Preferred Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "CYCCP"
+  },
+  {
+   "symbol": "BSGM",
+   "name": "BioSig Technologies, Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "BSGM"
+  },
+  {
+   "symbol": "SKX",
+   "name": "Skechers U.S.A., Inc. Common Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "SKX"
+  }
+ ]
+}

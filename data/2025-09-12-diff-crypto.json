@@ -1,0 +1,54 @@
+{
+ "added": [
+  {
+   "symbol": "CARDSTARTER",
+   "name": "Cardstarter (CARDSTARTER)"
+  },
+  {
+   "symbol": "XCELTOKENPLUS",
+   "name": "Xceltoken Plus (XCELTOKENPLUS)"
+  },
+  {
+   "symbol": "LIGHTCHAIN",
+   "name": "LightChain (LIGHTCHAIN)"
+  },
+  {
+   "symbol": "Q",
+   "name": "Quack AI (Q)"
+  },
+  {
+   "symbol": "CAMPGLOBAL",
+   "name": "Camp (CAMPGLOBAL)"
+  },
+  {
+   "symbol": "OPENCUSTODY",
+   "name": "Open Custody Protocol (OPENCUSTODY)"
+  },
+  {
+   "symbol": "GOLONDON",
+   "name": "GoLondon (GOLONDON)"
+  },
+  {
+   "symbol": "SOLCHICKSSHARDS",
+   "name": "SolChicks Shards (SOLCHICKSSHARDS)"
+  },
+  {
+   "symbol": "AVNT",
+   "name": "Avantis (AVNT)"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "GOLDN",
+   "name": "GoLondon (GOLDN)"
+  },
+  {
+   "symbol": "CAMP",
+   "name": "Camp (CAMP)"
+  },
+  {
+   "symbol": "XLAB",
+   "name": "Xceltoken Plus (XLAB)"
+  }
+ ]
+}
