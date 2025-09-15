@@ -1,0 +1,42 @@
+{
+ "added": [
+  {
+   "symbol": "PTB",
+   "name": "Portal to Bitcoin (PTB)"
+  },
+  {
+   "symbol": "P2P",
+   "name": "Sentinel (P2P)"
+  },
+  {
+   "symbol": "ONOMY",
+   "name": "Onomy Protocol (ONOMY)"
+  },
+  {
+   "symbol": "SWTCH",
+   "name": "Switchboard (SWTCH)"
+  },
+  {
+   "symbol": "SLAY",
+   "name": "SatLayer (SLAY)"
+  },
+  {
+   "symbol": "XLAB",
+   "name": "Dexlab (XLAB)"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "DVPN",
+   "name": "Sentinel (DVPN)"
+  },
+  {
+   "symbol": "MAOMEME",
+   "name": "Mao (MAOMEME)"
+  },
+  {
+   "symbol": "ZEDCOIN",
+   "name": "ZedCoin (ZEDCOIN)"
+  }
+ ]
+}
