@@ -1,0 +1,294 @@
+{
+ "added": [
+  {
+   "symbol": "MCI",
+   "name": "Minnova Corp.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "MCI.V",
+   "instruments": [
+    {
+     "name": "Minnova Corp.",
+     "symbol": "MCI"
+    }
+   ]
+  },
+  {
+   "symbol": "OPTG",
+   "name": "Optegra Ventures Inc.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "OPTG.V",
+   "instruments": [
+    {
+     "name": "Optegra Ventures Inc.",
+     "symbol": "OPTG"
+    }
+   ]
+  },
+  {
+   "symbol": "CHE.DB.G",
+   "name": "Chemtrade Logistics Income Fund",
+   "exchange": "TSX",
+   "yahoo_symbol": "CHE.DB.G.TO",
+   "instruments": [
+    {
+     "name": "Chemtrade Lgst6.25Db",
+     "symbol": "CHE.DB.G"
+    },
+    {
+     "name": "Chemtrade Lgst 7% Db",
+     "symbol": "CHE.DB.H"
+    },
+    {
+     "name": "Chemtrade Logistc Un",
+     "symbol": "CHE.UN"
+    }
+   ]
+  },
+  {
+   "symbol": "NCPB",
+   "name": "NBI Canadian Core Plus Bond Fund",
+   "exchange": "TSX",
+   "yahoo_symbol": "NCPB.TO",
+   "instruments": [
+    {
+     "name": "NBI Cdn CoPls Bd ETF",
+     "symbol": "NCPB"
+    }
+   ]
+  },
+  {
+   "symbol": "NBGE",
+   "name": "NBI Global Equity Fund",
+   "exchange": "TSX",
+   "yahoo_symbol": "NBGE.TO",
+   "instruments": [
+    {
+     "name": "NBI Glb Eqty Fnd ETF",
+     "symbol": "NBGE"
+    },
+    {
+     "name": "NBI Gl Eqty Fnd ETFH",
+     "symbol": "NBGE.F"
+    }
+   ]
+  },
+  {
+   "symbol": "NBSC",
+   "name": "NBI Global Small Cap Fund",
+   "exchange": "TSX",
+   "yahoo_symbol": "NBSC.TO",
+   "instruments": [
+    {
+     "name": "NBI Glb Sml CpFd ETF",
+     "symbol": "NBSC"
+    },
+    {
+     "name": "NBI Glb Sl CpFd ETFH",
+     "symbol": "NBSC.F"
+    }
+   ]
+  },
+  {
+   "symbol": "NINV",
+   "name": "NBI Innovators Fund",
+   "exchange": "TSX",
+   "yahoo_symbol": "NINV.TO",
+   "instruments": [
+    {
+     "name": "NBI Innovator Fd ETF",
+     "symbol": "NINV"
+    },
+    {
+     "name": "NBI Innvtors Fd ETFH",
+     "symbol": "NINV.F"
+    }
+   ]
+  },
+  {
+   "symbol": "NBIE",
+   "name": "NBI International Equity Fund",
+   "exchange": "TSX",
+   "yahoo_symbol": "NBIE.TO",
+   "instruments": [
+    {
+     "name": "NBI Intl Eqty Fd ETF",
+     "symbol": "NBIE"
+    },
+    {
+     "name": "NBI Intl EqtyFd ETFH",
+     "symbol": "NBIE.F"
+    }
+   ]
+  },
+  {
+   "symbol": "NBQC",
+   "name": "NBI Quebec Growth Fund",
+   "exchange": "TSX",
+   "yahoo_symbol": "NBQC.TO",
+   "instruments": [
+    {
+     "name": "NBI Quebec Grwth Fd",
+     "symbol": "NBQC"
+    }
+   ]
+  },
+  {
+   "symbol": "NSDI",
+   "name": "NBI SmartData International Equity Fund",
+   "exchange": "TSX",
+   "yahoo_symbol": "NSDI.TO",
+   "instruments": [
+    {
+     "name": "NBI SmtDta IntEq ETF",
+     "symbol": "NSDI"
+    },
+    {
+     "name": "NBI SmDta IntEq ETFH",
+     "symbol": "NSDI.F"
+    }
+   ]
+  },
+  {
+   "symbol": "NSDU",
+   "name": "NBI SmartData U.S. Equity Fund",
+   "exchange": "TSX",
+   "yahoo_symbol": "NSDU.TO",
+   "instruments": [
+    {
+     "name": "NBI SmaData USEq ETF",
+     "symbol": "NSDU"
+    },
+    {
+     "name": "NBI SmData USEq ETFH",
+     "symbol": "NSDU.F"
+    }
+   ]
+  },
+  {
+   "symbol": "NTGD",
+   "name": "NBI Target 2029 Investment Grade Bond Fund",
+   "exchange": "TSX",
+   "yahoo_symbol": "NTGD.TO",
+   "instruments": [
+    {
+     "name": "NBI T2029 Igb Fd ETF",
+     "symbol": "NTGD"
+    }
+   ]
+  },
+  {
+   "symbol": "NTGE",
+   "name": "NBI Target 2030 Investment Grade Bond Fund",
+   "exchange": "TSX",
+   "yahoo_symbol": "NTGE.TO",
+   "instruments": [
+    {
+     "name": "NBI Trgt 2030 Inv Fd",
+     "symbol": "NTGE"
+    }
+   ]
+  },
+  {
+   "symbol": "NTGF",
+   "name": "NBI Target 2031 Investment Grade Bond Fund",
+   "exchange": "TSX",
+   "yahoo_symbol": "NTGF.TO",
+   "instruments": [
+    {
+     "name": "NBI Trgt 2031 Inv GB",
+     "symbol": "NTGF"
+    }
+   ]
+  },
+  {
+   "symbol": "NBUE",
+   "name": "NBI U.S. Equity Fund",
+   "exchange": "TSX",
+   "yahoo_symbol": "NBUE.TO",
+   "instruments": [
+    {
+     "name": "NBI US Equity Fd ETF",
+     "symbol": "NBUE"
+    },
+    {
+     "name": "NBI US Eqty Fd ETFH",
+     "symbol": "NBUE.F"
+    }
+   ]
+  },
+  {
+   "symbol": "TDNA",
+   "name": "TD North American Dividend Fund",
+   "exchange": "TSX",
+   "yahoo_symbol": "TDNA.TO",
+   "instruments": [
+    {
+     "name": "TD NA Divd Fund ETF",
+     "symbol": "TDNA"
+    }
+   ]
+  },
+  {
+   "symbol": "BDVL",
+   "name": "iShares Disciplined Volatility Equity Active ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "BDVL"
+  },
+  {
+   "symbol": "BDYN",
+   "name": "iShares Dynamic Equity Active ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "BDYN"
+  },
+  {
+   "symbol": "MLCI",
+   "name": "Mount Logan Capital Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "MLCI"
+  },
+  {
+   "symbol": "SPRB",
+   "name": "Spruce Biosciences, Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "SPRB"
+  },
+  {
+   "symbol": "SYZ",
+   "name": "Lazard US Systematic Small Cap Equity ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "SYZ"
+  },
+  {
+   "symbol": "CHOW",
+   "name": "ChowChow Cloud International Holdings Limited Ordinary Shares",
+   "exchange": "NYSE MKT",
+   "yahoo_symbol": "CHOW"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "CHE.DB.E",
+   "name": "Chemtrade Logistics Income Fund",
+   "exchange": "TSX",
+   "yahoo_symbol": "CHE.DB.E.TO",
+   "instruments": [
+    {
+     "name": "Chemtrade Lgst6.5Deb",
+     "symbol": "CHE.DB.E"
+    },
+    {
+     "name": "Chemtrade Lgst6.25Db",
+     "symbol": "CHE.DB.G"
+    },
+    {
+     "name": "Chemtrade Lgst 7% Db",
+     "symbol": "CHE.DB.H"
+    },
+    {
+     "name": "Chemtrade Logistc Un",
+     "symbol": "CHE.UN"
+    }
+   ]
+  }
+ ]
+}
