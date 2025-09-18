@@ -1,0 +1,14 @@
+{
+ "added": [
+  {
+   "symbol": "FRAX",
+   "name": "Frax Share (FRAX)"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "FXS",
+   "name": "Frax Share (FXS)"
+  }
+ ]
+}
