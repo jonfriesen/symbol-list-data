@@ -1,0 +1,100 @@
+{
+ "added": [
+  {
+   "symbol": "AEC",
+   "name": "Anfield Energy Inc. - Common Shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "AEC"
+  },
+  {
+   "symbol": "COTG",
+   "name": "Leverage Shares 2X Long COST Daily ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "COTG"
+  },
+  {
+   "symbol": "ETHI",
+   "name": "Defiance Leveraged Long Income Ethereum ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "ETHI"
+  },
+  {
+   "symbol": "NA",
+   "name": "Nano Labs Ltd - Class A Ordinary Shares",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "NA"
+  },
+  {
+   "symbol": "NTSK",
+   "name": "Netskope, Inc. - Class A Common Stock",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "NTSK"
+  },
+  {
+   "symbol": "QLDY",
+   "name": "Defiance Nasdaq 100 LightningSpread Income ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "QLDY"
+  },
+  {
+   "symbol": "YDKG",
+   "name": "Yueda Digital Holding - Class A Ordinary Share",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "YDKG"
+  },
+  {
+   "symbol": "UTF.V",
+   "name": "Cohen \u0026 Steers Infrastructure Fund, Inc Rights (expiring October 16, 2025) Rights when issued",
+   "exchange": "NYSE",
+   "yahoo_symbol": "UTF.V"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "NA",
+   "name": "Nano Labs Ltd - Class A Ordinary Shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "NA"
+  },
+  {
+   "symbol": "ANTE",
+   "name": "AirNet Technology Inc. - Ordinary Share",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "ANTE"
+  },
+  {
+   "symbol": "FAASW",
+   "name": "DigiAsia Corp. - Warrant",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "FAASW"
+  },
+  {
+   "symbol": "OXSQZ",
+   "name": "Oxford Square Capital Corp. - 6.25% Notes due 2026",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "OXSQZ"
+  },
+  {
+   "symbol": "FAAS",
+   "name": "DigiAsia Corp. - Ordinary Shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "FAAS"
+  },
+  {
+   "symbol": "EXRO",
+   "name": "Exro Technologies Inc.",
+   "exchange": "TSX",
+   "yahoo_symbol": "EXRO.TO",
+   "instruments": [
+    {
+     "name": "Exro Tech Inc. J",
+     "symbol": "EXRO"
+    },
+    {
+     "name": "Exro Tech Inc Wts",
+     "symbol": "EXRO.WT.A"
+    }
+   ]
+  }
+ ]
+}
