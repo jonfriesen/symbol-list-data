@@ -1,0 +1,126 @@
+{
+ "added": [
+  {
+   "symbol": "SLCA",
+   "name": "Sun Life Core Advantage Credit Private Pool",
+   "exchange": "TSX",
+   "yahoo_symbol": "SLCA.TO",
+   "instruments": [
+    {
+     "name": "Sun Life Cacpp ETF",
+     "symbol": "SLCA"
+    }
+   ]
+  },
+  {
+   "symbol": "SLSC",
+   "name": "Sun Life Crescent Specialty Credit Private Pool",
+   "exchange": "TSX",
+   "yahoo_symbol": "SLSC.TO",
+   "instruments": [
+    {
+     "name": "Sun Life Crs Spcl C",
+     "symbol": "SLSC"
+    }
+   ]
+  },
+  {
+   "symbol": "SLGC",
+   "name": "Sun Life MFS Global Core Plus Bond Fund",
+   "exchange": "TSX",
+   "yahoo_symbol": "SLGC.TO",
+   "instruments": [
+    {
+     "name": "Sun Lfe Glb C P B F",
+     "symbol": "SLGC"
+    }
+   ]
+  },
+  {
+   "symbol": "DTK",
+   "name": "DTE Energy Company 2025 Series H 6.25% Junior Subordinated Debentures due 2085",
+   "exchange": "NYSE",
+   "yahoo_symbol": "DTK"
+  },
+  {
+   "symbol": "IPST",
+   "name": "Heritage Distilling Holding Company, Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "IPST"
+  },
+  {
+   "symbol": "KOYN",
+   "name": "CSLM Digital Asset Acquisition Corp III - Class A Ordinary Shares",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "KOYN"
+  },
+  {
+   "symbol": "KOYNW",
+   "name": "CSLM Digital Asset Acquisition Corp III - Warrants",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "KOYNW"
+  },
+  {
+   "symbol": "LATAU",
+   "name": "Galata Acquisition Corp. II - Units",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "LATAU"
+  },
+  {
+   "symbol": "PLTS",
+   "name": "Platinum Analytics Cayman Limited - Class A Ordinary Shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "PLTS"
+  },
+  {
+   "symbol": "PTRN",
+   "name": "Pattern Group Inc. - Series A Common Stock",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "PTRN"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "JPI",
+   "name": "Nuveen Preferred Securities \u0026 Income Opportunities Fund Common Shares",
+   "exchange": "NYSE",
+   "yahoo_symbol": "JPI"
+  },
+  {
+   "symbol": "LSB",
+   "name": "LakeShore Biopharma Co., Ltd - Ordinary Shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "LSB"
+  },
+  {
+   "symbol": "LSBPW",
+   "name": "LakeShore Biopharma Co., Ltd - Warrants",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "LSBPW"
+  },
+  {
+   "symbol": "NXLIW",
+   "name": "Nexalin Technology, Inc. - Warrant",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "NXLIW"
+  },
+  {
+   "symbol": "CASK",
+   "name": "Heritage Distilling Holding Company, Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "CASK"
+  },
+  {
+   "symbol": "SRES",
+   "name": "Sun Residential Real Estate Investment Trust",
+   "exchange": "TSXV",
+   "yahoo_symbol": "SRES.V",
+   "instruments": [
+    {
+     "name": "Sun Residential Real Estate Investment Trust",
+     "symbol": "SRES"
+    }
+   ]
+  }
+ ]
+}
