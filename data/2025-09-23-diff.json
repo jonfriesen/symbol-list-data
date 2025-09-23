@@ -1,0 +1,72 @@
+{
+ "added": [
+  {
+   "symbol": "BCAB",
+   "name": "BioAtla, Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "BCAB"
+  },
+  {
+   "symbol": "HCMA",
+   "name": "HCM III Acquisition Corp. - Class A Ordinary Share",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "HCMA"
+  },
+  {
+   "symbol": "HCMAW",
+   "name": "HCM III Acquisition Corp. - Warrants",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "HCMAW"
+  },
+  {
+   "symbol": "CMPO",
+   "name": "CompoSecure, Inc. Class A Common Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "CMPO"
+  },
+  {
+   "symbol": "RHLD",
+   "name": "Resolute Holdings Management Common Stock ",
+   "exchange": "NYSE",
+   "yahoo_symbol": "RHLD"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "CMPO",
+   "name": "CompoSecure, Inc.  - Class A Common Stock",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "CMPO"
+  },
+  {
+   "symbol": "VHC",
+   "name": "VirnetX Holding Corp Common Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "VHC"
+  },
+  {
+   "symbol": "BRFS",
+   "name": "BRF S.A.",
+   "exchange": "NYSE",
+   "yahoo_symbol": "BRFS"
+  },
+  {
+   "symbol": "RHLD",
+   "name": "Resolute Holdings Management - Common Stock",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "RHLD"
+  },
+  {
+   "symbol": "SPTN",
+   "name": "SpartanNash Company - Common Stock",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "SPTN"
+  },
+  {
+   "symbol": "BCAB",
+   "name": "BioAtla, Inc. - Common Stock",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "BCAB"
+  }
+ ]
+}
