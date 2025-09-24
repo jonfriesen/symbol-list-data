@@ -1,0 +1,28 @@
+{
+ "added": [
+  {
+   "symbol": "HYP",
+   "name": "Golden Eagle Dynamic Hypergrowth ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "HYP"
+  },
+  {
+   "symbol": "MTYY",
+   "name": "GraniteShares YieldBOOST MSTR ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "MTYY"
+  },
+  {
+   "symbol": "PLYY",
+   "name": "GraniteShares YieldBOOST PLTR ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "PLYY"
+  },
+  {
+   "symbol": "VHC",
+   "name": "VirnetX Holding Corp - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "VHC"
+  }
+ ]
+}
