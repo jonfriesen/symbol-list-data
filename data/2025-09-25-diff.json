@@ -1,0 +1,126 @@
+{
+ "added": [
+  {
+   "symbol": "ASE",
+   "name": "Asante Gold Corporation",
+   "exchange": "TSXV",
+   "yahoo_symbol": "ASE.V",
+   "instruments": [
+    {
+     "name": "Asante Gold Corporation",
+     "symbol": "ASE"
+    }
+   ]
+  },
+  {
+   "symbol": "LXM",
+   "name": "Lux Metals Corp.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "LXM.V",
+   "instruments": [
+    {
+     "name": "Lux Metals Corp.",
+     "symbol": "LXM"
+    }
+   ]
+  },
+  {
+   "symbol": "CHRI",
+   "name": "Global X S\u0026P 500 Christian Values ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "CHRI"
+  },
+  {
+   "symbol": "DYNB",
+   "name": "Hartford Dynamic Bond ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "DYNB"
+  },
+  {
+   "symbol": "QCLS",
+   "name": "Q/C Technologies, Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "QCLS"
+  },
+  {
+   "symbol": "UTF.R",
+   "name": "Cohen \u0026 Steers Infrastructure Fund, Inc Rights (expiring October 16, 2025) Rights",
+   "exchange": "NYSE",
+   "yahoo_symbol": "UTF.R"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "AACT.U",
+   "name": "Ares Acquisition Corporation II Units, each consisting of one Class A ordinary share and one-half of one redeemable warrant",
+   "exchange": "NYSE",
+   "yahoo_symbol": "AACT.U"
+  },
+  {
+   "symbol": "TNFA",
+   "name": "TNF Pharmaceuticals, Inc.  - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "TNFA"
+  },
+  {
+   "symbol": "AACT",
+   "name": "Ares Acquisition Corporation II Class A Ordinary Shares",
+   "exchange": "NYSE",
+   "yahoo_symbol": "AACT"
+  },
+  {
+   "symbol": "DALN",
+   "name": "DallasNews Corporation - Series A Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "DALN"
+  },
+  {
+   "symbol": "SYTAW",
+   "name": "Siyata Mobile, Inc. - Warrant",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "SYTAW"
+  },
+  {
+   "symbol": "NGT",
+   "name": "Newmont Corporation",
+   "exchange": "TSX",
+   "yahoo_symbol": "NGT.TO",
+   "instruments": [
+    {
+     "name": "Newmont Corporation",
+     "symbol": "NGT"
+    }
+   ]
+  },
+  {
+   "symbol": "UTF.V",
+   "name": "Cohen \u0026 Steers Infrastructure Fund, Inc Rights (expiring October 16, 2025) Rights when issued",
+   "exchange": "NYSE",
+   "yahoo_symbol": "UTF.V"
+  },
+  {
+   "symbol": "AACT.W",
+   "name": "Ares Acquisition Corporation II Redeemable Warrants, each whole warrant exercisable for one Class A ordinary share at an exercise price of $11.50",
+   "exchange": "NYSE",
+   "yahoo_symbol": "AACT.W"
+  },
+  {
+   "symbol": "HMAN",
+   "name": "Huntsman Exploration Inc.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "HMAN.V",
+   "instruments": [
+    {
+     "name": "Huntsman Exploration Inc.",
+     "symbol": "HMAN"
+    }
+   ]
+  },
+  {
+   "symbol": "BASE",
+   "name": "Couchbase, Inc. - Common Stock",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "BASE"
+  }
+ ]
+}
