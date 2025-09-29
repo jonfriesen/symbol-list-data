@@ -1,0 +1,96 @@
+{
+ "added": [
+  {
+   "symbol": "BPAG",
+   "name": "BP Silver Corp.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "BPAG.V",
+   "instruments": [
+    {
+     "name": "BP Silver Corp.",
+     "symbol": "BPAG"
+    }
+   ]
+  },
+  {
+   "symbol": "KORE",
+   "name": "Kore Mining Ltd.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "KORE.V",
+   "instruments": [
+    {
+     "name": "Kore Mining Ltd.",
+     "symbol": "KORE"
+    }
+   ]
+  },
+  {
+   "symbol": "BTQ",
+   "name": "BTQ Technologies Corp. - Common Stock",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "BTQ"
+  },
+  {
+   "symbol": "CNQQ",
+   "name": "Rayliant-ChinaAMC Transformative China Tech ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "CNQQ"
+  },
+  {
+   "symbol": "GPT",
+   "name": "Intelligent Alpha Atlas ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "GPT"
+  },
+  {
+   "symbol": "MGN",
+   "name": "Megan Holdings Limited - Ordinary shares.",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "MGN"
+  },
+  {
+   "symbol": "KNRX",
+   "name": "KNOREX LTD. Class A Ordinary Shares",
+   "exchange": "NYSE MKT",
+   "yahoo_symbol": "KNRX"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "TH",
+   "name": "Theratechnologies Inc.",
+   "exchange": "TSX",
+   "yahoo_symbol": "TH.TO",
+   "instruments": [
+    {
+     "name": "Theratechnologies",
+     "symbol": "TH"
+    }
+   ]
+  },
+  {
+   "symbol": "FRS.P",
+   "name": "Farstarcap Investment Corp.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "FRS.P.V",
+   "instruments": [
+    {
+     "name": "Farstarcap Investment Corp.",
+     "symbol": "FRS.P"
+    }
+   ]
+  },
+  {
+   "symbol": "LIVR",
+   "name": "Intelligent Livermore ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "LIVR"
+  },
+  {
+   "symbol": "GOVXW",
+   "name": "GeoVax Labs, Inc. - Warrants",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "GOVXW"
+  }
+ ]
+}
