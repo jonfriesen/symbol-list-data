@@ -1,0 +1,1422 @@
+{
+ "added": [
+  {
+   "symbol": "DEP",
+   "name": "DEAPCOIN (DEP)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "BTCST",
+   "name": "BTC Standard Hashrate Token (BTCST)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "CEL",
+   "name": "Celsius Network (CEL)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "USDC",
+   "name": "USD Coin (USDC)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "LOOM",
+   "name": "Loom Network (LOOM)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "CVC",
+   "name": "Civic (CVC)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "USTC",
+   "name": "TerraClassicUSD (USTC)",
+   "built_on": "LUNC"
+  },
+  {
+   "symbol": "USDP",
+   "name": "Pax Dollar (USDP)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "MXC",
+   "name": "Machine Xchange Coin (MXC)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "ANC",
+   "name": "Anchor Protocol (ANC)",
+   "built_on": "LUNA"
+  },
+  {
+   "symbol": "REQ",
+   "name": "Request Network (REQ)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "MATIC",
+   "name": "Polygon (MATIC)",
+   "built_on": "POL"
+  },
+  {
+   "symbol": "XAN",
+   "name": "Anoma (XAN)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "USDT",
+   "name": "Tether (USDT)",
+   "built_on": "OMNILAYER"
+  },
+  {
+   "symbol": "GODS",
+   "name": "Gods Unchained (GODS)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "ANKR",
+   "name": "Ankr Network (ANKR)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "TWT",
+   "name": "Trust Wallet Token (TWT)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "BAT",
+   "name": "Basic Attention Token (BAT)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "PHB",
+   "name": "Phoenix Global [v2] (PHB)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "RSR",
+   "name": "Reserve Rights (RSR)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "NFT",
+   "name": "APENFT (NFT)",
+   "built_on": "TRX"
+  },
+  {
+   "symbol": "EURS",
+   "name": "STASIS EURS (EURS)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "BOA",
+   "name": "BOSAGORA (BOA)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "QNT",
+   "name": "Quant (QNT)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "5PT",
+   "name": "Five Pillars Token (5PT)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "SFP",
+   "name": "SafePal (SFP)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "FORT",
+   "name": "Forta (FORT)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "MASK",
+   "name": "Mask Network (MASK)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "NWC",
+   "name": "Numerico (NWC)",
+   "built_on": "XLM"
+  },
+  {
+   "symbol": "MIRA",
+   "name": "Mira (MIRA)"
+  },
+  {
+   "symbol": "MANA",
+   "name": "Decentraland (MANA)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "1INCH",
+   "name": "1inch (1INCH)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "FOREFRONT",
+   "name": "Forefront (FOREFRONT)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "OAX",
+   "name": "Oax (OAX)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "APM",
+   "name": "apM Coin (APM)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "BLUEY",
+   "name": "BlueyonBase (BLUEY)",
+   "built_on": "BASE"
+  },
+  {
+   "symbol": "TUSD",
+   "name": "True USD (TUSD)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "DUSK",
+   "name": "Dusk Network (DUSK)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "VIDT",
+   "name": "VIDT Datalink (VIDT)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "HIGH",
+   "name": "Highstreet (HIGH)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "SRM",
+   "name": "Serum (SRM)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "SPELL",
+   "name": "Spell Token (SPELL)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "ARPA",
+   "name": "ARPA Chain (ARPA)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "CELR",
+   "name": "Celer Network (CELR)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "DEXA",
+   "name": "DEXA COIN (DEXA)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "ASTERINU",
+   "name": "Aster INU (ASTERINU)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "FRANKLIN",
+   "name": "Franklin (FRANKLIN)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "MKR",
+   "name": "Maker (MKR)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "DARKEN",
+   "name": "Dark Energy Crystals (DARKEN)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "YGG",
+   "name": "Yield Guild Games (YGG)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "VOXEL",
+   "name": "Voxies (VOXEL)",
+   "built_on": "POL"
+  },
+  {
+   "symbol": "ATA",
+   "name": "Automata (ATA)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "RAY",
+   "name": "Raydium (RAY)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "BEL",
+   "name": "Bella Protocol (BEL)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "TITANSWAP",
+   "name": "TitanSwap (TITANSWAP)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "DGCL",
+   "name": "DigiCol Token (DGCL)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "FARM",
+   "name": "Harvest Finance (FARM)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "AAVE",
+   "name": "Aave (AAVE)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "WBTC",
+   "name": "Wrapped Bitcoin (WBTC)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "BRZ",
+   "name": "Brazilian Digital Token (BRZ)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "RIVER",
+   "name": "River (RIVER)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "ENS",
+   "name": "Ethereum Name Service (ENS)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "LINK",
+   "name": "Chainlink (LINK)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "WIKEN",
+   "name": "Project WITH (WIKEN)",
+   "built_on": "KAIA"
+  },
+  {
+   "symbol": "OGN",
+   "name": "Origin Protocol (OGN)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "ORN",
+   "name": "Orion Protocol (ORN)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "FTT",
+   "name": "FTX Token (FTT)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "GRT",
+   "name": "The Graph (GRT)",
+   "built_on": "ARB"
+  },
+  {
+   "symbol": "VIB",
+   "name": "Viberate (VIB)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "BETA",
+   "name": "Beta Finance (BETA)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "STMX",
+   "name": "StormX (STMX)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "BAKE",
+   "name": "BakeryToken (BAKE)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "BSW",
+   "name": "Biswap (BSW)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "ATM",
+   "name": "Atletico de Madrid Fan Token (ATM)",
+   "built_on": "CHZ"
+  },
+  {
+   "symbol": "VGX",
+   "name": "Voyager Token (VGX)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "UNFI",
+   "name": "Unifi Protocol DAO (UNFI)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "MOC",
+   "name": "Mossland (MOC)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "UFT",
+   "name": "UniLend Finance (UFT)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "POLS",
+   "name": "Polkastarter (POLS)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "FAIRG",
+   "name": "FairGame (FAIRG)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "CHR",
+   "name": "Chroma (CHR)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "PERP",
+   "name": "Perpetual Protocol (PERP)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "WABI",
+   "name": "WABI (WABI)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "AUDIO",
+   "name": "Audius (AUDIO)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "LDO",
+   "name": "Lido DAO (LDO)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "D",
+   "name": "Dar Open Network (D)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "BLOK",
+   "name": "Bloktopia (BLOK)",
+   "built_on": "POL"
+  },
+  {
+   "symbol": "DAI",
+   "name": "Dai (DAI)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "COMP",
+   "name": "Compound (COMP)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "BOUNTY",
+   "name": "ChainBounty (BOUNTY)",
+   "built_on": "ARB"
+  },
+  {
+   "symbol": "WOM",
+   "name": "WOM (WOM)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "SOLO",
+   "name": "Sologenic (SOLO)",
+   "built_on": "XRP"
+  },
+  {
+   "symbol": "YFI",
+   "name": "yearn.finance (YFI)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "RLC",
+   "name": "iExec (RLC)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "KP3R",
+   "name": "Keep3rV1 (KP3R)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "BORA",
+   "name": "BORA (BORA)",
+   "built_on": "KAIA"
+  },
+  {
+   "symbol": "CHANGE",
+   "name": "ChangeX (CHANGE)",
+   "built_on": "HYDRA"
+  },
+  {
+   "symbol": "BUSD",
+   "name": "Binance USD (BUSD)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "CAKE",
+   "name": "PancakeSwap (CAKE)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "YFII",
+   "name": "DFI.money (YFII)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "SKL",
+   "name": "SKALE Network (SKL)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "JST",
+   "name": "JUST (JST)",
+   "built_on": "TRX"
+  },
+  {
+   "symbol": "XPR",
+   "name": "Proton (XPR)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "API3",
+   "name": "API3 (API3)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "WIN",
+   "name": "WINk (WIN)",
+   "built_on": "TRX"
+  },
+  {
+   "symbol": "SUSHI",
+   "name": "Sushi (SUSHI)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "JASMY",
+   "name": "JasmyCoin (JASMY)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "CRPTC",
+   "name": "CRPT Classic (CRPTC)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "BLZ",
+   "name": "Bluzelle (BLZ)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "KNC",
+   "name": "Kyber Network Crystal v2 (KNC)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "AHT",
+   "name": "AhaToken (AHT)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "GAS",
+   "name": "Gas (GAS)",
+   "built_on": "NEO"
+  },
+  {
+   "symbol": "CHARLIE",
+   "name": "Charlie Kirk (CHARLIE)",
+   "built_on": "BASE"
+  },
+  {
+   "symbol": "AUCTION",
+   "name": "Bounce (AUCTION)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "GHST",
+   "name": "Aavegotchi (GHST)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "GOATED",
+   "name": "Goat Network (GOATED)"
+  },
+  {
+   "symbol": "ZRX",
+   "name": "0x (ZRX)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "UNI",
+   "name": "Uniswap Protocol Token (UNI)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "CVX",
+   "name": "Convex Finance (CVX)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "FF",
+   "name": "Falcon Finance (FF)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "TRB",
+   "name": "Tellor (TRB)",
+   "built_on": "NRG"
+  },
+  {
+   "symbol": "PYR",
+   "name": "Vulcan Forged (PYR)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "STORJ",
+   "name": "Storj (STORJ)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "MIR",
+   "name": "Mirror Protocol (MIR)",
+   "built_on": "LUNC"
+  },
+  {
+   "symbol": "SAND",
+   "name": "The Sandbox (SAND)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "UMA",
+   "name": "UMA (UMA)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "XNO",
+   "name": "Xeno Token (XNO)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "WING",
+   "name": "Wing Finance (WING)",
+   "built_on": "ONT"
+  },
+  {
+   "symbol": "SNT",
+   "name": "Status Network Token (SNT)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "BSTER",
+   "name": "Bster (BSTER)",
+   "built_on": "BASE"
+  },
+  {
+   "symbol": "GLM",
+   "name": "Golem Network Token (GLM)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "ILV",
+   "name": "Illuvium (ILV)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "HNT",
+   "name": "Helium (HNT)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "ANT",
+   "name": "Aragon (ANT)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "ADX",
+   "name": "Ambire AdEx (ADX)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "SLP",
+   "name": "Smooth Love Potion (SLP)",
+   "built_on": "RONIN"
+  },
+  {
+   "symbol": "BNT",
+   "name": "Bancor Network Token (BNT)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "CBBTC",
+   "name": "Coinbase Wrapped BTC (CBBTC)",
+   "built_on": "BASE"
+  },
+  {
+   "symbol": "NMR",
+   "name": "Numeraire (NMR)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "WOZX",
+   "name": "Efforce (WOZX)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "PICKLE",
+   "name": "Pickle Finance (PICKLE)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "PAXG",
+   "name": "PAX Gold (PAXG)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "CRV",
+   "name": "Curve DAO Token (CRV)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "EPX",
+   "name": "Ellipsis X (EPX)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "FLM",
+   "name": "Flamingo (FLM)",
+   "built_on": "NEO"
+  },
+  {
+   "symbol": "ALPHA",
+   "name": "Alpha Finance Lab (ALPHA)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "OCEAN",
+   "name": "Ocean Protocol (OCEAN)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "KEY",
+   "name": "SelfKey (KEY)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "DATAEC",
+   "name": "DATA Economy Index (DATAEC)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "MBOX",
+   "name": "MOBOX (MBOX)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "DAWN",
+   "name": "Dawn Protocol (DAWN)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "PRICELESS",
+   "name": "Priceless (PRICELESS)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "AXS",
+   "name": "Axie Infinity Shards (AXS)",
+   "built_on": "RONIN"
+  },
+  {
+   "symbol": "SNX",
+   "name": "Synthetix (SNX)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "WOO",
+   "name": "WOO Network (WOO)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "ACH",
+   "name": "Alchemy Pay (ACH)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "GMT",
+   "name": "STEPN (GMT)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "MFT",
+   "name": "Hifi Finance (Old) (MFT)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "HERO",
+   "name": "Metahero (HERO)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "SZN",
+   "name": "BNB SZN (SZN)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "SHIB",
+   "name": "Shiba Inu (SHIB)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "RNDR",
+   "name": "Render Token (RNDR)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "POLY",
+   "name": "Polymath Network (POLY)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "G",
+   "name": "Gravity (G)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "LRC",
+   "name": "Loopring (LRC)",
+   "built_on": "ETH"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "CEL",
+   "name": "Celsius Network (CEL)"
+  },
+  {
+   "symbol": "DGCL",
+   "name": "DigiCol Token (DGCL)"
+  },
+  {
+   "symbol": "AHT",
+   "name": "AhaToken (AHT)"
+  },
+  {
+   "symbol": "KNC",
+   "name": "Kyber Network Crystal v2 (KNC)"
+  },
+  {
+   "symbol": "MXC",
+   "name": "Machine Xchange Coin (MXC)"
+  },
+  {
+   "symbol": "SFP",
+   "name": "SafePal (SFP)"
+  },
+  {
+   "symbol": "FORT",
+   "name": "Forta (FORT)"
+  },
+  {
+   "symbol": "PICKLE",
+   "name": "Pickle Finance (PICKLE)"
+  },
+  {
+   "symbol": "TUSD",
+   "name": "True USD (TUSD)"
+  },
+  {
+   "symbol": "XPR",
+   "name": "Proton (XPR)"
+  },
+  {
+   "symbol": "SLP",
+   "name": "Smooth Love Potion (SLP)"
+  },
+  {
+   "symbol": "BSW",
+   "name": "Biswap (BSW)"
+  },
+  {
+   "symbol": "BETA",
+   "name": "Beta Finance (BETA)"
+  },
+  {
+   "symbol": "WING",
+   "name": "Wing Finance (WING)"
+  },
+  {
+   "symbol": "PAXG",
+   "name": "PAX Gold (PAXG)"
+  },
+  {
+   "symbol": "CRV",
+   "name": "Curve DAO Token (CRV)"
+  },
+  {
+   "symbol": "FTT",
+   "name": "FTX Token (FTT)"
+  },
+  {
+   "symbol": "CELR",
+   "name": "Celer Network (CELR)"
+  },
+  {
+   "symbol": "CHR",
+   "name": "Chroma (CHR)"
+  },
+  {
+   "symbol": "DEXA",
+   "name": "DEXA COIN (DEXA)"
+  },
+  {
+   "symbol": "ZRX",
+   "name": "0x (ZRX)"
+  },
+  {
+   "symbol": "CHANGE",
+   "name": "ChangeX (CHANGE)"
+  },
+  {
+   "symbol": "POLY",
+   "name": "Polymath Network (POLY)"
+  },
+  {
+   "symbol": "UMA",
+   "name": "UMA (UMA)"
+  },
+  {
+   "symbol": "WIKEN",
+   "name": "Project WITH (WIKEN)"
+  },
+  {
+   "symbol": "DUSK",
+   "name": "Dusk Network (DUSK)"
+  },
+  {
+   "symbol": "CVX",
+   "name": "Convex Finance (CVX)"
+  },
+  {
+   "symbol": "1INCH",
+   "name": "1inch (1INCH)"
+  },
+  {
+   "symbol": "FRANKLIN",
+   "name": "Franklin (FRANKLIN)"
+  },
+  {
+   "symbol": "GRT",
+   "name": "The Graph (GRT)"
+  },
+  {
+   "symbol": "AUCTION",
+   "name": "Bounce (AUCTION)"
+  },
+  {
+   "symbol": "KP3R",
+   "name": "Keep3rV1 (KP3R)"
+  },
+  {
+   "symbol": "NMR",
+   "name": "Numeraire (NMR)"
+  },
+  {
+   "symbol": "KEY",
+   "name": "SelfKey (KEY)"
+  },
+  {
+   "symbol": "USDC",
+   "name": "USD Coin (USDC)"
+  },
+  {
+   "symbol": "SPELL",
+   "name": "Spell Token (SPELL)"
+  },
+  {
+   "symbol": "ANC",
+   "name": "Anchor Protocol (ANC)"
+  },
+  {
+   "symbol": "LOOM",
+   "name": "Loom Network (LOOM)"
+  },
+  {
+   "symbol": "NFT",
+   "name": "APENFT (NFT)"
+  },
+  {
+   "symbol": "ADX",
+   "name": "Ambire AdEx (ADX)"
+  },
+  {
+   "symbol": "AUDIO",
+   "name": "Audius (AUDIO)"
+  },
+  {
+   "symbol": "ENS",
+   "name": "Ethereum Name Service (ENS)"
+  },
+  {
+   "symbol": "WIN",
+   "name": "WINk (WIN)"
+  },
+  {
+   "symbol": "RNDR",
+   "name": "Render Token (RNDR)"
+  },
+  {
+   "symbol": "RLC",
+   "name": "iExec (RLC)"
+  },
+  {
+   "symbol": "MFT",
+   "name": "Hifi Finance (Old) (MFT)"
+  },
+  {
+   "symbol": "VOXEL",
+   "name": "Voxies (VOXEL)"
+  },
+  {
+   "symbol": "YFI",
+   "name": "yearn.finance (YFI)"
+  },
+  {
+   "symbol": "DAI",
+   "name": "Dai (DAI)"
+  },
+  {
+   "symbol": "SHIB",
+   "name": "Shiba Inu (SHIB)"
+  },
+  {
+   "symbol": "SAND",
+   "name": "The Sandbox (SAND)"
+  },
+  {
+   "symbol": "BRZ",
+   "name": "Brazilian Digital Token (BRZ)"
+  },
+  {
+   "symbol": "GLM",
+   "name": "Golem Network Token (GLM)"
+  },
+  {
+   "symbol": "ANKR",
+   "name": "Ankr Network (ANKR)"
+  },
+  {
+   "symbol": "LRC",
+   "name": "Loopring (LRC)"
+  },
+  {
+   "symbol": "VGX",
+   "name": "Voyager Token (VGX)"
+  },
+  {
+   "symbol": "YFII",
+   "name": "DFI.money (YFII)"
+  },
+  {
+   "symbol": "PERP",
+   "name": "Perpetual Protocol (PERP)"
+  },
+  {
+   "symbol": "HNT",
+   "name": "Helium (HNT)"
+  },
+  {
+   "symbol": "DEP",
+   "name": "DEAPCOIN (DEP)"
+  },
+  {
+   "symbol": "COMP",
+   "name": "Compound (COMP)"
+  },
+  {
+   "symbol": "RSR",
+   "name": "Reserve Rights (RSR)"
+  },
+  {
+   "symbol": "JST",
+   "name": "JUST (JST)"
+  },
+  {
+   "symbol": "ILV",
+   "name": "Illuvium (ILV)"
+  },
+  {
+   "symbol": "BTCST",
+   "name": "BTC Standard Hashrate Token (BTCST)"
+  },
+  {
+   "symbol": "MASK",
+   "name": "Mask Network (MASK)"
+  },
+  {
+   "symbol": "LINK",
+   "name": "Chainlink (LINK)"
+  },
+  {
+   "symbol": "ALPHA",
+   "name": "Alpha Finance Lab (ALPHA)"
+  },
+  {
+   "symbol": "STMX",
+   "name": "StormX (STMX)"
+  },
+  {
+   "symbol": "LDO",
+   "name": "Lido DAO (LDO)"
+  },
+  {
+   "symbol": "CVC",
+   "name": "Civic (CVC)"
+  },
+  {
+   "symbol": "BLZ",
+   "name": "Bluzelle (BLZ)"
+  },
+  {
+   "symbol": "PHB",
+   "name": "Phoenix Global [v2] (PHB)"
+  },
+  {
+   "symbol": "QNT",
+   "name": "Quant (QNT)"
+  },
+  {
+   "symbol": "USDP",
+   "name": "Pax Dollar (USDP)"
+  },
+  {
+   "symbol": "SUSHI",
+   "name": "Sushi (SUSHI)"
+  },
+  {
+   "symbol": "UFT",
+   "name": "UniLend Finance (UFT)"
+  },
+  {
+   "symbol": "BUSD",
+   "name": "Binance USD (BUSD)"
+  },
+  {
+   "symbol": "WOM",
+   "name": "WOM (WOM)"
+  },
+  {
+   "symbol": "MANA",
+   "name": "Decentraland (MANA)"
+  },
+  {
+   "symbol": "WABI",
+   "name": "WABI (WABI)"
+  },
+  {
+   "symbol": "VIB",
+   "name": "Viberate (VIB)"
+  },
+  {
+   "symbol": "USTC",
+   "name": "TerraClassicUSD (USTC)"
+  },
+  {
+   "symbol": "PYR",
+   "name": "Vulcan Forged (PYR)"
+  },
+  {
+   "symbol": "NWC",
+   "name": "Numerico (NWC)"
+  },
+  {
+   "symbol": "STORJ",
+   "name": "Storj (STORJ)"
+  },
+  {
+   "symbol": "TRB",
+   "name": "Tellor (TRB)"
+  },
+  {
+   "symbol": "UNFI",
+   "name": "Unifi Protocol DAO (UNFI)"
+  },
+  {
+   "symbol": "BEL",
+   "name": "Bella Protocol (BEL)"
+  },
+  {
+   "symbol": "OCEAN",
+   "name": "Ocean Protocol (OCEAN)"
+  },
+  {
+   "symbol": "GHST",
+   "name": "Aavegotchi (GHST)"
+  },
+  {
+   "symbol": "MKR",
+   "name": "Maker (MKR)"
+  },
+  {
+   "symbol": "CAKE",
+   "name": "PancakeSwap (CAKE)"
+  },
+  {
+   "symbol": "SKL",
+   "name": "SKALE Network (SKL)"
+  },
+  {
+   "symbol": "SNT",
+   "name": "Status Network Token (SNT)"
+  },
+  {
+   "symbol": "SRM",
+   "name": "Serum (SRM)"
+  },
+  {
+   "symbol": "MATIC",
+   "name": "Polygon (MATIC)"
+  },
+  {
+   "symbol": "SNX",
+   "name": "Synthetix (SNX)"
+  },
+  {
+   "symbol": "RAY",
+   "name": "Raydium (RAY)"
+  },
+  {
+   "symbol": "ATM",
+   "name": "Atletico de Madrid Fan Token (ATM)"
+  },
+  {
+   "symbol": "POLS",
+   "name": "Polkastarter (POLS)"
+  },
+  {
+   "symbol": "API3",
+   "name": "API3 (API3)"
+  },
+  {
+   "symbol": "AAVE",
+   "name": "Aave (AAVE)"
+  },
+  {
+   "symbol": "FAIRG",
+   "name": "FairGame (FAIRG)"
+  },
+  {
+   "symbol": "HERO",
+   "name": "Metahero (HERO)"
+  },
+  {
+   "symbol": "ACH",
+   "name": "Alchemy Pay (ACH)"
+  },
+  {
+   "symbol": "EPX",
+   "name": "Ellipsis X (EPX)"
+  },
+  {
+   "symbol": "ORN",
+   "name": "Orion Protocol (ORN)"
+  },
+  {
+   "symbol": "OGN",
+   "name": "Origin Protocol (OGN)"
+  },
+  {
+   "symbol": "YGG",
+   "name": "Yield Guild Games (YGG)"
+  },
+  {
+   "symbol": "WBTC",
+   "name": "Wrapped Bitcoin (WBTC)"
+  },
+  {
+   "symbol": "TWT",
+   "name": "Trust Wallet Token (TWT)"
+  },
+  {
+   "symbol": "EURS",
+   "name": "STASIS EURS (EURS)"
+  },
+  {
+   "symbol": "ANT",
+   "name": "Aragon (ANT)"
+  },
+  {
+   "symbol": "WOZX",
+   "name": "Efforce (WOZX)"
+  },
+  {
+   "symbol": "FLM",
+   "name": "Flamingo (FLM)"
+  },
+  {
+   "symbol": "UNI",
+   "name": "Uniswap Protocol Token (UNI)"
+  },
+  {
+   "symbol": "VIDT",
+   "name": "VIDT Datalink (VIDT)"
+  },
+  {
+   "symbol": "MOC",
+   "name": "Mossland (MOC)"
+  },
+  {
+   "symbol": "BAT",
+   "name": "Basic Attention Token (BAT)"
+  },
+  {
+   "symbol": "WOO",
+   "name": "WOO Network (WOO)"
+  },
+  {
+   "symbol": "GODS",
+   "name": "Gods Unchained (GODS)"
+  },
+  {
+   "symbol": "USDT",
+   "name": "Tether (USDT)"
+  },
+  {
+   "symbol": "BOA",
+   "name": "BOSAGORA (BOA)"
+  },
+  {
+   "symbol": "TITANSWAP",
+   "name": "TitanSwap (TITANSWAP)"
+  },
+  {
+   "symbol": "OAX",
+   "name": "Oax (OAX)"
+  },
+  {
+   "symbol": "JASMY",
+   "name": "JasmyCoin (JASMY)"
+  },
+  {
+   "symbol": "REQ",
+   "name": "Request Network (REQ)"
+  },
+  {
+   "symbol": "BAKE",
+   "name": "BakeryToken (BAKE)"
+  },
+  {
+   "symbol": "GAS",
+   "name": "Gas (GAS)"
+  },
+  {
+   "symbol": "DAWN",
+   "name": "Dawn Protocol (DAWN)"
+  },
+  {
+   "symbol": "BOUNTY",
+   "name": "ChainBounty (BOUNTY)"
+  },
+  {
+   "symbol": "MBOX",
+   "name": "MOBOX (MBOX)"
+  },
+  {
+   "symbol": "XNO",
+   "name": "Xeno Token (XNO)"
+  },
+  {
+   "symbol": "MIR",
+   "name": "Mirror Protocol (MIR)"
+  },
+  {
+   "symbol": "BLOK",
+   "name": "Bloktopia (BLOK)"
+  },
+  {
+   "symbol": "FARM",
+   "name": "Harvest Finance (FARM)"
+  },
+  {
+   "symbol": "APM",
+   "name": "apM Coin (APM)"
+  },
+  {
+   "symbol": "SOLO",
+   "name": "Sologenic (SOLO)"
+  },
+  {
+   "symbol": "AXS",
+   "name": "Axie Infinity Shards (AXS)"
+  },
+  {
+   "symbol": "ATA",
+   "name": "Automata (ATA)"
+  },
+  {
+   "symbol": "FF",
+   "name": "Forefront (FF)"
+  },
+  {
+   "symbol": "GMT",
+   "name": "STEPN (GMT)"
+  },
+  {
+   "symbol": "HIGH",
+   "name": "Highstreet (HIGH)"
+  },
+  {
+   "symbol": "BORA",
+   "name": "BORA (BORA)"
+  },
+  {
+   "symbol": "BNT",
+   "name": "Bancor Network Token (BNT)"
+  },
+  {
+   "symbol": "DARKEN",
+   "name": "Dark Energy Crystals (DARKEN)",
+   "built_on": "TRX"
+  },
+  {
+   "symbol": "ARPA",
+   "name": "ARPA Chain (ARPA)"
+  }
+ ]
+}
