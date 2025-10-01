@@ -1,0 +1,362 @@
+{
+ "added": [
+  {
+   "symbol": "CTMA",
+   "name": "CI Target 2028 Investment Grade Bond Fund",
+   "exchange": "TSX",
+   "yahoo_symbol": "CTMA.TO",
+   "instruments": [
+    {
+     "name": "CI Trg 2028 Inv Grd",
+     "symbol": "CTMA"
+    }
+   ]
+  },
+  {
+   "symbol": "CTMB",
+   "name": "CI Target 2029 Investment Grade Bond Fund",
+   "exchange": "TSX",
+   "yahoo_symbol": "CTMB.TO",
+   "instruments": [
+    {
+     "name": "CI Trg 2029 Inv Grd",
+     "symbol": "CTMB"
+    }
+   ]
+  },
+  {
+   "symbol": "CTMC",
+   "name": "CI Target 2030 Investment Grade Bond Fund",
+   "exchange": "TSX",
+   "yahoo_symbol": "CTMC.TO",
+   "instruments": [
+    {
+     "name": "CI Trg 2030 Inv Grd",
+     "symbol": "CTMC"
+    }
+   ]
+  },
+  {
+   "symbol": "CRCY",
+   "name": "Harvest Circle Enhanced High Income Shares ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "CRCY.TO",
+   "instruments": [
+    {
+     "name": "Harv Crc Enh H I S E",
+     "symbol": "CRCY"
+    }
+   ]
+  },
+  {
+   "symbol": "RDDY",
+   "name": "Harvest Reddit Enhanced High Income Shares ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "RDDY.TO",
+   "instruments": [
+    {
+     "name": "Harv Rdt EnH H Inc S",
+     "symbol": "RDDY"
+    }
+   ]
+  },
+  {
+   "symbol": "HODY",
+   "name": "Harvest Robinhood Enhanced High Income Shares ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "HODY.TO",
+   "instruments": [
+    {
+     "name": "Harv Rbnh EnH H In E",
+     "symbol": "HODY"
+    }
+   ]
+  },
+  {
+   "symbol": "SOFY",
+   "name": "Harvest SoFi Enhanced High Income Shares ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "SOFY.TO",
+   "instruments": [
+    {
+     "name": "Harv SoFi En H I S E",
+     "symbol": "SOFY"
+    }
+   ]
+  },
+  {
+   "symbol": "JBND",
+   "name": "JPMorgan US Bond Active ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "JBND.TO",
+   "instruments": [
+    {
+     "name": "JPMorgan US Bd Act E",
+     "symbol": "JBND"
+    }
+   ]
+  },
+  {
+   "symbol": "JPST",
+   "name": "JPMorgan US Ultra-Short Income Active ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "JPST.TO",
+   "instruments": [
+    {
+     "name": "JPMrgn US UlShrt I A",
+     "symbol": "JPST"
+    }
+   ]
+  },
+  {
+   "symbol": "TINY",
+   "name": "Tiny Ltd.",
+   "exchange": "TSX",
+   "yahoo_symbol": "TINY.TO",
+   "instruments": [
+    {
+     "name": "Tiny Ltd",
+     "symbol": "TINY"
+    },
+    {
+     "name": "Tiny Ltd Wts",
+     "symbol": "TINY.WT"
+    }
+   ]
+  },
+  {
+   "symbol": "IMI",
+   "name": "Ironman International Ltd.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "IMI.V",
+   "instruments": [
+    {
+     "name": "Ironman International Ltd.",
+     "symbol": "IMI"
+    }
+   ]
+  },
+  {
+   "symbol": "APACU",
+   "name": "StoneBridge Acquisition II Corporation - Units",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "APACU"
+  },
+  {
+   "symbol": "BDCIU",
+   "name": "BTC Development Corp. - Unit",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "BDCIU"
+  },
+  {
+   "symbol": "EASY",
+   "name": "Liberty One Defensive Dividend Growth ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "EASY"
+  },
+  {
+   "symbol": "HOYY",
+   "name": "GraniteShares YieldBOOST HOOD ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "HOYY"
+  },
+  {
+   "symbol": "LNAI",
+   "name": "Lunai Bioworks Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "LNAI"
+  },
+  {
+   "symbol": "LOTI",
+   "name": "Liberty One Tactical Income ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "LOTI"
+  },
+  {
+   "symbol": "PASW",
+   "name": "Ping An Biomedical Co., Ltd. - Ordinary Shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "PASW"
+  },
+  {
+   "symbol": "QUMS",
+   "name": "Quantumsphere Acquisition Corp. - Ordinary Shares",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "QUMS"
+  },
+  {
+   "symbol": "QUMSR",
+   "name": "Quantumsphere Acquisition Corp. - Rights",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "QUMSR"
+  },
+  {
+   "symbol": "SMYY",
+   "name": "GraniteShares YieldBOOST SMCI ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "SMYY"
+  },
+  {
+   "symbol": "SPCT",
+   "name": "Liberty One Spectrum ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "SPCT"
+  },
+  {
+   "symbol": "SVAC",
+   "name": "Spring Valley Acquisition Corp. III - Class A Ordinary Shares",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "SVAC"
+  },
+  {
+   "symbol": "SVACW",
+   "name": "Spring Valley Acquisition Corp. III - Warrant",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "SVACW"
+  },
+  {
+   "symbol": "THRV",
+   "name": "Prospera Income ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "THRV"
+  },
+  {
+   "symbol": "TRIL",
+   "name": "Defiance Trillion Dollar Club Index ETF  ",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "TRIL"
+  },
+  {
+   "symbol": "UCFI",
+   "name": "CN Healthy Food Tech Group Corp. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "UCFI"
+  },
+  {
+   "symbol": "UCFIW",
+   "name": "CN Healthy Food Tech Group Corp. - Warrant",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "UCFIW"
+  },
+  {
+   "symbol": "ZMUN",
+   "name": "F/m Callable Tax-Free Municipal ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "ZMUN"
+  },
+  {
+   "symbol": "BKT.R",
+   "name": "BlackRock Income Trust Inc. (The) Rights (expiring October 20, 2025) Rights",
+   "exchange": "NYSE",
+   "yahoo_symbol": "BKT.R"
+  },
+  {
+   "symbol": "KRSP.U",
+   "name": "Rice Acquisition Corporation 3 Units, each consisting of one Class A ordinary share, and one-sixth of one redeemable warrant",
+   "exchange": "NYSE",
+   "yahoo_symbol": "KRSP.U"
+  },
+  {
+   "symbol": "NP",
+   "name": "Neptune Insurance Holdings Inc. Class A Common Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "NP"
+  },
+  {
+   "symbol": "YCY.U",
+   "name": "AA Mission Acquisition Corp. II Units, each consisting of one Class A ordinary share and one-half of one warrant",
+   "exchange": "NYSE",
+   "yahoo_symbol": "YCY.U"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "IROH",
+   "name": "Iron Horse Acquisitions Corp. - Common Stock",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "IROH"
+  },
+  {
+   "symbol": "IROHR",
+   "name": "Iron Horse Acquisitions Corp. - one right to one-fifth (1/5) of one share of common stock",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "IROHR"
+  },
+  {
+   "symbol": "IROHW",
+   "name": "Iron Horse Acquisitions Corp. - Warrant",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "IROHW"
+  },
+  {
+   "symbol": "IROHU",
+   "name": "Iron Horse Acquisitions Corp. - Unit",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "IROHU"
+  },
+  {
+   "symbol": "NERD",
+   "name": "Roundhill Video Games ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "NERD"
+  },
+  {
+   "symbol": "TINY",
+   "name": "Tiny Ltd.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "TINY.V",
+   "instruments": [
+    {
+     "name": "Tiny Ltd.",
+     "symbol": "TINY"
+    },
+    {
+     "name": "Tiny Ltd. wt 09Apr2027",
+     "symbol": "TINY.WT"
+    }
+   ]
+  },
+  {
+   "symbol": "RENB",
+   "name": "Lunai Bioworks Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "RENB"
+  },
+  {
+   "symbol": "OUSTW",
+   "name": "Ouster, Inc. - Warrants",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "OUSTW"
+  },
+  {
+   "symbol": "MJID",
+   "name": "Majestic Ideal Holdings Ltd - Ordinary Shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "MJID"
+  },
+  {
+   "symbol": "GNTY",
+   "name": "Guaranty Bancshares, Inc. Common Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "GNTY"
+  },
+  {
+   "symbol": "BKT.V",
+   "name": "BlackRock Income Trust Inc. (The) Rights (expiring October 20, 2025) Rights when issued",
+   "exchange": "NYSE",
+   "yahoo_symbol": "BKT.V"
+  },
+  {
+   "symbol": "LTE",
+   "name": "Lite Access Technologies Inc.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "LTE.V",
+   "instruments": [
+    {
+     "name": "Lite Access Technologies Inc.",
+     "symbol": "LTE"
+    }
+   ]
+  }
+ ]
+}
