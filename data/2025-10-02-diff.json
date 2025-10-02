@@ -1,0 +1,42 @@
+{
+ "added": [
+  {
+   "symbol": "AGRZ",
+   "name": "Agroz Inc. - Ordinary Shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "AGRZ"
+  },
+  {
+   "symbol": "CHPX",
+   "name": "Global X AI Semiconductor \u0026 Quantum ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "CHPX"
+  },
+  {
+   "symbol": "FRMI",
+   "name": "Fermi Inc. - Common Stock",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "FRMI"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "NEUE",
+   "name": "NeueHealth, Inc. Common Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "NEUE"
+  },
+  {
+   "symbol": "TTNP",
+   "name": "Titan Pharmaceuticals, Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "TTNP"
+  },
+  {
+   "symbol": "COOP",
+   "name": "Mr. Cooper Group Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "COOP"
+  }
+ ]
+}

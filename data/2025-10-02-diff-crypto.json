@@ -1,0 +1,56 @@
+{
+ "added": [
+  {
+   "symbol": "NETX",
+   "name": "NetX Token (NETX)"
+  },
+  {
+   "symbol": "DGMA",
+   "name": "daGama (DGMA)"
+  },
+  {
+   "symbol": "ZEDCOIN",
+   "name": "ZedCoin (ZEDCOIN)"
+  },
+  {
+   "symbol": "MAOMEME",
+   "name": "Mao (MAOMEME)"
+  },
+  {
+   "symbol": "EGOLDGG",
+   "name": "eGold (EGOLDGG)"
+  },
+  {
+   "symbol": "SKUY",
+   "name": "Token Sekuya (SKUY)"
+  },
+  {
+   "symbol": "ETAN",
+   "name": "Etarn (ETAN)"
+  },
+  {
+   "symbol": "TENGE",
+   "name": "TENGE TENGE (TENGE)"
+  },
+  {
+   "symbol": "QPAY",
+   "name": "QPAY SOL (QPAY)"
+  },
+  {
+   "symbol": "PKM",
+   "name": "Pockemy (PKM)"
+  },
+  {
+   "symbol": "EDOM",
+   "name": "EDOM (EDOM)"
+  },
+  {
+   "symbol": "REGRET",
+   "name": "Regret (REGRET)"
+  },
+  {
+   "symbol": "MCQ",
+   "name": "Mecha Conquest (MCQ)"
+  }
+ ]
+}
