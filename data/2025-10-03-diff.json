@@ -1,0 +1,120 @@
+{
+ "added": [
+  {
+   "symbol": "WEC",
+   "name": "Winchester Equity Corporation",
+   "exchange": "TSXV",
+   "yahoo_symbol": "WEC.V",
+   "instruments": [
+    {
+     "name": "Winchester Equity Corporation",
+     "symbol": "WEC"
+    }
+   ]
+  },
+  {
+   "symbol": "BTTC",
+   "name": "Black Titan Corp - Ordinary Shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "BTTC"
+  },
+  {
+   "symbol": "CBK",
+   "name": "Commercial Bancgroup, Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "CBK"
+  },
+  {
+   "symbol": "HBIO",
+   "name": "Harvard Bioscience, Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "HBIO"
+  },
+  {
+   "symbol": "HVMC",
+   "name": "Highview Merger Corp. - Class A Ordinary Share",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "HVMC"
+  },
+  {
+   "symbol": "HVMCW",
+   "name": "Highview Merger Corp. - Warrants",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "HVMCW"
+  },
+  {
+   "symbol": "MKLY",
+   "name": "McKinley Acquisition Corporation - Class A Ordinary Shares",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "MKLY"
+  },
+  {
+   "symbol": "MKLYR",
+   "name": "McKinley Acquisition Corporation - Rights",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "MKLYR"
+  },
+  {
+   "symbol": "SLMT",
+   "name": "Brera Holdings PLC - Class B Ordinary Shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "SLMT"
+  },
+  {
+   "symbol": "SSEA",
+   "name": "Starry Sea Acquisition Corp - Ordinary Shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "SSEA"
+  },
+  {
+   "symbol": "SSEAR",
+   "name": "Starry Sea Acquisition Corp - Rights",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "SSEAR"
+  },
+  {
+   "symbol": "AIIA.U",
+   "name": "AI Infrastructure Acquisition Corp. Units, each consisting of one Class A Ordinary Share and one Right",
+   "exchange": "NYSE",
+   "yahoo_symbol": "AIIA.U"
+  },
+  {
+   "symbol": "BRW.V",
+   "name": "Saba Capital Income \u0026 Opportunities Fund Rights (expiring October 28, 2025) Rights when issued",
+   "exchange": "NYSE",
+   "yahoo_symbol": "BRW.V"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "BREA",
+   "name": "Brera Holdings PLC - Class B Ordinary Shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "BREA"
+  },
+  {
+   "symbol": "TVC",
+   "name": "Three Valley Copper Corp.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "TVC.V",
+   "instruments": [
+    {
+     "name": "Three Valley Copper Corp.",
+     "symbol": "TVC"
+    }
+   ]
+  },
+  {
+   "symbol": "BGFV",
+   "name": "Big 5 Sporting Goods Corporation - Common Stock",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "BGFV"
+  },
+  {
+   "symbol": "HBIO",
+   "name": "Harvard Bioscience, Inc. - Common Stock",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "HBIO"
+  }
+ ]
+}
