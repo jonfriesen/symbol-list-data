@@ -1,0 +1,30 @@
+{
+ "added": [
+  {
+   "symbol": "XPIN",
+   "name": "XPIN Token (XPIN)"
+  },
+  {
+   "symbol": "VRFY",
+   "name": "VERIFY (VRFY)"
+  },
+  {
+   "symbol": "CYPR",
+   "name": "Cypher (CYPR)"
+  },
+  {
+   "symbol": "USDAI",
+   "name": "USDai (USDAI)"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "MAOMEME",
+   "name": "Mao (MAOMEME)"
+  },
+  {
+   "symbol": "ZEDCOIN",
+   "name": "ZedCoin (ZEDCOIN)"
+  }
+ ]
+}

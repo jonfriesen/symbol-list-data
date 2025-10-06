@@ -1,0 +1,168 @@
+{
+ "added": [
+  {
+   "symbol": "CART",
+   "name": "Carcetti Capital Corp.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "CART.V",
+   "instruments": [
+    {
+     "name": "Carcetti Capital Corp.",
+     "symbol": "CART"
+    }
+   ]
+  },
+  {
+   "symbol": "RTO.P",
+   "name": "Chrysalis 12 Inc.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "RTO.P.V",
+   "instruments": [
+    {
+     "name": "Chrysalis 12 Inc.",
+     "symbol": "RTO.P"
+    }
+   ]
+  },
+  {
+   "symbol": "BBBB",
+   "name": "Brompton Wellington Square Investment Grade CLO ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "BBBB.TO",
+   "instruments": [
+    {
+     "name": "Br Wl Sq Inv Grd C E",
+     "symbol": "BBBB"
+    },
+    {
+     "name": "Br Wl Sq In Gd C E U",
+     "symbol": "BBBB.U"
+    }
+   ]
+  },
+  {
+   "symbol": "PVS.PR.H",
+   "name": "Partners Value Split Corp.",
+   "exchange": "TSX",
+   "yahoo_symbol": "PVS.PR.H.TO",
+   "instruments": [
+    {
+     "name": "Partners ValAA Pr 10",
+     "symbol": "PVS.PR.H"
+    },
+    {
+     "name": "Partners ValAA Pr 12",
+     "symbol": "PVS.PR.J"
+    },
+    {
+     "name": "Partners ValAA Pr 13",
+     "symbol": "PVS.PR.K"
+    },
+    {
+     "name": "Partners Val AA Pr14",
+     "symbol": "PVS.PR.L"
+    },
+    {
+     "name": "Partners Val AA Pr15",
+     "symbol": "PVS.PR.M"
+    },
+    {
+     "name": "Partners ValAA Pr 16",
+     "symbol": "PVS.PR.U"
+    }
+   ]
+  },
+  {
+   "symbol": "CCHH",
+   "name": "CCH Holdings Ltd - Ordinary Shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "CCHH"
+  },
+  {
+   "symbol": "RNGTU",
+   "name": "Range Capital Acquisition Corp II - Units",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "RNGTU"
+  },
+  {
+   "symbol": "XLO",
+   "name": "Xilio Therapeutics, Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "XLO"
+  },
+  {
+   "symbol": "TCBX",
+   "name": "Third Coast Bancshares, Inc. Common Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "TCBX"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "PVS.PR.G",
+   "name": "Partners Value Split Corp.",
+   "exchange": "TSX",
+   "yahoo_symbol": "PVS.PR.G.TO",
+   "instruments": [
+    {
+     "name": "Partners Val AA Pr 9",
+     "symbol": "PVS.PR.G"
+    },
+    {
+     "name": "Partners ValAA Pr 10",
+     "symbol": "PVS.PR.H"
+    },
+    {
+     "name": "Partners ValAA Pr 12",
+     "symbol": "PVS.PR.J"
+    },
+    {
+     "name": "Partners ValAA Pr 13",
+     "symbol": "PVS.PR.K"
+    },
+    {
+     "name": "Partners Val AA Pr14",
+     "symbol": "PVS.PR.L"
+    },
+    {
+     "name": "Partners Val AA Pr15",
+     "symbol": "PVS.PR.M"
+    },
+    {
+     "name": "Partners ValAA Pr 16",
+     "symbol": "PVS.PR.U"
+    }
+   ]
+  },
+  {
+   "symbol": "HYMCL",
+   "name": "Hycroft Mining Holding Corporation - Warrants",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "HYMCL"
+  },
+  {
+   "symbol": "TCBX",
+   "name": "Third Coast Bancshares, Inc. - Common Stock",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "TCBX"
+  },
+  {
+   "symbol": "ANG$B",
+   "name": "American National Group Inc. Depositary Shares, each representing a 1/1,000th interest in a share of 6.625% Fixed-Rate Reset Non-Cumulative Preferred Stock, Series B",
+   "exchange": "NYSE",
+   "yahoo_symbol": "ANG$B"
+  },
+  {
+   "symbol": "XLO",
+   "name": "Xilio Therapeutics, Inc. - Common Stock",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "XLO"
+  },
+  {
+   "symbol": "RIV.R",
+   "name": "RiverNorth Opportunities Fund, Inc. Rights (expiring October 6, 2025) Rights",
+   "exchange": "NYSE",
+   "yahoo_symbol": "RIV.R"
+  }
+ ]
+}
