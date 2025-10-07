@@ -1,0 +1,90 @@
+{
+ "added": [
+  {
+   "symbol": "BNBX",
+   "name": "Applied DNA Sciences, Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "BNBX"
+  },
+  {
+   "symbol": "CHAI",
+   "name": "Core AI Holdings, Inc. - Common Shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "CHAI"
+  },
+  {
+   "symbol": "GIWWU",
+   "name": "GigCapital8 Corp. - Units",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "GIWWU"
+  },
+  {
+   "symbol": "SPIT",
+   "name": "F/m Emerald Special Situations ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "SPIT"
+  },
+  {
+   "symbol": "WSBCO",
+   "name": "WesBanco, Inc. - Depositary Shares each representing 1/40th interest in a share of 7.375% Fixed-Rate Reset Non-Cumulative Perpetual Preferred Stock, Series B",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "WSBCO"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "APDN",
+   "name": "Applied DNA Sciences, Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "APDN"
+  },
+  {
+   "symbol": "SISI",
+   "name": "Shineco, Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "SISI"
+  },
+  {
+   "symbol": "SYTA",
+   "name": "Siyata Mobile, Inc. - Common Shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "SYTA"
+  },
+  {
+   "symbol": "OPINL",
+   "name": "Office Properties Income Trust - 6.375% Senior Notes due 2050",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "OPINL"
+  },
+  {
+   "symbol": "OPI",
+   "name": "Office Properties Income Trust - Common Shares of Beneficial Interest",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "OPI"
+  },
+  {
+   "symbol": "AIS",
+   "name": "A.I.S. Resources Limited",
+   "exchange": "TSXV",
+   "yahoo_symbol": "AIS.V",
+   "instruments": [
+    {
+     "name": "A.I.S. Resources Limited",
+     "symbol": "AIS"
+    }
+   ]
+  },
+  {
+   "symbol": "WFLD",
+   "name": "Wellfield Technologies Inc.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "WFLD.V",
+   "instruments": [
+    {
+     "name": "Wellfield Technologies Inc.",
+     "symbol": "WFLD"
+    }
+   ]
+  }
+ ]
+}
