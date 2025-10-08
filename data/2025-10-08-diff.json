@@ -1,0 +1,178 @@
+{
+ "added": [
+  {
+   "symbol": "GSR",
+   "name": "Gold Strike Resources Corp.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "GSR.V",
+   "instruments": [
+    {
+     "name": "Gold Strike Resources Corp.",
+     "symbol": "GSR"
+    }
+   ]
+  },
+  {
+   "symbol": "TSTX",
+   "name": "Global X 1-3 Year U.S. Treasury Bond Index ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "TSTX.TO",
+   "instruments": [
+    {
+     "name": "Glbl X 20 Yr T Bd UH",
+     "symbol": "TSTX"
+    },
+    {
+     "name": "Glb X 1-3 Yr T Bd Hg",
+     "symbol": "TSTX.F"
+    },
+    {
+     "name": "Glbl X 20 Yr T Bd US",
+     "symbol": "TSTX.U"
+    }
+   ]
+  },
+  {
+   "symbol": "TLTX",
+   "name": "Global X 20+ Year U.S. Treasury Bond Index ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "TLTX.TO",
+   "instruments": [
+    {
+     "name": "Glbl X 20 Yr T Bd UH",
+     "symbol": "TLTX"
+    },
+    {
+     "name": "Glbl X 20 Yr T Bd Hg",
+     "symbol": "TLTX.F"
+    },
+    {
+     "name": "Glbl X 20 Yr T Bd US",
+     "symbol": "TLTX.U"
+    }
+   ]
+  },
+  {
+   "symbol": "CHQQ",
+   "name": "Global X China Hang Seng TECH Index ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "CHQQ.TO",
+   "instruments": [
+    {
+     "name": "GlbX ChnHangSnTechIn",
+     "symbol": "CHQQ"
+    }
+   ]
+  },
+  {
+   "symbol": "AGCC",
+   "name": "Global X Silver Covered Call ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "AGCC.TO",
+   "instruments": [
+    {
+     "name": "GlbX SlvCov Call ETF",
+     "symbol": "AGCC"
+    }
+   ]
+  },
+  {
+   "symbol": "NMNG",
+   "name": "Ninepoint Mining Evolution Fund",
+   "exchange": "TSX",
+   "yahoo_symbol": "NMNG.TO",
+   "instruments": [
+    {
+     "name": "Ninepnt Mining EvFnd",
+     "symbol": "NMNG"
+    }
+   ]
+  },
+  {
+   "symbol": "DIME",
+   "name": "CoinShares Altcoins ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "DIME"
+  },
+  {
+   "symbol": "ISUL",
+   "name": "GraniteShares 2x Long ISRG Daily ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "ISUL"
+  },
+  {
+   "symbol": "LKSPU",
+   "name": "Lake Superior Acquisition Corp. - Units",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "LKSPU"
+  },
+  {
+   "symbol": "NBIL",
+   "name": "GraniteShares 2x Long NBIS Daily ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "NBIL"
+  },
+  {
+   "symbol": "QBTZ",
+   "name": "Defiance Daily Target 2x Short QBTS ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "QBTZ"
+  },
+  {
+   "symbol": "TRBF",
+   "name": "Angel Oak Total Return ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "TRBF"
+  },
+  {
+   "symbol": "BRW.R",
+   "name": "Saba Capital Income \u0026 Opportunities Fund Rights (expiring October 28, 2025) Rights",
+   "exchange": "NYSE",
+   "yahoo_symbol": "BRW.R"
+  },
+  {
+   "symbol": "GME.W",
+   "name": "GameStop Corporation Warrants to Purchase Common Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "GME.W"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "STA",
+   "name": "Sanatana Resources Inc.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "STA.V",
+   "instruments": [
+    {
+     "name": "Sanatana Resources Inc.",
+     "symbol": "STA"
+    }
+   ]
+  },
+  {
+   "symbol": "MGRM",
+   "name": "Monogram Technologies Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "MGRM"
+  },
+  {
+   "symbol": "BRW.V",
+   "name": "Saba Capital Income \u0026 Opportunities Fund Rights (expiring October 28, 2025) Rights when issued",
+   "exchange": "NYSE",
+   "yahoo_symbol": "BRW.V"
+  },
+  {
+   "symbol": "VRNA",
+   "name": "Verona Pharma plc - American Depositary Shares",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "VRNA"
+  },
+  {
+   "symbol": "SCPH",
+   "name": "scPharmaceuticals Inc. - Common Stock",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "SCPH"
+  }
+ ]
+}
