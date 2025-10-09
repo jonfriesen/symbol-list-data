@@ -1,0 +1,138 @@
+{
+ "added": [
+  {
+   "symbol": "ICRS",
+   "name": "Icarus Capital Corp.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "ICRS.V",
+   "instruments": [
+    {
+     "name": "Icarus Capital Corp.",
+     "symbol": "ICRS"
+    }
+   ]
+  },
+  {
+   "symbol": "JUMP",
+   "name": "LevelJump Healthcare Corp.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "JUMP.V",
+   "instruments": [
+    {
+     "name": "Leveljump Healthcare Corp.",
+     "symbol": "JUMP"
+    }
+   ]
+  },
+  {
+   "symbol": "PLY",
+   "name": "Playfair Mining Ltd.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "PLY.V",
+   "instruments": [
+    {
+     "name": "Playfair Mining Ltd.",
+     "symbol": "PLY"
+    }
+   ]
+  },
+  {
+   "symbol": "RGSI",
+   "name": "Rockpoint Gas Storage Inc.",
+   "exchange": "TSX",
+   "yahoo_symbol": "RGSI.TO",
+   "instruments": [
+    {
+     "name": "Rockpoint Gs Strg In",
+     "symbol": "RGSI"
+    }
+   ]
+  },
+  {
+   "symbol": "ACET",
+   "name": "Adicet Bio, Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "ACET"
+  },
+  {
+   "symbol": "MFH",
+   "name": "Mercurity Fintech Holding Inc. - American Ordinary Shares",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "MFH"
+  },
+  {
+   "symbol": "POM",
+   "name": "POMDOCTOR LIMITED - American Depositary Shares",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "POM"
+  },
+  {
+   "symbol": "TLNC",
+   "name": "Talon Capital Corp. - Class A Ordinary Shares",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "TLNC"
+  },
+  {
+   "symbol": "TLNCW",
+   "name": "Talon Capital Corp. - Warrants",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "TLNCW"
+  },
+  {
+   "symbol": "TTRX",
+   "name": "Turn Therapeutics Inc. - Common Stock",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "TTRX"
+  },
+  {
+   "symbol": "XELLL",
+   "name": "Xcel Energy Inc. - 6.25% Junior Subordinated Notes, Series due 2085",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "XELLL"
+  },
+  {
+   "symbol": "ALH",
+   "name": "Alliance Laundry Holdings Inc. Common Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "ALH"
+  },
+  {
+   "symbol": "PXED",
+   "name": "Phoenix Education Partners, Inc. Common Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "PXED"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "HROWM",
+   "name": "Harrow, Inc. - 11.875% Senior Notes due 2027",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "HROWM"
+  },
+  {
+   "symbol": "AFR",
+   "name": "AFR NuVenture Resources Inc.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "AFR.V",
+   "instruments": [
+    {
+     "name": "AFR NuVenture Resources Inc.",
+     "symbol": "AFR"
+    }
+   ]
+  },
+  {
+   "symbol": "ACET",
+   "name": "Adicet Bio, Inc. - Common Stock",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "ACET"
+  },
+  {
+   "symbol": "MFH",
+   "name": "Mercurity Fintech Holding Inc. - American Ordinary Shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "MFH"
+  }
+ ]
+}
