@@ -1,0 +1,126 @@
+{
+ "added": [
+  {
+   "symbol": "WCSB",
+   "name": "Decimus Oil Corp.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "WCSB.V",
+   "instruments": [
+    {
+     "name": "Decimus Oil Corp.",
+     "symbol": "WCSB"
+    }
+   ]
+  },
+  {
+   "symbol": "AXG",
+   "name": "Solowin Holdings - Class A Ordinary Share",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "AXG"
+  },
+  {
+   "symbol": "BNKK",
+   "name": "Bonk, Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "BNKK"
+  },
+  {
+   "symbol": "BNKKW",
+   "name": "Bonk, Inc. - Warrant",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "BNKKW"
+  },
+  {
+   "symbol": "BSLK",
+   "name": "Bolt Projects Holdings, Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "BSLK"
+  },
+  {
+   "symbol": "LFS",
+   "name": "LEIFRAS Co., Ltd. - American Depositary Shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "LFS"
+  },
+  {
+   "symbol": "RGTZ",
+   "name": "Defiance Daily Target 2x Short RGTI ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "RGTZ"
+  },
+  {
+   "symbol": "YDDL",
+   "name": "One and One Green Technologies. INC - Class A Ordinary Shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "YDDL"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "EMO.R",
+   "name": "ClearBridge Energy Midstream Opportunity Fund Inc. Rights (expiring October 10, 2025) Rights",
+   "exchange": "NYSE",
+   "yahoo_symbol": "EMO.R"
+  },
+  {
+   "symbol": "GSRTR",
+   "name": "GSR III Acquisition Corp. - Right",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "GSRTR"
+  },
+  {
+   "symbol": "BSLK",
+   "name": "Bolt Projects Holdings, Inc. - Common Stock",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "BSLK"
+  },
+  {
+   "symbol": "GSRT",
+   "name": "GSR III Acquisition Corp. - Ordinary Shares",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "GSRT"
+  },
+  {
+   "symbol": "SWIN",
+   "name": "Solowin Holdings - Class A Ordinary Share",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "SWIN"
+  },
+  {
+   "symbol": "SHOTW",
+   "name": "Safety Shot, Inc. - Warrant",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "SHOTW"
+  },
+  {
+   "symbol": "GSRTU",
+   "name": "GSR III Acquisition Corp. - Unit",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "GSRTU"
+  },
+  {
+   "symbol": "SHOT",
+   "name": "Safety Shot, Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "SHOT"
+  },
+  {
+   "symbol": "EPIX",
+   "name": "ESSA Pharma Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "EPIX"
+  },
+  {
+   "symbol": "TPC",
+   "name": "Tenth Avenue Petroleum Corp.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "TPC.V",
+   "instruments": [
+    {
+     "name": "Tenth Avenue Petroleum Corp.",
+     "symbol": "TPC"
+    }
+   ]
+  }
+ ]
+}

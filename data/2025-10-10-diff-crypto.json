@@ -1,0 +1,36 @@
+{
+ "added": [
+  {
+   "symbol": "CODEMONG",
+   "name": "CodeMong Ai (CODEMONG)"
+  },
+  {
+   "symbol": "STRSZN",
+   "name": "Stream SZN (STRSZN)"
+  },
+  {
+   "symbol": "AIACHAIN",
+   "name": "AIA Chain (AIACHAIN)"
+  },
+  {
+   "symbol": "USDWON",
+   "name": "Won Chang (USDWON)"
+  },
+  {
+   "symbol": "EDENNETWORK",
+   "name": "EDEN (EDENNETWORK)"
+  },
+  {
+   "symbol": "LIGHTHEAVEN",
+   "name": "Light (LIGHTHEAVEN)"
+  },
+  {
+   "symbol": "DISCO",
+   "name": "Disco By Matt Furie (DISCO)"
+  },
+  {
+   "symbol": "STRIKETOKEN",
+   "name": "Strike (STRIKETOKEN)"
+  }
+ ]
+}
