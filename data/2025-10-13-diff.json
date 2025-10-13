@@ -1,0 +1,84 @@
+{
+ "added": [
+  {
+   "symbol": "AURE",
+   "name": "Prestige Wealth Inc. - Class A Ordinary Shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "AURE"
+  },
+  {
+   "symbol": "NKLR",
+   "name": "Terra Innovatum Global N.V. - Ordinary shares",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "NKLR"
+  },
+  {
+   "symbol": "ETSY",
+   "name": "Etsy, Inc. Common Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "ETSY"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "ETSY",
+   "name": "Etsy, Inc. - Common Stock",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "ETSY"
+  },
+  {
+   "symbol": "CARM",
+   "name": "Carisma Therapeutics, Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "CARM"
+  },
+  {
+   "symbol": "PXSAW",
+   "name": "Pyxis Tankers Inc. - Warrant",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "PXSAW"
+  },
+  {
+   "symbol": "CSWCZ",
+   "name": "Capital Southwest Corporation - 7.75% Notes due 2028",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "CSWCZ"
+  },
+  {
+   "symbol": "PWM",
+   "name": "Prestige Wealth Inc. - Class A Ordinary Shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "PWM"
+  },
+  {
+   "symbol": "JEQ",
+   "name": "abrdn Japan Equity Fund, Inc. Common Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "JEQ"
+  },
+  {
+   "symbol": "HROWL",
+   "name": "Harrow, Inc. - 8.625% senior notes due 2026",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "HROWL"
+  },
+  {
+   "symbol": "MTAL",
+   "name": "MAC Copper Limited Ordinary Shares",
+   "exchange": "NYSE",
+   "yahoo_symbol": "MTAL"
+  },
+  {
+   "symbol": "PHD",
+   "name": "Pioneer Floating Rate Fund, Inc.",
+   "exchange": "NYSE",
+   "yahoo_symbol": "PHD"
+  },
+  {
+   "symbol": "BINI",
+   "name": "Bollinger Innovations, Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "BINI"
+  }
+ ]
+}

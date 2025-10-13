@@ -1,0 +1,46 @@
+{
+ "added": [
+  {
+   "symbol": "GBNB",
+   "name": "GOLD BNB (GBNB)"
+  },
+  {
+   "symbol": "WM",
+   "name": "WrappedM by M^0 (WM)"
+  },
+  {
+   "symbol": "M0",
+   "name": "M by M^0 (M0)"
+  },
+  {
+   "symbol": "BNBHOLDER",
+   "name": "币安Holder (BNBHOLDER)"
+  },
+  {
+   "symbol": "BABY4",
+   "name": "Baby 4 (BABY4)"
+  },
+  {
+   "symbol": "AXOME",
+   "name": "Axolotl Meme (AXOME)"
+  },
+  {
+   "symbol": "EVAA",
+   "name": "EVAA Protocol (EVAA)"
+  },
+  {
+   "symbol": "KNUXX",
+   "name": "Knuxx Bully of ETH (KNUXX)"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "ZEDCOIN",
+   "name": "ZedCoin (ZEDCOIN)"
+  },
+  {
+   "symbol": "MAOMEME",
+   "name": "Mao (MAOMEME)"
+  }
+ ]
+}
