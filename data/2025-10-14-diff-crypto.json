@@ -1,0 +1,60 @@
+{
+ "added": [
+  {
+   "symbol": "TRASH",
+   "name": "TrashCoin (TRASH)"
+  },
+  {
+   "symbol": "BLOXWAP",
+   "name": "BLOXWAP (BLOXWAP)"
+  },
+  {
+   "symbol": "HZMV1",
+   "name": "HZM Coin v1 (HZMV1)"
+  },
+  {
+   "symbol": "VGXV1",
+   "name": "Voyager v1 (VGXV1)"
+  },
+  {
+   "symbol": "NUNU",
+   "name": "nunu (NUNU)"
+  },
+  {
+   "symbol": "INCREMENTUM",
+   "name": "Incrementum (INCREMENTUM)"
+  },
+  {
+   "symbol": "ACCES",
+   "name": "Metacces (ACCES)"
+  },
+  {
+   "symbol": "GVNR",
+   "name": "GVNR (GVNR)"
+  },
+  {
+   "symbol": "CORL",
+   "name": "Coral Finance (CORL)"
+  },
+  {
+   "symbol": "YBNB",
+   "name": "Yellow BNB 4 (YBNB)"
+  },
+  {
+   "symbol": "SPRSTR",
+   "name": "SprotoStrategy (SPRSTR)"
+  },
+  {
+   "symbol": "ENSO",
+   "name": "Enso (ENSO)"
+  },
+  {
+   "symbol": "CASPUR",
+   "name": "Caspur Zoomies (CASPUR)"
+  },
+  {
+   "symbol": "DL",
+   "name": "Dill (DL)"
+  }
+ ]
+}

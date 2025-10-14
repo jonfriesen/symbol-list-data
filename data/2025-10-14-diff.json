@@ -1,0 +1,54 @@
+{
+ "added": [
+  {
+   "symbol": "CTA",
+   "name": "Centaurus Energy Inc.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "CTA.V",
+   "instruments": [
+    {
+     "name": "Centaurus Energy Inc.",
+     "symbol": "CTA"
+    }
+   ]
+  },
+  {
+   "symbol": "BBBY.W",
+   "name": "Bed Bath \u0026 Beyond, Inc. Warrants to Purchase Common Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "BBBY.W"
+  },
+  {
+   "symbol": "CTEST",
+   "name": "NYSE Test One Common Stock",
+   "exchange": "NYSE MKT",
+   "yahoo_symbol": "CTEST"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "AOT",
+   "name": "Ascot Resources Ltd.",
+   "exchange": "TSX",
+   "yahoo_symbol": "AOT.TO",
+   "instruments": [
+    {
+     "name": "Ascot Resources J",
+     "symbol": "AOT"
+    }
+   ]
+  },
+  {
+   "symbol": "CTEST",
+   "name": "NYSE Test One Common Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "CTEST"
+  },
+  {
+   "symbol": "ENFY",
+   "name": "Enlightify Inc. Common Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "ENFY"
+  }
+ ]
+}
