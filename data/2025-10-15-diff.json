@@ -1,0 +1,192 @@
+{
+ "added": [
+  {
+   "symbol": "PMI",
+   "name": "Perseverance Metals Inc.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "PMI.V",
+   "instruments": [
+    {
+     "name": "Perseverance Metals Inc.",
+     "symbol": "PMI"
+    }
+   ]
+  },
+  {
+   "symbol": "APPS",
+   "name": "AppLovin CDR (CAD Hedged)",
+   "exchange": "TSX",
+   "yahoo_symbol": "APPS.TO",
+   "instruments": [
+    {
+     "name": "AppLovin CDR CAD Hgd",
+     "symbol": "APPS"
+    }
+   ]
+  },
+  {
+   "symbol": "CEGS",
+   "name": "Constellation Energy CDR (CAD Hedged)",
+   "exchange": "TSX",
+   "yahoo_symbol": "CEGS.TO",
+   "instruments": [
+    {
+     "name": "Constl Enrgy CDR HG ",
+     "symbol": "CEGS"
+    }
+   ]
+  },
+  {
+   "symbol": "FMPB",
+   "name": "Fidelity Global Balanced Portfolio",
+   "exchange": "TSX",
+   "yahoo_symbol": "FMPB.TO",
+   "instruments": [
+    {
+     "name": "Fidelity GBl BalcPor",
+     "symbol": "FMPB"
+    }
+   ]
+  },
+  {
+   "symbol": "FMPG",
+   "name": "Fidelity Global Growth Portfolio",
+   "exchange": "TSX",
+   "yahoo_symbol": "FMPG.TO",
+   "instruments": [
+    {
+     "name": "Fidelity Glb GrowPol",
+     "symbol": "FMPG"
+    }
+   ]
+  },
+  {
+   "symbol": "FMPI",
+   "name": "Fidelity Global Income Portfolio",
+   "exchange": "TSX",
+   "yahoo_symbol": "FMPI.TO",
+   "instruments": [
+    {
+     "name": "Fidelity Glb InC Pol",
+     "symbol": "FMPI"
+    }
+   ]
+  },
+  {
+   "symbol": "FGSM",
+   "name": "Fidelity Global Small-Mid Cap Equity Fund",
+   "exchange": "TSX",
+   "yahoo_symbol": "FGSM.TO",
+   "instruments": [
+    {
+     "name": "Fidelity Gbl Sll Md ",
+     "symbol": "FGSM"
+    }
+   ]
+  },
+  {
+   "symbol": "FMAE",
+   "name": "Fidelity Multi-Alt Equity Fund",
+   "exchange": "TSX",
+   "yahoo_symbol": "FMAE.TO",
+   "instruments": [
+    {
+     "name": "Fidelity MulAlt EqFd",
+     "symbol": "FMAE"
+    }
+   ]
+  },
+  {
+   "symbol": "ZYNS",
+   "name": "Philip Morris CDR (CAD Hedged)",
+   "exchange": "TSX",
+   "yahoo_symbol": "ZYNS.TO",
+   "instruments": [
+    {
+     "name": "Phil Mor Hgd CDR C",
+     "symbol": "ZYNS"
+    }
+   ]
+  },
+  {
+   "symbol": "RDDT",
+   "name": "Reddit CDR (CAD Hedged)",
+   "exchange": "TSX",
+   "yahoo_symbol": "RDDT.TO",
+   "instruments": [
+    {
+     "name": "Reddit CDR CAD Hgd",
+     "symbol": "RDDT"
+    }
+   ]
+  },
+  {
+   "symbol": "HOOD",
+   "name": "Robinhood CDR (CAD Hedged)",
+   "exchange": "TSX",
+   "yahoo_symbol": "HOOD.TO",
+   "instruments": [
+    {
+     "name": "Robinhood CDR CAD HD",
+     "symbol": "HOOD"
+    }
+   ]
+  },
+  {
+   "symbol": "MSTR",
+   "name": "Strategy CDR (CAD Hedged)",
+   "exchange": "TSX",
+   "yahoo_symbol": "MSTR.TO",
+   "instruments": [
+    {
+     "name": "Strategy CDR CAD HD",
+     "symbol": "MSTR"
+    }
+   ]
+  },
+  {
+   "symbol": "FIGG",
+   "name": "Leverage Shares 2x Long FIG Daily ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "FIGG"
+  },
+  {
+   "symbol": "FUTG",
+   "name": "Leverage Shares 2x Long FUTU Daily ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "FUTG"
+  },
+  {
+   "symbol": "RPGL",
+   "name": "Republic Power Group Limited - Class A Ordinary Shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "RPGL"
+  },
+  {
+   "symbol": "TCGL",
+   "name": "TechCreate Group Ltd. Class A Ordinary Shares",
+   "exchange": "NYSE MKT",
+   "yahoo_symbol": "TCGL"
+  },
+  {
+   "symbol": "TCPA",
+   "name": "TransCanada PipeLines Limited 6.250% Junior Subordinated Notes due 2085",
+   "exchange": "NYSE",
+   "yahoo_symbol": "TCPA"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "ARIS",
+   "name": "Aris Water Solutions, Inc. Class A Common Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "ARIS"
+  },
+  {
+   "symbol": "GLADZ",
+   "name": "Gladstone Capital Corporation - 7.75% Notes due 2028",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "GLADZ"
+  }
+ ]
+}
