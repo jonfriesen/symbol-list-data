@@ -1,0 +1,180 @@
+{
+ "added": [
+  {
+   "symbol": "ALZ",
+   "name": "Allianz CDR (CAD Hedged)",
+   "exchange": "TSX",
+   "yahoo_symbol": "ALZ.TO",
+   "instruments": [
+    {
+     "name": "Allianz CDR CAD Hed",
+     "symbol": "ALZ"
+    }
+   ]
+  },
+  {
+   "symbol": "ASML",
+   "name": "ASML CDR (CAD Hedged)",
+   "exchange": "TSX",
+   "yahoo_symbol": "ASML.TO",
+   "instruments": [
+    {
+     "name": "ASML CDR CAD Hedged",
+     "symbol": "ASML"
+    }
+   ]
+  },
+  {
+   "symbol": "BMW",
+   "name": "BMW CDR (CAD Hedged)",
+   "exchange": "TSX",
+   "yahoo_symbol": "BMW.TO",
+   "instruments": [
+    {
+     "name": "BMW CDR CAD Hedged",
+     "symbol": "BMW"
+    }
+   ]
+  },
+  {
+   "symbol": "INGS",
+   "name": "ING CDR (CAD Hedged)",
+   "exchange": "TSX",
+   "yahoo_symbol": "INGS.TO",
+   "instruments": [
+    {
+     "name": "ING CDR CAD Hedged",
+     "symbol": "INGS"
+    }
+   ]
+  },
+  {
+   "symbol": "BENZ",
+   "name": "Mercedes-Benz CDR (CAD Hedged)",
+   "exchange": "TSX",
+   "yahoo_symbol": "BENZ.TO",
+   "instruments": [
+    {
+     "name": "MercedesBenzCDR CaHD",
+     "symbol": "BENZ"
+    }
+   ]
+  },
+  {
+   "symbol": "NSTL",
+   "name": "Nestlé CDR (CAD Hedged)",
+   "exchange": "TSX",
+   "yahoo_symbol": "NSTL.TO",
+   "instruments": [
+    {
+     "name": "Nestle CDR CAD Hedg",
+     "symbol": "NSTL"
+    }
+   ]
+  },
+  {
+   "symbol": "NVS",
+   "name": "Novartis CDR (CAD Hedged)",
+   "exchange": "TSX",
+   "yahoo_symbol": "NVS.TO",
+   "instruments": [
+    {
+     "name": "Novartis CDR CAD Hed",
+     "symbol": "NVS"
+    }
+   ]
+  },
+  {
+   "symbol": "ROG",
+   "name": "Roche CDR (CAD Hedged)",
+   "exchange": "TSX",
+   "yahoo_symbol": "ROG.TO",
+   "instruments": [
+    {
+     "name": "Roche CDR CAD Hedge",
+     "symbol": "ROG"
+    }
+   ]
+  },
+  {
+   "symbol": "SAPS",
+   "name": "SAP CDR (CAD Hedged)",
+   "exchange": "TSX",
+   "yahoo_symbol": "SAPS.TO",
+   "instruments": [
+    {
+     "name": "SAP CDR CAD Hedged",
+     "symbol": "SAPS"
+    }
+   ]
+  },
+  {
+   "symbol": "SMNS",
+   "name": "Siemens CDR (CAD Hedged)",
+   "exchange": "TSX",
+   "yahoo_symbol": "SMNS.TO",
+   "instruments": [
+    {
+     "name": "Siemens CDR CAD Hed",
+     "symbol": "SMNS"
+    }
+   ]
+  },
+  {
+   "symbol": "UBSS",
+   "name": "UBS CDR (CAD Hedged)",
+   "exchange": "TSX",
+   "yahoo_symbol": "UBSS.TO",
+   "instruments": [
+    {
+     "name": "UBS CDR CAD Hedged",
+     "symbol": "UBSS"
+    }
+   ]
+  },
+  {
+   "symbol": "KJD",
+   "name": "KraneShares 2x Long JD Daily ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "KJD"
+  },
+  {
+   "symbol": "SLGB",
+   "name": "Smart Logistics Global Limited - Ordinary Shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "SLGB"
+  },
+  {
+   "symbol": "ZSPC",
+   "name": "zSpace, Inc. - Common stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "ZSPC"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "CURIW",
+   "name": "CuriosityStream Inc.  - Warrant",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "CURIW"
+  },
+  {
+   "symbol": "UTF.R",
+   "name": "Cohen \u0026 Steers Infrastructure Fund, Inc Rights (expiring October 16, 2025) Rights",
+   "exchange": "NYSE",
+   "yahoo_symbol": "UTF.R"
+  },
+  {
+   "symbol": "ZSPC",
+   "name": "zSpace, Inc. - Common stock",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "ZSPC"
+  },
+  {
+   "symbol": "AVDX",
+   "name": "AvidXchange Holdings, Inc. - Common Stock",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "AVDX"
+  }
+ ]
+}

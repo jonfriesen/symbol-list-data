@@ -1,0 +1,30 @@
+{
+ "added": [
+  {
+   "symbol": "UCCOIN",
+   "name": "UC Coin (UCCOIN)"
+  },
+  {
+   "symbol": "TRACEABILITY",
+   "name": "Traceability Chain (TRACEABILITY)"
+  },
+  {
+   "symbol": "RECALL",
+   "name": "Recall (RECALL)"
+  },
+  {
+   "symbol": "YB",
+   "name": "Yield Basis (YB)"
+  },
+  {
+   "symbol": "SYRUPUSDT",
+   "name": "Syrup USDT (SYRUPUSDT)"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "TAC",
+   "name": "Traceability Chain (TAC)"
+  }
+ ]
+}
