@@ -1,0 +1,78 @@
+{
+ "added": [
+  {
+   "symbol": "BDCI",
+   "name": "BTC Development Corp. - Class A Ordinary Shares",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "BDCI"
+  },
+  {
+   "symbol": "BDCIW",
+   "name": "BTC Development Corp. - Warrant",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "BDCIW"
+  },
+  {
+   "symbol": "BREM",
+   "name": "iShares Emerging Markets Bond Active ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "BREM"
+  },
+  {
+   "symbol": "EZMO",
+   "name": "AlphaDroid Broad Markets Momentum ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "EZMO"
+  },
+  {
+   "symbol": "EZRO",
+   "name": "AlphaDroid Defensive Sector Rotation ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "EZRO"
+  },
+  {
+   "symbol": "LMNX",
+   "name": "Defiance Daily Target 2x Long LMND ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "LMNX"
+  },
+  {
+   "symbol": "OWLS",
+   "name": "OBOOK Holdings Inc. - Class A Common Shares",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "OWLS"
+  },
+  {
+   "symbol": "SEV",
+   "name": "Aptera Motors Corp. - Class B Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "SEV"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "FORL",
+   "name": "Four Leaf Acquisition Corporation - Class A Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "FORL"
+  },
+  {
+   "symbol": "FORLU",
+   "name": "Four Leaf Acquisition Corporation - Unit",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "FORLU"
+  },
+  {
+   "symbol": "FORLW",
+   "name": "Four Leaf Acquisition Corporation - Warrants",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "FORLW"
+  },
+  {
+   "symbol": "WNS",
+   "name": "WNS (Holdings) Limited Ordinary Shares",
+   "exchange": "NYSE",
+   "yahoo_symbol": "WNS"
+  }
+ ]
+}
