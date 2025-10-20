@@ -1,0 +1,78 @@
+{
+ "added": [
+  {
+   "symbol": "ACCL",
+   "name": "Acco Group Holdings Limited - Ordinary Shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "ACCL"
+  },
+  {
+   "symbol": "GIBO",
+   "name": "GIBO Holdings Limited - Class A Ordinary Shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "GIBO"
+  },
+  {
+   "symbol": "MBVI",
+   "name": "M3-Brigade Acquisition VI Corp. - Class A Ordinary Shares",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "MBVI"
+  },
+  {
+   "symbol": "MBVIW",
+   "name": "M3-Brigade Acquisition VI Corp. - Warrant",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "MBVIW"
+  },
+  {
+   "symbol": "VRCA",
+   "name": "Verrica Pharmaceuticals Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "VRCA"
+  },
+  {
+   "symbol": "JGH.V",
+   "name": "Nuveen Global High Income Fund Rights (expiring November 20, 2025) Rights when issued",
+   "exchange": "NYSE",
+   "yahoo_symbol": "JGH.V"
+  },
+  {
+   "symbol": "SLAI",
+   "name": "SOLAI Limited American Depositary Shares (each representing one hundred (100) Class A Ordinary Shares)",
+   "exchange": "NYSE",
+   "yahoo_symbol": "SLAI"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "GIBO",
+   "name": "GIBO Holdings Limited - Class A Ordinary Shares",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "GIBO"
+  },
+  {
+   "symbol": "VRCA",
+   "name": "Verrica Pharmaceuticals Inc. - Common Stock",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "VRCA"
+  },
+  {
+   "symbol": "BKT.R",
+   "name": "BlackRock Income Trust Inc. (The) Rights (expiring October 20, 2025) Rights",
+   "exchange": "NYSE",
+   "yahoo_symbol": "BKT.R"
+  },
+  {
+   "symbol": "SAND",
+   "name": "Sandstorm Gold Ltd. Ordinary Shares (Canada)",
+   "exchange": "NYSE",
+   "yahoo_symbol": "SAND"
+  },
+  {
+   "symbol": "BTCM",
+   "name": "BIT Mining Limited ADS",
+   "exchange": "NYSE",
+   "yahoo_symbol": "BTCM"
+  }
+ ]
+}
