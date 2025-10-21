@@ -1,0 +1,126 @@
+{
+ "added": [
+  {
+   "symbol": "DWS",
+   "name": "Diamond Estates Wines \u0026 Spirits Inc.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "DWS.V",
+   "instruments": [
+    {
+     "name": "Diamond Estates Wines \u0026 Spirits Inc.",
+     "symbol": "DWS"
+    }
+   ]
+  },
+  {
+   "symbol": "MPV.P",
+   "name": "Matchpoint Ventures Corp.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "MPV.P.V",
+   "instruments": [
+    {
+     "name": "Matchpoint Ventures Corp.",
+     "symbol": "MPV.P"
+    }
+   ]
+  },
+  {
+   "symbol": "AMUN",
+   "name": "abrdn Ultra Short Municipal Income Active ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "AMUN"
+  },
+  {
+   "symbol": "ASCI",
+   "name": "abrdn International Small Cap Active ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "ASCI"
+  },
+  {
+   "symbol": "GSRF",
+   "name": "GSR IV Acquisition Corp. - Class A ordinary share",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "GSRF"
+  },
+  {
+   "symbol": "GSRFR",
+   "name": "GSR IV Acquisition Corp. - Rights",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "GSRFR"
+  },
+  {
+   "symbol": "HONIV",
+   "name": "Honeywell International Inc. - Common Stock Ex Distribution When Issued",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "HONIV"
+  },
+  {
+   "symbol": "SOLSV",
+   "name": "Solstice Advanced Materials Inc. - Common Stock When Issued",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "SOLSV"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "ASET",
+   "name": "FlexShares Real Assets Allocation Index Fund",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "ASET"
+  },
+  {
+   "symbol": "ZIMV",
+   "name": "ZimVie Inc. - Common Stock",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "ZIMV"
+  },
+  {
+   "symbol": "VQS",
+   "name": "VIQ Solutions Inc.",
+   "exchange": "TSX",
+   "yahoo_symbol": "VQS.TO",
+   "instruments": [
+    {
+     "name": "VIQ Solutions Inc. J",
+     "symbol": "VQS"
+    }
+   ]
+  },
+  {
+   "symbol": "SVIIU",
+   "name": "Spring Valley Acquisition Corp. II - Units",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "SVIIU"
+  },
+  {
+   "symbol": "SVIIW",
+   "name": "Spring Valley Acquisition Corp. II - Warrant",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "SVIIW"
+  },
+  {
+   "symbol": "VNCE",
+   "name": "Vince Holding Corp. Common Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "VNCE"
+  },
+  {
+   "symbol": "VBTX",
+   "name": "Veritex Holdings, Inc. - Common Stock",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "VBTX"
+  },
+  {
+   "symbol": "SVIIR",
+   "name": "Spring Valley Acquisition Corp. II - Rights",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "SVIIR"
+  },
+  {
+   "symbol": "SVII",
+   "name": "Spring Valley Acquisition Corp. II - Class A Ordinary Shares",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "SVII"
+  }
+ ]
+}
