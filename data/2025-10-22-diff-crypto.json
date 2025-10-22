@@ -1,0 +1,50 @@
+{
+ "added": [
+  {
+   "symbol": "FMF",
+   "name": "Formosa Financial Token (FMF)"
+  },
+  {
+   "symbol": "BABY4",
+   "name": "Baby 4 (BABY4)"
+  },
+  {
+   "symbol": "LABRYS",
+   "name": "Labrys (LABRYS)"
+  },
+  {
+   "symbol": "EDENA",
+   "name": "EDENA (EDENA)"
+  },
+  {
+   "symbol": "FIATDAO",
+   "name": "FIAT DAO Token (FIATDAO)"
+  },
+  {
+   "symbol": "MEY",
+   "name": "Mey Network (MEY)"
+  },
+  {
+   "symbol": "LUR",
+   "name": "Lumera (LUR)"
+  },
+  {
+   "symbol": "FWBV1",
+   "name": "Friends With Benefits Pro v1 (FWBV1)"
+  },
+  {
+   "symbol": "BLUAI",
+   "name": "Bluwhale AI (BLUAI)"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "ZEDCOIN",
+   "name": "ZedCoin (ZEDCOIN)"
+  },
+  {
+   "symbol": "MAOMEME",
+   "name": "Mao (MAOMEME)"
+  }
+ ]
+}
