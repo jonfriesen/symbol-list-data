@@ -1,0 +1,132 @@
+{
+ "added": [
+  {
+   "symbol": "ESXR",
+   "name": "Essex Resources Corp.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "ESXR.V",
+   "instruments": [
+    {
+     "name": "Essex Resources Corp.",
+     "symbol": "ESXR"
+    }
+   ]
+  },
+  {
+   "symbol": "SICO",
+   "name": "Quetzal Copper Corp.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "SICO.V",
+   "instruments": [
+    {
+     "name": "Quetzal Copper Corp.",
+     "symbol": "SICO"
+    }
+   ]
+  },
+  {
+   "symbol": "JGH.R",
+   "name": "Nuveen Global High Income Fund Rights (expiring November 20, 2025) Rights",
+   "exchange": "NYSE",
+   "yahoo_symbol": "JGH.R"
+  },
+  {
+   "symbol": "OPP.V",
+   "name": "RiverNorth/DoubleLine Strategic Opportunity Fund, Inc. Rights (expiring November 18, 2025) Rights when issued",
+   "exchange": "NYSE",
+   "yahoo_symbol": "OPP.V"
+  },
+  {
+   "symbol": "AGCC",
+   "name": "Agencia Comercial Spirits Ltd - Class A Ordinary Share",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "AGCC"
+  },
+  {
+   "symbol": "ALISU",
+   "name": "Calisa Acquisition Corp - Units",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "ALISU"
+  },
+  {
+   "symbol": "EMIS",
+   "name": "Emmis Acquisition Corp. - Class A Ordinary Share",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "EMIS"
+  },
+  {
+   "symbol": "EMISR",
+   "name": "Emmis Acquisition Corp. - Rights",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "EMISR"
+  },
+  {
+   "symbol": "NPT",
+   "name": "Texxon Holding Limited - Ordinary shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "NPT"
+  },
+  {
+   "symbol": "RAIN",
+   "name": "Rain Enhancement Technologies Holdco, Inc. - Class A Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "RAIN"
+  },
+  {
+   "symbol": "RAINW",
+   "name": "Rain Enhancement Technologies Holdco, Inc. - Warrants",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "RAINW"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "RAINW",
+   "name": "Rain Enhancement Technologies Holdco, Inc. - Warrants",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "RAINW"
+  },
+  {
+   "symbol": "JGH.V",
+   "name": "Nuveen Global High Income Fund Rights (expiring November 20, 2025) Rights when issued",
+   "exchange": "NYSE",
+   "yahoo_symbol": "JGH.V"
+  },
+  {
+   "symbol": "RAIN",
+   "name": "Rain Enhancement Technologies Holdco, Inc. - Class A Common Stock",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "RAIN"
+  },
+  {
+   "symbol": "TCBN",
+   "name": "TD Global Carbon Credit Index ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "TCBN.TO",
+   "instruments": [
+    {
+     "name": "TD Glbl CarbonCdtIdx",
+     "symbol": "TCBN"
+    }
+   ]
+  },
+  {
+   "symbol": "Q",
+   "name": "Quetzal Copper Corp.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "Q.V",
+   "instruments": [
+    {
+     "name": "Quetzal Copper Corp.",
+     "symbol": "Q"
+    }
+   ]
+  },
+  {
+   "symbol": "FPAY",
+   "name": "FlexShopper, Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "FPAY"
+  }
+ ]
+}
