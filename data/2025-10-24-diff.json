@@ -1,0 +1,132 @@
+{
+ "added": [
+  {
+   "symbol": "FUSE",
+   "name": "Fusemachines Inc. - Common stock",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "FUSE"
+  },
+  {
+   "symbol": "FUSEW",
+   "name": "Fusemachines Inc. - Warrants",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "FUSEW"
+  },
+  {
+   "symbol": "GTPE",
+   "name": "Goldman Sachs MSCI World Private Equity Return Tracker ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "GTPE"
+  },
+  {
+   "symbol": "HAVAU",
+   "name": "Harvard Ave Acquisition Corporation - Unit",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "HAVAU"
+  },
+  {
+   "symbol": "MMTXU",
+   "name": "Miluna Acquisition Corp - Units",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "MMTXU"
+  },
+  {
+   "symbol": "IN",
+   "name": "Infield Minerals Corp.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "IN.V",
+   "instruments": [
+    {
+     "name": "Infield Minerals Corp.",
+     "symbol": "IN"
+    }
+   ]
+  },
+  {
+   "symbol": "FN.PR.A",
+   "name": "First National Financial Corporation",
+   "exchange": "TSX",
+   "yahoo_symbol": "FN.PR.A.TO",
+   "instruments": [
+    {
+     "name": "1st Natl Fin Sr 1 Pr",
+     "symbol": "FN.PR.A"
+    },
+    {
+     "name": "1st Natl Fin Sr 2 Pr",
+     "symbol": "FN.PR.B"
+    }
+   ]
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "MAC",
+   "name": "Themac Resources Group Limited",
+   "exchange": "TSXV",
+   "yahoo_symbol": "MAC.V",
+   "instruments": [
+    {
+     "name": "Themac Resources Group Limited",
+     "symbol": "MAC"
+    }
+   ]
+  },
+  {
+   "symbol": "PBPB",
+   "name": "Potbelly Corporation - Common Stock",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "PBPB"
+  },
+  {
+   "symbol": "MLNK",
+   "name": "MeridianLink, Inc. Common Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "MLNK"
+  },
+  {
+   "symbol": "PRYM",
+   "name": "Prime Mining Corp.",
+   "exchange": "TSX",
+   "yahoo_symbol": "PRYM.TO",
+   "instruments": [
+    {
+     "name": "Prime Mining Corp. J",
+     "symbol": "PRYM"
+    }
+   ]
+  },
+  {
+   "symbol": "INFD",
+   "name": "Infield Minerals Corp.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "INFD.V",
+   "instruments": [
+    {
+     "name": "Infield Minerals Corp.",
+     "symbol": "INFD"
+    }
+   ]
+  },
+  {
+   "symbol": "FN",
+   "name": "First National Financial Corporation",
+   "exchange": "TSX",
+   "yahoo_symbol": "FN.TO",
+   "instruments": [
+    {
+     "name": "First Nat'l Fin Corp",
+     "symbol": "FN"
+    },
+    {
+     "name": "1st Natl Fin Sr 1 Pr",
+     "symbol": "FN.PR.A"
+    },
+    {
+     "name": "1st Natl Fin Sr 2 Pr",
+     "symbol": "FN.PR.B"
+    }
+   ]
+  }
+ ]
+}
