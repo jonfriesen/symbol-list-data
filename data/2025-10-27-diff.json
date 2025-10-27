@@ -1,0 +1,132 @@
+{
+ "added": [
+  {
+   "symbol": "AFV.P ",
+   "name": "Apolo V Acquisition Corp.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "AFV.P .V",
+   "instruments": [
+    {
+     "name": "Apolo V Acquisition Corp.",
+     "symbol": "AFV.P "
+    }
+   ]
+  },
+  {
+   "symbol": "BEEP",
+   "name": "Geiger Energy Corporation",
+   "exchange": "TSXV",
+   "yahoo_symbol": "BEEP.V",
+   "instruments": [
+    {
+     "name": "Geiger Energy Corporation",
+     "symbol": "BEEP"
+    }
+   ]
+  },
+  {
+   "symbol": "NTLX",
+   "name": "NeuroThera Labs Inc.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "NTLX.V",
+   "instruments": [
+    {
+     "name": "NeuroThera Labs Inc.",
+     "symbol": "NTLX"
+    }
+   ]
+  },
+  {
+   "symbol": "AVXX",
+   "name": "Defiance Daily Target 2x Long AVAV ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "AVXX"
+  },
+  {
+   "symbol": "GLDB",
+   "name": "IDX Alternative FIAT ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "GLDB"
+  },
+  {
+   "symbol": "LAES",
+   "name": "SEALSQ Corp - Ordinary Shares",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "LAES"
+  },
+  {
+   "symbol": "LAFAU",
+   "name": "LaFayette Acquisition Corp. - Unit",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "LAFAU"
+  },
+  {
+   "symbol": "DD.V",
+   "name": "DuPont de Nemours, Inc. Common Stock When-Issued",
+   "exchange": "NYSE",
+   "yahoo_symbol": "DD.V"
+  },
+  {
+   "symbol": "Q.V",
+   "name": "Qnity Electronics, Inc. Common Stock When-Issued",
+   "exchange": "NYSE",
+   "yahoo_symbol": "Q.V"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "EVM",
+   "name": "Eaton Vance California Municipal Bond Fund Common Shares of Beneficial Interest, $.01 par value",
+   "exchange": "NYSE MKT",
+   "yahoo_symbol": "EVM"
+  },
+  {
+   "symbol": "G",
+   "name": "Augusta Gold Corp.",
+   "exchange": "TSX",
+   "yahoo_symbol": "G.TO",
+   "instruments": [
+    {
+     "name": "Augusta Gold Corp. J",
+     "symbol": "G"
+    }
+   ]
+  },
+  {
+   "symbol": "FIND",
+   "name": "Baselode Energy Corp.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "FIND.V",
+   "instruments": [
+    {
+     "name": "Baselode Energy Corp.",
+     "symbol": "FIND"
+    }
+   ]
+  },
+  {
+   "symbol": "LAES",
+   "name": "SEALSQ Corp - Ordinary Shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "LAES"
+  },
+  {
+   "symbol": "ENX",
+   "name": "Eaton Vance New York Municipal Bond Fund Common Shares of Beneficial Interest, $.01 par value",
+   "exchange": "NYSE MKT",
+   "yahoo_symbol": "ENX"
+  },
+  {
+   "symbol": "MIZA.P",
+   "name": "Miza III Ventures Inc.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "MIZA.P.V",
+   "instruments": [
+    {
+     "name": "Miza III Ventures Inc.",
+     "symbol": "MIZA.P"
+    }
+   ]
+  }
+ ]
+}
