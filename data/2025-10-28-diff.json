@@ -1,0 +1,72 @@
+{
+ "added": [
+  {
+   "symbol": "BLSG",
+   "name": "Leverage Shares 2X Long BLSH Daily ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "BLSG"
+  },
+  {
+   "symbol": "BMNG",
+   "name": "Leverage Shares 2X Long BMNR Daily ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "BMNG"
+  },
+  {
+   "symbol": "BYAH",
+   "name": "Park Ha Biological Technology Co., Ltd. - ordinary shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "BYAH"
+  },
+  {
+   "symbol": "GIW",
+   "name": "GigCapital8 Corp. - Class A Ordinary Shares",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "GIW"
+  },
+  {
+   "symbol": "GIWWR",
+   "name": "GigCapital8 Corp. - Rights",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "GIWWR"
+  },
+  {
+   "symbol": "MPG",
+   "name": "Leverage Shares 2X Long MP Daily ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "MPG"
+  },
+  {
+   "symbol": "MPLT",
+   "name": "MapLight Therapeutics, Inc. - Common Stock",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "MPLT"
+  },
+  {
+   "symbol": "NBIG",
+   "name": "Leverage Shares 2X Long NBIS Daily ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "NBIG"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "ADAP",
+   "name": "Adaptimmune Therapeutics plc - American Depositary Shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "ADAP"
+  },
+  {
+   "symbol": "BRW.R",
+   "name": "Saba Capital Income \u0026 Opportunities Fund Rights (expiring October 28, 2025) Rights",
+   "exchange": "NYSE",
+   "yahoo_symbol": "BRW.R"
+  },
+  {
+   "symbol": "PHH",
+   "name": "Park Ha Biological Technology Co., Ltd. - ordinary shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "PHH"
+  }
+ ]
+}
