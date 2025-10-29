@@ -1,0 +1,156 @@
+{
+ "added": [
+  {
+   "symbol": "MAK.V",
+   "name": "MAK Acquisition Corp.",
+   "exchange": "TSX",
+   "yahoo_symbol": "MAK.V.TO",
+   "instruments": [
+    {
+     "name": "MAK AcquCorp ClsA Un",
+     "symbol": "MAK.V"
+    }
+   ]
+  },
+  {
+   "symbol": "YCY",
+   "name": "AA Mission Acquisition Corp. II Class A Ordinary Shares",
+   "exchange": "NYSE",
+   "yahoo_symbol": "YCY"
+  },
+  {
+   "symbol": "YCY.W",
+   "name": "AA Mission Acquisition Corp. II Warrants, each whole warrant entitles to purchase one Class A ordinary share at a price of $11.50 per share",
+   "exchange": "NYSE",
+   "yahoo_symbol": "YCY.W"
+  },
+  {
+   "symbol": "APXTU",
+   "name": "Apex Treasury Corporation - Units",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "APXTU"
+  },
+  {
+   "symbol": "HBR",
+   "name": "Canary HBAR ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "HBR"
+  },
+  {
+   "symbol": "IMSR",
+   "name": "Terrestrial Energy Inc. - Common Stock",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "IMSR"
+  },
+  {
+   "symbol": "IMSRW",
+   "name": "Terrestrial Energy Inc. - Warrant",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "IMSRW"
+  },
+  {
+   "symbol": "LTCC",
+   "name": "Canary Litecoin ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "LTCC"
+  },
+  {
+   "symbol": "NAUT",
+   "name": "Nautilus Biotechnology, Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "NAUT"
+  },
+  {
+   "symbol": "SDST",
+   "name": "Stardust Power Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "SDST"
+  },
+  {
+   "symbol": "SDSTW",
+   "name": "Stardust Power Inc. - Warrant",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "SDSTW"
+  },
+  {
+   "symbol": "XPM",
+   "name": "Defiance Daily Target 2x Long PM ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "XPM"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "ZYN",
+   "name": "Defiance Daily Target 2x Long PM ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "ZYN"
+  },
+  {
+   "symbol": "PRT",
+   "name": "PermRock Royalty Trust Trust Units",
+   "exchange": "NYSE",
+   "yahoo_symbol": "PRT"
+  },
+  {
+   "symbol": "SDST",
+   "name": "Stardust Power Inc. - Common Stock",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "SDST"
+  },
+  {
+   "symbol": "SDSTW",
+   "name": "Stardust Power Inc. - Warrant",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "SDSTW"
+  },
+  {
+   "symbol": "AMBI",
+   "name": "Ambipar Emergency Response Class A Ordinary Shares",
+   "exchange": "NYSE MKT",
+   "yahoo_symbol": "AMBI"
+  },
+  {
+   "symbol": "AMBI.W",
+   "name": "Ambipar Emergency Response Warrants to purchase Class A ordinary shares, each whole warrant exercisable for one Class A ordinary share at an exercise price of $11.50 per share",
+   "exchange": "NYSE MKT",
+   "yahoo_symbol": "AMBI.W"
+  },
+  {
+   "symbol": "HONDU",
+   "name": "HCM II Acquisition Corp. - Unit",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "HONDU"
+  },
+  {
+   "symbol": "TRML",
+   "name": "Tourmaline Bio, Inc.  - Common Stock",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "TRML"
+  },
+  {
+   "symbol": "NAUT",
+   "name": "Nautilus Biotechnology, Inc. - Common Stock",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "NAUT"
+  },
+  {
+   "symbol": "HOND",
+   "name": "HCM II Acquisition Corp. - Class A Ordinary Shares",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "HOND"
+  },
+  {
+   "symbol": "ADVWW",
+   "name": "Advantage Solutions Inc.  - Warrant",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "ADVWW"
+  },
+  {
+   "symbol": "HONDW",
+   "name": "HCM II Acquisition Corp. - Warrant",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "HONDW"
+  }
+ ]
+}

@@ -1,0 +1,36 @@
+{
+ "added": [
+  {
+   "symbol": "JAGER",
+   "name": "Jager Hunter (JAGER)"
+  },
+  {
+   "symbol": "FGPT",
+   "name": "FurGPT (FGPT)"
+  },
+  {
+   "symbol": "PANDU",
+   "name": "Pandu Pandas (PANDU)"
+  },
+  {
+   "symbol": "RIVERPTS",
+   "name": "River Point Reward Token (RIVERPTS)"
+  },
+  {
+   "symbol": "EMPI",
+   "name": "Emperor (EMPI)"
+  },
+  {
+   "symbol": "PUMPBTCXYZ",
+   "name": "PumpBTC (PUMPBTCXYZ)"
+  },
+  {
+   "symbol": "KLIP",
+   "name": "KLIP AI (KLIP)"
+  },
+  {
+   "symbol": "HYPERLEND",
+   "name": "HyperLend (HYPERLEND)"
+  }
+ ]
+}
