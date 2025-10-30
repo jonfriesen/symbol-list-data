@@ -1,0 +1,62 @@
+{
+ "added": [
+  {
+   "symbol": "MAOMEME",
+   "name": "Mao (MAOMEME)"
+  },
+  {
+   "symbol": "NATO",
+   "name": "The Nation Token (NATO)"
+  },
+  {
+   "symbol": "OOPS",
+   "name": "OOPS (OOPS)"
+  },
+  {
+   "symbol": "WELF",
+   "name": "welf (WELF)"
+  },
+  {
+   "symbol": "BTELEGRAM",
+   "name": "BetterTelegram Token (BTELEGRAM)"
+  },
+  {
+   "symbol": "RDAC",
+   "name": "Redacted Coin (RDAC)"
+  },
+  {
+   "symbol": "AIXCB",
+   "name": "aixCB by Virtuals (AIXCB)"
+  },
+  {
+   "symbol": "FRENLY",
+   "name": "Frenly (FRENLY)"
+  },
+  {
+   "symbol": "POFU",
+   "name": "POFU (POFU)"
+  },
+  {
+   "symbol": "ZENIX",
+   "name": "ZENIX (ZENIX)"
+  },
+  {
+   "symbol": "LETSBONK",
+   "name": "Let's BONK (LETSBONK)"
+  },
+  {
+   "symbol": "MWXT",
+   "name": "MWX Token (MWXT)"
+  },
+  {
+   "symbol": "ZEDCOIN",
+   "name": "ZedCoin (ZEDCOIN)"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "BABY4",
+   "name": "Baby 4 (BABY4)"
+  }
+ ]
+}

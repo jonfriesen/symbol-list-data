@@ -1,0 +1,144 @@
+{
+ "added": [
+  {
+   "symbol": "BIVC",
+   "name": "Capstone Biblically Informed Canadian Equity Fund",
+   "exchange": "TSX",
+   "yahoo_symbol": "BIVC.TO",
+   "instruments": [
+    {
+     "name": "Capstone BibEq Fund ",
+     "symbol": "BIVC"
+    }
+   ]
+  },
+  {
+   "symbol": "BIVU",
+   "name": "Capstone Biblically Informed U.S. Equity Fund",
+   "exchange": "TSX",
+   "yahoo_symbol": "BIVU.TO",
+   "instruments": [
+    {
+     "name": "CapstoneBibUS EqFund",
+     "symbol": "BIVU"
+    }
+   ]
+  },
+  {
+   "symbol": "DRNZ",
+   "name": "REX Drone ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "DRNZ"
+  },
+  {
+   "symbol": "DYORU",
+   "name": "Insight Digital Partners II - Units",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "DYORU"
+  },
+  {
+   "symbol": "NBP",
+   "name": "NovaBridge Biosciences - American Depositary Shares",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "NBP"
+  },
+  {
+   "symbol": "SOLS",
+   "name": "Solstice Advanced Materials Inc. - Common Stock",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "SOLS"
+  },
+  {
+   "symbol": "XRPN",
+   "name": "Armada Acquisition Corp. II - Class A Ordinary Shares",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "XRPN"
+  },
+  {
+   "symbol": "XRPNU",
+   "name": "Armada Acquisition Corp. II - Units",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "XRPNU"
+  },
+  {
+   "symbol": "XRPNW",
+   "name": "Armada Acquisition Corp. II - Warrant",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "XRPNW"
+  },
+  {
+   "symbol": "OPP.R",
+   "name": "RiverNorth/DoubleLine Strategic Opportunity Fund, Inc. Rights (expiring November 18, 2025) Rights",
+   "exchange": "NYSE",
+   "yahoo_symbol": "OPP.R"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "SOLSV",
+   "name": "Solstice Advanced Materials Inc. - Common Stock When Issued",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "SOLSV"
+  },
+  {
+   "symbol": "ADN",
+   "name": "Advent Technologies Holdings, Inc. - Class A Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "ADN"
+  },
+  {
+   "symbol": "HONIV",
+   "name": "Honeywell International Inc. - Common Stock Ex Distribution When Issued",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "HONIV"
+  },
+  {
+   "symbol": "ADNWW",
+   "name": "Advent Technologies Holdings, Inc. - Warrant",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "ADNWW"
+  },
+  {
+   "symbol": "ATCO$H",
+   "name": "Atlas Corp. 7.875% Series H",
+   "exchange": "NYSE",
+   "yahoo_symbol": "ATCO$H"
+  },
+  {
+   "symbol": "AACI",
+   "name": "Armada Acquisition Corp. II - Class A Ordinary Shares",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "AACI"
+  },
+  {
+   "symbol": "AACIU",
+   "name": "Armada Acquisition Corp. II - Units",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "AACIU"
+  },
+  {
+   "symbol": "IMAB",
+   "name": "I-MAB - American Depositary Shares",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "IMAB"
+  },
+  {
+   "symbol": "CHN",
+   "name": "China Fund, Inc. (The) Common Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "CHN"
+  },
+  {
+   "symbol": "OPP.V",
+   "name": "RiverNorth/DoubleLine Strategic Opportunity Fund, Inc. Rights (expiring November 18, 2025) Rights when issued",
+   "exchange": "NYSE",
+   "yahoo_symbol": "OPP.V"
+  },
+  {
+   "symbol": "AACIW",
+   "name": "Armada Acquisition Corp. II - Warrant",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "AACIW"
+  }
+ ]
+}
