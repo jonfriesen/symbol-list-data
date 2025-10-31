@@ -1,0 +1,156 @@
+{
+ "added": [
+  {
+   "symbol": "CCC",
+   "name": "CCC Intelligent Solutions Holdings Inc. - Common Stock",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "CCC"
+  },
+  {
+   "symbol": "COOT",
+   "name": "Australian Oilseeds Holdings Limited - Ordinary Shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "COOT"
+  },
+  {
+   "symbol": "COOTW",
+   "name": "Australian Oilseeds Holdings Limited - Warrant",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "COOTW"
+  },
+  {
+   "symbol": "DNMXU",
+   "name": "Dynamix Corporation III - Unit",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "DNMXU"
+  },
+  {
+   "symbol": "ESHA",
+   "name": "ESH Acquisition Corp. - Class A Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "ESHA"
+  },
+  {
+   "symbol": "ESHAR",
+   "name": "ESH Acquisition Corp. - Right",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "ESHAR"
+  },
+  {
+   "symbol": "NAVN",
+   "name": "Navan, Inc. - Class A Common Stock",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "NAVN"
+  },
+  {
+   "symbol": "NCEL",
+   "name": "NewcelX Ltd. - Ordinary Shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "NCEL"
+  },
+  {
+   "symbol": "STI",
+   "name": "Solidion Technology, Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "STI"
+  },
+  {
+   "symbol": "BGSI",
+   "name": "Boyd Group Services Inc. Common Shares",
+   "exchange": "NYSE",
+   "yahoo_symbol": "BGSI"
+  },
+  {
+   "symbol": "VACI.U",
+   "name": "Viking Acquisition Corp. I Units, each consisting of one Class A ordinary share and one-third of one Warrant",
+   "exchange": "NYSE",
+   "yahoo_symbol": "VACI.U"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "TIXT",
+   "name": "TELUS International (Cda) Inc. Subordinate Voting Shares",
+   "exchange": "NYSE",
+   "yahoo_symbol": "TIXT"
+  },
+  {
+   "symbol": "STI",
+   "name": "Solidion Technology, Inc. - Common Stock",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "STI"
+  },
+  {
+   "symbol": "XFLT$A",
+   "name": "XAI Octagon Floating Rate \u0026 Alternative Income Trust 6.50% Series 2026 Term Preferred Shares, (Liquidation Preference $25.00)",
+   "exchange": "NYSE",
+   "yahoo_symbol": "XFLT$A"
+  },
+  {
+   "symbol": "NLSP",
+   "name": "NLS Pharmaceutics Ltd. - Ordinary Shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "NLSP"
+  },
+  {
+   "symbol": "CCCS",
+   "name": "CCC Intelligent Solutions Holdings Inc. - Common Stock",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "CCCS"
+  },
+  {
+   "symbol": "NLSPW",
+   "name": "NLS Pharmaceutics Ltd. - Warrant",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "NLSPW"
+  },
+  {
+   "symbol": "CEROW",
+   "name": "CERo Therapeutics Holdings, Inc. - Warrants",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "CEROW"
+  },
+  {
+   "symbol": "COOTW",
+   "name": "Australian Oilseeds Holdings Limited - Warrant",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "COOTW"
+  },
+  {
+   "symbol": "ESHAR",
+   "name": "ESH Acquisition Corp. - Right",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "ESHAR"
+  },
+  {
+   "symbol": "ETNB",
+   "name": "89bio, Inc. - Common Stock",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "ETNB"
+  },
+  {
+   "symbol": "CERO",
+   "name": "CERo Therapeutics Holdings, Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "CERO"
+  },
+  {
+   "symbol": "COOT",
+   "name": "Australian Oilseeds Holdings Limited - Ordinary Shares",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "COOT"
+  },
+  {
+   "symbol": "CCRD",
+   "name": "CoreCard Corporation Common Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "CCRD"
+  },
+  {
+   "symbol": "ESHA",
+   "name": "ESH Acquisition Corp. - Class A Common Stock",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "ESHA"
+  }
+ ]
+}
