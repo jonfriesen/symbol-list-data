@@ -1,0 +1,216 @@
+{
+ "added": [
+  {
+   "symbol": "AFV.P",
+   "name": "Apolo V Acquisition Corp.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "AFV.P.V",
+   "instruments": [
+    {
+     "name": "Apolo V Acquisition Corp.",
+     "symbol": "AFV.P"
+    }
+   ]
+  },
+  {
+   "symbol": "EDCU",
+   "name": "Edge Copper Corporation",
+   "exchange": "TSXV",
+   "yahoo_symbol": "EDCU.V",
+   "instruments": [
+    {
+     "name": "Edge Copper Corporation",
+     "symbol": "EDCU"
+    }
+   ]
+  },
+  {
+   "symbol": "NBAL",
+   "name": "Ninepoint Balanced+ Fund",
+   "exchange": "TSX",
+   "yahoo_symbol": "NBAL.TO",
+   "instruments": [
+    {
+     "name": "Ninepoint Cptl App F",
+     "symbol": "NBAL"
+    }
+   ]
+  },
+  {
+   "symbol": "ALPS",
+   "name": "ALPS Group Inc - Ordinary Share",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "ALPS"
+  },
+  {
+   "symbol": "BLZR",
+   "name": "Trailblazer Acquisition Corp. - Class A Ordinary Shares",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "BLZR"
+  },
+  {
+   "symbol": "BLZRW",
+   "name": "Trailblazer Acquisition Corp. - Warrant",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "BLZRW"
+  },
+  {
+   "symbol": "NOMA",
+   "name": "NOMADAR Corp. - Class A Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "NOMA"
+  },
+  {
+   "symbol": "ULTI",
+   "name": "REX IncomeMax Option Strategy ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "ULTI"
+  },
+  {
+   "symbol": "EMBJ",
+   "name": "Embraer S.A. Common Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "EMBJ"
+  },
+  {
+   "symbol": "FTW",
+   "name": "EQV Ventures Acquisition Corp. Class A Ordinary Shares",
+   "exchange": "NYSE",
+   "yahoo_symbol": "FTW"
+  },
+  {
+   "symbol": "FTW.U",
+   "name": "EQV Ventures Acquisition Corp. Units, each consisting of one Class A ordinary share and one-third of one redeemable warrant",
+   "exchange": "NYSE",
+   "yahoo_symbol": "FTW.U"
+  },
+  {
+   "symbol": "FTW.W",
+   "name": "EQV Ventures Acquisition Corp. Redeemable warrants, each whole warrant exercisable for one Class A ordinary share at an exercise price of $11.50 per share",
+   "exchange": "NYSE",
+   "yahoo_symbol": "FTW.W"
+  },
+  {
+   "symbol": "Q",
+   "name": "Qnity Electronics, Inc. Common Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "Q"
+  },
+  {
+   "symbol": "SUNC",
+   "name": "SunocoCorp LLC Common Units, representing limited liability company interests",
+   "exchange": "NYSE",
+   "yahoo_symbol": "SUNC"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "BOWNU",
+   "name": "Bowen Acquisition Corp - Unit",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "BOWNU"
+  },
+  {
+   "symbol": "PLA",
+   "name": "Plata Latina Minerals Corporation",
+   "exchange": "TSXV",
+   "yahoo_symbol": "PLA.V",
+   "instruments": [
+    {
+     "name": "Plata Latina Minerals Corporation",
+     "symbol": "PLA"
+    }
+   ]
+  },
+  {
+   "symbol": "PSFE.W",
+   "name": "Paysafe Limited Warrants, exercisable for one Common Share of Paysafe Limited at a price of $11.50 per share",
+   "exchange": "NYSE",
+   "yahoo_symbol": "PSFE.W"
+  },
+  {
+   "symbol": "DD.V",
+   "name": "DuPont de Nemours, Inc. Common Stock When-Issued",
+   "exchange": "NYSE",
+   "yahoo_symbol": "DD.V"
+  },
+  {
+   "symbol": "BOWN",
+   "name": "Bowen Acquisition Corp - Ordinary Shares",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "BOWN"
+  },
+  {
+   "symbol": "ERJ",
+   "name": "Embraer S.A. Common Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "ERJ"
+  },
+  {
+   "symbol": "HONE",
+   "name": "HarborOne Bancorp, Inc. - Common Stock",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "HONE"
+  },
+  {
+   "symbol": "EQV.W",
+   "name": "EQV Ventures Acquisition Corp. Redeemable warrants, each whole warrant exercisable for one Class A ordinary share at an exercise price of $11.50 per share",
+   "exchange": "NYSE",
+   "yahoo_symbol": "EQV.W"
+  },
+  {
+   "symbol": "AFV.P ",
+   "name": "Apolo V Acquisition Corp.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "AFV.P .V",
+   "instruments": [
+    {
+     "name": "Apolo V Acquisition Corp.",
+     "symbol": "AFV.P "
+    }
+   ]
+  },
+  {
+   "symbol": "CCIA",
+   "name": "Carlyle Credit Income Fund 8.75% Series A Preferred Shares due 2028",
+   "exchange": "NYSE",
+   "yahoo_symbol": "CCIA"
+  },
+  {
+   "symbol": "EQV",
+   "name": "EQV Ventures Acquisition Corp. Class A Ordinary Shares",
+   "exchange": "NYSE",
+   "yahoo_symbol": "EQV"
+  },
+  {
+   "symbol": "Q.V",
+   "name": "Qnity Electronics, Inc. Common Stock When-Issued",
+   "exchange": "NYSE",
+   "yahoo_symbol": "Q.V"
+  },
+  {
+   "symbol": "EQV.U",
+   "name": "EQV Ventures Acquisition Corp. Units, each consisting of one Class A ordinary share and one-third of one redeemable warrant",
+   "exchange": "NYSE",
+   "yahoo_symbol": "EQV.U"
+  },
+  {
+   "symbol": "BOWNR",
+   "name": "Bowen Acquisition Corp - Rights",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "BOWNR"
+  },
+  {
+   "symbol": "NCAP",
+   "name": "Ninepoint Capital Appreciation Fund",
+   "exchange": "TSX",
+   "yahoo_symbol": "NCAP.TO",
+   "instruments": [
+    {
+     "name": "Ninepoint Cptl App F",
+     "symbol": "NCAP"
+    }
+   ]
+  }
+ ]
+}
