@@ -1,0 +1,86 @@
+{
+ "added": [
+  {
+   "symbol": "MYSTERY",
+   "name": "Mystery (MYSTERY)"
+  },
+  {
+   "symbol": "SPKY",
+   "name": "GhostyCash (SPKY)"
+  },
+  {
+   "symbol": "SUNCAT",
+   "name": "Suncat (SUNCAT)"
+  },
+  {
+   "symbol": "TRUMPIUS",
+   "name": "Trumpius Maximus (TRUMPIUS)"
+  },
+  {
+   "symbol": "QUAIN",
+   "name": "QUAIN (QUAIN)"
+  },
+  {
+   "symbol": "ALVA",
+   "name": "Alvara Protocol (ALVA)"
+  },
+  {
+   "symbol": "STABUL",
+   "name": "Stabull Finance (STABUL)"
+  },
+  {
+   "symbol": "H1",
+   "name": "Haven1 (H1)"
+  },
+  {
+   "symbol": "SARAH",
+   "name": "Sarah (SARAH)"
+  },
+  {
+   "symbol": "SPLD",
+   "name": "Splendor (SPLD)"
+  },
+  {
+   "symbol": "TOILET",
+   "name": "Toilet Dust (TOILET)"
+  },
+  {
+   "symbol": "BABY4",
+   "name": "Baby 4 (BABY4)"
+  },
+  {
+   "symbol": "TREEINCAT",
+   "name": "Tree stuck in cat (TREEINCAT)"
+  },
+  {
+   "symbol": "STREAMER",
+   "name": "StreamerCoin (STREAMER)"
+  },
+  {
+   "symbol": "LINKCHAIN",
+   "name": "LINK (LINKCHAIN)"
+  },
+  {
+   "symbol": "ETF500",
+   "name": "Elon Trump Fart (ETF500)"
+  },
+  {
+   "symbol": "AJC",
+   "name": "AI Judge Companion (AJC)"
+  },
+  {
+   "symbol": "NB",
+   "name": "Nubila Network (NB)"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "ZEDCOIN",
+   "name": "ZedCoin (ZEDCOIN)"
+  },
+  {
+   "symbol": "MAOMEME",
+   "name": "Mao (MAOMEME)"
+  }
+ ]
+}

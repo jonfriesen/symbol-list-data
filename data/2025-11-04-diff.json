@@ -1,0 +1,112 @@
+{
+ "added": [
+  {
+   "symbol": "ALCC.P",
+   "name": "A-Labs Capital IV Corp.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "ALCC.P.V",
+   "instruments": [
+    {
+     "name": "A-Labs Capital IV Corp.",
+     "symbol": "ALCC.P"
+    }
+   ]
+  },
+  {
+   "symbol": "SCMI",
+   "name": "Venerable Ventures Ltd.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "SCMI.V",
+   "instruments": [
+    {
+     "name": "Venerable Ventures Ltd.",
+     "symbol": "SCMI"
+    }
+   ]
+  },
+  {
+   "symbol": "TERP",
+   "name": "TRU.X Exogenous Risk Pool",
+   "exchange": "TSX",
+   "yahoo_symbol": "TERP.TO",
+   "instruments": [
+    {
+     "name": "TRU.X Exog Risk Pool",
+     "symbol": "TERP"
+    }
+   ]
+  },
+  {
+   "symbol": "OTGA",
+   "name": "OTG Acquisition Corp. I - Class A Ordinary Share",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "OTGA"
+  },
+  {
+   "symbol": "OTGAW",
+   "name": "OTG Acquisition Corp. I - Warrants",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "OTGAW"
+  },
+  {
+   "symbol": "BETA",
+   "name": "Beta Technologies, Inc. Class A Common Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "BETA"
+  },
+  {
+   "symbol": "CCID",
+   "name": "Carlyle Credit Income Fund 7.375% Series D Term Preferred Shares due 2028",
+   "exchange": "NYSE",
+   "yahoo_symbol": "CCID"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "RCG",
+   "name": "RF Capital Group Inc.",
+   "exchange": "TSX",
+   "yahoo_symbol": "RCG.TO",
+   "instruments": [
+    {
+     "name": "RF Capital Group Inc",
+     "symbol": "RCG"
+    },
+    {
+     "name": "RF Cap Grp Ser B Pr",
+     "symbol": "RCG.PR.B"
+    }
+   ]
+  },
+  {
+   "symbol": "TIXT",
+   "name": "TELUS International (Cda) Inc.",
+   "exchange": "TSX",
+   "yahoo_symbol": "TIXT.TO",
+   "instruments": [
+    {
+     "name": "TELUS Int'l (Cda) SV",
+     "symbol": "TIXT"
+    }
+   ]
+  },
+  {
+   "symbol": "CFSB",
+   "name": "CFSB Bancorp, Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "CFSB"
+  },
+  {
+   "symbol": "BNKKW",
+   "name": "Bonk, Inc. - Warrant",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "BNKKW"
+  },
+  {
+   "symbol": "GBLI",
+   "name": "Global Indemnity Group, LLC Class A Common Stock (DE)",
+   "exchange": "NYSE",
+   "yahoo_symbol": "GBLI"
+  }
+ ]
+}
