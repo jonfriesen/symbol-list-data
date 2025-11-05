@@ -1,0 +1,94 @@
+{
+ "added": [
+  {
+   "symbol": "INI",
+   "name": "InitVerse (INI)"
+  },
+  {
+   "symbol": "FTMX",
+   "name": "FUCK THE MATRIX (FTMX)"
+  },
+  {
+   "symbol": "QUILL",
+   "name": "InkFinance (QUILL)"
+  },
+  {
+   "symbol": "AGT",
+   "name": "Alaya Governance Token (AGT)"
+  },
+  {
+   "symbol": "SFY",
+   "name": "Stakefy (SFY)"
+  },
+  {
+   "symbol": "MRLIGHTSPEED",
+   "name": "Mr. Lightspeed Creator Coin (MRLIGHTSPEED)"
+  },
+  {
+   "symbol": "AVICI",
+   "name": "Avici (AVICI)"
+  },
+  {
+   "symbol": "BIGOD",
+   "name": "BinGold Token (BIGOD)"
+  },
+  {
+   "symbol": "HAVEN",
+   "name": "Haven (HAVEN)"
+  },
+  {
+   "symbol": "RUNWAGO",
+   "name": "Runwago (RUNWAGO)"
+  },
+  {
+   "symbol": "KITEHAI",
+   "name": "Kite (KITEHAI)"
+  },
+  {
+   "symbol": "AOE",
+   "name": "Agentic Open Economy (AOE)"
+  },
+  {
+   "symbol": "LETSGETHAI",
+   "name": "Let's Get HAI (LETSGETHAI)"
+  },
+  {
+   "symbol": "BCE",
+   "name": "bitcastle Token (BCE)"
+  },
+  {
+   "symbol": "BASEDB",
+   "name": "Based Bonk (BASEDB)"
+  },
+  {
+   "symbol": "ANOA",
+   "name": "ANOA (ANOA)"
+  },
+  {
+   "symbol": "ZEDCOIN",
+   "name": "ZedCoin (ZEDCOIN)"
+  },
+  {
+   "symbol": "HAIO",
+   "name": "HAiO (HAIO)"
+  },
+  {
+   "symbol": "DRESS",
+   "name": "Dress (DRESS)"
+  },
+  {
+   "symbol": "BRL1",
+   "name": "BRL1 (BRL1)"
+  },
+  {
+   "symbol": "MAOMEME",
+   "name": "Mao (MAOMEME)"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "BABY4",
+   "name": "Baby 4 (BABY4)"
+  }
+ ]
+}

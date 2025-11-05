@@ -1,0 +1,190 @@
+{
+ "added": [
+  {
+   "symbol": "GGAU",
+   "name": "Galactic Gold Corp.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "GGAU.V",
+   "instruments": [
+    {
+     "name": "Galactic Gold Corp.",
+     "symbol": "GGAU"
+    }
+   ]
+  },
+  {
+   "symbol": "MRZL",
+   "name": "Mont Royal Resources Limited.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "MRZL.V",
+   "instruments": [
+    {
+     "name": "Mont Royal Resources Limited.",
+     "symbol": "MRZL"
+    }
+   ]
+  },
+  {
+   "symbol": "CEPV",
+   "name": "Cantor Equity Partners V, Inc. - Class A Ordinary Shares",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "CEPV"
+  },
+  {
+   "symbol": "CMBO",
+   "name": "Wayfinder Dynamic U.S. Interest Rate ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "CMBO"
+  },
+  {
+   "symbol": "GBLI",
+   "name": "Global Indemnity Group, LLC - Class A Common Shares",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "GBLI"
+  },
+  {
+   "symbol": "IOYY",
+   "name": "GraniteShares YieldBOOST IONQ ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "IOYY"
+  },
+  {
+   "symbol": "MAAY",
+   "name": "GraniteShares YieldBOOST MARA ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "MAAY"
+  },
+  {
+   "symbol": "SCLS",
+   "name": "Stoneport Advisors Commodity Long Short ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "SCLS"
+  },
+  {
+   "symbol": "WSTNU",
+   "name": "Westin Acquisition Corp - Units",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "WSTNU"
+  },
+  {
+   "symbol": "CHE.DB.H",
+   "name": "Chemtrade Logistics Income Fund",
+   "exchange": "TSX",
+   "yahoo_symbol": "CHE.DB.H.TO",
+   "instruments": [
+    {
+     "name": "Chemtrade Lgst 7% Db",
+     "symbol": "CHE.DB.H"
+    },
+    {
+     "name": "Chemtrade LgstIc 7Db",
+     "symbol": "CHE.DB.I"
+    },
+    {
+     "name": "Chemtrade Logistc Un",
+     "symbol": "CHE.UN"
+    }
+   ]
+  },
+  {
+   "symbol": "PRT",
+   "name": "PermRock Royalty Trust Units of Beneficial Interest",
+   "exchange": "NYSE",
+   "yahoo_symbol": "PRT"
+  },
+  {
+   "symbol": "XZO",
+   "name": "Exzeo Group, Inc. Common Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "XZO"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "SUNC",
+   "name": "SunocoCorp LLC Common Units, representing limited liability company interests",
+   "exchange": "NYSE",
+   "yahoo_symbol": "SUNC"
+  },
+  {
+   "symbol": "PKI",
+   "name": "Parkland Corporation",
+   "exchange": "TSX",
+   "yahoo_symbol": "PKI.TO",
+   "instruments": [
+    {
+     "name": "Parkland Corp.",
+     "symbol": "PKI"
+    }
+   ]
+  },
+  {
+   "symbol": "LOG.P",
+   "name": "Logica Ventures Corp.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "LOG.P.V",
+   "instruments": [
+    {
+     "name": "Logica Ventures Corp.",
+     "symbol": "LOG.P"
+    }
+   ]
+  },
+  {
+   "symbol": "AND",
+   "name": "Andlauer Healthcare Group Inc.",
+   "exchange": "TSX",
+   "yahoo_symbol": "AND.TO",
+   "instruments": [
+    {
+     "name": "AndlauerHlthcr GrpSV",
+     "symbol": "AND"
+    }
+   ]
+  },
+  {
+   "symbol": "CHE.DB.G",
+   "name": "Chemtrade Logistics Income Fund",
+   "exchange": "TSX",
+   "yahoo_symbol": "CHE.DB.G.TO",
+   "instruments": [
+    {
+     "name": "Chemtrade Lgst6.25Db",
+     "symbol": "CHE.DB.G"
+    },
+    {
+     "name": "Chemtrade Lgst 7% Db",
+     "symbol": "CHE.DB.H"
+    },
+    {
+     "name": "Chemtrade Logistc Un",
+     "symbol": "CHE.UN"
+    }
+   ]
+  },
+  {
+   "symbol": "CCE",
+   "name": "Commerce Resources Corp.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "CCE.V",
+   "instruments": [
+    {
+     "name": "Commerce Resources Corp.",
+     "symbol": "CCE"
+    }
+   ]
+  },
+  {
+   "symbol": "YAK",
+   "name": "Mongolia Growth Group Ltd.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "YAK.V",
+   "instruments": [
+    {
+     "name": "Mongolia Growth Group Ltd.",
+     "symbol": "YAK"
+    }
+   ]
+  }
+ ]
+}
