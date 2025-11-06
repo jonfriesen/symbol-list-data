@@ -1,0 +1,138 @@
+{
+ "added": [
+  {
+   "symbol": "CBLN",
+   "name": "CIBC Balanced ETF Portfolio",
+   "exchange": "TSX",
+   "yahoo_symbol": "CBLN.TO",
+   "instruments": [
+    {
+     "name": "CIBC BalETF Poli ETF",
+     "symbol": "CBLN"
+    }
+   ]
+  },
+  {
+   "symbol": "CGRW",
+   "name": "CIBC Balanced Growth ETF Portfolio",
+   "exchange": "TSX",
+   "yahoo_symbol": "CGRW.TO",
+   "instruments": [
+    {
+     "name": "CIBC Blncd Grw E Prt",
+     "symbol": "CGRW"
+    }
+   ]
+  },
+  {
+   "symbol": "CCON",
+   "name": "CIBC Conservative ETF Portfolio",
+   "exchange": "TSX",
+   "yahoo_symbol": "CCON.TO",
+   "instruments": [
+    {
+     "name": "CIBC Cons etf port U",
+     "symbol": "CCON"
+    }
+   ]
+  },
+  {
+   "symbol": "ELWT",
+   "name": "Elauwit Connection, Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "ELWT"
+  },
+  {
+   "symbol": "ENHU",
+   "name": "iShares Enhanced Large Cap Core Active ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "ENHU"
+  },
+  {
+   "symbol": "GEMG",
+   "name": "Leverage Shares 2X Long GEMI Daily ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "GEMG"
+  },
+  {
+   "symbol": "LULG",
+   "name": "Leverage Shares 2X Long LULU Daily ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "LULG"
+  },
+  {
+   "symbol": "MEHA",
+   "name": "Functional Brands, Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "MEHA"
+  },
+  {
+   "symbol": "OSCG",
+   "name": "Leverage Shares 2X Long OSCR Daily ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "OSCG"
+  },
+  {
+   "symbol": "AERO",
+   "name": "Grupo Aeromexico, S.A.B. de C.V. American Depositary Shares (each representing ten (10) Common Shares)",
+   "exchange": "NYSE",
+   "yahoo_symbol": "AERO"
+  },
+  {
+   "symbol": "EVMN",
+   "name": "Evommune, Inc. Common Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "EVMN"
+  },
+  {
+   "symbol": "MTB$K",
+   "name": "M\u0026T Bank Corporation Depositary Shares each representing a 1/400th interest in a share of Perpetual 6.350% Non-Cumulative Preferred Stock, Series K",
+   "exchange": "NYSE",
+   "yahoo_symbol": "MTB$K"
+  },
+  {
+   "symbol": "SUNC",
+   "name": "SunocoCorp LLC Common Units, representing limited liability company interests",
+   "exchange": "NYSE",
+   "yahoo_symbol": "SUNC"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "HILL",
+   "name": "Hill Incorporated",
+   "exchange": "TSXV",
+   "yahoo_symbol": "HILL.V",
+   "instruments": [
+    {
+     "name": "Hill Incorporated",
+     "symbol": "HILL"
+    }
+   ]
+  },
+  {
+   "symbol": "IZ",
+   "name": "International Zeolite Corp.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "IZ.V",
+   "instruments": [
+    {
+     "name": "International Zeolite Corp.",
+     "symbol": "IZ"
+    }
+   ]
+  },
+  {
+   "symbol": "MRC",
+   "name": "MRC Global Inc. Common Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "MRC"
+  },
+  {
+   "symbol": "ETHZW",
+   "name": "ETHZilla Corporation - Warrant",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "ETHZW"
+  }
+ ]
+}
