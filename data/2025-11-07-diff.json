@@ -1,0 +1,42 @@
+{
+ "added": [
+  {
+   "symbol": "BLLN",
+   "name": "BillionToOne, Inc. - Class A common stock",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "BLLN"
+  },
+  {
+   "symbol": "DFDVW",
+   "name": "DeFi Development Corp. - Warrant",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "DFDVW"
+  },
+  {
+   "symbol": "LKSP",
+   "name": "Lake Superior Acquisition Corp. - Class A Ordinary Shares",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "LKSP"
+  },
+  {
+   "symbol": "LKSPR",
+   "name": "Lake Superior Acquisition Corp. - Rights",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "LKSPR"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "DHAIW",
+   "name": "DIH Holding US, Inc. - Warrant",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "DHAIW"
+  },
+  {
+   "symbol": "DHAI",
+   "name": "DIH Holding US, Inc. - Class A Common Stock",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "DHAI"
+  }
+ ]
+}
