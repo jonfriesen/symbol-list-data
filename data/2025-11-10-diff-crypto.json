@@ -1,0 +1,28 @@
+{
+ "added": [
+  {
+   "symbol": "ARIAIP",
+   "name": "Aria (ARIAIP)"
+  },
+  {
+   "symbol": "GBCK",
+   "name": "GoldBrick (GBCK)"
+  },
+  {
+   "symbol": "MEMUSIC",
+   "name": "MeMusic (MEMUSIC)"
+  },
+  {
+   "symbol": "RCHV",
+   "name": "Archivas (RCHV)"
+  },
+  {
+   "symbol": "CZBOOK",
+   "name": "CZ BOOK (CZBOOK)"
+  },
+  {
+   "symbol": "OPENX",
+   "name": "OpenxAI (OPENX)"
+  }
+ ]
+}

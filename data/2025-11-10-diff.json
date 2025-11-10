@@ -1,0 +1,84 @@
+{
+ "added": [
+  {
+   "symbol": "SHPD",
+   "name": "SavvyShort (-2X) Shopify ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "SHPD.TO",
+   "instruments": [
+    {
+     "name": "Savvy Shrt -2x Shp E",
+     "symbol": "SHPD"
+    }
+   ]
+  },
+  {
+   "symbol": "CRACU",
+   "name": "Crown Reserve Acquisition Corp. I - Unit",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "CRACU"
+  },
+  {
+   "symbol": "TDWDU",
+   "name": "Tailwind 2.0 Acquisition Corp. - Unit",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "TDWDU"
+  },
+  {
+   "symbol": "XWIN",
+   "name": "XMAX, Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "XWIN"
+  },
+  {
+   "symbol": "AXIA",
+   "name": "AXIA Energia American Depositary Shares (Each representing one Common Share)",
+   "exchange": "NYSE",
+   "yahoo_symbol": "AXIA"
+  },
+  {
+   "symbol": "AXIA$",
+   "name": "AXIA Energia American Depositary Shares (Each representing one Preferred Share)",
+   "exchange": "NYSE",
+   "yahoo_symbol": "AXIA$"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "NVFY",
+   "name": "Nova Lifestyle, Inc - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "NVFY"
+  },
+  {
+   "symbol": "TEAF",
+   "name": "Tortoise Sustainable and Social Impact Term Fund Common shares of beneficial interest",
+   "exchange": "NYSE",
+   "yahoo_symbol": "TEAF"
+  },
+  {
+   "symbol": "EBR",
+   "name": "Centrais Electricas Brasileiras S A American Depositary Shares (Each representing one Common Share)",
+   "exchange": "NYSE",
+   "yahoo_symbol": "EBR"
+  },
+  {
+   "symbol": "EBR.B",
+   "name": "Centrais Electricas Brasileiras S.A. Sponsored ADS representing Pfd Shares",
+   "exchange": "NYSE",
+   "yahoo_symbol": "EBR.B"
+  },
+  {
+   "symbol": "STNG",
+   "name": "Stinger Resources Inc.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "STNG.V",
+   "instruments": [
+    {
+     "name": "Stinger Resources Inc.",
+     "symbol": "STNG"
+    }
+   ]
+  }
+ ]
+}
