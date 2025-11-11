@@ -1,0 +1,66 @@
+{
+ "added": [
+  {
+   "symbol": "SUM",
+   "name": "Summit Royalties Ltd.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "SUM.V",
+   "instruments": [
+    {
+     "name": "Summit Royalties Ltd.",
+     "symbol": "SUM"
+    }
+   ]
+  },
+  {
+   "symbol": "HERE",
+   "name": "Here Group Limited - American Depositary Shares",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "HERE"
+  },
+  {
+   "symbol": "LATA",
+   "name": "Galata Acquisition Corp. II - Class A Ordinary Shares",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "LATA"
+  },
+  {
+   "symbol": "LATAW",
+   "name": "Galata Acquisition Corp. II - Warrant",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "LATAW"
+  },
+  {
+   "symbol": "SATA",
+   "name": "Strive, Inc. - Variable Rate Series A Perpetual Preferred Stock",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "SATA"
+  },
+  {
+   "symbol": "SEVNR",
+   "name": "Seven Hills Realty Trust  - Right",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "SEVNR"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "GURE",
+   "name": "Gulf Resources, Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "GURE"
+  },
+  {
+   "symbol": "QSG",
+   "name": "QuantaSing Group Limited - American Depositary Shares",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "QSG"
+  },
+  {
+   "symbol": "FI",
+   "name": "Fiserv, Inc. Common Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "FI"
+  }
+ ]
+}

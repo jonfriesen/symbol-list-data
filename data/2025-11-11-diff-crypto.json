@@ -1,0 +1,70 @@
+{
+ "added": [
+  {
+   "symbol": "YNG",
+   "name": "Young (YNG)"
+  },
+  {
+   "symbol": "ZUNO",
+   "name": "OFFICIAL ZUNO (ZUNO)"
+  },
+  {
+   "symbol": "BABY4",
+   "name": "Baby 4 (BABY4)"
+  },
+  {
+   "symbol": "C1USD",
+   "name": "Currency One USD (C1USD)"
+  },
+  {
+   "symbol": "PHNIX",
+   "name": "Phoenix (PHNIX)"
+  },
+  {
+   "symbol": "VULT",
+   "name": "Vultisig Token (VULT)"
+  },
+  {
+   "symbol": "FBD",
+   "name": "Fiboard (FBD)"
+  },
+  {
+   "symbol": "GATEUSD",
+   "name": "GUSD (GATEUSD)"
+  },
+  {
+   "symbol": "67",
+   "name": "The Official 67 Coin (67)"
+  },
+  {
+   "symbol": "EARTHM",
+   "name": "Earthmeta (EARTHM)"
+  },
+  {
+   "symbol": "CBNB",
+   "name": "Community of BNB (CBNB)"
+  },
+  {
+   "symbol": "MNTX",
+   "name": "Minutes Network Token (MNTX)"
+  },
+  {
+   "symbol": "JAPANCONTENTT",
+   "name": "Japan Content Token (JAPANCONTENTT)"
+  },
+  {
+   "symbol": "IZKY",
+   "name": "IZAKAYA (IZKY)"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "MAOMEME",
+   "name": "Mao (MAOMEME)"
+  },
+  {
+   "symbol": "ZEDCOIN",
+   "name": "ZedCoin (ZEDCOIN)"
+  }
+ ]
+}
