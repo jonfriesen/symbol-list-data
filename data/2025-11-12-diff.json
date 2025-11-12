@@ -1,0 +1,64 @@
+{
+ "added": [
+  {
+   "symbol": "ATLH.P",
+   "name": "Atlantic Horizon Capital Corp.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "ATLH.P.V",
+   "instruments": [
+    {
+     "name": "Atlantic Horizon Capital Corp.",
+     "symbol": "ATLH.P"
+    }
+   ]
+  },
+  {
+   "symbol": "BAT",
+   "name": "Batero Gold Corp.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "BAT.V",
+   "instruments": [
+    {
+     "name": "Batero Gold Corp",
+     "symbol": "BAT"
+    }
+   ]
+  },
+  {
+   "symbol": "CHEC",
+   "name": "Chenghe Acquisition III Co. - Class A Ordinary Shares",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "CHEC"
+  },
+  {
+   "symbol": "CHECW",
+   "name": "Chenghe Acquisition III Co. - Warrants",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "CHECW"
+  },
+  {
+   "symbol": "EVOXU",
+   "name": "Evolution Global Acquisition Corp - Units",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "EVOXU"
+  },
+  {
+   "symbol": "FISV",
+   "name": "Fiserv, Inc. - Common Stock",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "FISV"
+  },
+  {
+   "symbol": "PTN",
+   "name": "Palatin Technologies, Inc. Common Stock",
+   "exchange": "NYSE MKT",
+   "yahoo_symbol": "PTN"
+  },
+  {
+   "symbol": "SOMN",
+   "name": "Southern Company (The) 2025 Series A Corporate Units",
+   "exchange": "NYSE",
+   "yahoo_symbol": "SOMN"
+  }
+ ]
+}

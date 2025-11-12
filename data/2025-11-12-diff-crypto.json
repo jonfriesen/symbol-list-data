@@ -1,0 +1,66 @@
+{
+ "added": [
+  {
+   "symbol": "KIMBA",
+   "name": "The White Lion (KIMBA)"
+  },
+  {
+   "symbol": "BABYXRP",
+   "name": "Baby Ripple (BABYXRP)"
+  },
+  {
+   "symbol": "ARNOLD",
+   "name": "ARNOLD (ARNOLD)"
+  },
+  {
+   "symbol": "ADIX",
+   "name": "Adix Token (ADIX)"
+  },
+  {
+   "symbol": "GOODBOY",
+   "name": "GoodBoy (GOODBOY)"
+  },
+  {
+   "symbol": "MAOMEME",
+   "name": "Mao (MAOMEME)"
+  },
+  {
+   "symbol": "8LNDS",
+   "name": "8Lends (8LNDS)"
+  },
+  {
+   "symbol": "SQRL",
+   "name": "Squirrel Swap (SQRL)"
+  },
+  {
+   "symbol": "ALLO",
+   "name": "Allora (ALLO)"
+  },
+  {
+   "symbol": "MATTLE",
+   "name": "MattleFun (MATTLE)"
+  },
+  {
+   "symbol": "PROJECT89",
+   "name": "Project 89 (PROJECT89)"
+  },
+  {
+   "symbol": "HOTDOGE",
+   "name": "Hot Doge (HOTDOGE)"
+  },
+  {
+   "symbol": "ZEDCOIN",
+   "name": "ZedCoin (ZEDCOIN)"
+  },
+  {
+   "symbol": "RAIIN",
+   "name": "Raiin (RAIIN)"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "BABY4",
+   "name": "Baby 4 (BABY4)"
+  }
+ ]
+}
