@@ -1,0 +1,120 @@
+{
+ "added": [
+  {
+   "symbol": "BOIL",
+   "name": "Beyond Oil Ltd.",
+   "exchange": "TSX",
+   "yahoo_symbol": "BOIL.TO",
+   "instruments": [
+    {
+     "name": "Beyond Oil Ltd ",
+     "symbol": "BOIL"
+    }
+   ]
+  },
+  {
+   "symbol": "RKLC",
+   "name": "Rocklinc Principled Equity ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "RKLC.TO",
+   "instruments": [
+    {
+     "name": "Rcklnc Prncpl Eq ETF",
+     "symbol": "RKLC"
+    }
+   ]
+  },
+  {
+   "symbol": "ALUB.U",
+   "name": "Alussa Energy Acquisition Corp. II Units, each consisting of one Class A ordinary share and one-third of one redeemable warrant",
+   "exchange": "NYSE",
+   "yahoo_symbol": "ALUB.U"
+  },
+  {
+   "symbol": "FSSL",
+   "name": "FS Specialty Lending Fund Common Shares of Beneficial Interest",
+   "exchange": "NYSE",
+   "yahoo_symbol": "FSSL"
+  },
+  {
+   "symbol": "OTH",
+   "name": "Off The Hook YS Inc. Common Stock",
+   "exchange": "NYSE MKT",
+   "yahoo_symbol": "OTH"
+  },
+  {
+   "symbol": "POAS",
+   "name": "Phaos Technology Holdings (Cayman) Limited Class A Ordinary Shares",
+   "exchange": "NYSE MKT",
+   "yahoo_symbol": "POAS"
+  },
+  {
+   "symbol": "AVX",
+   "name": "Avax One Technology Ltd. - Common Shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "AVX"
+  },
+  {
+   "symbol": "BPACU",
+   "name": "Blueport Acquisition Ltd - Units",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "BPACU"
+  },
+  {
+   "symbol": "CD",
+   "name": "Chaince Digital Holdings Inc. - American Ordinary Shares",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "CD"
+  },
+  {
+   "symbol": "CYPH",
+   "name": "Cypherpunk Technologies Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "CYPH"
+  },
+  {
+   "symbol": "NOVTU",
+   "name": "Novanta Inc. - Tangible Equity Units",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "NOVTU"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "LPTX",
+   "name": "Leap Therapeutics, Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "LPTX"
+  },
+  {
+   "symbol": "MFH",
+   "name": "Mercurity Fintech Holding Inc. - American Ordinary Shares",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "MFH"
+  },
+  {
+   "symbol": "EMX",
+   "name": "EMX Royalty Corporation Common Shares (Canada)",
+   "exchange": "NYSE MKT",
+   "yahoo_symbol": "EMX"
+  },
+  {
+   "symbol": "LNW",
+   "name": "Light \u0026 Wonder, Inc.  - Common Stock",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "LNW"
+  },
+  {
+   "symbol": "AGRI",
+   "name": "AgriFORCE  Growing Systems Ltd. - Common Shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "AGRI"
+  },
+  {
+   "symbol": "GTI",
+   "name": "Graphjet Technology - Class A Ordinary Shares",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "GTI"
+  }
+ ]
+}
