@@ -1,0 +1,66 @@
+{
+ "added": [
+  {
+   "symbol": "CABR",
+   "name": "Caring Brands, Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "CABR"
+  },
+  {
+   "symbol": "XRPC",
+   "name": "Canary XRP ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "XRPC"
+  },
+  {
+   "symbol": "GFR.V",
+   "name": "Greenfire Resources Ltd. Rights (expiring December 16, 2025) Rights when issued",
+   "exchange": "NYSE",
+   "yahoo_symbol": "GFR.V"
+  },
+  {
+   "symbol": "SRV.V",
+   "name": "NXG Cushing Midstream Energy Fund Rights (expiring December 11, 2025) Rights when issued",
+   "exchange": "NYSE",
+   "yahoo_symbol": "SRV.V"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "FOSLL",
+   "name": "Fossil Group, Inc. - 7% Senior Notes due 2026",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "FOSLL"
+  },
+  {
+   "symbol": "EMX",
+   "name": "EMX Royalty Corporation",
+   "exchange": "TSXV",
+   "yahoo_symbol": "EMX.V",
+   "instruments": [
+    {
+     "name": "EMX Royalty Corporation",
+     "symbol": "EMX"
+    }
+   ]
+  },
+  {
+   "symbol": "MAE",
+   "name": "Maritime Resources Corp.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "MAE.V",
+   "instruments": [
+    {
+     "name": "Maritime Resources Corp.",
+     "symbol": "MAE"
+    }
+   ]
+  },
+  {
+   "symbol": "MTSR",
+   "name": "Metsera, Inc. - Common Stock",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "MTSR"
+  }
+ ]
+}
