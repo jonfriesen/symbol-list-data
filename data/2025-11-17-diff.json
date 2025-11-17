@@ -1,0 +1,228 @@
+{
+ "added": [
+  {
+   "symbol": "SERV",
+   "name": "Elevate Service Group Inc.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "SERV.V",
+   "instruments": [
+    {
+     "name": "Elevate Service Group Inc.",
+     "symbol": "SERV"
+    }
+   ]
+  },
+  {
+   "symbol": "OILU",
+   "name": "SavvyLong Geared Crude Oil ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "OILU.TO",
+   "instruments": [
+    {
+     "name": "SavvyLong GeCrOi ETF",
+     "symbol": "OILU"
+    }
+   ]
+  },
+  {
+   "symbol": "GASU",
+   "name": "SavvyLong Geared Natural Gas ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "GASU.TO",
+   "instruments": [
+    {
+     "name": "SavvyLong GeNaGa ETF",
+     "symbol": "GASU"
+    }
+   ]
+  },
+  {
+   "symbol": "OILD",
+   "name": "SavvyShort Geared Crude Oil ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "OILD.TO",
+   "instruments": [
+    {
+     "name": "SavvyShort GeCrO ETF",
+     "symbol": "OILD"
+    }
+   ]
+  },
+  {
+   "symbol": "GASD",
+   "name": "SavvyShort Geared Natural Gas ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "GASD.TO",
+   "instruments": [
+    {
+     "name": "SavvyShort GeNaG ETF",
+     "symbol": "GASD"
+    }
+   ]
+  },
+  {
+   "symbol": "FWDI",
+   "name": "Forward Industries, Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "FWDI"
+  },
+  {
+   "symbol": "SVRN",
+   "name": "OceanPal Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "SVRN"
+  },
+  {
+   "symbol": "WSHP",
+   "name": "WeShop Holdings Limited - Class A Ordinary Shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "WSHP"
+  },
+  {
+   "symbol": "FCRS",
+   "name": "FutureCrest Acquisition Corp. Class A Ordinary Shares",
+   "exchange": "NYSE",
+   "yahoo_symbol": "FCRS"
+  },
+  {
+   "symbol": "FCRS.W",
+   "name": "FutureCrest Acquisition Corp. Redeemable warrants, each whole warrant exercisable for one Class A ordinary share at an exercise price of $11.50",
+   "exchange": "NYSE",
+   "yahoo_symbol": "FCRS.W"
+  },
+  {
+   "symbol": "PINE$A",
+   "name": "Alpine Income Property Trust, Inc. 8.00% Series A Cumulative Redeemable Preferred Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "PINE$A"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "CLDN",
+   "name": "SavvyShort Geared Crude Oil ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "CLDN.TO",
+   "instruments": [
+    {
+     "name": "SavvyShort GeCrO ETF",
+     "symbol": "CLDN"
+    }
+   ]
+  },
+  {
+   "symbol": "GPV",
+   "name": "GreenPower Motor Company Inc.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "GPV.V",
+   "instruments": [
+    {
+     "name": "GreenPower Motor Company Inc.",
+     "symbol": "GPV"
+    }
+   ]
+  },
+  {
+   "symbol": "GXU",
+   "name": "GoviEx Uranium Inc.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "GXU.V",
+   "instruments": [
+    {
+     "name": "Goviex Uranium Inc.",
+     "symbol": "GXU"
+    }
+   ]
+  },
+  {
+   "symbol": "OP",
+   "name": "OceanPal Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "OP"
+  },
+  {
+   "symbol": "MEG",
+   "name": "MEG Energy Corp.",
+   "exchange": "TSX",
+   "yahoo_symbol": "MEG.TO",
+   "instruments": [
+    {
+     "name": "MEG Energy Corp.",
+     "symbol": "MEG"
+    }
+   ]
+  },
+  {
+   "symbol": "CLUP",
+   "name": "SavvyLong Geared Crude Oil ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "CLUP.TO",
+   "instruments": [
+    {
+     "name": "SavvyLong GeCrOi ETF",
+     "symbol": "CLUP"
+    }
+   ]
+  },
+  {
+   "symbol": "SENS",
+   "name": "Senseonics Holdings, Inc. Common Stock",
+   "exchange": "NYSE MKT",
+   "yahoo_symbol": "SENS"
+  },
+  {
+   "symbol": "AIMF.P",
+   "name": "AIM6 Ventures Inc.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "AIMF.P.V",
+   "instruments": [
+    {
+     "name": "AIM6 Ventures Inc.",
+     "symbol": "AIMF.P"
+    }
+   ]
+  },
+  {
+   "symbol": "NGUP",
+   "name": "SavvyLong Geared Natural Gas ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "NGUP.TO",
+   "instruments": [
+    {
+     "name": "SavvyLong GeNaGa ETF",
+     "symbol": "NGUP"
+    }
+   ]
+  },
+  {
+   "symbol": "NGDN",
+   "name": "SavvyShort Geared Natural Gas ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "NGDN.TO",
+   "instruments": [
+    {
+     "name": "SavvyShort GeNaG ETF",
+     "symbol": "NGDN"
+    }
+   ]
+  },
+  {
+   "symbol": "FORD",
+   "name": "Forward Industries, Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "FORD"
+  },
+  {
+   "symbol": "PVBC",
+   "name": "Provident Bancorp, Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "PVBC"
+  },
+  {
+   "symbol": "WSBCP",
+   "name": "WesBanco, Inc. - Depositary Shares, Each Representing a 1/40th Interest in a Share of 6.75% Fixed-Rate Reset Non-Cumulative Perpetual Preferred Stock, Series A",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "WSBCP"
+  }
+ ]
+}
