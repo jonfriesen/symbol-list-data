@@ -1,0 +1,192 @@
+{
+ "added": [
+  {
+   "symbol": "AMCO",
+   "name": "Americore Resources Corp.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "AMCO.V",
+   "instruments": [
+    {
+     "name": "Americore Resources Corp.",
+     "symbol": "AMCO"
+    }
+   ]
+  },
+  {
+   "symbol": "OCG",
+   "name": "Outcrop Silver \u0026 Gold Corporation",
+   "exchange": "TSX",
+   "yahoo_symbol": "OCG.TO",
+   "instruments": [
+    {
+     "name": "OutcropSil\u0026Gold Corp",
+     "symbol": "OCG"
+    }
+   ]
+  },
+  {
+   "symbol": "ABNG",
+   "name": "Leverage Shares 2x Long ABNB Daily ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "ABNG"
+  },
+  {
+   "symbol": "APXT",
+   "name": "Apex Treasury Corporation - Class A Ordinary Share",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "APXT"
+  },
+  {
+   "symbol": "APXTW",
+   "name": "Apex Treasury Corporation - Warrants",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "APXTW"
+  },
+  {
+   "symbol": "CMGG",
+   "name": "Leverage Shares 2X Long CMG Daily ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "CMGG"
+  },
+  {
+   "symbol": "GSGO",
+   "name": "Goldman Sachs Growth Opportunities ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "GSGO"
+  },
+  {
+   "symbol": "GUSE",
+   "name": "Goldman Sachs Enhanced U.S. Equity ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "GUSE"
+  },
+  {
+   "symbol": "GVLE",
+   "name": "Goldman Sachs Value Opportunities ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "GVLE"
+  },
+  {
+   "symbol": "NEMG",
+   "name": "Leverage Shares 2x Long NEM Daily ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "NEMG"
+  },
+  {
+   "symbol": "NETG",
+   "name": "Leverage Shares 2X Long NET Daily ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "NETG"
+  },
+  {
+   "symbol": "NUG",
+   "name": "Leverage Shares 2X Long NU Daily ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "NUG"
+  },
+  {
+   "symbol": "OKTG",
+   "name": "Leverage Shares 2X Long OKTA Daily ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "OKTG"
+  },
+  {
+   "symbol": "SBU",
+   "name": "Leverage Shares 2X Long SBUX Daily ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "SBU"
+  },
+  {
+   "symbol": "SENS",
+   "name": "Senseonics Holdings, Inc. - Common Stock",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "SENS"
+  },
+  {
+   "symbol": "SPOG",
+   "name": "Leverage Shares 2X Long SPOT Daily ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "SPOG"
+  },
+  {
+   "symbol": "TERG",
+   "name": "Leverage Shares 2X Long TER Daily ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "TERG"
+  },
+  {
+   "symbol": "VSOL",
+   "name": "VanEck Solana ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "VSOL"
+  },
+  {
+   "symbol": "SRV.R",
+   "name": "NXG Cushing Midstream Energy Fund Rights (expiring December 11, 2025) Rights",
+   "exchange": "NYSE",
+   "yahoo_symbol": "SRV.R"
+  },
+  {
+   "symbol": "TDAY",
+   "name": "USA TODAY Co., Inc. Common Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "TDAY"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "OCG",
+   "name": "Outcrop Silver \u0026 Gold Corporation",
+   "exchange": "TSXV",
+   "yahoo_symbol": "OCG.V",
+   "instruments": [
+    {
+     "name": "Outcrop Silver \u0026 Gold Corporation",
+     "symbol": "OCG"
+    }
+   ]
+  },
+  {
+   "symbol": "QBTS.W",
+   "name": "D-Wave Quantum Inc. Warrants, each whole warrant exercisable for 1.4541326 Common Shares at an exercise price of $11.50",
+   "exchange": "NYSE",
+   "yahoo_symbol": "QBTS.W"
+  },
+  {
+   "symbol": "GCI",
+   "name": "Gannett Co., Inc. Common Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "GCI"
+  },
+  {
+   "symbol": "EOSEW",
+   "name": "Eos Energy Enterprises, Inc. - Warrant",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "EOSEW"
+  },
+  {
+   "symbol": "SRV.V",
+   "name": "NXG Cushing Midstream Energy Fund Rights (expiring December 11, 2025) Rights when issued",
+   "exchange": "NYSE",
+   "yahoo_symbol": "SRV.V"
+  },
+  {
+   "symbol": "OPP.R",
+   "name": "RiverNorth/DoubleLine Strategic Opportunity Fund, Inc. Rights (expiring November 18, 2025) Rights",
+   "exchange": "NYSE",
+   "yahoo_symbol": "OPP.R"
+  },
+  {
+   "symbol": "KNC",
+   "name": "K9 Gold Corp.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "KNC.V",
+   "instruments": [
+    {
+     "name": "K9 Gold Corp.",
+     "symbol": "KNC"
+    }
+   ]
+  }
+ ]
+}
