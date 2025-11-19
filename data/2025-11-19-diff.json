@@ -1,0 +1,96 @@
+{
+ "added": [
+  {
+   "symbol": "AIXC",
+   "name": "AIxCrypto Holdings, Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "AIXC"
+  },
+  {
+   "symbol": "DYOR",
+   "name": "Insight Digital Partners II - Class A Ordinary Shares",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "DYOR"
+  },
+  {
+   "symbol": "DYORW",
+   "name": "Insight Digital Partners II - Warrants",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "DYORW"
+  },
+  {
+   "symbol": "NUGY",
+   "name": "GraniteShares YieldBOOST Gold Miners ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "NUGY"
+  },
+  {
+   "symbol": "RKLZ",
+   "name": "Defiance Daily Target 2x Short RKLB ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "RKLZ"
+  },
+  {
+   "symbol": "SEMY",
+   "name": "GraniteShares YieldBOOST Semiconductor ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "SEMY"
+  },
+  {
+   "symbol": "SOLC",
+   "name": "Canary Marinade Solana ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "SOLC"
+  },
+  {
+   "symbol": "OPTU",
+   "name": "Optimum Communications, Inc. Class A common stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "OPTU"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "INFA",
+   "name": "Informatica Inc. Class A Common Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "INFA"
+  },
+  {
+   "symbol": "GCMGW",
+   "name": "GCM Grosvenor Inc. - Warrant",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "GCMGW"
+  },
+  {
+   "symbol": "CNE",
+   "name": "Canacol Energy Ltd.",
+   "exchange": "TSX",
+   "yahoo_symbol": "CNE.TO",
+   "instruments": [
+    {
+     "name": "Canacol Energy",
+     "symbol": "CNE"
+    }
+   ]
+  },
+  {
+   "symbol": "UKOMW",
+   "name": "Ucommune International Ltd  - Warrant",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "UKOMW"
+  },
+  {
+   "symbol": "ATUS",
+   "name": "Altice USA, Inc. Class A Common Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "ATUS"
+  },
+  {
+   "symbol": "QLGN",
+   "name": "Qualigen Therapeutics, Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "QLGN"
+  }
+ ]
+}
