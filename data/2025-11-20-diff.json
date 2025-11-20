@@ -1,0 +1,270 @@
+{
+ "added": [
+  {
+   "symbol": "EVI",
+   "name": "Penbar Capital Ltd.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "EVI.V",
+   "instruments": [
+    {
+     "name": "Penbar Capital Ltd.",
+     "symbol": "EVI"
+    }
+   ]
+  },
+  {
+   "symbol": "HRMS",
+   "name": "Hermès CDR (CAD Hedged)",
+   "exchange": "TSX",
+   "yahoo_symbol": "HRMS.TO",
+   "instruments": [
+    {
+     "name": "Hermes CDR CAD Hedg",
+     "symbol": "HRMS"
+    }
+   ]
+  },
+  {
+   "symbol": "LVMH",
+   "name": "LVMH CDR (CAD Hedged)",
+   "exchange": "TSX",
+   "yahoo_symbol": "LVMH.TO",
+   "instruments": [
+    {
+     "name": "LVMH CDR CAD Hedged",
+     "symbol": "LVMH"
+    }
+   ]
+  },
+  {
+   "symbol": "LORL",
+   "name": "L’Oréal CDR (CAD Hedged)",
+   "exchange": "TSX",
+   "yahoo_symbol": "LORL.TO",
+   "instruments": [
+    {
+     "name": "LOreal CDR CAD Hed",
+     "symbol": "LORL"
+    }
+   ]
+  },
+  {
+   "symbol": "NOVO",
+   "name": "Novo Nordisk CDR (CAD Hedged)",
+   "exchange": "TSX",
+   "yahoo_symbol": "NOVO.TO",
+   "instruments": [
+    {
+     "name": "Novo NordiskCDR CAHg",
+     "symbol": "NOVO"
+    }
+   ]
+  },
+  {
+   "symbol": "SNY",
+   "name": "Sanofi CDR (CAD Hedged)",
+   "exchange": "TSX",
+   "yahoo_symbol": "SNY.TO",
+   "instruments": [
+    {
+     "name": "Sanofi CDR CAD Hedg",
+     "symbol": "SNY"
+    }
+   ]
+  },
+  {
+   "symbol": "SCHN",
+   "name": "Schneider Electric CDR (CAD Hedged)",
+   "exchange": "TSX",
+   "yahoo_symbol": "SCHN.TO",
+   "instruments": [
+    {
+     "name": "SchneiderElecCDR CaH",
+     "symbol": "SCHN"
+    }
+   ]
+  },
+  {
+   "symbol": "TTES",
+   "name": "TotalEnergies CDR (CAD Hedged)",
+   "exchange": "TSX",
+   "yahoo_symbol": "TTES.TO",
+   "instruments": [
+    {
+     "name": "TotalEnergiesCDRCaHg",
+     "symbol": "TTES"
+    }
+   ]
+  },
+  {
+   "symbol": "BCSS",
+   "name": "Bain Capital GSS Investment Corp. Class A Ordinary Shares",
+   "exchange": "NYSE",
+   "yahoo_symbol": "BCSS"
+  },
+  {
+   "symbol": "BCSS.W",
+   "name": "Bain Capital GSS Investment Corp. Redeemable warrants, each whole warrant exercisable for one Class A ordinary share at an exercise price of $11.50",
+   "exchange": "NYSE",
+   "yahoo_symbol": "BCSS.W"
+  },
+  {
+   "symbol": "OSG",
+   "name": "Octave Specialty Group, Inc. Common Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "OSG"
+  },
+  {
+   "symbol": "VACI",
+   "name": "Viking Acquisition Corp. I Class A Ordinary Shares",
+   "exchange": "NYSE",
+   "yahoo_symbol": "VACI"
+  },
+  {
+   "symbol": "VACI.W",
+   "name": "Viking Acquisition Corp. I Warrants to purchase one Class A Ordinary Share",
+   "exchange": "NYSE",
+   "yahoo_symbol": "VACI.W"
+  },
+  {
+   "symbol": "ALIS",
+   "name": "Calisa Acquisition Corp - Ordinary shares",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "ALIS"
+  },
+  {
+   "symbol": "ALISR",
+   "name": "Calisa Acquisition Corp - Right",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "ALISR"
+  },
+  {
+   "symbol": "BU",
+   "name": "Defiance Daily Target 2X Long BU ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "BU"
+  },
+  {
+   "symbol": "CONX",
+   "name": "Direxion Daily COIN Bull 2X ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "CONX"
+  },
+  {
+   "symbol": "DNMX",
+   "name": "Dynamix Corporation III - Class A Ordinary Shares",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "DNMX"
+  },
+  {
+   "symbol": "DNMXW",
+   "name": "Dynamix Corporation III - Warrants",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "DNMXW"
+  },
+  {
+   "symbol": "GLOO",
+   "name": "Gloo Holdings, Inc. - Common Stock",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "GLOO"
+  },
+  {
+   "symbol": "HODU",
+   "name": "Direxion Daily HOOD Bull 2X ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "HODU"
+  },
+  {
+   "symbol": "LINT",
+   "name": "Direxion Daily INTC Bull 2X ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "LINT"
+  },
+  {
+   "symbol": "MNZL",
+   "name": "Manzil Russell Halal USA Broad Market ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "MNZL"
+  },
+  {
+   "symbol": "ORCS",
+   "name": "Direxion Daily ORCL Bear 1X ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "ORCS"
+  },
+  {
+   "symbol": "ORCU",
+   "name": "Direxion Daily ORCL Bull 2X ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "ORCU"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "SRDX",
+   "name": "Surmodics, Inc. - Common Stock",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "SRDX"
+  },
+  {
+   "symbol": "OPT",
+   "name": "Opthea Limited - American Depositary Shares",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "OPT"
+  },
+  {
+   "symbol": "PEM.P",
+   "name": "Penbar Capital Ltd.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "PEM.P.V",
+   "instruments": [
+    {
+     "name": "Penbar Capital Ltd.",
+     "symbol": "PEM.P"
+    }
+   ]
+  },
+  {
+   "symbol": "GNFT",
+   "name": "GENFIT S.A. - American Depositary Shares",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "GNFT"
+  },
+  {
+   "symbol": "JGH.R",
+   "name": "Nuveen Global High Income Fund Rights (expiring November 20, 2025) Rights",
+   "exchange": "NYSE",
+   "yahoo_symbol": "JGH.R"
+  },
+  {
+   "symbol": "TBCE",
+   "name": "TD Target 2025 Investment Grade Bond ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "TBCE.TO",
+   "instruments": [
+    {
+     "name": "TdTgt 25 InvGr B Etf",
+     "symbol": "TBCE"
+    }
+   ]
+  },
+  {
+   "symbol": "TBUE.U",
+   "name": "TD Target 2025 U.S. Investment Grade Bond ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "TBUE.U.TO",
+   "instruments": [
+    {
+     "name": "TdTgtUS25 InvGrB Etf",
+     "symbol": "TBUE.U"
+    }
+   ]
+  },
+  {
+   "symbol": "AMBC",
+   "name": "Ambac Financial Group, Inc. Common Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "AMBC"
+  }
+ ]
+}
