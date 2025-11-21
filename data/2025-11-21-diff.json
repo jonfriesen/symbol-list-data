@@ -1,0 +1,124 @@
+{
+ "added": [
+  {
+   "symbol": "CAIQ",
+   "name": "Calamos Nasdaq Autocallable Income ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "CAIQ"
+  },
+  {
+   "symbol": "CBC",
+   "name": "Central Bancompany, Inc. - Class A Common Stock",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "CBC"
+  },
+  {
+   "symbol": "EMPD",
+   "name": "Empery Digital Inc. - Common stock",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "EMPD"
+  },
+  {
+   "symbol": "KBDU",
+   "name": "KraneShares 2x Long BIDU Daily ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "KBDU"
+  },
+  {
+   "symbol": "THYM",
+   "name": "T. Rowe Price High Income Municipal ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "THYM"
+  },
+  {
+   "symbol": "TMNL",
+   "name": "T. Rowe Price Long Municipal Income ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "TMNL"
+  },
+  {
+   "symbol": "TMNS",
+   "name": "T. Rowe Price Short Municipal Income ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "TMNS"
+  },
+  {
+   "symbol": "TMSF",
+   "name": "T. Rowe Price Multi-Sector Income ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "TMSF"
+  },
+  {
+   "symbol": "TXXD",
+   "name": "21Shares 2x Long Dogecoin ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "TXXD"
+  },
+  {
+   "symbol": "KRSP",
+   "name": "Rice Acquisition Corporation 3 Class A Ordinary Shares",
+   "exchange": "NYSE",
+   "yahoo_symbol": "KRSP"
+  },
+  {
+   "symbol": "KRSP.W",
+   "name": "Rice Acquisition Corporation 3 Redeemable warrants, each whole warrant exercisable for one Class A ordinary share at an exercise price of $11.50",
+   "exchange": "NYSE",
+   "yahoo_symbol": "KRSP.W"
+  },
+  {
+   "symbol": "TII",
+   "name": "Titan Mining Corporation Common Shares",
+   "exchange": "NYSE MKT",
+   "yahoo_symbol": "TII"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "DYCQR",
+   "name": "DT Cloud Acquisition Corporation - Right",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "DYCQR"
+  },
+  {
+   "symbol": "DYCQ",
+   "name": "DT Cloud Acquisition Corporation - Ordinary shares",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "DYCQ"
+  },
+  {
+   "symbol": "DYCQU",
+   "name": "DT Cloud Acquisition Corporation - Unit",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "DYCQU"
+  },
+  {
+   "symbol": "DRR.U",
+   "name": "Dream Residential Real Estate Investment Trust",
+   "exchange": "TSX",
+   "yahoo_symbol": "DRR.U.TO",
+   "instruments": [
+    {
+     "name": "Dream ResidntREIT US",
+     "symbol": "DRR.U"
+    },
+    {
+     "name": "Dream Residnt REIT",
+     "symbol": "DRR.UN"
+    }
+   ]
+  },
+  {
+   "symbol": "OCFT",
+   "name": "OneConnect Financial Technology Co., Ltd. American Depositary Shares, each representing thirty ordinary shares",
+   "exchange": "NYSE",
+   "yahoo_symbol": "OCFT"
+  },
+  {
+   "symbol": "EMPD",
+   "name": "Empery Digital Inc. - Common stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "EMPD"
+  }
+ ]
+}
