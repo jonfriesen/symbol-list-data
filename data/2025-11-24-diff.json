@@ -1,0 +1,96 @@
+{
+ "added": [
+  {
+   "symbol": "ACEP",
+   "name": "ARS Core Equity Portfolio ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "ACEP"
+  },
+  {
+   "symbol": "APAC",
+   "name": "StoneBridge Acquisition II Corporation - Class A Ordinary Shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "APAC"
+  },
+  {
+   "symbol": "APACR",
+   "name": "StoneBridge Acquisition II Corporation - Rights",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "APACR"
+  },
+  {
+   "symbol": "HCACU",
+   "name": "Hall Chadwick Acquisition Corp. - Unit",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "HCACU"
+  },
+  {
+   "symbol": "TOUR",
+   "name": "Tuniu Corporation - American Depositary Shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "TOUR"
+  },
+  {
+   "symbol": "AIIA",
+   "name": "AI Infrastructure Acquisition Corp. Class A Ordinary Shares",
+   "exchange": "NYSE",
+   "yahoo_symbol": "AIIA"
+  },
+  {
+   "symbol": "AIIA.R",
+   "name": "AI Infrastructure Acquisition Corp. Rights, each entitling the holder to receive one-fifth (1/5) of one Class A Ordinary Share",
+   "exchange": "NYSE",
+   "yahoo_symbol": "AIIA.R"
+  },
+  {
+   "symbol": "GMRE$B",
+   "name": "Global Medical REIT Inc. 8.00% Series B Cumulative Redeemable Preferred Stock, $0.001 par value per share",
+   "exchange": "NYSE",
+   "yahoo_symbol": "GMRE$B"
+  },
+  {
+   "symbol": "MRP.V",
+   "name": "Millrose Properties, Inc. Class A Common Stock When-Issued",
+   "exchange": "NYSE",
+   "yahoo_symbol": "MRP.V"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "SONDW",
+   "name": "Sonder Holdings Inc. - Warrants",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "SONDW"
+  },
+  {
+   "symbol": "SOND",
+   "name": "Sonder Holdings Inc. - Class A Common Stock",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "SOND"
+  },
+  {
+   "symbol": "LVTX",
+   "name": "LAVA Therapeutics N.V. - Ordinary Shares",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "LVTX"
+  },
+  {
+   "symbol": "TOUR",
+   "name": "Tuniu Corporation - American Depositary Shares",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "TOUR"
+  },
+  {
+   "symbol": "TORA",
+   "name": "Taura Gold Inc.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "TORA.V",
+   "instruments": [
+    {
+     "name": "Taura Gold Inc.",
+     "symbol": "TORA"
+    }
+   ]
+  }
+ ]
+}
