@@ -1,0 +1,96 @@
+{
+ "added": [
+  {
+   "symbol": "ABP",
+   "name": "Abpro Holdings, Inc - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "ABP"
+  },
+  {
+   "symbol": "ELE",
+   "name": "Elemental Royalty Corporation - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "ELE"
+  },
+  {
+   "symbol": "IGACU",
+   "name": "Invest Green Acquisition Corporation - Units",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "IGACU"
+  },
+  {
+   "symbol": "IND",
+   "name": "Xtrackers Nifty 500 India ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "IND"
+  },
+  {
+   "symbol": "PBEU",
+   "name": "Portfolio Building Block European Banks Index ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "PBEU"
+  },
+  {
+   "symbol": "PBOG",
+   "name": "Portfolio Building Block Integrated Oil and Gas and Exploration and Production Index ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "PBOG"
+  },
+  {
+   "symbol": "PBPH",
+   "name": "Portfolio Building Block World Pharma and Biotech Index ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "PBPH"
+  },
+  {
+   "symbol": "QBY",
+   "name": "GraniteShares YieldBoost QBTS ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "QBY"
+  },
+  {
+   "symbol": "RGYY",
+   "name": "GraniteShares YieldBoost RGTI ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "RGYY"
+  },
+  {
+   "symbol": "YBMN",
+   "name": "Defiance BMNR Option Income ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "YBMN"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "ABP",
+   "name": "Abpro Holdings, Inc - Common Stock",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "ABP"
+  },
+  {
+   "symbol": "NETDU",
+   "name": "Nabors Energy Transition Corp. II - Unit",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "NETDU"
+  },
+  {
+   "symbol": "NETD",
+   "name": "Nabors Energy Transition Corp. II - Class A Ordinary Shares",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "NETD"
+  },
+  {
+   "symbol": "NETDW",
+   "name": "Nabors Energy Transition Corp. II - Warrant",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "NETDW"
+  },
+  {
+   "symbol": "PINC",
+   "name": "Premier, Inc. - Class A Common Stock",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "PINC"
+  }
+ ]
+}

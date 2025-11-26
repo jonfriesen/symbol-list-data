@@ -1,0 +1,62 @@
+{
+ "added": [
+  {
+   "symbol": "BOS",
+   "name": "BitcoinOS Token (BOS)"
+  },
+  {
+   "symbol": "TITN",
+   "name": "Titan (TITN)"
+  },
+  {
+   "symbol": "BTC6900",
+   "name": "Bitcoin 6900 (BTC6900)"
+  },
+  {
+   "symbol": "401JK",
+   "name": "401jk (401JK)"
+  },
+  {
+   "symbol": "PEBBLE",
+   "name": "Etherrock #72 (PEBBLE)"
+  },
+  {
+   "symbol": "BABY4",
+   "name": "Baby 4 (BABY4)"
+  },
+  {
+   "symbol": "MOCHIINU",
+   "name": "Mochi Inu (MOCHIINU)"
+  },
+  {
+   "symbol": "THEPLAY",
+   "name": "PLAY (THEPLAY)"
+  },
+  {
+   "symbol": "REPPO",
+   "name": "REPPO (REPPO)"
+  },
+  {
+   "symbol": "NUTSDAO",
+   "name": "NutsDAO (NUTSDAO)"
+  },
+  {
+   "symbol": "OPENXSTOCK",
+   "name": "OPEN xStock (OPENXSTOCK)"
+  },
+  {
+   "symbol": "GLOBALTOUR",
+   "name": "Global Tour Club (GLOBALTOUR)"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "ZEDCOIN",
+   "name": "ZedCoin (ZEDCOIN)"
+  },
+  {
+   "symbol": "MAOMEME",
+   "name": "Mao (MAOMEME)"
+  }
+ ]
+}
