@@ -1,0 +1,126 @@
+{
+ "added": [
+  {
+   "symbol": "GST",
+   "name": "Gold Strategy Inc.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "GST.V",
+   "instruments": [
+    {
+     "name": "Gold Strategy Inc.",
+     "symbol": "GST"
+    }
+   ]
+  },
+  {
+   "symbol": "GLIBR",
+   "name": "GCI Liberty, Inc. - GCI Liberty, Inc. Series C Purchase Right",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "GLIBR"
+  },
+  {
+   "symbol": "LAFA",
+   "name": "LaFayette Acquisition Corp. - Ordinary Share",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "LAFA"
+  },
+  {
+   "symbol": "LAFAR",
+   "name": "LaFayette Acquisition Corp. - Rights",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "LAFAR"
+  },
+  {
+   "symbol": "SCIIU",
+   "name": "SC II Acquisition Corp. - Units",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "SCIIU"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "MHI",
+   "name": "Mineral Hill Industries Ltd.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "MHI.V",
+   "instruments": [
+    {
+     "name": "Mineral Hill Industries Ltd.",
+     "symbol": "MHI"
+    }
+   ]
+  },
+  {
+   "symbol": "GRNI",
+   "name": "BMO Brookfield Global Renewables Infrastructure Fund",
+   "exchange": "TSX",
+   "yahoo_symbol": "GRNI.TO",
+   "instruments": [
+    {
+     "name": "BMO BrkfldRenwInfras",
+     "symbol": "GRNI"
+    }
+   ]
+  },
+  {
+   "symbol": "ZGSB",
+   "name": "BMO Global Strategic Bond Fund",
+   "exchange": "TSX",
+   "yahoo_symbol": "ZGSB.TO",
+   "instruments": [
+    {
+     "name": "BMO Glb Stratgc Bond",
+     "symbol": "ZGSB"
+    }
+   ]
+  },
+  {
+   "symbol": "TOWR",
+   "name": "BMO Brookfield Global Real Estate Tech Fund",
+   "exchange": "TSX",
+   "yahoo_symbol": "TOWR.TO",
+   "instruments": [
+    {
+     "name": "BMO Brookfld Glb RET",
+     "symbol": "TOWR"
+    }
+   ]
+  },
+  {
+   "symbol": "WOMN",
+   "name": "BMO Women in Leadership Fund",
+   "exchange": "TSX",
+   "yahoo_symbol": "WOMN.TO",
+   "instruments": [
+    {
+     "name": "BMO Women LeadrshpUn",
+     "symbol": "WOMN"
+    }
+   ]
+  },
+  {
+   "symbol": "ZCPB",
+   "name": "BMO Core Plus Bond Fund",
+   "exchange": "TSX",
+   "yahoo_symbol": "ZCPB.TO",
+   "instruments": [
+    {
+     "name": "BMO Core+Bond ETF Sr",
+     "symbol": "ZCPB"
+    }
+   ]
+  },
+  {
+   "symbol": "ZMSB",
+   "name": "BMO Sustainable Global Multi-Sector Bond Fund",
+   "exchange": "TSX",
+   "yahoo_symbol": "ZMSB.TO",
+   "instruments": [
+    {
+     "name": "BMO Glb Mult-SctrBnd",
+     "symbol": "ZMSB"
+    }
+   ]
+  }
+ ]
+}

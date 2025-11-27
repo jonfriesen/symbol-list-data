@@ -1,0 +1,74 @@
+{
+ "added": [
+  {
+   "symbol": "SERVEIO",
+   "name": "Serve (SERVEIO)"
+  },
+  {
+   "symbol": "IRYS",
+   "name": "Irys (IRYS)"
+  },
+  {
+   "symbol": "ZOOTOPIA",
+   "name": "Zootopia (ZOOTOPIA)"
+  },
+  {
+   "symbol": "RAINMAKER",
+   "name": "Rainmaker Games (RAINMAKER)"
+  },
+  {
+   "symbol": "MONPRO",
+   "name": "MON Protocol (MONPRO)"
+  },
+  {
+   "symbol": "UKRAINEDAO",
+   "name": "UkraineDAO Flag NFT (UKRAINEDAO)"
+  },
+  {
+   "symbol": "BRLV",
+   "name": "High Velocity BRLY (BRLV)"
+  },
+  {
+   "symbol": "COINEDELWEIS",
+   "name": "Coin Edelweis (COINEDELWEIS)"
+  },
+  {
+   "symbol": "ZEDCOIN",
+   "name": "ZedCoin (ZEDCOIN)"
+  },
+  {
+   "symbol": "WBRLY",
+   "name": "Wrapped BRLY (WBRLY)"
+  },
+  {
+   "symbol": "MAOMEME",
+   "name": "Mao (MAOMEME)"
+  },
+  {
+   "symbol": "PAYCHECK",
+   "name": "Paycheck (PAYCHECK)"
+  },
+  {
+   "symbol": "BRLY",
+   "name": "Yield Bearing BRL (BRLY)"
+  },
+  {
+   "symbol": "SLATE",
+   "name": "Slate (SLATE)"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "EDEL",
+   "name": "Coin Edelweis (EDEL)"
+  },
+  {
+   "symbol": "MON",
+   "name": "MON Protocol (MON)"
+  },
+  {
+   "symbol": "BABY4",
+   "name": "Baby 4 (BABY4)"
+  }
+ ]
+}
