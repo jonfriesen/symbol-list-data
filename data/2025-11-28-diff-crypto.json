@@ -1,0 +1,38 @@
+{
+ "added": [
+  {
+   "symbol": "BOATKIDSITE",
+   "name": "BoatKid (BOATKIDSITE)"
+  },
+  {
+   "symbol": "EDEL",
+   "name": "Edel (EDEL)"
+  },
+  {
+   "symbol": "PORT3V2",
+   "name": "Port3 Network v2 (PORT3V2)"
+  },
+  {
+   "symbol": "ARABIANDRAGON",
+   "name": "Arabian Dragon (ARABIANDRAGON)"
+  },
+  {
+   "symbol": "KASSANDRA",
+   "name": "Kassandra (KASSANDRA)"
+  },
+  {
+   "symbol": "GREMLYART",
+   "name": "Gremly (GREMLYART)"
+  },
+  {
+   "symbol": "TOUCANPROTOCOL",
+   "name": "Toucan Protocol: Base Carbon Tonne (TOUCANPROTOCOL)"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "LINKC",
+   "name": "LINKCHAIN (LINKC)"
+  }
+ ]
+}
