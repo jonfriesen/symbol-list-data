@@ -1,0 +1,108 @@
+{
+ "added": [
+  {
+   "symbol": "BFH$A",
+   "name": "Bread Financial Holdings, Inc. Depositary Shares, each representing a 1/40th interest in a share of 8.625% Non-Cumulative Perpetual Preferred Stock, Series A",
+   "exchange": "NYSE",
+   "yahoo_symbol": "BFH$A"
+  },
+  {
+   "symbol": "YARR",
+   "name": "Pirate Gold Corp.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "YARR.V",
+   "instruments": [
+    {
+     "name": "Pirate Gold Corp.",
+     "symbol": "YARR"
+    }
+   ]
+  },
+  {
+   "symbol": "GRDX",
+   "name": "GridAI Technologies Corp.  - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "GRDX"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "LIXTW",
+   "name": "Lixte Biotechnology Holdings, Inc. - Warrants",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "LIXTW"
+  },
+  {
+   "symbol": "ENTO",
+   "name": "Entero Therapeutics Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "ENTO"
+  },
+  {
+   "symbol": "CLSD",
+   "name": "Clearside Biomedical, Inc. - Common Stock",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "CLSD"
+  },
+  {
+   "symbol": "AMBP.W",
+   "name": "Ardagh Metal Packaging S.A. Warrants, each exercisable for one Share at an exercise price of $11.50 per share",
+   "exchange": "NYSE",
+   "yahoo_symbol": "AMBP.W"
+  },
+  {
+   "symbol": "HBI",
+   "name": "Hanesbrands Inc. Common Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "HBI"
+  },
+  {
+   "symbol": "DRH",
+   "name": "Diamondrock Hospitality Company Common Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "DRH"
+  },
+  {
+   "symbol": "BC$A",
+   "name": "Brunswick Corporation 6.500% Senior Notes due 2048",
+   "exchange": "NYSE",
+   "yahoo_symbol": "BC$A"
+  },
+  {
+   "symbol": "DSAE",
+   "name": "Desjardins Sustainable American Equity ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "DSAE.TO",
+   "instruments": [
+    {
+     "name": "DesjardnSustain AmEq",
+     "symbol": "DSAE"
+    }
+   ]
+  },
+  {
+   "symbol": "MRP.V",
+   "name": "Millrose Properties, Inc. Class A Common Stock When-Issued",
+   "exchange": "NYSE",
+   "yahoo_symbol": "MRP.V"
+  },
+  {
+   "symbol": "CGBDL",
+   "name": "Carlyle Secured Lending, Inc. - 8.20% Notes due 2028",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "CGBDL"
+  },
+  {
+   "symbol": "SIC",
+   "name": "Sokoman Minerals Corp.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "SIC.V",
+   "instruments": [
+    {
+     "name": "Sokoman Minerals Corp.",
+     "symbol": "SIC"
+    }
+   ]
+  }
+ ]
+}
