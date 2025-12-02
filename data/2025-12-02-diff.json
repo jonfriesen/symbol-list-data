@@ -1,0 +1,102 @@
+{
+ "added": [
+  {
+   "symbol": "HMMC",
+   "name": "Hemlo Mining Corp.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "HMMC.V",
+   "instruments": [
+    {
+     "name": "Hemlo Mining Corp.",
+     "symbol": "HMMC"
+    }
+   ]
+  },
+  {
+   "symbol": "SIXY",
+   "name": "Evolve Big Six Canadian Banks UltraYield Index ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "SIXY.TO",
+   "instruments": [
+    {
+     "name": "Evolve Bg 6 Cdn B UY",
+     "symbol": "SIXY"
+    }
+   ]
+  },
+  {
+   "symbol": "CPCC",
+   "name": "Global X Copper Producer Equity Covered Call ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "CPCC.TO",
+   "instruments": [
+    {
+     "name": "Glbl X Cop Pro E CC",
+     "symbol": "CPCC"
+    }
+   ]
+  },
+  {
+   "symbol": "SGD",
+   "name": "Snowline Gold Corp.",
+   "exchange": "TSX",
+   "yahoo_symbol": "SGD.TO",
+   "instruments": [
+    {
+     "name": "Snowline Gold Corp",
+     "symbol": "SGD"
+    }
+   ]
+  },
+  {
+   "symbol": "DRH",
+   "name": "Diamondrock Hospitality Company - Common Stock",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "DRH"
+  },
+  {
+   "symbol": "GOLD",
+   "name": "Gold.com, Inc. Common Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "GOLD"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "SGD",
+   "name": "Snowline Gold Corp.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "SGD.V",
+   "instruments": [
+    {
+     "name": "Snowline Gold Corp.",
+     "symbol": "SGD"
+    }
+   ]
+  },
+  {
+   "symbol": "AMRK",
+   "name": "A-Mark Precious Metals, Inc. - Common Stock",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "AMRK"
+  },
+  {
+   "symbol": "USARW",
+   "name": "USA Rare Earth, Inc. - Warrant",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "USARW"
+  },
+  {
+   "symbol": "CART",
+   "name": "Carcetti Capital Corp.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "CART.V",
+   "instruments": [
+    {
+     "name": "Carcetti Capital Corp.",
+     "symbol": "CART"
+    }
+   ]
+  }
+ ]
+}
