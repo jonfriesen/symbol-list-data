@@ -1,0 +1,102 @@
+{
+ "added": [
+  {
+   "symbol": "BIXIU",
+   "name": "Bitcoin Infrastructure Acquisition Corp Ltd. - Units",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "BIXIU"
+  },
+  {
+   "symbol": "GOU",
+   "name": "GraniteShares 2x Long GOOGL Daily ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "GOU"
+  },
+  {
+   "symbol": "HMYY",
+   "name": "GraniteShares YieldBoost HIMS ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "HMYY"
+  },
+  {
+   "symbol": "RTYY",
+   "name": "GraniteShares YieldBoost RIOT ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "RTYY"
+  },
+  {
+   "symbol": "AUME",
+   "name": "Auriginal Mining Corp.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "AUME.V",
+   "instruments": [
+    {
+     "name": "Auriginal Mining Corp.",
+     "symbol": "AUME"
+    }
+   ]
+  },
+  {
+   "symbol": "SHK.P",
+   "name": "Sparrowhawk Opportunity Corp.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "SHK.P.V",
+   "instruments": [
+    {
+     "name": "Sparrowhawk Opportunity Corp.",
+     "symbol": "SHK.P"
+    }
+   ]
+  },
+  {
+   "symbol": "SBXE.U",
+   "name": "SilverBox Corp V Units, each consisting of one Class A Ordinary Share and one-third of one redeemable warrant",
+   "exchange": "NYSE",
+   "yahoo_symbol": "SBXE.U"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "SONN",
+   "name": "Sonnet BioTherapeutics Holdings, Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "SONN"
+  },
+  {
+   "symbol": "ALCC.P",
+   "name": "A-Labs Capital IV Corp.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "ALCC.P.V",
+   "instruments": [
+    {
+     "name": "A-Labs Capital IV Corp.",
+     "symbol": "ALCC.P"
+    }
+   ]
+  },
+  {
+   "symbol": "KTR",
+   "name": "Kintavar Exploration Inc.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "KTR.V",
+   "instruments": [
+    {
+     "name": "Kintavar Exploration Inc.",
+     "symbol": "KTR"
+    }
+   ]
+  },
+  {
+   "symbol": "KES",
+   "name": "Kesselrun Resources Ltd.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "KES.V",
+   "instruments": [
+    {
+     "name": "Kesselrun Resources Ltd.",
+     "symbol": "KES"
+    }
+   ]
+  }
+ ]
+}
