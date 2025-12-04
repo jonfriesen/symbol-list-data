@@ -1,0 +1,150 @@
+{
+ "added": [
+  {
+   "symbol": "BARK",
+   "name": "Black Spruce Exploration Inc.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "BARK.V",
+   "instruments": [
+    {
+     "name": "Black Spruce Exploration Inc.",
+     "symbol": "BARK"
+    }
+   ]
+  },
+  {
+   "symbol": "BALQ",
+   "name": "iShares Nasdaq Premium Income Active ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "BALQ"
+  },
+  {
+   "symbol": "DMII",
+   "name": "Drugs Made In America Acquisition II Corp. - Ordinary Shares",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "DMII"
+  },
+  {
+   "symbol": "DMIIR",
+   "name": "Drugs Made In America Acquisition II Corp. - Right",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "DMIIR"
+  },
+  {
+   "symbol": "EVOX",
+   "name": "Evolution Global Acquisition Corp - Class A Ordinary Shares",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "EVOX"
+  },
+  {
+   "symbol": "EVOXW",
+   "name": "Evolution Global Acquisition Corp - Warrants",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "EVOXW"
+  },
+  {
+   "symbol": "GPACU",
+   "name": "General Purpose Acquisition Corp. - Units",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "GPACU"
+  },
+  {
+   "symbol": "PARK",
+   "name": "Park Dental Partners, Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "PARK"
+  },
+  {
+   "symbol": "PURR",
+   "name": "Hyperliquid Strategies Inc - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "PURR"
+  },
+  {
+   "symbol": "CITR",
+   "name": "General Enterprise Ventures, Inc. Common Stock",
+   "exchange": "NYSE MKT",
+   "yahoo_symbol": "CITR"
+  },
+  {
+   "symbol": "LEU",
+   "name": "Centrus Energy Corp. Class A Common Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "LEU"
+  },
+  {
+   "symbol": "NWAX.U",
+   "name": "New America Acquisition I Corp. Units, each consisting of one share of Class A Common Stock and one-half of one redeemable warrant",
+   "exchange": "NYSE",
+   "yahoo_symbol": "NWAX.U"
+  },
+  {
+   "symbol": "RGNT",
+   "name": "Regentis Biomaterials Ltd. Ordinary Shares",
+   "exchange": "NYSE MKT",
+   "yahoo_symbol": "RGNT"
+  },
+  {
+   "symbol": "SAC.U",
+   "name": "Safeguard Acquisition Corp. Units, each consisting of one Class A ordinary share and one-half of one redeemable warrant",
+   "exchange": "NYSE",
+   "yahoo_symbol": "SAC.U"
+  },
+  {
+   "symbol": "SMJF",
+   "name": "SMJ International Holdings Inc. Class A Ordinary Shares",
+   "exchange": "NYSE MKT",
+   "yahoo_symbol": "SMJF"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "ISRL",
+   "name": "Israel Acquisitions Corp - Class A Ordinary Shares",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "ISRL"
+  },
+  {
+   "symbol": "LONE",
+   "name": "Lithium One Metals Inc.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "LONE.V",
+   "instruments": [
+    {
+     "name": "Lithium One Metals Inc.",
+     "symbol": "LONE"
+    }
+   ]
+  },
+  {
+   "symbol": "TAIT",
+   "name": "Taitron Components Incorporated - Class A Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "TAIT"
+  },
+  {
+   "symbol": "LEU",
+   "name": "Centrus Energy Corp. Class A Common Stock",
+   "exchange": "NYSE MKT",
+   "yahoo_symbol": "LEU"
+  },
+  {
+   "symbol": "CMPOW",
+   "name": "CompoSecure, Inc.  - Warrant",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "CMPOW"
+  },
+  {
+   "symbol": "ISRLW",
+   "name": "Israel Acquisitions Corp - Warrant",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "ISRLW"
+  },
+  {
+   "symbol": "ISRLU",
+   "name": "Israel Acquisitions Corp - Unit",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "ISRLU"
+  }
+ ]
+}

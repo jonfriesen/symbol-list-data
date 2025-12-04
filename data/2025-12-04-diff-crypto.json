@@ -1,0 +1,50 @@
+{
+ "added": [
+  {
+   "symbol": "PALMO",
+   "name": "ORCIB (PALMO)"
+  },
+  {
+   "symbol": "UMBRA",
+   "name": "Umbra (UMBRA)"
+  },
+  {
+   "symbol": "OEX",
+   "name": "OEX (OEX)"
+  },
+  {
+   "symbol": "RETSA",
+   "name": "Retsa Coin (RETSA)"
+  },
+  {
+   "symbol": "MAOMEME",
+   "name": "Mao (MAOMEME)"
+  },
+  {
+   "symbol": "TCU29",
+   "name": "Tempestas Copper (TCU29)"
+  },
+  {
+   "symbol": "ZEDCOIN",
+   "name": "ZedCoin (ZEDCOIN)"
+  },
+  {
+   "symbol": "GAIX",
+   "name": "GaiAI Token (GAIX)"
+  },
+  {
+   "symbol": "VALAN",
+   "name": "Valannium (VALAN)"
+  },
+  {
+   "symbol": "GGBR",
+   "name": "Goldfish (GGBR)"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "BABY4",
+   "name": "Baby 4 (BABY4)"
+  }
+ ]
+}
