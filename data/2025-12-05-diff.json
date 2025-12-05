@@ -1,0 +1,84 @@
+{
+ "added": [
+  {
+   "symbol": "MOLY",
+   "name": "Greenland Resources Inc.",
+   "exchange": "TSX",
+   "yahoo_symbol": "MOLY.TO",
+   "instruments": [
+    {
+     "name": "Greenland Resrce Inc",
+     "symbol": "MOLY"
+    }
+   ]
+  },
+  {
+   "symbol": "REED",
+   "name": "Reed's, Inc. Common Stock",
+   "exchange": "NYSE MKT",
+   "yahoo_symbol": "REED"
+  },
+  {
+   "symbol": "AEAQU",
+   "name": "Activate Energy Acquisition Corp. - Unit",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "AEAQU"
+  },
+  {
+   "symbol": "BNDP",
+   "name": "Vanguard Core-Plus Bond Index ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "BNDP"
+  },
+  {
+   "symbol": "HYNE",
+   "name": "Hoyne Bancorp, Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "HYNE"
+  },
+  {
+   "symbol": "IVSS",
+   "name": "Applied Finance IVS US SMID ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "IVSS"
+  },
+  {
+   "symbol": "TXXS",
+   "name": "21Shares 2x Long Sui ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "TXXS"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "TKU",
+   "name": "Tarku Resources Ltd.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "TKU.V",
+   "instruments": [
+    {
+     "name": "Tarku Resources Ltd.",
+     "symbol": "TKU"
+    }
+   ]
+  },
+  {
+   "symbol": "SEVNR",
+   "name": "Seven Hills Realty Trust  - Right",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "SEVNR"
+  },
+  {
+   "symbol": "ETU",
+   "name": "E2Gold Inc.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "ETU.V",
+   "instruments": [
+    {
+     "name": "E2Gold Inc.",
+     "symbol": "ETU"
+    }
+   ]
+  }
+ ]
+}
