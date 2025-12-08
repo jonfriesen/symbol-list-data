@@ -1,0 +1,112 @@
+{
+ "added": [
+  {
+   "symbol": "MAK.U",
+   "name": "MAK Acquisition Corp.",
+   "exchange": "TSX",
+   "yahoo_symbol": "MAK.U.TO",
+   "instruments": [
+    {
+     "name": "MAK AcquisCorClA Shr",
+     "symbol": "MAK.U"
+    },
+    {
+     "name": "MAK AcquisCor Warrat",
+     "symbol": "MAK.WT.U"
+    }
+   ]
+  },
+  {
+   "symbol": "DOO",
+   "name": "BRP Inc. - Common Subordinate Voting Shares",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "DOO"
+  },
+  {
+   "symbol": "DVGR",
+   "name": "DAC 3D Dividend Growth ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "DVGR"
+  },
+  {
+   "symbol": "GURE",
+   "name": "Gulf Resources, Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "GURE"
+  },
+  {
+   "symbol": "LFACU",
+   "name": "Leapfrog Acquisition Corporation - Units",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "LFACU"
+  },
+  {
+   "symbol": "AGIG",
+   "name": "Abundia Global Impact Group Inc. Common stock",
+   "exchange": "NYSE MKT",
+   "yahoo_symbol": "AGIG"
+  },
+  {
+   "symbol": "MICC",
+   "name": "The Magnum Ice Cream Company N.V. Ordinary Shares",
+   "exchange": "NYSE",
+   "yahoo_symbol": "MICC"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "HUSA",
+   "name": "Houston American Energy Corporation Common Stock",
+   "exchange": "NYSE MKT",
+   "yahoo_symbol": "HUSA"
+  },
+  {
+   "symbol": "MURA",
+   "name": "Mural Oncology plc - Ordinary Shares",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "MURA"
+  },
+  {
+   "symbol": "BWSN",
+   "name": "Babcock \u0026 Wilcox Enterprises, Inc. 8.125% Senior Notes due 2026",
+   "exchange": "NYSE",
+   "yahoo_symbol": "BWSN"
+  },
+  {
+   "symbol": "SPR",
+   "name": "Spirit Aerosystems Holdings, Inc. Common Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "SPR"
+  },
+  {
+   "symbol": "MAK.V",
+   "name": "MAK Acquisition Corp.",
+   "exchange": "TSX",
+   "yahoo_symbol": "MAK.V.TO",
+   "instruments": [
+    {
+     "name": "MAK AcquCorp ClsA Un",
+     "symbol": "MAK.V"
+    }
+   ]
+  },
+  {
+   "symbol": "BRRWU",
+   "name": "Columbus Circle Capital Corp I - Units",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "BRRWU"
+  },
+  {
+   "symbol": "DOOO",
+   "name": "BRP Inc. - Common Subordinate Voting Shares",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "DOOO"
+  },
+  {
+   "symbol": "CARV",
+   "name": "Carver Bancorp, Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "CARV"
+  }
+ ]
+}
