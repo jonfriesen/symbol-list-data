@@ -1,0 +1,14 @@
+{
+ "added": [
+  {
+   "symbol": "MIDNIGHTVIP",
+   "name": "Midnight (MIDNIGHTVIP)"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "NIGHT",
+   "name": "Midnight (NIGHT)"
+  }
+ ]
+}

@@ -1,0 +1,212 @@
+{
+ "added": [
+  {
+   "symbol": "BEDY",
+   "name": "BNY Mellon Enhanced Dividend and Income ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "BEDY"
+  },
+  {
+   "symbol": "FSLY",
+   "name": "Fastly, Inc. - Class A Common Stock",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "FSLY"
+  },
+  {
+   "symbol": "GTOP",
+   "name": "Goldman Sachs Technology Opportunities ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "GTOP"
+  },
+  {
+   "symbol": "TDWD",
+   "name": "Tailwind 2.0 Acquisition Corp. - Class A Ordinary Shares",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "TDWD"
+  },
+  {
+   "symbol": "TDWDR",
+   "name": "Tailwind 2.0 Acquisition Corp. - Rights",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "TDWDR"
+  },
+  {
+   "symbol": "WMT",
+   "name": "Walmart Inc. - Common Stock",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "WMT"
+  },
+  {
+   "symbol": "XXI",
+   "name": "Twenty One Capital, Inc. Class A Common Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "XXI"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "PLV",
+   "name": "Invesco Low Volatility Portfolio ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "PLV.TO",
+   "instruments": [
+    {
+     "name": "Invesco LowVolPortfl",
+     "symbol": "PLV"
+    }
+   ]
+  },
+  {
+   "symbol": "MHUA",
+   "name": "Meihua International Medical Technologies Co., Ltd. - Class A Ordinary Shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "MHUA"
+  },
+  {
+   "symbol": "ICTE",
+   "name": "Invesco S\u0026P/TSX Composite ESG Tilt Index ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "ICTE.TO",
+   "instruments": [
+    {
+     "name": "InvscoSP/TSXCmpESGTl",
+     "symbol": "ICTE"
+    }
+   ]
+  },
+  {
+   "symbol": "WMT",
+   "name": "Walmart Inc. Common Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "WMT"
+  },
+  {
+   "symbol": "QQJE",
+   "name": "Invesco ESG NASDAQ Next Gen 100 Index ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "QQJE.TO",
+   "instruments": [
+    {
+     "name": "InvescoNSDQNxGn100CA",
+     "symbol": "QQJE"
+    },
+    {
+     "name": "InvescoNSDQNG100CAHg",
+     "symbol": "QQJE.F"
+    }
+   ]
+  },
+  {
+   "symbol": "ISTE",
+   "name": "Invesco S\u0026P 500 ESG Tilt Index ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "ISTE.TO",
+   "instruments": [
+    {
+     "name": "InvescoS\u0026P500 Tlt CA",
+     "symbol": "ISTE"
+    },
+    {
+     "name": "InvescoS\u0026P500 T CaHg",
+     "symbol": "ISTE.F"
+    }
+   ]
+  },
+  {
+   "symbol": "IUCE",
+   "name": "Invesco S\u0026P US Total Market ESG Index ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "IUCE.TO",
+   "instruments": [
+    {
+     "name": "InvscoSP USMktESG CA",
+     "symbol": "IUCE"
+    },
+    {
+     "name": "InvscoSP USMktESG CH",
+     "symbol": "IUCE.F"
+    }
+   ]
+  },
+  {
+   "symbol": "IXTE",
+   "name": "Invesco S\u0026P/TSX 60 ESG Tilt Index ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "IXTE.TO",
+   "instruments": [
+    {
+     "name": "Invesco SPTSX60TltCA",
+     "symbol": "IXTE"
+    }
+   ]
+  },
+  {
+   "symbol": "PRO",
+   "name": "PROS Holdings, Inc. Common Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "PRO"
+  },
+  {
+   "symbol": "PFH.F",
+   "name": "Invesco Fundamental High Yield Corporate Bond Index ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "PFH.F.TO",
+   "instruments": [
+    {
+     "name": "Invesco CorpBndCA$Hg",
+     "symbol": "PFH.F"
+    }
+   ]
+  },
+  {
+   "symbol": "CEP",
+   "name": "Cantor Equity Partners, Inc. - Class A ordinary shares",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "CEP"
+  },
+  {
+   "symbol": "FSLY",
+   "name": "Fastly, Inc. Class A Common Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "FSLY"
+  },
+  {
+   "symbol": "IUTE",
+   "name": "Invesco S\u0026P US Total Market ESG Tilt Index ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "IUTE.TO",
+   "instruments": [
+    {
+     "name": "InvscoSP USMktESGTlC",
+     "symbol": "IUTE"
+    },
+    {
+     "name": "InvscoSP USMktESGTlH",
+     "symbol": "IUTE.F"
+    }
+   ]
+  },
+  {
+   "symbol": "TXSS",
+   "name": "Texas Capital Texas Small Cap Equity Index ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "TXSS"
+  },
+  {
+   "symbol": "IITE",
+   "name": "Invesco S\u0026P International Developed ESG Tilt Index ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "IITE.TO",
+   "instruments": [
+    {
+     "name": "InvscoSPIntDvESGTlCa",
+     "symbol": "IITE"
+    },
+    {
+     "name": "InvscoSPIntDvESGTlCH",
+     "symbol": "IITE.F"
+    }
+   ]
+  }
+ ]
+}
