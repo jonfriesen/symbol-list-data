@@ -1,0 +1,210 @@
+{
+ "added": [
+  {
+   "symbol": "TNX",
+   "name": "TenX Protocols Inc.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "TNX.V",
+   "instruments": [
+    {
+     "name": "TenX Protocols Inc.",
+     "symbol": "TNX"
+    }
+   ]
+  },
+  {
+   "symbol": "VMET",
+   "name": "Versamet Royalties Corporation",
+   "exchange": "TSX",
+   "yahoo_symbol": "VMET.TO",
+   "instruments": [
+    {
+     "name": "Versamet Rylt Corp",
+     "symbol": "VMET"
+    }
+   ]
+  },
+  {
+   "symbol": "AMCI",
+   "name": "AMC Robotics Corporation - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "AMCI"
+  },
+  {
+   "symbol": "BRRWW",
+   "name": "ProCap Financial, Inc. - Warrant.",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "BRRWW"
+  },
+  {
+   "symbol": "CRAC",
+   "name": "Crown Reserve Acquisition Corp. I - Class A Ordinary Shares",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "CRAC"
+  },
+  {
+   "symbol": "CRACR",
+   "name": "Crown Reserve Acquisition Corp. I - Rights",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "CRACR"
+  },
+  {
+   "symbol": "CRACW",
+   "name": "Crown Reserve Acquisition Corp. I - Warrant",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "CRACW"
+  },
+  {
+   "symbol": "DCX",
+   "name": "Digital Currency X Technology Inc. - Class A Ordinary Shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "DCX"
+  },
+  {
+   "symbol": "DSACU",
+   "name": "Daedalus Special Acquisition Corp. - Unit",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "DSACU"
+  },
+  {
+   "symbol": "MFIG",
+   "name": "Motley Fool Innovative Growth ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "MFIG"
+  },
+  {
+   "symbol": "MFMO",
+   "name": "Motley Fool Momentum Factor ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "MFMO"
+  },
+  {
+   "symbol": "MFVL",
+   "name": "Motley Fool Value Factor ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "MFVL"
+  },
+  {
+   "symbol": "PRMR",
+   "name": "PeakShares RMR Prime Equity ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "PRMR"
+  },
+  {
+   "symbol": "TJGC",
+   "name": "TJGC Group Limited - ordinary shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "TJGC"
+  },
+  {
+   "symbol": "TWAV",
+   "name": "TaoWeave, Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "TWAV"
+  },
+  {
+   "symbol": "WSGE",
+   "name": "Warren Street Global Equity ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "WSGE"
+  },
+  {
+   "symbol": "JMG",
+   "name": "JM Group Limited Ordinary Shares",
+   "exchange": "NYSE MKT",
+   "yahoo_symbol": "JMG"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "ATMVR",
+   "name": "AlphaVest Acquisition Corp - Right",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "ATMVR"
+  },
+  {
+   "symbol": "ADVM",
+   "name": "Adverum Biotechnologies, Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "ADVM"
+  },
+  {
+   "symbol": "ICY.P",
+   "name": "Iocaste Ventures Inc.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "ICY.P.V",
+   "instruments": [
+    {
+     "name": "Iocaste Ventures Inc.",
+     "symbol": "ICY.P"
+    }
+   ]
+  },
+  {
+   "symbol": "VMET",
+   "name": "Versamet Royalties Corporation",
+   "exchange": "TSXV",
+   "yahoo_symbol": "VMET.V",
+   "instruments": [
+    {
+     "name": "Versamet Royalties Corporation",
+     "symbol": "VMET"
+    }
+   ]
+  },
+  {
+   "symbol": "BRRWW",
+   "name": "ProCap Financial, Inc. - Warrant.",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "BRRWW"
+  },
+  {
+   "symbol": "AKRO",
+   "name": "Akero Therapeutics, Inc. - Common Stock",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "AKRO"
+  },
+  {
+   "symbol": "OBLG",
+   "name": "Oblong Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "OBLG"
+  },
+  {
+   "symbol": "SCS",
+   "name": "Steelcase Inc. Common Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "SCS"
+  },
+  {
+   "symbol": "RFL.W",
+   "name": "Rafael Holdings, Inc. Warrants to Purchase Shares of Class B Common Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "RFL.W"
+  },
+  {
+   "symbol": "ATMV",
+   "name": "AlphaVest Acquisition Corp - Ordinary Shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "ATMV"
+  },
+  {
+   "symbol": "ATMVU",
+   "name": "AlphaVest Acquisition Corp - Unit",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "ATMVU"
+  },
+  {
+   "symbol": "MCTR",
+   "name": "CTRL Group Limited - ordinary shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "MCTR"
+  },
+  {
+   "symbol": "CJET",
+   "name": "Chijet Motor Company, Inc. - Class A Ordinary Shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "CJET"
+  }
+ ]
+}
