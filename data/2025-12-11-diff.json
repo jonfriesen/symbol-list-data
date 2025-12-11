@@ -1,0 +1,72 @@
+{
+ "added": [
+  {
+   "symbol": "AAEQ",
+   "name": "Alpha Architect US Equity 2 ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "AAEQ"
+  },
+  {
+   "symbol": "CDNL",
+   "name": "Cardinal Infrastructure Group Inc. - Class A Common Stock",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "CDNL"
+  },
+  {
+   "symbol": "IALT",
+   "name": "iShares Systematic Alternatives Active ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "IALT"
+  },
+  {
+   "symbol": "MESHU",
+   "name": "Meshflow Acquisition Corp. - Units",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "MESHU"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "HSII",
+   "name": "Heidrick \u0026 Struggles International, Inc. - Common Stock",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "HSII"
+  },
+  {
+   "symbol": "ODP",
+   "name": "The ODP Corporation - Common Stock",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "ODP"
+  },
+  {
+   "symbol": "SRV.R",
+   "name": "NXG Cushing Midstream Energy Fund Rights (expiring December 11, 2025) Rights",
+   "exchange": "NYSE",
+   "yahoo_symbol": "SRV.R"
+  },
+  {
+   "symbol": "HTOOW",
+   "name": "Fusion Fuel Green PLC - Warrant",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "HTOOW"
+  },
+  {
+   "symbol": "TGH",
+   "name": "Tornado Infrastructure Equipment Ltd.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "TGH.V",
+   "instruments": [
+    {
+     "name": "Tornado Infrastructure Equipment Ltd.",
+     "symbol": "TGH"
+    }
+   ]
+  },
+  {
+   "symbol": "K",
+   "name": "Kellanova Common Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "K"
+  }
+ ]
+}
