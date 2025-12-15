@@ -1,0 +1,84 @@
+{
+ "added": [
+  {
+   "symbol": "ASBP",
+   "name": "Aspire Biopharma Holdings, Inc.  - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "ASBP"
+  },
+  {
+   "symbol": "ITHAU",
+   "name": "ITHAX Acquisition Corp III - Units",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "ITHAU"
+  },
+  {
+   "symbol": "TWLVU",
+   "name": "Twelve Seas Investment Company III - Units",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "TWLVU"
+  },
+  {
+   "symbol": "WLTH",
+   "name": "Wealthfront Corporation - Common Stock",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "WLTH"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "ARBKL",
+   "name": "Argo Blockchain plc - 8.75% Senior Notes due 2026",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "ARBKL"
+  },
+  {
+   "symbol": "SOL",
+   "name": "Emeren Group Ltd American Depositary Shares, each representing 10 shares",
+   "exchange": "NYSE",
+   "yahoo_symbol": "SOL"
+  },
+  {
+   "symbol": "CUBI$F",
+   "name": "Customers Bancorp, Inc Fixed-to-Floating Rate Non-Cumulative Perpetual Preferred Stock, Series F",
+   "exchange": "NYSE",
+   "yahoo_symbol": "CUBI$F"
+  },
+  {
+   "symbol": "RVPHW",
+   "name": "Reviva Pharmaceuticals Holdings, Inc. - Warrants",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "RVPHW"
+  },
+  {
+   "symbol": "BLMZ",
+   "name": "Harrison Global Holdings Inc. - Ordinary Shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "BLMZ"
+  },
+  {
+   "symbol": "ASBP",
+   "name": "Aspire Biopharma Holdings, Inc.  - Common Stock",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "ASBP"
+  },
+  {
+   "symbol": "ALE",
+   "name": "Allete, Inc.",
+   "exchange": "NYSE",
+   "yahoo_symbol": "ALE"
+  },
+  {
+   "symbol": "VTLE",
+   "name": "Vital Energy, Inc. Common Stock, par value $0.01 per share",
+   "exchange": "NYSE",
+   "yahoo_symbol": "VTLE"
+  },
+  {
+   "symbol": "GTLS$B",
+   "name": "Chart Industries, Inc. Depositary Shares, each Representing a 1/20th Interest in a Share of 6.75% Series B Mandatory Convertible Preferred Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "GTLS$B"
+  }
+ ]
+}
