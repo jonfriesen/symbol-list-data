@@ -1,0 +1,174 @@
+{
+ "added": [
+  {
+   "symbol": "PWER",
+   "name": "Global Power Solutions Corp.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "PWER.V",
+   "instruments": [
+    {
+     "name": "Global Power Solutions Corp.",
+     "symbol": "PWER"
+    }
+   ]
+  },
+  {
+   "symbol": "BCFN",
+   "name": "Baron Financials ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "BCFN"
+  },
+  {
+   "symbol": "BCTK",
+   "name": "Baron Technology ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "BCTK"
+  },
+  {
+   "symbol": "CMCSV",
+   "name": "Comcast Corporation - Class A Common Stock Ex-Distribution When Issued",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "CMCSV"
+  },
+  {
+   "symbol": "DTCX",
+   "name": "Datacentrex, Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "DTCX"
+  },
+  {
+   "symbol": "HAVA",
+   "name": "Harvard Ave Acquisition Corporation - Class A Ordinary Share",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "HAVA"
+  },
+  {
+   "symbol": "HAVAR",
+   "name": "Harvard Ave Acquisition Corporation - Rights that convert on a 1/10th of 1 basis to Class A ordinary Shares",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "HAVAR"
+  },
+  {
+   "symbol": "MMTX",
+   "name": "Miluna Acquisition Corp - Class A Ordinary Shares",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "MMTX"
+  },
+  {
+   "symbol": "MMTXW",
+   "name": "Miluna Acquisition Corp - Warrant",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "MMTXW"
+  },
+  {
+   "symbol": "PRTS",
+   "name": "CarParts.com, Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "PRTS"
+  },
+  {
+   "symbol": "VSNTV",
+   "name": "Versant Media Group, Inc. - Class A Common Stock When-Issued",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "VSNTV"
+  },
+  {
+   "symbol": "BPRE",
+   "name": "Bluerock Private Real Estate Fund Common Shares of Beneficial Interest",
+   "exchange": "NYSE",
+   "yahoo_symbol": "BPRE"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "TZUP",
+   "name": "Thumzup Media Corporation - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "TZUP"
+  },
+  {
+   "symbol": "BSJP",
+   "name": "Invesco BulletShares 2025 High Yield Corporate Bond ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "BSJP"
+  },
+  {
+   "symbol": "IBTF",
+   "name": "iShares iBonds Dec 2025 Term Treasury ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "IBTF"
+  },
+  {
+   "symbol": "PRTS",
+   "name": "CarParts.com, Inc. - Common Stock",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "PRTS"
+  },
+  {
+   "symbol": "GFR.R",
+   "name": "Greenfire Resources Ltd. Rights (expiring December 16, 2025) Rights",
+   "exchange": "NYSE",
+   "yahoo_symbol": "GFR.R"
+  },
+  {
+   "symbol": "BTFX",
+   "name": "CoinShares Bitcoin Leverage ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "BTFX"
+  },
+  {
+   "symbol": "BSCP",
+   "name": "Invesco BulletShares 2025 Corporate Bond ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "BSCP"
+  },
+  {
+   "symbol": "BEDU",
+   "name": "Bright Scholar Education Holdings Limited American Depositary Shares, each  representing four Class A Ordinary Share",
+   "exchange": "NYSE",
+   "yahoo_symbol": "BEDU"
+  },
+  {
+   "symbol": "BSMP",
+   "name": "Invesco BulletShares 2025 Municipal Bond ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "BSMP"
+  },
+  {
+   "symbol": "LLYVK",
+   "name": "Liberty Media Corporation - Series C Liberty Live Common Stock",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "LLYVK"
+  },
+  {
+   "symbol": "BARK.W",
+   "name": "BARK, Inc. Redeemable Warrants, each whole warrant exercisable for shares of Common Stock at an exercise price of $11.50 per share",
+   "exchange": "NYSE",
+   "yahoo_symbol": "BARK.W"
+  },
+  {
+   "symbol": "MSP",
+   "name": "Minaean SP Construction Corp.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "MSP.V",
+   "instruments": [
+    {
+     "name": "Minaean SP Construction Corp.",
+     "symbol": "MSP"
+    }
+   ]
+  },
+  {
+   "symbol": "GAINL",
+   "name": "Gladstone Investment Corporation - 8.00% Notes due 2028",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "GAINL"
+  },
+  {
+   "symbol": "LLYVA",
+   "name": "Liberty Media Corporation - Series A Liberty Live Common Stock",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "LLYVA"
+  }
+ ]
+}

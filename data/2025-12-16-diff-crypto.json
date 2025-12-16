@@ -1,0 +1,138 @@
+{
+ "added": [
+  {
+   "symbol": "OETHER",
+   "name": "Origin Ether (OETHER)"
+  },
+  {
+   "symbol": "TERA2",
+   "name": "Terareum (TERA2)"
+  },
+  {
+   "symbol": "ZEDCOIN",
+   "name": "ZedCoin (ZEDCOIN)"
+  },
+  {
+   "symbol": "XL1",
+   "name": "XL1 (XL1)"
+  },
+  {
+   "symbol": "BCONG",
+   "name": "BabyCong (BCONG)"
+  },
+  {
+   "symbol": "JBC",
+   "name": "Japan Brand Coin (JBC)"
+  },
+  {
+   "symbol": "HPP",
+   "name": "House Party Protocol (HPP)"
+  },
+  {
+   "symbol": "RAVENDEX",
+   "name": "Ravendex (RAVENDEX)"
+  },
+  {
+   "symbol": "MLG",
+   "name": "360noscope420blazeit (MLG)"
+  },
+  {
+   "symbol": "ARIO",
+   "name": "AR.IO Network (ARIO)"
+  },
+  {
+   "symbol": "BANK",
+   "name": "Lorenzo Protocol (BANK)"
+  },
+  {
+   "symbol": "SATOSHI",
+   "name": "SATOSHI•NAKAMOTO (SATOSHI)"
+  },
+  {
+   "symbol": "GENAI",
+   "name": "Gen AI BOT (GENAI)"
+  },
+  {
+   "symbol": "BTCBAM",
+   "name": "BitCoin Bam (BTCBAM)"
+  },
+  {
+   "symbol": "NPRO",
+   "name": "NPRO (NPRO)"
+  },
+  {
+   "symbol": "SELO",
+   "name": "SELO+ (SELO)"
+  },
+  {
+   "symbol": "TJRM",
+   "name": "Tajir Tech Hub (TJRM)"
+  },
+  {
+   "symbol": "MINAR",
+   "name": "Miner Arena (MINAR)"
+  },
+  {
+   "symbol": "PEOS",
+   "name": "EOS (pTokens) (PEOS)"
+  },
+  {
+   "symbol": "WECAN",
+   "name": "Wecan Group (WECAN)"
+  },
+  {
+   "symbol": "MAOMEME",
+   "name": "Mao (MAOMEME)"
+  },
+  {
+   "symbol": "GLP1",
+   "name": "GLP1 (GLP1)"
+  },
+  {
+   "symbol": "BLOOCYS",
+   "name": "BlooCYS (BLOOCYS)"
+  },
+  {
+   "symbol": "BITLAYER",
+   "name": "Bitlayer (BITLAYER)"
+  },
+  {
+   "symbol": "VFX",
+   "name": "ViFoxCoin (VFX)"
+  },
+  {
+   "symbol": "ASCN",
+   "name": "AlphaScan (ASCN)"
+  },
+  {
+   "symbol": "KEROSENE",
+   "name": "Kerosene (KEROSENE)"
+  },
+  {
+   "symbol": "MUNCAT",
+   "name": "MUNCAT (MUNCAT)"
+  },
+  {
+   "symbol": "PAPARAZZI",
+   "name": "Paparazzi Token (PAPARAZZI)"
+  },
+  {
+   "symbol": "AILAYER",
+   "name": "AILayer (AILAYER)"
+  },
+  {
+   "symbol": "CAMP",
+   "name": "Camp Network (CAMP)"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "TERAR",
+   "name": "Terareum (TERAR)"
+  },
+  {
+   "symbol": "BABY4",
+   "name": "Baby 4 (BABY4)"
+  }
+ ]
+}
