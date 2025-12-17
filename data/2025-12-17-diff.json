@@ -1,0 +1,120 @@
+{
+ "added": [
+  {
+   "symbol": "KNOX",
+   "name": "Vault Strategic Mining Corp.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "KNOX.V",
+   "instruments": [
+    {
+     "name": "Vault Strategic Mining Corp.",
+     "symbol": "KNOX"
+    }
+   ]
+  },
+  {
+   "symbol": "ANDG",
+   "name": "Andersen Group Inc. Class A Common Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "ANDG"
+  },
+  {
+   "symbol": "BEG",
+   "name": "Leverage Shares 2x Long BE Daily ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "BEG"
+  },
+  {
+   "symbol": "CRANU",
+   "name": "Crane Harbor Acquisition Corp. II - Units",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "CRANU"
+  },
+  {
+   "symbol": "DBSC",
+   "name": "Deepwater Beachfront Small Cap ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "DBSC"
+  },
+  {
+   "symbol": "GEVG",
+   "name": "Leverage Shares 2X Long GEV Daily ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "GEVG"
+  },
+  {
+   "symbol": "IREG",
+   "name": "Leverage Shares 2X Long IREN Daily ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "IREG"
+  },
+  {
+   "symbol": "LLYVA",
+   "name": "Liberty Live Holdings, Inc. - Series A Liberty Live Group Common Stock",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "LLYVA"
+  },
+  {
+   "symbol": "LLYVK",
+   "name": "Liberty Live Holdings, Inc. - Series C Liberty Live Group Common Stock",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "LLYVK"
+  },
+  {
+   "symbol": "SATG",
+   "name": "Leverage Shares 2X Long SATS Daily ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "SATG"
+  },
+  {
+   "symbol": "YBST",
+   "name": "GraniteShares YieldBoost Single Stock Universe ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "YBST"
+  },
+  {
+   "symbol": "YBTY",
+   "name": "GraniteShares YieldBoost TopYielders ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "YBTY"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "HWM$",
+   "name": "Howmet Aerospace Inc. $3.75 Preferred Stock",
+   "exchange": "NYSE MKT",
+   "yahoo_symbol": "HWM$"
+  },
+  {
+   "symbol": "RBOT.W",
+   "name": "Vicarious Surgical Inc. Warrants, each whole warrant exercisable for one share of Class A Common Stock at an exercise price of $11.50 per share",
+   "exchange": "NYSE",
+   "yahoo_symbol": "RBOT.W"
+  },
+  {
+   "symbol": "CUSN",
+   "name": "Cornish Metals Inc.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "CUSN.V",
+   "instruments": [
+    {
+     "name": "Cornish Metals Inc.",
+     "symbol": "CUSN"
+    }
+   ]
+  },
+  {
+   "symbol": "DIA",
+   "name": "Margaret Lake Diamonds Inc.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "DIA.V",
+   "instruments": [
+    {
+     "name": "Margaret Lake Diamonds Inc.",
+     "symbol": "DIA"
+    }
+   ]
+  }
+ ]
+}
