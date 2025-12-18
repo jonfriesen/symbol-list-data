@@ -1,0 +1,114 @@
+{
+ "added": [
+  {
+   "symbol": "BIXI",
+   "name": "Bitcoin Infrastructure Acquisition Corp Ltd. - Class A Ordinary Shares",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "BIXI"
+  },
+  {
+   "symbol": "BIXIW",
+   "name": "Bitcoin Infrastructure Acquisition Corp Ltd. - Warrants",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "BIXIW"
+  },
+  {
+   "symbol": "CCXIU",
+   "name": "Churchill Capital Corp XI - Units",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "CCXIU"
+  },
+  {
+   "symbol": "IRHOU",
+   "name": "Iron Horse Acquisitions II Corp. - Units",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "IRHOU"
+  },
+  {
+   "symbol": "MATE",
+   "name": "Man Active Trend Enhanced ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "MATE"
+  },
+  {
+   "symbol": "MDLN",
+   "name": "Medline Inc. - Class A common stock",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "MDLN"
+  },
+  {
+   "symbol": "MEMA",
+   "name": "Man Active Emerging Markets Alternative ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "MEMA"
+  },
+  {
+   "symbol": "VEON",
+   "name": "VEON Ltd. - American Depositary Shares",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "VEON"
+  },
+  {
+   "symbol": "FJET",
+   "name": "Starfighters Space, Inc. Common Stock",
+   "exchange": "NYSE MKT",
+   "yahoo_symbol": "FJET"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "SCE$J",
+   "name": "Southern California Edison Company 5.375% Fixed-to-Floating Rate Trust Preference Securities",
+   "exchange": "NYSE",
+   "yahoo_symbol": "SCE$J"
+  },
+  {
+   "symbol": "EVOK",
+   "name": "Evoke Pharma, Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "EVOK"
+  },
+  {
+   "symbol": "GLIBR",
+   "name": "GCI Liberty, Inc. - GCI Liberty, Inc. Series C Purchase Right",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "GLIBR"
+  },
+  {
+   "symbol": "STEP",
+   "name": "STEP Energy Services Ltd.",
+   "exchange": "TSX",
+   "yahoo_symbol": "STEP.TO",
+   "instruments": [
+    {
+     "name": "STEP Energy Serv",
+     "symbol": "STEP"
+    }
+   ]
+  },
+  {
+   "symbol": "VEON",
+   "name": "VEON Ltd. - American Depositary Shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "VEON"
+  },
+  {
+   "symbol": "SPNS",
+   "name": "Sapiens International Corporation N.V. - Common Shares",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "SPNS"
+  },
+  {
+   "symbol": "MFL",
+   "name": "Mawson Finland LImited",
+   "exchange": "TSXV",
+   "yahoo_symbol": "MFL.V",
+   "instruments": [
+    {
+     "name": "Mawson Finland Limited",
+     "symbol": "MFL"
+    }
+   ]
+  }
+ ]
+}
