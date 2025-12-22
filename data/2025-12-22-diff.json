@@ -1,0 +1,156 @@
+{
+ "added": [
+  {
+   "symbol": "STG",
+   "name": "STRACON Group Holding Inc.",
+   "exchange": "TSX",
+   "yahoo_symbol": "STG.TO",
+   "instruments": [
+    {
+     "name": "STRACON Grp Hldg Inc",
+     "symbol": "STG"
+    }
+   ]
+  },
+  {
+   "symbol": "GOFL",
+   "name": "Goldflare Exploration Inc.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "GOFL.V",
+   "instruments": [
+    {
+     "name": "Goldflare Exploration Inc.",
+     "symbol": "GOFL"
+    }
+   ]
+  },
+  {
+   "symbol": "LUNR",
+   "name": "LunR Royalties Corp.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "LUNR.V",
+   "instruments": [
+    {
+     "name": "LunR Royalties Corp.",
+     "symbol": "LUNR"
+    }
+   ]
+  },
+  {
+   "symbol": "OBUL",
+   "name": "One Bullion Limited",
+   "exchange": "TSXV",
+   "yahoo_symbol": "OBUL.V",
+   "instruments": [
+    {
+     "name": "One Bullion Limited",
+     "symbol": "OBUL"
+    }
+   ]
+  },
+  {
+   "symbol": "OBTC",
+   "name": "Osprey Bitcoin Trust",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "OBTC"
+  },
+  {
+   "symbol": "SCYX",
+   "name": "SCYNEXIS, Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "SCYX"
+  },
+  {
+   "symbol": "HTT",
+   "name": "High Templar Tech Limited American depositary shares, each representing one Class A ordinary share",
+   "exchange": "NYSE",
+   "yahoo_symbol": "HTT"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "ZK",
+   "name": "ZEEKR Intelligent Technology Holding Limited American Depositary Shares (each representing ten (10) Ordinary Shares)",
+   "exchange": "NYSE",
+   "yahoo_symbol": "ZK"
+  },
+  {
+   "symbol": "ARKOW",
+   "name": "ARKO Corp. - Warrant",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "ARKOW"
+  },
+  {
+   "symbol": "IGP",
+   "name": "Imperial Ginseng Products Ltd.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "IGP.V",
+   "instruments": [
+    {
+     "name": "Imperial Ginseng Products Ltd.",
+     "symbol": "IGP"
+    }
+   ]
+  },
+  {
+   "symbol": "SCYX",
+   "name": "SCYNEXIS, Inc. - Common Stock",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "SCYX"
+  },
+  {
+   "symbol": "IRBT",
+   "name": "iRobot Corporation - Common Stock",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "IRBT"
+  },
+  {
+   "symbol": "KEC",
+   "name": "Kiwetinohk Energy Corp.",
+   "exchange": "TSX",
+   "yahoo_symbol": "KEC.TO",
+   "instruments": [
+    {
+     "name": "Kiwetinohk Energy",
+     "symbol": "KEC"
+    }
+   ]
+  },
+  {
+   "symbol": "MSPRW",
+   "name": "MSP Recovery, Inc. - Warrant",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "MSPRW"
+  },
+  {
+   "symbol": "UWMC.W",
+   "name": "UWM Holdings Corporation Warrant",
+   "exchange": "NYSE",
+   "yahoo_symbol": "UWMC.W"
+  },
+  {
+   "symbol": "MPTI.W",
+   "name": "M-tron Industries, Inc. Warrants to Purchase Shares of Common Stock, Expiring on or before April 25, 2028",
+   "exchange": "NYSE MKT",
+   "yahoo_symbol": "MPTI.W"
+  },
+  {
+   "symbol": "QD",
+   "name": "Qudian Inc. American Depositary Shares, each representing one Class A Ordinary Share",
+   "exchange": "NYSE",
+   "yahoo_symbol": "QD"
+  },
+  {
+   "symbol": "MSPRZ",
+   "name": "MSP Recovery, Inc. - Warrant",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "MSPRZ"
+  },
+  {
+   "symbol": "MSPR",
+   "name": "MSP Recovery, Inc. - Class A Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "MSPR"
+  }
+ ]
+}
