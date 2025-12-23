@@ -1,0 +1,582 @@
+{
+ "added": [
+  {
+   "symbol": "ALGR",
+   "name": "Algo Grande Copper Corp.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "ALGR.V",
+   "instruments": [
+    {
+     "name": "Algo Grande Copper Corp.",
+     "symbol": "ALGR"
+    }
+   ]
+  },
+  {
+   "symbol": "MMMM",
+   "name": "3M CDR (CAD Hedged)",
+   "exchange": "TSX",
+   "yahoo_symbol": "MMMM.TO",
+   "instruments": [
+    {
+     "name": "3M CDR Hgd",
+     "symbol": "MMMM"
+    }
+   ]
+  },
+  {
+   "symbol": "ABT",
+   "name": "Abbott Labs CDR (CAD Hedged)",
+   "exchange": "TSX",
+   "yahoo_symbol": "ABT.TO",
+   "instruments": [
+    {
+     "name": "AbbottLab CDR Hgd",
+     "symbol": "ABT"
+    }
+   ]
+  },
+  {
+   "symbol": "ABNB",
+   "name": "Airbnb CDR (CAD Hedged)",
+   "exchange": "TSX",
+   "yahoo_symbol": "ABNB.TO",
+   "instruments": [
+    {
+     "name": "Airbnb CDR CAN Hgd",
+     "symbol": "ABNB"
+    }
+   ]
+  },
+  {
+   "symbol": "AXP",
+   "name": "American Express CDR (CAD Hedged)",
+   "exchange": "TSX",
+   "yahoo_symbol": "AXP.TO",
+   "instruments": [
+    {
+     "name": "American Ex CDR Hgd",
+     "symbol": "AXP"
+    }
+   ]
+  },
+  {
+   "symbol": "AMGN",
+   "name": "Amgen CDR (CAD Hedged)",
+   "exchange": "TSX",
+   "yahoo_symbol": "AMGN.TO",
+   "instruments": [
+    {
+     "name": "Amgen CDR CAN Hgd",
+     "symbol": "AMGN"
+    }
+   ]
+  },
+  {
+   "symbol": "AMAT",
+   "name": "Applied Materials CDR (CAD Hedged)",
+   "exchange": "TSX",
+   "yahoo_symbol": "AMAT.TO",
+   "instruments": [
+    {
+     "name": "ApplMatl CDR Hgd",
+     "symbol": "AMAT"
+    }
+   ]
+  },
+  {
+   "symbol": "AZO",
+   "name": "AutoZone CDR (CAD Hedged)",
+   "exchange": "TSX",
+   "yahoo_symbol": "AZO.TO",
+   "instruments": [
+    {
+     "name": "AutoZone CDR Hgd",
+     "symbol": "AZO"
+    }
+   ]
+  },
+  {
+   "symbol": "BLK",
+   "name": "BlackRock CDR (CAD Hedged)",
+   "exchange": "TSX",
+   "yahoo_symbol": "BLK.TO",
+   "instruments": [
+    {
+     "name": "BlackRock CDR Hgd",
+     "symbol": "BLK"
+    }
+   ]
+  },
+  {
+   "symbol": "BX",
+   "name": "Blackstone CDR (CAD Hedged)",
+   "exchange": "TSX",
+   "yahoo_symbol": "BX.TO",
+   "instruments": [
+    {
+     "name": "BlackStone CDR Hgd",
+     "symbol": "BX"
+    }
+   ]
+  },
+  {
+   "symbol": "BKNG",
+   "name": "Booking CDR (CAD Hedged)",
+   "exchange": "TSX",
+   "yahoo_symbol": "BKNG.TO",
+   "instruments": [
+    {
+     "name": "Booking CDR Hgd",
+     "symbol": "BKNG"
+    }
+   ]
+  },
+  {
+   "symbol": "SCHW",
+   "name": "Charles Schwab CDR (CAD Hedged)",
+   "exchange": "TSX",
+   "yahoo_symbol": "SCHW.TO",
+   "instruments": [
+    {
+     "name": "Chrle Schwab CDR Hgd",
+     "symbol": "SCHW"
+    }
+   ]
+  },
+  {
+   "symbol": "CHEV",
+   "name": "Chevron CDR (CAD Hedged)",
+   "exchange": "TSX",
+   "yahoo_symbol": "CHEV.TO",
+   "instruments": [
+    {
+     "name": "Chevron CDR Hgd",
+     "symbol": "CHEV"
+    }
+   ]
+  },
+  {
+   "symbol": "CMGS",
+   "name": "Chipotle CDR (CAD Hedged)",
+   "exchange": "TSX",
+   "yahoo_symbol": "CMGS.TO",
+   "instruments": [
+    {
+     "name": "Chipotle CDR Hgd",
+     "symbol": "CMGS"
+    }
+   ]
+  },
+  {
+   "symbol": "STZ",
+   "name": "Constellation Brands CDR (CAD Hedged)",
+   "exchange": "TSX",
+   "yahoo_symbol": "STZ.TO",
+   "instruments": [
+    {
+     "name": "ConstellB CDR Hgd",
+     "symbol": "STZ"
+    }
+   ]
+  },
+  {
+   "symbol": "CVS",
+   "name": "CVS Health CDR (CAD Hedged)",
+   "exchange": "TSX",
+   "yahoo_symbol": "CVS.TO",
+   "instruments": [
+    {
+     "name": "CVS Health CDR Hgd",
+     "symbol": "CVS"
+    }
+   ]
+  },
+  {
+   "symbol": "DEER",
+   "name": "Deere CDR (CAD Hedged)",
+   "exchange": "TSX",
+   "yahoo_symbol": "DEER.TO",
+   "instruments": [
+    {
+     "name": "Deere CDR CAN Hgd",
+     "symbol": "DEER"
+    }
+   ]
+  },
+  {
+   "symbol": "FI",
+   "name": "Fiserv CDR (CAD Hedged)",
+   "exchange": "TSX",
+   "yahoo_symbol": "FI.TO",
+   "instruments": [
+    {
+     "name": "Fiserv CDR CAN Hgd",
+     "symbol": "FI"
+    }
+   ]
+  },
+  {
+   "symbol": "F",
+   "name": "Ford CDR (CAD Hedged)",
+   "exchange": "TSX",
+   "yahoo_symbol": "F.TO",
+   "instruments": [
+    {
+     "name": "Ford CDR CAN Hgd",
+     "symbol": "F"
+    }
+   ]
+  },
+  {
+   "symbol": "GILD",
+   "name": "Gilead Sciences CDR (CAD Hedged)",
+   "exchange": "TSX",
+   "yahoo_symbol": "GILD.TO",
+   "instruments": [
+    {
+     "name": "GileadSci CDR Hgd",
+     "symbol": "GILD"
+    }
+   ]
+  },
+  {
+   "symbol": "HON",
+   "name": "Honeywell CDR (CAD Hedged)",
+   "exchange": "TSX",
+   "yahoo_symbol": "HON.TO",
+   "instruments": [
+    {
+     "name": "Honeywell CDR Hgd",
+     "symbol": "HON"
+    }
+   ]
+  },
+  {
+   "symbol": "KKR",
+   "name": "KKR CDR (CAD Hedged)",
+   "exchange": "TSX",
+   "yahoo_symbol": "KKR.TO",
+   "instruments": [
+    {
+     "name": "KKR CDR Hgd",
+     "symbol": "KKR"
+    }
+   ]
+  },
+  {
+   "symbol": "MRK",
+   "name": "Merck CDR (CAD Hedged)",
+   "exchange": "TSX",
+   "yahoo_symbol": "MRK.TO",
+   "instruments": [
+    {
+     "name": "Merck CDR Hgd",
+     "symbol": "MRK"
+    }
+   ]
+  },
+  {
+   "symbol": "MS",
+   "name": "Morgan Stanley CDR (CAD Hedged)",
+   "exchange": "TSX",
+   "yahoo_symbol": "MS.TO",
+   "instruments": [
+    {
+     "name": "MorganStan CDR Hgd",
+     "symbol": "MS"
+    }
+   ]
+  },
+  {
+   "symbol": "NKE",
+   "name": "NIKE CDR (CAD Hedged)",
+   "exchange": "TSX",
+   "yahoo_symbol": "NKE.TO",
+   "instruments": [
+    {
+     "name": "NIKE CDR Hgd",
+     "symbol": "NKE"
+    }
+   ]
+  },
+  {
+   "symbol": "OXY",
+   "name": "Occidental Petroleum CDR (CAD Hedged)",
+   "exchange": "TSX",
+   "yahoo_symbol": "OXY.TO",
+   "instruments": [
+    {
+     "name": "Oxy Petro CDR Hgd",
+     "symbol": "OXY"
+    }
+   ]
+  },
+  {
+   "symbol": "PEP",
+   "name": "Pepsi CDR (CAD Hedged)",
+   "exchange": "TSX",
+   "yahoo_symbol": "PEP.TO",
+   "instruments": [
+    {
+     "name": "Pepsi CDR Hgd",
+     "symbol": "PEP"
+    }
+   ]
+  },
+  {
+   "symbol": "PG",
+   "name": "Procter \u0026 Gamble CDR (CAD Hedged)",
+   "exchange": "TSX",
+   "yahoo_symbol": "PG.TO",
+   "instruments": [
+    {
+     "name": "P\u0026G CDR Hgd",
+     "symbol": "PG"
+    }
+   ]
+  },
+  {
+   "symbol": "RIC",
+   "name": "Richards Group Inc.",
+   "exchange": "TSX",
+   "yahoo_symbol": "RIC.TO",
+   "instruments": [
+    {
+     "name": "Richards Grp Inc Unt",
+     "symbol": "RIC"
+    }
+   ]
+  },
+  {
+   "symbol": "RTX",
+   "name": "RTX CDR (CAD Hedged)",
+   "exchange": "TSX",
+   "yahoo_symbol": "RTX.TO",
+   "instruments": [
+    {
+     "name": "RTX CDR Hgd",
+     "symbol": "RTX"
+    }
+   ]
+  },
+  {
+   "symbol": "SPGI",
+   "name": "S\u0026P Global CDR (CAD Hedged)",
+   "exchange": "TSX",
+   "yahoo_symbol": "SPGI.TO",
+   "instruments": [
+    {
+     "name": "S\u0026PGlobal CDR Hgd",
+     "symbol": "SPGI"
+    }
+   ]
+  },
+  {
+   "symbol": "CRM",
+   "name": "Salesforce CDR (CAD Hedged)",
+   "exchange": "TSX",
+   "yahoo_symbol": "CRM.TO",
+   "instruments": [
+    {
+     "name": "Salesforce CDR Hgd",
+     "symbol": "CRM"
+    }
+   ]
+  },
+  {
+   "symbol": "NOWS",
+   "name": "ServiceNow CDR (CAD Hedged)",
+   "exchange": "TSX",
+   "yahoo_symbol": "NOWS.TO",
+   "instruments": [
+    {
+     "name": "ServiceNow CDR Hgd",
+     "symbol": "NOWS"
+    }
+   ]
+  },
+  {
+   "symbol": "SBUX",
+   "name": "Starbucks CDR (CAD Hedged)",
+   "exchange": "TSX",
+   "yahoo_symbol": "SBUX.TO",
+   "instruments": [
+    {
+     "name": "Starbucks CDR Hgd",
+     "symbol": "SBUX"
+    }
+   ]
+  },
+  {
+   "symbol": "TXN",
+   "name": "Texas Instruments CDR (CAD Hedged)",
+   "exchange": "TSX",
+   "yahoo_symbol": "TXN.TO",
+   "instruments": [
+    {
+     "name": "TexasInst CDR Hgd",
+     "symbol": "TXN"
+    }
+   ]
+  },
+  {
+   "symbol": "TJX",
+   "name": "TJX CDR (CAD Hedged)",
+   "exchange": "TSX",
+   "yahoo_symbol": "TJX.TO",
+   "instruments": [
+    {
+     "name": "TJX CDR CAN Hgd",
+     "symbol": "TJX"
+    }
+   ]
+  },
+  {
+   "symbol": "UNP",
+   "name": "Union Pacific CDR (CAD Hedged)",
+   "exchange": "TSX",
+   "yahoo_symbol": "UNP.TO",
+   "instruments": [
+    {
+     "name": "UnionPacif CDR Hgd",
+     "symbol": "UNP"
+    }
+   ]
+  },
+  {
+   "symbol": "UPS",
+   "name": "UPS CDR (CAD Hedged)",
+   "exchange": "TSX",
+   "yahoo_symbol": "UPS.TO",
+   "instruments": [
+    {
+     "name": "UPS CDR CAN Hgd",
+     "symbol": "UPS"
+    }
+   ]
+  },
+  {
+   "symbol": "VZ",
+   "name": "Verizon CDR (CAD Hedged)",
+   "exchange": "TSX",
+   "yahoo_symbol": "VZ.TO",
+   "instruments": [
+    {
+     "name": "Verizon CDR Hgd",
+     "symbol": "VZ"
+    }
+   ]
+  },
+  {
+   "symbol": "WAST",
+   "name": "Waste Management CDR (CAD Hedged)",
+   "exchange": "TSX",
+   "yahoo_symbol": "WAST.TO",
+   "instruments": [
+    {
+     "name": "WasteMgmt CDR Hgd",
+     "symbol": "WAST"
+    }
+   ]
+  },
+  {
+   "symbol": "WFCS",
+   "name": "Wells Fargo CDR (CAD Hedged)",
+   "exchange": "TSX",
+   "yahoo_symbol": "WFCS.TO",
+   "instruments": [
+    {
+     "name": "WellsFargo CDR Hgd",
+     "symbol": "WFCS"
+    }
+   ]
+  },
+  {
+   "symbol": "GARY",
+   "name": "Mango Growth ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "GARY"
+  },
+  {
+   "symbol": "IGAC",
+   "name": "Invest Green Acquisition Corporation - Class A Ordinary Shares",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "IGAC"
+  },
+  {
+   "symbol": "IGACR",
+   "name": "Invest Green Acquisition Corporation - Rights",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "IGACR"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "APED",
+   "name": "STKd 100% MSTR \u0026 100% COIN ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "APED"
+  },
+  {
+   "symbol": "SUP",
+   "name": "Northern Superior Resources Inc.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "SUP.V",
+   "instruments": [
+    {
+     "name": "Northern Superior Resources Inc.",
+     "symbol": "SUP"
+    }
+   ]
+  },
+  {
+   "symbol": "EPWK",
+   "name": "EPWK Holdings Ltd. - Class A Ordinary Shares",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "EPWK"
+  },
+  {
+   "symbol": "KAVL",
+   "name": "Kaival Brands Innovations Group, Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "KAVL"
+  },
+  {
+   "symbol": "RPI.UN",
+   "name": "Richards Packaging Income Fund",
+   "exchange": "TSX",
+   "yahoo_symbol": "RPI.UN.TO",
+   "instruments": [
+    {
+     "name": "Richards Pckng Un",
+     "symbol": "RPI.UN"
+    }
+   ]
+  },
+  {
+   "symbol": "SPCY",
+   "name": "STKd 100% SMCI \u0026 100% NVDA ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "SPCY"
+  },
+  {
+   "symbol": "GLBZ",
+   "name": "Glen Burnie Bancorp - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "GLBZ"
+  },
+  {
+   "symbol": "ZIPP",
+   "name": "STKd 100% UBER \u0026 100% TSLA ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "ZIPP"
+  },
+  {
+   "symbol": "QS",
+   "name": "QuantumScape Corporation Class A Common Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "QS"
+  }
+ ]
+}
