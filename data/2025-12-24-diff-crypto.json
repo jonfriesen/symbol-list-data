@@ -1,0 +1,34 @@
+{
+ "added": [
+  {
+   "symbol": "KDK",
+   "name": "Kodiak Token (KDK)"
+  },
+  {
+   "symbol": "BABY4",
+   "name": "Baby 4 (BABY4)"
+  },
+  {
+   "symbol": "MTHT",
+   "name": "MetaHint (MTHT)"
+  },
+  {
+   "symbol": "N4T",
+   "name": "Nobel For Trump (N4T)"
+  },
+  {
+   "symbol": "USDKG",
+   "name": "USDKG (USDKG)"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "ZEDCOIN",
+   "name": "ZedCoin (ZEDCOIN)"
+  },
+  {
+   "symbol": "MAOMEME",
+   "name": "Mao (MAOMEME)"
+  }
+ ]
+}

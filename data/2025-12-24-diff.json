@@ -1,0 +1,148 @@
+{
+ "added": [
+  {
+   "symbol": "GSKR",
+   "name": "Goldsky Resources Corp.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "GSKR.V",
+   "instruments": [
+    {
+     "name": "Goldsky Resources Corp.",
+     "symbol": "GSKR"
+    }
+   ]
+  },
+  {
+   "symbol": "SURF.UN",
+   "name": "Starlight U.S. Residential Fund (Multi-Family) Investment LP",
+   "exchange": "TSXV",
+   "yahoo_symbol": "SURF.UN.V",
+   "instruments": [
+    {
+     "name": "Starlight U.S. Residential Fund (Multi-Family) Investment LP",
+     "symbol": "SURF.UN"
+    }
+   ]
+  },
+  {
+   "symbol": "BVC",
+   "name": "BitVentures Limited - American Depositary Shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "BVC"
+  },
+  {
+   "symbol": "QS",
+   "name": "QuantumScape Corporation - Common Stock",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "QS"
+  },
+  {
+   "symbol": "SCPQU",
+   "name": "Social Commerce Partners Corporation - Unit",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "SCPQU"
+  },
+  {
+   "symbol": "SVAQU",
+   "name": "Silicon Valley Acquisition Corp. - Units",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "SVAQU"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "VIXI",
+   "name": "Defiance Enhanced Long Vol ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "VIXI"
+  },
+  {
+   "symbol": "JPX",
+   "name": "Defiance Daily Target 2X Long JPM ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "JPX"
+  },
+  {
+   "symbol": "IAS",
+   "name": "Integral Ad Science Holding Corp. - Common Stock",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "IAS"
+  },
+  {
+   "symbol": "LAZR",
+   "name": "Luminar Technologies, Inc.  - Class A Common Stock",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "LAZR"
+  },
+  {
+   "symbol": "BLUE",
+   "name": "Mines D'or Orbec Inc.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "BLUE.V",
+   "instruments": [
+    {
+     "name": "Mines D'or Orbec Inc.",
+     "symbol": "BLUE"
+    }
+   ]
+  },
+  {
+   "symbol": "ZYXI",
+   "name": "Zynex, Inc. - Common Stock",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "ZYXI"
+  },
+  {
+   "symbol": "XPM",
+   "name": "Defiance Daily Target 2x Long PM ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "XPM"
+  },
+  {
+   "symbol": "STEC",
+   "name": "Santech Holdings Limited - American Depositary Shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "STEC"
+  },
+  {
+   "symbol": "MTB",
+   "name": "MTB Metals Corp.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "MTB.V",
+   "instruments": [
+    {
+     "name": "MTB Metals Corp.",
+     "symbol": "MTB"
+    }
+   ]
+  },
+  {
+   "symbol": "FNM",
+   "name": "First Nordic Metals Corp.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "FNM.V",
+   "instruments": [
+    {
+     "name": "First Nordic Metals Corp.",
+     "symbol": "FNM"
+    }
+   ]
+  },
+  {
+   "symbol": "SURF.A",
+   "name": "Starlight U.S. Residential Fund",
+   "exchange": "TSXV",
+   "yahoo_symbol": "SURF.A.V",
+   "instruments": [
+    {
+     "name": "Starlight U.S. Residential Fund",
+     "symbol": "SURF.A"
+    },
+    {
+     "name": "Starlight U.S. Residential Fund USD",
+     "symbol": "SURF.U"
+    }
+   ]
+  }
+ ]
+}
