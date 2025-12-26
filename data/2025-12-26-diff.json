@@ -1,0 +1,30 @@
+{
+ "added": [
+  {
+   "symbol": "OPLN",
+   "name": "OPENLANE, Inc. Common Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "OPLN"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "VIVK",
+   "name": "Vivakor, Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "VIVK"
+  },
+  {
+   "symbol": "ELP",
+   "name": "Companhia Paranaense de Energia (COPEL) American Depositary Shares (each representing four (4) Class A Preferred Shares)",
+   "exchange": "NYSE",
+   "yahoo_symbol": "ELP"
+  },
+  {
+   "symbol": "KAR",
+   "name": "OPENLANE, Inc. Common Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "KAR"
+  }
+ ]
+}
