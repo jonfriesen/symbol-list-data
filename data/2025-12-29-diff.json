@@ -1,0 +1,48 @@
+{
+ "added": [
+  {
+   "symbol": "AEF",
+   "name": "AE Fuels Corporation",
+   "exchange": "TSXV",
+   "yahoo_symbol": "AEF.V",
+   "instruments": [
+    {
+     "name": "AE Fuels Corporation",
+     "symbol": "AEF"
+    }
+   ]
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "TTSH",
+   "name": "Tile Shop Holdings, Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "TTSH"
+  },
+  {
+   "symbol": "CVY.P",
+   "name": "Cavalry Capital Corp.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "CVY.P.V",
+   "instruments": [
+    {
+     "name": "Cavalry Capital Corp.",
+     "symbol": "CVY.P"
+    }
+   ]
+  },
+  {
+   "symbol": "CIFRW",
+   "name": "Cipher Mining Inc. - Warrant",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "CIFRW"
+  },
+  {
+   "symbol": "EICB",
+   "name": "Eagle Point Income Company Inc. 7.75% Series B Term Preferred Stock Due 2028",
+   "exchange": "NYSE",
+   "yahoo_symbol": "EICB"
+  }
+ ]
+}
