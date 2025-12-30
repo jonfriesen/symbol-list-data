@@ -1,0 +1,48 @@
+{
+ "added": [
+  {
+   "symbol": "RAITOKEN",
+   "name": "RAI (RAITOKEN)"
+  },
+  {
+   "symbol": "VK",
+   "name": "VK Token (VK)"
+  },
+  {
+   "symbol": "TEVI",
+   "name": "TEVI Coin (TEVI)"
+  },
+  {
+   "symbol": "COINBANK",
+   "name": "CoinBank (COINBANK)"
+  },
+  {
+   "symbol": "BEATSWAP",
+   "name": "BeatSwap (BEATSWAP)"
+  },
+  {
+   "symbol": "ATLASOFUSA",
+   "name": "Atlas (ATLASOFUSA)"
+  },
+  {
+   "symbol": "KGST",
+   "name": "KGST (KGST)"
+  },
+  {
+   "symbol": "SOLOM",
+   "name": "Solomon (SOLOM)"
+  },
+  {
+   "symbol": "VAM",
+   "name": "Vitalum (VAM)"
+  },
+  {
+   "symbol": "SHISA",
+   "name": "SHISA (SHISA)"
+  },
+  {
+   "symbol": "TBK",
+   "name": "TBK Token (TBK)"
+  }
+ ]
+}

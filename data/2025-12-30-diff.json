@@ -1,0 +1,78 @@
+{
+ "added": [
+  {
+   "symbol": "JJJJ",
+   "name": "J4 Ventures Resources Corp.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "JJJJ.V",
+   "instruments": [
+    {
+     "name": "J4 Ventures Resources Corp.",
+     "symbol": "JJJJ"
+    }
+   ]
+  },
+  {
+   "symbol": "ABX",
+   "name": "Abacus Global Management, Inc. Class A Common Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "ABX"
+  },
+  {
+   "symbol": "AXIA$C",
+   "name": "AXIA Energia American Depositary Shares, each representing one Preferred Class C Share",
+   "exchange": "NYSE",
+   "yahoo_symbol": "AXIA$C"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "CLNNW",
+   "name": "Clene Inc. - Warrant",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "CLNNW"
+  },
+  {
+   "symbol": "LGL.W",
+   "name": "LGL Group, Inc. (The) Warrants",
+   "exchange": "NYSE MKT",
+   "yahoo_symbol": "LGL.W"
+  },
+  {
+   "symbol": "ABLLL",
+   "name": "Abacus Global Management, Inc. - 9.875% Fixed Rate Senior Notes due 2028",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "ABLLL"
+  },
+  {
+   "symbol": "ABL",
+   "name": "Abacus Global Management, Inc. - Class A Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "ABL"
+  },
+  {
+   "symbol": "ILLR",
+   "name": "Triller Group Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "ILLR"
+  },
+  {
+   "symbol": "ILLRW",
+   "name": "Triller Group Inc. - Warrant",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "ILLRW"
+  },
+  {
+   "symbol": "JJJJ.P",
+   "name": "J4 Ventures Inc.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "JJJJ.P.V",
+   "instruments": [
+    {
+     "name": "J4 Ventures Inc.",
+     "symbol": "JJJJ.P"
+    }
+   ]
+  }
+ ]
+}
