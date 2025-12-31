@@ -1,0 +1,54 @@
+{
+ "added": [
+  {
+   "symbol": "FDRS",
+   "name": "Founder-Led ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "FDRS"
+  },
+  {
+   "symbol": "TSCM",
+   "name": "TimesSquare Quality Mid Cap Growth ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "TSCM"
+  },
+  {
+   "symbol": "ABXL",
+   "name": "Abacus Global Management, Inc. 9.875% Fixed Rate Senior Notes due 2028",
+   "exchange": "NYSE",
+   "yahoo_symbol": "ABXL"
+  },
+  {
+   "symbol": "HYT.V",
+   "name": "Blackrock Corporate High Yield Fund, Inc. Rights (expiring January 26, 2026) Rights when issued",
+   "exchange": "NYSE",
+   "yahoo_symbol": "HYT.V"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "DRH$A",
+   "name": "Diamondrock Hospitality Company 8.250% Series A Cumulative Redeemable Preferred Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "DRH$A"
+  },
+  {
+   "symbol": "MRUS",
+   "name": "Merus N.V. - Common Shares",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "MRUS"
+  },
+  {
+   "symbol": "WSTNU",
+   "name": "Westin Acquisition Corp - Units",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "WSTNU"
+  },
+  {
+   "symbol": "WOW",
+   "name": "WideOpenWest, Inc. Common Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "WOW"
+  }
+ ]
+}
