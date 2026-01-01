@@ -1,0 +1,28 @@
+{
+ "added": [
+  {
+   "symbol": "PFDE",
+   "name": "Pathfinder Disciplined US Equity ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "PFDE"
+  },
+  {
+   "symbol": "PFOE",
+   "name": "Pathfinder Focused Opportunities ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "PFOE"
+  },
+  {
+   "symbol": "WSTN",
+   "name": "Westin Acquisition Corp - Class A Ordinary Share",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "WSTN"
+  },
+  {
+   "symbol": "WSTNR",
+   "name": "Westin Acquisition Corp - Right",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "WSTNR"
+  }
+ ]
+}

@@ -1,0 +1,46 @@
+{
+ "added": [
+  {
+   "symbol": "2026",
+   "name": "2026 (2026)"
+  },
+  {
+   "symbol": "2026MEMECLUB",
+   "name": "2026 (2026MEMECLUB)"
+  },
+  {
+   "symbol": "FDGC",
+   "name": "FINTECH DIGITAL GOLD COIN (FDGC)"
+  },
+  {
+   "symbol": "XCL",
+   "name": "Xcellar (XCL)"
+  },
+  {
+   "symbol": "BABY4",
+   "name": "Baby 4 (BABY4)"
+  },
+  {
+   "symbol": "KO",
+   "name": "Kyuzo's Friends (KO)"
+  },
+  {
+   "symbol": "GIGL",
+   "name": "GIGGLE PANDA (GIGL)"
+  },
+  {
+   "symbol": "HTS",
+   "name": "Home3 (HTS)"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "MAOMEME",
+   "name": "Mao (MAOMEME)"
+  },
+  {
+   "symbol": "ZEDCOIN",
+   "name": "ZedCoin (ZEDCOIN)"
+  }
+ ]
+}
