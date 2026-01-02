@@ -1,0 +1,206 @@
+{
+ "added": [
+  {
+   "symbol": "AIS",
+   "name": "A.I.S. Resources Limited",
+   "exchange": "TSXV",
+   "yahoo_symbol": "AIS.V",
+   "instruments": [
+    {
+     "name": "A.I.S. Resources Limited",
+     "symbol": "AIS"
+    }
+   ]
+  },
+  {
+   "symbol": "PCLO",
+   "name": "Pharmacielo Ltd.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "PCLO.V",
+   "instruments": [
+    {
+     "name": "Pharmacielo Ltd.",
+     "symbol": "PCLO"
+    }
+   ]
+  },
+  {
+   "symbol": "BIP.PR.E",
+   "name": "Brookfield Infrastructure Partners L.P.",
+   "exchange": "TSX",
+   "yahoo_symbol": "BIP.PR.E.TO",
+   "instruments": [
+    {
+     "name": "Brookfield InfrasPr9",
+     "symbol": "BIP.PR.E"
+    },
+    {
+     "name": "Brookfield InfraPr11",
+     "symbol": "BIP.PR.F"
+    },
+    {
+     "name": "Brookfield Infras Un",
+     "symbol": "BIP.UN"
+    }
+   ]
+  },
+  {
+   "symbol": "ORIO",
+   "name": "Orion Digital Corp.",
+   "exchange": "TSX",
+   "yahoo_symbol": "ORIO.TO",
+   "instruments": [
+    {
+     "name": "Orion Digital Corp",
+     "symbol": "ORIO"
+    }
+   ]
+  },
+  {
+   "symbol": "ORIO",
+   "name": "Orion Digital Corp. - Common Shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "ORIO"
+  },
+  {
+   "symbol": "ZHOG",
+   "name": "F/m Opportunistic Income ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "ZHOG"
+  },
+  {
+   "symbol": "ACH",
+   "name": "Accendra Health, Inc. Common Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "ACH"
+  },
+  {
+   "symbol": "PNFP",
+   "name": "Pinnacle Financial Partners, Inc. Common stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "PNFP"
+  },
+  {
+   "symbol": "PNFP$A",
+   "name": "Pinnacle Financial Partners, Inc. Fixed-to-Floating Rate Non-Cumulative Perpetual Preferred Stock, Series A",
+   "exchange": "NYSE",
+   "yahoo_symbol": "PNFP$A"
+  },
+  {
+   "symbol": "PNFP$B",
+   "name": "Pinnacle Financial Partners, Inc. Fixed-to-Floating Rate Non-Cumulative Perpetual Preferred Stock, Series B",
+   "exchange": "NYSE",
+   "yahoo_symbol": "PNFP$B"
+  },
+  {
+   "symbol": "PNFP$C",
+   "name": "Pinnacle Financial Partners, Inc. Fixed-to-Floating Rate Non-Cumulative Perpetual Preferred Stock, Series C",
+   "exchange": "NYSE",
+   "yahoo_symbol": "PNFP$C"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "PNFPP",
+   "name": "Pinnacle Financial Partners, Inc. - Depositary shares of Pinnacle Financial Partners, Inc., each representing a 1/40th Interest in a share of its 6.75% Fixed-Rate Non-Cumulative Perpetual Preferred Stock, Series B",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "PNFPP"
+  },
+  {
+   "symbol": "OMI",
+   "name": "Owens \u0026 Minor, Inc. Common Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "OMI"
+  },
+  {
+   "symbol": "SNV",
+   "name": "Synovus Financial Corp. Common Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "SNV"
+  },
+  {
+   "symbol": "BIP.PR.B",
+   "name": "Brookfield Infrastructure Partners L.P.",
+   "exchange": "TSX",
+   "yahoo_symbol": "BIP.PR.B.TO",
+   "instruments": [
+    {
+     "name": "Brookfield InfrasPr3",
+     "symbol": "BIP.PR.B"
+    },
+    {
+     "name": "Brookfield InfrasPr9",
+     "symbol": "BIP.PR.E"
+    },
+    {
+     "name": "Brookfield InfraPr11",
+     "symbol": "BIP.PR.F"
+    },
+    {
+     "name": "Brookfield Infras Un",
+     "symbol": "BIP.UN"
+    }
+   ]
+  },
+  {
+   "symbol": "GRP.U",
+   "name": "Granite Real Estate Inc. Units",
+   "exchange": "NYSE",
+   "yahoo_symbol": "GRP.U"
+  },
+  {
+   "symbol": "MOGO",
+   "name": "Mogo Inc.",
+   "exchange": "TSX",
+   "yahoo_symbol": "MOGO.TO",
+   "instruments": [
+    {
+     "name": "Mogo Inc. J",
+     "symbol": "MOGO"
+    }
+   ]
+  },
+  {
+   "symbol": "SNV$D",
+   "name": "Synovus Financial Corp. Fixed-to-Floating Rate Non-Cumulative Perpetual Preferred Stock, Series D Liquation Preference $25.00 per Share",
+   "exchange": "NYSE",
+   "yahoo_symbol": "SNV$D"
+  },
+  {
+   "symbol": "PNFP",
+   "name": "Pinnacle Financial Partners, Inc. - Common Stock",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "PNFP"
+  },
+  {
+   "symbol": "MOGO",
+   "name": "Mogo Inc. - Common Shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "MOGO"
+  },
+  {
+   "symbol": "XFIX",
+   "name": "F/m Opportunistic Income ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "XFIX"
+  },
+  {
+   "symbol": "RJF$B",
+   "name": "Raymond James Financial, Inc. Depositary Shares, each representing a 1/40th interest in a share of 6.375% Fixed-to-Floating Rate Series B Non-Cumulative Perpetual Preferred Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "RJF$B"
+  },
+  {
+   "symbol": "SNV$E",
+   "name": "Synovus Financial Corp. 5.875% Fixed-Rate Reset Non-Cumulative Perpetual Preferred Stock, Series E",
+   "exchange": "NYSE",
+   "yahoo_symbol": "SNV$E"
+  },
+  {
+   "symbol": "OMCC",
+   "name": "Old Market Capital Corporation - Common Stock",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "OMCC"
+  }
+ ]
+}
