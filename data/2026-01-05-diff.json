@@ -1,0 +1,90 @@
+{
+ "added": [
+  {
+   "symbol": "ADG",
+   "name": "Arcus Development Group Inc.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "ADG.V",
+   "instruments": [
+    {
+     "name": "Arcus Development Group Inc.",
+     "symbol": "ADG"
+    }
+   ]
+  },
+  {
+   "symbol": "VSNT",
+   "name": "Versant Media Group, Inc. - Class A Common Stock",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "VSNT"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "PRPH",
+   "name": "ProPhase Labs, Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "PRPH"
+  },
+  {
+   "symbol": "BSLK",
+   "name": "Bolt Projects Holdings, Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "BSLK"
+  },
+  {
+   "symbol": "CMCSV",
+   "name": "Comcast Corporation - Class A Common Stock Ex-Distribution When Issued",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "CMCSV"
+  },
+  {
+   "symbol": "PTIX",
+   "name": "Protagenic Therapeutics, Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "PTIX"
+  },
+  {
+   "symbol": "VSNTV",
+   "name": "Versant Media Group, Inc. - Class A Common Stock When-Issued",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "VSNTV"
+  },
+  {
+   "symbol": "OPT",
+   "name": "Optiva Inc.",
+   "exchange": "TSX",
+   "yahoo_symbol": "OPT.TO",
+   "instruments": [
+    {
+     "name": "Optiva Inc. J",
+     "symbol": "OPT"
+    }
+   ]
+  },
+  {
+   "symbol": "CYBN",
+   "name": "Cybin Inc. Common Shares",
+   "exchange": "NYSE MKT",
+   "yahoo_symbol": "CYBN"
+  },
+  {
+   "symbol": "BSLKW",
+   "name": "Bolt Projects Holdings, Inc. - Warrant",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "BSLKW"
+  },
+  {
+   "symbol": "PTIXW",
+   "name": "Protagenic Therapeutics, Inc. - Warrant",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "PTIXW"
+  },
+  {
+   "symbol": "BFIN",
+   "name": "BankFinancial Corporation - Common Stock",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "BFIN"
+  }
+ ]
+}
