@@ -1,0 +1,54 @@
+{
+ "added": [
+  {
+   "symbol": "HELP",
+   "name": "Cybin Inc. - Common Stock",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "HELP"
+  },
+  {
+   "symbol": "ALUB",
+   "name": "Alussa Energy Acquisition Corp. II Class A Ordinary Shares",
+   "exchange": "NYSE",
+   "yahoo_symbol": "ALUB"
+  },
+  {
+   "symbol": "ALUB.W",
+   "name": "Alussa Energy Acquisition Corp. II Redeemable Warrants, each whole warrant exercisable for one Class A ordinary share at an exercise price of $11.50 per share",
+   "exchange": "NYSE",
+   "yahoo_symbol": "ALUB.W"
+  },
+  {
+   "symbol": "BIII.U",
+   "name": "Black Spade Acquisition III Co Units, each consisting of one Class A ordinary share and one-third of one redeemable warrant",
+   "exchange": "NYSE",
+   "yahoo_symbol": "BIII.U"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "PBBK",
+   "name": "PB Bankshares, Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "PBBK"
+  },
+  {
+   "symbol": "CVE.W",
+   "name": "Cenovus Energy Inc Warrants (each warrant entitles the holder to purchase one common share at an exercise price of C$6.54 per share)",
+   "exchange": "NYSE",
+   "yahoo_symbol": "CVE.W"
+  },
+  {
+   "symbol": "BNXA",
+   "name": "Banxa Holdings Inc.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "BNXA.V",
+   "instruments": [
+    {
+     "name": "Banxa Holdings Inc.",
+     "symbol": "BNXA"
+    }
+   ]
+  }
+ ]
+}
