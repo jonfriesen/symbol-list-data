@@ -1,0 +1,56 @@
+{
+ "added": [
+  {
+   "symbol": "NDX",
+   "name": "Indexed Finance (NDX)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "D",
+   "name": "Dar Open Network (D)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "USX",
+   "name": "USX Quantum (USX)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "MPAY",
+   "name": "Menapay (MPAY)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "CBBTC",
+   "name": "Coinbase Wrapped BTC (CBBTC)",
+   "built_on": "BASE"
+  },
+  {
+   "symbol": "GETH",
+   "name": "Guarded Ether (GETH)"
+  },
+  {
+   "symbol": "ONL",
+   "name": "On.Live (ONL)",
+   "built_on": "ETH"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "USX",
+   "name": "USX Quantum (USX)"
+  },
+  {
+   "symbol": "NDX",
+   "name": "Indexed Finance (NDX)"
+  },
+  {
+   "symbol": "MPAY",
+   "name": "Menapay (MPAY)"
+  },
+  {
+   "symbol": "ONL",
+   "name": "On.Live (ONL)"
+  }
+ ]
+}
