@@ -1,0 +1,108 @@
+{
+ "added": [
+  {
+   "symbol": "AMGR",
+   "name": "AGF American Growth Fund",
+   "exchange": "TSX",
+   "yahoo_symbol": "AMGR.TO",
+   "instruments": [
+    {
+     "name": "AGF Amrcn Grwth Fd E",
+     "symbol": "AMGR"
+    }
+   ]
+  },
+  {
+   "symbol": "AGSL",
+   "name": "AGF Global Select Fund",
+   "exchange": "TSX",
+   "yahoo_symbol": "AGSL.TO",
+   "instruments": [
+    {
+     "name": "AGF Glb Select Fund",
+     "symbol": "AGSL"
+    }
+   ]
+  },
+  {
+   "symbol": "DCOY",
+   "name": "Decoy Therapeutics Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "DCOY"
+  },
+  {
+   "symbol": "KIQQ",
+   "name": "KraneShares InspereX Nasdaq Dynamic Buffered High Income Index ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "KIQQ"
+  },
+  {
+   "symbol": "KUST",
+   "name": "Kustom Entertainment, Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "KUST"
+  },
+  {
+   "symbol": "KYNB",
+   "name": "Kyntra Bio, Inc. - Common Stock",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "KYNB"
+  },
+  {
+   "symbol": "SORNU",
+   "name": "Soren Acquisition Corp. - Unit",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "SORNU"
+  },
+  {
+   "symbol": "TSYX",
+   "name": "TSPY Lift ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "TSYX"
+  },
+  {
+   "symbol": "BUDA",
+   "name": "Buda Juice, Inc. Common Stock",
+   "exchange": "NYSE MKT",
+   "yahoo_symbol": "BUDA"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "CDTX",
+   "name": "Cidara Therapeutics, Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "CDTX"
+  },
+  {
+   "symbol": "FGEN",
+   "name": "FibroGen, Inc - Common Stock",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "FGEN"
+  },
+  {
+   "symbol": "CGC",
+   "name": "Canadian Gold Corp.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "CGC.V",
+   "instruments": [
+    {
+     "name": "Canadian Gold Corp.",
+     "symbol": "CGC"
+    }
+   ]
+  },
+  {
+   "symbol": "DGLY",
+   "name": "Digital Ally, Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "DGLY"
+  },
+  {
+   "symbol": "SLRX",
+   "name": "Salarius Pharmaceuticals, Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "SLRX"
+  }
+ ]
+}
