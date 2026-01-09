@@ -1,0 +1,72 @@
+{
+ "added": [
+  {
+   "symbol": "BBCQU",
+   "name": "Bleichroeder Acquisition Corp. II - Units",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "BBCQU"
+  },
+  {
+   "symbol": "NGEN",
+   "name": "NervGen Pharma Corp. - Common stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "NGEN"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "MKR",
+   "name": "Melkior Resources Inc.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "MKR.V",
+   "instruments": [
+    {
+     "name": "Melkior Resources Inc.",
+     "symbol": "MKR"
+    }
+   ]
+  },
+  {
+   "symbol": "CIO",
+   "name": "City Office REIT, Inc. Common Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "CIO"
+  },
+  {
+   "symbol": "CIO$A",
+   "name": "City Office REIT, Inc. 6.625% Series A Cumulative Redeemable Preferred Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "CIO$A"
+  },
+  {
+   "symbol": "GCL",
+   "name": "Colabor Group Inc.",
+   "exchange": "TSX",
+   "yahoo_symbol": "GCL.TO",
+   "instruments": [
+    {
+     "name": "Colabor Group Inc.",
+     "symbol": "GCL"
+    }
+   ]
+  },
+  {
+   "symbol": "MCSE",
+   "name": "Franklin Sustainable International Equity ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "MCSE"
+  },
+  {
+   "symbol": "HOUS",
+   "name": "Anywhere Real Estate Inc. Common Stock,",
+   "exchange": "NYSE",
+   "yahoo_symbol": "HOUS"
+  },
+  {
+   "symbol": "CLCO",
+   "name": "Cool Company Ltd. Common Shares",
+   "exchange": "NYSE",
+   "yahoo_symbol": "CLCO"
+  }
+ ]
+}
