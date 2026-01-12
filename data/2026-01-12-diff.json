@@ -1,0 +1,120 @@
+{
+ "added": [
+  {
+   "symbol": "CGM",
+   "name": "Canadian Goldfields Discovery Corp.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "CGM.V",
+   "instruments": [
+    {
+     "name": "Canadian Goldfields Discovery Corp.",
+     "symbol": "CGM"
+    }
+   ]
+  },
+  {
+   "symbol": "LYUV.U",
+   "name": "Lysander-Canso U.S. Corporate Value Bond Fund",
+   "exchange": "TSX",
+   "yahoo_symbol": "LYUV.U.TO",
+   "instruments": [
+    {
+     "name": "Lysander USCorBF ETF",
+     "symbol": "LYUV.U"
+    }
+   ]
+  },
+  {
+   "symbol": "AKTS",
+   "name": "Aktis Oncology, Inc. - Common stock",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "AKTS"
+  },
+  {
+   "symbol": "ATCX",
+   "name": "Atlas Critical Minerals Corporation - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "ATCX"
+  },
+  {
+   "symbol": "LONA",
+   "name": "LeonaBio, Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "LONA"
+  },
+  {
+   "symbol": "TWLV",
+   "name": "Twelve Seas Investment Company III - Class A Ordinary Shares",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "TWLV"
+  },
+  {
+   "symbol": "TWLVR",
+   "name": "Twelve Seas Investment Company III - Rights",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "TWLVR"
+  },
+  {
+   "symbol": "WSTNU",
+   "name": "Westin Acquisition Corp - Units",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "WSTNU"
+  },
+  {
+   "symbol": "ZKPU",
+   "name": "Lafayette Digital Acquisition Corp. I - Unit",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "ZKPU"
+  },
+  {
+   "symbol": "HYT.R",
+   "name": "Blackrock Corporate High Yield Fund, Inc. Rights (expiring January 26, 2026) Rights",
+   "exchange": "NYSE",
+   "yahoo_symbol": "HYT.R"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "NXC",
+   "name": "Nuveen California Select Tax-Free Income Portfolio Common Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "NXC"
+  },
+  {
+   "symbol": "NXN",
+   "name": "Nuveen New York Select Tax-Free Income Portfolio Common Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "NXN"
+  },
+  {
+   "symbol": "EVX",
+   "name": "European Electric Metals Inc.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "EVX.V",
+   "instruments": [
+    {
+     "name": "European Electric Metals Inc.",
+     "symbol": "EVX"
+    }
+   ]
+  },
+  {
+   "symbol": "RFEU",
+   "name": "First Trust RiverFront Dynamic Europe ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "RFEU"
+  },
+  {
+   "symbol": "ATHA",
+   "name": "Athira Pharma, Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "ATHA"
+  },
+  {
+   "symbol": "HYT.V",
+   "name": "Blackrock Corporate High Yield Fund, Inc. Rights (expiring January 26, 2026) Rights when issued",
+   "exchange": "NYSE",
+   "yahoo_symbol": "HYT.V"
+  }
+ ]
+}

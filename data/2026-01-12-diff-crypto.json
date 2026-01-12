@@ -1,0 +1,68 @@
+{
+ "added": [
+  {
+   "symbol": "ZAMA",
+   "name": "Zama (ZAMA)"
+  },
+  {
+   "symbol": "RNGR",
+   "name": "Ranger (RNGR)"
+  },
+  {
+   "symbol": "PEPENODE",
+   "name": "PEPENODE (PEPENODE)"
+  },
+  {
+   "symbol": "DN",
+   "name": "DeepNode (DN)"
+  },
+  {
+   "symbol": "VXC",
+   "name": "VINX COIN (VXC)"
+  },
+  {
+   "symbol": "JOJO",
+   "name": "JOJOWORLD (JOJO)"
+  },
+  {
+   "symbol": "USDM",
+   "name": "USDM (USDM)"
+  },
+  {
+   "symbol": "STAR",
+   "name": "Starpower Network Token (STAR)"
+  },
+  {
+   "symbol": "VRGX",
+   "name": "VROOMGO (VRGX)"
+  },
+  {
+   "symbol": "ZKFG",
+   "name": "ZKFG (ZKFG)"
+  },
+  {
+   "symbol": "HLS",
+   "name": "Helios (HLS)"
+  },
+  {
+   "symbol": "9BIT",
+   "name": "The9bit (9BIT)"
+  },
+  {
+   "symbol": "PVP",
+   "name": "Pvpfun (PVP)"
+  },
+  {
+   "symbol": "PCOCK",
+   "name": "PulseChain Peacock (PCOCK)"
+  },
+  {
+   "symbol": "RZR",
+   "name": "Rezor (RZR)"
+  },
+  {
+   "symbol": "ZSWAP",
+   "name": "ZygoSwap (ZSWAP)"
+  }
+ ]
+}
