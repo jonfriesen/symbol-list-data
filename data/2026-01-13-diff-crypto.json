@@ -1,0 +1,58 @@
+{
+ "added": [
+  {
+   "symbol": "FOGO",
+   "name": "Fogo (FOGO)"
+  },
+  {
+   "symbol": "NOTIFAI",
+   "name": "NotifAi News (NOTIFAI)"
+  },
+  {
+   "symbol": "MCM",
+   "name": "Mochimo (MCM)"
+  },
+  {
+   "symbol": "PSYOPANIME",
+   "name": "PsyopAnime (PSYOPANIME)"
+  },
+  {
+   "symbol": "ZEDCOIN",
+   "name": "ZedCoin (ZEDCOIN)"
+  },
+  {
+   "symbol": "MAOMEME",
+   "name": "Mao (MAOMEME)"
+  },
+  {
+   "symbol": "NPLCV1",
+   "name": "PlusCoin v1 (NPLCV1)"
+  },
+  {
+   "symbol": "SHIBAINU",
+   "name": "SHIBA INU (SHIBAINU)"
+  },
+  {
+   "symbol": "1COIN",
+   "name": "1 coin can change your life (1COIN)"
+  },
+  {
+   "symbol": "WFLR",
+   "name": "Wrapped Flare (WFLR)"
+  },
+  {
+   "symbol": "JOBCOIN",
+   "name": "buy instead of getting a job (JOBCOIN)"
+  },
+  {
+   "symbol": "PDI",
+   "name": "Phuture DeFi Index (PDI)"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "BABY4",
+   "name": "Baby 4 (BABY4)"
+  }
+ ]
+}

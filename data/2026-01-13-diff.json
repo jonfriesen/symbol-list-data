@@ -1,0 +1,54 @@
+{
+ "added": [
+  {
+   "symbol": "BKMI",
+   "name": "BNY Mellon Municipal Intermediate ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "BKMI"
+  },
+  {
+   "symbol": "BKMS",
+   "name": "BNY Mellon Municipal Short Duration ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "BKMS"
+  },
+  {
+   "symbol": "BMOP",
+   "name": "BNY Mellon Municipal Opportunities ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "BMOP"
+  },
+  {
+   "symbol": "BMRC",
+   "name": "Bank of Marin Bancorp - Common Stock",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "BMRC"
+  },
+  {
+   "symbol": "CRAN",
+   "name": "Crane Harbor Acquisition Corp. II - Class A Ordinary Shares",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "CRAN"
+  },
+  {
+   "symbol": "CRANR",
+   "name": "Crane Harbor Acquisition Corp. II - Rights",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "CRANR"
+  },
+  {
+   "symbol": "GCDT",
+   "name": "Green Circle Decarbonize Technology Limited Ordinary Shares",
+   "exchange": "NYSE MKT",
+   "yahoo_symbol": "GCDT"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "BMRC",
+   "name": "Bank of Marin Bancorp - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "BMRC"
+  }
+ ]
+}
