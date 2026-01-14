@@ -1,0 +1,120 @@
+{
+ "added": [
+  {
+   "symbol": "MOAT",
+   "name": "Moat Active Premium Yield ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "MOAT.TO",
+   "instruments": [
+    {
+     "name": "Moat Act Pre Yld ETF",
+     "symbol": "MOAT"
+    }
+   ]
+  },
+  {
+   "symbol": "ALBG",
+   "name": "Leverage Shares 2X Long ALB Daily ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "ALBG"
+  },
+  {
+   "symbol": "FRWD",
+   "name": "Nomura Transformational Technologies ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "FRWD"
+  },
+  {
+   "symbol": "HUTG",
+   "name": "Leverage Shares 2X Long HUT Daily ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "HUTG"
+  },
+  {
+   "symbol": "ONDG",
+   "name": "Leverage Shares 2X Long ONDS Daily ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "ONDG"
+  },
+  {
+   "symbol": "PLUL",
+   "name": "Leverage Shares 2X Long PLUG Daily ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "PLUL"
+  },
+  {
+   "symbol": "USGG",
+   "name": "Leverage Shares 2X Long USAR Daily ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "USGG"
+  },
+  {
+   "symbol": "UUUG",
+   "name": "Leverage Shares 2X Long UUUU Daily ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "UUUG"
+  },
+  {
+   "symbol": "VISN",
+   "name": "Vistance Networks, Inc.  - Common Stock",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "VISN"
+  },
+  {
+   "symbol": "MRSH",
+   "name": "Marsh Common Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "MRSH"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "TLT",
+   "name": "Theralase Technologies Inc.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "TLT.V",
+   "instruments": [
+    {
+     "name": "Theralase Technologies Inc.",
+     "symbol": "TLT"
+    }
+   ]
+  },
+  {
+   "symbol": "COMM",
+   "name": "CommScope Holding Company, Inc. - Common Stock",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "COMM"
+  },
+  {
+   "symbol": "MMC",
+   "name": "Marsh \u0026 McLennan Companies, Inc. Common Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "MMC"
+  },
+  {
+   "symbol": "SSF.UN",
+   "name": "Symphony Floating Rate Senior Loan Fund",
+   "exchange": "TSX",
+   "yahoo_symbol": "SSF.UN.TO",
+   "instruments": [
+    {
+     "name": "Symphony FltgLoan Un",
+     "symbol": "SSF.UN"
+    }
+   ]
+  },
+  {
+   "symbol": "CODX",
+   "name": "Co-Diagnostics, Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "CODX"
+  },
+  {
+   "symbol": "LEXXW",
+   "name": "Lexaria Bioscience Corp. - Warrant",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "LEXXW"
+  }
+ ]
+}
