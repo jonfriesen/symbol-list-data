@@ -1,0 +1,83 @@
+{
+ "added": [
+  {
+   "symbol": "SIGHT",
+   "name": "Empire of Sight (SIGHT)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "ENTROPY",
+   "name": "Entropy (ENTROPY)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "GRANT",
+   "name": "GrantiX Token (GRANT)",
+   "built_on": "ARB"
+  },
+  {
+   "symbol": "INTCON",
+   "name": "Intel (Ondo Tokenized) (INTCON)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "WCHZ",
+   "name": "Chiliz (Portal Bridge) (WCHZ)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "ERBB",
+   "name": "Exchange Request for Bitbon (ERBB)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "DETH",
+   "name": "DarkEther (DETH)"
+  },
+  {
+   "symbol": "CBBTC",
+   "name": "Coinbase Wrapped BTC (CBBTC)",
+   "built_on": "BASE"
+  },
+  {
+   "symbol": "TRAXX",
+   "name": "Traxx (TRAXX)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "BABY4",
+   "name": "Baby 4 (BABY4)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "CJL",
+   "name": "Cjournal (CJL)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "G",
+   "name": "Gravity (G)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "WHITEPEPE",
+   "name": "The White Pepe (WHITEPEPE)",
+   "built_on": "ETH"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "MAOMEME",
+   "name": "Mao (MAOMEME)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "ZEDCOIN",
+   "name": "ZedCoin (ZEDCOIN)"
+  },
+  {
+   "symbol": "TRAXX",
+   "name": "Traxx (TRAXX)"
+  }
+ ]
+}

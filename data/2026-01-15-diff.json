@@ -1,0 +1,126 @@
+{
+ "added": [
+  {
+   "symbol": "INTY",
+   "name": "Evolve International Equity UltraYield ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "INTY.TO",
+   "instruments": [
+    {
+     "name": "Evolve Int Eq UltY E",
+     "symbol": "INTY"
+    }
+   ]
+  },
+  {
+   "symbol": "BLKY",
+   "name": "Harvest Block Enhanced High Income Shares ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "BLKY.TO",
+   "instruments": [
+    {
+     "name": "Harv Blk Enh Hi In E",
+     "symbol": "BLKY"
+    }
+   ]
+  },
+  {
+   "symbol": "CRWY",
+   "name": "Harvest CrowdStrike Enhanced High Income Shares ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "CRWY.TO",
+   "instruments": [
+    {
+     "name": "Harv CrwdStrk En H E",
+     "symbol": "CRWY"
+    }
+   ]
+  },
+  {
+   "symbol": "JNJY",
+   "name": "Harvest JnJ Enhanced High Income Shares ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "JNJY.TO",
+   "instruments": [
+    {
+     "name": "Harv JnJ En Hi Inc E",
+     "symbol": "JNJY"
+    }
+   ]
+  },
+  {
+   "symbol": "JPHE",
+   "name": "Harvest JPHE Enhanced High Income Shares ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "JPHE.TO",
+   "instruments": [
+    {
+     "name": "Harv JPHE En H Inc E",
+     "symbol": "JPHE"
+    }
+   ]
+  },
+  {
+   "symbol": "NOVY",
+   "name": "Harvest Novo Enhanced High Income Shares ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "NOVY.TO",
+   "instruments": [
+    {
+     "name": "Harv Novo Enh H In E",
+     "symbol": "NOVY"
+    }
+   ]
+  },
+  {
+   "symbol": "ORCY",
+   "name": "Harvest Oracle Enhanced High Income Shares ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "ORCY.TO",
+   "instruments": [
+    {
+     "name": "Harv Oracle E H In E",
+     "symbol": "ORCY"
+    }
+   ]
+  },
+  {
+   "symbol": "ADAMO",
+   "name": "Adamas Trust, Inc. - 9.250% Senior Notes Due 2031",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "ADAMO"
+  },
+  {
+   "symbol": "BCTXL",
+   "name": "BriaCell Therapeutics Corp. - Warrants",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "BCTXL"
+  },
+  {
+   "symbol": "DFTX",
+   "name": "Definium Therapeutics, Inc.  - Common Shares",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "DFTX"
+  },
+  {
+   "symbol": "OIMAU",
+   "name": "OneIM Acquisition Corp. - Units",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "OIMAU"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "BFLY.W",
+   "name": "Butterfly Network, Inc. Warrants",
+   "exchange": "NYSE",
+   "yahoo_symbol": "BFLY.W"
+  },
+  {
+   "symbol": "MNMD",
+   "name": "Mind Medicine (MindMed) Inc. - Common Shares",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "MNMD"
+  }
+ ]
+}
