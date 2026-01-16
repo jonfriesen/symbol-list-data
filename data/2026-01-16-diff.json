@@ -1,0 +1,84 @@
+{
+ "added": [
+  {
+   "symbol": "FDRX",
+   "name": "Founder-Led 2X Daily ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "FDRX"
+  },
+  {
+   "symbol": "ITOC",
+   "name": "iTonic Holdings Ltd - Class A Ordinary Shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "ITOC"
+  },
+  {
+   "symbol": "JF",
+   "name": "J and Friends Holdings Limited - American Depositary Shares",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "JF"
+  },
+  {
+   "symbol": "ORLG",
+   "name": "Leverage Shares 2X Long ORLY Daily ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "ORLG"
+  },
+  {
+   "symbol": "XPEG",
+   "name": "Leverage Shares 2X Long XPEV Daily ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "XPEG"
+  },
+  {
+   "symbol": "CALY",
+   "name": "Callaway Golf Company Common Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "CALY"
+  },
+  {
+   "symbol": "SRJN",
+   "name": "Spire Inc. 6.375% Junior Subordinated Notes due 2086",
+   "exchange": "NYSE",
+   "yahoo_symbol": "SRJN"
+  },
+  {
+   "symbol": "TRTN$G",
+   "name": "Triton International Limited 7.500% Series G Cumulative Redeemable Perpetual Preference Shares",
+   "exchange": "NYSE",
+   "yahoo_symbol": "TRTN$G"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "MODG",
+   "name": "Topgolf Callaway Brands Corp. Common Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "MODG"
+  },
+  {
+   "symbol": "PT",
+   "name": "Pintec Technology Holdings Limited - American Depositary Shares",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "PT"
+  },
+  {
+   "symbol": "ECDA",
+   "name": "ECD Automotive Design, Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "ECDA"
+  },
+  {
+   "symbol": "PTHL",
+   "name": "Pheton Holdings Ltd - Class A Ordinary Shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "PTHL"
+  },
+  {
+   "symbol": "ECDAW",
+   "name": "ECD Automotive Design, Inc. - Warrant",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "ECDAW"
+  }
+ ]
+}
