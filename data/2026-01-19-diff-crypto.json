@@ -1,0 +1,72 @@
+{
+ "added": [
+  {
+   "symbol": "PLUGON",
+   "name": "Plug Power (Ondo Tokenized) (PLUGON)"
+  },
+  {
+   "symbol": "SNS",
+   "name": "Solana Name Service (SNS)"
+  },
+  {
+   "symbol": "GRABON",
+   "name": "Grab Holdings (Ondo Tokenized) (GRABON)"
+  },
+  {
+   "symbol": "NVDAON",
+   "name": "NVIDIA (Ondo Tokenized) (NVDAON)"
+  },
+  {
+   "symbol": "TQQQON",
+   "name": "ProShares UltraPro QQQ (Ondo Tokenized) (TQQQON)"
+  },
+  {
+   "symbol": "ONDSON",
+   "name": "Ondas Holdings (Ondo Tokenized) (ONDSON)"
+  },
+  {
+   "symbol": "ROLL",
+   "name": "Roll (ROLL)"
+  },
+  {
+   "symbol": "PREDIC",
+   "name": "PredicTools (PREDIC)"
+  },
+  {
+   "symbol": "TKNT",
+   "name": "TKN Token (TKNT)"
+  },
+  {
+   "symbol": "SPYON",
+   "name": "SPDR S\u0026P 500 ETF (Ondo Tokenized) (SPYON)"
+  },
+  {
+   "symbol": "BBAION",
+   "name": "BigBear.ai Holdings (Ondo Tokenized) (BBAION)"
+  },
+  {
+   "symbol": "GAST",
+   "name": "Gas Town (GAST)"
+  },
+  {
+   "symbol": "WMTON",
+   "name": "Walmart (Ondo Tokenized) (WMTON)"
+  },
+  {
+   "symbol": "PCT",
+   "name": "PET CASH TOKEN (PCT)"
+  },
+  {
+   "symbol": "XERA",
+   "name": "XERA (XERA)"
+  },
+  {
+   "symbol": "SLVON",
+   "name": "iShares Silver Trust (Ondo Tokenized) (SLVON)"
+  },
+  {
+   "symbol": "PX",
+   "name": "Not Pixel (PX)"
+  }
+ ]
+}
