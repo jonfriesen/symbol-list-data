@@ -1,0 +1,96 @@
+{
+ "added": [
+  {
+   "symbol": "QMVP",
+   "name": "HAMILTON CHAMPIONS TM U.S. Technology Index ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "QMVP.TO",
+   "instruments": [
+    {
+     "name": "Ham ChampsUSTech ETF",
+     "symbol": "QMVP"
+    }
+   ]
+  },
+  {
+   "symbol": "UMVP",
+   "name": "HAMILTON CHAMPIONS TM Utilities Index ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "UMVP.TO",
+   "instruments": [
+    {
+     "name": "Ham ChampsUtilInd ET",
+     "symbol": "UMVP"
+    }
+   ]
+  },
+  {
+   "symbol": "HPYB",
+   "name": "Harvest Premium Yield Canadian Bank ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "HPYB.TO",
+   "instruments": [
+    {
+     "name": "Harv PreYelCanBk ETF",
+     "symbol": "HPYB"
+    }
+   ]
+  },
+  {
+   "symbol": "HPYE",
+   "name": "Harvest Premium Yield Enhanced ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "HPYE.TO",
+   "instruments": [
+    {
+     "name": "Harv PreYel Enhn ETF",
+     "symbol": "HPYE"
+    }
+   ]
+  },
+  {
+   "symbol": "ITHA",
+   "name": "ITHAX Acquisition Corp III - Class A Ordinary Shares",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "ITHA"
+  },
+  {
+   "symbol": "ITHAW",
+   "name": "ITHAX Acquisition Corp III - Warrants",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "ITHAW"
+  },
+  {
+   "symbol": "SCII",
+   "name": "SC II Acquisition Corp. - Class A ordinary share",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "SCII"
+  },
+  {
+   "symbol": "SCIIR",
+   "name": "SC II Acquisition Corp. - Rights",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "SCIIR"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "IVP",
+   "name": "Inspire Veterinary Partners, Inc. - Class A Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "IVP"
+  },
+  {
+   "symbol": "FYBR",
+   "name": "Frontier Communications Parent, Inc. - Common Stock",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "FYBR"
+  },
+  {
+   "symbol": "SYBX",
+   "name": "Synlogic, Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "SYBX"
+  }
+ ]
+}
