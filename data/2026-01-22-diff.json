@@ -1,0 +1,84 @@
+{
+ "added": [
+  {
+   "symbol": "TOTC",
+   "name": "Totec Resources Ltd.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "TOTC.V",
+   "instruments": [
+    {
+     "name": "Totec Resources Ltd.",
+     "symbol": "TOTC"
+    }
+   ]
+  },
+  {
+   "symbol": "TOKN",
+   "name": "Global X Tokenization Ecosystem Index ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "TOKN.TO",
+   "instruments": [
+    {
+     "name": "GlblX TkzEco Idx ETF",
+     "symbol": "TOKN"
+    }
+   ]
+  },
+  {
+   "symbol": "OLOX",
+   "name": "Olenox Industries Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "OLOX"
+  },
+  {
+   "symbol": "PLSM",
+   "name": "Pulsenmore Ltd. - Ordinary Shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "PLSM"
+  },
+  {
+   "symbol": "SCZM",
+   "name": "Santacruz Silver Mining Ltd. - Common Shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "SCZM"
+  },
+  {
+   "symbol": "XCBEU",
+   "name": "X3 Acquisition Corp. Ltd. - Unit",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "XCBEU"
+  },
+  {
+   "symbol": "BTGO",
+   "name": "BitGo Holdings, Inc. Class A Common Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "BTGO"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "TRUE",
+   "name": "TrueCar, Inc. - Common Stock",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "TRUE"
+  },
+  {
+   "symbol": "SGBX",
+   "name": "Safe \u0026 Green Holdings Corp. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "SGBX"
+  },
+  {
+   "symbol": "TOTC.P",
+   "name": "Totec Resources Ltd.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "TOTC.P.V",
+   "instruments": [
+    {
+     "name": "Totec Resources Ltd.",
+     "symbol": "TOTC.P"
+    }
+   ]
+  }
+ ]
+}
