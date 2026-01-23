@@ -1,0 +1,78 @@
+{
+ "added": [
+  {
+   "symbol": "TITANCOIN",
+   "name": "Titan Coin (TITANCOIN)"
+  },
+  {
+   "symbol": "THEROS",
+   "name": "THEROS (THEROS)"
+  },
+  {
+   "symbol": "INSTANTSPONSOR",
+   "name": "Instant Sponsor Token (INSTANTSPONSOR)"
+  },
+  {
+   "symbol": "ALIENX",
+   "name": "ALIENX (ALIENX)"
+  },
+  {
+   "symbol": "NEWYORKCOIN",
+   "name": "NewYorkCoin (NEWYORKCOIN)"
+  },
+  {
+   "symbol": "SPORTFUN",
+   "name": "Sport.fun (SPORTFUN)"
+  },
+  {
+   "symbol": "BITPANDA",
+   "name": "Bitpanda Ecosystem Token (BITPANDA)"
+  },
+  {
+   "symbol": "SPON",
+   "name": "Spheron Network (SPON)"
+  },
+  {
+   "symbol": "ZENV1",
+   "name": "Horizen v1 (ZENV1)"
+  },
+  {
+   "symbol": "MARSTOKEN",
+   "name": "Mars Token (MARSTOKEN)"
+  },
+  {
+   "symbol": "LUKKI",
+   "name": "Lukki Operating Token (LUKKI)"
+  },
+  {
+   "symbol": "BABY4",
+   "name": "Baby 4 (BABY4)"
+  },
+  {
+   "symbol": "SKR",
+   "name": "Seeker (SKR)"
+  },
+  {
+   "symbol": "OWLTOKEN",
+   "name": "OWL Token (OWLTOKEN)"
+  },
+  {
+   "symbol": "SINGULARRY",
+   "name": "SINGULARRY (SINGULARRY)"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "OWL",
+   "name": "OWL Token (OWL)"
+  },
+  {
+   "symbol": "ZEDCOIN",
+   "name": "ZedCoin (ZEDCOIN)"
+  },
+  {
+   "symbol": "MAOMEME",
+   "name": "Mao (MAOMEME)"
+  }
+ ]
+}

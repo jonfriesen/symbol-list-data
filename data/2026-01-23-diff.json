@@ -1,0 +1,84 @@
+{
+ "added": [
+  {
+   "symbol": "ALOVU",
+   "name": "Aldabra 4 Liquidity Opportunity Vehicle, Inc. - Units",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "ALOVU"
+  },
+  {
+   "symbol": "RKNG",
+   "name": "Defiance Retail Kings ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "RKNG"
+  },
+  {
+   "symbol": "TDOG",
+   "name": "21shares Dogecoin ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "TDOG"
+  },
+  {
+   "symbol": "TEXX",
+   "name": "Horizon Kinetics Texas ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "TEXX"
+  },
+  {
+   "symbol": "GPGI",
+   "name": "GPGI, Inc. Class A Common Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "GPGI"
+  },
+  {
+   "symbol": "LEGO.U",
+   "name": "Legato Merger Corp. IV Units, each consisting of one ordinary share and one-third of one redeemable warrant",
+   "exchange": "NYSE MKT",
+   "yahoo_symbol": "LEGO.U"
+  },
+  {
+   "symbol": "SBXE",
+   "name": "SilverBox Corp V Class A Ordinary Shares",
+   "exchange": "NYSE",
+   "yahoo_symbol": "SBXE"
+  },
+  {
+   "symbol": "SBXE.W",
+   "name": "SilverBox Corp V Redeemable warrants, each whole warrant exercisable for one Class A Ordinary Share at an exercise price of $11.50",
+   "exchange": "NYSE",
+   "yahoo_symbol": "SBXE.W"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "GES",
+   "name": "Guess?, Inc. Common Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "GES"
+  },
+  {
+   "symbol": "PRB",
+   "name": "Probe Gold Inc.",
+   "exchange": "TSX",
+   "yahoo_symbol": "PRB.TO",
+   "instruments": [
+    {
+     "name": "Probe Gold Inc. J",
+     "symbol": "PRB"
+    }
+   ]
+  },
+  {
+   "symbol": "CMPO",
+   "name": "CompoSecure, Inc. Class A Common Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "CMPO"
+  },
+  {
+   "symbol": "INFR",
+   "name": "ClearBridge Sustainable Infrastructure ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "INFR"
+  }
+ ]
+}
