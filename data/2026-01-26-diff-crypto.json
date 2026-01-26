@@ -1,0 +1,38 @@
+{
+ "added": [
+  {
+   "symbol": "M3H",
+   "name": "MehVerseCoin (M3H)"
+  },
+  {
+   "symbol": "DONTCASH",
+   "name": "DONT (DONTCASH)"
+  },
+  {
+   "symbol": "ZEDCOIN",
+   "name": "ZedCoin (ZEDCOIN)"
+  },
+  {
+   "symbol": "IMUSIFY",
+   "name": "imusify (IMUSIFY)"
+  },
+  {
+   "symbol": "OWL",
+   "name": "Owlto (OWL)"
+  },
+  {
+   "symbol": "MAOMEME",
+   "name": "Mao (MAOMEME)"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "IMU",
+   "name": "imusify (IMU)"
+  },
+  {
+   "symbol": "BABY4",
+   "name": "Baby 4 (BABY4)"
+  }
+ ]
+}

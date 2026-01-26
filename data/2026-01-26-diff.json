@@ -1,0 +1,120 @@
+{
+ "added": [
+  {
+   "symbol": "PBAL",
+   "name": "PIMCO Managed Balanced Portfolio",
+   "exchange": "TSX",
+   "yahoo_symbol": "PBAL.TO",
+   "instruments": [
+    {
+     "name": "PIMCO mngd Blncd Prt",
+     "symbol": "PBAL"
+    }
+   ]
+  },
+  {
+   "symbol": "ARCIU",
+   "name": "Archimedes Tech SPAC Partners III Co. - Unit",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "ARCIU"
+  },
+  {
+   "symbol": "EQPT",
+   "name": "EquipmentShare.com Inc - Class A Common Stock",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "EQPT"
+  },
+  {
+   "symbol": "EZRA",
+   "name": "Reliance Global Group, Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "EZRA"
+  },
+  {
+   "symbol": "EZRAW",
+   "name": "Reliance Global Group, Inc. - Series A Warrants",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "EZRAW"
+  },
+  {
+   "symbol": "GPAC",
+   "name": "General Purpose Acquisition Corp. - Class A Ordinary Shares",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "GPAC"
+  },
+  {
+   "symbol": "GPACW",
+   "name": "General Purpose Acquisition Corp. - Warrant",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "GPACW"
+  },
+  {
+   "symbol": "HLXC",
+   "name": "Helix Acquisition Corp. III - Class A Ordinary Shares",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "HLXC"
+  },
+  {
+   "symbol": "PTORU",
+   "name": "Praetorian Acquisition Corp. - Units",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "PTORU"
+  },
+  {
+   "symbol": "NWAX",
+   "name": "New America Acquisition I Corp. Class A Common Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "NWAX"
+  },
+  {
+   "symbol": "NWAX.W",
+   "name": "New America Acquisition I Corp. Warrants, each whole warrant is exercisable to purchase one share of Class A common stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "NWAX.W"
+  },
+  {
+   "symbol": "RITM$F",
+   "name": "Rithm Capital Corp. 8.750% Series F Fixed-Rate Reset Cumulative Redeemable Preferred Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "RITM$F"
+  },
+  {
+   "symbol": "SAC",
+   "name": "Safeguard Acquisition Corp. Class A Ordinary Shares",
+   "exchange": "NYSE",
+   "yahoo_symbol": "SAC"
+  },
+  {
+   "symbol": "SAC.W",
+   "name": "Safeguard Acquisition Corp. Warrants, each whole warrant exercisable for one Class A ordinary share at an exercise price of $11.50 per share",
+   "exchange": "NYSE",
+   "yahoo_symbol": "SAC.W"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "RELIW",
+   "name": "Reliance Global Group, Inc. - Series A Warrants",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "RELIW"
+  },
+  {
+   "symbol": "RELI",
+   "name": "Reliance Global Group, Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "RELI"
+  },
+  {
+   "symbol": "ATXS",
+   "name": "Astria Therapeutics, Inc. - Common Stock",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "ATXS"
+  },
+  {
+   "symbol": "HYT.R",
+   "name": "Blackrock Corporate High Yield Fund, Inc. Rights (expiring January 26, 2026) Rights",
+   "exchange": "NYSE",
+   "yahoo_symbol": "HYT.R"
+  }
+ ]
+}
