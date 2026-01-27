@@ -1,0 +1,138 @@
+{
+ "added": [
+  {
+   "symbol": "AFR",
+   "name": "AFR NuVenture Resources Inc.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "AFR.V",
+   "instruments": [
+    {
+     "name": "AFR NuVenture Resources Inc.",
+     "symbol": "AFR"
+    }
+   ]
+  },
+  {
+   "symbol": "CBAP",
+   "name": "CI Balanced+ Asset Allocation ETF Fund",
+   "exchange": "TSX",
+   "yahoo_symbol": "CBAP.TO",
+   "instruments": [
+    {
+     "name": "CI BalAssetAlloc ETF",
+     "symbol": "CBAP"
+    }
+   ]
+  },
+  {
+   "symbol": "CEQP",
+   "name": "CI Equity+ Asset Allocation ETF Fund",
+   "exchange": "TSX",
+   "yahoo_symbol": "CEQP.TO",
+   "instruments": [
+    {
+     "name": "CI EqyAssetAlloc ETF",
+     "symbol": "CEQP"
+    }
+   ]
+  },
+  {
+   "symbol": "AEAQ",
+   "name": "Activate Energy Acquisition Corp. - Class A Ordinary Share",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "AEAQ"
+  },
+  {
+   "symbol": "AEAQW",
+   "name": "Activate Energy Acquisition Corp. - Warrant",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "AEAQW"
+  },
+  {
+   "symbol": "BMM",
+   "name": "Blue Moon Metals Inc. - Common Shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "BMM"
+  },
+  {
+   "symbol": "LFAC",
+   "name": "Leapfrog Acquisition Corporation - Class A Ordinary Shares",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "LFAC"
+  },
+  {
+   "symbol": "LFACW",
+   "name": "Leapfrog Acquisition Corporation - Warrants",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "LFACW"
+  },
+  {
+   "symbol": "VAVX",
+   "name": "VanEck Avalanche ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "VAVX"
+  },
+  {
+   "symbol": "MINE",
+   "name": "Mayfair Gold Corp. Common Shares",
+   "exchange": "NYSE MKT",
+   "yahoo_symbol": "MINE"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "AMDU",
+   "name": "Defiance Leveraged Long + Income AMD ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "AMDU"
+  },
+  {
+   "symbol": "TRIL",
+   "name": "Defiance Trillion Dollar Club Index ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "TRIL"
+  },
+  {
+   "symbol": "PLYM",
+   "name": "Plymouth Industrial REIT, Inc. Common Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "PLYM"
+  },
+  {
+   "symbol": "LLYZ",
+   "name": "Defiance Daily Target 2X Short LLY ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "LLYZ"
+  },
+  {
+   "symbol": "SMCC",
+   "name": "Defiance Leveraged Long + Income SMCI ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "SMCC"
+  },
+  {
+   "symbol": "HOOI",
+   "name": "Defiance Leveraged Long + Income HOOD ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "HOOI"
+  },
+  {
+   "symbol": "HIMY",
+   "name": "Defiance Leveraged Long + Income HIMS ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "HIMY"
+  },
+  {
+   "symbol": "ETHI",
+   "name": "Defiance Leveraged Long + Income Ethereum ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "ETHI"
+  },
+  {
+   "symbol": "PLT",
+   "name": "Defiance Leveraged Long + Income PLTR ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "PLT"
+  }
+ ]
+}
