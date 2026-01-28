@@ -1,0 +1,48 @@
+{
+ "added": [
+  {
+   "symbol": "NRGE",
+   "name": "New Resources Generation Energy (NRGE)"
+  },
+  {
+   "symbol": "CATWIFM",
+   "name": "catwifmask (CATWIFM)"
+  },
+  {
+   "symbol": "21",
+   "name": "2131KOBUSHIDE (21)"
+  },
+  {
+   "symbol": "GPUNET",
+   "name": "GPUnet (GPUNET)"
+  },
+  {
+   "symbol": "GMEON",
+   "name": "GameStop (Ondo Tokenized) (GMEON)"
+  },
+  {
+   "symbol": "CPNGON",
+   "name": "Coupang (Ondo Tokenized) (CPNGON)"
+  },
+  {
+   "symbol": "AALON",
+   "name": "American Airlines Group (Ondo Tokenized) (AALON)"
+  },
+  {
+   "symbol": "PENGO",
+   "name": "Petro Penguins (PENGO)"
+  },
+  {
+   "symbol": "BXE",
+   "name": "Banxchange (BXE)"
+  },
+  {
+   "symbol": "ASTHERUSUSDF",
+   "name": "Astherus USDF (ASTHERUSUSDF)"
+  },
+  {
+   "symbol": "XAUH",
+   "name": "Herculis Gold Coin (XAUH)"
+  }
+ ]
+}

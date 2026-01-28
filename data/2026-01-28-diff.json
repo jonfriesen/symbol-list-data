@@ -1,0 +1,96 @@
+{
+ "added": [
+  {
+   "symbol": "FISV",
+   "name": "Fiserv CDR (CAD Hedged)",
+   "exchange": "TSX",
+   "yahoo_symbol": "FISV.TO",
+   "instruments": [
+    {
+     "name": "Fiserv CDR CAN Hgd",
+     "symbol": "FISV"
+    }
+   ]
+  },
+  {
+   "symbol": "JIDE",
+   "name": "JPMorgan International Developed Equity Active ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "JIDE.TO",
+   "instruments": [
+    {
+     "name": "JPMorgan ID EqyAcETF",
+     "symbol": "JIDE"
+    }
+   ]
+  },
+  {
+   "symbol": "CUSD",
+   "name": "CrossingBridge Ultra-Short Duration ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "CUSD"
+  },
+  {
+   "symbol": "GIXXU",
+   "name": "GigCapital9 Corp. - Units",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "GIXXU"
+  },
+  {
+   "symbol": "HCAC",
+   "name": "Hall Chadwick Acquisition Corp. - Class A Ordinary Shares",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "HCAC"
+  },
+  {
+   "symbol": "HCACR",
+   "name": "Hall Chadwick Acquisition Corp. - Rights",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "HCACR"
+  },
+  {
+   "symbol": "KBON",
+   "name": "Karbon Capital Partners Corp. - Class A Ordinary Shares",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "KBON"
+  },
+  {
+   "symbol": "KBONW",
+   "name": "Karbon Capital Partners Corp. - Warrant",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "KBONW"
+  },
+  {
+   "symbol": "MLAAU",
+   "name": "Mountain Lake Acquisition Corp. II - Units",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "MLAAU"
+  },
+  {
+   "symbol": "VTIX",
+   "name": "Virtuix Holdings Inc. - Class A Common Stock",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "VTIX"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "SPC",
+   "name": "CrossingBridge Pre-Merger SPAC ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "SPC"
+  },
+  {
+   "symbol": "FI",
+   "name": "Fiserv CDR (CAD Hedged)",
+   "exchange": "TSX",
+   "yahoo_symbol": "FI.TO",
+   "instruments": [
+    {
+     "name": "Fiserv CDR CAN Hgd",
+     "symbol": "FI"
+    }
+   ]
+  }
+ ]
+}
