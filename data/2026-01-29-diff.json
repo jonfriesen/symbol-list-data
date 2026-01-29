@@ -1,0 +1,132 @@
+{
+ "added": [
+  {
+   "symbol": "FCAE",
+   "name": "Fidelity American Equity Fund",
+   "exchange": "TSX",
+   "yahoo_symbol": "FCAE.TO",
+   "instruments": [
+    {
+     "name": "Fidelity Amrcn Eq Fd",
+     "symbol": "FCAE"
+    }
+   ]
+  },
+  {
+   "symbol": "FLSE",
+   "name": "Fidelity Global Opportunities Long/Short Fund",
+   "exchange": "TSX",
+   "yahoo_symbol": "FLSE.TO",
+   "instruments": [
+    {
+     "name": "Fidelity Glb Op LgSh",
+     "symbol": "FLSE"
+    }
+   ]
+  },
+  {
+   "symbol": "BANXR",
+   "name": "ArrowMark Financial Corp. - Right",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "BANXR"
+  },
+  {
+   "symbol": "BBCQ",
+   "name": "Bleichroeder Acquisition Corp. II - Class A Ordinary Shares",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "BBCQ"
+  },
+  {
+   "symbol": "BBCQW",
+   "name": "Bleichroeder Acquisition Corp. II - Warrants",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "BBCQW"
+  },
+  {
+   "symbol": "GOAI",
+   "name": "Eva Live Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "GOAI"
+  },
+  {
+   "symbol": "KRAQU",
+   "name": "KRAKacquisition Corp - Unit",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "KRAQU"
+  },
+  {
+   "symbol": "PPHC",
+   "name": "Public Policy Holding Company, Inc. - Common Stock",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "PPHC"
+  },
+  {
+   "symbol": "QTI",
+   "name": "QT Imaging Holdings, Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "QTI"
+  },
+  {
+   "symbol": "SAAQU",
+   "name": "Space Asset Acquisition Corp. - Units",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "SAAQU"
+  },
+  {
+   "symbol": "ZSTK",
+   "name": "ZeroStack Corp. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "ZSTK"
+  },
+  {
+   "symbol": "BIII",
+   "name": "Black Spade Acquisition III Co Class A Ordinary Shares",
+   "exchange": "NYSE",
+   "yahoo_symbol": "BIII"
+  },
+  {
+   "symbol": "BIII.W",
+   "name": "Black Spade Acquisition III Co Redeemable warrants, each whole warrant exercisable for one Class A ordinary share at an exercise price of $11.50",
+   "exchange": "NYSE",
+   "yahoo_symbol": "BIII.W"
+  },
+  {
+   "symbol": "UAC.U",
+   "name": "United Acquisition Corp. I Units, each consisting of one Class A ordinary share and one-quarter of one redeemable warrant",
+   "exchange": "NYSE MKT",
+   "yahoo_symbol": "UAC.U"
+  },
+  {
+   "symbol": "YSS",
+   "name": "York Space Systems Inc. Common Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "YSS"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "SHCO",
+   "name": "Soho House \u0026 Co Inc. Class A Common Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "SHCO"
+  },
+  {
+   "symbol": "RPTX",
+   "name": "Repare Therapeutics Inc. - Common Shares",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "RPTX"
+  },
+  {
+   "symbol": "VSTA",
+   "name": "Vasta Platform Limited - Class A Ordinary Shares",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "VSTA"
+  },
+  {
+   "symbol": "FLGC",
+   "name": "Flora Growth Corp. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "FLGC"
+  }
+ ]
+}

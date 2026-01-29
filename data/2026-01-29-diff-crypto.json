@@ -1,0 +1,58 @@
+{
+ "added": [
+  {
+   "symbol": "IMU",
+   "name": "Immunefi (IMU)"
+  },
+  {
+   "symbol": "USATINC",
+   "name": "USAT (USATINC)"
+  },
+  {
+   "symbol": "PRESSX",
+   "name": "PressX (PRESSX)"
+  },
+  {
+   "symbol": "MADURO",
+   "name": "MADURO (MADURO)"
+  },
+  {
+   "symbol": "FRT",
+   "name": "FORT Token (FRT)"
+  },
+  {
+   "symbol": "8BITCOIN",
+   "name": "8-Bit COIN (8BITCOIN)"
+  },
+  {
+   "symbol": "MADU",
+   "name": "Nicolas Maduro (MADU)"
+  },
+  {
+   "symbol": "DM",
+   "name": "Dumb Money (DM)"
+  },
+  {
+   "symbol": "F5",
+   "name": "F5-promoT5 (F5)"
+  },
+  {
+   "symbol": "BABY4",
+   "name": "Baby 4 (BABY4)"
+  },
+  {
+   "symbol": "PIKZ",
+   "name": "PIKZ (PIKZ)"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "ZEDCOIN",
+   "name": "ZedCoin (ZEDCOIN)"
+  },
+  {
+   "symbol": "MAOMEME",
+   "name": "Mao (MAOMEME)"
+  }
+ ]
+}
