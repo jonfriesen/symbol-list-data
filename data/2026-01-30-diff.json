@@ -1,0 +1,108 @@
+{
+ "added": [
+  {
+   "symbol": "DSAC",
+   "name": "Daedalus Special Acquisition Corp. - Class A Ordinary Shares",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "DSAC"
+  },
+  {
+   "symbol": "DSACW",
+   "name": "Daedalus Special Acquisition Corp. - Warrant",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "DSACW"
+  },
+  {
+   "symbol": "KTWOU",
+   "name": "K2 Capital Acquisition Corporation - Units",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "KTWOU"
+  },
+  {
+   "symbol": "LIFE",
+   "name": "Ethos Technologies Inc. - Class A Common Stock",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "LIFE"
+  },
+  {
+   "symbol": "MLCI",
+   "name": "Mount Logan Capital Inc. - Common Stock",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "MLCI"
+  },
+  {
+   "symbol": "NEWTO",
+   "name": "NewtekOne, Inc. - 8.50% Fixed Rate Senior Notes due 2031",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "NEWTO"
+  },
+  {
+   "symbol": "PICS",
+   "name": "PicS N.V. - Class A Common Shares",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "PICS"
+  },
+  {
+   "symbol": "TNXT",
+   "name": "T. Rowe Price Innovation Leaders ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "TNXT"
+  },
+  {
+   "symbol": "XSLLU",
+   "name": "Xsolla SPAC 1 - Units",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "XSLLU"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "MLCI",
+   "name": "Mount Logan Capital Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "MLCI"
+  },
+  {
+   "symbol": "LANDM",
+   "name": "Gladstone Land Corporation - 5.00% Series D Cumulative Term Preferred Stock",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "LANDM"
+  },
+  {
+   "symbol": "CIVI",
+   "name": "Civitas Resources, Inc. Common Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "CIVI"
+  },
+  {
+   "symbol": "ECCF",
+   "name": "Eagle Point Credit Company Inc. 8.00% Series F Term Preferred Stock due 2029",
+   "exchange": "NYSE",
+   "yahoo_symbol": "ECCF"
+  },
+  {
+   "symbol": "HEJD",
+   "name": "VictoryShares Hedged Equity Income ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "HEJD"
+  },
+  {
+   "symbol": "BMDL",
+   "name": "VictoryShares WestEnd Economic Cycle Bond ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "BMDL"
+  },
+  {
+   "symbol": "NEWTZ",
+   "name": "NewtekOne, Inc. - 5.50% Notes Due 2026",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "NEWTZ"
+  },
+  {
+   "symbol": "CIL",
+   "name": "VictoryShares International Volatility Wtd ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "CIL"
+  }
+ ]
+}

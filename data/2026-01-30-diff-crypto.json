@@ -1,0 +1,52 @@
+{
+ "added": [
+  {
+   "symbol": "NIOON",
+   "name": "NIO (Ondo Tokenized) (NIOON)"
+  },
+  {
+   "symbol": "PLTRON",
+   "name": "Palantir Technologies (Ondo Tokenized) (PLTRON)"
+  },
+  {
+   "symbol": "BIRBV1",
+   "name": "Birb (BIRBV1)"
+  },
+  {
+   "symbol": "COPXON",
+   "name": "Global X Copper Miners ETF (Ondo Tokenized) (COPXON)"
+  },
+  {
+   "symbol": "USDHHUBBLE",
+   "name": "USDH Hubble Stablecoin (USDHHUBBLE)"
+  },
+  {
+   "symbol": "ARBITROVE",
+   "name": "Arbitrove Governance Token (ARBITROVE)"
+  },
+  {
+   "symbol": "IAUON",
+   "name": "iShares Gold Trust (Ondo Tokenized) (IAUON)"
+  },
+  {
+   "symbol": "JETUSD",
+   "name": "JETUSD (JETUSD)"
+  },
+  {
+   "symbol": "GOGE",
+   "name": "GOLD DOGE (GOGE)"
+  },
+  {
+   "symbol": "KNEKTED",
+   "name": "Knekted (KNEKTED)"
+  },
+  {
+   "symbol": "CLIPPYETH",
+   "name": "CLIPPY (CLIPPYETH)"
+  },
+  {
+   "symbol": "MILLLIONAIRECOIN",
+   "name": "Milllionaire Coin (MILLLIONAIRECOIN)"
+  }
+ ]
+}
