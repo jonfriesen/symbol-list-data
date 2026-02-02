@@ -1,0 +1,216 @@
+{
+ "added": [
+  {
+   "symbol": "EEE",
+   "name": "CYBER HORNET S\u0026P 500 and Ethereum 75/25 Strategy ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "EEE"
+  },
+  {
+   "symbol": "MESH",
+   "name": "Meshflow Acquisition Corp. - Class A Ordinary Shares",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "MESH"
+  },
+  {
+   "symbol": "MESHW",
+   "name": "Meshflow Acquisition Corp. - Warrants",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "MESHW"
+  },
+  {
+   "symbol": "MEVOU",
+   "name": "M Evo Global Acquisition Corp II - Units",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "MEVOU"
+  },
+  {
+   "symbol": "MUZEU",
+   "name": "Muzero Acquisition Corp - Unit",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "MUZEU"
+  },
+  {
+   "symbol": "NBRGU",
+   "name": "Newbridge Acquisition Limited - Unit",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "NBRGU"
+  },
+  {
+   "symbol": "NFRX",
+   "name": "Harrison Street Infrastructure Active ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "NFRX"
+  },
+  {
+   "symbol": "SSS",
+   "name": "CYBER HORNET S\u0026P 500 and Solana 75/25 Strategy ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "SSS"
+  },
+  {
+   "symbol": "TULP",
+   "name": "Bloomia Holdings, Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "TULP"
+  },
+  {
+   "symbol": "VHUB",
+   "name": "VenHub Global, Inc. - Common Stock",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "VHUB"
+  },
+  {
+   "symbol": "XXX",
+   "name": "CYBER HORNET S\u0026P 500 and XRP 75/25 Strategy ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "XXX"
+  },
+  {
+   "symbol": "OTMC",
+   "name": "Oreterra Metals Corp.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "OTMC.V",
+   "instruments": [
+    {
+     "name": "Oreterra Metals Corp.",
+     "symbol": "OTMC"
+    }
+   ]
+  },
+  {
+   "symbol": "BGAU",
+   "name": "Blossom Gold Inc.",
+   "exchange": "TSX",
+   "yahoo_symbol": "BGAU.TO",
+   "instruments": [
+    {
+     "name": "Blossom Gold Inc",
+     "symbol": "BGAU"
+    }
+   ]
+  },
+  {
+   "symbol": "SBLG",
+   "name": "SLGI MFS Blended Research Low Vol Global Fund",
+   "exchange": "TSX",
+   "yahoo_symbol": "SBLG.TO",
+   "instruments": [
+    {
+     "name": "SLGI MFS Bl Rs L V G",
+     "symbol": "SBLG"
+    }
+   ]
+  },
+  {
+   "symbol": "SBLI",
+   "name": "SLGI MFS Blended Research Low Vol International Fund",
+   "exchange": "TSX",
+   "yahoo_symbol": "SBLI.TO",
+   "instruments": [
+    {
+     "name": "SLGI MFS Bl Rs L V I",
+     "symbol": "SBLI"
+    }
+   ]
+  },
+  {
+   "symbol": "AZN",
+   "name": "AstraZeneca PLC Ordinary Shares",
+   "exchange": "NYSE",
+   "yahoo_symbol": "AZN"
+  },
+  {
+   "symbol": "MPT",
+   "name": "Medical Properties Trust, Inc. common stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "MPT"
+  },
+  {
+   "symbol": "WPAC.U",
+   "name": "White Pearl Acquisition Corp. Units, each consisting of one Class A ordinary share and one right to receive one-fifth (1/5) of one Class A ordinary share",
+   "exchange": "NYSE",
+   "yahoo_symbol": "WPAC.U"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "CADE",
+   "name": "Cadence Bank Common Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "CADE"
+  },
+  {
+   "symbol": "CADE$A",
+   "name": "Cadence Bank 5.50% Series A ",
+   "exchange": "NYSE",
+   "yahoo_symbol": "CADE$A"
+  },
+  {
+   "symbol": "REVG",
+   "name": "REV Group, Inc. Common Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "REVG"
+  },
+  {
+   "symbol": "CMA$B",
+   "name": "Comerica Incorporated Depositary Shares, each representing a 1/40th interest in a share of 6.875% Fixed-Rate Reset Non-Cumulative Perpetual Preferred Stock, Series B",
+   "exchange": "NYSE",
+   "yahoo_symbol": "CMA$B"
+  },
+  {
+   "symbol": "LDWY",
+   "name": "Lendway, Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "LDWY"
+  },
+  {
+   "symbol": "JAMF",
+   "name": "Jamf Holding Corp. - Common Stock",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "JAMF"
+  },
+  {
+   "symbol": "CMA",
+   "name": "Comerica Incorporated Common Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "CMA"
+  },
+  {
+   "symbol": "AZN",
+   "name": "AstraZeneca PLC - American Depositary Shares",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "AZN"
+  },
+  {
+   "symbol": "RG",
+   "name": "Romios Gold Resources Inc.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "RG.V",
+   "instruments": [
+    {
+     "name": "Romios Gold Resources Inc.",
+     "symbol": "RG"
+    }
+   ]
+  },
+  {
+   "symbol": "MPW",
+   "name": "Medical Properties Trust, Inc. common stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "MPW"
+  },
+  {
+   "symbol": "TBRD",
+   "name": "Thunderbird Entertainment Group Inc.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "TBRD.V",
+   "instruments": [
+    {
+     "name": "Thunderbird Entertainment Group Inc.",
+     "symbol": "TBRD"
+    }
+   ]
+  }
+ ]
+}
