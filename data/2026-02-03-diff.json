@@ -1,0 +1,146 @@
+{
+ "added": [
+  {
+   "symbol": "BEP.PR.M",
+   "name": "Brookfield Renewable Partners L.P.",
+   "exchange": "TSX",
+   "yahoo_symbol": "BEP.PR.M.TO",
+   "instruments": [
+    {
+     "name": "Brookfield RenewPr13",
+     "symbol": "BEP.PR.M"
+    },
+    {
+     "name": "Brookfield RenewPr18",
+     "symbol": "BEP.PR.R"
+    },
+    {
+     "name": "Brookfld Renew LP Un",
+     "symbol": "BEP.UN"
+    }
+   ]
+  },
+  {
+   "symbol": "MSBP",
+   "name": "Middlefield Short Duration Bond Plus ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "MSBP.TO",
+   "instruments": [
+    {
+     "name": "Midfld Sh Du Bd Pl E",
+     "symbol": "MSBP"
+    }
+   ]
+  },
+  {
+   "symbol": "BLRK",
+   "name": "Bluerock Acquisition Corp. - Class A Ordinary Shares",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "BLRK"
+  },
+  {
+   "symbol": "BLRKW",
+   "name": "Bluerock Acquisition Corp. - Warrants",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "BLRKW"
+  },
+  {
+   "symbol": "CMTV",
+   "name": "Community Bancorp.  - Common stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "CMTV"
+  },
+  {
+   "symbol": "FITBM",
+   "name": "Fifth Third Bancorp - Depositary Shares Representing a 1/40th Ownership Interest in a Share of 6.875% Fixed-Rate Reset Non-Cumulative Perpetual Preferred Stock, Series M",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "FITBM"
+  },
+  {
+   "symbol": "HBANZ",
+   "name": "Huntington Bancshares Incorporated - Depositary Shares, Each Representing a 1/1000th Interest in a Share of 5.50% Series L Non-Cumulative Perpetual Preferred Stock",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "HBANZ"
+  },
+  {
+   "symbol": "MLCIL",
+   "name": "Mount Logan Capital Inc. - 8.00% Notes Due 2031",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "MLCIL"
+  },
+  {
+   "symbol": "PLYX",
+   "name": "Polaryx Therapeutics, Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "PLYX"
+  },
+  {
+   "symbol": "IRAB.U",
+   "name": "Iris Acquisition Corp II Units, each consisting of one Class A Ordinary Share and one-half of one redeemable Warrant",
+   "exchange": "NYSE",
+   "yahoo_symbol": "IRAB.U"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "BEP.PR.G",
+   "name": "Brookfield Renewable Partners L.P.",
+   "exchange": "TSX",
+   "yahoo_symbol": "BEP.PR.G.TO",
+   "instruments": [
+    {
+     "name": "Brookfield Renew Pr7",
+     "symbol": "BEP.PR.G"
+    },
+    {
+     "name": "Brookfield RenewPr13",
+     "symbol": "BEP.PR.M"
+    },
+    {
+     "name": "Brookfield RenewPr18",
+     "symbol": "BEP.PR.R"
+    },
+    {
+     "name": "Brookfld Renew LP Un",
+     "symbol": "BEP.UN"
+    }
+   ]
+  },
+  {
+   "symbol": "NINE",
+   "name": "Nine Energy Service, Inc. Common Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "NINE"
+  },
+  {
+   "symbol": "PCH",
+   "name": "PotlatchDeltic Corporation - Common Stock",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "PCH"
+  },
+  {
+   "symbol": "AAM",
+   "name": "AA Mission Acquisition Corp. Class A Ordinary Shares",
+   "exchange": "NYSE",
+   "yahoo_symbol": "AAM"
+  },
+  {
+   "symbol": "AAM.U",
+   "name": "AA Mission Acquisition Corp. Units, each consisting of one Class A Ordinary Share and one-half of one redeemable warrant",
+   "exchange": "NYSE",
+   "yahoo_symbol": "AAM.U"
+  },
+  {
+   "symbol": "AAM.W",
+   "name": "AA Mission Acquisition Corp. Warrants, each whole warrant entitles the holder to purchase one Class A ordinary share at a price of $11.50 per share",
+   "exchange": "NYSE",
+   "yahoo_symbol": "AAM.W"
+  },
+  {
+   "symbol": "FSFG",
+   "name": "First Savings Financial Group, Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "FSFG"
+  }
+ ]
+}
