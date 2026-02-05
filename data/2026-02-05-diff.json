@@ -1,0 +1,138 @@
+{
+ "added": [
+  {
+   "symbol": "NVRO",
+   "name": "EnviroGold Global Limited",
+   "exchange": "TSXV",
+   "yahoo_symbol": "NVRO.V",
+   "instruments": [
+    {
+     "name": "Envirogold Global Limited",
+     "symbol": "NVRO"
+    }
+   ]
+  },
+  {
+   "symbol": "RM",
+   "name": "Roxmore Resources Inc.",
+   "exchange": "TSX",
+   "yahoo_symbol": "RM.TO",
+   "instruments": [
+    {
+     "name": "Roxmore Resources In",
+     "symbol": "RM"
+    }
+   ]
+  },
+  {
+   "symbol": "COID",
+   "name": "SavvyShort (-2X) COIN ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "COID.TO",
+   "instruments": [
+    {
+     "name": "SavvyShort 2X CN ETF",
+     "symbol": "COID"
+    }
+   ]
+  },
+  {
+   "symbol": "MSTZ",
+   "name": "SavvyShort (-2X) MSTR ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "MSTZ.TO",
+   "instruments": [
+    {
+     "name": "SavvyShort 2X MSTR E",
+     "symbol": "MSTZ"
+    }
+   ]
+  },
+  {
+   "symbol": "BOBS",
+   "name": "Bob's Discount Furniture, Inc. Common Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "BOBS"
+  },
+  {
+   "symbol": "C$R",
+   "name": "Citigroup Inc. Depositary Shares, Each Representing a 1/1,000th Interest in a Share of 6.250% Noncumulative Preferred Stock, Series II",
+   "exchange": "NYSE",
+   "yahoo_symbol": "C$R"
+  },
+  {
+   "symbol": "DCH",
+   "name": "Dauch Corporation Common Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "DCH"
+  },
+  {
+   "symbol": "FPS",
+   "name": "Forgent Power Solutions, Inc. Class A Common Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "FPS"
+  },
+  {
+   "symbol": "JRI.V",
+   "name": "Nuveen Real Asset Income and Growth Fund Rights (expiring March 9, 2026) Rights when issued",
+   "exchange": "NYSE",
+   "yahoo_symbol": "JRI.V"
+  },
+  {
+   "symbol": "OBAI",
+   "name": "TG-17, Inc. - Common Stock",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "OBAI"
+  },
+  {
+   "symbol": "RWAYI",
+   "name": "Runway Growth Finance Corp. - 7.25% Notes due 2031",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "RWAYI"
+  },
+  {
+   "symbol": "ZKP",
+   "name": "Lafayette Digital Acquisition Corp. I - Class A Ordinary Shares",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "ZKP"
+  },
+  {
+   "symbol": "ZKPW",
+   "name": "Lafayette Digital Acquisition Corp. I - Warrant",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "ZKPW"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "IBO",
+   "name": "Universal Ibogaine Inc.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "IBO.V",
+   "instruments": [
+    {
+     "name": "Universal Ibogaine Inc.",
+     "symbol": "IBO"
+    }
+   ]
+  },
+  {
+   "symbol": "AXL",
+   "name": "American Axle \u0026 Manufacturing Holdings, Inc. Common Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "AXL"
+  },
+  {
+   "symbol": "NVA",
+   "name": "NuVista Energy Ltd.",
+   "exchange": "TSX",
+   "yahoo_symbol": "NVA.TO",
+   "instruments": [
+    {
+     "name": "NuVista Energy Ltd.",
+     "symbol": "NVA"
+    }
+   ]
+  }
+ ]
+}
