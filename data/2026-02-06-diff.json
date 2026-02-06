@@ -1,0 +1,128 @@
+{
+ "added": [
+  {
+   "symbol": "ZDIV",
+   "name": "BMO MSCI Canada IMI High Dividend Yield Index ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "ZDIV.TO",
+   "instruments": [
+    {
+     "name": "BMO MSCI CAN IMI HDY",
+     "symbol": "ZDIV"
+    }
+   ]
+  },
+  {
+   "symbol": "ZESM",
+   "name": "BMO MSCI EAFE Small-Mid Cap Index ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "ZESM.TO",
+   "instruments": [
+    {
+     "name": "BMO MS EA Sm M Cp I",
+     "symbol": "ZESM"
+    }
+   ]
+  },
+  {
+   "symbol": "ZEQL",
+   "name": "BMO MSCI USA Equal Weight Index ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "ZEQL.TO",
+   "instruments": [
+    {
+     "name": "BMO MSCU US Eq W I E",
+     "symbol": "ZEQL"
+    },
+    {
+     "name": "BMO MSCU US EW InE F",
+     "symbol": "ZEQL.F"
+    },
+    {
+     "name": "BMO MSCU US EW IE US",
+     "symbol": "ZEQL.U"
+    }
+   ]
+  },
+  {
+   "symbol": "BRES",
+   "name": "Burney U.S. Equity Select ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "BRES"
+  },
+  {
+   "symbol": "CEPS",
+   "name": "Cantor Equity Partners VI, Inc. - Class A Ordinary Shares",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "CEPS"
+  },
+  {
+   "symbol": "EIKN",
+   "name": "Eikon Therapeutics, Inc. - Common Stock",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "EIKN"
+  },
+  {
+   "symbol": "HCICU",
+   "name": "Hennessy Capital Investment Corp. VIII - Units",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "HCICU"
+  },
+  {
+   "symbol": "VSECU",
+   "name": "VSE Corporation - Tangible Equity Units",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "VSECU"
+  },
+  {
+   "symbol": "BEBE",
+   "name": "TGE Value Creative Solutions Corp Class A Ordinary Shares",
+   "exchange": "NYSE",
+   "yahoo_symbol": "BEBE"
+  },
+  {
+   "symbol": "BEBE.W",
+   "name": "TGE Value Creative Solutions Corp Redeemable warrants, each whole warrant exercisable for one Class A ordinary share at an exercise price of $11.50 per share",
+   "exchange": "NYSE",
+   "yahoo_symbol": "BEBE.W"
+  },
+  {
+   "symbol": "OFRM",
+   "name": "Once Upon a Farm, PBC Common Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "OFRM"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "DAY",
+   "name": "Dayforce, Inc.",
+   "exchange": "TSX",
+   "yahoo_symbol": "DAY.TO",
+   "instruments": [
+    {
+     "name": "Dayforce Inc",
+     "symbol": "DAY"
+    }
+   ]
+  },
+  {
+   "symbol": "ODD",
+   "name": "Odd Burger Corporation",
+   "exchange": "TSXV",
+   "yahoo_symbol": "ODD.V",
+   "instruments": [
+    {
+     "name": "Odd Burger Corporation",
+     "symbol": "ODD"
+    }
+   ]
+  },
+  {
+   "symbol": "LMND.W",
+   "name": "Lemonade, Inc. Warrants",
+   "exchange": "NYSE MKT",
+   "yahoo_symbol": "LMND.W"
+  }
+ ]
+}

@@ -1,0 +1,58 @@
+{
+ "added": [
+  {
+   "symbol": "BITCOINSCRYPT",
+   "name": "Bitcoin Scrypt (BITCOINSCRYPT)"
+  },
+  {
+   "symbol": "UWULEND",
+   "name": "UwU Lend (UWULEND)"
+  },
+  {
+   "symbol": "WHCHZ",
+   "name": "Chiliz (Portal Bridge) (WHCHZ)"
+  },
+  {
+   "symbol": "MEMECOINDAOAI",
+   "name": "MemeCoinDAO (MEMECOINDAOAI)"
+  },
+  {
+   "symbol": "STAKERDAOWXTZ",
+   "name": "Wrapped Tezos (STAKERDAOWXTZ)"
+  },
+  {
+   "symbol": "KABOSUFAMILY",
+   "name": "Kabosu Family (KABOSUFAMILY)"
+  },
+  {
+   "symbol": "MYMASTERWAR",
+   "name": "My Master Wa (MYMASTERWAR)"
+  },
+  {
+   "symbol": "ETHEREUMSCRYPT",
+   "name": "EthereumScrypt (ETHEREUMSCRYPT)"
+  },
+  {
+   "symbol": "P2PV1",
+   "name": "Sentinel (P2PV1)"
+  },
+  {
+   "symbol": "BLOCKCHAINTRADED",
+   "name": "Blockchain Traded Fund (BLOCKCHAINTRADED)"
+  },
+  {
+   "symbol": "WESTARTER",
+   "name": "WeStarter (WESTARTER)"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "WCHZ",
+   "name": "Chiliz (Portal Bridge) (WCHZ)"
+  },
+  {
+   "symbol": "WXTZ",
+   "name": "Wrapped Tezos (WXTZ)"
+  }
+ ]
+}
