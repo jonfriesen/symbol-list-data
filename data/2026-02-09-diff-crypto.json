@@ -1,0 +1,38 @@
+{
+ "added": [
+  {
+   "symbol": "RAILS",
+   "name": "Rails Token (RAILS)"
+  },
+  {
+   "symbol": "MONEROAI",
+   "name": "Monero AI (MONEROAI)"
+  },
+  {
+   "symbol": "MAOMEME",
+   "name": "Mao (MAOMEME)"
+  },
+  {
+   "symbol": "REAT",
+   "name": "REAT (REAT)"
+  },
+  {
+   "symbol": "ZEDCOIN",
+   "name": "ZedCoin (ZEDCOIN)"
+  },
+  {
+   "symbol": "WCHZ",
+   "name": "Wrapped Chiliz (WCHZ)"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "BABY4",
+   "name": "Baby 4 (BABY4)"
+  },
+  {
+   "symbol": "IMU",
+   "name": "Immunefi (IMU)"
+  }
+ ]
+}
