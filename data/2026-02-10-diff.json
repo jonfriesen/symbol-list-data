@@ -1,0 +1,120 @@
+{
+ "added": [
+  {
+   "symbol": "ADAC",
+   "name": "American Drive Acquisition Company - Class A Ordinary Shares",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "ADAC"
+  },
+  {
+   "symbol": "ADACW",
+   "name": "American Drive Acquisition Company - Warrant",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "ADACW"
+  },
+  {
+   "symbol": "CCXI",
+   "name": "Churchill Capital Corp XI - Class A Ordinary Shares",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "CCXI"
+  },
+  {
+   "symbol": "CCXIW",
+   "name": "Churchill Capital Corp XI - Warrants",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "CCXIW"
+  },
+  {
+   "symbol": "FCNCN",
+   "name": "First Citizens BancShares, Inc. - Depositary Shares, each representing a 1/40th interest in a share of 6.625% Non-Cumulative Perpetual Preferred Stock, Series E",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "FCNCN"
+  },
+  {
+   "symbol": "LPCV",
+   "name": "Launchpad Cadenza Acquisition Corp I - Class A Ordinary Share",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "LPCV"
+  },
+  {
+   "symbol": "LPCVW",
+   "name": "Launchpad Cadenza Acquisition Corp I - Warrant",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "LPCVW"
+  },
+  {
+   "symbol": "VHCP",
+   "name": "Vine Hill Capital Investment Corp. II - Class A Ordinary Shares",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "VHCP"
+  },
+  {
+   "symbol": "VHCPW",
+   "name": "Vine Hill Capital Investment Corp. II - Warrants",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "VHCPW"
+  },
+  {
+   "symbol": "JAGU",
+   "name": "Jaguar Uranium Corp. Class A Common Shares",
+   "exchange": "NYSE MKT",
+   "yahoo_symbol": "JAGU"
+  },
+  {
+   "symbol": "JRI.R",
+   "name": "Nuveen Real Asset Income and Growth Fund Rights (expiring March 9, 2026) Rights",
+   "exchange": "NYSE",
+   "yahoo_symbol": "JRI.R"
+  },
+  {
+   "symbol": "ORCL$D",
+   "name": "Oracle Corporation Depositary Shares, each representing a 1/2,000th interest in a sh of 6.50% Series D Mandatory Convertible Preferred Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "ORCL$D"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "HI",
+   "name": "Hillenbrand Inc Common Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "HI"
+  },
+  {
+   "symbol": "GBIO",
+   "name": "Generation Bio Co. - Common stock",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "GBIO"
+  },
+  {
+   "symbol": "EZRAW",
+   "name": "Reliance Global Group, Inc. - Series A Warrants",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "EZRAW"
+  },
+  {
+   "symbol": "JRI.V",
+   "name": "Nuveen Real Asset Income and Growth Fund Rights (expiring March 9, 2026) Rights when issued",
+   "exchange": "NYSE",
+   "yahoo_symbol": "JRI.V"
+  },
+  {
+   "symbol": "STAI",
+   "name": "ScanTech AI Systems Inc. - Common stock",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "STAI"
+  },
+  {
+   "symbol": "TRBR",
+   "name": "TRUBAR Inc.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "TRBR.V",
+   "instruments": [
+    {
+     "name": "TRUBAR Inc.",
+     "symbol": "TRBR"
+    }
+   ]
+  }
+ ]
+}
