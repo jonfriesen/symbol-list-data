@@ -1,0 +1,84 @@
+{
+ "added": [
+  {
+   "symbol": "AIMS",
+   "name": "Acuitas Small Cap Active ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "AIMS"
+  },
+  {
+   "symbol": "CRMU",
+   "name": "Leverage Shares 2x Long CRML Daily ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "CRMU"
+  },
+  {
+   "symbol": "DNNG",
+   "name": "Leverage Shares 2x Long DNN Daily ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "DNNG"
+  },
+  {
+   "symbol": "SVIVU",
+   "name": "Spring Valley Acquisition Corp. IV - Units",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "SVIVU"
+  },
+  {
+   "symbol": "UECG",
+   "name": "Leverage Shares 2x Long UEC Daily ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "UECG"
+  },
+  {
+   "symbol": "AGBK",
+   "name": "AGI Inc Class A Common Shares",
+   "exchange": "NYSE",
+   "yahoo_symbol": "AGBK"
+  },
+  {
+   "symbol": "RPC",
+   "name": "Ridgepost Capital, Inc. Class A Common Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "RPC"
+  },
+  {
+   "symbol": "SAV",
+   "name": "Saratoga Investment Corp 7.50% Notes due 2031",
+   "exchange": "NYSE",
+   "yahoo_symbol": "SAV"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "THS",
+   "name": "Treehouse Foods, Inc. Common Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "THS"
+  },
+  {
+   "symbol": "FOUR",
+   "name": "Global X Industry 4.0 Index ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "FOUR.TO",
+   "instruments": [
+    {
+     "name": "GblX Indust 4.0Inx A",
+     "symbol": "FOUR"
+    }
+   ]
+  },
+  {
+   "symbol": "PX",
+   "name": "P10, Inc. Class A Common Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "PX"
+  },
+  {
+   "symbol": "DVAX",
+   "name": "Dynavax Technologies Corporation - Common Stock",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "DVAX"
+  }
+ ]
+}
