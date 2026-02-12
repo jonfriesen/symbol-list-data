@@ -1,0 +1,162 @@
+{
+ "added": [
+  {
+   "symbol": "GEMG",
+   "name": "Gemdale Gold Inc.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "GEMG.V",
+   "instruments": [
+    {
+     "name": "Gemdale Gold Inc.",
+     "symbol": "GEMG"
+    }
+   ]
+  },
+  {
+   "symbol": "OGW",
+   "name": "Ongwe Minerals Inc.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "OGW.V",
+   "instruments": [
+    {
+     "name": "Ongwe Minerals Inc.",
+     "symbol": "OGW"
+    }
+   ]
+  },
+  {
+   "symbol": "CROC",
+   "name": "Purpose Credit Opportunities Class",
+   "exchange": "TSX",
+   "yahoo_symbol": "CROC.TO",
+   "instruments": [
+    {
+     "name": "Purp Crd Opp Cls ETF",
+     "symbol": "CROC"
+    }
+   ]
+  },
+  {
+   "symbol": "AIOS",
+   "name": "AIOS Tech Inc. - Class A Common Shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "AIOS"
+  },
+  {
+   "symbol": "ARBK",
+   "name": "Argo Blockchain plc - American Depositary Shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "ARBK"
+  },
+  {
+   "symbol": "ASMU",
+   "name": "Direxion Daily ASML Bull 2X ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "ASMU"
+  },
+  {
+   "symbol": "BABU",
+   "name": "Direxion Daily BABA Bull 2X ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "BABU"
+  },
+  {
+   "symbol": "CMIIU",
+   "name": "Columbus Circle Capital Corp II - Unit",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "CMIIU"
+  },
+  {
+   "symbol": "DBCAU",
+   "name": "D. Boral Acquisition I Corp. - Unit",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "DBCAU"
+  },
+  {
+   "symbol": "IACOU",
+   "name": "Idea Acquisition Corp. - Units",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "IACOU"
+  },
+  {
+   "symbol": "IDVY",
+   "name": "First Trust International Rising Dividend Achievers ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "IDVY"
+  },
+  {
+   "symbol": "MRVU",
+   "name": "Direxion Daily MRVL Bull 2X ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "MRVU"
+  },
+  {
+   "symbol": "MWH",
+   "name": "SOLV Energy, Inc. - Class A common stock",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "MWH"
+  },
+  {
+   "symbol": "SOFA",
+   "name": "Direxion Daily SOFI Bull 2X ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "SOFA"
+  },
+  {
+   "symbol": "TMTSU",
+   "name": "Spartacus Acquisition Corp. II - Unit",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "TMTSU"
+  },
+  {
+   "symbol": "CICC",
+   "name": "CION Investment Corporation 7.50% Notes due 2031",
+   "exchange": "NYSE",
+   "yahoo_symbol": "CICC"
+  },
+  {
+   "symbol": "XFLH.U",
+   "name": "XFLH Capital Corporation Units, each consisting of one Ordinary Share and one Right",
+   "exchange": "NYSE",
+   "yahoo_symbol": "XFLH.U"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "CYBR",
+   "name": "CyberArk Software Ltd. - Ordinary Shares",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "CYBR"
+  },
+  {
+   "symbol": "NISN",
+   "name": "NiSun Intl Enterprise Development Group Co, Ltd - Class A Common Shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "NISN"
+  },
+  {
+   "symbol": "GQ",
+   "name": "Great Quest Gold Ltd.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "GQ.V",
+   "instruments": [
+    {
+     "name": "Great Quest Gold Ltd.",
+     "symbol": "GQ"
+    }
+   ]
+  },
+  {
+   "symbol": "NUVB.W",
+   "name": "Nuvation Bio Inc. Warrants",
+   "exchange": "NYSE",
+   "yahoo_symbol": "NUVB.W"
+  },
+  {
+   "symbol": "ARBK",
+   "name": "Argo Blockchain plc - American Depositary Shares",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "ARBK"
+  }
+ ]
+}

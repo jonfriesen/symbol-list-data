@@ -1,0 +1,56 @@
+{
+ "added": [
+  {
+   "symbol": "CMR",
+   "name": "U.S Critical Mineral Reserve (CMR)"
+  },
+  {
+   "symbol": "AZTEC",
+   "name": "AZTEC (AZTEC)"
+  },
+  {
+   "symbol": "HOODON",
+   "name": "Robinhood Markets (Ondo Tokenized) (HOODON)"
+  },
+  {
+   "symbol": "SNAPON",
+   "name": "Snap (Ondo Tokenized) (SNAPON)"
+  },
+  {
+   "symbol": "狗屎",
+   "name": "狗屎 (dog-shit)"
+  },
+  {
+   "symbol": "USDON",
+   "name": "U.S. Dollar Tokenized Currency (Ondo) (USDON)"
+  },
+  {
+   "symbol": "SUPERFL",
+   "name": "Superfluid (SUPERFL)"
+  },
+  {
+   "symbol": "XPASS",
+   "name": "XPASS Token (XPASS)"
+  },
+  {
+   "symbol": "ALOKA",
+   "name": "ALOKA (ALOKA)"
+  },
+  {
+   "symbol": "TSMON",
+   "name": "Taiwan Semiconductor Manufacturing (Ondo Tokenized) (TSMON)"
+  },
+  {
+   "symbol": "CIFRON",
+   "name": "Cipher Mining (Ondo Tokenized) (CIFRON)"
+  },
+  {
+   "symbol": "QONE",
+   "name": "QONE (QONE)"
+  },
+  {
+   "symbol": "JGGL",
+   "name": "JGGL Token (JGGL)"
+  }
+ ]
+}
