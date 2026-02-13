@@ -1,0 +1,148 @@
+{
+ "added": [
+  {
+   "symbol": "CAMB",
+   "name": "Cambria Gold Mines Inc.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "CAMB.V",
+   "instruments": [
+    {
+     "name": "Cambria Gold Mines Inc.",
+     "symbol": "CAMB"
+    }
+   ]
+  },
+  {
+   "symbol": "MKR",
+   "name": "Melkior Resources Inc.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "MKR.V",
+   "instruments": [
+    {
+     "name": "Melkior Resources Inc.",
+     "symbol": "MKR"
+    }
+   ]
+  },
+  {
+   "symbol": "RAY",
+   "name": "Stingray Group Inc.",
+   "exchange": "TSX",
+   "yahoo_symbol": "RAY.TO",
+   "instruments": [
+    {
+     "name": "Stingray Group SV",
+     "symbol": "RAY"
+    }
+   ]
+  },
+  {
+   "symbol": "APC",
+   "name": "ARKO Petroleum Corp. - Class A Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "APC"
+  },
+  {
+   "symbol": "BRAI",
+   "name": "Braiin Limited - Common Stock",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "BRAI"
+  },
+  {
+   "symbol": "FAAA",
+   "name": "Fidelity AAA CLO ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "FAAA"
+  },
+  {
+   "symbol": "FCLO",
+   "name": "Fidelity CLO ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "FCLO"
+  },
+  {
+   "symbol": "HACQU",
+   "name": "HCM IV Acquisition Corp. - Unit",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "HACQU"
+  },
+  {
+   "symbol": "PAACU",
+   "name": "Proem Acquisition Corp I - Units",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "PAACU"
+  },
+  {
+   "symbol": "SCPQ",
+   "name": "Social Commerce Partners Corporation - Class A Ordinary Shares",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "SCPQ"
+  },
+  {
+   "symbol": "SCPQW",
+   "name": "Social Commerce Partners Corporation - Warrant",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "SCPQW"
+  },
+  {
+   "symbol": "SVAQ",
+   "name": "Silicon Valley Acquisition Corp. - Class A Ordinary Shares",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "SVAQ"
+  },
+  {
+   "symbol": "SVAQW",
+   "name": "Silicon Valley Acquisition Corp. - Warrants",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "SVAQW"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "SOHO",
+   "name": "Sotherly Hotels Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "SOHO"
+  },
+  {
+   "symbol": "LN",
+   "name": "Loncor Gold Inc.",
+   "exchange": "TSX",
+   "yahoo_symbol": "LN.TO",
+   "instruments": [
+    {
+     "name": "Loncor Gold Inc. J",
+     "symbol": "LN"
+    }
+   ]
+  },
+  {
+   "symbol": "SR$A",
+   "name": "Spire Inc. Depositary Shares, each representing a 1/1,000th interest in a share of 5.90% Series A Cumulative Redeemable Perpetual Preferred Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "SR$A"
+  },
+  {
+   "symbol": "RAY.A",
+   "name": "Stingray Group Inc.",
+   "exchange": "TSX",
+   "yahoo_symbol": "RAY.A.TO",
+   "instruments": [
+    {
+     "name": "Stingray Group SV",
+     "symbol": "RAY.A"
+    },
+    {
+     "name": "Stingray Vary SV",
+     "symbol": "RAY.B"
+    }
+   ]
+  },
+  {
+   "symbol": "AVDL",
+   "name": "Avadel Pharmaceuticals plc - Ordinary Share",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "AVDL"
+  }
+ ]
+}
