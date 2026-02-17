@@ -1,0 +1,144 @@
+{
+ "added": [
+  {
+   "symbol": "MAGV",
+   "name": "Mackenzie Global Value ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "MAGV.TO",
+   "instruments": [
+    {
+     "name": "Mackenzie Glb Val E",
+     "symbol": "MAGV"
+    }
+   ]
+  },
+  {
+   "symbol": "MBQG",
+   "name": "Mackenzie GQE Global Balanced ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "MBQG.TO",
+   "instruments": [
+    {
+     "name": "Mackenzie GQE Glb B ",
+     "symbol": "MBQG"
+    }
+   ]
+  },
+  {
+   "symbol": "MAUG",
+   "name": "Mackenzie US All Cap Growth ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "MAUG.TO",
+   "instruments": [
+    {
+     "name": "Macknzi US All Cap G",
+     "symbol": "MAUG"
+    }
+   ]
+  },
+  {
+   "symbol": "MAUV",
+   "name": "Mackenzie US Value ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "MAUV.TO",
+   "instruments": [
+    {
+     "name": "Mackenzie US Value E",
+     "symbol": "MAUV"
+    }
+   ]
+  },
+  {
+   "symbol": "RUA",
+   "name": "Rua Gold Inc.",
+   "exchange": "TSX",
+   "yahoo_symbol": "RUA.TO",
+   "instruments": [
+    {
+     "name": "Rua Gold Inc",
+     "symbol": "RUA"
+    }
+   ]
+  },
+  {
+   "symbol": "RFAMU",
+   "name": "RF Acquisition Corp III - Units",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "RFAMU"
+  },
+  {
+   "symbol": "INFQ",
+   "name": "Infleqtion, Inc. Common Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "INFQ"
+  },
+  {
+   "symbol": "INFQ.W",
+   "name": "Infleqtion, Inc. Warrants, each whole warrant exercisable for one share of Common Stock at an exercise price of $11.50 per share",
+   "exchange": "NYSE",
+   "yahoo_symbol": "INFQ.W"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "SNCR",
+   "name": "Synchronoss Technologies, Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "SNCR"
+  },
+  {
+   "symbol": "RCC",
+   "name": "Ready Capital Corporation 5.75% Senior Notes due 2026",
+   "exchange": "NYSE",
+   "yahoo_symbol": "RCC"
+  },
+  {
+   "symbol": "MOFG",
+   "name": "MidWestOne Financial Group, Inc. - Common Stock",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "MOFG"
+  },
+  {
+   "symbol": "TECTP",
+   "name": "Tectonic Financial, Inc. - 9.00% Fixed-to-Floating Rate Series B Non-Cumulative Perpetual Preferred Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "TECTP"
+  },
+  {
+   "symbol": "CCCXW",
+   "name": "Churchill Capital Corp X - Warrants",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "CCCXW"
+  },
+  {
+   "symbol": "ZEUS",
+   "name": "Olympic Steel, Inc. - Common Stock",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "ZEUS"
+  },
+  {
+   "symbol": "CCCX",
+   "name": "Churchill Capital Corp X - Class A Ordinary Shares",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "CCCX"
+  },
+  {
+   "symbol": "RUA",
+   "name": "Rua Gold Inc.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "RUA.V",
+   "instruments": [
+    {
+     "name": "Rua Gold Inc.",
+     "symbol": "RUA"
+    }
+   ]
+  },
+  {
+   "symbol": "CCCXU",
+   "name": "Churchill Capital Corp X - Unit",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "CCCXU"
+  }
+ ]
+}

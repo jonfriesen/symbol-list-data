@@ -1,0 +1,54 @@
+{
+ "added": [
+  {
+   "symbol": "ZEDCOIN",
+   "name": "ZedCoin (ZEDCOIN)"
+  },
+  {
+   "symbol": "AMZNON",
+   "name": "Amazon (Ondo Tokenized) (AMZNON)"
+  },
+  {
+   "symbol": "MAOMEME",
+   "name": "Mao (MAOMEME)"
+  },
+  {
+   "symbol": "JUPUSD",
+   "name": "Jupiter USD (JUPUSD)"
+  },
+  {
+   "symbol": "USDDD",
+   "name": "USDDD (USDDD)"
+  },
+  {
+   "symbol": "ROU",
+   "name": "ROUTINE COIN (ROU)"
+  },
+  {
+   "symbol": "IVT",
+   "name": "ivault Token (IVT)"
+  },
+  {
+   "symbol": "MONSTRO",
+   "name": "Monstro DeFi (MONSTRO)"
+  },
+  {
+   "symbol": "SUMR",
+   "name": "SummerToken (SUMR)"
+  },
+  {
+   "symbol": "BIGTROUT",
+   "name": "The Big Trout (BIGTROUT)"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "IMU",
+   "name": "Immunefi (IMU)"
+  },
+  {
+   "symbol": "BABY4",
+   "name": "Baby 4 (BABY4)"
+  }
+ ]
+}
