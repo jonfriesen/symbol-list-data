@@ -1,0 +1,108 @@
+{
+ "added": [
+  {
+   "symbol": "AIAI",
+   "name": "NetraMark Holdings Inc.",
+   "exchange": "TSX",
+   "yahoo_symbol": "AIAI.TO",
+   "instruments": [
+    {
+     "name": "NetraMark Hlding Inc",
+     "symbol": "AIAI"
+    }
+   ]
+  },
+  {
+   "symbol": "RBND",
+   "name": "Russell Investments Core Plus Fixed Income ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "RBND.TO",
+   "instruments": [
+    {
+     "name": "Russell InvCP Fx Inc",
+     "symbol": "RBND"
+    }
+   ]
+  },
+  {
+   "symbol": "HALO",
+   "name": "Russell Investments Fallen Angels ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "HALO.TO",
+   "instruments": [
+    {
+     "name": "Russell Iv Falln Ang",
+     "symbol": "HALO"
+    }
+   ]
+  },
+  {
+   "symbol": "RQCA",
+   "name": "Russell Investments Multi-Factor Canadian Equity Pool",
+   "exchange": "TSX",
+   "yahoo_symbol": "RQCA.TO",
+   "instruments": [
+    {
+     "name": "Russell InvMF Cnd Eq",
+     "symbol": "RQCA"
+    }
+   ]
+  },
+  {
+   "symbol": "RQIN",
+   "name": "Russell Investments Multi-Factor International Equity Pool",
+   "exchange": "TSX",
+   "yahoo_symbol": "RQIN.TO",
+   "instruments": [
+    {
+     "name": "Russell InvMF intl P",
+     "symbol": "RQIN"
+    }
+   ]
+  },
+  {
+   "symbol": "RQUS",
+   "name": "Russell Investments Multi-Factor US Equity Pool",
+   "exchange": "TSX",
+   "yahoo_symbol": "RQUS.TO",
+   "instruments": [
+    {
+     "name": "Russell Inv MF US Eq",
+     "symbol": "RQUS"
+    }
+   ]
+  },
+  {
+   "symbol": "CNTN",
+   "name": "Canton Strategic Holdings, Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "CNTN"
+  },
+  {
+   "symbol": "TSI.V",
+   "name": "TCW Strategic Income Fund, Inc. Rights (expiring March 18, 2026) Rights when issued",
+   "exchange": "NYSE",
+   "yahoo_symbol": "TSI.V"
+  },
+  {
+   "symbol": "UAC",
+   "name": "United Acquisition Corp. I Class A Ordinary Shares",
+   "exchange": "NYSE MKT",
+   "yahoo_symbol": "UAC"
+  },
+  {
+   "symbol": "UAC.W",
+   "name": "United Acquisition Corp. I Warrants, each whole warrant exercisable for one Class A ordinary share at an exercise price of $11.50",
+   "exchange": "NYSE MKT",
+   "yahoo_symbol": "UAC.W"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "THAR",
+   "name": "Tharimmune, Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "THAR"
+  }
+ ]
+}
