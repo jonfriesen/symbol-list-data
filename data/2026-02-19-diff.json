@@ -1,0 +1,132 @@
+{
+ "added": [
+  {
+   "symbol": "AACIU",
+   "name": "Armada Acquisition Corp. III - Units",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "AACIU"
+  },
+  {
+   "symbol": "GGRP",
+   "name": "The Glimpse Group, Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "GGRP"
+  },
+  {
+   "symbol": "SHAZ",
+   "name": "SharonAI Holdings, Inc. - Class A Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "SHAZ"
+  },
+  {
+   "symbol": "SUIS",
+   "name": "Canary Staked SUIS ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "SUIS"
+  },
+  {
+   "symbol": "ARIS",
+   "name": "Aris Mining Corporation Common Shares",
+   "exchange": "NYSE",
+   "yahoo_symbol": "ARIS"
+  },
+  {
+   "symbol": "JSPX",
+   "name": "JasperX Technologies Inc.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "JSPX.V",
+   "instruments": [
+    {
+     "name": "JasperX Technologies Inc.",
+     "symbol": "JSPX"
+    }
+   ]
+  },
+  {
+   "symbol": "LAF",
+   "name": "Lithium Africa Corp.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "LAF.V",
+   "instruments": [
+    {
+     "name": "Lithium Africa Corp.",
+     "symbol": "LAF"
+    }
+   ]
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "LSC.P",
+   "name": "Lombard Street Capital Corp.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "LSC.P.V",
+   "instruments": [
+    {
+     "name": "Lombard Street Capital Corp.",
+     "symbol": "LSC.P"
+    }
+   ]
+  },
+  {
+   "symbol": "REVV",
+   "name": "Revolve Renewable Power Corp.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "REVV.V",
+   "instruments": [
+    {
+     "name": "Revolve Renewable Power Corp.",
+     "symbol": "REVV"
+    }
+   ]
+  },
+  {
+   "symbol": "BANXR",
+   "name": "ArrowMark Financial Corp. - Right",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "BANXR"
+  },
+  {
+   "symbol": "SSKN",
+   "name": "Strata Skin Sciences, Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "SSKN"
+  },
+  {
+   "symbol": "AMPGW",
+   "name": "Amplitech Group, Inc. - Warrants",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "AMPGW"
+  },
+  {
+   "symbol": "VRAR",
+   "name": "The Glimpse Group, Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "VRAR"
+  },
+  {
+   "symbol": "ARMN",
+   "name": "Aris Mining Corporation Common Shares",
+   "exchange": "NYSE MKT",
+   "yahoo_symbol": "ARMN"
+  },
+  {
+   "symbol": "VENZ",
+   "name": "Venzee Technologies Inc.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "VENZ.V",
+   "instruments": [
+    {
+     "name": "Venzee Technologies Inc.",
+     "symbol": "VENZ"
+    }
+   ]
+  },
+  {
+   "symbol": "AUUDW",
+   "name": "Auddia Inc. - Warrants",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "AUUDW"
+  }
+ ]
+}
