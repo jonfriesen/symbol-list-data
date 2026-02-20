@@ -1,0 +1,142 @@
+{
+ "added": [
+  {
+   "symbol": "CMCG",
+   "name": "Chilean Metals Inc.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "CMCG.V",
+   "instruments": [
+    {
+     "name": "Chilean Metals Inc.",
+     "symbol": "CMCG"
+    }
+   ]
+  },
+  {
+   "symbol": "AACOU",
+   "name": "Abony Acquisition Corp. I - Units",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "AACOU"
+  },
+  {
+   "symbol": "ACAAU",
+   "name": "Averin Capital Acquisition Corp. - Units",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "ACAAU"
+  },
+  {
+   "symbol": "AIDX",
+   "name": "20/20 Biolabs, Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "AIDX"
+  },
+  {
+   "symbol": "AXPG",
+   "name": "Leverage Shares 2x Long AXP Daily ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "AXPG"
+  },
+  {
+   "symbol": "FCXG",
+   "name": "Leverage Shares 2x Long FCX Daily ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "FCXG"
+  },
+  {
+   "symbol": "GAING",
+   "name": "Gladstone Investment Corporation - 7.125% Notes due 2031",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "GAING"
+  },
+  {
+   "symbol": "MEVO",
+   "name": "M Evo Global Acquisition Corp II - Class A Ordinary Shares",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "MEVO"
+  },
+  {
+   "symbol": "MEVOW",
+   "name": "M Evo Global Acquisition Corp II - Warrants",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "MEVOW"
+  },
+  {
+   "symbol": "PALOU",
+   "name": "Paloma Acquisition Corp I - Units",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "PALOU"
+  },
+  {
+   "symbol": "TRUC",
+   "name": "VanEck Communication Services TruSector ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "TRUC"
+  },
+  {
+   "symbol": "XDEF",
+   "name": "Xtrackers Europe Defense Technologies ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "XDEF"
+  },
+  {
+   "symbol": "CACE",
+   "name": "Avantis CIBC Canadian Equity ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "CACE.TO",
+   "instruments": [
+    {
+     "name": "Avantis CIBC CAND EQ",
+     "symbol": "CACE"
+    }
+   ]
+  },
+  {
+   "symbol": "CAUS",
+   "name": "Avantis CIBC U.S. All-Cap Equity ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "CAUS.TO",
+   "instruments": [
+    {
+     "name": "Avantis CIBC ACap Eq",
+     "symbol": "CAUS"
+    }
+   ]
+  },
+  {
+   "symbol": "CALV",
+   "name": "Avantis CIBC U.S. Large Cap Value ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "CALV.TO",
+   "instruments": [
+    {
+     "name": "Avantis US LrgCap Vl",
+     "symbol": "CALV"
+    }
+   ]
+  },
+  {
+   "symbol": "CAUV",
+   "name": "Avantis CIBC U.S. Small Cap Value ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "CAUV.TO",
+   "instruments": [
+    {
+     "name": "Avantis US SmlCap Vl",
+     "symbol": "CAUV"
+    }
+   ]
+  },
+  {
+   "symbol": "BESS",
+   "name": "Bimergen Energy Corporation Common Stock",
+   "exchange": "NYSE MKT",
+   "yahoo_symbol": "BESS"
+  },
+  {
+   "symbol": "BESS.W",
+   "name": "Bimergen Energy Corporation Warrants, each share exercisable to purchase one share of Common Stock",
+   "exchange": "NYSE MKT",
+   "yahoo_symbol": "BESS.W"
+  }
+ ]
+}
