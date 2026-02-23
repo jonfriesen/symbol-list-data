@@ -1,0 +1,156 @@
+{
+ "added": [
+  {
+   "symbol": "FDIQ",
+   "name": "Invesco Bloomberg Financial Data Providers ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "FDIQ"
+  },
+  {
+   "symbol": "GTOQ",
+   "name": "Invesco High Yield Systematic Bond ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "GTOQ"
+  },
+  {
+   "symbol": "IVSX",
+   "name": "Applied Finance IVS International SMID ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "IVSX"
+  },
+  {
+   "symbol": "ROC",
+   "name": "Rank One Computing Corporation - Common stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "ROC"
+  },
+  {
+   "symbol": "XRN",
+   "name": "Chiron Real Estate Inc. Common Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "XRN"
+  },
+  {
+   "symbol": "XRN$A",
+   "name": "Chiron Real Estate Inc. Series A Cumulative Redeemable Preferred Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "XRN$A"
+  },
+  {
+   "symbol": "XRN$B",
+   "name": "Chiron Real Estate Inc. 8.00% Series B Cumulative Redeemable Preferred Stock, $0.001 par value per share",
+   "exchange": "NYSE",
+   "yahoo_symbol": "XRN$B"
+  },
+  {
+   "symbol": "ACL",
+   "name": "A.C.L. Construction Ltd.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "ACL.V",
+   "instruments": [
+    {
+     "name": "A.C.L. Construction Ltd.",
+     "symbol": "ACL"
+    }
+   ]
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "KBWR",
+   "name": "Invesco KBW Regional Banking ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "KBWR"
+  },
+  {
+   "symbol": "MQT",
+   "name": "Blackrock MuniYield Quality Fund II, Inc. Common Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "MQT"
+  },
+  {
+   "symbol": "GMRE$B",
+   "name": "Global Medical REIT Inc. 8.00% Series B Cumulative Redeemable Preferred Stock, $0.001 par value per share",
+   "exchange": "NYSE",
+   "yahoo_symbol": "GMRE$B"
+  },
+  {
+   "symbol": "GMRE$A",
+   "name": "Global Medical REIT Inc. Series A Cumulative Redeemable Preferred Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "GMRE$A"
+  },
+  {
+   "symbol": "MVF",
+   "name": "Blackrock MuniVest Fund, Inc. Common Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "MVF"
+  },
+  {
+   "symbol": "SSS.P",
+   "name": "Samurai Capital Corp.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "SSS.P.V",
+   "instruments": [
+    {
+     "name": "Samurai Capital Corp.",
+     "symbol": "SSS.P"
+    }
+   ]
+  },
+  {
+   "symbol": "GMRE",
+   "name": "Global Medical REIT Inc. Common Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "GMRE"
+  },
+  {
+   "symbol": "BTA",
+   "name": "BlackRock Long-Term Municipal Advantage Trust Common Shares of Beneficial Interest",
+   "exchange": "NYSE",
+   "yahoo_symbol": "BTA"
+  },
+  {
+   "symbol": "ABPWW",
+   "name": "Abpro Holdings, Inc - Warrant",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "ABPWW"
+  },
+  {
+   "symbol": "MVT",
+   "name": "Blackrock MuniVest Fund II, Inc.  Common Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "MVT"
+  },
+  {
+   "symbol": "IHYF",
+   "name": "Invesco High Yield Bond Factor ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "IHYF"
+  },
+  {
+   "symbol": "MYD",
+   "name": "Blackrock MuniYield Fund, Inc.  Common Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "MYD"
+  },
+  {
+   "symbol": "ABP",
+   "name": "Abpro Holdings, Inc - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "ABP"
+  },
+  {
+   "symbol": "BKN",
+   "name": "BlackRock Investment Quality Municipal Trust Inc. (The)",
+   "exchange": "NYSE",
+   "yahoo_symbol": "BKN"
+  },
+  {
+   "symbol": "SHV",
+   "name": "iShares 0-1 Year Treasury Bond ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "SHV"
+  }
+ ]
+}
