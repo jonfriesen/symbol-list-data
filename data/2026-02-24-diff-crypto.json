@@ -1,0 +1,26 @@
+{
+ "added": [
+  {
+   "symbol": "PETAH",
+   "name": "ピータさん (peter)"
+  },
+  {
+   "symbol": "MAOMEME",
+   "name": "Mao (MAOMEME)"
+  },
+  {
+   "symbol": "ZEDCOIN",
+   "name": "ZedCoin (ZEDCOIN)"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "BABY4",
+   "name": "Baby 4 (BABY4)"
+  },
+  {
+   "symbol": "IMU",
+   "name": "Immunefi (IMU)"
+  }
+ ]
+}

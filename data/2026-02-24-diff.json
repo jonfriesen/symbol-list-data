@@ -1,0 +1,108 @@
+{
+ "added": [
+  {
+   "symbol": "CVSA",
+   "name": "Covista Inc. Common Shares",
+   "exchange": "NYSE",
+   "yahoo_symbol": "CVSA"
+  },
+  {
+   "symbol": "IRAB",
+   "name": "Iris Acquisition Corp II Class A Ordinary Shares",
+   "exchange": "NYSE",
+   "yahoo_symbol": "IRAB"
+  },
+  {
+   "symbol": "IRAB.W",
+   "name": "Iris Acquisition Corp II Redeemable Warrants, each whole warrant exercisable for one Class A Ordinary Share at an exercise price of $11.50 per share",
+   "exchange": "NYSE",
+   "yahoo_symbol": "IRAB.W"
+  },
+  {
+   "symbol": "QNC",
+   "name": "Quantum eMotion Corp. Common Shares",
+   "exchange": "NYSE MKT",
+   "yahoo_symbol": "QNC"
+  },
+  {
+   "symbol": "RYZ",
+   "name": "Ryerson Holding Corporation Common Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "RYZ"
+  },
+  {
+   "symbol": "WPAC",
+   "name": "White Pearl Acquisition Corp. Class A Ordinary Shares",
+   "exchange": "NYSE",
+   "yahoo_symbol": "WPAC"
+  },
+  {
+   "symbol": "WPAC.R",
+   "name": "White Pearl Acquisition Corp. Rights, each right entitles the holder to receive one-fifth of one Class A ordinary share upon consummation of the initial business combination",
+   "exchange": "NYSE",
+   "yahoo_symbol": "WPAC.R"
+  },
+  {
+   "symbol": "V",
+   "name": "Verdera Energy Corp.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "V.V",
+   "instruments": [
+    {
+     "name": "Verdera Energy Corp.",
+     "symbol": "V"
+    }
+   ]
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "LVRO",
+   "name": "Lavoro Limited - Class A Ordinary Shares",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "LVRO"
+  },
+  {
+   "symbol": "LVROW",
+   "name": "Lavoro Limited - Warrant",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "LVROW"
+  },
+  {
+   "symbol": "POC.P",
+   "name": "POCML 7 Inc.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "POC.P.V",
+   "instruments": [
+    {
+     "name": "POCML 7 INC.",
+     "symbol": "POC.P"
+    }
+   ]
+  },
+  {
+   "symbol": "AHL",
+   "name": "Aspen Insurance Holdings Limited Class A Ordinary Shares",
+   "exchange": "NYSE",
+   "yahoo_symbol": "AHL"
+  },
+  {
+   "symbol": "RYI",
+   "name": "Ryerson Holding Corporation Common Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "RYI"
+  },
+  {
+   "symbol": "ATGE",
+   "name": "Adtalem Global Education Inc. Common Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "ATGE"
+  },
+  {
+   "symbol": "QQJG",
+   "name": "Invesco ESG NASDAQ Next Gen 100 ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "QQJG"
+  }
+ ]
+}
