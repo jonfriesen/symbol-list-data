@@ -1,0 +1,84 @@
+{
+ "added": [
+  {
+   "symbol": "FOXT",
+   "name": "Fox Tungsten Ltd.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "FOXT.V",
+   "instruments": [
+    {
+     "name": "Fox Tungsten Ltd.",
+     "symbol": "FOXT"
+    }
+   ]
+  },
+  {
+   "symbol": "ALOY",
+   "name": "REalloys Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "ALOY"
+  },
+  {
+   "symbol": "CTAAU",
+   "name": "ClearThink 1 Acquisition Corp. - Units",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "CTAAU"
+  },
+  {
+   "symbol": "TSUI",
+   "name": "21Shares Sui ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "TSUI"
+  },
+  {
+   "symbol": "MZYX.U",
+   "name": "MOZAYYX Acquisition Corp. Units, each consisting of one Class A ordinary share and one-quarter of one redeemable warrant",
+   "exchange": "NYSE",
+   "yahoo_symbol": "MZYX.U"
+  },
+  {
+   "symbol": "TRAD.U",
+   "name": "APEX Tech Acquisition Inc. Units, each consisting of one Class A ordinary share and one right to receive one sixth (1/6) of a Class A ordinary share",
+   "exchange": "NYSE",
+   "yahoo_symbol": "TRAD.U"
+  },
+  {
+   "symbol": "TSI.R",
+   "name": "TCW Strategic Income Fund, Inc. Rights (expiring March 18, 2026) Rights",
+   "exchange": "NYSE",
+   "yahoo_symbol": "TSI.R"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "BLBX",
+   "name": "Blackboxstocks Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "BLBX"
+  },
+  {
+   "symbol": "TSI.V",
+   "name": "TCW Strategic Income Fund, Inc. Rights (expiring March 18, 2026) Rights when issued",
+   "exchange": "NYSE",
+   "yahoo_symbol": "TSI.V"
+  },
+  {
+   "symbol": "HPY",
+   "name": "Happy Creek Minerals Ltd.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "HPY.V",
+   "instruments": [
+    {
+     "name": "Happy Creek Minerals Ltd",
+     "symbol": "HPY"
+    }
+   ]
+  },
+  {
+   "symbol": "MGIC",
+   "name": "Magic Software Enterprises Ltd. - Ordinary Shares",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "MGIC"
+  }
+ ]
+}
