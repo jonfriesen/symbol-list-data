@@ -1,0 +1,42 @@
+{
+ "added": [
+  {
+   "symbol": "CRTR",
+   "name": "CREATOR (CRTR)"
+  },
+  {
+   "symbol": "AIAO",
+   "name": "AlgosOne AI Token (AIAO)"
+  },
+  {
+   "symbol": "IMU",
+   "name": "Immunefi (IMU)"
+  },
+  {
+   "symbol": "BABY4",
+   "name": "Baby 4 (BABY4)"
+  },
+  {
+   "symbol": "MACMINI",
+   "name": "Mac mini (MACMINI)"
+  },
+  {
+   "symbol": "WEGL",
+   "name": "White Eagle (WEGL)"
+  },
+  {
+   "symbol": "PIPPKIN",
+   "name": "Pippkin The Horse (PIPPKIN)"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "MAOMEME",
+   "name": "Mao (MAOMEME)"
+  },
+  {
+   "symbol": "ZEDCOIN",
+   "name": "ZedCoin (ZEDCOIN)"
+  }
+ ]
+}

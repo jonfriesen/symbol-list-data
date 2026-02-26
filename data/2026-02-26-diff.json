@@ -1,0 +1,116 @@
+{
+ "added": [
+  {
+   "symbol": "AGMR",
+   "name": "Silver Mountain Resources Inc.",
+   "exchange": "TSX",
+   "yahoo_symbol": "AGMR.TO",
+   "instruments": [
+    {
+     "name": "Silver Mntn Rsrc Inc",
+     "symbol": "AGMR"
+    },
+    {
+     "name": "Silv Mntn Rsrc Inc W",
+     "symbol": "AGMR.WT.B"
+    }
+   ]
+  },
+  {
+   "symbol": "DBCA",
+   "name": "D. Boral Acquisition I Corp. - Class A Ordinary Shares",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "DBCA"
+  },
+  {
+   "symbol": "DBCAW",
+   "name": "D. Boral Acquisition I Corp. - Warrants",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "DBCAW"
+  },
+  {
+   "symbol": "KTWO",
+   "name": "K2 Capital Acquisition Corporation - Class A Ordinary Share",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "KTWO"
+  },
+  {
+   "symbol": "KTWOR",
+   "name": "K2 Capital Acquisition Corporation - Rights",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "KTWOR"
+  },
+  {
+   "symbol": "NUCL",
+   "name": "Eagle Nuclear Energy Corp. - Common stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "NUCL"
+  },
+  {
+   "symbol": "NUCLW",
+   "name": "Eagle Nuclear Energy Corp. - Warrants",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "NUCLW"
+  },
+  {
+   "symbol": "NXTS",
+   "name": "Nexentis Technologies Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "NXTS"
+  },
+  {
+   "symbol": "RNAM",
+   "name": "Avidity Biosciences, Inc. - Common Stock",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "RNAM"
+  },
+  {
+   "symbol": "BCHT",
+   "name": "Birchtech Corp. Common Stock",
+   "exchange": "NYSE MKT",
+   "yahoo_symbol": "BCHT"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "AGMR",
+   "name": "Silver Mountain Resources Inc.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "AGMR.V",
+   "instruments": [
+    {
+     "name": "Silver Mountain Resources Inc.",
+     "symbol": "AGMR"
+    },
+    {
+     "name": "Silver Mountain Resources Inc. wts B 24Apr2028",
+     "symbol": "AGMR.WT.B"
+    }
+   ]
+  },
+  {
+   "symbol": "NITO",
+   "name": "N2OFF, Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "NITO"
+  },
+  {
+   "symbol": "CASI",
+   "name": "CASI Pharmaceuticals, Inc. - Ordinary Shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "CASI"
+  },
+  {
+   "symbol": "SPNT$B",
+   "name": "SiriusPoint Ltd. 8.00% Resettable Fixed Rate Preference Shares, Series B, $25.00 liquidation preference per share",
+   "exchange": "NYSE",
+   "yahoo_symbol": "SPNT$B"
+  },
+  {
+   "symbol": "RNA",
+   "name": "Avidity Biosciences, Inc. - Common Stock",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "RNA"
+  }
+ ]
+}
