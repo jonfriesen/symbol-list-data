@@ -1,0 +1,96 @@
+{
+ "added": [
+  {
+   "symbol": "GAB.V",
+   "name": "Gabelli Equity Trust, Inc. (The) Rights (expiring April 14, 2026) Rights when issued",
+   "exchange": "NYSE",
+   "yahoo_symbol": "GAB.V"
+  },
+  {
+   "symbol": "BAIV",
+   "name": "Brown Advisory International Value Select ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "BAIV"
+  },
+  {
+   "symbol": "FVAV",
+   "name": "Fortress Value Acquisition Corp. V - Class A Ordinary Shares",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "FVAV"
+  },
+  {
+   "symbol": "MYHA",
+   "name": "State Street My2027 High Yield Corporate Bond ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "MYHA"
+  },
+  {
+   "symbol": "MYHB",
+   "name": "State Street My2028 High Yield Corporate Bond ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "MYHB"
+  },
+  {
+   "symbol": "MYHC",
+   "name": "State Street My2029 High Yield Corporate Bond ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "MYHC"
+  },
+  {
+   "symbol": "MYHD",
+   "name": "State Street My2030 High Yield Corporate Bond ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "MYHD"
+  },
+  {
+   "symbol": "MYHE",
+   "name": "State Street My2031 High Yield Corporate Bond ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "MYHE"
+  },
+  {
+   "symbol": "RFAM",
+   "name": "RF Acquisition Corp III - Ordinary Shares",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "RFAM"
+  },
+  {
+   "symbol": "RFAMR",
+   "name": "RF Acquisition Corp III - Rights",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "RFAMR"
+  },
+  {
+   "symbol": "TRGSU",
+   "name": "TRG Latin America Acquisitions Corp. - Units",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "TRGSU"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "EFC$A",
+   "name": "Ellington Financial Inc. 6.750% Series A Fixed-to-Floating Rate Cumulative Redeemable Preferred Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "EFC$A"
+  },
+  {
+   "symbol": "BCTXW",
+   "name": "BriaCell Therapeutics Corp. - Warrant expiring 2026",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "BCTXW"
+  },
+  {
+   "symbol": "DGX",
+   "name": "Digi Power X Inc.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "DGX.V",
+   "instruments": [
+    {
+     "name": "Digi Power X Inc.",
+     "symbol": "DGX"
+    }
+   ]
+  }
+ ]
+}
