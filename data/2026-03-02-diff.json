@@ -1,0 +1,174 @@
+{
+ "added": [
+  {
+   "symbol": "LOVE",
+   "name": "Cannara Biotech Inc.",
+   "exchange": "TSX",
+   "yahoo_symbol": "LOVE.TO",
+   "instruments": [
+    {
+     "name": "Cannara Biotech Inc",
+     "symbol": "LOVE"
+    }
+   ]
+  },
+  {
+   "symbol": "AHRT",
+   "name": "AH Realty Trust, Inc. Common Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "AHRT"
+  },
+  {
+   "symbol": "AHRT$A",
+   "name": "AH Realty Trust, Inc. 6.75% Series A Cumulative Redeemable Perpetual Preferred Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "AHRT$A"
+  },
+  {
+   "symbol": "SUNB",
+   "name": "Sunbelt Rentals Holdings, Inc. Common Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "SUNB"
+  },
+  {
+   "symbol": "ARTC",
+   "name": "Art Technology Acquisition Corp. - Class A Ordinary Shares",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "ARTC"
+  },
+  {
+   "symbol": "ARTCW",
+   "name": "Art Technology Acquisition Corp. - Warrants",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "ARTCW"
+  },
+  {
+   "symbol": "CMII",
+   "name": "Columbus Circle Capital Corp II - Class A Ordinary Shares",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "CMII"
+  },
+  {
+   "symbol": "CMIIW",
+   "name": "Columbus Circle Capital Corp II - Warrant",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "CMIIW"
+  },
+  {
+   "symbol": "EART",
+   "name": "Global X Rare Earth \u0026 Critical Materials ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "EART"
+  },
+  {
+   "symbol": "FRMM",
+   "name": "Forum Markets, Incorporated - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "FRMM"
+  },
+  {
+   "symbol": "GENB",
+   "name": "Generate Biomedicines, Inc. - Common Stock",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "GENB"
+  },
+  {
+   "symbol": "ILLUU",
+   "name": "Illumination Acquisition Corp I - Units",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "ILLUU"
+  },
+  {
+   "symbol": "RNA",
+   "name": "Atrium Therapeutics, Inc. - Common Stock",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "RNA"
+  },
+  {
+   "symbol": "SORN",
+   "name": "Soren Acquisition Corp. - Class A Ordinary Shares",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "SORN"
+  },
+  {
+   "symbol": "SORNW",
+   "name": "Soren Acquisition Corp. - Warrant",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "SORNW"
+  },
+  {
+   "symbol": "SSAC",
+   "name": "SPACSphere Acquisition Corp. - Class A Ordinary Shares",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "SSAC"
+  },
+  {
+   "symbol": "SSACR",
+   "name": "SPACSphere Acquisition Corp. - Rights",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "SSACR"
+  },
+  {
+   "symbol": "SSACW",
+   "name": "SPACSphere Acquisition Corp. - Warrant",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "SSACW"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "DMAT",
+   "name": "Global X Disruptive Materials ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "DMAT"
+  },
+  {
+   "symbol": "RNAM",
+   "name": "Avidity Biosciences, Inc. - Common Stock",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "RNAM"
+  },
+  {
+   "symbol": "FRGE",
+   "name": "Forge Global Holdings, Inc. Common Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "FRGE"
+  },
+  {
+   "symbol": "LOVE",
+   "name": "Cannara Biotech Inc.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "LOVE.V",
+   "instruments": [
+    {
+     "name": "Cannara Biotech Inc.",
+     "symbol": "LOVE"
+    }
+   ]
+  },
+  {
+   "symbol": "AHH",
+   "name": "Armada Hoffler Properties, Inc. Common Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "AHH"
+  },
+  {
+   "symbol": "ETHZ",
+   "name": "ETHZilla Corporation - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "ETHZ"
+  },
+  {
+   "symbol": "ANEB",
+   "name": "Anebulo Pharmaceuticals, Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "ANEB"
+  },
+  {
+   "symbol": "AHH$A",
+   "name": "Armada Hoffler Properties, Inc. 6.75% Series A Cumulative Redeemable Perpetual Preferred Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "AHH$A"
+  }
+ ]
+}

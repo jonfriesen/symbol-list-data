@@ -1,0 +1,46 @@
+{
+ "added": [
+  {
+   "symbol": "SOLCATMEME",
+   "name": "SOLCAT (SOLCATMEME)"
+  },
+  {
+   "symbol": "IDOS",
+   "name": "IDOS (IDOS)"
+  },
+  {
+   "symbol": "BTXEX",
+   "name": "BTXEX (BTXEX)"
+  },
+  {
+   "symbol": "HNO",
+   "name": "HNO Coin (HNO)"
+  },
+  {
+   "symbol": "WORLDW",
+   "name": "World War 3 (WORLDW)"
+  },
+  {
+   "symbol": "IMU",
+   "name": "Immunefi (IMU)"
+  },
+  {
+   "symbol": "MOVA",
+   "name": "MOVA (MOVA)"
+  },
+  {
+   "symbol": "BABY4",
+   "name": "Baby 4 (BABY4)"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "MAOMEME",
+   "name": "Mao (MAOMEME)"
+  },
+  {
+   "symbol": "ZEDCOIN",
+   "name": "ZedCoin (ZEDCOIN)"
+  }
+ ]
+}
