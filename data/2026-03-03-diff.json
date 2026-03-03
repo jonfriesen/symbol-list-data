@@ -1,0 +1,144 @@
+{
+ "added": [
+  {
+   "symbol": "BCM.WT",
+   "name": "Bear Creek Mining Corporation",
+   "exchange": "TSXV",
+   "yahoo_symbol": "BCM.WT.V",
+   "instruments": [
+    {
+     "name": "Bear Creek Mining Corporation wt 05Oct2028",
+     "symbol": "BCM.WT"
+    }
+   ]
+  },
+  {
+   "symbol": "AGTF",
+   "name": "AGT Food and Ingredients Inc.",
+   "exchange": "TSX",
+   "yahoo_symbol": "AGTF.TO",
+   "instruments": [
+    {
+     "name": "AGT F\u0026Ingr Inc WIsue",
+     "symbol": "AGTF"
+    }
+   ]
+  },
+  {
+   "symbol": "RPR.DB.A",
+   "name": "Ravelin Properties REIT",
+   "exchange": "TSX",
+   "yahoo_symbol": "RPR.DB.A.TO",
+   "instruments": [
+    {
+     "name": "Ravelin ProREIT Db A",
+     "symbol": "RPR.DB.A"
+    },
+    {
+     "name": "Ravelin ProREIT Db B",
+     "symbol": "RPR.DB.B"
+    },
+    {
+     "name": "Ravelin Prop REIT Un",
+     "symbol": "RPR.UN"
+    }
+   ]
+  },
+  {
+   "symbol": "WHR$A",
+   "name": "Whirlpool Corporation Depositary Shares, each representing a 1/20th interest in a share of 8.50% Series A Mandatory Convertible Preferred Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "WHR$A"
+  },
+  {
+   "symbol": "MRDN",
+   "name": "Meridian Holdings Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "MRDN"
+  },
+  {
+   "symbol": "SVIV",
+   "name": "Spring Valley Acquisition Corp. IV - Class A Ordinary Shares",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "SVIV"
+  },
+  {
+   "symbol": "SVIVW",
+   "name": "Spring Valley Acquisition Corp. IV - Warrants",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "SVIVW"
+  },
+  {
+   "symbol": "TNXP",
+   "name": "Tonix Pharmaceuticals Holding Corp. - Common Stock",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "TNXP"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "BCM",
+   "name": "Bear Creek Mining Corporation",
+   "exchange": "TSXV",
+   "yahoo_symbol": "BCM.V",
+   "instruments": [
+    {
+     "name": "Bear Creek Mining Corporation",
+     "symbol": "BCM"
+    },
+    {
+     "name": "Bear Creek Mining Corporation wt 05Oct2028",
+     "symbol": "BCM.WT"
+    }
+   ]
+  },
+  {
+   "symbol": "MBCN",
+   "name": "Middlefield Banc Corp. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "MBCN"
+  },
+  {
+   "symbol": "RPR.DB",
+   "name": "Ravelin Properties REIT",
+   "exchange": "TSX",
+   "yahoo_symbol": "RPR.DB.TO",
+   "instruments": [
+    {
+     "name": "Ravelin Pr REIT 9%Db",
+     "symbol": "RPR.DB"
+    },
+    {
+     "name": "Ravelin ProREIT Db A",
+     "symbol": "RPR.DB.A"
+    },
+    {
+     "name": "Ravelin ProREIT Db B",
+     "symbol": "RPR.DB.B"
+    },
+    {
+     "name": "Ravelin Prop REIT Un",
+     "symbol": "RPR.UN"
+    }
+   ]
+  },
+  {
+   "symbol": "GMGI",
+   "name": "Golden Matrix Group, Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "GMGI"
+  },
+  {
+   "symbol": "TNXP",
+   "name": "Tonix Pharmaceuticals Holding Corp. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "TNXP"
+  },
+  {
+   "symbol": "TSE",
+   "name": "Trinseo PLC Ordinary Shares ",
+   "exchange": "NYSE",
+   "yahoo_symbol": "TSE"
+  }
+ ]
+}
