@@ -1,0 +1,120 @@
+{
+ "added": [
+  {
+   "symbol": "VTEN",
+   "name": "V Ten Metals Corp.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "VTEN.V",
+   "instruments": [
+    {
+     "name": "V Ten Metals Corp.",
+     "symbol": "VTEN"
+    }
+   ]
+  },
+  {
+   "symbol": "GLED.U",
+   "name": "GalaxyEdge Acquisition Corporation Units, each consisting of one Ordinary Share and one Right entitling the holder to receive 1/4th of one ordinary share",
+   "exchange": "NYSE",
+   "yahoo_symbol": "GLED.U"
+  },
+  {
+   "symbol": "KCAC.U",
+   "name": "Kensington Capital Acquisition Corp. VI Units, each consisting of one Class A ordinary share, one-quarter of one Class 1 redeemable warrant and three-quarters of one Class 2 redeemable warrant",
+   "exchange": "NYSE",
+   "yahoo_symbol": "KCAC.U"
+  },
+  {
+   "symbol": "PPLC",
+   "name": "PPL Corporation Corporate Units",
+   "exchange": "NYSE",
+   "yahoo_symbol": "PPLC"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "GDI",
+   "name": "GDI Integrated Facility Services Inc.",
+   "exchange": "TSX",
+   "yahoo_symbol": "GDI.TO",
+   "instruments": [
+    {
+     "name": "GDI Integrated SV J",
+     "symbol": "GDI"
+    }
+   ]
+  },
+  {
+   "symbol": "TLTD",
+   "name": "MegaShort (-3X) 20+ Year US Treasury Daily Leveraged Alternative ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "TLTD.TO",
+   "instruments": [
+    {
+     "name": "MegaShort-3X 20+Y US",
+     "symbol": "TLTD"
+    }
+   ]
+  },
+  {
+   "symbol": "TLTU",
+   "name": "MegaLong (3X) 20+ Year US Treasury Daily Leveraged Alternative ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "TLTU.TO",
+   "instruments": [
+    {
+     "name": "MegaLong 3X 20+Yr US",
+     "symbol": "TLTU"
+    }
+   ]
+  },
+  {
+   "symbol": "RAPT",
+   "name": "RAPT Therapeutics, Inc. - Common Stock",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "RAPT"
+  },
+  {
+   "symbol": "IFX",
+   "name": "Imaflex Inc.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "IFX.V",
+   "instruments": [
+    {
+     "name": "Imaflex Inc.",
+     "symbol": "IFX"
+    }
+   ]
+  },
+  {
+   "symbol": "GIP",
+   "name": "Green Impact Partners Inc.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "GIP.V",
+   "instruments": [
+    {
+     "name": "Green Impact Partners Inc.",
+     "symbol": "GIP"
+    }
+   ]
+  },
+  {
+   "symbol": "RBOT",
+   "name": "Vicarious Surgical Inc. Class A Common Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "RBOT"
+  },
+  {
+   "symbol": "VTEN.P",
+   "name": "V Ten Capital Corp.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "VTEN.P.V",
+   "instruments": [
+    {
+     "name": "V Ten Capital Corp.",
+     "symbol": "VTEN.P"
+    }
+   ]
+  }
+ ]
+}
