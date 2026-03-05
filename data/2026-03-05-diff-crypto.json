@@ -1,0 +1,46 @@
+{
+ "added": [
+  {
+   "symbol": "MANTRA",
+   "name": "Mantra (MANTRA)"
+  },
+  {
+   "symbol": "COCA",
+   "name": "COCA (COCA)"
+  },
+  {
+   "symbol": "FWX",
+   "name": "Future Warriors X (FWX)"
+  },
+  {
+   "symbol": "BABY4",
+   "name": "Baby 4 (BABY4)"
+  },
+  {
+   "symbol": "IMU",
+   "name": "Immunefi (IMU)"
+  },
+  {
+   "symbol": "AIBINANCE",
+   "name": "AI Binance (AIBINANCE)"
+  },
+  {
+   "symbol": "BCAK",
+   "name": "BCAK (BCAK)"
+  },
+  {
+   "symbol": "SUSDT",
+   "name": "SkyTrade Pro (SUSDT)"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "ZEDCOIN",
+   "name": "ZedCoin (ZEDCOIN)"
+  },
+  {
+   "symbol": "MAOMEME",
+   "name": "Mao (MAOMEME)"
+  }
+ ]
+}

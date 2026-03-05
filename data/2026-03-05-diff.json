@@ -1,0 +1,96 @@
+{
+ "added": [
+  {
+   "symbol": "CRG",
+   "name": "Crossroads Gold Corp.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "CRG.V",
+   "instruments": [
+    {
+     "name": "Crossroads Gold Corp.",
+     "symbol": "CRG"
+    }
+   ]
+  },
+  {
+   "symbol": "SKEL",
+   "name": "Skeleton Coast Uranium Corp.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "SKEL.V",
+   "instruments": [
+    {
+     "name": "Skeleton Coast Uranium Corp.",
+     "symbol": "SKEL"
+    }
+   ]
+  },
+  {
+   "symbol": "GAB.R",
+   "name": "Gabelli Equity Trust, Inc. (The) Rights (expiring April 14, 2026) Rights",
+   "exchange": "NYSE",
+   "yahoo_symbol": "GAB.R"
+  },
+  {
+   "symbol": "NEE$V",
+   "name": "NextEra Energy, Inc. 7.375% Corporate Units",
+   "exchange": "NYSE",
+   "yahoo_symbol": "NEE$V"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "FTW.U",
+   "name": "EQV Ventures Acquisition Corp. Units, each consisting of one Class A ordinary share and one-third of one redeemable warrant",
+   "exchange": "NYSE",
+   "yahoo_symbol": "FTW.U"
+  },
+  {
+   "symbol": "PWH",
+   "name": "PureWave Hydrogen Corp.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "PWH.V",
+   "instruments": [
+    {
+     "name": "PureWave Hydrogen Corp.",
+     "symbol": "PWH"
+    }
+   ]
+  },
+  {
+   "symbol": "GLI",
+   "name": "Glacier Lake Resources Inc.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "GLI.V",
+   "instruments": [
+    {
+     "name": "Glacier Lake Resources Inc.",
+     "symbol": "GLI"
+    }
+   ]
+  },
+  {
+   "symbol": "VTYX",
+   "name": "Ventyx Biosciences, Inc. - Common Stock",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "VTYX"
+  },
+  {
+   "symbol": "RWAYZ",
+   "name": "Runway Growth Finance Corp. - 8.00% Notes due 2027",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "RWAYZ"
+  },
+  {
+   "symbol": "TIRX",
+   "name": "TIAN RUIXIANG Holdings Ltd - Class A Ordinary Shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "TIRX"
+  },
+  {
+   "symbol": "GAB.V",
+   "name": "Gabelli Equity Trust, Inc. (The) Rights (expiring April 14, 2026) Rights when issued",
+   "exchange": "NYSE",
+   "yahoo_symbol": "GAB.V"
+  }
+ ]
+}
