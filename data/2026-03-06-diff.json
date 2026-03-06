@@ -1,0 +1,72 @@
+{
+ "added": [
+  {
+   "symbol": "EVPF",
+   "name": "Eaton Vance Preferred Securities and Income ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "EVPF"
+  },
+  {
+   "symbol": "IBAC",
+   "name": "IB Acquisition Corp. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "IBAC"
+  },
+  {
+   "symbol": "IBACR",
+   "name": "IB Acquisition Corp. - Right",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "IBACR"
+  },
+  {
+   "symbol": "BUI.V",
+   "name": "BlackRock Utility, Infrastructure \u0026 Power Opportun Rights (expiring April 2, 2026) Rights when issued",
+   "exchange": "NYSE",
+   "yahoo_symbol": "BUI.V"
+  },
+  {
+   "symbol": "RVI",
+   "name": "Robinhood Ventures Fund I Common Shares of Beneficial Interest",
+   "exchange": "NYSE",
+   "yahoo_symbol": "RVI"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "IBAC",
+   "name": "IB Acquisition Corp. - Common Stock",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "IBAC"
+  },
+  {
+   "symbol": "IBACR",
+   "name": "IB Acquisition Corp. - Right",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "IBACR"
+  },
+  {
+   "symbol": "IMG",
+   "name": "CIMG Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "IMG"
+  },
+  {
+   "symbol": "AGTF",
+   "name": "AGT Food and Ingredients Inc.",
+   "exchange": "TSX",
+   "yahoo_symbol": "AGTF.TO",
+   "instruments": [
+    {
+     "name": "AGT F\u0026Ingr Inc WIsue",
+     "symbol": "AGTF"
+    }
+   ]
+  },
+  {
+   "symbol": "CULP",
+   "name": "Culp, Inc. Common Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "CULP"
+  }
+ ]
+}
