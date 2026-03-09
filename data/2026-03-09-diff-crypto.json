@@ -1,0 +1,34 @@
+{
+ "added": [
+  {
+   "symbol": "BDAG",
+   "name": "BlockDAG (BDAG)"
+  },
+  {
+   "symbol": "ZEDCOIN",
+   "name": "ZedCoin (ZEDCOIN)"
+  },
+  {
+   "symbol": "PMUSD",
+   "name": "Precious Metals USD (PMUSD)"
+  },
+  {
+   "symbol": "TRT",
+   "name": "TuurnT (TRT)"
+  },
+  {
+   "symbol": "MAOMEME",
+   "name": "Mao (MAOMEME)"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "BABY4",
+   "name": "Baby 4 (BABY4)"
+  },
+  {
+   "symbol": "IMU",
+   "name": "Immunefi (IMU)"
+  }
+ ]
+}

@@ -1,0 +1,102 @@
+{
+ "added": [
+  {
+   "symbol": "AGTF",
+   "name": "AGT Food and Ingredients Inc.",
+   "exchange": "TSX",
+   "yahoo_symbol": "AGTF.TO",
+   "instruments": [
+    {
+     "name": "AGT Food\u0026Ingr Inc WI",
+     "symbol": "AGTF"
+    }
+   ]
+  },
+  {
+   "symbol": "AVOS",
+   "name": "Avos Global Equities ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "AVOS"
+  },
+  {
+   "symbol": "CAPR",
+   "name": "Capricor Therapeutics, Inc. - Common Stock",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "CAPR"
+  },
+  {
+   "symbol": "CULP",
+   "name": "Culp, Inc. - Common Shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "CULP"
+  },
+  {
+   "symbol": "MMED",
+   "name": "MiniMed Group, Inc. - Common Stock",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "MMED"
+  },
+  {
+   "symbol": "OIM",
+   "name": "OneIM Acquisition Corp. - Class A Ordinary Shares",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "OIM"
+  },
+  {
+   "symbol": "OIMAW",
+   "name": "OneIM Acquisition Corp. - Warrant",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "OIMAW"
+  },
+  {
+   "symbol": "TDOT",
+   "name": "21shares Polkadot ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "TDOT"
+  },
+  {
+   "symbol": "VMET",
+   "name": "Versamet Royalties Corporation - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "VMET"
+  },
+  {
+   "symbol": "XFLH",
+   "name": "XFLH Capital Corporation Ordinary Shares",
+   "exchange": "NYSE",
+   "yahoo_symbol": "XFLH"
+  },
+  {
+   "symbol": "XFLH.R",
+   "name": "XFLH Capital Corporation Rights to receive one-seventh (1/7) of one Ordinary Share",
+   "exchange": "NYSE",
+   "yahoo_symbol": "XFLH.R"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "ALUR",
+   "name": "Allurion Technologies, Inc. Common Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "ALUR"
+  },
+  {
+   "symbol": "ALUR.W",
+   "name": "Allurion Technologies, Inc. Warrants, each whole warrant exercisable to purchase 1.420455 shares of common stock at an exercise price of $8.10 per share of common stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "ALUR.W"
+  },
+  {
+   "symbol": "JRI.R",
+   "name": "Nuveen Real Asset Income and Growth Fund Rights (expiring March 9, 2026) Rights",
+   "exchange": "NYSE",
+   "yahoo_symbol": "JRI.R"
+  },
+  {
+   "symbol": "CAPR",
+   "name": "Capricor Therapeutics, Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "CAPR"
+  }
+ ]
+}
