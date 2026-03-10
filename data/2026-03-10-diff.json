@@ -1,0 +1,102 @@
+{
+ "added": [
+  {
+   "symbol": "GCEI",
+   "name": "Guardian Canadian Equity Income Fund",
+   "exchange": "TSX",
+   "yahoo_symbol": "GCEI.TO",
+   "instruments": [
+    {
+     "name": "Guardian Cdn Eq Incm",
+     "symbol": "GCEI"
+    }
+   ]
+  },
+  {
+   "symbol": "GFGE",
+   "name": "Guardian Fundamental Global Equity Fund",
+   "exchange": "TSX",
+   "yahoo_symbol": "GFGE.TO",
+   "instruments": [
+    {
+     "name": "Grdn Fndmtl Gbl Eq",
+     "symbol": "GFGE"
+    }
+   ]
+  },
+  {
+   "symbol": "GSDB",
+   "name": "Guardian Short Duration Bond Fund",
+   "exchange": "TSX",
+   "yahoo_symbol": "GSDB.TO",
+   "instruments": [
+    {
+     "name": "Grdn Short Dur Bnd",
+     "symbol": "GSDB"
+    }
+   ]
+  },
+  {
+   "symbol": "DMRA",
+   "name": "Damora Therapeutics, Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "DMRA"
+  },
+  {
+   "symbol": "OIO",
+   "name": "OIO Group - Ordinary Shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "OIO"
+  },
+  {
+   "symbol": "OIOWW",
+   "name": "OIO Group - Warrants",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "OIOWW"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "EB",
+   "name": "Eventbrite, Inc. Class A Common Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "EB"
+  },
+  {
+   "symbol": "CRESW",
+   "name": "Cresud S.A.C.I.F. y A. - Warrant",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "CRESW"
+  },
+  {
+   "symbol": "ESGLW",
+   "name": "ESGL Holdings Limited - Warrants",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "ESGLW"
+  },
+  {
+   "symbol": "GLTO",
+   "name": "Galecto, Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "GLTO"
+  },
+  {
+   "symbol": "LIRC",
+   "name": "Lithium Royalty Corp.",
+   "exchange": "TSX",
+   "yahoo_symbol": "LIRC.TO",
+   "instruments": [
+    {
+     "name": "Lithium Royalty J",
+     "symbol": "LIRC"
+    }
+   ]
+  },
+  {
+   "symbol": "ESGL",
+   "name": "ESGL Holdings Limited - Class A Ordinary Shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "ESGL"
+  }
+ ]
+}
