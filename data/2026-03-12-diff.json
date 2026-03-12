@@ -1,0 +1,126 @@
+{
+ "added": [
+  {
+   "symbol": "BEAR",
+   "name": "Big Bear Gold Corp.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "BEAR.V",
+   "instruments": [
+    {
+     "name": "Big Bear Gold Corp.",
+     "symbol": "BEAR"
+    }
+   ]
+  },
+  {
+   "symbol": "EASY",
+   "name": "Evolve All-in-One UltraYield ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "EASY.TO",
+   "instruments": [
+    {
+     "name": "Evolve AllIn1 UltY E",
+     "symbol": "EASY"
+    }
+   ]
+  },
+  {
+   "symbol": "MDA",
+   "name": "MDA Space Ltd. Common Shares",
+   "exchange": "NYSE",
+   "yahoo_symbol": "MDA"
+  },
+  {
+   "symbol": "MTAL.U",
+   "name": "Metals Acquisition Corp. II Units, each consisting of one Class A ordinary share and one-third of one redeemable warrant",
+   "exchange": "NYSE",
+   "yahoo_symbol": "MTAL.U"
+  },
+  {
+   "symbol": "CODX",
+   "name": "Co-Diagnostics, Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "CODX"
+  },
+  {
+   "symbol": "GMEX",
+   "name": "GMEX ROBOTICS CORPORATION - Class A Ordinary Shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "GMEX"
+  },
+  {
+   "symbol": "GRML",
+   "name": "Greenland Mines Ltd - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "GRML"
+  },
+  {
+   "symbol": "GRMLW",
+   "name": "Greenland Mines Ltd - Warrants",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "GRMLW"
+  },
+  {
+   "symbol": "QUCY",
+   "name": "Mainz Biomed N.V. - Ordinary Shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "QUCY"
+  },
+  {
+   "symbol": "SUMAU",
+   "name": "SUMA Acquisition Corporation - Units",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "SUMAU"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "AEVAW",
+   "name": "Aeva Technologies, Inc. - Redeemable Warrants",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "AEVAW"
+  },
+  {
+   "symbol": "OUSTZ",
+   "name": "Ouster, Inc. - Warrants",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "OUSTZ"
+  },
+  {
+   "symbol": "MYNZ",
+   "name": "Mainz Biomed N.V. - Ordinary Shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "MYNZ"
+  },
+  {
+   "symbol": "KLTOW",
+   "name": "Klotho Neurosciences, Inc. - Warrants",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "KLTOW"
+  },
+  {
+   "symbol": "FTEL",
+   "name": "Fitell Corporation - Class A Ordinary Shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "FTEL"
+  },
+  {
+   "symbol": "WKG",
+   "name": "WestKam Gold Corp.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "WKG.V",
+   "instruments": [
+    {
+     "name": "WestKam Gold Corp.",
+     "symbol": "WKG"
+    }
+   ]
+  },
+  {
+   "symbol": "KLTO",
+   "name": "Klotho Neurosciences, Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "KLTO"
+  }
+ ]
+}

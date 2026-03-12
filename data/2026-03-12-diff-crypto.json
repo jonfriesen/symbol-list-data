@@ -1,0 +1,46 @@
+{
+ "added": [
+  {
+   "symbol": "MAOMEME",
+   "name": "Mao (MAOMEME)"
+  },
+  {
+   "symbol": "ARSE",
+   "name": "ARSe (ARSE)"
+  },
+  {
+   "symbol": "小龙虾",
+   "name": "币安小龙虾 (binance-crayfish)"
+  },
+  {
+   "symbol": "BABYFROG",
+   "name": "Baby Frog Coin (BABYFROG)"
+  },
+  {
+   "symbol": "MOLO",
+   "name": "MOLO CHAIN (MOLO)"
+  },
+  {
+   "symbol": "SN3",
+   "name": "Supernova Nebula3 (SN3)"
+  },
+  {
+   "symbol": "THEWHALE",
+   "name": "The Whale killer (THEWHALE)"
+  },
+  {
+   "symbol": "ZEDCOIN",
+   "name": "ZedCoin (ZEDCOIN)"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "IMU",
+   "name": "Immunefi (IMU)"
+  },
+  {
+   "symbol": "BABY4",
+   "name": "Baby 4 (BABY4)"
+  }
+ ]
+}
