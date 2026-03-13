@@ -1,0 +1,78 @@
+{
+ "added": [
+  {
+   "symbol": "CASV",
+   "name": "Avantis CIBC Global Small Cap Value ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "CASV.TO",
+   "instruments": [
+    {
+     "name": "Avants CIBC Glb Sm C",
+     "symbol": "CASV"
+    }
+   ]
+  },
+  {
+   "symbol": "CADE",
+   "name": "Avantis CIBC International Equity ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "CADE.TO",
+   "instruments": [
+    {
+     "name": "Avants CIBC Int Eq E",
+     "symbol": "CADE"
+    }
+   ]
+  },
+  {
+   "symbol": "ENHI",
+   "name": "iShares Enhanced International Active ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "ENHI"
+  },
+  {
+   "symbol": "ETHB",
+   "name": "iShares Staked Ethereum Trust ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "ETHB"
+  },
+  {
+   "symbol": "GAVA",
+   "name": "Grayscale Avalanche Staking ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "GAVA"
+  },
+  {
+   "symbol": "PAYP",
+   "name": "PayPay Corporation - American Depository Shares",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "PAYP"
+  },
+  {
+   "symbol": "WAMA",
+   "name": "WisdomTree US Adaptive Moving Average Fund",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "WAMA"
+  },
+  {
+   "symbol": "WIMA",
+   "name": "WisdomTree International Adaptive Moving Average Fund",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "WIMA"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "ALEX",
+   "name": "Alexander \u0026 Baldwin, Inc. Common Stock REIT Holding Company",
+   "exchange": "NYSE",
+   "yahoo_symbol": "ALEX"
+  },
+  {
+   "symbol": "DC.W",
+   "name": "Dakota Gold Corp. Warrants, each warrant exercisable for one Common Share at an exercise price of $2.08",
+   "exchange": "NYSE MKT",
+   "yahoo_symbol": "DC.W"
+  }
+ ]
+}
