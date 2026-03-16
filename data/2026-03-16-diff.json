@@ -1,0 +1,96 @@
+{
+ "added": [
+  {
+   "symbol": "CDE",
+   "name": "Coeur Mining, Inc",
+   "exchange": "TSX",
+   "yahoo_symbol": "CDE.TO",
+   "instruments": [
+    {
+     "name": "Coeur Mining Inc",
+     "symbol": "CDE"
+    }
+   ]
+  },
+  {
+   "symbol": "FNUC",
+   "name": "Frontier Nuclear and Minerals Inc. - Common Shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "FNUC"
+  },
+  {
+   "symbol": "PONOU",
+   "name": "Pono Capital Four, Inc. - Units",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "PONOU"
+  },
+  {
+   "symbol": "VIVO",
+   "name": "VivoPower PLC - Ordinary Shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "VIVO"
+  },
+  {
+   "symbol": "XCBE",
+   "name": "X3 Acquisition Corp. Ltd. - Class A Ordinary Shares",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "XCBE"
+  },
+  {
+   "symbol": "XCBEW",
+   "name": "X3 Acquisition Corp. Ltd. - Warrant",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "XCBEW"
+  },
+  {
+   "symbol": "BUI.R",
+   "name": "BlackRock Utility, Infrastructure \u0026 Power Opportun Rights (expiring April 2, 2026) Rights",
+   "exchange": "NYSE",
+   "yahoo_symbol": "BUI.R"
+  },
+  {
+   "symbol": "LEGO",
+   "name": "Legato Merger Corp. IV Ordinary Shares",
+   "exchange": "NYSE MKT",
+   "yahoo_symbol": "LEGO"
+  },
+  {
+   "symbol": "LEGO.W",
+   "name": "Legato Merger Corp. IV Redeemable Warrants, each whole warrant exercisable to purchase one ordinary share at an exercise price of $11.50 per share",
+   "exchange": "NYSE MKT",
+   "yahoo_symbol": "LEGO.W"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "LITM",
+   "name": "Snow Lake Resources Ltd. - Common Shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "LITM"
+  },
+  {
+   "symbol": "BHAT",
+   "name": "Blue Hat Interactive Entertainment Technology - Ordinary Shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "BHAT"
+  },
+  {
+   "symbol": "BUI.V",
+   "name": "BlackRock Utility, Infrastructure \u0026 Power Opportun Rights (expiring April 2, 2026) Rights when issued",
+   "exchange": "NYSE",
+   "yahoo_symbol": "BUI.V"
+  },
+  {
+   "symbol": "IROQ",
+   "name": "IF Bancorp, Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "IROQ"
+  },
+  {
+   "symbol": "VVPR",
+   "name": "VivoPower International PLC - Ordinary Shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "VVPR"
+  }
+ ]
+}
