@@ -1,0 +1,132 @@
+{
+ "added": [
+  {
+   "symbol": "MMAC",
+   "name": "Manulife CQS Multi Asset Credit Fund",
+   "exchange": "TSX",
+   "yahoo_symbol": "MMAC.TO",
+   "instruments": [
+    {
+     "name": "Mnulfe CQS Mlt A C F",
+     "symbol": "MMAC"
+    }
+   ]
+  },
+  {
+   "symbol": "ALOV",
+   "name": "Aldabra 4 Liquidity Opportunity Vehicle, Inc. - Class A Ordinary Shares",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "ALOV"
+  },
+  {
+   "symbol": "ALOVW",
+   "name": "Aldabra 4 Liquidity Opportunity Vehicle, Inc. - Warrants",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "ALOVW"
+  },
+  {
+   "symbol": "ARCI",
+   "name": "Archimedes Tech SPAC Partners III Co. - Ordinary Share",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "ARCI"
+  },
+  {
+   "symbol": "ARCIW",
+   "name": "Archimedes Tech SPAC Partners III Co. - Warrant",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "ARCIW"
+  },
+  {
+   "symbol": "MRLN",
+   "name": "Merlin, Inc. - Common Stock",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "MRLN"
+  },
+  {
+   "symbol": "PTOR",
+   "name": "Praetorian Acquisition Corp. - Class A Ordinary Shares",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "PTOR"
+  },
+  {
+   "symbol": "PTORW",
+   "name": "Praetorian Acquisition Corp. - Warrant",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "PTORW"
+  },
+  {
+   "symbol": "SQS",
+   "name": "Sapient Quality Select ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "SQS"
+  },
+  {
+   "symbol": "TLG",
+   "name": "Touchstone Large Company Growth ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "TLG"
+  },
+  {
+   "symbol": "AIB",
+   "name": "BlockchAIn Digital Infrastructure, Inc Common Shares",
+   "exchange": "NYSE MKT",
+   "yahoo_symbol": "AIB"
+  },
+  {
+   "symbol": "FHN$H",
+   "name": "First Horizon Corporation Depositary Shares each representing a 1/4,000th interest in a share of Non-Cumulative Perpetual Preferred Stock, Series H",
+   "exchange": "NYSE",
+   "yahoo_symbol": "FHN$H"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "SGN",
+   "name": "Signing Day Sports, Inc. Common Stock",
+   "exchange": "NYSE MKT",
+   "yahoo_symbol": "SGN"
+  },
+  {
+   "symbol": "BACQU",
+   "name": "Inflection Point Acquisition Corp. IV - Unit",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "BACQU"
+  },
+  {
+   "symbol": "NGEN",
+   "name": "NervGen Pharma Corp.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "NGEN.V",
+   "instruments": [
+    {
+     "name": "Nervgen Pharma Corp.",
+     "symbol": "NGEN"
+    }
+   ]
+  },
+  {
+   "symbol": "BACQ",
+   "name": "Inflection Point Acquisition Corp. IV - Class A Ordinary Shares",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "BACQ"
+  },
+  {
+   "symbol": "QIPT",
+   "name": "Quipt Home Medical Corp. - Common Shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "QIPT"
+  },
+  {
+   "symbol": "BACQR",
+   "name": "Inflection Point Acquisition Corp. IV - Right",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "BACQR"
+  },
+  {
+   "symbol": "LYRA",
+   "name": "Lyra Therapeutics, Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "LYRA"
+  }
+ ]
+}
