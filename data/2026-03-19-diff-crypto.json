@@ -1,0 +1,30 @@
+{
+ "added": [
+  {
+   "symbol": "FREEDOMOFMONEY",
+   "name": "Freedom of Money (FREEDOMOFMONEY)"
+  },
+  {
+   "symbol": "VELT",
+   "name": "VELTRIXA (VELT)"
+  },
+  {
+   "symbol": "KARATTOKEN",
+   "name": "Karat (KARATTOKEN)"
+  },
+  {
+   "symbol": "BOSSIE",
+   "name": "BOSSIE (BOSSIE)"
+  },
+  {
+   "symbol": "OPENV",
+   "name": "OpenVPP (OPENV)"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "KATANANET",
+   "name": "Katana Network (KATANANET)"
+  }
+ ]
+}

@@ -1,0 +1,78 @@
+{
+ "added": [
+  {
+   "symbol": "MTEK",
+   "name": "Metatek-Group Ltd.",
+   "exchange": "TSX",
+   "yahoo_symbol": "MTEK.TO",
+   "instruments": [
+    {
+     "name": "Metatek-Group Ltd WI",
+     "symbol": "MTEK"
+    }
+   ]
+  },
+  {
+   "symbol": "BHDG",
+   "name": "Nicholas Bitcoin Tail ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "BHDG"
+  },
+  {
+   "symbol": "MNVT",
+   "name": "Moonvest ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "MNVT"
+  },
+  {
+   "symbol": "QEW",
+   "name": "Invesco QQQ Equal Weight ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "QEW"
+  },
+  {
+   "symbol": "XSLL",
+   "name": "Xsolla SPAC 1 - Class A Ordinary Shares",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "XSLL"
+  },
+  {
+   "symbol": "XSLLW",
+   "name": "Xsolla SPAC 1 - Warrants",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "XSLLW"
+  },
+  {
+   "symbol": "VCX",
+   "name": "Fundrise Innovation Fund, LLC Common Shares of Limited Liability Company Interests",
+   "exchange": "NYSE",
+   "yahoo_symbol": "VCX"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "CFX",
+   "name": "Canfor Pulp Products Inc.",
+   "exchange": "TSX",
+   "yahoo_symbol": "CFX.TO",
+   "instruments": [
+    {
+     "name": "Canfor Pulp Products",
+     "symbol": "CFX"
+    }
+   ]
+  },
+  {
+   "symbol": "ZENV",
+   "name": "Zenvia Inc. - Class A Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "ZENV"
+  },
+  {
+   "symbol": "NVVEW",
+   "name": "Nuvve Holding Corp. - Warrant",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "NVVEW"
+  }
+ ]
+}
