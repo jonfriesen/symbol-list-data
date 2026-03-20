@@ -1,0 +1,144 @@
+{
+ "added": [
+  {
+   "symbol": "CLCH",
+   "name": "Clinch Resources Ltd.",
+   "exchange": "TSX",
+   "yahoo_symbol": "CLCH.TO",
+   "instruments": [
+    {
+     "name": "Clinch Resources Ltd",
+     "symbol": "CLCH"
+    }
+   ]
+  },
+  {
+   "symbol": "FLT",
+   "name": "Volatus Aerospace Inc.",
+   "exchange": "TSX",
+   "yahoo_symbol": "FLT.TO",
+   "instruments": [
+    {
+     "name": "Volatus Aerspce Inc",
+     "symbol": "FLT"
+    }
+   ]
+  },
+  {
+   "symbol": "BHAVU",
+   "name": "BHAV Acquisition Corp - Units",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "BHAVU"
+  },
+  {
+   "symbol": "GIX",
+   "name": "GigCapital9 Corp. - Class A Ordinary Share",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "GIX"
+  },
+  {
+   "symbol": "GIXXR",
+   "name": "GigCapital9 Corp. - Rights",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "GIXXR"
+  },
+  {
+   "symbol": "MLAA",
+   "name": "Mountain Lake Acquisition Corp. II - Class A Ordinary Shares",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "MLAA"
+  },
+  {
+   "symbol": "MLAAW",
+   "name": "Mountain Lake Acquisition Corp. II - Warrants",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "MLAAW"
+  },
+  {
+   "symbol": "ROCQ",
+   "name": "JPMorgan Nasdaq Equity Premium Yield ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "ROCQ"
+  },
+  {
+   "symbol": "ROCY",
+   "name": "JPMorgan Equity Premium Yield ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "ROCY"
+  },
+  {
+   "symbol": "BWIV.U",
+   "name": "Blue Water Acquisition Corp. IV Units, each consisting of one Class A ordinary share and one-half of one redeemable warrant",
+   "exchange": "NYSE",
+   "yahoo_symbol": "BWIV.U"
+  },
+  {
+   "symbol": "GMTL.V",
+   "name": "Guardian Metal Resources PLC ADS When-Issued",
+   "exchange": "NYSE MKT",
+   "yahoo_symbol": "GMTL.V"
+  },
+  {
+   "symbol": "JAN",
+   "name": "Janus Living, Inc. Class A-1 Common Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "JAN"
+  },
+  {
+   "symbol": "NHS.V",
+   "name": "Neuberger High Yield Strategies Fund Inc. Rights (expiring April 15, 2026) Rights when issued",
+   "exchange": "NYSE MKT",
+   "yahoo_symbol": "NHS.V"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "GLXY",
+   "name": "Galaxy Digital Inc.",
+   "exchange": "TSX",
+   "yahoo_symbol": "GLXY.TO",
+   "instruments": [
+    {
+     "name": "Galaxy Digital Inc",
+     "symbol": "GLXY"
+    }
+   ]
+  },
+  {
+   "symbol": "AMRQ",
+   "name": "Amaroq Ltd.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "AMRQ.V",
+   "instruments": [
+    {
+     "name": "Amaroq Ltd.",
+     "symbol": "AMRQ"
+    }
+   ]
+  },
+  {
+   "symbol": "FLT",
+   "name": "Volatus Aerospace Inc.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "FLT.V",
+   "instruments": [
+    {
+     "name": "Volatus Aerospace Inc.",
+     "symbol": "FLT"
+    }
+   ]
+  },
+  {
+   "symbol": "UOKA",
+   "name": "MDJM LTD - Class A Ordinary Shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "UOKA"
+  },
+  {
+   "symbol": "NGD",
+   "name": "New Gold Inc.",
+   "exchange": "NYSE MKT",
+   "yahoo_symbol": "NGD"
+  }
+ ]
+}
