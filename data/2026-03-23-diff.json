@@ -1,0 +1,78 @@
+{
+ "added": [
+  {
+   "symbol": "COIL",
+   "name": "All-Canadian Oil \u0026 Gas ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "COIL.TO",
+   "instruments": [
+    {
+     "name": "All CDN Oil\u0026 Gas ETF",
+     "symbol": "COIL"
+    }
+   ]
+  },
+  {
+   "symbol": "HQ",
+   "name": "Horizon Quantum Holdings Ltd. - Class A Ordinary Shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "HQ"
+  },
+  {
+   "symbol": "HQWWW",
+   "name": "Horizon Quantum Holdings Ltd. - Warrant",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "HQWWW"
+  },
+  {
+   "symbol": "KRAQ",
+   "name": "KRAKacquisition Corp - Class A Ordinary Shares",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "KRAQ"
+  },
+  {
+   "symbol": "KRAQW",
+   "name": "KRAKacquisition Corp - Warrants",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "KRAQW"
+  },
+  {
+   "symbol": "SAAQ",
+   "name": "Space Asset Acquisition Corp. - Class A Ordinary Shares",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "SAAQ"
+  },
+  {
+   "symbol": "SAAQW",
+   "name": "Space Asset Acquisition Corp. - Warrants",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "SAAQW"
+  },
+  {
+   "symbol": "GMTL",
+   "name": "Guardian Metal Resources PLC ADS",
+   "exchange": "NYSE MKT",
+   "yahoo_symbol": "GMTL"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "GMTL.V",
+   "name": "Guardian Metal Resources PLC ADS When-Issued",
+   "exchange": "NYSE MKT",
+   "yahoo_symbol": "GMTL.V"
+  },
+  {
+   "symbol": "BGMSP",
+   "name": "Bio Green Med Solution, Inc. - 6% Convertible Preferred Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "BGMSP"
+  },
+  {
+   "symbol": "TGNA",
+   "name": "TEGNA Inc",
+   "exchange": "NYSE",
+   "yahoo_symbol": "TGNA"
+  }
+ ]
+}
