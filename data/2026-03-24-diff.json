@@ -1,0 +1,60 @@
+{
+ "added": [
+  {
+   "symbol": "THY.P",
+   "name": "Thermopylae Capital Inc.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "THY.P.V",
+   "instruments": [
+    {
+     "name": "Thermopylae Capital Inc.",
+     "symbol": "THY.P"
+    }
+   ]
+  },
+  {
+   "symbol": "MUZE",
+   "name": "Muzero Acquisition Corp - Class A Ordinary Shares",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "MUZE"
+  },
+  {
+   "symbol": "MUZEW",
+   "name": "Muzero Acquisition Corp - Warrant",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "MUZEW"
+  },
+  {
+   "symbol": "NBRG",
+   "name": "Newbridge Acquisition Limited - Class A Ordinary Share",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "NBRG"
+  },
+  {
+   "symbol": "NBRGR",
+   "name": "Newbridge Acquisition Limited - Rights",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "NBRGR"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "EXAS",
+   "name": "Exact Sciences Corporation - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "EXAS"
+  },
+  {
+   "symbol": "NGD",
+   "name": "New Gold Inc.",
+   "exchange": "TSX",
+   "yahoo_symbol": "NGD.TO",
+   "instruments": [
+    {
+     "name": "New Gold Inc.",
+     "symbol": "NGD"
+    }
+   ]
+  }
+ ]
+}
