@@ -1,0 +1,118 @@
+{
+ "added": [
+  {
+   "symbol": "VENT",
+   "name": "Ventra Metals Corp.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "VENT.V",
+   "instruments": [
+    {
+     "name": "Ventra Metals Corp.",
+     "symbol": "VENT"
+    }
+   ]
+  },
+  {
+   "symbol": "BNKR",
+   "name": "Bunker Hill Mining Corp.",
+   "exchange": "TSX",
+   "yahoo_symbol": "BNKR.TO",
+   "instruments": [
+    {
+     "name": "Bunker Hill Min Corp",
+     "symbol": "BNKR"
+    }
+   ]
+  },
+  {
+   "symbol": "VUDV",
+   "name": "Vanguard U.S. High Dividend Yield Index ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "VUDV.TO",
+   "instruments": [
+    {
+     "name": "Vngrd US Hi Div Yld",
+     "symbol": "VUDV"
+    }
+   ]
+  },
+  {
+   "symbol": "OXLCM",
+   "name": "Oxford Lane Capital Corp. - Preferred Stock Shares, 8.25% Series 2031",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "OXLCM"
+  },
+  {
+   "symbol": "NEE$W",
+   "name": "NextEra Energy Capital Holdings Inc. Series Z Junior Subordinated Debentures due April 15, 2086",
+   "exchange": "NYSE",
+   "yahoo_symbol": "NEE$W"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "OAKUW",
+   "name": "Oak Woods Acquisition Corporation - Warrant",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "OAKUW"
+  },
+  {
+   "symbol": "OAKUR",
+   "name": "Oak Woods Acquisition Corporation - Right",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "OAKUR"
+  },
+  {
+   "symbol": "OAKU",
+   "name": "Oak Woods Acquisition Corporation - Class A Ordinary Shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "OAKU"
+  },
+  {
+   "symbol": "GCG",
+   "name": "Guardian Capital Group Limited",
+   "exchange": "TSX",
+   "yahoo_symbol": "GCG.TO",
+   "instruments": [
+    {
+     "name": "Guardian Capital",
+     "symbol": "GCG"
+    },
+    {
+     "name": "Guardian Cap Cl A NV",
+     "symbol": "GCG.A"
+    }
+   ]
+  },
+  {
+   "symbol": "BNKR",
+   "name": "Bunker Hill Mining Corp.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "BNKR.V",
+   "instruments": [
+    {
+     "name": "Bunker Hill Mining Corp.",
+     "symbol": "BNKR"
+    }
+   ]
+  },
+  {
+   "symbol": "DTCK",
+   "name": "Davis Commodities Limited - Class A Ordinary Shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "DTCK"
+  },
+  {
+   "symbol": "OAKUU",
+   "name": "Oak Woods Acquisition Corporation - Unit",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "OAKUU"
+  },
+  {
+   "symbol": "ERNZ",
+   "name": "TrueShares Active Yield ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "ERNZ"
+  }
+ ]
+}

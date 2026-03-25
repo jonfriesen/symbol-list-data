@@ -1,0 +1,34 @@
+{
+ "added": [
+  {
+   "symbol": "MONKEYC",
+   "name": "Monkey Cult (MONKEYC)"
+  },
+  {
+   "symbol": "ZEDCOIN",
+   "name": "ZedCoin (ZEDCOIN)"
+  },
+  {
+   "symbol": "YFSX",
+   "name": "YFSX (YFSX)"
+  },
+  {
+   "symbol": "MAOMEME",
+   "name": "Mao (MAOMEME)"
+  },
+  {
+   "symbol": "RHYPURR",
+   "name": "rHYPURR (RHYPURR)"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "IMU",
+   "name": "Immunefi (IMU)"
+  },
+  {
+   "symbol": "BABY4",
+   "name": "Baby 4 (BABY4)"
+  }
+ ]
+}
