@@ -1,0 +1,82 @@
+{
+ "added": [
+  {
+   "symbol": "NYSX",
+   "name": "Global X NYSE 100 Index ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "NYSX.TO",
+   "instruments": [
+    {
+     "name": "Global X NYSE100 I E",
+     "symbol": "NYSX"
+    },
+    {
+     "name": "Global X NYSE100 I E",
+     "symbol": "NYSX.U"
+    }
+   ]
+  },
+  {
+   "symbol": "MPTI.V",
+   "name": "M-tron Industries, Inc. Rights (expiring April 15, 2026) Rights when issued",
+   "exchange": "NYSE MKT",
+   "yahoo_symbol": "MPTI.V"
+  },
+  {
+   "symbol": "NHS.R",
+   "name": "Neuberger High Yield Strategies Fund Inc. Rights (expiring April 15, 2026) Rights",
+   "exchange": "NYSE MKT",
+   "yahoo_symbol": "NHS.R"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "PELIR",
+   "name": "Pelican Acquisition Corporation - Right",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "PELIR"
+  },
+  {
+   "symbol": "SBR",
+   "name": "Silver Bear Resources plc",
+   "exchange": "TSX",
+   "yahoo_symbol": "SBR.TO",
+   "instruments": [
+    {
+     "name": "Silver Bear ResJ Ord",
+     "symbol": "SBR"
+    }
+   ]
+  },
+  {
+   "symbol": "NOTE",
+   "name": "FiscalNote Holdings, Inc. Class A common stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "NOTE"
+  },
+  {
+   "symbol": "NHS.V",
+   "name": "Neuberger High Yield Strategies Fund Inc. Rights (expiring April 15, 2026) Rights when issued",
+   "exchange": "NYSE MKT",
+   "yahoo_symbol": "NHS.V"
+  },
+  {
+   "symbol": "PELI",
+   "name": "Pelican Acquisition Corporation - Ordinary Shares",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "PELI"
+  },
+  {
+   "symbol": "NOTE.W",
+   "name": "FiscalNote Holdings, Inc. Warrants to purchase one share of Class A common stock, each at an exercise price of $11.50 per share",
+   "exchange": "NYSE",
+   "yahoo_symbol": "NOTE.W"
+  },
+  {
+   "symbol": "PELIU",
+   "name": "Pelican Acquisition Corporation - Unit",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "PELIU"
+  }
+ ]
+}
