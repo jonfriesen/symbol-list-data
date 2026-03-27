@@ -1,0 +1,38 @@
+{
+ "added": [
+  {
+   "symbol": "BABY4",
+   "name": "Baby 4 (BABY4)"
+  },
+  {
+   "symbol": "IMU",
+   "name": "Immunefi (IMU)"
+  },
+  {
+   "symbol": "ASTRAAI",
+   "name": "AstraAI (ASTRAAI)"
+  },
+  {
+   "symbol": "PEPESDOG",
+   "name": "Pepes Dog (PEPESDOG)"
+  },
+  {
+   "symbol": "VALLEYDAO",
+   "name": "ValleyDAO Token (VALLEYDAO)"
+  },
+  {
+   "symbol": "HACHIKOINU",
+   "name": "Hachiko Inu (HACHIKOINU)"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "ZEDCOIN",
+   "name": "ZedCoin (ZEDCOIN)"
+  },
+  {
+   "symbol": "MAOMEME",
+   "name": "Mao (MAOMEME)"
+  }
+ ]
+}

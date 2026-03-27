@@ -1,0 +1,180 @@
+{
+ "added": [
+  {
+   "symbol": "KIRO",
+   "name": "Kairos Gold Inc.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "KIRO.V",
+   "instruments": [
+    {
+     "name": "Kairos Gold Inc.",
+     "symbol": "KIRO"
+    }
+   ]
+  },
+  {
+   "symbol": "XNDU",
+   "name": "Xanadu Quantum Technologies Limited",
+   "exchange": "TSX",
+   "yahoo_symbol": "XNDU.TO",
+   "instruments": [
+    {
+     "name": "Xanadu Quant Tch Ltd",
+     "symbol": "XNDU"
+    }
+   ]
+  },
+  {
+   "symbol": "GLND",
+   "name": "Greenland Energy Company - Common Stock",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "GLND"
+  },
+  {
+   "symbol": "IBGC",
+   "name": "iShares iBonds Dec 2046 Term Treasury ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "IBGC"
+  },
+  {
+   "symbol": "IBGM",
+   "name": "iShares iBonds Dec 2056 Term Treasury ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "IBGM"
+  },
+  {
+   "symbol": "IBTR",
+   "name": "iShares iBonds Dec 2036 Term Treasury ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "IBTR"
+  },
+  {
+   "symbol": "VBCA",
+   "name": "Vanguard Target Maturity 2027 Corporate Bond ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "VBCA"
+  },
+  {
+   "symbol": "VBCB",
+   "name": "Vanguard Target Maturity 2028 Corporate Bond ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "VBCB"
+  },
+  {
+   "symbol": "VBCC",
+   "name": "Vanguard Target Maturity 2029 Corporate Bond ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "VBCC"
+  },
+  {
+   "symbol": "VBCD",
+   "name": "Vanguard Target Maturity 2030 Corporate Bond ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "VBCD"
+  },
+  {
+   "symbol": "VBCE",
+   "name": "Vanguard Target Maturity 2031 Corporate Bond ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "VBCE"
+  },
+  {
+   "symbol": "VBCF",
+   "name": "Vanguard Target Maturity 2032 Corporate Bond ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "VBCF"
+  },
+  {
+   "symbol": "VBCG",
+   "name": "Vanguard Target Maturity 2033 Corporate Bond ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "VBCG"
+  },
+  {
+   "symbol": "VBCH",
+   "name": "Vanguard Target Maturity 2034 Corporate Bond ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "VBCH"
+  },
+  {
+   "symbol": "VBCI",
+   "name": "Vanguard Target Maturity 2035 Corporate Bond ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "VBCI"
+  },
+  {
+   "symbol": "VBCJ",
+   "name": "Vanguard Target Maturity 2036 Corporate Bond ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "VBCJ"
+  },
+  {
+   "symbol": "APTV.V",
+   "name": "Aptiv PLC Ordinary Shares When-Issued",
+   "exchange": "NYSE",
+   "yahoo_symbol": "APTV.V"
+  },
+  {
+   "symbol": "CLBR",
+   "name": "Colombier Acquisition Corp. III Class A Ordinary Shares",
+   "exchange": "NYSE",
+   "yahoo_symbol": "CLBR"
+  },
+  {
+   "symbol": "CLBR.W",
+   "name": "Colombier Acquisition Corp. III Warrants, each whole warrant exercisable for one Class A ordinary share at an exercise price of $11.50 per share",
+   "exchange": "NYSE",
+   "yahoo_symbol": "CLBR.W"
+  },
+  {
+   "symbol": "VGNT.V",
+   "name": "Versigent PLC Ordinary Shares When-Issued",
+   "exchange": "NYSE",
+   "yahoo_symbol": "VGNT.V"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "TBMCR",
+   "name": "Trailblazer Merger Corporation I - Rights",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "TBMCR"
+  },
+  {
+   "symbol": "CHACR",
+   "name": "Crane Harbor Acquisition Corp. - Rights",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "CHACR"
+  },
+  {
+   "symbol": "CHACU",
+   "name": "Crane Harbor Acquisition Corp. - Units",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "CHACU"
+  },
+  {
+   "symbol": "TBMC",
+   "name": "Trailblazer Merger Corporation I - Class A Common Stock",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "TBMC"
+  },
+  {
+   "symbol": "DVS",
+   "name": "Dolly Varden Silver Corporation Common Shares",
+   "exchange": "NYSE MKT",
+   "yahoo_symbol": "DVS"
+  },
+  {
+   "symbol": "CHAC",
+   "name": "Crane Harbor Acquisition Corp. - Class A Ordinary Shares",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "CHAC"
+  },
+  {
+   "symbol": "CMBM",
+   "name": "Cambium Networks Corporation - Ordinary Shares",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "CMBM"
+  }
+ ]
+}
