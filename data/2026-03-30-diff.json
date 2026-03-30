@@ -1,0 +1,90 @@
+{
+ "added": [
+  {
+   "symbol": "VKG",
+   "name": "Norse Gold Corp.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "VKG.V",
+   "instruments": [
+    {
+     "name": "Norse Gold Corp.",
+     "symbol": "VKG"
+    }
+   ]
+  },
+  {
+   "symbol": "AACI",
+   "name": "Armada Acquisition Corp. III - Class A Ordinary Share",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "AACI"
+  },
+  {
+   "symbol": "AACIW",
+   "name": "Armada Acquisition Corp. III - Warrant",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "AACIW"
+  },
+  {
+   "symbol": "CYAB",
+   "name": "Cyabra, Inc. - Common Stock",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "CYAB"
+  },
+  {
+   "symbol": "FMACU",
+   "name": "Future Money Acquisition Corporation - Units",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "FMACU"
+  },
+  {
+   "symbol": "IPFXU",
+   "name": "Inflection Point Acquisition Corp. VI - Units",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "IPFXU"
+  },
+  {
+   "symbol": "QADRU",
+   "name": "QDRO Acquisition Corp. - Units",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "QADRU"
+  },
+  {
+   "symbol": "XNDU",
+   "name": "Xanadu Quantum Technologies Limited - Class B Subordinate Voting Shares",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "XNDU"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "RILYK",
+   "name": "BRC Group Holdings, Inc. - 5.50% Senior Notes Due 2026",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "RILYK"
+  },
+  {
+   "symbol": "DIAX",
+   "name": "Nuveen Dow 30SM Dynamic Overwrite Fund Common Shares of Beneficial Interest",
+   "exchange": "NYSE",
+   "yahoo_symbol": "DIAX"
+  },
+  {
+   "symbol": "BXMX",
+   "name": "Nuveen S\u0026P 500 Buy-Write Income Fund Common Shares of Beneficial Interest",
+   "exchange": "NYSE",
+   "yahoo_symbol": "BXMX"
+  },
+  {
+   "symbol": "DV",
+   "name": "Dolly Varden Silver Corporation",
+   "exchange": "TSXV",
+   "yahoo_symbol": "DV.V",
+   "instruments": [
+    {
+     "name": "Dolly Varden Silver Corporation",
+     "symbol": "DV"
+    }
+   ]
+  }
+ ]
+}
