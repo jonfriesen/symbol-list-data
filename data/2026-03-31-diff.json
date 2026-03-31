@@ -1,0 +1,228 @@
+{
+ "added": [
+  {
+   "symbol": "ARMY",
+   "name": "Tema International Defense ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "ARMY"
+  },
+  {
+   "symbol": "CAQ",
+   "name": "Cambridge Acquisition Corp. - Class A Ordinary Shares",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "CAQ"
+  },
+  {
+   "symbol": "CAQUW",
+   "name": "Cambridge Acquisition Corp. - Warrants",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "CAQUW"
+  },
+  {
+   "symbol": "HCIC",
+   "name": "Hennessy Capital Investment Corp. VIII - Class A Ordinary Shares",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "HCIC"
+  },
+  {
+   "symbol": "HCICR",
+   "name": "Hennessy Capital Investment Corp. VIII - Share Rights",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "HCICR"
+  },
+  {
+   "symbol": "MAKO",
+   "name": "Mako Mining Corp - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "MAKO"
+  },
+  {
+   "symbol": "NEXR",
+   "name": "Nexera Technologies Ltd - Ordinary Shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "NEXR"
+  },
+  {
+   "symbol": "NEXRW",
+   "name": "Nexera Technologies Ltd - Warrant",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "NEXRW"
+  },
+  {
+   "symbol": "KPET.U",
+   "name": "KPET Ultra Paceline Corporation Units, each consisting of one Class A Ordinary Share and one-sixth of one Warrant",
+   "exchange": "NYSE",
+   "yahoo_symbol": "KPET.U"
+  },
+  {
+   "symbol": "MPTI.R",
+   "name": "M-tron Industries, Inc. Rights (expiring April 15, 2026) Rights",
+   "exchange": "NYSE MKT",
+   "yahoo_symbol": "MPTI.R"
+  },
+  {
+   "symbol": "NINE",
+   "name": "Nine Energy Service, Inc. Common Stock",
+   "exchange": "NYSE MKT",
+   "yahoo_symbol": "NINE"
+  },
+  {
+   "symbol": "AZEM",
+   "name": "Arizona Eagle Mining Corp.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "AZEM.V",
+   "instruments": [
+    {
+     "name": "Arizona Eagle Mining Corp.",
+     "symbol": "AZEM"
+    }
+   ]
+  },
+  {
+   "symbol": "LXE",
+   "name": "Latin Explore Inc.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "LXE.V",
+   "instruments": [
+    {
+     "name": "Latin Explore Inc.",
+     "symbol": "LXE"
+    }
+   ]
+  },
+  {
+   "symbol": "CAEM",
+   "name": "Avantis CIBC Emerging Markets Equity ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "CAEM.TO",
+   "instruments": [
+    {
+     "name": "Avantis CIBC EM Eq E",
+     "symbol": "CAEM"
+    }
+   ]
+  },
+  {
+   "symbol": "KNGG",
+   "name": "Brompton Global Cash Flow Kings ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "KNGG.TO",
+   "instruments": [
+    {
+     "name": "Brmptn Gbl CFl Kng E",
+     "symbol": "KNGG"
+    }
+   ]
+  },
+  {
+   "symbol": "PAYG",
+   "name": "Brompton Global Equity HighPay ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "PAYG.TO",
+   "instruments": [
+    {
+     "name": "BrmptnGbl Eq HiPay E",
+     "symbol": "PAYG"
+    }
+   ]
+  },
+  {
+   "symbol": "HBOP",
+   "name": "Humilis Fundamental Opportunities ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "HBOP.TO",
+   "instruments": [
+    {
+     "name": "Humilis Fndmtl Opp E",
+     "symbol": "HBOP"
+    }
+   ]
+  },
+  {
+   "symbol": "HBDV",
+   "name": "Humilis North American Dividend Growth ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "HBDV.TO",
+   "instruments": [
+    {
+     "name": "Hmls NA Div Growth E",
+     "symbol": "HBDV"
+    }
+   ]
+  },
+  {
+   "symbol": "HBTA",
+   "name": "Humilis North American Tactical Equity Fund",
+   "exchange": "TSX",
+   "yahoo_symbol": "HBTA.TO",
+   "instruments": [
+    {
+     "name": "Hmls NAm Tacti Eq Fd",
+     "symbol": "HBTA"
+    }
+   ]
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "TFSA",
+   "name": "Terra Income Fund 6, LLC 7.00% Notes due 2026",
+   "exchange": "NYSE",
+   "yahoo_symbol": "TFSA"
+  },
+  {
+   "symbol": "MPTI.V",
+   "name": "M-tron Industries, Inc. Rights (expiring April 15, 2026) Rights when issued",
+   "exchange": "NYSE MKT",
+   "yahoo_symbol": "MPTI.V"
+  },
+  {
+   "symbol": "JFBR",
+   "name": "Jeffs' Brands Ltd - Ordinary Shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "JFBR"
+  },
+  {
+   "symbol": "CNCO",
+   "name": "Core Nickel Corp.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "CNCO.V",
+   "instruments": [
+    {
+     "name": "Core Nickel Corp.",
+     "symbol": "CNCO"
+    }
+   ]
+  },
+  {
+   "symbol": "BBU",
+   "name": "Brookfield Business Partners L.P. Limited Partnership Units ",
+   "exchange": "NYSE",
+   "yahoo_symbol": "BBU"
+  },
+  {
+   "symbol": "BBU.UN",
+   "name": "Brookfield Business Partners L.P.",
+   "exchange": "TSX",
+   "yahoo_symbol": "BBU.UN.TO",
+   "instruments": [
+    {
+     "name": "Brookfield Bus LP Un",
+     "symbol": "BBU.UN"
+    }
+   ]
+  },
+  {
+   "symbol": "JFBRW",
+   "name": "Jeffs' Brands Ltd - Warrant",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "JFBRW"
+  },
+  {
+   "symbol": "GDFN",
+   "name": "Tema International Defense Innovation ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "GDFN"
+  }
+ ]
+}
