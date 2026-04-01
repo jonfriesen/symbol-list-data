@@ -1,0 +1,208 @@
+{
+ "added": [
+  {
+   "symbol": "IMM",
+   "name": "International Metals Mining Corp.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "IMM.V",
+   "instruments": [
+    {
+     "name": "International Metals Mining Corp.",
+     "symbol": "IMM"
+    }
+   ]
+  },
+  {
+   "symbol": "GGEP",
+   "name": "Guardian Directed Equity Path Portfolio",
+   "exchange": "TSX",
+   "yahoo_symbol": "GGEP.TO",
+   "instruments": [
+    {
+     "name": "Guardian DirEq Unhg",
+     "symbol": "GGEP"
+    },
+    {
+     "name": "Guardian DirEqPth Hg",
+     "symbol": "GGEP.F"
+    }
+   ]
+  },
+  {
+   "symbol": "GGPY",
+   "name": "Guardian Directed Premium Yield Portfolio",
+   "exchange": "TSX",
+   "yahoo_symbol": "GGPY.TO",
+   "instruments": [
+    {
+     "name": "Guardian PremYldUnhg",
+     "symbol": "GGPY"
+    },
+    {
+     "name": "Guardian PremYld Heg",
+     "symbol": "GGPY.F"
+    }
+   ]
+  },
+  {
+   "symbol": "GIUS",
+   "name": "Guardian i3 U.S. Core Equity Fund",
+   "exchange": "TSX",
+   "yahoo_symbol": "GIUS.TO",
+   "instruments": [
+    {
+     "name": "Gu i3 USQ GrFnd Unhg",
+     "symbol": "GIUS"
+    },
+    {
+     "name": "Gu i3 USQ Gr Fnd Hdg",
+     "symbol": "GIUS.F"
+    }
+   ]
+  },
+  {
+   "symbol": "ELPW",
+   "name": "Elong Power Holding Limited - Class A Ordinary Shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "ELPW"
+  },
+  {
+   "symbol": "VGNT",
+   "name": "Versigent PLC Ordinary Shares",
+   "exchange": "NYSE",
+   "yahoo_symbol": "VGNT"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "GDEP",
+   "name": "Guardian Directed Equity Path Portfolio",
+   "exchange": "TSX",
+   "yahoo_symbol": "GDEP.TO",
+   "instruments": [
+    {
+     "name": "Guardian DirEqPth Hg",
+     "symbol": "GDEP"
+    },
+    {
+     "name": "Guardian DirEq Unhg",
+     "symbol": "GDEP.B"
+    }
+   ]
+  },
+  {
+   "symbol": "VCICW",
+   "name": "Vine Hill Capital Investment Corp. - Warrant",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "VCICW"
+  },
+  {
+   "symbol": "ONTF",
+   "name": "ON24, Inc. Common Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "ONTF"
+  },
+  {
+   "symbol": "GDPY",
+   "name": "Guardian Directed Premium Yield Portfolio",
+   "exchange": "TSX",
+   "yahoo_symbol": "GDPY.TO",
+   "instruments": [
+    {
+     "name": "Guardian PremYld Heg",
+     "symbol": "GDPY"
+    },
+    {
+     "name": "Guardian PremYldUnhg",
+     "symbol": "GDPY.B"
+    }
+   ]
+  },
+  {
+   "symbol": "VCIC",
+   "name": "Vine Hill Capital Investment Corp. - Class A Ordinary Shares",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "VCIC"
+  },
+  {
+   "symbol": "ELPW",
+   "name": "Elong Power Holding Limited - Class A Ordinary Shares",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "ELPW"
+  },
+  {
+   "symbol": "FFWM",
+   "name": "First Foundation Inc. Common Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "FFWM"
+  },
+  {
+   "symbol": "ITRM",
+   "name": "Iterum Therapeutics plc - Ordinary Share",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "ITRM"
+  },
+  {
+   "symbol": "MGI",
+   "name": "Magnum Goldcorp Inc.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "MGI.V",
+   "instruments": [
+    {
+     "name": "Magnum Goldcorp Inc.",
+     "symbol": "MGI"
+    }
+   ]
+  },
+  {
+   "symbol": "APTV.V",
+   "name": "Aptiv PLC Ordinary Shares When-Issued",
+   "exchange": "NYSE",
+   "yahoo_symbol": "APTV.V"
+  },
+  {
+   "symbol": "VCICU",
+   "name": "Vine Hill Capital Investment Corp. - Unit",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "VCICU"
+  },
+  {
+   "symbol": "VGNT.V",
+   "name": "Versigent PLC Ordinary Shares When-Issued",
+   "exchange": "NYSE",
+   "yahoo_symbol": "VGNT.V"
+  },
+  {
+   "symbol": "FN.PR.A",
+   "name": "First National Financial Corporation",
+   "exchange": "TSX",
+   "yahoo_symbol": "FN.PR.A.TO",
+   "instruments": [
+    {
+     "name": "1st Natl Fin Sr 1 Pr",
+     "symbol": "FN.PR.A"
+    },
+    {
+     "name": "1st Natl Fin Sr 2 Pr",
+     "symbol": "FN.PR.B"
+    }
+   ]
+  },
+  {
+   "symbol": "GIQU",
+   "name": "Guardian i3 US Quality Growth Fund",
+   "exchange": "TSX",
+   "yahoo_symbol": "GIQU.TO",
+   "instruments": [
+    {
+     "name": "Gu i3 USQ Gr Fnd Hdg",
+     "symbol": "GIQU"
+    },
+    {
+     "name": "Gu i3 USQ GrFnd Unhg",
+     "symbol": "GIQU.B"
+    }
+   ]
+  }
+ ]
+}

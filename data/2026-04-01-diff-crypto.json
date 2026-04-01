@@ -1,0 +1,42 @@
+{
+ "added": [
+  {
+   "symbol": "ODIC",
+   "name": "ODIC Token (ODIC)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "ZEDCOIN",
+   "name": "ZedCoin (ZEDCOIN)"
+  },
+  {
+   "symbol": "DETH",
+   "name": "DarkEther (DETH)"
+  },
+  {
+   "symbol": "MAOMEME",
+   "name": "Mao (MAOMEME)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "GETH",
+   "name": "Guarded Ether (GETH)"
+  },
+  {
+   "symbol": "CBBTCBASE",
+   "name": "cbBTC (CBBTCBASE)"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "IMU",
+   "name": "Immunefi (IMU)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "BABY4",
+   "name": "Baby 4 (BABY4)",
+   "built_on": "BNB"
+  }
+ ]
+}
