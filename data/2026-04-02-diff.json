@@ -1,0 +1,84 @@
+{
+ "added": [
+  {
+   "symbol": "CSHR",
+   "name": "CoinShares PLC - Ordinary Shares",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "CSHR"
+  },
+  {
+   "symbol": "CSHRW",
+   "name": "CoinShares PLC - Warrants",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "CSHRW"
+  },
+  {
+   "symbol": "HMH",
+   "name": "HMH Holding Inc. - Common Stock",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "HMH"
+  },
+  {
+   "symbol": "INDQ",
+   "name": "Pacer ActiveAlpha India Quality ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "INDQ"
+  },
+  {
+   "symbol": "TAOZ",
+   "name": "Thornburg American Opportunities Fund",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "TAOZ"
+  },
+  {
+   "symbol": "TFGZ",
+   "name": "Thornburg Focus Growth Fund",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "TFGZ"
+  },
+  {
+   "symbol": "NXG.V",
+   "name": "NXG NextGen Infrastructure Income Fund Rights (expiring April 30, 2026) Rights when issued",
+   "exchange": "NYSE",
+   "yahoo_symbol": "NXG.V"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "BUI.R",
+   "name": "BlackRock Utility, Infrastructure \u0026 Power Opportun Rights (expiring April 2, 2026) Rights",
+   "exchange": "NYSE",
+   "yahoo_symbol": "BUI.R"
+  },
+  {
+   "symbol": "BLFY",
+   "name": "Blue Foundry Bancorp - Common Stock",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "BLFY"
+  },
+  {
+   "symbol": "XTKG",
+   "name": "X3 Holdings Co., Ltd. - Class A Ordinary Shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "XTKG"
+  },
+  {
+   "symbol": "GLDD",
+   "name": "Great Lakes Dredge \u0026 Dock Corporation - Common Stock",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "GLDD"
+  },
+  {
+   "symbol": "OS",
+   "name": "OneStream, Inc. - Class A Common Stock",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "OS"
+  },
+  {
+   "symbol": "UBFO",
+   "name": "United Security Bancshares - Common Stock",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "UBFO"
+  }
+ ]
+}
