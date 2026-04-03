@@ -1,0 +1,40 @@
+{
+ "added": [
+  {
+   "symbol": "ODTE",
+   "name": "VegaShares SPX NDX RTY Premium Income ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "ODTE"
+  },
+  {
+   "symbol": "TMTS",
+   "name": "Spartacus Acquisition Corp. II - Class A Ordinary Shares",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "TMTS"
+  },
+  {
+   "symbol": "TMTSW",
+   "name": "Spartacus Acquisition Corp. II - Warrants",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "TMTSW"
+  },
+  {
+   "symbol": "TRUF",
+   "name": "VanEck Financials TruSector ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "TRUF"
+  },
+  {
+   "symbol": "TRUH",
+   "name": "VanEck Healthcare TruSector ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "TRUH"
+  },
+  {
+   "symbol": "VEFA",
+   "name": "VanEck MSCI EAFE Analyst Sentiment ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "VEFA"
+  }
+ ]
+}
