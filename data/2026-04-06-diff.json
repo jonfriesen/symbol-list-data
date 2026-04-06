@@ -1,0 +1,126 @@
+{
+ "added": [
+  {
+   "symbol": "KEEL",
+   "name": "Keel Infrastructure Corp. - Common Stock",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "KEEL"
+  },
+  {
+   "symbol": "KEEL",
+   "name": "Keel Infrastructure Corp.",
+   "exchange": "TSX",
+   "yahoo_symbol": "KEEL.TO",
+   "instruments": [
+    {
+     "name": "Bitfarms Ltd. J",
+     "symbol": "KEEL"
+    }
+   ]
+  },
+  {
+   "symbol": "SDEV",
+   "name": "Stablecoin Development Corporation Common Stock",
+   "exchange": "NYSE MKT",
+   "yahoo_symbol": "SDEV"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "QH",
+   "name": "Quhuo Limited - American Depository Shares",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "QH"
+  },
+  {
+   "symbol": "NBY",
+   "name": "NovaBay Pharmaceuticals, Inc. Common Stock",
+   "exchange": "NYSE MKT",
+   "yahoo_symbol": "NBY"
+  },
+  {
+   "symbol": "TTNM",
+   "name": "Titanium Transportation Group Inc.",
+   "exchange": "TSX",
+   "yahoo_symbol": "TTNM.TO",
+   "instruments": [
+    {
+     "name": "Titanium Trans Grp J",
+     "symbol": "TTNM"
+    }
+   ]
+  },
+  {
+   "symbol": "SBDS",
+   "name": "Solo Brands, Inc. Class A Common Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "SBDS"
+  },
+  {
+   "symbol": "OPTG",
+   "name": "Optegra Ventures Inc.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "OPTG.V",
+   "instruments": [
+    {
+     "name": "Optegra Ventures Inc.",
+     "symbol": "OPTG"
+    }
+   ]
+  },
+  {
+   "symbol": "BITF",
+   "name": "Bitfarms Ltd.",
+   "exchange": "TSX",
+   "yahoo_symbol": "BITF.TO",
+   "instruments": [
+    {
+     "name": "Bitfarms Ltd. J",
+     "symbol": "BITF"
+    }
+   ]
+  },
+  {
+   "symbol": "ATI",
+   "name": "Altai Resources Inc.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "ATI.V",
+   "instruments": [
+    {
+     "name": "Altai Resources Inc.",
+     "symbol": "ATI"
+    }
+   ]
+  },
+  {
+   "symbol": "BITF",
+   "name": "Bitfarms Ltd. - Common Stock",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "BITF"
+  },
+  {
+   "symbol": "WLR",
+   "name": "Walker Lane Resources Ltd.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "WLR.V",
+   "instruments": [
+    {
+     "name": "Walker Lane Resources Ltd.",
+     "symbol": "WLR"
+    }
+   ]
+  },
+  {
+   "symbol": "EICC",
+   "name": "Eagle Point Income Company Inc. 8.00% Series C Term Preferred Stock due 2029",
+   "exchange": "NYSE",
+   "yahoo_symbol": "EICC"
+  },
+  {
+   "symbol": "TBHC",
+   "name": "The Brand House Collective, Inc - Common Stock",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "TBHC"
+  }
+ ]
+}
