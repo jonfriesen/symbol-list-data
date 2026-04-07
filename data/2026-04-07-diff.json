@@ -1,0 +1,284 @@
+{
+ "added": [
+  {
+   "symbol": "ELE",
+   "name": "Elemental Royalty Corporation",
+   "exchange": "TSX",
+   "yahoo_symbol": "ELE.TO",
+   "instruments": [
+    {
+     "name": "Elemental Rylty Corp",
+     "symbol": "ELE"
+    }
+   ]
+  },
+  {
+   "symbol": "RCAN",
+   "name": "RBC Canadian Equity ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "RCAN.TO",
+   "instruments": [
+    {
+     "name": "RBC Canadian Eqt ETF",
+     "symbol": "RCAN"
+    }
+   ]
+  },
+  {
+   "symbol": "RQU",
+   "name": "RBC Target 2032 Canadian Corporate Bond ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "RQU.TO",
+   "instruments": [
+    {
+     "name": "RBC32 CanCorpBnd ETf",
+     "symbol": "RQU"
+    }
+   ]
+  },
+  {
+   "symbol": "RGQU",
+   "name": "RBC Target 2032 Canadian Government Bond ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "RGQU.TO",
+   "instruments": [
+    {
+     "name": "RBC 2032CanGovBd ETF",
+     "symbol": "RGQU"
+    }
+   ]
+  },
+  {
+   "symbol": "RUQU",
+   "name": "RBC Target 2032 U.S. Corporate Bond ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "RUQU.TO",
+   "instruments": [
+    {
+     "name": "RBC Tg32USCorp Bd CA",
+     "symbol": "RUQU"
+    },
+    {
+     "name": "RBC Tg32USCorp Bd US",
+     "symbol": "RUQU.U"
+    }
+   ]
+  },
+  {
+   "symbol": "RUSA",
+   "name": "RBC U.S. Large-Cap Equity ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "RUSA.TO",
+   "instruments": [
+    {
+     "name": "RBC USLgCapEq CA ETF",
+     "symbol": "RUSA"
+    },
+    {
+     "name": "RBC USLgCapEq US ETF",
+     "symbol": "RUSA.U"
+    }
+   ]
+  },
+  {
+   "symbol": "TELY",
+   "name": "TelyRx Holdings Inc.",
+   "exchange": "TSX",
+   "yahoo_symbol": "TELY.TO",
+   "instruments": [
+    {
+     "name": "TelyRx Holdings SubV",
+     "symbol": "TELY"
+    }
+   ]
+  },
+  {
+   "symbol": "ANABV",
+   "name": "AnaptysBio, Inc. - Common Stock When Issued",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "ANABV"
+  },
+  {
+   "symbol": "HACQ",
+   "name": "HCM IV Acquisition Corp. - Class A Ordinary Share",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "HACQ"
+  },
+  {
+   "symbol": "HACQW",
+   "name": "HCM IV Acquisition Corp. - Warrants",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "HACQW"
+  },
+  {
+   "symbol": "IACO",
+   "name": "Idea Acquisition Corp. - Class A Ordinary Shares",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "IACO"
+  },
+  {
+   "symbol": "IACOW",
+   "name": "Idea Acquisition Corp. - Warrants",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "IACOW"
+  },
+  {
+   "symbol": "PAAC",
+   "name": "Proem Acquisition Corp I - Ordinary Shares",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "PAAC"
+  },
+  {
+   "symbol": "PAACW",
+   "name": "Proem Acquisition Corp I - Warrants",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "PAACW"
+  },
+  {
+   "symbol": "PCPI",
+   "name": "PIMCO Inflation PLUS Active Exchange-Traded Fund",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "PCPI"
+  },
+  {
+   "symbol": "SPCK",
+   "name": "SPAC and New Issue ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "SPCK"
+  },
+  {
+   "symbol": "TRAXV",
+   "name": "First Tracks Biotherapeutics, Inc. - Ordinary Shares",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "TRAXV"
+  },
+  {
+   "symbol": "WLII",
+   "name": "Willow Lane Acquisition Corp. II - Class A Ordinary Shares",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "WLII"
+  },
+  {
+   "symbol": "WLIIW",
+   "name": "Willow Lane Acquisition Corp. II - Warrants",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "WLIIW"
+  },
+  {
+   "symbol": "DCBG",
+   "name": "Dime Community Bancshares, Inc. 9.000% Fixed-to-Floating Rate Subordinated Notes due 2034",
+   "exchange": "NYSE",
+   "yahoo_symbol": "DCBG"
+  },
+  {
+   "symbol": "DCOM",
+   "name": "Dime Community Bancshares, Inc. Common Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "DCOM"
+  },
+  {
+   "symbol": "DCOM$",
+   "name": "Dime Community Bancshares, Inc. Fixed-Rate Non-Cumulative Perpetual Preferred Stock, Series A",
+   "exchange": "NYSE",
+   "yahoo_symbol": "DCOM$"
+  },
+  {
+   "symbol": "ELLA",
+   "name": "Ellington Credit Company 8.50% Notes due 2031",
+   "exchange": "NYSE",
+   "yahoo_symbol": "ELLA"
+  },
+  {
+   "symbol": "NXG.R",
+   "name": "NXG NextGen Infrastructure Income Fund Rights (expiring April 30, 2026) Rights",
+   "exchange": "NYSE",
+   "yahoo_symbol": "NXG.R"
+  },
+  {
+   "symbol": "OGC",
+   "name": "OceanaGold Corporation Common Shares",
+   "exchange": "NYSE",
+   "yahoo_symbol": "OGC"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "NXG.V",
+   "name": "NXG NextGen Infrastructure Income Fund Rights (expiring April 30, 2026) Rights when issued",
+   "exchange": "NYSE",
+   "yahoo_symbol": "NXG.V"
+  },
+  {
+   "symbol": "SPCX",
+   "name": "SPAC and New Issue ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "SPCX"
+  },
+  {
+   "symbol": "DCOM",
+   "name": "Dime Community Bancshares, Inc. - Common Stock",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "DCOM"
+  },
+  {
+   "symbol": "NSCR",
+   "name": "Nuveen Sustainable Core ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "NSCR"
+  },
+  {
+   "symbol": "IOBT",
+   "name": "IO Biotech, Inc. - Common Stock",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "IOBT"
+  },
+  {
+   "symbol": "DCOMP",
+   "name": "Dime Community Bancshares, Inc. - Fixed-Rate Non-Cumulative Perpetual Preferred Stock, Series A",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "DCOMP"
+  },
+  {
+   "symbol": "SWKH",
+   "name": "SWK Holdings Corporation - Common Stock",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "SWKH"
+  },
+  {
+   "symbol": "ELE",
+   "name": "Elemental Royalty Corporation",
+   "exchange": "TSXV",
+   "yahoo_symbol": "ELE.V",
+   "instruments": [
+    {
+     "name": "Elemental Royalty Corporation",
+     "symbol": "ELE"
+    }
+   ]
+  },
+  {
+   "symbol": "AFV.P",
+   "name": "Apolo V Acquisition Corp.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "AFV.P.V",
+   "instruments": [
+    {
+     "name": "Apolo V Acquisition Corp.",
+     "symbol": "AFV.P"
+    }
+   ]
+  },
+  {
+   "symbol": "INVZW",
+   "name": "Innoviz Technologies Ltd. - Warrant",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "INVZW"
+  },
+  {
+   "symbol": "DCOMG",
+   "name": "Dime Community Bancshares, Inc. - 9.000% Fixed-to-Floating Rate Subordinated Notes due 2034",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "DCOMG"
+  }
+ ]
+}
