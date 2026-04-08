@@ -1,0 +1,24 @@
+{
+ "added": [
+  {
+   "symbol": "AACPU",
+   "name": "Apogee Acquisition Corp - Units",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "AACPU"
+  },
+  {
+   "symbol": "ACGCU",
+   "name": "ACP Holdings Acquisition Corp. - Units",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "ACGCU"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "HOLX",
+   "name": "Hologic, Inc. - Common Stock",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "HOLX"
+  }
+ ]
+}
