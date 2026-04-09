@@ -1,0 +1,162 @@
+{
+ "added": [
+  {
+   "symbol": "SCAI",
+   "name": "SalesCloser Technologies Ltd.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "SCAI.V",
+   "instruments": [
+    {
+     "name": "SalesCloser Technologies Ltd.",
+     "symbol": "SCAI"
+    }
+   ]
+  },
+  {
+   "symbol": "TITI",
+   "name": "Titiminas Silver Inc.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "TITI.V",
+   "instruments": [
+    {
+     "name": "Titiminas Silver Inc.",
+     "symbol": "TITI"
+    }
+   ]
+  },
+  {
+   "symbol": "DSY",
+   "name": "Big Tree Cloud Holdings Limited - Class A Ordinary Shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "DSY"
+  },
+  {
+   "symbol": "GENZ",
+   "name": "VanEck Digital Native Economy ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "GENZ"
+  },
+  {
+   "symbol": "NGHT",
+   "name": "Nicholas Bitcoin and Treasuries AfterDark ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "NGHT"
+  },
+  {
+   "symbol": "RWIN",
+   "name": "Rayliant NxtGen Multifactor International Equity ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "RWIN"
+  },
+  {
+   "symbol": "TMCR",
+   "name": "The Metals Royalty Company Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "TMCR"
+  },
+  {
+   "symbol": "VEEA",
+   "name": "Veea Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "VEEA"
+  },
+  {
+   "symbol": "BMNR",
+   "name": "BitMine Immersion Technologies, Inc. Common Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "BMNR"
+  },
+  {
+   "symbol": "CFTR$A",
+   "name": "Cantor Fitzgerald Income Trust, Inc. 9.50% Series A Cumulative Redeemable Preferred Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "CFTR$A"
+  },
+  {
+   "symbol": "QRED.U",
+   "name": "QuasarEdge Acquisition Corporation Units, each consisting of one Ordinary Share and one right entitling the holder to receive one-fourth (1/4) of one Ordinary Share",
+   "exchange": "NYSE",
+   "yahoo_symbol": "QRED.U"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "BJK",
+   "name": "VanEck Gaming ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "BJK"
+  },
+  {
+   "symbol": "HYAC",
+   "name": "Haymaker Acquisition Corp. 4 Class A Ordinary Shares",
+   "exchange": "NYSE",
+   "yahoo_symbol": "HYAC"
+  },
+  {
+   "symbol": "GTM.P",
+   "name": "G2M Cap Corp.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "GTM.P.V",
+   "instruments": [
+    {
+     "name": "G2M Cap Corp.",
+     "symbol": "GTM.P"
+    }
+   ]
+  },
+  {
+   "symbol": "CAPT",
+   "name": "Captivision Inc. - Ordinary Shares",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "CAPT"
+  },
+  {
+   "symbol": "VEEA",
+   "name": "Veea Inc. - Common Stock",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "VEEA"
+  },
+  {
+   "symbol": "HYAC.U",
+   "name": "Haymaker Acquisition Corp. 4 Units, each consisting one Class A Ordinary Share and one-half of one redeemable Warrant",
+   "exchange": "NYSE",
+   "yahoo_symbol": "HYAC.U"
+  },
+  {
+   "symbol": "CAPTW",
+   "name": "Captivision Inc. - Warrant",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "CAPTW"
+  },
+  {
+   "symbol": "DSY",
+   "name": "Big Tree Cloud Holdings Limited - Class A Ordinary Shares",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "DSY"
+  },
+  {
+   "symbol": "AL",
+   "name": "Air Lease Corporation Class A Common Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "AL"
+  },
+  {
+   "symbol": "SEE",
+   "name": "Sealed Air Corporation Common Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "SEE"
+  },
+  {
+   "symbol": "HYAC.W",
+   "name": "Haymaker Acquisition Corp. 4 Warrants, each whole warrant exercisable for one Class A ordinary share at an exercise price of $11.50 per share",
+   "exchange": "NYSE",
+   "yahoo_symbol": "HYAC.W"
+  },
+  {
+   "symbol": "BMNR",
+   "name": "BitMine Immersion Technologies, Inc. Common Stock",
+   "exchange": "NYSE MKT",
+   "yahoo_symbol": "BMNR"
+  }
+ ]
+}
