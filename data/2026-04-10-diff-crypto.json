@@ -1,0 +1,170 @@
+{
+ "added": [
+  {
+   "symbol": "BASEDMONEY",
+   "name": "Based Money (BASEDMONEY)"
+  },
+  {
+   "symbol": "VINCHAIN",
+   "name": "VinChain (VINCHAIN)"
+  },
+  {
+   "symbol": "MIAMICOIN",
+   "name": "MiamiCoin (MIAMICOIN)"
+  },
+  {
+   "symbol": "SOLCHAT",
+   "name": "Solchat (SOLCHAT)"
+  },
+  {
+   "symbol": "ANGRYTOKEN",
+   "name": "Angryb (ANGRYTOKEN)"
+  },
+  {
+   "symbol": "EMOGINETWORK",
+   "name": "EMOGI Network (EMOGINETWORK)"
+  },
+  {
+   "symbol": "UTOPIAUSD",
+   "name": "Utopia USD (UTOPIAUSD)"
+  },
+  {
+   "symbol": "BUNNYP",
+   "name": "BunnyPark (BUNNYP)"
+  },
+  {
+   "symbol": "DUALDAOTOKEN",
+   "name": "Dual Finance (DUALDAOTOKEN)"
+  },
+  {
+   "symbol": "BANCORUSD",
+   "name": "USD Bancor (BANCORUSD)"
+  },
+  {
+   "symbol": "MAOMEME",
+   "name": "Mao (MAOMEME)"
+  },
+  {
+   "symbol": "HACHIKOTOKEN",
+   "name": "Hachiko (HACHIKOTOKEN)"
+  },
+  {
+   "symbol": "EVAIIO",
+   "name": "EVAI (EVAIIO)"
+  },
+  {
+   "symbol": "CATCOINCASH",
+   "name": "CatCoin (CATCOINCASH)"
+  },
+  {
+   "symbol": "ZEDCOIN",
+   "name": "ZedCoin (ZEDCOIN)"
+  },
+  {
+   "symbol": "OYSTERPEARL",
+   "name": "Oyster Pearl (OYSTERPEARL)"
+  },
+  {
+   "symbol": "COGECOIN",
+   "name": "Cogecoin (COGECOIN)"
+  },
+  {
+   "symbol": "MOTHEROFMEMES",
+   "name": "Mother of Memes (MOTHEROFMEMES)"
+  },
+  {
+   "symbol": "LONGDRINK",
+   "name": "Longdrink Finance (LONGDRINK)"
+  },
+  {
+   "symbol": "BASEDMONEYV1",
+   "name": "Based Money v1 (BASEDMONEYV1)"
+  },
+  {
+   "symbol": "DEFINITIVE",
+   "name": "Edge (DEFINITIVE)"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "UUSD",
+   "name": "Utopia USD (UUSD)"
+  },
+  {
+   "symbol": "MOM",
+   "name": "Mother of Memes (MOM)"
+  },
+  {
+   "symbol": "BASED",
+   "name": "Based Money (BASED)"
+  },
+  {
+   "symbol": "USDB",
+   "name": "USD Bancor (USDB)"
+  },
+  {
+   "symbol": "BASEDV1",
+   "name": "Based Money v1 (BASEDV1)"
+  },
+  {
+   "symbol": "IMU",
+   "name": "Immunefi (IMU)"
+  },
+  {
+   "symbol": "VIN",
+   "name": "VinChain (VIN)"
+  },
+  {
+   "symbol": "CATCOIN",
+   "name": "CatCoin (CATCOIN)"
+  },
+  {
+   "symbol": "COGE",
+   "name": "Cogecoin (COGE)"
+  },
+  {
+   "symbol": "CHAT",
+   "name": "Solchat (CHAT)"
+  },
+  {
+   "symbol": "DUAL",
+   "name": "Dual Finance (DUAL)"
+  },
+  {
+   "symbol": "BABY4",
+   "name": "Baby 4 (BABY4)"
+  },
+  {
+   "symbol": "MIA",
+   "name": "MiamiCoin (MIA)"
+  },
+  {
+   "symbol": "LOL",
+   "name": "EMOGI Network (LOL)"
+  },
+  {
+   "symbol": "PRL",
+   "name": "Oyster Pearl (PRL)"
+  },
+  {
+   "symbol": "ANB",
+   "name": "Angryb (ANB)"
+  },
+  {
+   "symbol": "EV",
+   "name": "EVAI (EV)"
+  },
+  {
+   "symbol": "LONG",
+   "name": "Longdrink Finance (LONG)"
+  },
+  {
+   "symbol": "HACHI",
+   "name": "Hachiko (HACHI)"
+  },
+  {
+   "symbol": "BP",
+   "name": "BunnyPark (BP)"
+  }
+ ]
+}
