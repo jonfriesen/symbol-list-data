@@ -1,0 +1,30 @@
+{
+ "added": [
+  {
+   "symbol": "IMU",
+   "name": "Immunefi (IMU)"
+  },
+  {
+   "symbol": "BABY4",
+   "name": "Baby 4 (BABY4)"
+  },
+  {
+   "symbol": "MEZOUSD",
+   "name": "Mezo USD (MEZOUSD)"
+  },
+  {
+   "symbol": "MEZO",
+   "name": "MEZO (MEZO)"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "MAOMEME",
+   "name": "Mao (MAOMEME)"
+  },
+  {
+   "symbol": "ZEDCOIN",
+   "name": "ZedCoin (ZEDCOIN)"
+  }
+ ]
+}

@@ -1,0 +1,222 @@
+{
+ "added": [
+  {
+   "symbol": "ACAA",
+   "name": "Averin Capital Acquisition Corp. - Class A Ordinary Shares",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "ACAA"
+  },
+  {
+   "symbol": "ACAAW",
+   "name": "Averin Capital Acquisition Corp. - Warrants",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "ACAAW"
+  },
+  {
+   "symbol": "YOOV",
+   "name": "Concorde International Group Ltd - Class A Ordinary Shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "YOOV"
+  },
+  {
+   "symbol": "CCMM",
+   "name": "Coyote Copper Mines Inc.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "CCMM.V",
+   "instruments": [
+    {
+     "name": "Coyote Copper Mines Inc.",
+     "symbol": "CCMM"
+    }
+   ]
+  },
+  {
+   "symbol": "OCEN",
+   "name": "Transoceanic Investments Inc.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "OCEN.V",
+   "instruments": [
+    {
+     "name": "Transoceanic Investments Inc.",
+     "symbol": "OCEN"
+    }
+   ]
+  },
+  {
+   "symbol": "CTGO",
+   "name": "Contango Silver \u0026 Gold Inc.",
+   "exchange": "TSX",
+   "yahoo_symbol": "CTGO.TO",
+   "instruments": [
+    {
+     "name": "Contango Silv \u0026 Gold",
+     "symbol": "CTGO"
+    }
+   ]
+  },
+  {
+   "symbol": "IMFE",
+   "name": "IA Clarington Global Multifactor Equity Fund",
+   "exchange": "TSX",
+   "yahoo_symbol": "IMFE.TO",
+   "instruments": [
+    {
+     "name": "IA ClarGbl Multi EqF",
+     "symbol": "IMFE"
+    }
+   ]
+  },
+  {
+   "symbol": "ITIN",
+   "name": "IA Clarington Thematic Innovation Class",
+   "exchange": "TSX",
+   "yahoo_symbol": "ITIN.TO",
+   "instruments": [
+    {
+     "name": "IA Claring Thm Innov",
+     "symbol": "ITIN"
+    }
+   ]
+  },
+  {
+   "symbol": "CLHI",
+   "name": "Ninepoint Celestica HighShares ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "CLHI.TO",
+   "instruments": [
+    {
+     "name": "Ninept Celest HghShr",
+     "symbol": "CLHI"
+    }
+   ]
+  },
+  {
+   "symbol": "CSUC",
+   "name": "Ninepoint Constellation Software CoreShares ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "CSUC.TO",
+   "instruments": [
+    {
+     "name": "Ninept Constl CrShr",
+     "symbol": "CSUC"
+    }
+   ]
+  },
+  {
+   "symbol": "CSHI",
+   "name": "Ninepoint Constellation Software HighShares ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "CSHI.TO",
+   "instruments": [
+    {
+     "name": "NineptCon Sof HiShr",
+     "symbol": "CSHI"
+    }
+   ]
+  },
+  {
+   "symbol": "KGHI",
+   "name": "Ninepoint Kinross Gold HighShares ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "KGHI.TO",
+   "instruments": [
+    {
+     "name": "Ninept KinrGol HiShr",
+     "symbol": "KGHI"
+    }
+   ]
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "FRDD",
+   "name": "Direxion Daily F Bear 1X ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "FRDD"
+  },
+  {
+   "symbol": "CIGL",
+   "name": "Concorde International Group Ltd - Class A Ordinary Shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "CIGL"
+  },
+  {
+   "symbol": "LLG",
+   "name": "Mason Resources Inc.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "LLG.V",
+   "instruments": [
+    {
+     "name": "Mason Resources Inc.",
+     "symbol": "LLG"
+    }
+   ]
+  },
+  {
+   "symbol": "BRKD",
+   "name": "Direxion Daily BRKB Bear 1X ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "BRKD"
+  },
+  {
+   "symbol": "FGCC.P",
+   "name": "First and Goal Capital Corp.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "FGCC.P.V",
+   "instruments": [
+    {
+     "name": "First and Goal Capital Corp.",
+     "symbol": "FGCC.P"
+    }
+   ]
+  },
+  {
+   "symbol": "SHPD",
+   "name": "Direxion Daily SHOP Bear 1X ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "SHPD"
+  },
+  {
+   "symbol": "OOSB",
+   "name": "One One S\u0026P 500 and Bitcoin ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "OOSB"
+  },
+  {
+   "symbol": "XOMZ",
+   "name": "Direxion Daily XOM Bear 1X ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "XOMZ"
+  },
+  {
+   "symbol": "BOED",
+   "name": "Direxion Daily BA Bear 1X ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "BOED"
+  },
+  {
+   "symbol": "ELIS",
+   "name": "Direxion Daily LLY Bear 1X ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "ELIS"
+  },
+  {
+   "symbol": "OOQB",
+   "name": "One One Nasdaq-100 and Bitcoin ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "OOQB"
+  },
+  {
+   "symbol": "LMTS",
+   "name": "Direxion Daily LMT Bear 1X ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "LMTS"
+  },
+  {
+   "symbol": "FRDU",
+   "name": "Direxion Daily F Bull 2X ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "FRDU"
+  }
+ ]
+}
