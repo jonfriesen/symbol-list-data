@@ -1,0 +1,68 @@
+{
+ "added": [
+  {
+   "symbol": "BP",
+   "name": "Backpack (BP)"
+  },
+  {
+   "symbol": "DUAL",
+   "name": "DUAL (DUAL)"
+  },
+  {
+   "symbol": "MOM",
+   "name": "MOM (MOM)"
+  },
+  {
+   "symbol": "LONG",
+   "name": "Long (LONG)"
+  },
+  {
+   "symbol": "BASED",
+   "name": "Based Token (BASED)"
+  },
+  {
+   "symbol": "COGE",
+   "name": "Copper Doge (COGE)"
+  },
+  {
+   "symbol": "HACHI",
+   "name": "Hachiko (HACHI)"
+  },
+  {
+   "symbol": "MIA",
+   "name": "MIA (MIA)"
+  },
+  {
+   "symbol": "LOL",
+   "name": "LOL (LOL)"
+  },
+  {
+   "symbol": "CHAT",
+   "name": "OpenChat (CHAT)"
+  },
+  {
+   "symbol": "USDB",
+   "name": "Blynex USD (USDB)"
+  },
+  {
+   "symbol": "PRL",
+   "name": "Perle (PRL)"
+  },
+  {
+   "symbol": "EV",
+   "name": "Everything (EV)"
+  },
+  {
+   "symbol": "UUSD",
+   "name": "Unity USD (UUSD)"
+  },
+  {
+   "symbol": "ANB",
+   "name": "Ant BlockChain (ANB)"
+  },
+  {
+   "symbol": "VIN",
+   "name": "VulgarTycoon (VIN)"
+  }
+ ]
+}

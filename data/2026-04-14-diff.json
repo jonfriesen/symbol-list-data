@@ -1,0 +1,96 @@
+{
+ "added": [
+  {
+   "symbol": "AACO",
+   "name": "Abony Acquisition Corp. I - Class A Ordinary Share",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "AACO"
+  },
+  {
+   "symbol": "AACOW",
+   "name": "Abony Acquisition Corp. I - Warrants",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "AACOW"
+  },
+  {
+   "symbol": "PALO",
+   "name": "Paloma Acquisition Corp I - Class A Ordinary Shares",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "PALO"
+  },
+  {
+   "symbol": "PALOW",
+   "name": "Paloma Acquisition Corp I - Warrants",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "PALOW"
+  },
+  {
+   "symbol": "ZTG",
+   "name": "Zenta Group Company Limited - Class A Ordinary Shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "ZTG"
+  },
+  {
+   "symbol": "GLED",
+   "name": "GalaxyEdge Acquisition Corporation Ordinary Shares",
+   "exchange": "NYSE",
+   "yahoo_symbol": "GLED"
+  },
+  {
+   "symbol": "GLED.R",
+   "name": "GalaxyEdge Acquisition Corporation Rights to receive one-fourth (1/4) of one ordinary share",
+   "exchange": "NYSE",
+   "yahoo_symbol": "GLED.R"
+  },
+  {
+   "symbol": "MTAL",
+   "name": "Metals Acquisition Corp. II Class A Ordinary Shares",
+   "exchange": "NYSE",
+   "yahoo_symbol": "MTAL"
+  },
+  {
+   "symbol": "MTAL.W",
+   "name": "Metals Acquisition Corp. II Warrants, each whole warrant exercisable for one Class A ordinary share at an exercise price of $11.50 per share",
+   "exchange": "NYSE",
+   "yahoo_symbol": "MTAL.W"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "CANB",
+   "name": "CanadaBis Capital Inc.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "CANB.V",
+   "instruments": [
+    {
+     "name": "Canadabis Capital Inc.",
+     "symbol": "CANB"
+    }
+   ]
+  },
+  {
+   "symbol": "WORX",
+   "name": "SCWorx Corp. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "WORX"
+  },
+  {
+   "symbol": "BMAX",
+   "name": "REX Bitcoin Corporate Treasury Convertible Bond ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "BMAX"
+  },
+  {
+   "symbol": "QRED.U",
+   "name": "QuasarEdge Acquisition Corporation Units, each consisting of one Ordinary Share and one right entitling the holder to receive one-fourth (1/4) of one Ordinary Share",
+   "exchange": "NYSE",
+   "yahoo_symbol": "QRED.U"
+  },
+  {
+   "symbol": "ZGM",
+   "name": "Zenta Group Company Limited - Class A Ordinary Shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "ZGM"
+  }
+ ]
+}
