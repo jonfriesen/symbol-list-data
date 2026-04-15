@@ -1,0 +1,78 @@
+{
+ "added": [
+  {
+   "symbol": "CWY",
+   "name": "GraniteShares YieldBOOST CRWV ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "CWY"
+  },
+  {
+   "symbol": "MUYY",
+   "name": "GraniteShares YieldBOOST MU ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "MUYY"
+  },
+  {
+   "symbol": "MYXXU",
+   "name": "Maywood Acquisition Corp. 2 - Units",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "MYXXU"
+  },
+  {
+   "symbol": "NICM",
+   "name": "Nicola Mining Inc. - American Depositary Shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "NICM"
+  },
+  {
+   "symbol": "TMYY",
+   "name": "GraniteShares YieldBOOST TSM ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "TMYY"
+  },
+  {
+   "symbol": "QRED.U",
+   "name": "QuasarEdge Acquisition Corporation Units, each consisting of one Ordinary Share and one right entitling the holder to receive one-fourth (1/4) of one Ordinary Share",
+   "exchange": "NYSE",
+   "yahoo_symbol": "QRED.U"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "ELY",
+   "name": "Electrum Discovery Corp.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "ELY.V",
+   "instruments": [
+    {
+     "name": "Electrum Discovery Corp.",
+     "symbol": "ELY"
+    }
+   ]
+  },
+  {
+   "symbol": "ELL",
+   "name": "Everybody Loves Languages Corp.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "ELL.V",
+   "instruments": [
+    {
+     "name": "Everybody Loves Languages Corp.",
+     "symbol": "ELL"
+    }
+   ]
+  },
+  {
+   "symbol": "MRCC",
+   "name": "Monroe Capital Corporation - Closed End Fund",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "MRCC"
+  },
+  {
+   "symbol": "NHS.R",
+   "name": "Neuberger High Yield Strategies Fund Inc. Rights (expiring April 15, 2026) Rights",
+   "exchange": "NYSE MKT",
+   "yahoo_symbol": "NHS.R"
+  }
+ ]
+}

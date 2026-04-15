@@ -1,0 +1,58 @@
+{
+ "added": [
+  {
+   "symbol": "MAOMEME",
+   "name": "Mao (MAOMEME)"
+  },
+  {
+   "symbol": "TLF",
+   "name": "Tradeleaf (TLF)"
+  },
+  {
+   "symbol": "ZEDCOIN",
+   "name": "ZedCoin (ZEDCOIN)"
+  },
+  {
+   "symbol": "MAXXING",
+   "name": "Maxxing (MAXXING)"
+  },
+  {
+   "symbol": "ARTEMIS",
+   "name": "OFFICIAL ARTEMIS (ARTEMIS)"
+  },
+  {
+   "symbol": "PUMPCADE",
+   "name": "PUMPCADE (PUMPCADE)"
+  },
+  {
+   "symbol": "EITHER",
+   "name": "Eitherway (EITHER)"
+  },
+  {
+   "symbol": "SOLIB",
+   "name": "Solitaire Blossom (SOLIB)"
+  },
+  {
+   "symbol": "BRENT",
+   "name": "Brent Crude (BRENT)"
+  },
+  {
+   "symbol": "GENIUS",
+   "name": "Genius (GENIUS)"
+  },
+  {
+   "symbol": "HANC",
+   "name": "OddHanc (HANC)"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "IMU",
+   "name": "Immunefi (IMU)"
+  },
+  {
+   "symbol": "BABY4",
+   "name": "Baby 4 (BABY4)"
+  }
+ ]
+}
