@@ -1,0 +1,114 @@
+{
+ "added": [
+  {
+   "symbol": "GOHI",
+   "name": "Ninepoint Alphabet HighShares ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "GOHI.TO",
+   "instruments": [
+    {
+     "name": "Ninep Alphabet HiShr",
+     "symbol": "GOHI"
+    }
+   ]
+  },
+  {
+   "symbol": "INHI",
+   "name": "Ninepoint Intel HighShares ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "INHI.TO",
+   "instruments": [
+    {
+     "name": "Ninept Intel HiShr E",
+     "symbol": "INHI"
+    }
+   ]
+  },
+  {
+   "symbol": "NVHI",
+   "name": "Ninepoint NVIDIA HighShares ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "NVHI.TO",
+   "instruments": [
+    {
+     "name": "Ninept NVIDIA HiShr",
+     "symbol": "NVHI"
+    }
+   ]
+  },
+  {
+   "symbol": "PLHI",
+   "name": "Ninepoint Palantir HighShares ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "PLHI.TO",
+   "instruments": [
+    {
+     "name": "Ninep Palantir HiShr",
+     "symbol": "PLHI"
+    }
+   ]
+  },
+  {
+   "symbol": "TSHI",
+   "name": "Ninepoint Tesla HighShares ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "TSHI.TO",
+   "instruments": [
+    {
+     "name": "Ninept Tesla HiShr E",
+     "symbol": "TSHI"
+    }
+   ]
+  },
+  {
+   "symbol": "BNCWZ",
+   "name": "CEA Industries Inc. - Warrants",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "BNCWZ"
+  },
+  {
+   "symbol": "NHIVU",
+   "name": "NewHold Investment Corp IV - Units",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "NHIVU"
+  },
+  {
+   "symbol": "ORBX",
+   "name": "Global X Space Tech ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "ORBX"
+  },
+  {
+   "symbol": "REXC",
+   "name": "Sprott Rare Earths Ex-China ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "REXC"
+  },
+  {
+   "symbol": "MAIR",
+   "name": "Madison Air Solutions Corporation Class A Common Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "MAIR"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "PERF.W",
+   "name": "Perfect Corp. Warrants, each exercisable for one Class A Ordinary Share at a price of $11.50 per share",
+   "exchange": "NYSE",
+   "yahoo_symbol": "PERF.W"
+  },
+  {
+   "symbol": "FOM",
+   "name": "Foran Mining Corporation",
+   "exchange": "TSX",
+   "yahoo_symbol": "FOM.TO",
+   "instruments": [
+    {
+     "name": "Foran Mining Corp J",
+     "symbol": "FOM"
+    }
+   ]
+  }
+ ]
+}

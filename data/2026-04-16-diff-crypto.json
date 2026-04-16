@@ -1,0 +1,66 @@
+{
+ "added": [
+  {
+   "symbol": "SPIKEFURIE",
+   "name": "SPIKE (SPIKEFURIE)"
+  },
+  {
+   "symbol": "SPKI",
+   "name": "SPIKE INU (SPKI)"
+  },
+  {
+   "symbol": "CWU",
+   "name": "Commonwealth (CWU)"
+  },
+  {
+   "symbol": "SPORTBET",
+   "name": "SBET (SPORTBET)"
+  },
+  {
+   "symbol": "ONLYFANSCOINS",
+   "name": "$OFC Coin (ONLYFANSCOINS)"
+  },
+  {
+   "symbol": "IWC",
+   "name": "IWC (IWC)"
+  },
+  {
+   "symbol": "SPIK",
+   "name": "Spike (SPIK)"
+  },
+  {
+   "symbol": "MOONKIN",
+   "name": "MOONKIN (MOONKIN)"
+  },
+  {
+   "symbol": "SPIKE1984",
+   "name": "Spike 1984 (SPIKE1984)"
+  },
+  {
+   "symbol": "PROTOKEN",
+   "name": "Pro Token (PROTOKEN)"
+  },
+  {
+   "symbol": "SPIKECOIN",
+   "name": "SPIKE (SPIKECOIN)"
+  },
+  {
+   "symbol": "BULLDOG",
+   "name": "BullDog Coin (BULLDOG)"
+  },
+  {
+   "symbol": "0X63SPIKE",
+   "name": "Spike (0X63SPIKE)"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "OFC",
+   "name": "$OFC Coin (OFC)"
+  },
+  {
+   "symbol": "SBET",
+   "name": "SBET (SBET)"
+  }
+ ]
+}
