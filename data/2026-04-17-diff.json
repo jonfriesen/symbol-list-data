@@ -1,0 +1,84 @@
+{
+ "added": [
+  {
+   "symbol": "ARXS",
+   "name": "Arxis, Inc. - Class A Common Stock",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "ARXS"
+  },
+  {
+   "symbol": "BHAV",
+   "name": "BHAV Acquisition Corp - Class A Ordinary Shares",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "BHAV"
+  },
+  {
+   "symbol": "BHAVR",
+   "name": "BHAV Acquisition Corp - Rights",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "BHAVR"
+  },
+  {
+   "symbol": "CTAA",
+   "name": "ClearThink 1 Acquisition Corp. - Class A Ordinary Shares",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "CTAA"
+  },
+  {
+   "symbol": "CTAAR",
+   "name": "ClearThink 1 Acquisition Corp. - Rights",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "CTAAR"
+  },
+  {
+   "symbol": "ILLR",
+   "name": "Triller Group Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "ILLR"
+  },
+  {
+   "symbol": "ILLRW",
+   "name": "Triller Group Inc. - Warrant",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "ILLRW"
+  },
+  {
+   "symbol": "JEMA",
+   "name": "JPMorgan ActiveBuilders Emerging Markets Equity ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "JEMA"
+  },
+  {
+   "symbol": "JOYT",
+   "name": "JPMorgan Equity and Options Total Return ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "JOYT"
+  },
+  {
+   "symbol": "LVDS",
+   "name": "JPMorgan Fundamental Data Science Large Value ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "LVDS"
+  },
+  {
+   "symbol": "AVEX",
+   "name": "AEVEX Corp. Class A Common Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "AVEX"
+  },
+  {
+   "symbol": "P",
+   "name": "Everpure, Inc. Class A common stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "P"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "PSTG",
+   "name": "Everpure, Inc. Class A common stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "PSTG"
+  }
+ ]
+}

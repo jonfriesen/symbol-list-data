@@ -1,0 +1,30 @@
+{
+ "added": [
+  {
+   "symbol": "XCHATSOL",
+   "name": "XChat (XCHATSOL)"
+  },
+  {
+   "symbol": "LONGFUN",
+   "name": "Long (LONGFUN)"
+  },
+  {
+   "symbol": "OFC",
+   "name": "OneFootball Club (OFC)"
+  },
+  {
+   "symbol": "CASHCOIN",
+   "name": "CashCoin (CASHCOIN)"
+  },
+  {
+   "symbol": "INOCOIN",
+   "name": "Ino Coin (INOCOIN)"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "CASH",
+   "name": "CashCoin (CASH)"
+  }
+ ]
+}
