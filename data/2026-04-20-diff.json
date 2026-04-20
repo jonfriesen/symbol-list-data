@@ -1,0 +1,132 @@
+{
+ "added": [
+  {
+   "symbol": "SGRD",
+   "name": "First Trust Nasdaq® Clean Edge® Smart Grid Infrastructure ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "SGRD.TO",
+   "instruments": [
+    {
+     "name": "Frst Trst NDQ Cl Edg",
+     "symbol": "SGRD"
+    }
+   ]
+  },
+  {
+   "symbol": "PDI",
+   "name": "Predictive Discovery Limited",
+   "exchange": "TSX",
+   "yahoo_symbol": "PDI.TO",
+   "instruments": [
+    {
+     "name": "Predictive Dscvr Ltd",
+     "symbol": "PDI"
+    }
+   ]
+  },
+  {
+   "symbol": "ALMR",
+   "name": "Alamar Biosciences, Inc. - Class A common stock",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "ALMR"
+  },
+  {
+   "symbol": "JATT",
+   "name": "JATT II Acquisition Corp - Ordinary Shares",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "JATT"
+  },
+  {
+   "symbol": "KLRA",
+   "name": "Kailera Therapeutics, Inc. - Common stock",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "KLRA"
+  },
+  {
+   "symbol": "TRAX",
+   "name": "First Tracks Biotherapeutics, Inc. - Ordinary Shares",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "TRAX"
+  },
+  {
+   "symbol": "DHY.V",
+   "name": "Credit Suisse High Yield Credit Fund Rights (expiring May 14, 2026) Rights when issued",
+   "exchange": "NYSE MKT",
+   "yahoo_symbol": "DHY.V"
+  },
+  {
+   "symbol": "MZYX",
+   "name": "MOZAYYX Acquisition Corp. Class A Ordinary Shares",
+   "exchange": "NYSE",
+   "yahoo_symbol": "MZYX"
+  },
+  {
+   "symbol": "MZYX.W",
+   "name": "MOZAYYX Acquisition Corp. Redeemable warrants, each whole warrant exercisable for one Class A ordinary share at an exercise price of $11.50",
+   "exchange": "NYSE",
+   "yahoo_symbol": "MZYX.W"
+  },
+  {
+   "symbol": "TRAD",
+   "name": "APEX Tech Acquisition Inc. Ordinary Shares",
+   "exchange": "NYSE",
+   "yahoo_symbol": "TRAD"
+  },
+  {
+   "symbol": "TRAD.R",
+   "name": "APEX Tech Acquisition Inc. Rights, each entitling the holder to receive one-fourth (1/4) of one ordinary share",
+   "exchange": "NYSE",
+   "yahoo_symbol": "TRAD.R"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "TRAXV",
+   "name": "First Tracks Biotherapeutics, Inc. - Ordinary Shares",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "TRAXV"
+  },
+  {
+   "symbol": "ANABV",
+   "name": "AnaptysBio, Inc. - Common Stock When Issued",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "ANABV"
+  },
+  {
+   "symbol": "MPTI.R",
+   "name": "M-tron Industries, Inc. Rights (expiring April 15, 2026) Rights",
+   "exchange": "NYSE MKT",
+   "yahoo_symbol": "MPTI.R"
+  },
+  {
+   "symbol": "RBX",
+   "name": "Robex Resources Inc.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "RBX.V",
+   "instruments": [
+    {
+     "name": "Robex Resources Inc.",
+     "symbol": "RBX"
+    }
+   ]
+  },
+  {
+   "symbol": "QVCD",
+   "name": "QVC, Inc. 6.375% Senior Secured Notes due 2067",
+   "exchange": "NYSE",
+   "yahoo_symbol": "QVCD"
+  },
+  {
+   "symbol": "HTBK",
+   "name": "Heritage Commerce Corp - Common Stock",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "HTBK"
+  },
+  {
+   "symbol": "QVCC",
+   "name": "QVC, Inc. 6.250% Senior Secured Notes due 2068",
+   "exchange": "NYSE",
+   "yahoo_symbol": "QVCC"
+  }
+ ]
+}
