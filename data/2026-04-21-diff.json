@@ -1,0 +1,78 @@
+{
+ "added": [
+  {
+   "symbol": "ALP",
+   "name": "Alpha Compute Corp  - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "ALP"
+  },
+  {
+   "symbol": "ILLU",
+   "name": "Illumination Acquisition Corp I - Class A Ordinary Shares",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "ILLU"
+  },
+  {
+   "symbol": "ILLUW",
+   "name": "Illumination Acquisition Corp I - Warrant",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "ILLUW"
+  },
+  {
+   "symbol": "SUMA",
+   "name": "SUMA Acquisition Corporation - Class A Ordinary Shares",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "SUMA"
+  },
+  {
+   "symbol": "SUMAR",
+   "name": "SUMA Acquisition Corporation - Rights",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "SUMAR"
+  },
+  {
+   "symbol": "TRGS",
+   "name": "TRG Latin America Acquisitions Corp. - Class A Ordinary Shares",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "TRGS"
+  },
+  {
+   "symbol": "TRGSR",
+   "name": "TRG Latin America Acquisitions Corp. - Rights",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "TRGSR"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "SOHOB",
+   "name": "Sotherly Hotels Inc. - 8.0% Series B Cumulative Redeemable Perpetual Preferred Stock",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "SOHOB"
+  },
+  {
+   "symbol": "GAB.R",
+   "name": "Gabelli Equity Trust, Inc. (The) Rights (expiring April 14, 2026) Rights",
+   "exchange": "NYSE",
+   "yahoo_symbol": "GAB.R"
+  },
+  {
+   "symbol": "SOHOO",
+   "name": "Sotherly Hotels Inc. - 7.875% Series C Cumulative Redeemable Perpetual Preferred Stock",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "SOHOO"
+  },
+  {
+   "symbol": "ATON",
+   "name": "AlphaTON Capital Corp. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "ATON"
+  },
+  {
+   "symbol": "SOHON",
+   "name": "Sotherly Hotels Inc. - 8.25% Series D Cumulative Redeemable Perpetual Preferred Stock",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "SOHON"
+  }
+ ]
+}
