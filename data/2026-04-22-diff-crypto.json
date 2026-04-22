@@ -1,0 +1,58 @@
+{
+ "added": [
+  {
+   "symbol": "WYDE",
+   "name": "WYDE: End Hunger (WYDE)",
+   "built_on": "BASE"
+  },
+  {
+   "symbol": "CBBTCBASE",
+   "name": "cbBTC (CBBTCBASE)"
+  },
+  {
+   "symbol": "CHIP",
+   "name": "Chip (CHIP)",
+   "built_on": "ARB"
+  },
+  {
+   "symbol": "CHIPP",
+   "name": "Chip (CHIPP)"
+  },
+  {
+   "symbol": "G",
+   "name": "Gravity (G)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "D",
+   "name": "Dar Open Network (D)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "STRAWBE",
+   "name": "Strawberry In Bloom (STRAWBE)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "IONQON",
+   "name": "IonQ (Ondo Tokenized) (IONQON)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "REUR",
+   "name": "Royal Euro (REUR)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "XMONEY",
+   "name": "X Money (XMONEY)",
+   "built_on": "SOL"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "CHIP",
+   "name": "Chip (CHIP)"
+  }
+ ]
+}
