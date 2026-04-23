@@ -1,0 +1,135 @@
+{
+ "added": [
+  {
+   "symbol": "IC",
+   "name": "Icy (IC)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "IGNITION",
+   "name": "Ignition (IGNITION)"
+  },
+  {
+   "symbol": "AGC",
+   "name": "Alien Green Cat (AGC)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "BULLDOGTOKEN",
+   "name": "Bulldog Token (BULLDOGTOKEN)"
+  },
+  {
+   "symbol": "DUALV1",
+   "name": "BLOCKv (DUALV1)"
+  },
+  {
+   "symbol": "ARGOCOIN",
+   "name": "Argocoin (ARGOCOIN)"
+  },
+  {
+   "symbol": "CBBTCBASE",
+   "name": "cbBTC (CBBTCBASE)"
+  },
+  {
+   "symbol": "TRONBULL",
+   "name": "Tron Bull (TRONBULL)"
+  },
+  {
+   "symbol": "BULL",
+   "name": "Bull (BULL)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "SPIKING",
+   "name": "Spiking (SPIKING)"
+  },
+  {
+   "symbol": "WOJAKIO",
+   "name": "Wojak (WOJAKIO)"
+  },
+  {
+   "symbol": "SPIKE",
+   "name": "SPIKE (SPIKE)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "SCCOON",
+   "name": "Southern Copper (Ondo Tokenized) (SCCOON)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "BDOG",
+   "name": "BurnDog (BDOG)",
+   "built_on": "BNB"
+  },
+  {
+   "symbol": "D",
+   "name": "Dar Open Network (D)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "NBISON",
+   "name": "Nebius Group (Ondo Tokenized) (NBISON)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "CHECKDOT",
+   "name": "CheckDot (CHECKDOT)"
+  },
+  {
+   "symbol": "ITAON",
+   "name": "iShares US Aerospace and Defense ETF (Ondo Tokenized) (ITAON)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "VRTXON",
+   "name": "Vertex Pharmaceuticals (Ondo Tokenized) (VRTXON)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "ALTSZN",
+   "name": "ALTSEASON (ALTSZN)",
+   "built_on": "SOL"
+  },
+  {
+   "symbol": "G",
+   "name": "Gravity (G)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "OPG",
+   "name": "OpenGradient (OPG)",
+   "built_on": "BASE"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "IC",
+   "name": "Ignition (IC)"
+  },
+  {
+   "symbol": "BDOG",
+   "name": "Bulldog Token (BDOG)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "CDT",
+   "name": "CheckDot (CDT)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "AGC",
+   "name": "Argocoin (AGC)"
+  },
+  {
+   "symbol": "SPIKE",
+   "name": "Spiking (SPIKE)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "BULL",
+   "name": "Tron Bull (BULL)",
+   "built_on": "TRX"
+  }
+ ]
+}

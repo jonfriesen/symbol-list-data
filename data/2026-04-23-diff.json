@@ -1,0 +1,96 @@
+{
+ "added": [
+  {
+   "symbol": "EM",
+   "name": "Errington Metals Corp.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "EM.V",
+   "instruments": [
+    {
+     "name": "Errington Metals Corp.",
+     "symbol": "EM"
+    }
+   ]
+  },
+  {
+   "symbol": "UVC",
+   "name": "Illumisoft Lighting Corp.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "UVC.V",
+   "instruments": [
+    {
+     "name": "Illumisoft Lighting Corp.",
+     "symbol": "UVC"
+    }
+   ]
+  },
+  {
+   "symbol": "DHY.R",
+   "name": "Credit Suisse High Yield Credit Fund Rights (expiring May 14, 2026) Rights",
+   "exchange": "NYSE MKT",
+   "yahoo_symbol": "DHY.R"
+  },
+  {
+   "symbol": "BESO",
+   "name": "GSR Crypto Core3 ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "BESO"
+  },
+  {
+   "symbol": "DETX",
+   "name": "Liberty Defense Holdings, Ltd. - Common Shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "DETX"
+  },
+  {
+   "symbol": "NHP",
+   "name": "National Healthcare Properties, Inc. - Class A Common Stock",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "NHP"
+  },
+  {
+   "symbol": "YSWY",
+   "name": "Yesway, Inc. - Class A Common Stock",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "YSWY"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "VEIN",
+   "name": "Pasofino Gold Limited",
+   "exchange": "TSXV",
+   "yahoo_symbol": "VEIN.V",
+   "instruments": [
+    {
+     "name": "Pasofino Gold Limited",
+     "symbol": "VEIN"
+    }
+   ]
+  },
+  {
+   "symbol": "DHIL",
+   "name": "Diamond Hill Investment Group, Inc. - Class A Common Stock",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "DHIL"
+  },
+  {
+   "symbol": "NUMI",
+   "name": "Numinus Wellness Inc.",
+   "exchange": "TSX",
+   "yahoo_symbol": "NUMI.TO",
+   "instruments": [
+    {
+     "name": "Numinus Wellness J",
+     "symbol": "NUMI"
+    }
+   ]
+  },
+  {
+   "symbol": "DHY.V",
+   "name": "Credit Suisse High Yield Credit Fund Rights (expiring May 14, 2026) Rights when issued",
+   "exchange": "NYSE MKT",
+   "yahoo_symbol": "DHY.V"
+  }
+ ]
+}
