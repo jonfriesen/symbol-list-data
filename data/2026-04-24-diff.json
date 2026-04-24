@@ -1,0 +1,150 @@
+{
+ "added": [
+  {
+   "symbol": "MACK",
+   "name": "Mackay Gold \u0026 Silver Corp.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "MACK.V",
+   "instruments": [
+    {
+     "name": "Mackay Gold \u0026 Silver Corp.",
+     "symbol": "MACK"
+    }
+   ]
+  },
+  {
+   "symbol": "MMET",
+   "name": "Miata Metals Corp.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "MMET.V",
+   "instruments": [
+    {
+     "name": "Miata Metals Corp.",
+     "symbol": "MMET"
+    }
+   ]
+  },
+  {
+   "symbol": "BAYA",
+   "name": "Bayview Acquisition Corp - Ordinary Share",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "BAYA"
+  },
+  {
+   "symbol": "BAYAR",
+   "name": "Bayview Acquisition Corp - Right",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "BAYAR"
+  },
+  {
+   "symbol": "BAYAU",
+   "name": "Bayview Acquisition Corp - Unit",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "BAYAU"
+  },
+  {
+   "symbol": "ELMT",
+   "name": "The Elmet Group Co. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "ELMT"
+  },
+  {
+   "symbol": "LABT",
+   "name": "Lakewood-Amedex Biotherapeutics Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "LABT"
+  },
+  {
+   "symbol": "EFOR",
+   "name": "Everforth, Inc. Common Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "EFOR"
+  },
+  {
+   "symbol": "KCA.U",
+   "name": "Kensington Capital Acquisition Corp. VI New Units, each consisting of one Class A Ordinary Share and three-quarters of one Class 2 Redeemable Warrant",
+   "exchange": "NYSE",
+   "yahoo_symbol": "KCA.U"
+  },
+  {
+   "symbol": "KCAC.W",
+   "name": "Kensington Capital Acquisition Corp. VI Class 1 redeemable warrants, each exercisable for one Class A ordinary share at an exercise price of $11.50",
+   "exchange": "NYSE",
+   "yahoo_symbol": "KCAC.W"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "DVX.P",
+   "name": "Drummond Ventures Corp.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "DVX.P.V",
+   "instruments": [
+    {
+     "name": "Drummond Ventures Corp.",
+     "symbol": "DVX.P"
+    }
+   ]
+  },
+  {
+   "symbol": "BAYAR",
+   "name": "Bayview Acquisition Corp - Right",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "BAYAR"
+  },
+  {
+   "symbol": "QVCGP",
+   "name": "QVC Group, Inc. - 8.0% Fixed Rate Cumulative Redeemable Preferred Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "QVCGP"
+  },
+  {
+   "symbol": "LAYS",
+   "name": "STKd 100% NVDA \u0026 100% AMD ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "LAYS"
+  },
+  {
+   "symbol": "QVCGA",
+   "name": "QVC Group, Inc. - Series A Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "QVCGA"
+  },
+  {
+   "symbol": "PRIF$J",
+   "name": "Priority Income Fund, Inc. 6.000% Series J Term Preferred Stock due 2028",
+   "exchange": "NYSE",
+   "yahoo_symbol": "PRIF$J"
+  },
+  {
+   "symbol": "DBSC",
+   "name": "Deepwater Beachfront Small Cap ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "DBSC"
+  },
+  {
+   "symbol": "ASGN",
+   "name": "ASGN Incorporated Common Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "ASGN"
+  },
+  {
+   "symbol": "DAWN",
+   "name": "Day One Biopharmaceuticals, Inc. - Common Stock",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "DAWN"
+  },
+  {
+   "symbol": "BAYAU",
+   "name": "Bayview Acquisition Corp - Unit",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "BAYAU"
+  },
+  {
+   "symbol": "BAYA",
+   "name": "Bayview Acquisition Corp - Ordinary Share",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "BAYA"
+  }
+ ]
+}
