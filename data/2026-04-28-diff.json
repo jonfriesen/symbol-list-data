@@ -1,0 +1,132 @@
+{
+ "added": [
+  {
+   "symbol": "MBAP",
+   "name": "Manulife Balanced ETF Portfolio",
+   "exchange": "TSX",
+   "yahoo_symbol": "MBAP.TO",
+   "instruments": [
+    {
+     "name": "Manulife Balnce Port",
+     "symbol": "MBAP"
+    }
+   ]
+  },
+  {
+   "symbol": "MCAP",
+   "name": "Manulife Conservative ETF Portfolio",
+   "exchange": "TSX",
+   "yahoo_symbol": "MCAP.TO",
+   "instruments": [
+    {
+     "name": "Manulife Cons Portfo",
+     "symbol": "MCAP"
+    }
+   ]
+  },
+  {
+   "symbol": "MGAP",
+   "name": "Manulife Growth ETF Portfolio",
+   "exchange": "TSX",
+   "yahoo_symbol": "MGAP.TO",
+   "instruments": [
+    {
+     "name": "Manulife Growth Port",
+     "symbol": "MGAP"
+    }
+   ]
+  },
+  {
+   "symbol": "VBIO",
+   "name": "Valion Bio, Inc. - Common stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "VBIO"
+  },
+  {
+   "symbol": "VIVK",
+   "name": "Vivakor, Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "VIVK"
+  },
+  {
+   "symbol": "PLUN.U",
+   "name": "Plutonian Acquisition Corp II Units, each consisting of one Class A Ordinary Share and one right entitling the holder to one-fourth of one Class A Ordinary Share",
+   "exchange": "NYSE",
+   "yahoo_symbol": "PLUN.U"
+  },
+  {
+   "symbol": "SF",
+   "name": "Safi Silver Corp.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "SF.V",
+   "instruments": [
+    {
+     "name": "Safi Silver Corp.",
+     "symbol": "SF"
+    }
+   ]
+  },
+  {
+   "symbol": "PAIN",
+   "name": "Vector Science and Therapeutics Corp.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "PAIN.V",
+   "instruments": [
+    {
+     "name": "Vector Science and Therapeutics Corp.",
+     "symbol": "PAIN"
+    }
+   ]
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "SEMR",
+   "name": "SEMrush Holdings, Inc. Class A Common Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "SEMR"
+  },
+  {
+   "symbol": "TIVC",
+   "name": "Tivic Health Systems, Inc. - Common stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "TIVC"
+  },
+  {
+   "symbol": "FOLD",
+   "name": "Amicus Therapeutics, Inc. - Common Stock",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "FOLD"
+  },
+  {
+   "symbol": "OPEN.P",
+   "name": "OpenSesame Acquisition Corp.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "OPEN.P.V",
+   "instruments": [
+    {
+     "name": "OpenSesame Acquisition Corp.",
+     "symbol": "OPEN.P"
+    }
+   ]
+  },
+  {
+   "symbol": "TM",
+   "name": "Trigon Metals Inc.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "TM.V",
+   "instruments": [
+    {
+     "name": "Trigon Metals Inc.",
+     "symbol": "TM"
+    }
+   ]
+  },
+  {
+   "symbol": "ZSPC",
+   "name": "zSpace, Inc. - Common stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "ZSPC"
+  }
+ ]
+}
