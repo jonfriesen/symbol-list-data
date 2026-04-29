@@ -1,0 +1,150 @@
+{
+ "added": [
+  {
+   "symbol": "ECN.DB.A",
+   "name": "ECN Capital Corp.",
+   "exchange": "TSX",
+   "yahoo_symbol": "ECN.DB.A.TO",
+   "instruments": [
+    {
+     "name": "ECN Capital 6% Deb",
+     "symbol": "ECN.DB.A"
+    },
+    {
+     "name": "ECN Capital 6.25 Deb",
+     "symbol": "ECN.DB.B"
+    },
+    {
+     "name": "ECN Capital 6.5% Deb",
+     "symbol": "ECN.DB.C"
+    }
+   ]
+  },
+  {
+   "symbol": "ORBX",
+   "name": "Global X Space Tech Index ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "ORBX.TO",
+   "instruments": [
+    {
+     "name": "Global X Spc Tch Ind",
+     "symbol": "ORBX"
+    }
+   ]
+  },
+  {
+   "symbol": "AIFC",
+   "name": "AI Financial Corporation - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "AIFC"
+  },
+  {
+   "symbol": "CRY",
+   "name": "GraniteShares YieldBOOST CRCL ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "CRY"
+  },
+  {
+   "symbol": "CXIIU",
+   "name": "Churchill Capital Corp XII - Units",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "CXIIU"
+  },
+  {
+   "symbol": "FABC",
+   "name": "Fabric.AI, Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "FABC"
+  },
+  {
+   "symbol": "GLNDW",
+   "name": "Greenland Energy Company - Warrant",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "GLNDW"
+  },
+  {
+   "symbol": "IACQU",
+   "name": "Irenic Acquisition Corp. - Unit",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "IACQU"
+  },
+  {
+   "symbol": "WRTH",
+   "name": "Worth Charting Options Income ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "WRTH"
+  },
+  {
+   "symbol": "XEY",
+   "name": "GraniteShares YieldBOOST Ether ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "XEY"
+  },
+  {
+   "symbol": "PS",
+   "name": "Pershing Square Inc. Common Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "PS"
+  },
+  {
+   "symbol": "PSUS",
+   "name": "Pershing Square USA, Ltd. Common Shares",
+   "exchange": "NYSE",
+   "yahoo_symbol": "PSUS"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "ALTS",
+   "name": "ALT5 Sigma Corporation - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "ALTS"
+  },
+  {
+   "symbol": "ECN",
+   "name": "ECN Capital Corp.",
+   "exchange": "TSX",
+   "yahoo_symbol": "ECN.TO",
+   "instruments": [
+    {
+     "name": "ECN Capital Corp.",
+     "symbol": "ECN"
+    },
+    {
+     "name": "ECN Capital 6% Deb",
+     "symbol": "ECN.DB.A"
+    },
+    {
+     "name": "ECN Capital 6.25 Deb",
+     "symbol": "ECN.DB.B"
+    },
+    {
+     "name": "ECN Capital 6.5% Deb",
+     "symbol": "ECN.DB.C"
+    },
+    {
+     "name": "ECN Capital 6.25% Pr",
+     "symbol": "ECN.PR.C"
+    }
+   ]
+  },
+  {
+   "symbol": "SBLX",
+   "name": "StableX Technologies, Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "SBLX"
+  },
+  {
+   "symbol": "ACLX",
+   "name": "Arcellx, Inc. - Common Stock",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "ACLX"
+  },
+  {
+   "symbol": "OCCIO",
+   "name": "OFS Credit Company, Inc. - 6.125% Series C Term Preferred Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "OCCIO"
+  }
+ ]
+}

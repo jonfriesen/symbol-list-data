@@ -1,0 +1,140 @@
+{
+ "added": [
+  {
+   "symbol": "VNQON",
+   "name": "Vanguard Real Estate ETF (Ondo Tokenized) (VNQON)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "GLTRON",
+   "name": "abrdn Physical Precious Metals Basket Shares ETF (Ondo Tokenized) (GLTRON)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "IBITON",
+   "name": "iShares Bitcoin Trust (Ondo Tokenized) (IBITON)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "G",
+   "name": "Gravity (G)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "PAVEON",
+   "name": "Global X US Infrastructure Development ETF (Ondo Tokenized) (PAVEON)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "EXODON",
+   "name": "Exodus Movement (Ondo Tokenized) (EXODON)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "QUBTON",
+   "name": "Quantum Computing (Ondo Tokenized) (QUBTON)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "KWEBON",
+   "name": "KraneShares CSI China Internet ETF (Ondo Tokenized) (KWEBON)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "FFOGON",
+   "name": "Franklin Focused Growth ETF (Ondo Tokenized) (FFOGON)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "RDWON",
+   "name": "Redwire (Ondo Tokenized) (RDWON)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "TRADIX",
+   "name": "Tradix (TRADIX)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "WDCON",
+   "name": "Western Digital (Ondo Tokenized) (WDCON)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "UNPON",
+   "name": "Union Pacific Corporation (Ondo Tokenized) (UNPON)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "OIHON",
+   "name": "VanEck Oil Services ETF (Ondo Tokenized) (OIHON)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "NEMON",
+   "name": "Newmont (Ondo Tokenized) (NEMON)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "WMON",
+   "name": "Waste Management (Ondo Tokenized) (WMON)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "URAON",
+   "name": "Global X Uranium ETF (Ondo Tokenized) (URAON)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "CBBTC",
+   "name": "Coinbase Wrapped BTC (CBBTC)",
+   "built_on": "BASE"
+  },
+  {
+   "symbol": "UNGON",
+   "name": "US Natural Gas Fund (Ondo Tokenized) (UNGON)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "SNDKON",
+   "name": "SanDisk (Ondo Tokenized) (SNDKON)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "RKLBON",
+   "name": "Rocket Lab (Ondo Tokenized) (RKLBON)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "SHYON",
+   "name": "iShares 1-3 Year Treasury Bond ETF (Ondo Tokenized) (SHYON)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "D",
+   "name": "Dar Open Network (D)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "UECON",
+   "name": "Uranium Energy (Ondo Tokenized) (UECON)",
+   "built_on": "ETH"
+  },
+  {
+   "symbol": "TX",
+   "name": "tx (TX)"
+  },
+  {
+   "symbol": "PPLTON",
+   "name": "abrdn Physical Platinum Shares ETF (Ondo Tokenized) (PPLTON)",
+   "built_on": "ETH"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "TX",
+   "name": "Tradix (TX)",
+   "built_on": "ETH"
+  }
+ ]
+}
