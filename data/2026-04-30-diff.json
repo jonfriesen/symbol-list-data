@@ -1,0 +1,164 @@
+{
+ "added": [
+  {
+   "symbol": "LALI",
+   "name": "Latam Lithium Corp.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "LALI.V",
+   "instruments": [
+    {
+     "name": "Latam Lithium Corp.",
+     "symbol": "LALI"
+    }
+   ]
+  },
+  {
+   "symbol": "PAVE",
+   "name": "Global X U.S. Infrastructure Development Index ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "PAVE.TO",
+   "instruments": [
+    {
+     "name": "Glbl X US Infr Dev C",
+     "symbol": "PAVE"
+    },
+    {
+     "name": "Glbl X US Infr Dev U",
+     "symbol": "PAVE.U"
+    }
+   ]
+  },
+  {
+   "symbol": "LMCU",
+   "name": "Lumina Metals Corp.",
+   "exchange": "TSX",
+   "yahoo_symbol": "LMCU.TO",
+   "instruments": [
+    {
+     "name": "Lumina Metals Corp",
+     "symbol": "LMCU"
+    }
+   ]
+  },
+  {
+   "symbol": "GASX",
+   "name": "NG Energy International Corp.",
+   "exchange": "TSX",
+   "yahoo_symbol": "GASX.TO",
+   "instruments": [
+    {
+     "name": "NG Energy Int Corp S",
+     "symbol": "GASX"
+    },
+    {
+     "name": "NG Energy Int Corp D",
+     "symbol": "GASX.DB"
+    },
+    {
+     "name": "NG Energy Int Corp W",
+     "symbol": "GASX.WT.A"
+    }
+   ]
+  },
+  {
+   "symbol": "BGDE",
+   "name": "Big Digital Energy, Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "BGDE"
+  },
+  {
+   "symbol": "CAIIU",
+   "name": "Collective Acquisition Corp. II - Units",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "CAIIU"
+  },
+  {
+   "symbol": "QXL",
+   "name": "Quantum X Labs Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "QXL"
+  },
+  {
+   "symbol": "UFOX",
+   "name": "Defiance Connective Technologies ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "UFOX"
+  },
+  {
+   "symbol": "SBMT",
+   "name": "Silver Bow Mining Corp. Common Shares",
+   "exchange": "NYSE MKT",
+   "yahoo_symbol": "SBMT"
+  },
+  {
+   "symbol": "WENC.U",
+   "name": "West Enclave Merger Corp. Units, each consisting of one Ordinary Share and one Right to acquire one-tenth (1/10) of one Ordinary Share",
+   "exchange": "NYSE",
+   "yahoo_symbol": "WENC.U"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "SIXG",
+   "name": "Defiance Connective Technologies ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "SIXG"
+  },
+  {
+   "symbol": "NXG.R",
+   "name": "NXG NextGen Infrastructure Income Fund Rights (expiring April 30, 2026) Rights",
+   "exchange": "NYSE",
+   "yahoo_symbol": "NXG.R"
+  },
+  {
+   "symbol": "EM",
+   "name": "Smart Share Global Limited - American Depositary Shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "EM"
+  },
+  {
+   "symbol": "POR",
+   "name": "Portofino Resources Inc.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "POR.V",
+   "instruments": [
+    {
+     "name": "Portofino Resources Inc.",
+     "symbol": "POR"
+    }
+   ]
+  },
+  {
+   "symbol": "VBIX",
+   "name": "Viewbix Inc. - Common Stock ",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "VBIX"
+  },
+  {
+   "symbol": "GASX",
+   "name": "NG Energy International Corp.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "GASX.V",
+   "instruments": [
+    {
+     "name": "NG Energy International Corp.",
+     "symbol": "GASX"
+    },
+    {
+     "name": "NG Energy International Corp. db 20May2027",
+     "symbol": "GASX.DB"
+    },
+    {
+     "name": "NG Energy International Corp. wt 20May2027",
+     "symbol": "GASX.WT.A"
+    }
+   ]
+  },
+  {
+   "symbol": "MIGI",
+   "name": "Big Digital Energy, Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "MIGI"
+  }
+ ]
+}
