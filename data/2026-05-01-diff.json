@@ -1,0 +1,150 @@
+{
+ "added": [
+  {
+   "symbol": "ARCLU",
+   "name": "ARC Group Acquisition I Corp - Unit",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "ARCLU"
+  },
+  {
+   "symbol": "AVLN",
+   "name": "Avalyn Pharma Inc. - common stock",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "AVLN"
+  },
+  {
+   "symbol": "DYNC",
+   "name": "Dynamix Corporation - Class A Ordinary Share",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "DYNC"
+  },
+  {
+   "symbol": "DYNCU",
+   "name": "Dynamix Corporation - Unit",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "DYNCU"
+  },
+  {
+   "symbol": "DYNCW",
+   "name": "Dynamix Corporation - Warrant",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "DYNCW"
+  },
+  {
+   "symbol": "FTHAU",
+   "name": "Forefront Tech Holdings Acquisition Corp - Unit",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "FTHAU"
+  },
+  {
+   "symbol": "GCGRU",
+   "name": "General Catalyst Global Resilience Merger Corp. - Units",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "GCGRU"
+  },
+  {
+   "symbol": "MCAHU",
+   "name": "Mountain Crest Acquisition 6 Corp. - Units",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "MCAHU"
+  },
+  {
+   "symbol": "RREVU",
+   "name": "RRE Ventures Acquisition Corp. - Units",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "RREVU"
+  },
+  {
+   "symbol": "TXXH",
+   "name": "21Shares 2x Long HYPE ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "TXXH"
+  },
+  {
+   "symbol": "MTNE.U",
+   "name": "CH4 Natural Solutions Corporation Units, each consisting of one Class A ordinary share and one-half of one Warrant",
+   "exchange": "NYSE",
+   "yahoo_symbol": "MTNE.U"
+  },
+  {
+   "symbol": "QLEP.U",
+   "name": "Quantum Leap Acquisition Corp Units, each consisting of one Class A ordinary share and one redeemable warrant",
+   "exchange": "NYSE",
+   "yahoo_symbol": "QLEP.U"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "ETHMU",
+   "name": "Dynamix Corporation - Unit",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "ETHMU"
+  },
+  {
+   "symbol": "KLM",
+   "name": "Kermode Resources Ltd.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "KLM.V",
+   "instruments": [
+    {
+     "name": "Kermode Resources Ltd.",
+     "symbol": "KLM"
+    }
+   ]
+  },
+  {
+   "symbol": "GDEN",
+   "name": "Golden Entertainment, Inc. - Common Stock",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "GDEN"
+  },
+  {
+   "symbol": "ETHM",
+   "name": "Dynamix Corporation - Class A Ordinary Share",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "ETHM"
+  },
+  {
+   "symbol": "CWEN.A",
+   "name": "Clearway Energy, Inc. Class A Common Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "CWEN.A"
+  },
+  {
+   "symbol": "LNKB",
+   "name": "LINKBANCORP, Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "LNKB"
+  },
+  {
+   "symbol": "MAXN",
+   "name": "Maxeon Solar Technologies, Ltd. - Ordinary Shares",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "MAXN"
+  },
+  {
+   "symbol": "ETHMW",
+   "name": "Dynamix Corporation - Warrant",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "ETHMW"
+  },
+  {
+   "symbol": "FHN$C",
+   "name": "First Horizon Corporation Depositary Shares, each representing a 1/400th interest in a share of Non-Cumulative Perpetual Preferred Stock, Series C",
+   "exchange": "NYSE",
+   "yahoo_symbol": "FHN$C"
+  },
+  {
+   "symbol": "ESHAR",
+   "name": "ESH Acquisition Corp. - Right",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "ESHAR"
+  },
+  {
+   "symbol": "ESHA",
+   "name": "ESH Acquisition Corp. - Class A Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "ESHA"
+  }
+ ]
+}
