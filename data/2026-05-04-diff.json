@@ -1,0 +1,78 @@
+{
+ "added": [
+  {
+   "symbol": "VMAR",
+   "name": "Vision Marine Technologies Inc",
+   "exchange": "TSXV",
+   "yahoo_symbol": "VMAR.V",
+   "instruments": [
+    {
+     "name": "Vision Marine Technologies Inc.",
+     "symbol": "VMAR"
+    }
+   ]
+  },
+  {
+   "symbol": "JPQH",
+   "name": "JPMorgan Nasdaq Equity Premium Income Active ETF - CAD Hedged",
+   "exchange": "TSX",
+   "yahoo_symbol": "JPQH.TO",
+   "instruments": [
+    {
+     "name": "JPMorgan NSDQ Eq C H",
+     "symbol": "JPQH"
+    }
+   ]
+  },
+  {
+   "symbol": "JEPH",
+   "name": "JPMorgan US Equity Premium Income Active ETF - CAD Hedged",
+   "exchange": "TSX",
+   "yahoo_symbol": "JEPH.TO",
+   "instruments": [
+    {
+     "name": "JPMorgan US Eq P C H",
+     "symbol": "JEPH"
+    }
+   ]
+  },
+  {
+   "symbol": "AMA",
+   "name": "Defiance Daily Target 2X Long AMAT ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "AMA"
+  },
+  {
+   "symbol": "COAG",
+   "name": "Hemab Therapeutics Holdings, Inc. - Common Stock",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "COAG"
+  },
+  {
+   "symbol": "SPTX",
+   "name": "Seaport Therapeutics, Inc. - Common Stock",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "SPTX"
+  },
+  {
+   "symbol": "ONT",
+   "name": "Onterris, Inc. Common Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "ONT"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "STKL",
+   "name": "SunOpta, Inc. - Common Stock",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "STKL"
+  },
+  {
+   "symbol": "MEG",
+   "name": "Montrose Environmental Group, Inc. Common Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "MEG"
+  }
+ ]
+}
