@@ -1,0 +1,84 @@
+{
+ "added": [
+  {
+   "symbol": "TRCG",
+   "name": "Thistle Resources Inc.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "TRCG.V",
+   "instruments": [
+    {
+     "name": "Thistle Resources Inc.",
+     "symbol": "TRCG"
+    }
+   ]
+  },
+  {
+   "symbol": "AYA",
+   "name": "Aya Gold \u0026 Silver Inc. - Common Shares",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "AYA"
+  },
+  {
+   "symbol": "CHRN",
+   "name": "ChronoScale Corporation - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "CHRN"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "UHGWW",
+   "name": "United Homes Group, Inc - Warrant",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "UHGWW"
+  },
+  {
+   "symbol": "GAINN",
+   "name": "Gladstone Investment Corporation - 5.00% Notes Due 2026",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "GAINN"
+  },
+  {
+   "symbol": "UHG",
+   "name": "United Homes Group, Inc - Class A Common Stock",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "UHG"
+  },
+  {
+   "symbol": "SGMO",
+   "name": "Sangamo Therapeutics, Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "SGMO"
+  },
+  {
+   "symbol": "ERE.UN",
+   "name": "European Residential Real Estate Investment Trust",
+   "exchange": "TSX",
+   "yahoo_symbol": "ERE.UN.TO",
+   "instruments": [
+    {
+     "name": "European Res REIT Un",
+     "symbol": "ERE.UN"
+    }
+   ]
+  },
+  {
+   "symbol": "EKSO",
+   "name": "Ekso Bionics Holdings, Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "EKSO"
+  },
+  {
+   "symbol": "SDCI.P",
+   "name": "St. Davids Capital Inc.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "SDCI.P.V",
+   "instruments": [
+    {
+     "name": "St. Davids Capital Inc.",
+     "symbol": "SDCI.P"
+    }
+   ]
+  }
+ ]
+}
