@@ -1,0 +1,132 @@
+{
+ "added": [
+  {
+   "symbol": "SMCD.P",
+   "name": "SCD Capital Corp.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "SMCD.P.V",
+   "instruments": [
+    {
+     "name": "SCD Capital Corp.",
+     "symbol": "SMCD.P"
+    }
+   ]
+  },
+  {
+   "symbol": "BIOY",
+   "name": "GraniteShares YieldBOOST Biotech ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "BIOY"
+  },
+  {
+   "symbol": "DINE",
+   "name": "Simplify Tax Aware Diversified Income Strategy ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "DINE"
+  },
+  {
+   "symbol": "FINY",
+   "name": "GraniteShares YieldBOOST Financials ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "FINY"
+  },
+  {
+   "symbol": "FIYY",
+   "name": "GraniteShares YieldBOOST 20Y Treasuries ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "FIYY"
+  },
+  {
+   "symbol": "LQ",
+   "name": "Simplify Tax Aware Alternatives ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "LQ"
+  },
+  {
+   "symbol": "MYPS",
+   "name": "PLAYSTUDIOS, Inc.  - Class A Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "MYPS"
+  },
+  {
+   "symbol": "MYPSW",
+   "name": "PLAYSTUDIOS, Inc.  - Warrant",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "MYPSW"
+  },
+  {
+   "symbol": "PONO",
+   "name": "Pono Capital Four, Inc. - Class A Ordinary Shares",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "PONO"
+  },
+  {
+   "symbol": "PONOR",
+   "name": "Pono Capital Four, Inc. - Rights",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "PONOR"
+  },
+  {
+   "symbol": "TECY",
+   "name": "GraniteShares YieldBOOST Technology ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "TECY"
+  },
+  {
+   "symbol": "REA",
+   "name": "Rare Earths Americas, Inc. Common Stock",
+   "exchange": "NYSE MKT",
+   "yahoo_symbol": "REA"
+  },
+  {
+   "symbol": "VECA.U",
+   "name": "Vernal Capital Acquisition Corp. Units, each consisting of one ordinary share and one right",
+   "exchange": "NYSE",
+   "yahoo_symbol": "VECA.U"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "TERN",
+   "name": "Terns Pharmaceuticals, Inc. - Common Stock",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "TERN"
+  },
+  {
+   "symbol": "SOY",
+   "name": "SunOpta, Inc.",
+   "exchange": "TSX",
+   "yahoo_symbol": "SOY.TO",
+   "instruments": [
+    {
+     "name": "SunOpta, Inc.",
+     "symbol": "SOY"
+    }
+   ]
+  },
+  {
+   "symbol": "MYPS",
+   "name": "PLAYSTUDIOS, Inc.  - Class A Common Stock",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "MYPS"
+  },
+  {
+   "symbol": "FARM",
+   "name": "Farmer Brothers Company - Common Stock",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "FARM"
+  },
+  {
+   "symbol": "MYPSW",
+   "name": "PLAYSTUDIOS, Inc.  - Warrant",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "MYPSW"
+  },
+  {
+   "symbol": "PKST",
+   "name": "Peakstone Realty Trust Common Shares",
+   "exchange": "NYSE",
+   "yahoo_symbol": "PKST"
+  }
+ ]
+}
