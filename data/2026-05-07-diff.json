@@ -1,0 +1,282 @@
+{
+ "added": [
+  {
+   "symbol": "APH",
+   "name": "Amphenol CDR (CAD Hedged)",
+   "exchange": "TSX",
+   "yahoo_symbol": "APH.TO",
+   "instruments": [
+    {
+     "name": "Amphnl CDR CAD Hdg",
+     "symbol": "APH"
+    }
+   ]
+  },
+  {
+   "symbol": "CRWV",
+   "name": "CoreWeave CDR (CAD Hedged)",
+   "exchange": "TSX",
+   "yahoo_symbol": "CRWV.TO",
+   "instruments": [
+    {
+     "name": "CoreWeave CDR CAD Hd",
+     "symbol": "CRWV"
+    }
+   ]
+  },
+  {
+   "symbol": "DHI",
+   "name": "D.R. Horton CDR (CAD Hedged)",
+   "exchange": "TSX",
+   "yahoo_symbol": "DHI.TO",
+   "instruments": [
+    {
+     "name": "DR Hortn CDR CAD Hdg",
+     "symbol": "DHI"
+    }
+   ]
+  },
+  {
+   "symbol": "FCXS",
+   "name": "Freeport-McMoRan CDR (CAD Hedged",
+   "exchange": "TSX",
+   "yahoo_symbol": "FCXS.TO",
+   "instruments": [
+    {
+     "name": "Freeport MMoRan CDR",
+     "symbol": "FCXS"
+    }
+   ]
+  },
+  {
+   "symbol": "INTU",
+   "name": "Intuit CDR (CAD Hedged)",
+   "exchange": "TSX",
+   "yahoo_symbol": "INTU.TO",
+   "instruments": [
+    {
+     "name": "Intuit CDR CAD Hgd",
+     "symbol": "INTU"
+    }
+   ]
+  },
+  {
+   "symbol": "KLAC",
+   "name": "KLA CDR (CAD Hedged)",
+   "exchange": "TSX",
+   "yahoo_symbol": "KLAC.TO",
+   "instruments": [
+    {
+     "name": "KLA CDR CAD Hdg",
+     "symbol": "KLAC"
+    }
+   ]
+  },
+  {
+   "symbol": "LRCX",
+   "name": "Lam Research CDR (CAD Hedged)",
+   "exchange": "TSX",
+   "yahoo_symbol": "LRCX.TO",
+   "instruments": [
+    {
+     "name": "Lam Res CDR CAD Hdg",
+     "symbol": "LRCX"
+    }
+   ]
+  },
+  {
+   "symbol": "MRV",
+   "name": "Marvell Technology CDR (CAD Hedged)",
+   "exchange": "TSX",
+   "yahoo_symbol": "MRV.TO",
+   "instruments": [
+    {
+     "name": "Marvll Tech CDR Hdg",
+     "symbol": "MRV"
+    }
+   ]
+  },
+  {
+   "symbol": "NOC",
+   "name": "Northrop Grumman CDR (CAD Hedged)",
+   "exchange": "TSX",
+   "yahoo_symbol": "NOC.TO",
+   "instruments": [
+    {
+     "name": "Northrp Grmn CDR Hdg",
+     "symbol": "NOC"
+    }
+   ]
+  },
+  {
+   "symbol": "PWRS",
+   "name": "Quanta Services CDR (CAD Hedged)",
+   "exchange": "TSX",
+   "yahoo_symbol": "PWRS.TO",
+   "instruments": [
+    {
+     "name": "Quanta Svc CDR Hdg",
+     "symbol": "PWRS"
+    }
+   ]
+  },
+  {
+   "symbol": "SNDK",
+   "name": "Sandisk CDR (CAD Hedged)",
+   "exchange": "TSX",
+   "yahoo_symbol": "SNDK.TO",
+   "instruments": [
+    {
+     "name": "Sandisk CDR CAD Hgd",
+     "symbol": "SNDK"
+    }
+   ]
+  },
+  {
+   "symbol": "SYK",
+   "name": "Stryker CDR (CAD Hedged)",
+   "exchange": "TSX",
+   "yahoo_symbol": "SYK.TO",
+   "instruments": [
+    {
+     "name": "Stryker CDR CAD Hgd",
+     "symbol": "SYK"
+    }
+   ]
+  },
+  {
+   "symbol": "TMUS",
+   "name": "T-Mobile CDR (CAD Hedged)",
+   "exchange": "TSX",
+   "yahoo_symbol": "TMUS.TO",
+   "instruments": [
+    {
+     "name": "T Mobile CDR CAD Hdg",
+     "symbol": "TMUS"
+    }
+   ]
+  },
+  {
+   "symbol": "VRT",
+   "name": "Vertiv CDR (CAD Hedged)",
+   "exchange": "TSX",
+   "yahoo_symbol": "VRT.TO",
+   "instruments": [
+    {
+     "name": "Vertiv CDR CAD Hdg",
+     "symbol": "VRT"
+    }
+   ]
+  },
+  {
+   "symbol": "WDC",
+   "name": "Western Digital CDR (CAD Hedged)",
+   "exchange": "TSX",
+   "yahoo_symbol": "WDC.TO",
+   "instruments": [
+    {
+     "name": "Western Dgtl CDR Hd",
+     "symbol": "WDC"
+    }
+   ]
+  },
+  {
+   "symbol": "ABC",
+   "name": "Absolutely Critical Resources Corp.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "ABC.V",
+   "instruments": [
+    {
+     "name": "Absolutely Critical Resources Corp.",
+     "symbol": "ABC"
+    }
+   ]
+  },
+  {
+   "symbol": "MANU",
+   "name": "Manhattan Uranium Discovery Corp.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "MANU.V",
+   "instruments": [
+    {
+     "name": "Manhattan Uranium Discovery Corp.",
+     "symbol": "MANU"
+    }
+   ]
+  },
+  {
+   "symbol": "DUSG",
+   "name": "U.S. Small Cap Growth Portfolio: ETF Class Shares",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "DUSG"
+  },
+  {
+   "symbol": "HAWK",
+   "name": "HawkEye 360, Inc. Common Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "HAWK"
+  },
+  {
+   "symbol": "QRED",
+   "name": "QuasarEdge Acquisition Corporation Ordinary Shares",
+   "exchange": "NYSE",
+   "yahoo_symbol": "QRED"
+  },
+  {
+   "symbol": "QRED.R",
+   "name": "QuasarEdge Acquisition Corporation Rights to receive one-fourth (1/4) of one Ordinary Share",
+   "exchange": "NYSE",
+   "yahoo_symbol": "QRED.R"
+  },
+  {
+   "symbol": "SAGU.U",
+   "name": "Shreya Acquisition Group Units, each consisting of one Class A Ordinary Share, one redeemable warrant and one right entitling the holder to one-fourth of one Class A Ordinary Share",
+   "exchange": "NYSE",
+   "yahoo_symbol": "SAGU.U"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "AERO",
+   "name": "Aero Energy Limited",
+   "exchange": "TSXV",
+   "yahoo_symbol": "AERO.V",
+   "instruments": [
+    {
+     "name": "Aero Energy Limited",
+     "symbol": "AERO"
+    }
+   ]
+  },
+  {
+   "symbol": "CUK",
+   "name": "Carnival Plc ADS ADS",
+   "exchange": "NYSE",
+   "yahoo_symbol": "CUK"
+  },
+  {
+   "symbol": "CTRA",
+   "name": "Coterra Energy Inc. Common Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "CTRA"
+  },
+  {
+   "symbol": "SRTAW",
+   "name": "Strata Critical Medical, Inc. - Warrants",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "SRTAW"
+  },
+  {
+   "symbol": "AFR",
+   "name": "AFR NuVenture Resources Inc.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "AFR.V",
+   "instruments": [
+    {
+     "name": "AFR NuVenture Resources Inc.",
+     "symbol": "AFR"
+    }
+   ]
+  }
+ ]
+}
