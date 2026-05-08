@@ -1,0 +1,156 @@
+{
+ "added": [
+  {
+   "symbol": "AGNT",
+   "name": "eXp World Holdings, Inc. - Common Stock",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "AGNT"
+  },
+  {
+   "symbol": "BTOC",
+   "name": "Armlogi Holding Corp. - common stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "BTOC"
+  },
+  {
+   "symbol": "LKFT",
+   "name": "Lakefront Biotherapeutics - American Depositary Shares",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "LKFT"
+  },
+  {
+   "symbol": "SUJA",
+   "name": "Suja Life, Inc. - Class A Common Stock",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "SUJA"
+  },
+  {
+   "symbol": "TCAN",
+   "name": "21Shares Canton Network ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "TCAN"
+  },
+  {
+   "symbol": "WARP",
+   "name": "VanEck Space ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "WARP"
+  },
+  {
+   "symbol": "ENHA",
+   "name": "Enhanced Group Inc. Class A Common Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "ENHA"
+  },
+  {
+   "symbol": "OTAI.U",
+   "name": "Starlink AI Acquisition Corporation Units, each consisting of one Ordinary Share, and one Right to receive one-fourth (1/4) of one ordinary share",
+   "exchange": "NYSE",
+   "yahoo_symbol": "OTAI.U"
+  },
+  {
+   "symbol": "AIQ",
+   "name": "Global X Artificial Intelligence \u0026 Technology Index ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "AIQ.TO",
+   "instruments": [
+    {
+     "name": "GlobalX AI\u0026TechInd A",
+     "symbol": "AIQ"
+    }
+   ]
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "GLPG",
+   "name": "Galapagos NV - American Depositary Shares",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "GLPG"
+  },
+  {
+   "symbol": "APADU",
+   "name": "A Paradise Acquisition Corp. - Unit",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "APADU"
+  },
+  {
+   "symbol": "SOLR",
+   "name": "Solar Alliance Energy Inc.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "SOLR.V",
+   "instruments": [
+    {
+     "name": "Solar Alliance Energy Inc.",
+     "symbol": "SOLR"
+    }
+   ]
+  },
+  {
+   "symbol": "ECCW",
+   "name": "Eagle Point Credit Company Inc. 6.75% Notes due 2031",
+   "exchange": "NYSE",
+   "yahoo_symbol": "ECCW"
+  },
+  {
+   "symbol": "ECCX",
+   "name": "Eagle Point Credit Company Inc. 6.6875% Notes due 2028",
+   "exchange": "NYSE",
+   "yahoo_symbol": "ECCX"
+  },
+  {
+   "symbol": "APAD",
+   "name": "A Paradise Acquisition Corp. - Class A Ordinary Shares",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "APAD"
+  },
+  {
+   "symbol": "APADR",
+   "name": "A Paradise Acquisition Corp. - Rights",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "APADR"
+  },
+  {
+   "symbol": "AIGO",
+   "name": "Global X Artificial Intelligence \u0026 Technology Index ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "AIGO.TO",
+   "instruments": [
+    {
+     "name": "GlobalX AI\u0026TechInd A",
+     "symbol": "AIGO"
+    }
+   ]
+  },
+  {
+   "symbol": "HAPB",
+   "name": "Hapbee Technologies, Inc.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "HAPB.V",
+   "instruments": [
+    {
+     "name": "Hapbee Technologies, Inc.",
+     "symbol": "HAPB"
+    }
+   ]
+  },
+  {
+   "symbol": "BTOC",
+   "name": "Armlogi Holding Corp. - common stock",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "BTOC"
+  },
+  {
+   "symbol": "EXPI",
+   "name": "eXp World Holdings, Inc. - Common Stock",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "EXPI"
+  },
+  {
+   "symbol": "CA",
+   "name": "Xtrackers California Municipal Bonds ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "CA"
+  }
+ ]
+}

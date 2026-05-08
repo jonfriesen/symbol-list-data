@@ -1,0 +1,72 @@
+{
+ "added": [
+  {
+   "symbol": "STAKELAYER",
+   "name": "StakeLayer (STAKELAYER)"
+  },
+  {
+   "symbol": "RIAL",
+   "name": "RIAL (RIAL)"
+  },
+  {
+   "symbol": "EQIXON",
+   "name": "Equinix (Ondo Tokenized) (EQIXON)"
+  },
+  {
+   "symbol": "ASMLON",
+   "name": "ASML Holding NV (Ondo Tokenized) (ASMLON)"
+  },
+  {
+   "symbol": "NFSTAY",
+   "name": "NFsTay (NFSTAY)"
+  },
+  {
+   "symbol": "FURIESMYSTERY",
+   "name": "Mystery (FURIESMYSTERY)"
+  },
+  {
+   "symbol": "CSCOON",
+   "name": "Cisco Systems (Ondo Tokenized) (CSCOON)"
+  },
+  {
+   "symbol": "IBMON",
+   "name": "IBM (Ondo Tokenized) (IBMON)"
+  },
+  {
+   "symbol": "PEPON",
+   "name": "PepsiCo (Ondo Tokenized) (PEPON)"
+  },
+  {
+   "symbol": "JPMON",
+   "name": "JPMorgan Chase (Ondo Tokenized) (JPMON)"
+  },
+  {
+   "symbol": "HANTA",
+   "name": "HantaVirus (HANTA)"
+  },
+  {
+   "symbol": "MTONGA",
+   "name": "Make TON Great Again (MTONGA)"
+  },
+  {
+   "symbol": "FLORKBNB",
+   "name": "FLORK BNB (FLORKBNB)"
+  },
+  {
+   "symbol": "LINON",
+   "name": "Linde plc (Ondo Tokenized) (LINON)"
+  },
+  {
+   "symbol": "SKIBIDITOILET",
+   "name": "Skibidi Toilet (SKIBIDITOILET)"
+  },
+  {
+   "symbol": "PBRON",
+   "name": "Petrobras (Ondo Tokenized) (PBRON)"
+  },
+  {
+   "symbol": "ZOOMCOIN",
+   "name": "ZoomCoin (ZOOMCOIN)"
+  }
+ ]
+}
