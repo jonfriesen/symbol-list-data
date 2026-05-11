@@ -1,0 +1,262 @@
+{
+ "added": [
+  {
+   "symbol": "CMAX",
+   "name": "Hamilton Canadian Equity YIELD MAXIMIZER TM ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "CMAX.TO",
+   "instruments": [
+    {
+     "name": "Ham CDN Eq Yld Max E",
+     "symbol": "CMAX"
+    }
+   ]
+  },
+  {
+   "symbol": "IMAX",
+   "name": "Hamilton International Equity YIELD MAXIMIZER TM ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "IMAX.TO",
+   "instruments": [
+    {
+     "name": "Ham Int Eq Yld Max E",
+     "symbol": "IMAX"
+    }
+   ]
+  },
+  {
+   "symbol": "BWIV",
+   "name": "Blue Water Acquisition Corp. IV Class A Ordinary Shares",
+   "exchange": "NYSE",
+   "yahoo_symbol": "BWIV"
+  },
+  {
+   "symbol": "BWIV.W",
+   "name": "Blue Water Acquisition Corp. IV Warrants entitling the holder to purchase one Class A ordinary share at a price of $11.50 per share",
+   "exchange": "NYSE",
+   "yahoo_symbol": "BWIV.W"
+  },
+  {
+   "symbol": "AVLN",
+   "name": "Avalyn Pharma Inc. - common stock",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "AVLN"
+  },
+  {
+   "symbol": "MOBI",
+   "name": "Mobia Medical, Inc. - Common Stock",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "MOBI"
+  },
+  {
+   "symbol": "ODTX",
+   "name": "Odyssey Therapeutics, Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "ODTX"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "ALY",
+   "name": "AnalytixInsight Inc.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "ALY.V",
+   "instruments": [
+    {
+     "name": "AnalytixInsight Inc.",
+     "symbol": "ALY"
+    }
+   ]
+  },
+  {
+   "symbol": "JUMP",
+   "name": "LevelJump Healthcare Corp.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "JUMP.V",
+   "instruments": [
+    {
+     "name": "Leveljump Healthcare Corp.",
+     "symbol": "JUMP"
+    }
+   ]
+  },
+  {
+   "symbol": "RVLY",
+   "name": "Rivalry Corp.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "RVLY.V",
+   "instruments": [
+    {
+     "name": "Rivalry Corp.",
+     "symbol": "RVLY"
+    }
+   ]
+  },
+  {
+   "symbol": "AVLN",
+   "name": "Avalyn Pharma Inc. - common stock",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "AVLN"
+  },
+  {
+   "symbol": "FGGE",
+   "name": "Franklin Global Growth Fund",
+   "exchange": "TSX",
+   "yahoo_symbol": "FGGE.TO",
+   "instruments": [
+    {
+     "name": "Franklin GlbGrowFund",
+     "symbol": "FGGE"
+    }
+   ]
+  },
+  {
+   "symbol": "CTDD",
+   "name": "Qwest Corporation 6.75% Notes due 2057",
+   "exchange": "NYSE",
+   "yahoo_symbol": "CTDD"
+  },
+  {
+   "symbol": "CTLP",
+   "name": "Cantaloupe, Inc. - Common Stock",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "CTLP"
+  },
+  {
+   "symbol": "ADYA",
+   "name": "ADYA Inc.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "ADYA.V",
+   "instruments": [
+    {
+     "name": "ADYA Inc.",
+     "symbol": "ADYA"
+    }
+   ]
+  },
+  {
+   "symbol": "WATR",
+   "name": "Current Water Technologies Inc.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "WATR.V",
+   "instruments": [
+    {
+     "name": "Current Water Technologies Inc.",
+     "symbol": "WATR"
+    }
+   ]
+  },
+  {
+   "symbol": "FCSI",
+   "name": "Franklin ClearBridge International Growth Fund",
+   "exchange": "TSX",
+   "yahoo_symbol": "FCSI.TO",
+   "instruments": [
+    {
+     "name": "Frankln ClrBrdgGrwth",
+     "symbol": "FCSI"
+    }
+   ]
+  },
+  {
+   "symbol": "CCB",
+   "name": "Canada Carbon Inc.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "CCB.V",
+   "instruments": [
+    {
+     "name": "Canada Carbon Inc.",
+     "symbol": "CCB"
+    }
+   ]
+  },
+  {
+   "symbol": "MONT",
+   "name": "Montfort Capital Corp.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "MONT.V",
+   "instruments": [
+    {
+     "name": "Montfort Capital Corp.",
+     "symbol": "MONT"
+    },
+    {
+     "name": "Montfort Capital Corp. Preferred A",
+     "symbol": "MONT.PR.A"
+    }
+   ]
+  },
+  {
+   "symbol": "CTBB",
+   "name": "Qwest Corporation 6.5% Notes due 2056",
+   "exchange": "NYSE",
+   "yahoo_symbol": "CTBB"
+  },
+  {
+   "symbol": "IRS.W",
+   "name": "IRSA Inversiones Y Representaciones S.A. Warrants to purchase Common Shares",
+   "exchange": "NYSE",
+   "yahoo_symbol": "IRS.W"
+  },
+  {
+   "symbol": "EGT",
+   "name": "Eguana Technologies Inc.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "EGT.V",
+   "instruments": [
+    {
+     "name": "Eguana Technologies Inc.",
+     "symbol": "EGT"
+    }
+   ]
+  },
+  {
+   "symbol": "ZYUS",
+   "name": "ZYUS Life Sciences Corporation",
+   "exchange": "TSXV",
+   "yahoo_symbol": "ZYUS.V",
+   "instruments": [
+    {
+     "name": "ZYUS Life Sciences Corporation",
+     "symbol": "ZYUS"
+    }
+   ]
+  },
+  {
+   "symbol": "BET",
+   "name": "NorthStar Gaming Holdings Inc.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "BET.V",
+   "instruments": [
+    {
+     "name": "Northstar Gaming Holdings Inc.",
+     "symbol": "BET"
+    }
+   ]
+  },
+  {
+   "symbol": "WLAC",
+   "name": "Willow Lane Acquisition Corp. - Class A Ordinary Shares",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "WLAC"
+  },
+  {
+   "symbol": "EWCZ",
+   "name": "European Wax Center, Inc. - Class A Common Stock",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "EWCZ"
+  },
+  {
+   "symbol": "WLACW",
+   "name": "Willow Lane Acquisition Corp. - Warrants",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "WLACW"
+  },
+  {
+   "symbol": "WLACU",
+   "name": "Willow Lane Acquisition Corp. - Unit",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "WLACU"
+  }
+ ]
+}
