@@ -1,0 +1,288 @@
+{
+ "added": [
+  {
+   "symbol": "HIVE",
+   "name": "HIVE Digital Technologies Ltd.",
+   "exchange": "TSX",
+   "yahoo_symbol": "HIVE.TO",
+   "instruments": [
+    {
+     "name": "HIVE Digital Tech L",
+     "symbol": "HIVE"
+    }
+   ]
+  },
+  {
+   "symbol": "NMBL",
+   "name": "Meritage Tactical ETF Balanced Portfolio",
+   "exchange": "TSX",
+   "yahoo_symbol": "NMBL.TO",
+   "instruments": [
+    {
+     "name": "Meri Tactcl Bal Port",
+     "symbol": "NMBL"
+    }
+   ]
+  },
+  {
+   "symbol": "NMEQ",
+   "name": "Meritage Tactical ETF Equity Portfolio",
+   "exchange": "TSX",
+   "yahoo_symbol": "NMEQ.TO",
+   "instruments": [
+    {
+     "name": "Meri Tactcl Eqt Port",
+     "symbol": "NMEQ"
+    }
+   ]
+  },
+  {
+   "symbol": "NMGR",
+   "name": "Meritage Tactical ETF Growth Portfolio",
+   "exchange": "TSX",
+   "yahoo_symbol": "NMGR.TO",
+   "instruments": [
+    {
+     "name": "Meri Tactcl Grwth Po",
+     "symbol": "NMGR"
+    }
+   ]
+  },
+  {
+   "symbol": "NMMO",
+   "name": "Meritage Tactical ETF Moderate Portfolio",
+   "exchange": "TSX",
+   "yahoo_symbol": "NMMO.TO",
+   "instruments": [
+    {
+     "name": "Meri Tac Mod Port ET",
+     "symbol": "NMMO"
+    }
+   ]
+  },
+  {
+   "symbol": "NBBX",
+   "name": "NBI Canadian Bond Index Fund",
+   "exchange": "TSX",
+   "yahoo_symbol": "NBBX.TO",
+   "instruments": [
+    {
+     "name": "NBI Cdn Bond Indx Fd",
+     "symbol": "NBBX"
+    }
+   ]
+  },
+  {
+   "symbol": "NBCG",
+   "name": "NBI Canadian Equity Growth Fund",
+   "exchange": "TSX",
+   "yahoo_symbol": "NBCG.TO",
+   "instruments": [
+    {
+     "name": "NBI Can Eq Growth Fd",
+     "symbol": "NBCG"
+    }
+   ]
+  },
+  {
+   "symbol": "NBCX",
+   "name": "NBI Canadian Equity Index Fund",
+   "exchange": "TSX",
+   "yahoo_symbol": "NBCX.TO",
+   "instruments": [
+    {
+     "name": "NBI Can Equity IdxFd",
+     "symbol": "NBCX"
+    }
+   ]
+  },
+  {
+   "symbol": "NBEM",
+   "name": "NBI Diversified Emerging Markets Equity Fund",
+   "exchange": "TSX",
+   "yahoo_symbol": "NBEM.TO",
+   "instruments": [
+    {
+     "name": "NBI Div EmerMkr Eq",
+     "symbol": "NBEM"
+    }
+   ]
+  },
+  {
+   "symbol": "NBIX",
+   "name": "NBI International Equity Index Fund",
+   "exchange": "TSX",
+   "yahoo_symbol": "NBIX.TO",
+   "instruments": [
+    {
+     "name": "NBI Intl Eq Idx Fd",
+     "symbol": "NBIX"
+    }
+   ]
+  },
+  {
+   "symbol": "NBIV",
+   "name": "NBI International Value Fund",
+   "exchange": "TSX",
+   "yahoo_symbol": "NBIV.TO",
+   "instruments": [
+    {
+     "name": "NBI Intl Value Fd Et",
+     "symbol": "NBIV"
+    }
+   ]
+  },
+  {
+   "symbol": "NSDG",
+   "name": "NBI SmartData Global Equity Fund",
+   "exchange": "TSX",
+   "yahoo_symbol": "NSDG.TO",
+   "instruments": [
+    {
+     "name": "NBI SmartDt Gbl EqFd",
+     "symbol": "NSDG"
+    }
+   ]
+  },
+  {
+   "symbol": "NBUX",
+   "name": "NBI U.S. Equity Index Fund",
+   "exchange": "TSX",
+   "yahoo_symbol": "NBUX.TO",
+   "instruments": [
+    {
+     "name": "NBI US Eq Idx Fd",
+     "symbol": "NBUX"
+    }
+   ]
+  },
+  {
+   "symbol": "TCOM",
+   "name": "TD Alternative Commodities Pool",
+   "exchange": "TSX",
+   "yahoo_symbol": "TCOM.TO",
+   "instruments": [
+    {
+     "name": "TD Alt Commod Pool E",
+     "symbol": "TCOM"
+    }
+   ]
+  },
+  {
+   "symbol": "TCCB",
+   "name": "TD Canadian Corporate Bond Fund",
+   "exchange": "TSX",
+   "yahoo_symbol": "TCCB.TO",
+   "instruments": [
+    {
+     "name": "TD Can Corp Bond Fd",
+     "symbol": "TCCB"
+    }
+   ]
+  },
+  {
+   "symbol": "TSTB",
+   "name": "TD Short Term Bond Fund",
+   "exchange": "TSX",
+   "yahoo_symbol": "TSTB.TO",
+   "instruments": [
+    {
+     "name": "TD Short Term Bond F",
+     "symbol": "TSTB"
+    }
+   ]
+  },
+  {
+   "symbol": "TUST",
+   "name": "TD Ultra Short Term Bond Fund",
+   "exchange": "TSX",
+   "yahoo_symbol": "TUST.TO",
+   "instruments": [
+    {
+     "name": "TD Ultra Short Bond",
+     "symbol": "TUST"
+    }
+   ]
+  },
+  {
+   "symbol": "PLGO",
+   "name": "Pelagos Insurance Capital Limited Common Shares",
+   "exchange": "NYSE",
+   "yahoo_symbol": "PLGO"
+  },
+  {
+   "symbol": "VIDA",
+   "name": "VIDA Global Inc. Class A Common Stock",
+   "exchange": "NYSE MKT",
+   "yahoo_symbol": "VIDA"
+  },
+  {
+   "symbol": "BOT",
+   "name": "RoboStrategy, Inc. - Common Stock",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "BOT"
+  },
+  {
+   "symbol": "BRUN",
+   "name": "Boost Run Inc. - Class A Common Stock",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "BRUN"
+  },
+  {
+   "symbol": "BRUNW",
+   "name": "Boost Run Inc. - Warrant",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "BRUNW"
+  },
+  {
+   "symbol": "WSE",
+   "name": "Wise Group plc - Class A Ordinary Shares",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "WSE"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "FIHL",
+   "name": "Fidelis Insurance Holdings Limited Common Shares",
+   "exchange": "NYSE",
+   "yahoo_symbol": "FIHL"
+  },
+  {
+   "symbol": "PEGA",
+   "name": "Pegasus Resources Inc.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "PEGA.V",
+   "instruments": [
+    {
+     "name": "Pegasus Resources Inc.",
+     "symbol": "PEGA"
+    }
+   ]
+  },
+  {
+   "symbol": "KZR",
+   "name": "Kezar Life Sciences, Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "KZR"
+  },
+  {
+   "symbol": "HIVE",
+   "name": "HIVE Digital Technologies Ltd.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "HIVE.V",
+   "instruments": [
+    {
+     "name": "HIVE Digital Technologies Ltd.",
+     "symbol": "HIVE"
+    }
+   ]
+  },
+  {
+   "symbol": "UDMY",
+   "name": "Udemy, Inc. - Common Stock",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "UDMY"
+  }
+ ]
+}
