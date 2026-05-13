@@ -1,0 +1,156 @@
+{
+ "added": [
+  {
+   "symbol": "CMCC",
+   "name": "Global X All-In-One Commodity Producers Equity Covered Call ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "CMCC.TO",
+   "instruments": [
+    {
+     "name": "Glbl X Ain1 C P Eq C",
+     "symbol": "CMCC"
+    }
+   ]
+  },
+  {
+   "symbol": "COMX",
+   "name": "Global X All-In-One Commodity Producers Equity ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "COMX.TO",
+   "instruments": [
+    {
+     "name": "Glb x AlIn1 Com Pr E",
+     "symbol": "COMX"
+    }
+   ]
+  },
+  {
+   "symbol": "SVCC",
+   "name": "Global X Silver Miners Covered Call ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "SVCC.TO",
+   "instruments": [
+    {
+     "name": "Glbl X Silv Min CC E",
+     "symbol": "SVCC"
+    }
+   ]
+  },
+  {
+   "symbol": "SLVX",
+   "name": "Global X Silver Miners Index ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "SLVX.TO",
+   "instruments": [
+    {
+     "name": "Glbl X Silv Min In E",
+     "symbol": "SLVX"
+    }
+   ]
+  },
+  {
+   "symbol": "URCC",
+   "name": "Global X Uranium Covered Call ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "URCC.TO",
+   "instruments": [
+    {
+     "name": "Glbl X Uranium CC E",
+     "symbol": "URCC"
+    }
+   ]
+  },
+  {
+   "symbol": "ATC",
+   "name": "GraniteShares Autocallable COIN ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "ATC"
+  },
+  {
+   "symbol": "MSR",
+   "name": "GraniteShares Autocallable MSTR ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "MSR"
+  },
+  {
+   "symbol": "PVLA",
+   "name": "Palvella Therapeutics, Inc. - Common Stock",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "PVLA"
+  },
+  {
+   "symbol": "QVOL",
+   "name": "Infrastructure Capital Nasdaq Option Income ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "QVOL"
+  },
+  {
+   "symbol": "RTB",
+   "name": "RTB Digital, Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "RTB"
+  },
+  {
+   "symbol": "THYP",
+   "name": "21shares Hyperliquid ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "THYP"
+  },
+  {
+   "symbol": "GMRS",
+   "name": "GMR Solutions Inc. Class A Common Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "GMRS"
+  },
+  {
+   "symbol": "WENC",
+   "name": "West Enclave Merger Corp. Ordinary Shares",
+   "exchange": "NYSE",
+   "yahoo_symbol": "WENC"
+  },
+  {
+   "symbol": "WENC.R",
+   "name": "West Enclave Merger Corp. Rights, each Right to acquire one-tenth (1/10) of one Ordinary Share",
+   "exchange": "NYSE",
+   "yahoo_symbol": "WENC.R"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "AREBW",
+   "name": "American Rebel Holdings, Inc. - warrants",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "AREBW"
+  },
+  {
+   "symbol": "RVYL",
+   "name": "Ryvyl Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "RVYL"
+  },
+  {
+   "symbol": "AREB",
+   "name": "American Rebel Holdings, Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "AREB"
+  },
+  {
+   "symbol": "BKYI",
+   "name": "BIO-key International, Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "BKYI"
+  },
+  {
+   "symbol": "PVLA",
+   "name": "Palvella Therapeutics, Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "PVLA"
+  },
+  {
+   "symbol": "NZUS",
+   "name": "State Street SPDR MSCI USA Climate Paris Aligned ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "NZUS"
+  }
+ ]
+}
