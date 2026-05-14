@@ -1,0 +1,162 @@
+{
+ "added": [
+  {
+   "symbol": "CMCL",
+   "name": "Global X Enhanced All-In-One Commodity Producers Equity Covered Call ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "CMCL.TO",
+   "instruments": [
+    {
+     "name": "GX Ehn AIO Cmdty CC",
+     "symbol": "CMCL"
+    }
+   ]
+  },
+  {
+   "symbol": "SVCL",
+   "name": "Global X Enhanced Silver Miners Covered Call ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "SVCL.TO",
+   "instruments": [
+    {
+     "name": "GlblX Eh SilvMnrs CC",
+     "symbol": "SVCL"
+    }
+   ]
+  },
+  {
+   "symbol": "BREZU",
+   "name": "Breeze Acquisition Corp. II - Units",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "BREZU"
+  },
+  {
+   "symbol": "FRVO",
+   "name": "Fervo Energy Company - Class A common stock",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "FRVO"
+  },
+  {
+   "symbol": "QETA",
+   "name": "Quetta Acquisition Corporation - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "QETA"
+  },
+  {
+   "symbol": "QETAR",
+   "name": "Quetta Acquisition Corporation - Right",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "QETAR"
+  },
+  {
+   "symbol": "QETAU",
+   "name": "Quetta Acquisition Corporation - Unit",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "QETAU"
+  },
+  {
+   "symbol": "BXDC",
+   "name": "Blackstone Digital Infrastructure Trust Inc. Common Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "BXDC"
+  },
+  {
+   "symbol": "EROK",
+   "name": "EagleRock Land, LLC Class A shares representing limited liability company interests",
+   "exchange": "NYSE",
+   "yahoo_symbol": "EROK"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "RVPH",
+   "name": "Reviva Pharmaceuticals Holdings, Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "RVPH"
+  },
+  {
+   "symbol": "VIDA",
+   "name": "VIDA Global Inc. Class A Common Stock",
+   "exchange": "NYSE MKT",
+   "yahoo_symbol": "VIDA"
+  },
+  {
+   "symbol": "QETAU",
+   "name": "Quetta Acquisition Corporation - Unit",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "QETAU"
+  },
+  {
+   "symbol": "TPH",
+   "name": "Tri Pointe Homes, Inc. Common Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "TPH"
+  },
+  {
+   "symbol": "LIS",
+   "name": "Lithium South Development Corporation",
+   "exchange": "TSXV",
+   "yahoo_symbol": "LIS.V",
+   "instruments": [
+    {
+     "name": "Lithium South Development Corporation",
+     "symbol": "LIS"
+    }
+   ]
+  },
+  {
+   "symbol": "ALCY",
+   "name": "Alchemy Investments Acquisition Corp 1 - Class A Ordinary Shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "ALCY"
+  },
+  {
+   "symbol": "DHR",
+   "name": "Discovery Harbour Resources Corp.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "DHR.V",
+   "instruments": [
+    {
+     "name": "Discovery Harbour Resources Corp.",
+     "symbol": "DHR"
+    }
+   ]
+  },
+  {
+   "symbol": "DHY.R",
+   "name": "Credit Suisse High Yield Credit Fund Rights (expiring May 14, 2026) Rights",
+   "exchange": "NYSE MKT",
+   "yahoo_symbol": "DHY.R"
+  },
+  {
+   "symbol": "ALCYW",
+   "name": "Alchemy Investments Acquisition Corp 1 - Warrants",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "ALCYW"
+  },
+  {
+   "symbol": "SNCY",
+   "name": "Sun Country Airlines Holdings, Inc. - Common Stock",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "SNCY"
+  },
+  {
+   "symbol": "QETA",
+   "name": "Quetta Acquisition Corporation - Common Stock",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "QETA"
+  },
+  {
+   "symbol": "ALCYU",
+   "name": "Alchemy Investments Acquisition Corp 1 - Units",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "ALCYU"
+  },
+  {
+   "symbol": "QETAR",
+   "name": "Quetta Acquisition Corporation - Right",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "QETAR"
+  }
+ ]
+}
