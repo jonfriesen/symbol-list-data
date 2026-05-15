@@ -1,0 +1,108 @@
+{
+ "added": [
+  {
+   "symbol": "BFH$B",
+   "name": "Bread Financial Holdings, Inc. Depositary Shares, each representing a 1/40th interest in a share of 8.875% Fixed Rate Reset Non-Cumulative Perpetual Preferred Stock, Series B",
+   "exchange": "NYSE",
+   "yahoo_symbol": "BFH$B"
+  },
+  {
+   "symbol": "ETSS.U",
+   "name": "Energy Transition Special Opportunities Units, each consisting of one Class A ordinary share and one-half of one redeemable warrant",
+   "exchange": "NYSE",
+   "yahoo_symbol": "ETSS.U"
+  },
+  {
+   "symbol": "VIDA",
+   "name": "VIDA Global Inc. Class A Common Stock",
+   "exchange": "NYSE MKT",
+   "yahoo_symbol": "VIDA"
+  },
+  {
+   "symbol": "AIAI",
+   "name": "AIAI Holdings Corporation - Class A common stock",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "AIAI"
+  },
+  {
+   "symbol": "CBRS",
+   "name": "Cerebras Systems Inc. - Class A Common Stock",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "CBRS"
+  },
+  {
+   "symbol": "GSRVU",
+   "name": "GSR V Acquisition Corp. - Units",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "GSRVU"
+  },
+  {
+   "symbol": "MWC",
+   "name": "Micware Co., Ltd. - American Depositary Shares",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "MWC"
+  },
+  {
+   "symbol": "PFSA",
+   "name": "Profusa, Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "PFSA"
+  },
+  {
+   "symbol": "RKLB",
+   "name": "Rocket Lab Corporation - Common Stock",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "RKLB"
+  },
+  {
+   "symbol": "TKNS",
+   "name": "21Shares Active Crypto ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "TKNS"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "EHAB",
+   "name": "Enhabit, Inc. Common Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "EHAB"
+  },
+  {
+   "symbol": "CSGS",
+   "name": "CSG Systems International, Inc. - Common Stock",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "CSGS"
+  },
+  {
+   "symbol": "APLS",
+   "name": "Apellis Pharmaceuticals, Inc. - Common Stock",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "APLS"
+  },
+  {
+   "symbol": "PFSA",
+   "name": "Profusa, Inc. - Common Stock",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "PFSA"
+  },
+  {
+   "symbol": "CCLDO",
+   "name": "CareCloud, Inc. - 8.75% Series B Cumulative Redeemable Perpetual Preferred Stock",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "CCLDO"
+  },
+  {
+   "symbol": "MPX",
+   "name": "Marine Products Corporation Common Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "MPX"
+  },
+  {
+   "symbol": "RKLB",
+   "name": "Rocket Lab Corporation - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "RKLB"
+  }
+ ]
+}
