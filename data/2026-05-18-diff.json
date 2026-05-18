@@ -1,0 +1,132 @@
+{
+ "added": [
+  {
+   "symbol": "AUC",
+   "name": "ATIF Holdings Limited - Ordinary Shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "AUC"
+  },
+  {
+   "symbol": "DUKR",
+   "name": "DUKE Robotics Corp. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "DUKR"
+  },
+  {
+   "symbol": "DUKRW",
+   "name": "DUKE Robotics Corp. - Warrant",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "DUKRW"
+  },
+  {
+   "symbol": "EXYN",
+   "name": "Exyn Technologies, Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "EXYN"
+  },
+  {
+   "symbol": "EXYNW",
+   "name": "Exyn Technologies, Inc. - Warrant",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "EXYNW"
+  },
+  {
+   "symbol": "GUACU",
+   "name": "Berto Acquisition Corp. II - Units",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "GUACU"
+  },
+  {
+   "symbol": "IDACU",
+   "name": "Iron Dome Acquisition I Corp. - Units",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "IDACU"
+  },
+  {
+   "symbol": "MYX",
+   "name": "Maywood Acquisition Corp. 2 - Class A Ordinary Share",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "MYX"
+  },
+  {
+   "symbol": "MYXXR",
+   "name": "Maywood Acquisition Corp. 2 - Rights",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "MYXXR"
+  },
+  {
+   "symbol": "MYXXW",
+   "name": "Maywood Acquisition Corp. 2 - Warrants",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "MYXXW"
+  },
+  {
+   "symbol": "PTACU",
+   "name": "Patriot Acquisition Corp. - Units",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "PTACU"
+  },
+  {
+   "symbol": "PUSA",
+   "name": "Aureus Greenway Holdings Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "PUSA"
+  },
+  {
+   "symbol": "UZX",
+   "name": "Linkage Global Inc - Class A Ordinary Shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "UZX"
+  },
+  {
+   "symbol": "XMAX",
+   "name": "XMAX, Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "XMAX"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "FCO",
+   "name": "abrdn Global Income Fund, Inc. Common Stock",
+   "exchange": "NYSE MKT",
+   "yahoo_symbol": "FCO"
+  },
+  {
+   "symbol": "FORA",
+   "name": "Forian Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "FORA"
+  },
+  {
+   "symbol": "XWIN",
+   "name": "XMAX, Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "XWIN"
+  },
+  {
+   "symbol": "CAEP",
+   "name": "Cantor Equity Partners III, Inc. - Class A Ordinary Shares",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "CAEP"
+  },
+  {
+   "symbol": "AGH",
+   "name": "Aureus Greenway Holdings Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "AGH"
+  },
+  {
+   "symbol": "LGCB",
+   "name": "Linkage Global Inc - Class A Ordinary Shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "LGCB"
+  },
+  {
+   "symbol": "ZBAI",
+   "name": "ATIF Holdings Limited - Ordinary Shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "ZBAI"
+  }
+ ]
+}
