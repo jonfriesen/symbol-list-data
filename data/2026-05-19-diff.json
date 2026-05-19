@@ -1,0 +1,120 @@
+{
+ "added": [
+  {
+   "symbol": "NPV",
+   "name": "Next Phase Ventures Ltd.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "NPV.V",
+   "instruments": [
+    {
+     "name": "Next Phase Ventures Ltd.",
+     "symbol": "NPV"
+    }
+   ]
+  },
+  {
+   "symbol": "DUIG",
+   "name": "Desjardins US Investment Grade Corporate Bond Index ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "DUIG.TO",
+   "instruments": [
+    {
+     "name": "Dej US InvGr C B I E",
+     "symbol": "DUIG"
+    }
+   ]
+  },
+  {
+   "symbol": "AIIR",
+   "name": "Air Global PLC - Ordinary shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "AIIR"
+  },
+  {
+   "symbol": "FMAC",
+   "name": "Future Money Acquisition Corporation - Ordinary Shares",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "FMAC"
+  },
+  {
+   "symbol": "FMACR",
+   "name": "Future Money Acquisition Corporation - Rights",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "FMACR"
+  },
+  {
+   "symbol": "IPFX",
+   "name": "Inflection Point Acquisition Corp. VI - Class A Ordinary Shares",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "IPFX"
+  },
+  {
+   "symbol": "IPFXW",
+   "name": "Inflection Point Acquisition Corp. VI - Warrant",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "IPFXW"
+  },
+  {
+   "symbol": "LEND",
+   "name": "SEI High Yield Bond \u0026 Alternative Credit ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "LEND"
+  },
+  {
+   "symbol": "KWY",
+   "name": "Kingsway Corporation Common Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "KWY"
+  },
+  {
+   "symbol": "TYG.V",
+   "name": "Tortoise Energy Infrastructure Corporation Rights (expiring June 17, 2026) Rights when issued",
+   "exchange": "NYSE",
+   "yahoo_symbol": "TYG.V"
+  },
+  {
+   "symbol": "VECA",
+   "name": "Vernal Capital Acquisition Corp. Ordinary Shares",
+   "exchange": "NYSE",
+   "yahoo_symbol": "VECA"
+  },
+  {
+   "symbol": "VECA.R",
+   "name": "Vernal Capital Acquisition Corp. Rights, each right entitling the holder to receive one-fourth (1/4) of one Ordinary Share",
+   "exchange": "NYSE",
+   "yahoo_symbol": "VECA.R"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "DTSTW",
+   "name": "Data Storage Corporation - Warrant",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "DTSTW"
+  },
+  {
+   "symbol": "HEMP",
+   "name": "Hempalta Corp.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "HEMP.V",
+   "instruments": [
+    {
+     "name": "Hempalta Corp.",
+     "symbol": "HEMP"
+    }
+   ]
+  },
+  {
+   "symbol": "KFS",
+   "name": "Kingsway Financial Services, Inc. Common Stock (DE)",
+   "exchange": "NYSE",
+   "yahoo_symbol": "KFS"
+  },
+  {
+   "symbol": "SLNO",
+   "name": "Soleno Therapeutics, Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "SLNO"
+  }
+ ]
+}
