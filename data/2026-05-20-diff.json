@@ -1,0 +1,114 @@
+{
+ "added": [
+  {
+   "symbol": "FFAB",
+   "name": "Fidelity Alternative Bond Fund",
+   "exchange": "TSX",
+   "yahoo_symbol": "FFAB.TO",
+   "instruments": [
+    {
+     "name": "Fidelity Alt Bond F",
+     "symbol": "FFAB"
+    }
+   ]
+  },
+  {
+   "symbol": "FEMO",
+   "name": "Fidelity Emerging Markets Opportunities Fund",
+   "exchange": "TSX",
+   "yahoo_symbol": "FEMO.TO",
+   "instruments": [
+    {
+     "name": "Fidelity EM Opp Fd",
+     "symbol": "FEMO"
+    }
+   ]
+  },
+  {
+   "symbol": "FGCV",
+   "name": "Fidelity Global Concentrated Value Fund",
+   "exchange": "TSX",
+   "yahoo_symbol": "FGCV.TO",
+   "instruments": [
+    {
+     "name": "Fidelity Gbl Con Val",
+     "symbol": "FGCV"
+    }
+   ]
+  },
+  {
+   "symbol": "FMAB",
+   "name": "Fidelity Multi-Alt Balanced Fund",
+   "exchange": "TSX",
+   "yahoo_symbol": "FMAB.TO",
+   "instruments": [
+    {
+     "name": "Fidelity Mlti-Alt BF",
+     "symbol": "FMAB"
+    }
+   ]
+  },
+  {
+   "symbol": "LCLN",
+   "name": "Lincoln International, Inc. Class A Common Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "LCLN"
+  },
+  {
+   "symbol": "AHD",
+   "name": "GraniteShares Autocallable HOOD ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "AHD"
+  },
+  {
+   "symbol": "AMAN",
+   "name": "Amanat Acquisition Corp - Class A Ordinary Shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "AMAN"
+  },
+  {
+   "symbol": "HIS",
+   "name": "Humilis US Focused Opportunities ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "HIS"
+  },
+  {
+   "symbol": "PLA",
+   "name": "GraniteShares Autocallable PLTR ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "PLA"
+  },
+  {
+   "symbol": "QTEX",
+   "name": "QTREX Quantum Ltd. - Ordinary Shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "QTEX"
+  },
+  {
+   "symbol": "QTEXW",
+   "name": "QTREX Quantum Ltd. - Warrant",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "QTEXW"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "IINN",
+   "name": "Inspira Technologies Oxy B.H.N. Ltd. - Ordinary Shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "IINN"
+  },
+  {
+   "symbol": "IINNW",
+   "name": "Inspira Technologies Oxy B.H.N. Ltd. - Warrant",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "IINNW"
+  },
+  {
+   "symbol": "MCW",
+   "name": "Mister Car Wash, Inc. - Common Stock",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "MCW"
+  }
+ ]
+}
