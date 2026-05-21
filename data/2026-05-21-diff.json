@@ -1,0 +1,244 @@
+{
+ "added": [
+  {
+   "symbol": "AFC.P",
+   "name": "AF3 Capital Corp.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "AFC.P.V",
+   "instruments": [
+    {
+     "name": "AF3 Capital Corp.",
+     "symbol": "AFC.P"
+    }
+   ]
+  },
+  {
+   "symbol": "ABXX",
+   "name": "Abaxx Technologies Inc.",
+   "exchange": "TSX",
+   "yahoo_symbol": "ABXX.TO",
+   "instruments": [
+    {
+     "name": "Abaxx Technologies I",
+     "symbol": "ABXX"
+    }
+   ]
+  },
+  {
+   "symbol": "NACO",
+   "name": "Ninepoint Alternative Credit Opportunities Fund",
+   "exchange": "TSX",
+   "yahoo_symbol": "NACO.TO",
+   "instruments": [
+    {
+     "name": "Ninept Alt Cr Opp Fd",
+     "symbol": "NACO"
+    }
+   ]
+  },
+  {
+   "symbol": "NSAV",
+   "name": "Ninepoint Cash Management Fund",
+   "exchange": "TSX",
+   "yahoo_symbol": "NSAV.TO",
+   "instruments": [
+    {
+     "name": "Ninept Cash Mngmt FD",
+     "symbol": "NSAV"
+    }
+   ]
+  },
+  {
+   "symbol": "NBND",
+   "name": "Ninepoint Diversified Bond Fund",
+   "exchange": "TSX",
+   "yahoo_symbol": "NBND.TO",
+   "instruments": [
+    {
+     "name": "Ninept Divers Bnd ET",
+     "symbol": "NBND"
+    }
+   ]
+  },
+  {
+   "symbol": "NNRG",
+   "name": "Ninepoint Energy Fund",
+   "exchange": "TSX",
+   "yahoo_symbol": "NNRG.TO",
+   "instruments": [
+    {
+     "name": "Ninepoint En Fund",
+     "symbol": "NNRG"
+    },
+    {
+     "name": "Ninepoint En Fd USF",
+     "symbol": "NNRG.U"
+    }
+   ]
+  },
+  {
+   "symbol": "NRGI",
+   "name": "Ninepoint Energy Income Fund",
+   "exchange": "TSX",
+   "yahoo_symbol": "NRGI.TO",
+   "instruments": [
+    {
+     "name": "Ninept Energy Inc Fd",
+     "symbol": "NRGI"
+    }
+   ]
+  },
+  {
+   "symbol": "TIF",
+   "name": "Ninepoint Target Income Fund",
+   "exchange": "TSX",
+   "yahoo_symbol": "TIF.TO",
+   "instruments": [
+    {
+     "name": "Ninept Target Inc Fd",
+     "symbol": "TIF"
+    }
+   ]
+  },
+  {
+   "symbol": "SLVR",
+   "name": "Silver Tiger Metals Inc.",
+   "exchange": "TSX",
+   "yahoo_symbol": "SLVR.TO",
+   "instruments": [
+    {
+     "name": "Silver Tiger Mtl Inc",
+     "symbol": "SLVR"
+    }
+   ]
+  },
+  {
+   "symbol": "BNY",
+   "name": "The Bank of New York Mellon Corporation Common Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "BNY"
+  },
+  {
+   "symbol": "BNY$K",
+   "name": "The Bank Of New York Mellon Corporation  Depositary Shares, each representing a 1/4,000th interest in a share of Series K Noncumulative Perpetual Preferred Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "BNY$K"
+  },
+  {
+   "symbol": "KPET",
+   "name": "KPET Ultra Paceline Corporation Class A Ordinary Shares",
+   "exchange": "NYSE",
+   "yahoo_symbol": "KPET"
+  },
+  {
+   "symbol": "KPET.W",
+   "name": "KPET Ultra Paceline Corporation Warrants, each whole warrant exercisable for one Class A ordinary share at an exercise price of $11.50 per share",
+   "exchange": "NYSE",
+   "yahoo_symbol": "KPET.W"
+  },
+  {
+   "symbol": "TYG.R",
+   "name": "Tortoise Energy Infrastructure Corporation Rights (expiring June 17, 2026) Rights",
+   "exchange": "NYSE",
+   "yahoo_symbol": "TYG.R"
+  },
+  {
+   "symbol": "AMSS",
+   "name": "AMASS Brands Inc. - Common Stock",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "AMSS"
+  },
+  {
+   "symbol": "BFLX",
+   "name": "iShares Flexible Equity Active ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "BFLX"
+  },
+  {
+   "symbol": "EMEM",
+   "name": "Sophus Capital Emerging Market ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "EMEM"
+  },
+  {
+   "symbol": "OPTH",
+   "name": "Optimi Health Corp. - Common Shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "OPTH"
+  },
+  {
+   "symbol": "QADR",
+   "name": "QDRO Acquisition Corp. - Class A Ordinary Shares",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "QADR"
+  },
+  {
+   "symbol": "QADRW",
+   "name": "QDRO Acquisition Corp. - Warrant",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "QADRW"
+  },
+  {
+   "symbol": "RACC",
+   "name": "Research Alliance Corporation III - Class A Ordinary Shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "RACC"
+  },
+  {
+   "symbol": "RREV",
+   "name": "RRE Ventures Acquisition Corp. - Class A Ordinary Shares",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "RREV"
+  },
+  {
+   "symbol": "RREVW",
+   "name": "RRE Ventures Acquisition Corp. - Warrants",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "RREVW"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "BK",
+   "name": "The Bank of New York Mellon Corporation Common Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "BK"
+  },
+  {
+   "symbol": "PRTC",
+   "name": "PureTech Health plc - American Depositary Shares",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "PRTC"
+  },
+  {
+   "symbol": "TYG.V",
+   "name": "Tortoise Energy Infrastructure Corporation Rights (expiring June 17, 2026) Rights when issued",
+   "exchange": "NYSE",
+   "yahoo_symbol": "TYG.V"
+  },
+  {
+   "symbol": "SLVR",
+   "name": "Silver Tiger Metals Inc.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "SLVR.V",
+   "instruments": [
+    {
+     "name": "Silver Tiger Metals Inc.",
+     "symbol": "SLVR"
+    }
+   ]
+  },
+  {
+   "symbol": "SOPA",
+   "name": "Society Pass Incorporated - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "SOPA"
+  },
+  {
+   "symbol": "BK$K",
+   "name": "The Bank Of New York Mellon Corporation  Depositary Shares, each representing a 1/4,000th interest in a share of Series K Noncumulative Perpetual Preferred Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "BK$K"
+  }
+ ]
+}
