@@ -1,0 +1,70 @@
+{
+ "added": [
+  {
+   "symbol": "AGM$I",
+   "name": "Federal Agricultural Mortgage Corporation 6.875% Non-Cumulative Preferred Stock, Series I",
+   "exchange": "NYSE",
+   "yahoo_symbol": "AGM$I"
+  },
+  {
+   "symbol": "SAGU",
+   "name": "Shreya Acquisition Group Class A Ordinary Shares",
+   "exchange": "NYSE",
+   "yahoo_symbol": "SAGU"
+  },
+  {
+   "symbol": "SAGU.R",
+   "name": "Shreya Acquisition Group Rights, each entitling the holder to receive one-fourth of one Class A Ordinary Share",
+   "exchange": "NYSE",
+   "yahoo_symbol": "SAGU.R"
+  },
+  {
+   "symbol": "SAGU.W",
+   "name": "Shreya Acquisition Group Redeemable warrants, entitling the holder to purchase one Class A Ordinary Share at $11.50 per share",
+   "exchange": "NYSE",
+   "yahoo_symbol": "SAGU.W"
+  },
+  {
+   "symbol": "APURU",
+   "name": "Aperture AC - Units",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "APURU"
+  },
+  {
+   "symbol": "CNXU",
+   "name": "Conexeu Sciences Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "CNXU"
+  },
+  {
+   "symbol": "EMSC",
+   "name": "Sophus Capital Emerging Market Small Cap ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "EMSC"
+  },
+  {
+   "symbol": "FBYDP",
+   "name": "Falcon's Beyond Global, Inc. - 11% Series B Cumulative Convertible Preferred Stock",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "FBYDP"
+  },
+  {
+   "symbol": "GIEQ",
+   "name": "Goldman Sachs Data Enhanced International Equity ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "GIEQ"
+  },
+  {
+   "symbol": "OCTVV",
+   "name": "Octave Intelligence plc - Class B Ordinary Shares When Issued",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "OCTVV"
+  },
+  {
+   "symbol": "OHACU",
+   "name": "Oceanhawk Acquisition Corp. - Units",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "OHACU"
+  }
+ ]
+}

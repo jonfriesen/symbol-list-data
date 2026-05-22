@@ -1,0 +1,40 @@
+{
+ "added": [
+  {
+   "symbol": "DADONE",
+   "name": "DAD (DADONE)"
+  },
+  {
+   "symbol": "B4",
+   "name": "BUILD4 (B4)"
+  },
+  {
+   "symbol": "EXOSIS",
+   "name": "Exosis (EXOSIS)"
+  },
+  {
+   "symbol": "NASHEXCHANGE",
+   "name": "Nash Exchange (NASHEXCHANGE)"
+  },
+  {
+   "symbol": "WATTTON",
+   "name": "WATTTON (WATTTON)"
+  },
+  {
+   "symbol": "SEIGNIORAGE",
+   "name": "Seigniorage Shares (SEIGNIORAGE)"
+  },
+  {
+   "symbol": "CLIPX",
+   "name": "ClipX (CLIPX)"
+  },
+  {
+   "symbol": "IVVON",
+   "name": "iShares Core S\u0026P 500 ETF (Ondo Tokenized) (IVVON)"
+  },
+  {
+   "symbol": "IRBISNETWORK",
+   "name": "Irbis Network (IRBISNETWORK)"
+  }
+ ]
+}
