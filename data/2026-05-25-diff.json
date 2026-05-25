@@ -1,0 +1,22 @@
+{
+ "added": [
+  {
+   "symbol": "BRKHU",
+   "name": "Burtech Acquisition Corp II - Units",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "BRKHU"
+  },
+  {
+   "symbol": "FXACU",
+   "name": "FortuneX Acquisition Corporation - Units",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "FXACU"
+  },
+  {
+   "symbol": "PECEU",
+   "name": "Peace Acquisition Corp - Units",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "PECEU"
+  }
+ ]
+}
