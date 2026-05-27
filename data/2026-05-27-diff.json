@@ -1,0 +1,208 @@
+{
+ "added": [
+  {
+   "symbol": "TLT",
+   "name": "Theralase Technologies Inc.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "TLT.V",
+   "instruments": [
+    {
+     "name": "Theralase Technologies Inc.",
+     "symbol": "TLT"
+    }
+   ]
+  },
+  {
+   "symbol": "ACT",
+   "name": "Aduro Clean Technologies Inc.",
+   "exchange": "TSX",
+   "yahoo_symbol": "ACT.TO",
+   "instruments": [
+    {
+     "name": "Aduro Clean Tech",
+     "symbol": "ACT"
+    }
+   ]
+  },
+  {
+   "symbol": "DIVY",
+   "name": "Global X Active U.S. Dividend ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "DIVY.TO",
+   "instruments": [
+    {
+     "name": "Glbl X Act US Dv E C",
+     "symbol": "DIVY"
+    },
+    {
+     "name": "Glbl X Act US Dv E U",
+     "symbol": "DIVY.U"
+    }
+   ]
+  },
+  {
+   "symbol": "JPIE",
+   "name": "JPMorgan Income Active ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "JPIE.TO",
+   "instruments": [
+    {
+     "name": "JPMorgan Inc Actv E",
+     "symbol": "JPIE"
+    }
+   ]
+  },
+  {
+   "symbol": "DGAC.U",
+   "name": "Disciplined Growth Acquisition Corporation Units, each consisting of one Class A Ordinary Share and one Right",
+   "exchange": "NYSE",
+   "yahoo_symbol": "DGAC.U"
+  },
+  {
+   "symbol": "FDX.V",
+   "name": "FedEx Corporation Common Stock When-Issued",
+   "exchange": "NYSE",
+   "yahoo_symbol": "FDX.V"
+  },
+  {
+   "symbol": "FDXF.V",
+   "name": "FedEx Freight Holding Company, Inc. Common Stock When-Issued",
+   "exchange": "NYSE",
+   "yahoo_symbol": "FDXF.V"
+  },
+  {
+   "symbol": "NVRI.V",
+   "name": "Enviri Corporation Common Stock When-Issued",
+   "exchange": "NYSE",
+   "yahoo_symbol": "NVRI.V"
+  },
+  {
+   "symbol": "AIFA",
+   "name": "All In FutureTech Alliance, Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "AIFA"
+  },
+  {
+   "symbol": "CCAQ",
+   "name": "Collective Acquisition Corp. - Class A ordinary shares",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "CCAQ"
+  },
+  {
+   "symbol": "CCAQU",
+   "name": "Collective Acquisition Corp. - Units",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "CCAQU"
+  },
+  {
+   "symbol": "CCAQW",
+   "name": "Collective Acquisition Corp. - Warrants",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "CCAQW"
+  },
+  {
+   "symbol": "HDRN",
+   "name": "Hadron Energy, Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "HDRN"
+  },
+  {
+   "symbol": "HDRNW",
+   "name": "Hadron Energy, Inc. - Warrant",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "HDRNW"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "BTMWW",
+   "name": "Bitcoin Depot Inc. - Warrant",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "BTMWW"
+  },
+  {
+   "symbol": "GIG",
+   "name": "GigCapital7 Corp. - Class A Ordinary Share",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "GIG"
+  },
+  {
+   "symbol": "BTM",
+   "name": "Bitcoin Depot Inc. - Class A Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "BTM"
+  },
+  {
+   "symbol": "GIGGU",
+   "name": "GigCapital7 Corp. - Unit",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "GIGGU"
+  },
+  {
+   "symbol": "GIGGW",
+   "name": "GigCapital7 Corp. - Warrant",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "GIGGW"
+  },
+  {
+   "symbol": "VRE",
+   "name": "Veris Residential, Inc. Common Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "VRE"
+  },
+  {
+   "symbol": "AGAE",
+   "name": "Allied Gaming \u0026 Entertainment Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "AGAE"
+  },
+  {
+   "symbol": "NRXPW",
+   "name": "NRX Pharmaceuticals, Inc. - Warrant",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "NRXPW"
+  },
+  {
+   "symbol": "IPODW",
+   "name": "Dune Acquisition Corporation II - Warrants",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "IPODW"
+  },
+  {
+   "symbol": "USGOW",
+   "name": "U.S. GoldMining Inc. - Warrant",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "USGOW"
+  },
+  {
+   "symbol": "SNM",
+   "name": "ShaMaran Petroleum Corp.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "SNM.V",
+   "instruments": [
+    {
+     "name": "ShaMaran Petroleum Corp",
+     "symbol": "SNM"
+    }
+   ]
+  },
+  {
+   "symbol": "IPODU",
+   "name": "Dune Acquisition Corporation II - Units",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "IPODU"
+  },
+  {
+   "symbol": "IPOD",
+   "name": "Dune Acquisition Corporation II - Class A ordinary shares",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "IPOD"
+  },
+  {
+   "symbol": "FCRX",
+   "name": "Crescent Capital BDC, Inc. 5.00% Notes due 2026",
+   "exchange": "NYSE",
+   "yahoo_symbol": "FCRX"
+  }
+ ]
+}
