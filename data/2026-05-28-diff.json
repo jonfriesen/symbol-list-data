@@ -1,0 +1,174 @@
+{
+ "added": [
+  {
+   "symbol": "MRA",
+   "name": "GraniteShares Autocallable MARA ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "MRA"
+  },
+  {
+   "symbol": "OCTV",
+   "name": "Octave Intelligence plc - Class B Ordinary Shares",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "OCTV"
+  },
+  {
+   "symbol": "PWRL",
+   "name": "Powerlaw Corp. - Common Stock",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "PWRL"
+  },
+  {
+   "symbol": "RKTO",
+   "name": "Rocket One Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "RKTO"
+  },
+  {
+   "symbol": "SCA",
+   "name": "GraniteShares Autocallable SMCI ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "SCA"
+  },
+  {
+   "symbol": "SKYA",
+   "name": "SkyAI, Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "SKYA"
+  },
+  {
+   "symbol": "SKYAW",
+   "name": "SkyAI, Inc. - Warrant",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "SKYAW"
+  },
+  {
+   "symbol": "CCGP",
+   "name": "Counterpoint Global CIBC Global Permanence ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "CCGP.TO",
+   "instruments": [
+    {
+     "name": "CP Gl CIBC Gl Perman",
+     "symbol": "CCGP"
+    }
+   ]
+  },
+  {
+   "symbol": "CCIP",
+   "name": "Counterpoint Global CIBC International Permanence ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "CCIP.TO",
+   "instruments": [
+    {
+     "name": "CP Gl CIBC Intl Perm",
+     "symbol": "CCIP"
+    }
+   ]
+  },
+  {
+   "symbol": "CCUL",
+   "name": "Counterpoint Global CIBC U.S. Large Cap Growth ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "CCUL.TO",
+   "instruments": [
+    {
+     "name": "CP Global US Lg Cap ",
+     "symbol": "CCUL"
+    }
+   ]
+  },
+  {
+   "symbol": "CCUS",
+   "name": "Counterpoint Global CIBC U.S. Small Cap Growth ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "CCUS.TO",
+   "instruments": [
+    {
+     "name": "CP Glbl CIBC USSmCap",
+     "symbol": "CCUS"
+    }
+   ]
+  },
+  {
+   "symbol": "RBNU",
+   "name": "SavvyLong (2X) HOOD ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "RBNU.TO",
+   "instruments": [
+    {
+     "name": "SavvyLong 2X HOOD E",
+     "symbol": "RBNU"
+    }
+   ]
+  },
+  {
+   "symbol": "METU",
+   "name": "SavvyLong (2X) META ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "METU.TO",
+   "instruments": [
+    {
+     "name": "SavvyLong 2XMETA ETF",
+     "symbol": "METU"
+    }
+   ]
+  },
+  {
+   "symbol": "PLTU",
+   "name": "SavvyLong (2X) PLTR ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "PLTU.TO",
+   "instruments": [
+    {
+     "name": "SavvyLong 2X PLTR E",
+     "symbol": "PLTU"
+    }
+   ]
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "OCTVV",
+   "name": "Octave Intelligence plc - Class B Ordinary Shares When Issued",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "OCTVV"
+  },
+  {
+   "symbol": "ECM",
+   "name": "Ecolomondo Corporation",
+   "exchange": "TSXV",
+   "yahoo_symbol": "ECM.V",
+   "instruments": [
+    {
+     "name": "Ecolomondo Corporation",
+     "symbol": "ECM"
+    }
+   ]
+  },
+  {
+   "symbol": "HOTH",
+   "name": "Hoth Therapeutics, Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "HOTH"
+  },
+  {
+   "symbol": "STSSW",
+   "name": "Sharps Technology Inc. - Warrant",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "STSSW"
+  },
+  {
+   "symbol": "GECCO",
+   "name": "Great Elm Capital Corp. - 5.875% Notes due 2026",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "GECCO"
+  },
+  {
+   "symbol": "STSS",
+   "name": "Sharps Technology Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "STSS"
+  }
+ ]
+}
