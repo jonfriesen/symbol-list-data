@@ -1,0 +1,78 @@
+{
+ "added": [
+  {
+   "symbol": "CREATORCHAIN",
+   "name": "Creator Platform (CREATORCHAIN)"
+  },
+  {
+   "symbol": "METHPROTOCOL",
+   "name": "COOK (METHPROTOCOL)"
+  },
+  {
+   "symbol": "MAOMEME",
+   "name": "Mao (MAOMEME)"
+  },
+  {
+   "symbol": "UNCOIN",
+   "name": "UnCoin (UNCOIN)"
+  },
+  {
+   "symbol": "ARCANETOKEN",
+   "name": "Arcane Token (ARCANETOKEN)"
+  },
+  {
+   "symbol": "ZEDCOIN",
+   "name": "ZedCoin (ZEDCOIN)"
+  },
+  {
+   "symbol": "USDITOKEN",
+   "name": "Interest Protocol USDi (USDITOKEN)"
+  },
+  {
+   "symbol": "DORADOTOKEN",
+   "name": "Dorado (DORADOTOKEN)"
+  },
+  {
+   "symbol": "INCEON",
+   "name": "Franklin Income Equity Focus ETF (Ondo Tokenized) (INCEON)"
+  },
+  {
+   "symbol": "QBTSON",
+   "name": "D-Wave Quantum (Ondo Tokenized) (QBTSON)"
+  },
+  {
+   "symbol": "DROPEE",
+   "name": "DROPEE (DROPEE)"
+  },
+  {
+   "symbol": "YLDS",
+   "name": "YLDS (YLDS)"
+  },
+  {
+   "symbol": "VRTON",
+   "name": "Vertiv (Ondo Tokenized) (VRTON)"
+  },
+  {
+   "symbol": "PCAT",
+   "name": "Phenomenal Cat (PCAT)"
+  },
+  {
+   "symbol": "MANIFESTCOOL",
+   "name": "Manifest (MANIFESTCOOL)"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "STOCK",
+   "name": "Digital Asset Stockpile (STOCK)"
+  },
+  {
+   "symbol": "BABY4",
+   "name": "Baby 4 (BABY4)"
+  },
+  {
+   "symbol": "IMU",
+   "name": "Immunefi (IMU)"
+  }
+ ]
+}

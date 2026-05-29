@@ -1,0 +1,114 @@
+{
+ "added": [
+  {
+   "symbol": "GLRA.PR.A",
+   "name": "Global Real Assets Trust",
+   "exchange": "TSX",
+   "yahoo_symbol": "GLRA.PR.A.TO",
+   "instruments": [
+    {
+     "name": "Glbl Real Asset Trst",
+     "symbol": "GLRA.PR.A"
+    }
+   ]
+  },
+  {
+   "symbol": "AACP",
+   "name": "Apogee Acquisition Corp - Class A Ordinary Shares",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "AACP"
+  },
+  {
+   "symbol": "AACPR",
+   "name": "Apogee Acquisition Corp - Rights",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "AACPR"
+  },
+  {
+   "symbol": "AACPW",
+   "name": "Apogee Acquisition Corp - Warrant",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "AACPW"
+  },
+  {
+   "symbol": "ACGC",
+   "name": "ACP Holdings Acquisition Corp. - Class A Ordinary Shares",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "ACGC"
+  },
+  {
+   "symbol": "ACGCW",
+   "name": "ACP Holdings Acquisition Corp. - Warrants",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "ACGCW"
+  },
+  {
+   "symbol": "ASEC",
+   "name": "American Century Securitized Credit ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "ASEC"
+  },
+  {
+   "symbol": "ISTM",
+   "name": "iShares Strategic Metals ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "ISTM"
+  },
+  {
+   "symbol": "JPFP",
+   "name": "JPMorgan Managed Futures Plus ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "JPFP"
+  },
+  {
+   "symbol": "VBNB",
+   "name": "VanEck BNB ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "VBNB"
+  },
+  {
+   "symbol": "NXB",
+   "name": "NextBoat Inc. Common Stcok",
+   "exchange": "NYSE MKT",
+   "yahoo_symbol": "NXB"
+  },
+  {
+   "symbol": "RWTS",
+   "name": "Redwood Trust, Inc. 9.75% Senior Notes Due 2031",
+   "exchange": "NYSE",
+   "yahoo_symbol": "RWTS"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "OTH",
+   "name": "Off The Hook YS Inc. Common Stock",
+   "exchange": "NYSE MKT",
+   "yahoo_symbol": "OTH"
+  },
+  {
+   "symbol": "AMWD",
+   "name": "American Woodmark Corporation - Common Stock",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "AMWD"
+  },
+  {
+   "symbol": "PTN",
+   "name": "Palatin Technologies, Inc. Common Stock",
+   "exchange": "NYSE MKT",
+   "yahoo_symbol": "PTN"
+  },
+  {
+   "symbol": "CVGW",
+   "name": "Calavo Growers, Inc. - Common Stock",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "CVGW"
+  },
+  {
+   "symbol": "TMET",
+   "name": "iShares Transition-Enabling Metals ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "TMET"
+  }
+ ]
+}
