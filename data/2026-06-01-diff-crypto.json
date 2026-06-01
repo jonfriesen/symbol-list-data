@@ -1,0 +1,42 @@
+{
+ "added": [
+  {
+   "symbol": "GULD",
+   "name": "GULD (GULD)"
+  },
+  {
+   "symbol": "IMU",
+   "name": "Immunefi (IMU)"
+  },
+  {
+   "symbol": "WALLIMEME",
+   "name": "WALLi (WALLIMEME)"
+  },
+  {
+   "symbol": "RAGEG",
+   "name": "RAGE GUY (RAGEG)"
+  },
+  {
+   "symbol": "SLIMEX",
+   "name": "SLIMEX (SLIMEX)"
+  },
+  {
+   "symbol": "RAGEGUY",
+   "name": "Rage Guy (RAGEGUY)"
+  },
+  {
+   "symbol": "BABY4",
+   "name": "Baby 4 (BABY4)"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "MAOMEME",
+   "name": "Mao (MAOMEME)"
+  },
+  {
+   "symbol": "ZEDCOIN",
+   "name": "ZedCoin (ZEDCOIN)"
+  }
+ ]
+}

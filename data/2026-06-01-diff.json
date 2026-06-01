@@ -1,0 +1,212 @@
+{
+ "added": [
+  {
+   "symbol": "TUNG",
+   "name": "American Tungsten Corp.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "TUNG.V",
+   "instruments": [
+    {
+     "name": "American Tungsten Corp",
+     "symbol": "TUNG"
+    }
+   ]
+  },
+  {
+   "symbol": "VIGG",
+   "name": "Vanguard Developed ex-North America Dividend Appreciation Index ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "VIGG.TO",
+   "instruments": [
+    {
+     "name": "Vang Dev exNA D Ap I",
+     "symbol": "VIGG"
+    }
+   ]
+  },
+  {
+   "symbol": "VUDH",
+   "name": "Vanguard U.S. High Dividend Yield Index ETF (CAD-hedged)",
+   "exchange": "TSX",
+   "yahoo_symbol": "VUDH.TO",
+   "instruments": [
+    {
+     "name": "VangUS HiDiv Yld I E",
+     "symbol": "VUDH"
+    }
+   ]
+  },
+  {
+   "symbol": "AZUL",
+   "name": "Azul S.A. American Depositary Shares, each representing two (2) Common Shares",
+   "exchange": "NYSE MKT",
+   "yahoo_symbol": "AZUL"
+  },
+  {
+   "symbol": "FDXF",
+   "name": "FedEx Freight Holding Company, Inc. Common Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "FDXF"
+  },
+  {
+   "symbol": "ARCL",
+   "name": "ARC Group Acquisition I Corp - Class A Ordinary Shares",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "ARCL"
+  },
+  {
+   "symbol": "ARCLR",
+   "name": "ARC Group Acquisition I Corp - Right",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "ARCLR"
+  },
+  {
+   "symbol": "ARCLW",
+   "name": "ARC Group Acquisition I Corp - Warrants",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "ARCLW"
+  },
+  {
+   "symbol": "ASD",
+   "name": "Defiance Autism Impact ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "ASD"
+  },
+  {
+   "symbol": "BIDWU",
+   "name": "Tribeca Strategic Acquisition Corp. - Unit",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "BIDWU"
+  },
+  {
+   "symbol": "FOCL",
+   "name": "EDAP TMS S.A. - American Depositary Shares, each representing One Ordinary Share",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "FOCL"
+  },
+  {
+   "symbol": "LILAV",
+   "name": "Liberty Latin America Ltd - Class A Common Stock Ex-Distribution When Issued",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "LILAV"
+  },
+  {
+   "symbol": "LILKV",
+   "name": "Liberty Latin America Ltd - Class C Common Stock Ex-Distribution When Issued",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "LILKV"
+  },
+  {
+   "symbol": "LILPV",
+   "name": "Liberty Latin America Ltd. - 9.0% Fixed Rate Cumulative Perpetual Redeemable Series A Preference Shares",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "LILPV"
+  },
+  {
+   "symbol": "PTN",
+   "name": "Palatin Technologies, Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "PTN"
+  },
+  {
+   "symbol": "QH",
+   "name": "Quhuo Limited - American Depository Shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "QH"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "OXLCP",
+   "name": "Oxford Lane Capital Corp. - 6.25% Series 2027 Term Preferred Shares",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "OXLCP"
+  },
+  {
+   "symbol": "CYTO",
+   "name": "Cytophage Technologies Ltd.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "CYTO.V",
+   "instruments": [
+    {
+     "name": "Cytophage Technologies Ltd.",
+     "symbol": "CYTO"
+    }
+   ]
+  },
+  {
+   "symbol": "FO",
+   "name": "Falcon Oil \u0026 Gas Ltd.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "FO.V",
+   "instruments": [
+    {
+     "name": "Falcon Oil \u0026 Gas Ltd ",
+     "symbol": "FO"
+    }
+   ]
+  },
+  {
+   "symbol": "FDXF.V",
+   "name": "FedEx Freight Holding Company, Inc. Common Stock When-Issued",
+   "exchange": "NYSE",
+   "yahoo_symbol": "FDXF.V"
+  },
+  {
+   "symbol": "FDX.V",
+   "name": "FedEx Corporation Common Stock When-Issued",
+   "exchange": "NYSE",
+   "yahoo_symbol": "FDX.V"
+  },
+  {
+   "symbol": "EDAP",
+   "name": "EDAP TMS S.A. - American Depositary Shares, each representing One Ordinary Share",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "EDAP"
+  },
+  {
+   "symbol": "THR",
+   "name": "Thermon Group Holdings, Inc. Common Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "THR"
+  },
+  {
+   "symbol": "FW",
+   "name": "Flow Capital Corp.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "FW.V",
+   "instruments": [
+    {
+     "name": "Flow Capital Corp.",
+     "symbol": "FW"
+    }
+   ]
+  },
+  {
+   "symbol": "SPAC.RT.U",
+   "name": "Mercer Park Opportunities Corp.",
+   "exchange": "TSX",
+   "yahoo_symbol": "SPAC.RT.U.TO",
+   "instruments": [
+    {
+     "name": "Mercer PrkOpp Corp R",
+     "symbol": "SPAC.RT.U"
+    },
+    {
+     "name": "Mercer PrkOpp Corp A",
+     "symbol": "SPAC.U"
+    },
+    {
+     "name": "Mercer PrkOpp Corp W",
+     "symbol": "SPAC.WT.U"
+    }
+   ]
+  },
+  {
+   "symbol": "NVRI",
+   "name": "Enviri Corporation Common Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "NVRI"
+  }
+ ]
+}
