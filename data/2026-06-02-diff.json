@@ -1,0 +1,96 @@
+{
+ "added": [
+  {
+   "symbol": "FROG",
+   "name": "Bullfrog Gold Corporation",
+   "exchange": "TSXV",
+   "yahoo_symbol": "FROG.V",
+   "instruments": [
+    {
+     "name": "Bullfrog Gold Corporation",
+     "symbol": "FROG"
+    }
+   ]
+  },
+  {
+   "symbol": "DGGB",
+   "name": "Desjardins Global Government Bond Index ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "DGGB.TO",
+   "instruments": [
+    {
+     "name": "Desj Glb Gov Bnd Ind",
+     "symbol": "DGGB"
+    }
+   ]
+  },
+  {
+   "symbol": "BGCG",
+   "name": "Baillie Gifford International Concentrated Growth ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "BGCG"
+  },
+  {
+   "symbol": "BGGG",
+   "name": "Baillie Gifford Long Term Global Growth ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "BGGG"
+  },
+  {
+   "symbol": "NVRI",
+   "name": "Enviri Corporation Common Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "NVRI"
+  },
+  {
+   "symbol": "VSXY",
+   "name": "Victorias Secret \u0026 Co. Common Stock ",
+   "exchange": "NYSE",
+   "yahoo_symbol": "VSXY"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "ABVEW",
+   "name": "Above Food Ingredients Inc. - Warrant",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "ABVEW"
+  },
+  {
+   "symbol": "NVRI.V",
+   "name": "Enviri Corporation Common Stock When-Issued",
+   "exchange": "NYSE",
+   "yahoo_symbol": "NVRI.V"
+  },
+  {
+   "symbol": "FFIC",
+   "name": "Flushing Financial Corporation - Common Stock",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "FFIC"
+  },
+  {
+   "symbol": "AGT",
+   "name": "Applied Graphite Technologies Corporation",
+   "exchange": "TSXV",
+   "yahoo_symbol": "AGT.V",
+   "instruments": [
+    {
+     "name": "Applied Graphite Technologies Corporation",
+     "symbol": "AGT"
+    }
+   ]
+  },
+  {
+   "symbol": "ABVE",
+   "name": "Above Food Ingredients Inc. - Common Stock",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "ABVE"
+  },
+  {
+   "symbol": "VSCO",
+   "name": "Victorias Secret \u0026 Co. Common Stock ",
+   "exchange": "NYSE",
+   "yahoo_symbol": "VSCO"
+  }
+ ]
+}

@@ -1,0 +1,60 @@
+{
+ "added": [
+  {
+   "symbol": "XOMON",
+   "name": "Exxon Mobil (Ondo Tokenized) (XOMON)"
+  },
+  {
+   "symbol": "CEGON",
+   "name": "Constellation Energy (Ondo Tokenized) (CEGON)"
+  },
+  {
+   "symbol": "MPON",
+   "name": "MP Materials (Ondo Tokenized) (MPON)"
+  },
+  {
+   "symbol": "TMONKEY",
+   "name": "Two Monkey Juice Bar (TMONKEY)"
+  },
+  {
+   "symbol": "FLHYON",
+   "name": "Franklin High Yield Corporate ETF (Ondo Tokenized) (FLHYON)"
+  },
+  {
+   "symbol": "REMXON",
+   "name": "VanEck Rare Earth and Strategic Metals ETF (Ondo Tokenized) (REMXON)"
+  },
+  {
+   "symbol": "GOLDGR",
+   "name": "GOLDGR (GOLDGR)"
+  },
+  {
+   "symbol": "ANETON",
+   "name": "Arista Networks (Ondo Tokenized) (ANETON)"
+  },
+  {
+   "symbol": "PALLON",
+   "name": "abrdn Physical Palladium Shares ETF (Ondo Tokenized) (PALLON)"
+  },
+  {
+   "symbol": "APPON",
+   "name": "AppLovin (Ondo Tokenized) (APPON)"
+  },
+  {
+   "symbol": "GLDON",
+   "name": "SPDR Gold Shares (Ondo Tokenized) (GLDON)"
+  },
+  {
+   "symbol": "TXNON",
+   "name": "Texas Instruments (Ondo Tokenized) (TXNON)"
+  },
+  {
+   "symbol": "SPERAXUSD",
+   "name": "Sperax USD (SPERAXUSD)"
+  },
+  {
+   "symbol": "FGDLON",
+   "name": "Franklin Responsibly Sourced Gold ETF (Ondo Tokenized) (FGDLON)"
+  }
+ ]
+}
