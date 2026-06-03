@@ -1,0 +1,92 @@
+{
+ "added": [
+  {
+   "symbol": "KEYYU",
+   "name": "Keystone Acquisition Corp. - Unit",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "KEYYU"
+  },
+  {
+   "symbol": "PBK",
+   "name": "PowerBank Corporation - Common Stock",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "PBK"
+  },
+  {
+   "symbol": "AADX",
+   "name": "Applied Aerospace \u0026 Defense, Inc. Common Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "AADX"
+  },
+  {
+   "symbol": "LGL.V",
+   "name": "LGL Group, Inc. (The) Rights (expiring June 23, 2026) Rights when issued",
+   "exchange": "NYSE MKT",
+   "yahoo_symbol": "LGL.V"
+  },
+  {
+   "symbol": "PFLA",
+   "name": "PennantPark Floating Rate Capital Ltd. 7.375% Notes Due 2031",
+   "exchange": "NYSE",
+   "yahoo_symbol": "PFLA"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "NXPLW",
+   "name": "NextPlat Corp - Warrants",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "NXPLW"
+  },
+  {
+   "symbol": "RPR.DB.A",
+   "name": "Ravelin Properties REIT",
+   "exchange": "TSX",
+   "yahoo_symbol": "RPR.DB.A.TO",
+   "instruments": [
+    {
+     "name": "Ravelin ProREIT Db A",
+     "symbol": "RPR.DB.A"
+    },
+    {
+     "name": "Ravelin ProREIT Db B",
+     "symbol": "RPR.DB.B"
+    },
+    {
+     "name": "Ravelin Prop REIT Un",
+     "symbol": "RPR.UN"
+    }
+   ]
+  },
+  {
+   "symbol": "SUUN",
+   "name": "PowerBank Corporation - Common Stock",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "SUUN"
+  },
+  {
+   "symbol": "CBIT",
+   "name": "Cathedra Bitcoin Inc.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "CBIT.V",
+   "instruments": [
+    {
+     "name": "Cathedra Bitcoin Inc.",
+     "symbol": "CBIT"
+    }
+   ]
+  },
+  {
+   "symbol": "WNDR",
+   "name": "WonderFi Technologies Inc.",
+   "exchange": "TSX",
+   "yahoo_symbol": "WNDR.TO",
+   "instruments": [
+    {
+     "name": "WonderFi Tech J",
+     "symbol": "WNDR"
+    }
+   ]
+  }
+ ]
+}

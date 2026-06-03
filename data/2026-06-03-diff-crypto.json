@@ -1,0 +1,82 @@
+{
+ "added": [
+  {
+   "symbol": "BILION",
+   "name": "Bilibili (Ondo Tokenized) (BILION)"
+  },
+  {
+   "symbol": "CPFC",
+   "name": "Crystal Palace Fan Token (CPFC)"
+  },
+  {
+   "symbol": "CATON",
+   "name": "Caterpillar (Ondo Tokenized) (CATON)"
+  },
+  {
+   "symbol": "VASCO",
+   "name": "Vasco da Gama Fan Token (VASCO)"
+  },
+  {
+   "symbol": "MAOMEME",
+   "name": "Mao (MAOMEME)"
+  },
+  {
+   "symbol": "VTVON",
+   "name": "Vanguard Value ETF (Ondo Tokenized) (VTVON)"
+  },
+  {
+   "symbol": "VTION",
+   "name": "Vanguard Total Stock Market ETF (Ondo Tokenized) (VTION)"
+  },
+  {
+   "symbol": "MRNAON",
+   "name": "Moderna (Ondo Tokenized) (MRNAON)"
+  },
+  {
+   "symbol": "RTXON",
+   "name": "RTX (Ondo Tokenized) (RTXON)"
+  },
+  {
+   "symbol": "BZON",
+   "name": "Kanzhun (Ondo Tokenized) (BZON)"
+  },
+  {
+   "symbol": "ADION",
+   "name": "Analog Devices (Ondo Tokenized) (ADION)"
+  },
+  {
+   "symbol": "ZEDCOIN",
+   "name": "ZedCoin (ZEDCOIN)"
+  },
+  {
+   "symbol": "SEDGON",
+   "name": "SolarEdge Technologies (Ondo Tokenized) (SEDGON)"
+  },
+  {
+   "symbol": "LODESTAR",
+   "name": "Lodestar (LODESTAR)"
+  },
+  {
+   "symbol": "GLXYON",
+   "name": "Galaxy Digital (Ondo Tokenized) (GLXYON)"
+  },
+  {
+   "symbol": "AMATON",
+   "name": "Applied Materials (Ondo Tokenized) (AMATON)"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "IMU",
+   "name": "Immunefi (IMU)"
+  },
+  {
+   "symbol": "MPON",
+   "name": "MP Materials (Ondo Tokenized) (MPON)"
+  },
+  {
+   "symbol": "BABY4",
+   "name": "Baby 4 (BABY4)"
+  }
+ ]
+}
