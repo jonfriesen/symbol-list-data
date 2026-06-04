@@ -1,0 +1,42 @@
+{
+ "added": [
+  {
+   "symbol": "BABY4",
+   "name": "Baby 4 (BABY4)"
+  },
+  {
+   "symbol": "IMU",
+   "name": "Immunefi (IMU)"
+  },
+  {
+   "symbol": "ARCI",
+   "name": "Arcium (ARCI)"
+  },
+  {
+   "symbol": "RH",
+   "name": "RedHorse (RH)"
+  },
+  {
+   "symbol": "TRIPLEPLUS",
+   "name": "TPT (TRIPLEPLUS)"
+  },
+  {
+   "symbol": "AVONCOIN",
+   "name": "AvonCoin (AVONCOIN)"
+  },
+  {
+   "symbol": "MPON",
+   "name": "MP Materials (Ondo Tokenized) (MPON)"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "ZEDCOIN",
+   "name": "ZedCoin (ZEDCOIN)"
+  },
+  {
+   "symbol": "MAOMEME",
+   "name": "Mao (MAOMEME)"
+  }
+ ]
+}

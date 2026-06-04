@@ -1,0 +1,96 @@
+{
+ "added": [
+  {
+   "symbol": "AESPU",
+   "name": "Aeon Acquisition I Corp. - Units",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "AESPU"
+  },
+  {
+   "symbol": "APMCU",
+   "name": "AmperCap Acquisition Company - Unit",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "APMCU"
+  },
+  {
+   "symbol": "BGEG",
+   "name": "Baillie Gifford Emerging Markets ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "BGEG"
+  },
+  {
+   "symbol": "BGIA",
+   "name": "Baillie Gifford International Alpha ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "BGIA"
+  },
+  {
+   "symbol": "HYPG",
+   "name": "Grayscale Hyperliquid Staking ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "HYPG"
+  },
+  {
+   "symbol": "PPLI",
+   "name": "People Incorporated - Common Stock",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "PPLI"
+  },
+  {
+   "symbol": "TRUI",
+   "name": "VanEck Industrials TruSector ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "TRUI"
+  },
+  {
+   "symbol": "TRUO",
+   "name": "VanEck Consumer Staples TruSector ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "TRUO"
+  },
+  {
+   "symbol": "ETSS",
+   "name": "Energy Transition Special Opportunities Class A Ordinary Shares",
+   "exchange": "NYSE",
+   "yahoo_symbol": "ETSS"
+  },
+  {
+   "symbol": "ETSS.W",
+   "name": "Energy Transition Special Opportunities Warrants, each whole warrant exercisable for one Class A ordinary share at an exercise price of $11.50",
+   "exchange": "NYSE",
+   "yahoo_symbol": "ETSS.W"
+  },
+  {
+   "symbol": "SSMR",
+   "name": "Sunshine Silver Mining \u0026 Refining Company Common Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "SSMR"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "IAC",
+   "name": "IAC Inc. - Common Stock",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "IAC"
+  },
+  {
+   "symbol": "NVA",
+   "name": "Nova Minerals Limited - American Depositary Shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "NVA"
+  },
+  {
+   "symbol": "NVAWW",
+   "name": "Nova Minerals Limited - Warrant",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "NVAWW"
+  },
+  {
+   "symbol": "FONR",
+   "name": "Fonar Corporation - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "FONR"
+  }
+ ]
+}
