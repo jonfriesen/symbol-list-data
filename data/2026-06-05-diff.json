@@ -1,0 +1,120 @@
+{
+ "added": [
+  {
+   "symbol": "JAY",
+   "name": "Blue Jay Gold Corp.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "JAY.V",
+   "instruments": [
+    {
+     "name": "Blue Jay Gold Corp.",
+     "symbol": "JAY"
+    }
+   ]
+  },
+  {
+   "symbol": "CSX",
+   "name": "Clean Seed Capital Group Ltd.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "CSX.V",
+   "instruments": [
+    {
+     "name": "Clean Seed Capital Group Ltd.",
+     "symbol": "CSX"
+    }
+   ]
+  },
+  {
+   "symbol": "VGC",
+   "name": "Valor Gold Corp.",
+   "exchange": "TSX",
+   "yahoo_symbol": "VGC.TO",
+   "instruments": [
+    {
+     "name": "Valor Gold Corp",
+     "symbol": "VGC"
+    }
+   ]
+  },
+  {
+   "symbol": "FTRA.U",
+   "name": "FutureCorp Space Acquisition 1 Units, each consisting of one Class A ordinary share and one-half of one redeemable warrant",
+   "exchange": "NYSE",
+   "yahoo_symbol": "FTRA.U"
+  },
+  {
+   "symbol": "AZI",
+   "name": "Autozi Internet Technology (Global) Ltd. - Class A Ordinary Shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "AZI"
+  },
+  {
+   "symbol": "INIO",
+   "name": "INNIO N.V. - Ordinary Shares",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "INIO"
+  },
+  {
+   "symbol": "IPVVU",
+   "name": "InterPrivate Investment Partners V, Inc. - Units",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "IPVVU"
+  },
+  {
+   "symbol": "LFTO",
+   "name": "Liftoff Mobile, Inc. - Common Stock",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "LFTO"
+  },
+  {
+   "symbol": "LTGRU",
+   "name": "Long Table Growth Corp. - Units",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "LTGRU"
+  },
+  {
+   "symbol": "PECE",
+   "name": "Peace Acquisition Corp - Ordinary Shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "PECE"
+  },
+  {
+   "symbol": "PECER",
+   "name": "Peace Acquisition Corp - Right",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "PECER"
+  },
+  {
+   "symbol": "PECEW",
+   "name": "Peace Acquisition Corp - Warrant",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "PECEW"
+  },
+  {
+   "symbol": "QNT",
+   "name": "Quantinuum Inc. - Class A Common Stock",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "QNT"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "CTX",
+   "name": "Crescita Therapeutics Inc.",
+   "exchange": "TSX",
+   "yahoo_symbol": "CTX.TO",
+   "instruments": [
+    {
+     "name": "Crescita Therpeutc J",
+     "symbol": "CTX"
+    }
+   ]
+  },
+  {
+   "symbol": "AZI",
+   "name": "Autozi Internet Technology (Global) Ltd. - Class A Ordinary Shares",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "AZI"
+  }
+ ]
+}
