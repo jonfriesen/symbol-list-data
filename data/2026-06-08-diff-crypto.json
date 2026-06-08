@@ -1,0 +1,58 @@
+{
+ "added": [
+  {
+   "symbol": "MAOMEME",
+   "name": "Mao (MAOMEME)"
+  },
+  {
+   "symbol": "LCXV1",
+   "name": "LCX (LCXV1)"
+  },
+  {
+   "symbol": "BABYSHARKMEME",
+   "name": "Baby Shark Meme (BABYSHARKMEME)"
+  },
+  {
+   "symbol": "SPINPROTOCOL",
+   "name": "SPIN Protocol (SPINPROTOCOL)"
+  },
+  {
+   "symbol": "FACEBOOKDIEM",
+   "name": "Facebook Diem (FACEBOOKDIEM)"
+  },
+  {
+   "symbol": "ZEDCOIN",
+   "name": "ZedCoin (ZEDCOIN)"
+  },
+  {
+   "symbol": "TERMINUSVIP",
+   "name": "Terminus (TERMINUSVIP)"
+  },
+  {
+   "symbol": "FINALFRONTIER",
+   "name": "Final Frontier (FINALFRONTIER)"
+  },
+  {
+   "symbol": "HBADG",
+   "name": "Hbadger (HBADG)"
+  },
+  {
+   "symbol": "PITCHINVESTORS",
+   "name": "PITCH (PITCHINVESTORS)"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "BABY4",
+   "name": "Baby 4 (BABY4)"
+  },
+  {
+   "symbol": "MPON",
+   "name": "MP Materials (Ondo Tokenized) (MPON)"
+  },
+  {
+   "symbol": "IMU",
+   "name": "Immunefi (IMU)"
+  }
+ ]
+}
