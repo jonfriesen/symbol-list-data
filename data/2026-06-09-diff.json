@@ -1,0 +1,48 @@
+{
+ "added": [
+  {
+   "symbol": "FRTT",
+   "name": "Fort Technology Inc. - Common Shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "FRTT"
+  },
+  {
+   "symbol": "NHIVW",
+   "name": "NewHold Investment Corp IV - Warrants",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "NHIVW"
+  },
+  {
+   "symbol": "OCAC.U",
+   "name": "Ocean Capital Acquisition Corporation Units, each consisting of one Class A Ordinary Share, one redeemable Warrant and one Right",
+   "exchange": "NYSE",
+   "yahoo_symbol": "OCAC.U"
+  },
+  {
+   "symbol": "WHK",
+   "name": "WhiteHawk Minerals Corp Class A Common Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "WHK"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "BU",
+   "name": "Defiance Daily Target 2X Long BU ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "BU"
+  },
+  {
+   "symbol": "KPLTW",
+   "name": "Katapult Holdings, Inc. - Warrant",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "KPLTW"
+  },
+  {
+   "symbol": "CVNX",
+   "name": "Defiance Daily Target 2X Long CVNA ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "CVNX"
+  }
+ ]
+}
