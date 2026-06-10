@@ -1,0 +1,114 @@
+{
+ "added": [
+  {
+   "symbol": "ALZI",
+   "name": "Alzai Health Corp.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "ALZI.V",
+   "instruments": [
+    {
+     "name": "Alzai Health Corp.",
+     "symbol": "ALZI"
+    }
+   ]
+  },
+  {
+   "symbol": "APTX",
+   "name": "Apotex Health Corp.",
+   "exchange": "TSX",
+   "yahoo_symbol": "APTX.TO",
+   "instruments": [
+    {
+     "name": "Apotex Health Corp",
+     "symbol": "APTX"
+    }
+   ]
+  },
+  {
+   "symbol": "EROC",
+   "name": "ERock, Inc. Class A Common Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "EROC"
+  },
+  {
+   "symbol": "TRLV",
+   "name": "Trulieve Cannabis Corp. Subordinate Voting Shares",
+   "exchange": "NYSE",
+   "yahoo_symbol": "TRLV"
+  },
+  {
+   "symbol": "AIBZ",
+   "name": "Bitzero Holdings Inc. - Common Shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "AIBZ"
+  },
+  {
+   "symbol": "ELOX",
+   "name": "Eloxx Pharmaceuticals, Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "ELOX"
+  },
+  {
+   "symbol": "GEQ",
+   "name": "Cambria Global EW 2 ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "GEQ"
+  },
+  {
+   "symbol": "ISNRU",
+   "name": "Snow Rothschild Acquisition Corp. - Units",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "ISNRU"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "LEGT.W",
+   "name": "Legato Merger Corp. III Redeemable Warrants, each whole warrant exercisable for one ordinary share at an exercise price of $11.50 per share",
+   "exchange": "NYSE MKT",
+   "yahoo_symbol": "LEGT.W"
+  },
+  {
+   "symbol": "LEGT",
+   "name": "Legato Merger Corp. III Ordinary Shares",
+   "exchange": "NYSE MKT",
+   "yahoo_symbol": "LEGT"
+  },
+  {
+   "symbol": "RV",
+   "name": "Pathfinder Ventures Inc.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "RV.V",
+   "instruments": [
+    {
+     "name": "Pathfinder Ventures Inc.",
+     "symbol": "RV"
+    }
+   ]
+  },
+  {
+   "symbol": "LEGT.U",
+   "name": "Legato Merger Corp. III Units, each consisting of one Ordinary Share and one-half of one warrant",
+   "exchange": "NYSE MKT",
+   "yahoo_symbol": "LEGT.U"
+  },
+  {
+   "symbol": "APURU",
+   "name": "Aperture AC - Units",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "APURU"
+  },
+  {
+   "symbol": "VVC",
+   "name": "VVC Exploration Corporation",
+   "exchange": "TSXV",
+   "yahoo_symbol": "VVC.V",
+   "instruments": [
+    {
+     "name": "VVC Exploration Corporation",
+     "symbol": "VVC"
+    }
+   ]
+  }
+ ]
+}
