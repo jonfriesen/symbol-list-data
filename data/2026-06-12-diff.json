@@ -1,0 +1,360 @@
+{
+ "added": [
+  {
+   "symbol": "AURO",
+   "name": "Auro Metals Inc.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "AURO.V",
+   "instruments": [
+    {
+     "name": "Auro Metals Inc.",
+     "symbol": "AURO"
+    }
+   ]
+  },
+  {
+   "symbol": "EVNT",
+   "name": "Eventer Technologies Ltd.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "EVNT.V",
+   "instruments": [
+    {
+     "name": "Eventer Technologies Ltd.",
+     "symbol": "EVNT"
+    }
+   ]
+  },
+  {
+   "symbol": "JUN.A",
+   "name": "Juno International Corporation",
+   "exchange": "TSXV",
+   "yahoo_symbol": "JUN.A.V",
+   "instruments": [
+    {
+     "name": "Juno International Corporation",
+     "symbol": "JUN.A"
+    }
+   ]
+  },
+  {
+   "symbol": "SPCX",
+   "name": "SpaceX CDR (CAD Hedged)",
+   "exchange": "TSX",
+   "yahoo_symbol": "SPCX.TO",
+   "instruments": [
+    {
+     "name": "SpaceX CDR (CAD Hgd)",
+     "symbol": "SPCX"
+    }
+   ]
+  },
+  {
+   "symbol": "APUR",
+   "name": "Aperture AC - Class A Ordinary Shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "APUR"
+  },
+  {
+   "symbol": "APURR",
+   "name": "Aperture AC - Rights",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "APURR"
+  },
+  {
+   "symbol": "AVAT",
+   "name": "Avalanche Treasury Corporation - Class A Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "AVAT"
+  },
+  {
+   "symbol": "BREZ",
+   "name": "Breeze Acquisition Corp. II - Ordinary Shares",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "BREZ"
+  },
+  {
+   "symbol": "BREZR",
+   "name": "Breeze Acquisition Corp. II - Rights",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "BREZR"
+  },
+  {
+   "symbol": "BSCA",
+   "name": "Invesco BulletShares 2036 Corporate Bond ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "BSCA"
+  },
+  {
+   "symbol": "BSGR",
+   "name": "Invesco BulletShares 2027 Treasury Bond ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "BSGR"
+  },
+  {
+   "symbol": "BSGT",
+   "name": "Invesco BulletShares 2029 Treasury Bond ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "BSGT"
+  },
+  {
+   "symbol": "BSJY",
+   "name": "Invesco BulletShares 2034 High Yield Corporate Bond ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "BSJY"
+  },
+  {
+   "symbol": "BSTS",
+   "name": "Invesco BulletShares 2028 Treasury Bond ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "BSTS"
+  },
+  {
+   "symbol": "BSTU",
+   "name": "Invesco BulletShares 2030 Treasury Bond ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "BSTU"
+  },
+  {
+   "symbol": "BSTV",
+   "name": "Invesco BulletShares 2031 Treasury Bond ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "BSTV"
+  },
+  {
+   "symbol": "ENRD",
+   "name": "Einride AB - American Depositary Shares",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "ENRD"
+  },
+  {
+   "symbol": "ENRDW",
+   "name": "Einride AB - Warrants",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "ENRDW"
+  },
+  {
+   "symbol": "FRBT",
+   "name": "Forbright, Inc. - Class A Common Stock",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "FRBT"
+  },
+  {
+   "symbol": "JABRU",
+   "name": "JAB Acquisition Corp I - Units",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "JABRU"
+  },
+  {
+   "symbol": "PBLS",
+   "name": "Parabilis Medicines, Inc. - Common Stock",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "PBLS"
+  },
+  {
+   "symbol": "SGVA",
+   "name": "F/m Accumulator Ultrashort Treasury Fund",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "SGVA"
+  },
+  {
+   "symbol": "SHOE",
+   "name": "Shoe Station Group, Inc. - Common Stock",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "SHOE"
+  },
+  {
+   "symbol": "SHOTU",
+   "name": "RMG ML Sports Holdings - Unit",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "SHOTU"
+  },
+  {
+   "symbol": "SPCX",
+   "name": "Space Exploration Technologies Corp. - Class A Common Stock",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "SPCX"
+  },
+  {
+   "symbol": "VRXA",
+   "name": "Veraxa Biotech AG - Ordinary Shares",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "VRXA"
+  },
+  {
+   "symbol": "VRXAW",
+   "name": "Veraxa Biotech AG - Warrants",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "VRXAW"
+  },
+  {
+   "symbol": "FITB",
+   "name": "Fifth Third Bancorp Common Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "FITB"
+  },
+  {
+   "symbol": "FITB$A",
+   "name": "Fifth Third Bancorp Depositary Shares each representing 1/40th share of Fifth Third 6.00% Non-Cumulative Perpetual Class B Preferred Stock, Series A",
+   "exchange": "NYSE",
+   "yahoo_symbol": "FITB$A"
+  },
+  {
+   "symbol": "FITB$I",
+   "name": "Fifth Third Bancorp Depositary Share repstg 1/1000th Ownership Interest Perp Pfd Series I",
+   "exchange": "NYSE",
+   "yahoo_symbol": "FITB$I"
+  },
+  {
+   "symbol": "FITB$K",
+   "name": "Fifth Third Bancorp Depositary Shares each representing a 1/1000th ownership interest in a share of Non-Cumulative Perpetual Preferred Stock, Series K",
+   "exchange": "NYSE",
+   "yahoo_symbol": "FITB$K"
+  },
+  {
+   "symbol": "FITB$M",
+   "name": "Fifth Third Bancorp Depositary Shares Representing a 1/40th Ownership Interest in a Share of 6.875% Fixed-Rate Reset Non-Cumulative Perpetual Preferred Stock, Series M",
+   "exchange": "NYSE",
+   "yahoo_symbol": "FITB$M"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "QSIAW",
+   "name": "Quantum-Si Incorporated - Warrant",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "QSIAW"
+  },
+  {
+   "symbol": "SCVL",
+   "name": "Shoe Carnival, Inc. - Common Stock",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "SCVL"
+  },
+  {
+   "symbol": "VACHU",
+   "name": "Voyager Acquisition Corp - Unit",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "VACHU"
+  },
+  {
+   "symbol": "NOTV",
+   "name": "Inotiv, Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "NOTV"
+  },
+  {
+   "symbol": "VACH",
+   "name": "Voyager Acquisition Corp - Class A Ordinary Shares",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "VACH"
+  },
+  {
+   "symbol": "NFD.A",
+   "name": "Northfield Capital Corporation",
+   "exchange": "TSXV",
+   "yahoo_symbol": "NFD.A.V",
+   "instruments": [
+    {
+     "name": "Northfield Capital Corporation cl A rv",
+     "symbol": "NFD.A"
+    }
+   ]
+  },
+  {
+   "symbol": "MLAC",
+   "name": "Mountain Lake Acquisition Corp. - Class A Ordinary Shares",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "MLAC"
+  },
+  {
+   "symbol": "LDB.P",
+   "name": "LDB Capital Corp.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "LDB.P.V",
+   "instruments": [
+    {
+     "name": "LDB Capital Corp.",
+     "symbol": "LDB.P"
+    }
+   ]
+  },
+  {
+   "symbol": "BREZU",
+   "name": "Breeze Acquisition Corp. II - Units",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "BREZU"
+  },
+  {
+   "symbol": "FITBI",
+   "name": "Fifth Third Bancorp - Depositary Share repstg 1/1000th Ownership Interest Perp Pfd Series I",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "FITBI"
+  },
+  {
+   "symbol": "FITB",
+   "name": "Fifth Third Bancorp - Common Stock",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "FITB"
+  },
+  {
+   "symbol": "FITBO",
+   "name": "Fifth Third Bancorp - Depositary Shares each representing a 1/1000th ownership interest in a share of Non-Cumulative Perpetual Preferred Stock, Series K",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "FITBO"
+  },
+  {
+   "symbol": "MLACR",
+   "name": "Mountain Lake Acquisition Corp. - Right",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "MLACR"
+  },
+  {
+   "symbol": "VACHW",
+   "name": "Voyager Acquisition Corp - Warrants",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "VACHW"
+  },
+  {
+   "symbol": "FITBP",
+   "name": "Fifth Third Bancorp - Depositary Shares each representing 1/40th share of Fifth Third 6.00% Non-Cumulative Perpetual Class B Preferred Stock, Series A",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "FITBP"
+  },
+  {
+   "symbol": "MLACU",
+   "name": "Mountain Lake Acquisition Corp. - Units",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "MLACU"
+  },
+  {
+   "symbol": "TIN",
+   "name": "Tincorp Metals Inc.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "TIN.V",
+   "instruments": [
+    {
+     "name": "Tincorp Metals Inc.",
+     "symbol": "TIN"
+    }
+   ]
+  },
+  {
+   "symbol": "FITBM",
+   "name": "Fifth Third Bancorp - Depositary Shares Representing a 1/40th Ownership Interest in a Share of 6.875% Fixed-Rate Reset Non-Cumulative Perpetual Preferred Stock, Series M",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "FITBM"
+  },
+  {
+   "symbol": "KALV",
+   "name": "KalVista Pharmaceuticals, Inc. - Common Stock",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "KALV"
+  },
+  {
+   "symbol": "MASI",
+   "name": "Masimo Corporation - Common Stock",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "MASI"
+  }
+ ]
+}
