@@ -1,0 +1,120 @@
+{
+ "added": [
+  {
+   "symbol": "SPXE",
+   "name": "Harvest SpaceX Enhanced High Income Shares ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "SPXE.TO",
+   "instruments": [
+    {
+     "name": "Harv SpaceX Enh Hi I",
+     "symbol": "SPXE"
+    }
+   ]
+  },
+  {
+   "symbol": "HMMC",
+   "name": "Hemlo Mining Corp.",
+   "exchange": "TSX",
+   "yahoo_symbol": "HMMC.TO",
+   "instruments": [
+    {
+     "name": "Hemlo Mining Corp",
+     "symbol": "HMMC"
+    }
+   ]
+  },
+  {
+   "symbol": "CSEN",
+   "name": "Cohen \u0026 Steers Future of Energy Active ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "CSEN"
+  },
+  {
+   "symbol": "HONAV",
+   "name": "Honeywell Aerospace Inc. - Common Stock",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "HONAV"
+  },
+  {
+   "symbol": "HONIV",
+   "name": "Honeywell International Inc. - Common Stock Ex Distribution When Issued",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "HONIV"
+  },
+  {
+   "symbol": "SLBT",
+   "name": "SL Science Holding Limited - Ordinary Shares",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "SLBT"
+  },
+  {
+   "symbol": "TILC",
+   "name": "Thrivent International Large Cap ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "TILC"
+  },
+  {
+   "symbol": "TISC",
+   "name": "Thrivent International Small Cap ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "TISC"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "HMMC",
+   "name": "Hemlo Mining Corp.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "HMMC.V",
+   "instruments": [
+    {
+     "name": "Hemlo Mining Corp.",
+     "symbol": "HMMC"
+    }
+   ]
+  },
+  {
+   "symbol": "FTAIN",
+   "name": "FTAI Aviation Ltd. - 8.25% Fixed-Rate Reset Series C Cumulative Perpetual Redeemable Preferred Shares",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "FTAIN"
+  },
+  {
+   "symbol": "JMG",
+   "name": "JM Group Limited Ordinary Shares",
+   "exchange": "NYSE MKT",
+   "yahoo_symbol": "JMG"
+  },
+  {
+   "symbol": "HSPT",
+   "name": "Horizon Space Acquisition II Corp. - Ordinary share",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "HSPT"
+  },
+  {
+   "symbol": "HSPTU",
+   "name": "Horizon Space Acquisition II Corp. - Units",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "HSPTU"
+  },
+  {
+   "symbol": "TCGL",
+   "name": "TechCreate Group Ltd. Class A Ordinary Shares",
+   "exchange": "NYSE MKT",
+   "yahoo_symbol": "TCGL"
+  },
+  {
+   "symbol": "RZB",
+   "name": "Reinsurance Group of America, Incorporated 5.75% Fixed-To-Floating Rate Subordinated Debentures due 2056",
+   "exchange": "NYSE",
+   "yahoo_symbol": "RZB"
+  },
+  {
+   "symbol": "HSPTR",
+   "name": "Horizon Space Acquisition II Corp. - Right",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "HSPTR"
+  }
+ ]
+}
