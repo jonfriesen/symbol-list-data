@@ -1,0 +1,66 @@
+{
+ "added": [
+  {
+   "symbol": "CAES",
+   "name": "Cantor Equity Partners VII, Inc. - Class A Ordinary Shares",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "CAES"
+  },
+  {
+   "symbol": "CXII",
+   "name": "Churchill Capital Corp XII - Class A Ordinary Shares",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "CXII"
+  },
+  {
+   "symbol": "CXIIW",
+   "name": "Churchill Capital Corp XII - Warrants",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "CXIIW"
+  },
+  {
+   "symbol": "FCBM",
+   "name": "First Carolina Financial Services, Inc. Common Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "FCBM"
+  },
+  {
+   "symbol": "PLUN",
+   "name": "Plutonian Acquisition Corp II Class A Ordinary Shares",
+   "exchange": "NYSE",
+   "yahoo_symbol": "PLUN"
+  },
+  {
+   "symbol": "PLUN.R",
+   "name": "Plutonian Acquisition Corp II Rights, each entitling the holder to receive one-fourth of one Class A Ordinary Share",
+   "exchange": "NYSE",
+   "yahoo_symbol": "PLUN.R"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "MYPSW",
+   "name": "PLAYSTUDIOS, Inc.  - Warrant",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "MYPSW"
+  },
+  {
+   "symbol": "PMNT",
+   "name": "Perfect Moment Ltd. Common Stock",
+   "exchange": "NYSE MKT",
+   "yahoo_symbol": "PMNT"
+  },
+  {
+   "symbol": "RUP",
+   "name": "Rupert Resources Ltd.",
+   "exchange": "TSX",
+   "yahoo_symbol": "RUP.TO",
+   "instruments": [
+    {
+     "name": "Rupert Res Ltd. J",
+     "symbol": "RUP"
+    }
+   ]
+  }
+ ]
+}
