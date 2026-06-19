@@ -1,0 +1,88 @@
+{
+ "added": [
+  {
+   "symbol": "NAP",
+   "name": "Napoleon Resources Inc.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "NAP.V",
+   "instruments": [
+    {
+     "name": "Napoleon Resources Inc.",
+     "symbol": "NAP"
+    }
+   ]
+  },
+  {
+   "symbol": "FIMU",
+   "name": "Fidelity Intermediate Municipal Income ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "FIMU"
+  },
+  {
+   "symbol": "FISN",
+   "name": "Deep Fission, Inc. - Common Stock",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "FISN"
+  },
+  {
+   "symbol": "FREI",
+   "name": "Fidelity Real Estate Income ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "FREI"
+  },
+  {
+   "symbol": "FSTB",
+   "name": "Fidelity Short-Term Bond ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "FSTB"
+  },
+  {
+   "symbol": "IACQ",
+   "name": "Irenic Acquisition Corp. - Class A Ordinary Shares",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "IACQ"
+  },
+  {
+   "symbol": "IACQW",
+   "name": "Irenic Acquisition Corp. - Warrants",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "IACQW"
+  },
+  {
+   "symbol": "KARD",
+   "name": "Kardigan, Inc. - Common Stock",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "KARD"
+  },
+  {
+   "symbol": "NUIF",
+   "name": "Nuveen US Infrastructure ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "NUIF"
+  },
+  {
+   "symbol": "NVPS",
+   "name": "PurePlay Nvidia Ecosystem Picks \u0026 Shovels Index ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "NVPS"
+  },
+  {
+   "symbol": "OPI",
+   "name": "Office Properties Income Trust - Common shares of beneficial interest",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "OPI"
+  },
+  {
+   "symbol": "TVIVU",
+   "name": "Texas Ventures Acquisition IV Corp - Units",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "TVIVU"
+  },
+  {
+   "symbol": "WLCOU",
+   "name": "Wilco 63 Corporation - Units",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "WLCOU"
+  }
+ ]
+}
