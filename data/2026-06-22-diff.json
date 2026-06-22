@@ -1,0 +1,168 @@
+{
+ "added": [
+  {
+   "symbol": "CAII",
+   "name": "Collective Acquisition Corp. II - Class A Ordinary Shares",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "CAII"
+  },
+  {
+   "symbol": "CAIIW",
+   "name": "Collective Acquisition Corp. II - Warrants",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "CAIIW"
+  },
+  {
+   "symbol": "FTHA",
+   "name": "Forefront Tech Holdings Acquisition Corp - Class A Ordinary Shares",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "FTHA"
+  },
+  {
+   "symbol": "FTHAW",
+   "name": "Forefront Tech Holdings Acquisition Corp - Warrant",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "FTHAW"
+  },
+  {
+   "symbol": "GCGR",
+   "name": "General Catalyst Global Resilience Merger Corp. - Class A Ordinary Shares",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "GCGR"
+  },
+  {
+   "symbol": "GCGRW",
+   "name": "General Catalyst Global Resilience Merger Corp. - Warrants",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "GCGRW"
+  },
+  {
+   "symbol": "HAPN",
+   "name": "Happen, Inc. - Common Stock",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "HAPN"
+  },
+  {
+   "symbol": "KEYY",
+   "name": "Keystone Acquisition Corp. - Class A Ordinary Shares",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "KEYY"
+  },
+  {
+   "symbol": "KEYYW",
+   "name": "Keystone Acquisition Corp. - Warrants",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "KEYYW"
+  },
+  {
+   "symbol": "MCAH",
+   "name": "Mountain Crest Acquisition 6 Corp. - Ordinary Shares",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "MCAH"
+  },
+  {
+   "symbol": "MCAHR",
+   "name": "Mountain Crest Acquisition 6 Corp. - Rights",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "MCAHR"
+  },
+  {
+   "symbol": "ROB",
+   "name": "Robinson Energy Limited",
+   "exchange": "TSXV",
+   "yahoo_symbol": "ROB.V",
+   "instruments": [
+    {
+     "name": "Robinson Energy Limited",
+     "symbol": "ROB"
+    }
+   ]
+  },
+  {
+   "symbol": "FIRY",
+   "name": "Firy Inc. Class A Common Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "FIRY"
+  },
+  {
+   "symbol": "MTNE",
+   "name": "CH4 Natural Solutions Corporation Class A Ordinary Shares",
+   "exchange": "NYSE",
+   "yahoo_symbol": "MTNE"
+  },
+  {
+   "symbol": "MTNE.W",
+   "name": "CH4 Natural Solutions Corporation Warrants, each whole warrant exercisable for one Class A Ordinary Share at an exercise price of $11.50 per share",
+   "exchange": "NYSE",
+   "yahoo_symbol": "MTNE.W"
+  },
+  {
+   "symbol": "RQI.R",
+   "name": "Cohen \u0026 Steers Quality Income Realty Fund Inc. Rights (expiring July 15, 2026) Rights",
+   "exchange": "NYSE",
+   "yahoo_symbol": "RQI.R"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "CIF",
+   "name": "MFS Intermediate High Income Fund Common Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "CIF"
+  },
+  {
+   "symbol": "LC",
+   "name": "LendingClub Corporation Common Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "LC"
+  },
+  {
+   "symbol": "BULX",
+   "name": "GraniteShares 2x Long BULL Daily ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "BULX"
+  },
+  {
+   "symbol": "MCR",
+   "name": "MFS Charter Income Trust Common Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "MCR"
+  },
+  {
+   "symbol": "MSDD",
+   "name": "GraniteShares 2x Short MSTR Daily ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "MSDD"
+  },
+  {
+   "symbol": "ETRL",
+   "name": "GraniteShares 2x Long ETOR Daily ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "ETRL"
+  },
+  {
+   "symbol": "SKLZ",
+   "name": "Skillz Inc. Class A Common Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "SKLZ"
+  },
+  {
+   "symbol": "RQI.V",
+   "name": "Cohen \u0026 Steers Quality Income Realty Fund Inc. Rights (expiring July 15, 2026) Rights when issued",
+   "exchange": "NYSE",
+   "yahoo_symbol": "RQI.V"
+  },
+  {
+   "symbol": "CBV",
+   "name": "Cobra Venture Corporation",
+   "exchange": "TSXV",
+   "yahoo_symbol": "CBV.V",
+   "instruments": [
+    {
+     "name": "Cobra Venture Corporation",
+     "symbol": "CBV"
+    }
+   ]
+  }
+ ]
+}
