@@ -1,0 +1,228 @@
+{
+ "added": [
+  {
+   "symbol": "NMB",
+   "name": "NorthMin Corporation",
+   "exchange": "TSXV",
+   "yahoo_symbol": "NMB.V",
+   "instruments": [
+    {
+     "name": "NorthMin Corporation",
+     "symbol": "NMB"
+    }
+   ]
+  },
+  {
+   "symbol": "AENP",
+   "name": "AGF Enhanced U.S. Income Plus Fund",
+   "exchange": "TSX",
+   "yahoo_symbol": "AENP.TO",
+   "instruments": [
+    {
+     "name": "AGF Enh US Inc Plus",
+     "symbol": "AENP"
+    }
+   ]
+  },
+  {
+   "symbol": "NICU",
+   "name": "Magna Mining Inc.",
+   "exchange": "TSX",
+   "yahoo_symbol": "NICU.TO",
+   "instruments": [
+    {
+     "name": "Magna Mining Inc",
+     "symbol": "NICU"
+    }
+   ]
+  },
+  {
+   "symbol": "MBNK",
+   "name": "Mulvihill Canadian Bank ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "MBNK.TO",
+   "instruments": [
+    {
+     "name": "Mulvihill Cdn Bnk ET",
+     "symbol": "MBNK"
+    }
+   ]
+  },
+  {
+   "symbol": "NBLD",
+   "name": "NBI Balanced ETF Portfolio",
+   "exchange": "TSX",
+   "yahoo_symbol": "NBLD.TO",
+   "instruments": [
+    {
+     "name": "NBI Bal ETF Port",
+     "symbol": "NBLD"
+    }
+   ]
+  },
+  {
+   "symbol": "NCNS",
+   "name": "NBI Conservative ETF Portfolio",
+   "exchange": "TSX",
+   "yahoo_symbol": "NCNS.TO",
+   "instruments": [
+    {
+     "name": "NBI Cons Portfolio",
+     "symbol": "NCNS"
+    }
+   ]
+  },
+  {
+   "symbol": "NEQT",
+   "name": "NBI Equity ETF Portfolio",
+   "exchange": "TSX",
+   "yahoo_symbol": "NEQT.TO",
+   "instruments": [
+    {
+     "name": "NBI Eq Portfolio",
+     "symbol": "NEQT"
+    }
+   ]
+  },
+  {
+   "symbol": "NGRW",
+   "name": "NBI Growth ETF Portfolio",
+   "exchange": "TSX",
+   "yahoo_symbol": "NGRW.TO",
+   "instruments": [
+    {
+     "name": "NBI Grwth ETF Port",
+     "symbol": "NGRW"
+    }
+   ]
+  },
+  {
+   "symbol": "NTHM",
+   "name": "NBI Thematic Rotation ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "NTHM.TO",
+   "instruments": [
+    {
+     "name": "NBI Theme Rot Ptf",
+     "symbol": "NTHM"
+    }
+   ]
+  },
+  {
+   "symbol": "PGRX",
+   "name": "Purpose Global Resource Fund",
+   "exchange": "TSX",
+   "yahoo_symbol": "PGRX.TO",
+   "instruments": [
+    {
+     "name": "Purpose Gbl Resource",
+     "symbol": "PGRX"
+    }
+   ]
+  },
+  {
+   "symbol": "QLEP",
+   "name": "Quantum Leap Acquisition Corp Class A Ordinary Shares",
+   "exchange": "NYSE",
+   "yahoo_symbol": "QLEP"
+  },
+  {
+   "symbol": "QLEP.W",
+   "name": "Quantum Leap Acquisition Corp Warrants, each whole warrant exercisable for one Class A Ordinary Share at an exercise price of $11.50 per share",
+   "exchange": "NYSE",
+   "yahoo_symbol": "QLEP.W"
+  },
+  {
+   "symbol": "TPTS",
+   "name": "Terra Property Trust, Inc. 7.00% Senior Secured Notes due 2029",
+   "exchange": "NYSE",
+   "yahoo_symbol": "TPTS"
+  },
+  {
+   "symbol": "SKYE",
+   "name": "Skye Bioscience, Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "SKYE"
+  },
+  {
+   "symbol": "TMS",
+   "name": "Teamshares Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "TMS"
+  },
+  {
+   "symbol": "TMSWW",
+   "name": "Teamshares Inc. - Warrants",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "TMSWW"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "TALKW",
+   "name": "Talkspace, Inc. - Warrant",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "TALKW"
+  },
+  {
+   "symbol": "QLEP.U",
+   "name": "Quantum Leap Acquisition Corp Units, each consisting of one Class A ordinary share and one redeemable warrant",
+   "exchange": "NYSE",
+   "yahoo_symbol": "QLEP.U"
+  },
+  {
+   "symbol": "LOKVW",
+   "name": "Live Oak Acquisition Corp. V - Warrants",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "LOKVW"
+  },
+  {
+   "symbol": "NICU",
+   "name": "Magna Mining Inc.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "NICU.V",
+   "instruments": [
+    {
+     "name": "Magna Mining Inc.",
+     "symbol": "NICU"
+    }
+   ]
+  },
+  {
+   "symbol": "LOKVU",
+   "name": "Live Oak Acquisition Corp. V - Units",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "LOKVU"
+  },
+  {
+   "symbol": "LOKV",
+   "name": "Live Oak Acquisition Corp. V - Class A Ordinary Shares",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "LOKV"
+  },
+  {
+   "symbol": "SKYE",
+   "name": "Skye Bioscience, Inc. - Common Stock",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "SKYE"
+  },
+  {
+   "symbol": "CCZ.P",
+   "name": "Chablis Capital Corp.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "CCZ.P.V",
+   "instruments": [
+    {
+     "name": "Chablis Capital Corp.",
+     "symbol": "CCZ.P"
+    }
+   ]
+  },
+  {
+   "symbol": "SNBR",
+   "name": "Sleep Number Corporation - Common Stock",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "SNBR"
+  }
+ ]
+}
