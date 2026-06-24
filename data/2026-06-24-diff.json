@@ -1,0 +1,90 @@
+{
+ "added": [
+  {
+   "symbol": "CHLT",
+   "name": "Custom Health Holdings Inc.",
+   "exchange": "TSX",
+   "yahoo_symbol": "CHLT.TO",
+   "instruments": [
+    {
+     "name": "Custom Health Holdgs",
+     "symbol": "CHLT"
+    }
+   ]
+  },
+  {
+   "symbol": "ASHR",
+   "name": "Mulvihill Split Capital Share ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "ASHR.TO",
+   "instruments": [
+    {
+     "name": "Mulvihill Sp Cap S E",
+     "symbol": "ASHR"
+    }
+   ]
+  },
+  {
+   "symbol": "PFRD",
+   "name": "Mulvihill Split Preferred Share ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "PFRD.TO",
+   "instruments": [
+    {
+     "name": "Mulvihill Sp Pr Sh E",
+     "symbol": "PFRD"
+    }
+   ]
+  },
+  {
+   "symbol": "AAAP",
+   "name": "Pacer Barings CLO Market Flex ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "AAAP"
+  },
+  {
+   "symbol": "ECHO",
+   "name": "EchoStar Corporation - Common stock",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "ECHO"
+  },
+  {
+   "symbol": "GHXIU",
+   "name": "Gores Holdings XI, Inc. - Units",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "GHXIU"
+  },
+  {
+   "symbol": "PBSC",
+   "name": "Pacer Barings Secured Credit Flex ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "PBSC"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "DEVS",
+   "name": "DevvStream Corp. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "DEVS"
+  },
+  {
+   "symbol": "SATS",
+   "name": "EchoStar Corporation - Common stock",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "SATS"
+  },
+  {
+   "symbol": "ORIS",
+   "name": "Oriental Rise Holdings Limited - Ordinary Shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "ORIS"
+  },
+  {
+   "symbol": "ORGNW",
+   "name": "Origin Materials, Inc. - Warrant",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "ORGNW"
+  }
+ ]
+}
