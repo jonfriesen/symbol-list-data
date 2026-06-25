@@ -1,0 +1,72 @@
+{
+ "added": [
+  {
+   "symbol": "AMEI",
+   "name": "Amana Equity Income ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "AMEI"
+  },
+  {
+   "symbol": "AMEM",
+   "name": "Amana Developing World ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "AMEM"
+  },
+  {
+   "symbol": "AMGR",
+   "name": "Amana Growth ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "AMGR"
+  },
+  {
+   "symbol": "QNDX",
+   "name": "State Street SPDR Portfolio Nasdaq 100 ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "QNDX"
+  },
+  {
+   "symbol": "SMHC",
+   "name": "VanEck China Semiconductor ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "SMHC"
+  },
+  {
+   "symbol": "MILE",
+   "name": "Twenty Mile Metals Inc.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "MILE.V",
+   "instruments": [
+    {
+     "name": "Twenty Mile Metals Inc.",
+     "symbol": "MILE"
+    }
+   ]
+  },
+  {
+   "symbol": "DPC",
+   "name": "DPC Holdings PLC Ordinary Shares",
+   "exchange": "NYSE",
+   "yahoo_symbol": "DPC"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "CWAN",
+   "name": "Clearwater Analytics Holdings, Inc. Class A Common Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "CWAN"
+  },
+  {
+   "symbol": "ADTX",
+   "name": "Aditxt, Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "ADTX"
+  },
+  {
+   "symbol": "CNTA",
+   "name": "Centessa Pharmaceuticals plc - American Depositary Shares",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "CNTA"
+  }
+ ]
+}
