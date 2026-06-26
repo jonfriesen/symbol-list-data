@@ -1,0 +1,96 @@
+{
+ "added": [
+  {
+   "symbol": "SMWE",
+   "name": "Smartwell Technology Corp.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "SMWE.V",
+   "instruments": [
+    {
+     "name": "Smartwell Technology Corp.",
+     "symbol": "SMWE"
+    }
+   ]
+  },
+  {
+   "symbol": "AIX",
+   "name": "Defiance US 100 Tech AI Moat ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "AIX"
+  },
+  {
+   "symbol": "ALPXU",
+   "name": "Alpex Acquisition Corporation - Units",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "ALPXU"
+  },
+  {
+   "symbol": "CGCFU",
+   "name": "Cartesian Growth Corporation IV - Units",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "CGCFU"
+  },
+  {
+   "symbol": "DSC",
+   "name": "DSC Holdings Ltd. - American Depositary Shares",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "DSC"
+  },
+  {
+   "symbol": "FWACU",
+   "name": "Futurewave Acquisition Corporation - Units",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "FWACU"
+  },
+  {
+   "symbol": "MBGL.V",
+   "name": "Mobility Global Inc. Common Stock When-Issued",
+   "exchange": "NYSE",
+   "yahoo_symbol": "MBGL.V"
+  },
+  {
+   "symbol": "SIND",
+   "name": "Sinda Ltd. Common Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "SIND"
+  },
+  {
+   "symbol": "SPGI.V",
+   "name": "S\u0026P Global Inc. Common Stock When-Issued",
+   "exchange": "NYSE",
+   "yahoo_symbol": "SPGI.V"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "SDM",
+   "name": "Smart Digital Group Limited - Ordinary Shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "SDM"
+  },
+  {
+   "symbol": "PRA",
+   "name": "ProAssurance Corporation Common Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "PRA"
+  },
+  {
+   "symbol": "ASCU",
+   "name": "Arizona Sonoran Copper Company Inc.",
+   "exchange": "TSX",
+   "yahoo_symbol": "ASCU.TO",
+   "instruments": [
+    {
+     "name": "Arizona Sonoran J",
+     "symbol": "ASCU"
+    }
+   ]
+  },
+  {
+   "symbol": "LANV.W",
+   "name": "Lanvin Group Holdings Limited Redeemable Warrants, each whole warrant exercisable for one Ordinary Share at an exercise price of $11.50",
+   "exchange": "NYSE",
+   "yahoo_symbol": "LANV.W"
+  }
+ ]
+}
