@@ -1,0 +1,132 @@
+{
+ "added": [
+  {
+   "symbol": "DACU",
+   "name": "Desjardins Active Canadian Bond Universe ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "DACU.TO",
+   "instruments": [
+    {
+     "name": "Desj Act Can Bd Univ",
+     "symbol": "DACU"
+    }
+   ]
+  },
+  {
+   "symbol": "DACL",
+   "name": "Desjardins Canadian Equity Leaders ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "DACL.TO",
+   "instruments": [
+    {
+     "name": "Desj Cdn Equity Ldr",
+     "symbol": "DACL"
+    }
+   ]
+  },
+  {
+   "symbol": "DAGL",
+   "name": "Desjardins Global Opportunities ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "DAGL.TO",
+   "instruments": [
+    {
+     "name": "Desj Glbl Opps ETF",
+     "symbol": "DAGL"
+    }
+   ]
+  },
+  {
+   "symbol": "HONA",
+   "name": "Honeywell Aerospace Inc. - Common Stock",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "HONA"
+  },
+  {
+   "symbol": "MFPVV",
+   "name": "Midera Food Processing, Inc. - Common Stock When Issued",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "MFPVV"
+  },
+  {
+   "symbol": "MIDDV",
+   "name": "Middleby Corp. - Common Stock Ex-Distribution When Issued",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "MIDDV"
+  },
+  {
+   "symbol": "USDE",
+   "name": "StablecoinX Inc. - Class A Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "USDE"
+  },
+  {
+   "symbol": "USDEW",
+   "name": "StablecoinX Inc. - Warrants",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "USDEW"
+  },
+  {
+   "symbol": "DMC",
+   "name": "Del Monte Corporation Ordinary Shares",
+   "exchange": "NYSE",
+   "yahoo_symbol": "DMC"
+  },
+  {
+   "symbol": "OTAI",
+   "name": "Starlink AI Acquisition Corporation Ordinary Shares",
+   "exchange": "NYSE",
+   "yahoo_symbol": "OTAI"
+  },
+  {
+   "symbol": "OTAI.R",
+   "name": "Starlink AI Acquisition Corporation Rights, each entitling the holder to receive one-fourth (1/4) of one ordinary share",
+   "exchange": "NYSE",
+   "yahoo_symbol": "OTAI.R"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "HONIV",
+   "name": "Honeywell International Inc. - Common Stock Ex Distribution When Issued",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "HONIV"
+  },
+  {
+   "symbol": "GH",
+   "name": "Gamehost Inc.",
+   "exchange": "TSX",
+   "yahoo_symbol": "GH.TO",
+   "instruments": [
+    {
+     "name": "Gamehost Inc.",
+     "symbol": "GH"
+    }
+   ]
+  },
+  {
+   "symbol": "FDP",
+   "name": "Del Monte Corporation Ordinary Shares",
+   "exchange": "NYSE",
+   "yahoo_symbol": "FDP"
+  },
+  {
+   "symbol": "HONAV",
+   "name": "Honeywell Aerospace Inc. - Common Stock",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "HONAV"
+  },
+  {
+   "symbol": "LGL.R",
+   "name": "LGL Group, Inc. (The) Rights (expiring June 23, 2026) Rights",
+   "exchange": "NYSE MKT",
+   "yahoo_symbol": "LGL.R"
+  },
+  {
+   "symbol": "NNAVW",
+   "name": "NextNav Inc. - Warrant",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "NNAVW"
+  }
+ ]
+}
