@@ -1,0 +1,72 @@
+{
+ "added": [
+  {
+   "symbol": "HONA",
+   "name": "Honeywell Aerospace CDR (CAD Hedged)",
+   "exchange": "TSX",
+   "yahoo_symbol": "HONA.TO",
+   "instruments": [
+    {
+     "name": "Honeywell Aerospce C",
+     "symbol": "HONA"
+    }
+   ]
+  },
+  {
+   "symbol": "AAC.U",
+   "name": "Ares Acquisition Corporation III Units, each consisting of one Class A ordinary share and one-tenth of one redeemable warrant",
+   "exchange": "NYSE",
+   "yahoo_symbol": "AAC.U"
+  },
+  {
+   "symbol": "GLAS",
+   "name": "Glass House Brands Inc. Subordinate Voting Shares",
+   "exchange": "NYSE",
+   "yahoo_symbol": "GLAS"
+  },
+  {
+   "symbol": "APMC",
+   "name": "AmperCap Acquisition Company - Ordinary Shares",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "APMC"
+  },
+  {
+   "symbol": "APMCR",
+   "name": "AmperCap Acquisition Company - Right",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "APMCR"
+  },
+  {
+   "symbol": "GOLI",
+   "name": "Defiance Gold Enhanced Options Income ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "GOLI"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "TBLAW",
+   "name": "Taboola.com Ltd. - Warrant",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "TBLAW"
+  },
+  {
+   "symbol": "GLDY",
+   "name": "Defiance Gold Enhanced Options Income ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "GLDY"
+  },
+  {
+   "symbol": "TPTA",
+   "name": "Terra Property Trust, Inc. 6.00% Notes due 2026",
+   "exchange": "NYSE",
+   "yahoo_symbol": "TPTA"
+  },
+  {
+   "symbol": "HNNAZ",
+   "name": "Hennessy Advisors, Inc. - 4.875% Notes due 2026",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "HNNAZ"
+  }
+ ]
+}
