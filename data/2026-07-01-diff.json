@@ -1,0 +1,120 @@
+{
+ "added": [
+  {
+   "symbol": "MBGL",
+   "name": "Mobility Global Inc. Common Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "MBGL"
+  },
+  {
+   "symbol": "CAN",
+   "name": "Canaan Inc. - American Depositary Shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "CAN"
+  },
+  {
+   "symbol": "ECHX",
+   "name": "Leverage Shares 2X Long ECHO Daily ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "ECHX"
+  },
+  {
+   "symbol": "HODO",
+   "name": "House of Doge Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "HODO"
+  },
+  {
+   "symbol": "NSLR",
+   "name": "Neostellar Capital Corp. - Closed End Fund",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "NSLR"
+  },
+  {
+   "symbol": "NSLRL",
+   "name": "Neostellar Capital Corp. - 6.00% Notes due 2026",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "NSLRL"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "SEM",
+   "name": "Select Medical Holdings Corporation Common Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "SEM"
+  },
+  {
+   "symbol": "BLD",
+   "name": "TopBuild Corp. Common Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "BLD"
+  },
+  {
+   "symbol": "VIASP",
+   "name": "Via Renewables, Inc. - 8.75% Series A Fixed-to-Floating Rate Cumulative Redeemable Perpetual Preferred Stock",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "VIASP"
+  },
+  {
+   "symbol": "SILA",
+   "name": "Sila Realty Trust, Inc. Common Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "SILA"
+  },
+  {
+   "symbol": "JHG",
+   "name": "Janus Henderson Group plc Ordinary Shares",
+   "exchange": "NYSE",
+   "yahoo_symbol": "JHG"
+  },
+  {
+   "symbol": "SSSSL",
+   "name": "SuRo Capital Corp. - 6.00% Notes due 2026",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "SSSSL"
+  },
+  {
+   "symbol": "STEL",
+   "name": "Stellar Bancorp, Inc. Common Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "STEL"
+  },
+  {
+   "symbol": "TBH",
+   "name": "Brag House Holdings, Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "TBH"
+  },
+  {
+   "symbol": "MBGL.V",
+   "name": "Mobility Global Inc. Common Stock When-Issued",
+   "exchange": "NYSE",
+   "yahoo_symbol": "MBGL.V"
+  },
+  {
+   "symbol": "SATG",
+   "name": "Leverage Shares 2X Long SATS Daily ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "SATG"
+  },
+  {
+   "symbol": "CAN",
+   "name": "Canaan Inc. - American Depositary Shares",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "CAN"
+  },
+  {
+   "symbol": "SSSS",
+   "name": "SuRo Capital Corp. - Closed End Fund",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "SSSS"
+  },
+  {
+   "symbol": "SPGI.V",
+   "name": "S\u0026P Global Inc. Common Stock When-Issued",
+   "exchange": "NYSE",
+   "yahoo_symbol": "SPGI.V"
+  }
+ ]
+}
