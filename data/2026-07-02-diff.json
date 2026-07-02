@@ -1,0 +1,192 @@
+{
+ "added": [
+  {
+   "symbol": "CHE.DB.I",
+   "name": "Chemtrade Logistics Income Fund",
+   "exchange": "TSX",
+   "yahoo_symbol": "CHE.DB.I.TO",
+   "instruments": [
+    {
+     "name": "Chemtrade LgstIc 7Db",
+     "symbol": "CHE.DB.I"
+    },
+    {
+     "name": "Chemtrade Logistc Un",
+     "symbol": "CHE.UN"
+    }
+   ]
+  },
+  {
+   "symbol": "AESP",
+   "name": "Aeon Acquisition I Corp. - Class A Ordinary Shares",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "AESP"
+  },
+  {
+   "symbol": "AESPR",
+   "name": "Aeon Acquisition I Corp. - Rights",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "AESPR"
+  },
+  {
+   "symbol": "AESPW",
+   "name": "Aeon Acquisition I Corp. - Warrants",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "AESPW"
+  },
+  {
+   "symbol": "BRNS",
+   "name": "Barinthus Biotherapeutics plc - American Depositary Shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "BRNS"
+  },
+  {
+   "symbol": "BSP",
+   "name": "Bending Spoons S.p.A. - Ordinary Shares",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "BSP"
+  },
+  {
+   "symbol": "CIRC",
+   "name": "Circle8 Group, Inc. - Common Stock",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "CIRC"
+  },
+  {
+   "symbol": "FXHO",
+   "name": "UTime Limited - Class A Ordinary Shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "FXHO"
+  },
+  {
+   "symbol": "ITG",
+   "name": "ITG, Inc. - Class A Common Stock",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "ITG"
+  },
+  {
+   "symbol": "LIME",
+   "name": "Neutron Holdings, Inc. - Common Stock",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "LIME"
+  },
+  {
+   "symbol": "OSPRU",
+   "name": "Osprey Acquisition Corp. III - Units",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "OSPRU"
+  },
+  {
+   "symbol": "COPR",
+   "name": "Idaho Copper Corporation Common Stock",
+   "exchange": "NYSE MKT",
+   "yahoo_symbol": "COPR"
+  },
+  {
+   "symbol": "COPR.W",
+   "name": "Idaho Copper Corporation Common Stock Purchase Warrant",
+   "exchange": "NYSE MKT",
+   "yahoo_symbol": "COPR.W"
+  },
+  {
+   "symbol": "SECZ",
+   "name": "Securitize Corp. Common Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "SECZ"
+  },
+  {
+   "symbol": "VII.U",
+   "name": "Viking Acquisition Corp. II Units, each consisting of one Class A ordinary share and one-third of one Warrant",
+   "exchange": "NYSE",
+   "yahoo_symbol": "VII.U"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "RAAQU",
+   "name": "Real Asset Acquisition Corp. - Unit",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "RAAQU"
+  },
+  {
+   "symbol": "RAAQW",
+   "name": "Real Asset Acquisition Corp. - Warrants",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "RAAQW"
+  },
+  {
+   "symbol": "EVGOW",
+   "name": "EVgo Inc. - Warrants, each whole warrant exercisable for one share of Class A Common Stock at an exercise price of $11.50",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "EVGOW"
+  },
+  {
+   "symbol": "GWH.W",
+   "name": "ESS Tech, Inc. Warrant",
+   "exchange": "NYSE",
+   "yahoo_symbol": "GWH.W"
+  },
+  {
+   "symbol": "WTO",
+   "name": "UTime Limited - Class A Ordinary Shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "WTO"
+  },
+  {
+   "symbol": "NIXXW",
+   "name": "Nixxy, Inc. - Warrant",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "NIXXW"
+  },
+  {
+   "symbol": "ATLN",
+   "name": "Atlantic International Corp. - Common Stock",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "ATLN"
+  },
+  {
+   "symbol": "BRNS",
+   "name": "Barinthus Biotherapeutics plc - American Depositary Shares",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "BRNS"
+  },
+  {
+   "symbol": "CHE.DB.H",
+   "name": "Chemtrade Logistics Income Fund",
+   "exchange": "TSX",
+   "yahoo_symbol": "CHE.DB.H.TO",
+   "instruments": [
+    {
+     "name": "Chemtrade Lgst 7% Db",
+     "symbol": "CHE.DB.H"
+    },
+    {
+     "name": "Chemtrade LgstIc 7Db",
+     "symbol": "CHE.DB.I"
+    },
+    {
+     "name": "Chemtrade Logistc Un",
+     "symbol": "CHE.UN"
+    }
+   ]
+  },
+  {
+   "symbol": "RAAQ",
+   "name": "Real Asset Acquisition Corp. - Class A Ordinary Share",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "RAAQ"
+  },
+  {
+   "symbol": "CEPT",
+   "name": "Cantor Equity Partners II, Inc. - Class A ordinary share",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "CEPT"
+  },
+  {
+   "symbol": "ORGN",
+   "name": "Origin Materials, Inc. - Class A Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "ORGN"
+  }
+ ]
+}
