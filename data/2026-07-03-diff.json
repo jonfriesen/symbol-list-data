@@ -1,0 +1,66 @@
+{
+ "added": [
+  {
+   "symbol": "MAI",
+   "name": "Mining Americas Inc.",
+   "exchange": "TSX",
+   "yahoo_symbol": "MAI.TO",
+   "instruments": [
+    {
+     "name": "Mining Americas Inc",
+     "symbol": "MAI"
+    }
+   ]
+  },
+  {
+   "symbol": "GSRV",
+   "name": "GSR V Acquisition Corp. - Class A ordinary shares",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "GSRV"
+  },
+  {
+   "symbol": "GSRVR",
+   "name": "GSR V Acquisition Corp. - Rights",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "GSRVR"
+  },
+  {
+   "symbol": "IQMX",
+   "name": "IQM Quantum Computers Oyj - American Depositary Shares",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "IQMX"
+  },
+  {
+   "symbol": "IQMXW",
+   "name": "IQM Quantum Computers Oyj - Warrants to purchase American Depositary Shares",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "IQMXW"
+  },
+  {
+   "symbol": "MIACU",
+   "name": "Meridian3 Industrials Acquisition Corp - Units",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "MIACU"
+  },
+  {
+   "symbol": "VCRE",
+   "name": "Vicore Pharma Holding AB - American Depositary Shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "VCRE"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "MAI",
+   "name": "Mining Americas Inc.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "MAI.V",
+   "instruments": [
+    {
+     "name": "Mining Americas Inc.",
+     "symbol": "MAI"
+    }
+   ]
+  }
+ ]
+}
