@@ -1,0 +1,184 @@
+{
+ "added": [
+  {
+   "symbol": "EOSER",
+   "name": "Eos Energy Enterprises, Inc. - Right",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "EOSER"
+  },
+  {
+   "symbol": "GUAC",
+   "name": "Berto Acquisition Corp. II - Ordinary Shares",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "GUAC"
+  },
+  {
+   "symbol": "GUACW",
+   "name": "Berto Acquisition Corp. II - Warrants",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "GUACW"
+  },
+  {
+   "symbol": "IDAC",
+   "name": "Iron Dome Acquisition I Corp. - Class A Ordinary Shares",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "IDAC"
+  },
+  {
+   "symbol": "IDACW",
+   "name": "Iron Dome Acquisition I Corp. - Warrant",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "IDACW"
+  },
+  {
+   "symbol": "NMAD",
+   "name": "Nomad Power Solutions, Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "NMAD"
+  },
+  {
+   "symbol": "PTAC",
+   "name": "Patriot Acquisition Corp. - Class A Ordinary Shares",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "PTAC"
+  },
+  {
+   "symbol": "PTACW",
+   "name": "Patriot Acquisition Corp. - Warrants",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "PTACW"
+  },
+  {
+   "symbol": "NQC",
+   "name": "Nordique Critical Metals Inc.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "NQC.V",
+   "instruments": [
+    {
+     "name": "Nordique Critical Metals Inc.",
+     "symbol": "NQC"
+    }
+   ]
+  },
+  {
+   "symbol": "AKT.B",
+   "name": "Akita Drilling Ltd.",
+   "exchange": "TSX",
+   "yahoo_symbol": "AKT.B.TO",
+   "instruments": [
+    {
+     "name": "Akita Drilling Cl B",
+     "symbol": "AKT.B"
+    }
+   ]
+  },
+  {
+   "symbol": "PCA",
+   "name": "Phoenix Metals Corp.",
+   "exchange": "TSX",
+   "yahoo_symbol": "PCA.TO",
+   "instruments": [
+    {
+     "name": "Phoenix MetalsCrp WI",
+     "symbol": "PCA"
+    }
+   ]
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "CANS",
+   "name": "Wildpack Beverage Inc.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "CANS.V",
+   "instruments": [
+    {
+     "name": "Wildpack Beverage Inc.",
+     "symbol": "CANS"
+    }
+   ]
+  },
+  {
+   "symbol": "LIXT",
+   "name": "Lixte Biotechnology Holdings, Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "LIXT"
+  },
+  {
+   "symbol": "NZ",
+   "name": "New Zealand Energy Corp.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "NZ.V",
+   "instruments": [
+    {
+     "name": "New Zealand Energy Corp.",
+     "symbol": "NZ"
+    }
+   ]
+  },
+  {
+   "symbol": "CLM",
+   "name": "Consolidated Lithium Metals Inc.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "CLM.V",
+   "instruments": [
+    {
+     "name": "Consolidated Lithium Metals Inc.",
+     "symbol": "CLM"
+    }
+   ]
+  },
+  {
+   "symbol": "RYE",
+   "name": "Rhyolite Resources Ltd.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "RYE.V",
+   "instruments": [
+    {
+     "name": "Rhyolite Resources Ltd",
+     "symbol": "RYE"
+    }
+   ]
+  },
+  {
+   "symbol": "BLN",
+   "name": "Blackline Safety Corp.",
+   "exchange": "TSX",
+   "yahoo_symbol": "BLN.TO",
+   "instruments": [
+    {
+     "name": "Blackline Safety J",
+     "symbol": "BLN"
+    }
+   ]
+  },
+  {
+   "symbol": "APS",
+   "name": "Aptose Biosciences Inc.",
+   "exchange": "TSX",
+   "yahoo_symbol": "APS.TO",
+   "instruments": [
+    {
+     "name": "Aptose Biosciences",
+     "symbol": "APS"
+    }
+   ]
+  },
+  {
+   "symbol": "AKT.A",
+   "name": "Akita Drilling Ltd.",
+   "exchange": "TSX",
+   "yahoo_symbol": "AKT.A.TO",
+   "instruments": [
+    {
+     "name": "Akita Drill Cl A NV",
+     "symbol": "AKT.A"
+    },
+    {
+     "name": "Akita Drilling Cl B",
+     "symbol": "AKT.B"
+    }
+   ]
+  }
+ ]
+}
