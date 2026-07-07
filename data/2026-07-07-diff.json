@@ -1,0 +1,172 @@
+{
+ "added": [
+  {
+   "symbol": "AKT",
+   "name": "Akita Drilling Ltd.",
+   "exchange": "TSX",
+   "yahoo_symbol": "AKT.TO",
+   "instruments": [
+    {
+     "name": "Akita Drilling",
+     "symbol": "AKT"
+    }
+   ]
+  },
+  {
+   "symbol": "HPYG",
+   "name": "Harvest Premium Yield Gold ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "HPYG.TO",
+   "instruments": [
+    {
+     "name": "Harvest PremYielGld ",
+     "symbol": "HPYG"
+    }
+   ]
+  },
+  {
+   "symbol": "ALPX",
+   "name": "Alpex Acquisition Corporation - Class A Ordinary Shares",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "ALPX"
+  },
+  {
+   "symbol": "ALPXR",
+   "name": "Alpex Acquisition Corporation - Rights",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "ALPXR"
+  },
+  {
+   "symbol": "ALPXW",
+   "name": "Alpex Acquisition Corporation - Warrants",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "ALPXW"
+  },
+  {
+   "symbol": "BBUL",
+   "name": "GraniteShares 2x Long BB Daily ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "BBUL"
+  },
+  {
+   "symbol": "BCCQU",
+   "name": "Bleichroeder Acquisition Corp. III - Units",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "BCCQU"
+  },
+  {
+   "symbol": "FAC",
+   "name": "Factorial Energy Inc. - Class A Common Stock",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "FAC"
+  },
+  {
+   "symbol": "FACWW",
+   "name": "Factorial Energy Inc. - Warrant",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "FACWW"
+  },
+  {
+   "symbol": "FXAC",
+   "name": "FortuneX Acquisition Corporation - Ordinary shares",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "FXAC"
+  },
+  {
+   "symbol": "FXACW",
+   "name": "FortuneX Acquisition Corporation - Warrant",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "FXACW"
+  },
+  {
+   "symbol": "MFP",
+   "name": "Midera Food Processing, Inc. - Common Stock",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "MFP"
+  },
+  {
+   "symbol": "PUL",
+   "name": "GraniteShares 2x Long P Daily ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "PUL"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "BABY",
+   "name": "Else Nutrition Holdings Inc.",
+   "exchange": "TSX",
+   "yahoo_symbol": "BABY.TO",
+   "instruments": [
+    {
+     "name": "Else Nutrition J",
+     "symbol": "BABY"
+    },
+    {
+     "name": "Else NutritionJ 21Wt",
+     "symbol": "BABY.WT.A"
+    }
+   ]
+  },
+  {
+   "symbol": "BAYA",
+   "name": "Bayview Acquisition Corp - Ordinary Share",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "BAYA"
+  },
+  {
+   "symbol": "MIDDV",
+   "name": "The Middleby Corporation - Common Stock Ex-Distribution When Issued",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "MIDDV"
+  },
+  {
+   "symbol": "BAYAR",
+   "name": "Bayview Acquisition Corp - Right",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "BAYAR"
+  },
+  {
+   "symbol": "AKT.B",
+   "name": "Akita Drilling Ltd.",
+   "exchange": "TSX",
+   "yahoo_symbol": "AKT.B.TO",
+   "instruments": [
+    {
+     "name": "Akita Drilling Cl B",
+     "symbol": "AKT.B"
+    }
+   ]
+  },
+  {
+   "symbol": "MFPVV",
+   "name": "Midera Food Processing, Inc. - Common Stock When Issued",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "MFPVV"
+  },
+  {
+   "symbol": "FACWW",
+   "name": "Factorial Energy Inc. - Warrant",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "FACWW"
+  },
+  {
+   "symbol": "BAYAU",
+   "name": "Bayview Acquisition Corp - Unit",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "BAYAU"
+  },
+  {
+   "symbol": "FAC",
+   "name": "Factorial Energy Inc. - Class A Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "FAC"
+  },
+  {
+   "symbol": "REE",
+   "name": "REE Automotive Ltd. - Class A Ordinary Shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "REE"
+  }
+ ]
+}
