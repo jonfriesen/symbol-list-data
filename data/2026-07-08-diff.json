@@ -1,0 +1,102 @@
+{
+ "added": [
+  {
+   "symbol": "MLRG",
+   "name": "Madison US Large Cap ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "MLRG.TO",
+   "instruments": [
+    {
+     "name": "Madison US Lrg Cap E",
+     "symbol": "MLRG"
+    }
+   ]
+  },
+  {
+   "symbol": "MMID",
+   "name": "Madison US Mid Cap ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "MMID.TO",
+   "instruments": [
+    {
+     "name": "Madison US Mid Cap E",
+     "symbol": "MMID"
+    }
+   ]
+  },
+  {
+   "symbol": "BKYI",
+   "name": "BIO-key International, Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "BKYI"
+  },
+  {
+   "symbol": "CEPL",
+   "name": "Capstone Energy Plus, Inc. - Common Stock",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "CEPL"
+  },
+  {
+   "symbol": "PUR",
+   "name": "Defiance Daily Target 2X Long PURR ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "PUR"
+  },
+  {
+   "symbol": "TRUM",
+   "name": "VanEck Materials TruSector ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "TRUM"
+  },
+  {
+   "symbol": "TRUN",
+   "name": "VanEck Energy TruSector ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "TRUN"
+  },
+  {
+   "symbol": "TRUR",
+   "name": "VanEck Real Estate TruSector ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "TRUR"
+  },
+  {
+   "symbol": "TRUU",
+   "name": "VanEck Utilities TruSector ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "TRUU"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "STRR",
+   "name": "Star Royalties Ltd.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "STRR.V",
+   "instruments": [
+    {
+     "name": "Star Royalties Ltd.",
+     "symbol": "STRR"
+    }
+   ]
+  },
+  {
+   "symbol": "ISC",
+   "name": "Information Services Corporation",
+   "exchange": "TSX",
+   "yahoo_symbol": "ISC.TO",
+   "instruments": [
+    {
+     "name": "Info Serv Corp. A LV",
+     "symbol": "ISC"
+    }
+   ]
+  },
+  {
+   "symbol": "OLPX",
+   "name": "Olaplex Holdings, Inc. - Common Stock",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "OLPX"
+  }
+ ]
+}
