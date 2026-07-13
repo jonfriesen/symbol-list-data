@@ -1,0 +1,120 @@
+{
+ "added": [
+  {
+   "symbol": "AZIO",
+   "name": "Azio AI Holdings, Inc. - Common stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "AZIO"
+  },
+  {
+   "symbol": "GFUZ",
+   "name": "General Fusion Group Ltd. - Common Shares",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "GFUZ"
+  },
+  {
+   "symbol": "GFUZW",
+   "name": "General Fusion Group Ltd. - Warrant",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "GFUZW"
+  },
+  {
+   "symbol": "LGDS",
+   "name": "JPMorgan Fundamental Data Science Large Growth ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "LGDS"
+  },
+  {
+   "symbol": "RACD",
+   "name": "Research Alliance Corporation IV - Class A Ordinary Shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "RACD"
+  },
+  {
+   "symbol": "SKHY",
+   "name": "SK hynix Inc. - American Depositary Shares",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "SKHY"
+  },
+  {
+   "symbol": "TVIV",
+   "name": "Texas Ventures Acquisition IV Corp - Class A Ordinary Shares",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "TVIV"
+  },
+  {
+   "symbol": "TVIVW",
+   "name": "Texas Ventures Acquisition IV Corp - Warrant",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "TVIVW"
+  },
+  {
+   "symbol": "YICC",
+   "name": "Yorkville International Capital Corp. - Class A Ordinary Shares",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "YICC"
+  },
+  {
+   "symbol": "YICCW",
+   "name": "Yorkville International Capital Corp. - Warrants",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "YICCW"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "SVACW",
+   "name": "Spring Valley Acquisition Corp. III - Warrant",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "SVACW"
+  },
+  {
+   "symbol": "IIP.UN",
+   "name": "InterRent Real Estate Investment Trust",
+   "exchange": "TSX",
+   "yahoo_symbol": "IIP.UN.TO",
+   "instruments": [
+    {
+     "name": "InterRent REIT J Un",
+     "symbol": "IIP.UN"
+    }
+   ]
+  },
+  {
+   "symbol": "VFL",
+   "name": "abrdn National Municipal Income Fund Common Stock",
+   "exchange": "NYSE MKT",
+   "yahoo_symbol": "VFL"
+  },
+  {
+   "symbol": "SVAC",
+   "name": "Spring Valley Acquisition Corp. III - Class A Ordinary Shares",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "SVAC"
+  },
+  {
+   "symbol": "EVTV",
+   "name": "Azio AI Holdings, Inc. - Common stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "EVTV"
+  },
+  {
+   "symbol": "SKHYV",
+   "name": "SK hynix Inc. - American Depository Shares",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "SKHYV"
+  },
+  {
+   "symbol": "SVACU",
+   "name": "Spring Valley Acquisition Corp. III - Unit",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "SVACU"
+  },
+  {
+   "symbol": "QHDG",
+   "name": "Innovator Hedged Nasdaq-100 ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "QHDG"
+  }
+ ]
+}
