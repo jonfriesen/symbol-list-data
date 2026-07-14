@@ -1,0 +1,120 @@
+{
+ "added": [
+  {
+   "symbol": "CFIN",
+   "name": "Evolve Canadian Financials Yield Fund",
+   "exchange": "TSX",
+   "yahoo_symbol": "CFIN.TO",
+   "instruments": [
+    {
+     "name": "Evolve Cdn Fin Yld E",
+     "symbol": "CFIN"
+    }
+   ]
+  },
+  {
+   "symbol": "CUTE",
+   "name": "Evolve Canadian Utilities Yield Fund",
+   "exchange": "TSX",
+   "yahoo_symbol": "CUTE.TO",
+   "instruments": [
+    {
+     "name": "Evolve Cdn Util Yld",
+     "symbol": "CUTE"
+    }
+   ]
+  },
+  {
+   "symbol": "ATOI",
+   "name": "Asiatel Outsourcing Inc.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "ATOI.V",
+   "instruments": [
+    {
+     "name": "Asiatel Outsourcing Inc.",
+     "symbol": "ATOI"
+    }
+   ]
+  },
+  {
+   "symbol": "TCCM",
+   "name": "Three Crowns Critical Metals Inc.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "TCCM.V",
+   "instruments": [
+    {
+     "name": "Three Crowns Critical Metals Inc.",
+     "symbol": "TCCM"
+    }
+   ]
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "IWBE",
+   "name": "Invesco ESG Global Bond ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "IWBE.TO",
+   "instruments": [
+    {
+     "name": "InvescoESG GlbBnd CA",
+     "symbol": "IWBE"
+    }
+   ]
+  },
+  {
+   "symbol": "ESPR",
+   "name": "Esperion Therapeutics, Inc. - Common Stock",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "ESPR"
+  },
+  {
+   "symbol": "BNBX",
+   "name": "BNB Plus Corp. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "BNBX"
+  },
+  {
+   "symbol": "GUG",
+   "name": "Gungnir Resources Inc.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "GUG.V",
+   "instruments": [
+    {
+     "name": "Gungnir Resources Inc.",
+     "symbol": "GUG"
+    }
+   ]
+  },
+  {
+   "symbol": "NEME.P",
+   "name": "New Media Capital 2.0 Inc.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "NEME.P.V",
+   "instruments": [
+    {
+     "name": "New Media Capital 2.0 Inc.",
+     "symbol": "NEME.P"
+    }
+   ]
+  },
+  {
+   "symbol": "CUSD",
+   "name": "CrossingBridge Ultra-Short Duration ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "CUSD"
+  },
+  {
+   "symbol": "EEX",
+   "name": "Emerald Holding, Inc. Common Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "EEX"
+  },
+  {
+   "symbol": "WSR",
+   "name": "Whitestone REIT Common Shares",
+   "exchange": "NYSE",
+   "yahoo_symbol": "WSR"
+  }
+ ]
+}
