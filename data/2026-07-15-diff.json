@@ -1,0 +1,102 @@
+{
+ "added": [
+  {
+   "symbol": "BRKH",
+   "name": "Burtech Acquisition Corp II - Class A Ordinary Shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "BRKH"
+  },
+  {
+   "symbol": "BRKHW",
+   "name": "Burtech Acquisition Corp II - Warrants",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "BRKHW"
+  },
+  {
+   "symbol": "BTDL",
+   "name": "GraniteShares 2x Long BTDR Daily ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "BTDL"
+  },
+  {
+   "symbol": "JONEU",
+   "name": "Jones Ventures INTL Acquisition1 Corp - Units",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "JONEU"
+  },
+  {
+   "symbol": "NTAL",
+   "name": "GraniteShares 2x Long NTAP Daily ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "NTAL"
+  },
+  {
+   "symbol": "QFF",
+   "name": "Qualivian Focus Fund ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "QFF"
+  },
+  {
+   "symbol": "SEUS",
+   "name": "SEI QiM U.S. Equity Factor Allocation Active ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "SEUS"
+  },
+  {
+   "symbol": "SKDD",
+   "name": "GraniteShares 2x Short SK Hynix Daily ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "SKDD"
+  },
+  {
+   "symbol": "SKUU",
+   "name": "GraniteShares 2x Long SK Hynix Daily ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "SKUU"
+  },
+  {
+   "symbol": "TDCL",
+   "name": "GraniteShares 2x Long TDC Daily ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "TDCL"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "RQI.R",
+   "name": "Cohen \u0026 Steers Quality Income Realty Fund Inc. Rights (expiring July 15, 2026) Rights",
+   "exchange": "NYSE",
+   "yahoo_symbol": "RQI.R"
+  },
+  {
+   "symbol": "XOMA",
+   "name": "XOMA Royalty Corporation - Common Stock",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "XOMA"
+  },
+  {
+   "symbol": "BLCN",
+   "name": "Siren NexGen Economy ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "BLCN"
+  },
+  {
+   "symbol": "XOMAP",
+   "name": "XOMA Royalty Corporation - 8.625% Series A Cumulative Perpetual Preferred Stock",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "XOMAP"
+  },
+  {
+   "symbol": "XOMAO",
+   "name": "XOMA Royalty Corporation - Depositary Shares Rep Series B 8.375% Cumulative Preferred Stock",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "XOMAO"
+  },
+  {
+   "symbol": "HLLY.W",
+   "name": "Holley Inc. Warrants",
+   "exchange": "NYSE",
+   "yahoo_symbol": "HLLY.W"
+  }
+ ]
+}
