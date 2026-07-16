@@ -1,0 +1,102 @@
+{
+ "added": [
+  {
+   "symbol": "NICE",
+   "name": "Ni-Co Energy Inc.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "NICE.V",
+   "instruments": [
+    {
+     "name": "Ni-Co Energy inc.",
+     "symbol": "NICE"
+    }
+   ]
+  },
+  {
+   "symbol": "DPU",
+   "name": "Top KingWin Ltd - Class A Ordinary Shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "DPU"
+  },
+  {
+   "symbol": "YSAG",
+   "name": "Y'all Street Physical Silver ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "YSAG"
+  },
+  {
+   "symbol": "YSAU",
+   "name": "Y'all Street Physical Gold ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "YSAU"
+  },
+  {
+   "symbol": "CSQR",
+   "name": "Csquare, Inc. Common Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "CSQR"
+  },
+  {
+   "symbol": "STDN",
+   "name": "Standard Nuclear, Inc. Class A Common Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "STDN"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "LCDL",
+   "name": "GraniteShares 2x Long LCID Daily ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "LCDL"
+  },
+  {
+   "symbol": "GTLS",
+   "name": "Chart Industries, Inc. Common Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "GTLS"
+  },
+  {
+   "symbol": "NUVL",
+   "name": "Nuvalent, Inc. - Class A Common Stock",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "NUVL"
+  },
+  {
+   "symbol": "PTNM",
+   "name": "Pitanium Limited - Class A Ordinary Shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "PTNM"
+  },
+  {
+   "symbol": "CPRX",
+   "name": "Catalyst Pharmaceuticals, Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "CPRX"
+  },
+  {
+   "symbol": "WAI",
+   "name": "Top KingWin Ltd - Class A Ordinary Shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "WAI"
+  },
+  {
+   "symbol": "QTEXW",
+   "name": "QTREX Quantum Ltd. - Warrant",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "QTEXW"
+  },
+  {
+   "symbol": "PHA",
+   "name": "Premier Health of America Inc.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "PHA.V",
+   "instruments": [
+    {
+     "name": "Premier Health of America Inc.",
+     "symbol": "PHA"
+    }
+   ]
+  }
+ ]
+}
