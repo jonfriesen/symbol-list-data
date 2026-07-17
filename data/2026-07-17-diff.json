@@ -1,0 +1,48 @@
+{
+ "added": [
+  {
+   "symbol": "DGAC",
+   "name": "Disciplined Growth Acquisition Corporation Class A Ordinary Shares",
+   "exchange": "NYSE",
+   "yahoo_symbol": "DGAC"
+  },
+  {
+   "symbol": "DGAC.R",
+   "name": "Disciplined Growth Acquisition Corporation Rights, each right entitling the holder to receive one-fourth (1/4) of one Class A ordinary share",
+   "exchange": "NYSE",
+   "yahoo_symbol": "DGAC.R"
+  },
+  {
+   "symbol": "QMLS",
+   "name": "QumulusAI, Inc. - Common Stock",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "QMLS"
+  },
+  {
+   "symbol": "YMT",
+   "name": "Yimutian Inc. - American Depositary Shares; each representing 25 Class A ordinary shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "YMT"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "EVLVW",
+   "name": "Evolv Technologies Holdings, Inc. - Warrant",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "EVLVW"
+  },
+  {
+   "symbol": "YMT",
+   "name": "Yimutian Inc. - American Depositary Shares; each representing 25 Class A ordinary shares",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "YMT"
+  },
+  {
+   "symbol": "SLAI",
+   "name": "SOLAI Limited American Depositary Shares (each representing seven hundred (700) Class A Ordinary Shares)",
+   "exchange": "NYSE",
+   "yahoo_symbol": "SLAI"
+  }
+ ]
+}
