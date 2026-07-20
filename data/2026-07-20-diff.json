@@ -1,0 +1,258 @@
+{
+ "added": [
+  {
+   "symbol": "PAYU",
+   "name": "Brompton U.S. Equity HighPay ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "PAYU.TO",
+   "instruments": [
+    {
+     "name": "Brompton US Eq HP E",
+     "symbol": "PAYU"
+    }
+   ]
+  },
+  {
+   "symbol": "PAYI",
+   "name": "Brompton Utilities \u0026 Infrastructure HighPay ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "PAYI.TO",
+   "instruments": [
+    {
+     "name": "Brompton Ut Inf HP E",
+     "symbol": "PAYI"
+    }
+   ]
+  },
+  {
+   "symbol": "OGG",
+   "name": "Osisko Gold Group Inc.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "OGG.V",
+   "instruments": [
+    {
+     "name": "Osisko Gold Group Inc.",
+     "symbol": "OGG"
+    },
+    {
+     "name": "Osisko Gold Group Inc. wts 02Mar2027",
+     "symbol": "OGG.WT.A"
+    },
+    {
+     "name": "Osisko Gold Group Inc. wts27May2027",
+     "symbol": "OGG.WT.U"
+    },
+    {
+     "name": "Osisko Gold Group Inc wt 01Oct2029",
+     "symbol": "OGG.WT.V"
+    }
+   ]
+  },
+  {
+   "symbol": "PURO",
+   "name": "Platauro Metals Corp.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "PURO.V",
+   "instruments": [
+    {
+     "name": "Platauro Metals Corp.",
+     "symbol": "PURO"
+    }
+   ]
+  },
+  {
+   "symbol": "AMACU",
+   "name": "AMR Resources Acquisition Corp - Units",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "AMACU"
+  },
+  {
+   "symbol": "BID",
+   "name": "Tribeca Strategic Acquisition Corp. - Class A Ordinary Shares",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "BID"
+  },
+  {
+   "symbol": "BIDWR",
+   "name": "Tribeca Strategic Acquisition Corp. - Rights",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "BIDWR"
+  },
+  {
+   "symbol": "BXBL",
+   "name": "BOXABL, Inc.  - Common stock",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "BXBL"
+  },
+  {
+   "symbol": "CUVL",
+   "name": "Clinuvel Pharmaceuticals Limited - American Depositary Shares",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "CUVL"
+  },
+  {
+   "symbol": "MF",
+   "name": "MindForge Inc. - Class A Ordinary Shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "MF"
+  },
+  {
+   "symbol": "MVIS",
+   "name": "MicroVision, Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "MVIS"
+  },
+  {
+   "symbol": "NIKI",
+   "name": "Niki BioSolutions, Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "NIKI"
+  },
+  {
+   "symbol": "OGGWZ",
+   "name": "Osisko Gold Group Inc. - Warrant",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "OGGWZ"
+  },
+  {
+   "symbol": "SHOT",
+   "name": "RMG ML Sports Holdings - Class A Ordinary Shares",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "SHOT"
+  },
+  {
+   "symbol": "SHOTR",
+   "name": "RMG ML Sports Holdings - Rights",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "SHOTR"
+  },
+  {
+   "symbol": "OGG",
+   "name": "Osisko Gold Group Inc. Common Shares",
+   "exchange": "NYSE",
+   "yahoo_symbol": "OGG"
+  },
+  {
+   "symbol": "VII",
+   "name": "Viking Acquisition Corp. II Class A Ordinary Shares",
+   "exchange": "NYSE",
+   "yahoo_symbol": "VII"
+  },
+  {
+   "symbol": "VII.W",
+   "name": "Viking Acquisition Corp. II Warrants to purchase one Class A Ordinary Share",
+   "exchange": "NYSE",
+   "yahoo_symbol": "VII.W"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "UBXG",
+   "name": "U-BX Technology Ltd. - Class A Ordinary Shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "UBXG"
+  },
+  {
+   "symbol": "ODV",
+   "name": "Osisko Development Corp. Common Shares",
+   "exchange": "NYSE",
+   "yahoo_symbol": "ODV"
+  },
+  {
+   "symbol": "BURU",
+   "name": "Nuburu, Inc. Common Stock",
+   "exchange": "NYSE MKT",
+   "yahoo_symbol": "BURU"
+  },
+  {
+   "symbol": "ODV",
+   "name": "Osisko Development Corp.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "ODV.V",
+   "instruments": [
+    {
+     "name": "Osisko Development Corp.",
+     "symbol": "ODV"
+    },
+    {
+     "name": "Osisko Development Corp. wts 02Mar2027",
+     "symbol": "ODV.WT.A"
+    },
+    {
+     "name": "Osisko Development Corp. wts 27May2027",
+     "symbol": "ODV.WT.U"
+    },
+    {
+     "name": "Osisko Development Corp. wt 01Oct2029",
+     "symbol": "ODV.WT.V"
+    }
+   ]
+  },
+  {
+   "symbol": "OPFI.W",
+   "name": "OppFi Inc. Warrants",
+   "exchange": "NYSE",
+   "yahoo_symbol": "OPFI.W"
+  },
+  {
+   "symbol": "FGMCU",
+   "name": "FG Merger II Corp. - Unit",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "FGMCU"
+  },
+  {
+   "symbol": "MEX",
+   "name": "Mexican Gold Mining Corp.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "MEX.V",
+   "instruments": [
+    {
+     "name": "Mexican Gold Mining Corp.",
+     "symbol": "MEX"
+    }
+   ]
+  },
+  {
+   "symbol": "APM",
+   "name": "Aptorum Group Limited - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "APM"
+  },
+  {
+   "symbol": "MPVD",
+   "name": "Mountain Province Diamonds Inc.",
+   "exchange": "TSX",
+   "yahoo_symbol": "MPVD.TO",
+   "instruments": [
+    {
+     "name": "Mountain Province J",
+     "symbol": "MPVD"
+    }
+   ]
+  },
+  {
+   "symbol": "ODVWZ",
+   "name": "Osisko Development Corp. - Warrant",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "ODVWZ"
+  },
+  {
+   "symbol": "FGMCR",
+   "name": "FG Merger II Corp. - Rights",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "FGMCR"
+  },
+  {
+   "symbol": "MVIS",
+   "name": "MicroVision, Inc. - Common Stock",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "MVIS"
+  },
+  {
+   "symbol": "FGMC",
+   "name": "FG Merger II Corp. - Common stock",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "FGMC"
+  }
+ ]
+}
