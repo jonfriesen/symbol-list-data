@@ -1,0 +1,168 @@
+{
+ "added": [
+  {
+   "symbol": "OCAL",
+   "name": "OCAL Financial Inc.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "OCAL.V",
+   "instruments": [
+    {
+     "name": "OCAL Financial Inc.",
+     "symbol": "OCAL"
+    }
+   ]
+  },
+  {
+   "symbol": "BRTMU",
+   "name": "B\u0026R Technology Merger Corp. - Units",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "BRTMU"
+  },
+  {
+   "symbol": "CIGL",
+   "name": "Concorde International Group Ltd - Class A Ordinary Shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "CIGL"
+  },
+  {
+   "symbol": "FRNM",
+   "name": "Freenome, Inc. - Common stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "FRNM"
+  },
+  {
+   "symbol": "HLTH",
+   "name": "Tema Healthcare AI ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "HLTH"
+  },
+  {
+   "symbol": "KWM",
+   "name": "K Wave Media, Ltd. - Ordinary Shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "KWM"
+  },
+  {
+   "symbol": "NCOOU",
+   "name": "Southern Cross Acquisition I Corp. - Units",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "NCOOU"
+  },
+  {
+   "symbol": "SIMA",
+   "name": "SIM Acquisition Corp. I - Class A Ordinary Shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "SIMA"
+  },
+  {
+   "symbol": "SIMAU",
+   "name": "SIM Acquisition Corp. I - Unit",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "SIMAU"
+  },
+  {
+   "symbol": "SIMAW",
+   "name": "SIM Acquisition Corp. I - Warrant",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "SIMAW"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "KWM",
+   "name": "K Wave Media, Ltd. - Ordinary Shares",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "KWM"
+  },
+  {
+   "symbol": "YOOV",
+   "name": "Concorde International Group Ltd - Class A Ordinary Shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "YOOV"
+  },
+  {
+   "symbol": "EOSER",
+   "name": "Eos Energy Enterprises, Inc. - Right",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "EOSER"
+  },
+  {
+   "symbol": "PCSC",
+   "name": "Perceptive Capital Solutions Corp - Class A Ordinary Shares",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "PCSC"
+  },
+  {
+   "symbol": "VAX",
+   "name": "Vantex Resources Ltd.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "VAX.V",
+   "instruments": [
+    {
+     "name": "Vantex Resources Ltd.",
+     "symbol": "VAX"
+    }
+   ]
+  },
+  {
+   "symbol": "CREG",
+   "name": "Smart Powerr Corp. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "CREG"
+  },
+  {
+   "symbol": "SIMAU",
+   "name": "SIM Acquisition Corp. I - Unit",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "SIMAU"
+  },
+  {
+   "symbol": "SIMAW",
+   "name": "SIM Acquisition Corp. I - Warrant",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "SIMAW"
+  },
+  {
+   "symbol": "NFBK",
+   "name": "Northfield Bancorp, Inc. - Common Stock",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "NFBK"
+  },
+  {
+   "symbol": "AMPGR",
+   "name": "Amplitech Group, Inc. - Series A Right",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "AMPGR"
+  },
+  {
+   "symbol": "SIMA",
+   "name": "SIM Acquisition Corp. I - Class A Ordinary Shares",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "SIMA"
+  },
+  {
+   "symbol": "FFAIW",
+   "name": "Faraday Future Intelligent Electric Inc. - Warrant",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "FFAIW"
+  },
+  {
+   "symbol": "KORE",
+   "name": "KORE Group Holdings, Inc. Common Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "KORE"
+  },
+  {
+   "symbol": "RVC.P",
+   "name": "Ronin Ventures Corp.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "RVC.P.V",
+   "instruments": [
+    {
+     "name": "Ronin Ventures Corp.",
+     "symbol": "RVC.P"
+    }
+   ]
+  }
+ ]
+}
