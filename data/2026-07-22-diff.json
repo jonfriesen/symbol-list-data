@@ -1,0 +1,144 @@
+{
+ "added": [
+  {
+   "symbol": "GORO",
+   "name": "Goldgroup Mining Inc.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "GORO.V",
+   "instruments": [
+    {
+     "name": "Goldgroup Mining Inc.",
+     "symbol": "GORO"
+    }
+   ]
+  },
+  {
+   "symbol": "INXS",
+   "name": "Goldinxs Mining Corp.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "INXS.V",
+   "instruments": [
+    {
+     "name": "GoldInxs Mining Corp.",
+     "symbol": "INXS"
+    }
+   ]
+  },
+  {
+   "symbol": "CHGA",
+   "name": "Change Agents Corporation  - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "CHGA"
+  },
+  {
+   "symbol": "CPTL",
+   "name": "Global X Morningstar Capital Allocation Leaders ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "CPTL"
+  },
+  {
+   "symbol": "MEDS",
+   "name": "DataMeds AI, Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "MEDS"
+  },
+  {
+   "symbol": "PWCM",
+   "name": "PowerCompute, Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "PWCM"
+  },
+  {
+   "symbol": "PSA$T",
+   "name": "Public Storage 6.000% Cumulative Preferred Shares of beneficial interest, Series T",
+   "exchange": "NYSE",
+   "yahoo_symbol": "PSA$T"
+  },
+  {
+   "symbol": "PSA$U",
+   "name": "Public Storage 6.000% Cumulative Preferred Shares of Beneficial Interest, Series U",
+   "exchange": "NYSE",
+   "yahoo_symbol": "PSA$U"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "NSA$A",
+   "name": "National Storage Affiliates Trust 6.000% Series A Cumulative Redeemable Preferred Shares of Beneficial Interest (Liquidation Preference $25.00 per share)",
+   "exchange": "NYSE",
+   "yahoo_symbol": "NSA$A"
+  },
+  {
+   "symbol": "NSA",
+   "name": "National Storage Affiliates Trust Common Shares of Beneficial Interest",
+   "exchange": "NYSE",
+   "yahoo_symbol": "NSA"
+  },
+  {
+   "symbol": "KRMA",
+   "name": "Global X Conscious Companies ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "KRMA"
+  },
+  {
+   "symbol": "ALBT",
+   "name": "Avalon GloboCare Corp. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "ALBT"
+  },
+  {
+   "symbol": "LMFA",
+   "name": "LM Funding America, Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "LMFA"
+  },
+  {
+   "symbol": "WGRX",
+   "name": "Wellgistics Health, Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "WGRX"
+  },
+  {
+   "symbol": "CCRN",
+   "name": "Cross Country Healthcare, Inc. - Common Stock",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "CCRN"
+  },
+  {
+   "symbol": "NSA$B",
+   "name": "National Storage Affiliates Trust 6.000% Series B Cumulative Redeemable Preferred Shares of Beneficial Interest",
+   "exchange": "NYSE",
+   "yahoo_symbol": "NSA$B"
+  },
+  {
+   "symbol": "GGL",
+   "name": "GGL Resources Corp.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "GGL.V",
+   "instruments": [
+    {
+     "name": "GGL Resources Corp.",
+     "symbol": "GGL"
+    }
+   ]
+  },
+  {
+   "symbol": "WGSWW",
+   "name": "GeneDx Holdings Corp. - Warrant",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "WGSWW"
+  },
+  {
+   "symbol": "GGA",
+   "name": "Goldgroup Mining Inc.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "GGA.V",
+   "instruments": [
+    {
+     "name": "Goldgroup Mining Inc.",
+     "symbol": "GGA"
+    }
+   ]
+  }
+ ]
+}
