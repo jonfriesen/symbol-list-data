@@ -1,0 +1,150 @@
+{
+ "added": [
+  {
+   "symbol": "GGL",
+   "name": "GGL Resources Corp.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "GGL.V",
+   "instruments": [
+    {
+     "name": "GGL Resources Corp.",
+     "symbol": "GGL"
+    }
+   ]
+  },
+  {
+   "symbol": "CAPQ",
+   "name": "Capital Group Global Developed Equity Select ETF (Canada)",
+   "exchange": "TSX",
+   "yahoo_symbol": "CAPQ.TO",
+   "instruments": [
+    {
+     "name": "CapGrp Gbl De Eq Sel",
+     "symbol": "CAPQ"
+    }
+   ]
+  },
+  {
+   "symbol": "CAPN",
+   "name": "Capital Group International Developed Equity Select ETF (Canada)",
+   "exchange": "TSX",
+   "yahoo_symbol": "CAPN.TO",
+   "instruments": [
+    {
+     "name": "Cap Grp Intl Dev Eq",
+     "symbol": "CAPN"
+    }
+   ]
+  },
+  {
+   "symbol": "CAPU",
+   "name": "Capital Group U.S. Equity Select ETF (Canada)",
+   "exchange": "TSX",
+   "yahoo_symbol": "CAPU.TO",
+   "instruments": [
+    {
+     "name": "Captal Grp US Eq Sel",
+     "symbol": "CAPU"
+    }
+   ]
+  },
+  {
+   "symbol": "HHII",
+   "name": "Harvest International High Income Shares ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "HHII.TO",
+   "instruments": [
+    {
+     "name": "Harvest Intl HI Shrs",
+     "symbol": "HHII"
+    }
+   ]
+  },
+  {
+   "symbol": "GRSD",
+   "name": "Grandstand Limited - Ordinary Shares",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "GRSD"
+  },
+  {
+   "symbol": "HWIV",
+   "name": "Hotchkis \u0026 Wiley International Value Fund",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "HWIV"
+  },
+  {
+   "symbol": "HWO",
+   "name": "Hotchkis \u0026 Wiley Opportunities Fund",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "HWO"
+  },
+  {
+   "symbol": "VLOS",
+   "name": "Velos Acquisition I Corp. - Class A Ordinary shares",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "VLOS"
+  },
+  {
+   "symbol": "VLOSU",
+   "name": "Velos Acquisition I Corp. - Units",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "VLOSU"
+  },
+  {
+   "symbol": "VLOSW",
+   "name": "Velos Acquisition I Corp. - Warrant",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "VLOSW"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "MBAV",
+   "name": "M3-Brigade Acquisition V Corp. - Class A Ordinary shares",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "MBAV"
+  },
+  {
+   "symbol": "CAE",
+   "name": "CAE Inc. Ordinary Shares",
+   "exchange": "NYSE",
+   "yahoo_symbol": "CAE"
+  },
+  {
+   "symbol": "MVSTW",
+   "name": "Microvast Holdings, Inc. - Warrant",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "MVSTW"
+  },
+  {
+   "symbol": "CELUW",
+   "name": "Celularity Inc. - Warrant",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "CELUW"
+  },
+  {
+   "symbol": "MBAVU",
+   "name": "M3-Brigade Acquisition V Corp. - Units",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "MBAVU"
+  },
+  {
+   "symbol": "SGRP",
+   "name": "SPAR Group, Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "SGRP"
+  },
+  {
+   "symbol": "GAMB",
+   "name": "Gambling.com Group Limited - Ordinary Shares",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "GAMB"
+  },
+  {
+   "symbol": "MBAVW",
+   "name": "M3-Brigade Acquisition V Corp. - Warrant",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "MBAVW"
+  }
+ ]
+}
