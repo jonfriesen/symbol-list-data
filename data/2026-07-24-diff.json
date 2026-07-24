@@ -1,0 +1,72 @@
+{
+ "added": [
+  {
+   "symbol": "AAUB",
+   "name": "Alpha Architect US Equity 4 ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "AAUB"
+  },
+  {
+   "symbol": "CAE",
+   "name": "CAE Inc - Common Shares",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "CAE"
+  },
+  {
+   "symbol": "EQQQ",
+   "name": "ProShares Ultra QQQ Equal Weight",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "EQQQ"
+  },
+  {
+   "symbol": "VIP",
+   "name": "Vulcan Infrastructure and Power Inc. - Class A Common Stock",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "VIP"
+  },
+  {
+   "symbol": "CADY",
+   "name": "Cadillac Mines Corporation",
+   "exchange": "TSX",
+   "yahoo_symbol": "CADY.TO",
+   "instruments": [
+    {
+     "name": "Cadillac Mines Cop W",
+     "symbol": "CADY"
+    }
+   ]
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "NVVE",
+   "name": "Nuvve Holding Corp. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "NVVE"
+  },
+  {
+   "symbol": "GREE",
+   "name": "Vulcan Infrastructure and Power Inc. - Class A Common Stock",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "GREE"
+  },
+  {
+   "symbol": "TMHC",
+   "name": "Taylor Morrison Home Corporation Common Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "TMHC"
+  },
+  {
+   "symbol": "GEN",
+   "name": "Generation Uranium Inc.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "GEN.V",
+   "instruments": [
+    {
+     "name": "Generation Uranium Inc.",
+     "symbol": "GEN"
+    }
+   ]
+  }
+ ]
+}
