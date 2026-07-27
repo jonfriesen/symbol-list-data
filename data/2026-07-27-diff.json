@@ -1,0 +1,258 @@
+{
+ "added": [
+  {
+   "symbol": "FSTV.P",
+   "name": "Falconstar Ventures Inc.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "FSTV.P.V",
+   "instruments": [
+    {
+     "name": "Falconstar Ventures Inc.",
+     "symbol": "FSTV.P"
+    }
+   ]
+  },
+  {
+   "symbol": "AMAP",
+   "name": "Amapá Minerals Holdings Inc.",
+   "exchange": "TSX",
+   "yahoo_symbol": "AMAP.TO",
+   "instruments": [
+    {
+     "name": "Amapa Mineral Hldgs",
+     "symbol": "AMAP"
+    }
+   ]
+  },
+  {
+   "symbol": "IIME",
+   "name": "IA Clarington International Multifactor Equity Fund",
+   "exchange": "TSX",
+   "yahoo_symbol": "IIME.TO",
+   "instruments": [
+    {
+     "name": "IA Clar Intl Ml EqFn",
+     "symbol": "IIME"
+    }
+   ]
+  },
+  {
+   "symbol": "BIOT",
+   "name": "Instinct Bio Technical Company Holdings Inc. - Common stock",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "BIOT"
+  },
+  {
+   "symbol": "BIOTW",
+   "name": "Instinct Bio Technical Company Holdings Inc. - Warrants",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "BIOTW"
+  },
+  {
+   "symbol": "IPVV",
+   "name": "InterPrivate Investment Partners V, Inc. - Class A Ordinary Shares",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "IPVV"
+  },
+  {
+   "symbol": "IPVVW",
+   "name": "InterPrivate Investment Partners V, Inc. - Warrants",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "IPVVW"
+  },
+  {
+   "symbol": "LTGRW",
+   "name": "Long Table Growth Corp. - Warrants",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "LTGRW"
+  },
+  {
+   "symbol": "MTAKU",
+   "name": "Market Technology Acquisition Corp - Unit",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "MTAKU"
+  },
+  {
+   "symbol": "PLCIU",
+   "name": "Pelican Acquisition II Corporation - Unit",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "PLCIU"
+  },
+  {
+   "symbol": "QBTS",
+   "name": "D-Wave Quantum Inc. - Common Stock",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "QBTS"
+  },
+  {
+   "symbol": "SCTX",
+   "name": "Scribe Therapeutics Inc. - Common Stock",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "SCTX"
+  },
+  {
+   "symbol": "FTRA",
+   "name": "FutureCorp Space Acquisition 1 Class A Ordinary Shares",
+   "exchange": "NYSE",
+   "yahoo_symbol": "FTRA"
+  },
+  {
+   "symbol": "FTRA.W",
+   "name": "FutureCorp Space Acquisition 1 Redeemable warrants, each whole warrant exercisable for one Class A ordinary share at an exercise price of $11.50",
+   "exchange": "NYSE",
+   "yahoo_symbol": "FTRA.W"
+  },
+  {
+   "symbol": "MUA.V",
+   "name": "Blackrock MuniAssets Fund, Inc. Rights (expiring August 20, 2026) Rights when issued",
+   "exchange": "NYSE",
+   "yahoo_symbol": "MUA.V"
+  },
+  {
+   "symbol": "TONT",
+   "name": "Graf Global Corp. Class A ordinary shares",
+   "exchange": "NYSE MKT",
+   "yahoo_symbol": "TONT"
+  },
+  {
+   "symbol": "TONT.U",
+   "name": "Graf Global Corp. Units, each consisting of one Class A ordinary share and one-half of one redeemable warrant",
+   "exchange": "NYSE MKT",
+   "yahoo_symbol": "TONT.U"
+  },
+  {
+   "symbol": "TONT.W",
+   "name": "Graf Global Corp. Warrants, each whole warrant exercisable for one Class A ordinary share at an exercise price of $11.50 per share",
+   "exchange": "NYSE MKT",
+   "yahoo_symbol": "TONT.W"
+  },
+  {
+   "symbol": "TRIN",
+   "name": "Trinity Capital Inc. Common Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "TRIN"
+  },
+  {
+   "symbol": "TRNI",
+   "name": "Trinity Capital Inc. 7.875% Notes Due 2029",
+   "exchange": "NYSE",
+   "yahoo_symbol": "TRNI"
+  },
+  {
+   "symbol": "TRNZ",
+   "name": "Trinity Capital Inc. 7.875% Notes due 2029",
+   "exchange": "NYSE",
+   "yahoo_symbol": "TRNZ"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "TRINI",
+   "name": "Trinity Capital Inc. - 7.875% Notes Due 2029",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "TRINI"
+  },
+  {
+   "symbol": "TRIN",
+   "name": "Trinity Capital Inc. - Common Stock",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "TRIN"
+  },
+  {
+   "symbol": "QBTS",
+   "name": "D-Wave Quantum Inc. Common Shares",
+   "exchange": "NYSE",
+   "yahoo_symbol": "QBTS"
+  },
+  {
+   "symbol": "AVNS",
+   "name": "Avanos Medical, Inc. Common Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "AVNS"
+  },
+  {
+   "symbol": "EMPG",
+   "name": "Empro Group Inc. - Ordinary shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "EMPG"
+  },
+  {
+   "symbol": "TRINZ",
+   "name": "Trinity Capital Inc. - 7.875% Notes due 2029",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "TRINZ"
+  },
+  {
+   "symbol": "GRAF",
+   "name": "Graf Global Corp. Class A ordinary shares",
+   "exchange": "NYSE MKT",
+   "yahoo_symbol": "GRAF"
+  },
+  {
+   "symbol": "CTG",
+   "name": "Centenario Gold Corp.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "CTG.V",
+   "instruments": [
+    {
+     "name": "Centenario Gold Corp.",
+     "symbol": "CTG"
+    }
+   ]
+  },
+  {
+   "symbol": "MVO",
+   "name": "MV Oil Trust Units of Beneficial Interests",
+   "exchange": "NYSE",
+   "yahoo_symbol": "MVO"
+  },
+  {
+   "symbol": "GRAF.W",
+   "name": "Graf Global Corp. Warrants, each whole warrant exercisable for one Class A ordinary share at an exercise price of $11.50 per share",
+   "exchange": "NYSE MKT",
+   "yahoo_symbol": "GRAF.W"
+  },
+  {
+   "symbol": "VLN.W",
+   "name": "Valens Semiconductor Ltd. Warrants, each warrant to purchase one-half of one Ordinary Share",
+   "exchange": "NYSE",
+   "yahoo_symbol": "VLN.W"
+  },
+  {
+   "symbol": "GRAF.U",
+   "name": "Graf Global Corp. Units, each consisting of one Class A ordinary share and one-half of one redeemable warrant",
+   "exchange": "NYSE MKT",
+   "yahoo_symbol": "GRAF.U"
+  },
+  {
+   "symbol": "FCMI",
+   "name": "Fidelity Canadian Monthly High Income ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "FCMI.TO",
+   "instruments": [
+    {
+     "name": "Fidelity CdnMoIncm L",
+     "symbol": "FCMI"
+    }
+   ]
+  },
+  {
+   "symbol": "FCGI",
+   "name": "Fidelity Global Monthly High Income ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "FCGI.TO",
+   "instruments": [
+    {
+     "name": "Fidelity GlbMoIncm L",
+     "symbol": "FCGI"
+    }
+   ]
+  },
+  {
+   "symbol": "VSTD",
+   "name": "Vestand Inc.  - Class A Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "VSTD"
+  }
+ ]
+}
