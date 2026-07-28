@@ -1,0 +1,120 @@
+{
+ "added": [
+  {
+   "symbol": "IRR",
+   "name": "Irruptive Metals Corp.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "IRR.V",
+   "instruments": [
+    {
+     "name": "Irruptive Metals Corp.",
+     "symbol": "IRR"
+    }
+   ]
+  },
+  {
+   "symbol": "GIAI",
+   "name": "Guardian i3 AI Technology and Innovation Fund",
+   "exchange": "TSX",
+   "yahoo_symbol": "GIAI.TO",
+   "instruments": [
+    {
+     "name": "Guardian i3 AI TI Iv",
+     "symbol": "GIAI"
+    }
+   ]
+  },
+  {
+   "symbol": "PBY",
+   "name": "Lysander-Canso Credit Income ActivETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "PBY.TO",
+   "instruments": [
+    {
+     "name": "Canso Credit A Un",
+     "symbol": "PBY"
+    }
+   ]
+  },
+  {
+   "symbol": "BGUS",
+   "name": "Baillie Gifford U.S. Equity Growth ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "BGUS"
+  },
+  {
+   "symbol": "CATLU",
+   "name": "Catalyst Acquisition Corp. - Units",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "CATLU"
+  },
+  {
+   "symbol": "IOND",
+   "name": "Ionic Digital Inc. - Class A Common Stock",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "IOND"
+  },
+  {
+   "symbol": "LTGR",
+   "name": "Long Table Growth Corp. - Class A Ordinary Shares",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "LTGR"
+  },
+  {
+   "symbol": "YARW",
+   "name": "Yarrow Bioscience, Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "YARW"
+  },
+  {
+   "symbol": "MTB$L",
+   "name": "M\u0026T Bank Corporation Depositary Shares each representing a 1/400th ownership interest in a share of Perpetual 6.625% Non-Cumulative Preferred Stock, Series L",
+   "exchange": "NYSE",
+   "yahoo_symbol": "MTB$L"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "PBY.UN",
+   "name": "Canso Credit Income Fund",
+   "exchange": "TSX",
+   "yahoo_symbol": "PBY.UN.TO",
+   "instruments": [
+    {
+     "name": "Canso Credit A Un",
+     "symbol": "PBY.UN"
+    }
+   ]
+  },
+  {
+   "symbol": "RSVRW",
+   "name": "Reservoir Media, Inc.. - Warrant",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "RSVRW"
+  },
+  {
+   "symbol": "VYNE",
+   "name": "VYNE Therapeutics Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "VYNE"
+  },
+  {
+   "symbol": "CCIX",
+   "name": "Churchill Capital Corp IX - Ordinary Shares",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "CCIX"
+  },
+  {
+   "symbol": "CCIXU",
+   "name": "Churchill Capital Corp IX - Unit",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "CCIXU"
+  },
+  {
+   "symbol": "CCIXW",
+   "name": "Churchill Capital Corp IX - Warrant",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "CCIXW"
+  }
+ ]
+}
