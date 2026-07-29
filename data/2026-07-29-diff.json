@@ -1,0 +1,150 @@
+{
+ "added": [
+  {
+   "symbol": "DTSQ",
+   "name": "DT Cloud Star Acquisition Corporation - Ordinary Shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "DTSQ"
+  },
+  {
+   "symbol": "DTSQR",
+   "name": "DT Cloud Star Acquisition Corporation - Right",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "DTSQR"
+  },
+  {
+   "symbol": "DTSQU",
+   "name": "DT Cloud Star Acquisition Corporation - Units",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "DTSQU"
+  },
+  {
+   "symbol": "ADIG.V",
+   "name": "ADI Global Distribution Inc. Common Stock When-Issued",
+   "exchange": "NYSE",
+   "yahoo_symbol": "ADIG.V"
+  },
+  {
+   "symbol": "IMC",
+   "name": "IMC Rare Earths Ltd Ordinary Shares",
+   "exchange": "NYSE MKT",
+   "yahoo_symbol": "IMC"
+  },
+  {
+   "symbol": "REZI.V",
+   "name": "Resideo Technologies, Inc. Common Stock When-Issued",
+   "exchange": "NYSE",
+   "yahoo_symbol": "REZI.V"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "CNCG",
+   "name": "Leverage Shares 2X Long CNC Daily ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "CNCG"
+  },
+  {
+   "symbol": "UPSG",
+   "name": "Leverage Shares 2X Long UPS Daily ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "UPSG"
+  },
+  {
+   "symbol": "LACG",
+   "name": "Leverage Shares 2X Long LAC Daily ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "LACG"
+  },
+  {
+   "symbol": "ORLG",
+   "name": "Leverage Shares 2X Long ORLY Daily ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "ORLG"
+  },
+  {
+   "symbol": "DTSQU",
+   "name": "DT Cloud Star Acquisition Corporation - Units",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "DTSQU"
+  },
+  {
+   "symbol": "AXPG",
+   "name": "Leverage Shares 2x Long AXP Daily ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "AXPG"
+  },
+  {
+   "symbol": "DTSQR",
+   "name": "DT Cloud Star Acquisition Corporation - Right",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "DTSQR"
+  },
+  {
+   "symbol": "ABNG",
+   "name": "Leverage Shares 2x Long ABNB Daily ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "ABNG"
+  },
+  {
+   "symbol": "DTSQ",
+   "name": "DT Cloud Star Acquisition Corporation - Ordinary Shares",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "DTSQ"
+  },
+  {
+   "symbol": "CMGG",
+   "name": "Leverage Shares 2X Long CMG Daily ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "CMGG"
+  },
+  {
+   "symbol": "HWAY",
+   "name": "Themes US Infrastructure ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "HWAY"
+  },
+  {
+   "symbol": "OSCG",
+   "name": "Leverage Shares 2X Long OSCR Daily ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "OSCG"
+  },
+  {
+   "symbol": "URC",
+   "name": "Uranium Royalty Corp.",
+   "exchange": "TSX",
+   "yahoo_symbol": "URC.TO",
+   "instruments": [
+    {
+     "name": "Uranium Rylty Corp J",
+     "symbol": "URC"
+    }
+   ]
+  },
+  {
+   "symbol": "CZAR",
+   "name": "Themes Natural Monopoly ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "CZAR"
+  },
+  {
+   "symbol": "DNNG",
+   "name": "Leverage Shares 2x Long DNN Daily ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "DNNG"
+  },
+  {
+   "symbol": "SBU",
+   "name": "Leverage Shares 2X Long SBUX Daily ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "SBU"
+  },
+  {
+   "symbol": "USRD",
+   "name": "Themes US R\u0026D Champions ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "USRD"
+  }
+ ]
+}
