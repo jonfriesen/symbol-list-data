@@ -1,0 +1,90 @@
+{
+ "added": [
+  {
+   "symbol": "OCAC",
+   "name": "Ocean Capital Acquisition Corporation Ordinary Shares",
+   "exchange": "NYSE",
+   "yahoo_symbol": "OCAC"
+  },
+  {
+   "symbol": "OCAC.R",
+   "name": "Ocean Capital Acquisition Corporation Rights, each entitling the holder to receive one ordinary share",
+   "exchange": "NYSE",
+   "yahoo_symbol": "OCAC.R"
+  },
+  {
+   "symbol": "OCAC.W",
+   "name": "Ocean Capital Acquisition Corporation Warrants, each exercisable for one ordinary share",
+   "exchange": "NYSE",
+   "yahoo_symbol": "OCAC.W"
+  },
+  {
+   "symbol": "BCCQ",
+   "name": "Bleichroeder Acquisition Corp. III - Class A Ordinary Shares",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "BCCQ"
+  },
+  {
+   "symbol": "BCCQW",
+   "name": "Bleichroeder Acquisition Corp. III - Warrant",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "BCCQW"
+  },
+  {
+   "symbol": "CNSY",
+   "name": "Cerenome, Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "CNSY"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "SKYT",
+   "name": "SkyWater Technology, Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "SKYT"
+  },
+  {
+   "symbol": "KVACW",
+   "name": "Keen Vision Acquisition Corporation - Warrant",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "KVACW"
+  },
+  {
+   "symbol": "KVAC",
+   "name": "Keen Vision Acquisition Corporation - Ordinary Shares",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "KVAC"
+  },
+  {
+   "symbol": "ELSE",
+   "name": "Electro-Sensors, Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "ELSE"
+  },
+  {
+   "symbol": "KVACU",
+   "name": "Keen Vision Acquisition Corporation - Units",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "KVACU"
+  },
+  {
+   "symbol": "AFBI",
+   "name": "Affinity Bancshares, Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "AFBI"
+  },
+  {
+   "symbol": "PSTV",
+   "name": "PLUS THERAPEUTICS, Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "PSTV"
+  },
+  {
+   "symbol": "TWO",
+   "name": "Two Harbors Investment Corp",
+   "exchange": "NYSE",
+   "yahoo_symbol": "TWO"
+  }
+ ]
+}
