@@ -1,0 +1,180 @@
+{
+ "added": [
+  {
+   "symbol": "ERDA",
+   "name": "Erda Resource Opportunities Inc.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "ERDA.V",
+   "instruments": [
+    {
+     "name": "Erda Resource Opportunities Inc.",
+     "symbol": "ERDA"
+    }
+   ]
+  },
+  {
+   "symbol": "NMI",
+   "name": "Namibia Critical Metals Inc.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "NMI.V",
+   "instruments": [
+    {
+     "name": "Namibia Critical Metals Inc.",
+     "symbol": "NMI"
+    }
+   ]
+  },
+  {
+   "symbol": "NZ",
+   "name": "New Zealand Energy Corp.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "NZ.V",
+   "instruments": [
+    {
+     "name": "New Zealand Energy Corp.",
+     "symbol": "NZ"
+    }
+   ]
+  },
+  {
+   "symbol": "SPAR",
+   "name": "Spartacus Metals Inc.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "SPAR.V",
+   "instruments": [
+    {
+     "name": "Spartacus Metals Inc.",
+     "symbol": "SPAR"
+    }
+   ]
+  },
+  {
+   "symbol": "EDCU",
+   "name": "Edge Copper Corporation",
+   "exchange": "TSX",
+   "yahoo_symbol": "EDCU.TO",
+   "instruments": [
+    {
+     "name": "Edge Copper Corp",
+     "symbol": "EDCU"
+    }
+   ]
+  },
+  {
+   "symbol": "MCD",
+   "name": "McDonald's CDR (CAD Hedged)",
+   "exchange": "TSX",
+   "yahoo_symbol": "MCD.TO",
+   "instruments": [
+    {
+     "name": "McDonalds CDR Hgd",
+     "symbol": "MCD"
+    }
+   ]
+  },
+  {
+   "symbol": "ATTO",
+   "name": "Attovia Therapeutics, Inc. - Common Stock",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "ATTO"
+  },
+  {
+   "symbol": "DLCU",
+   "name": "U.S. Large Company Portfolio: ETF Class Shares",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "DLCU"
+  },
+  {
+   "symbol": "JAB",
+   "name": "JAB Acquisition Corp I - Class A Ordinary Shares",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "JAB"
+  },
+  {
+   "symbol": "JABRR",
+   "name": "JAB Acquisition Corp I - Rights",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "JABRR"
+  },
+  {
+   "symbol": "JABRW",
+   "name": "JAB Acquisition Corp I - Warrants",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "JABRW"
+  },
+  {
+   "symbol": "OBX",
+   "name": "Obsidian Therapeutics, Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "OBX"
+  },
+  {
+   "symbol": "TCGX",
+   "name": "TCGX Acquisition Corp. - Class A Ordinary Shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "TCGX"
+  },
+  {
+   "symbol": "THEOU",
+   "name": "BOA Acquisition Corp. II - Units",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "THEOU"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "EDCU",
+   "name": "Edge Copper Corporation",
+   "exchange": "TSXV",
+   "yahoo_symbol": "EDCU.V",
+   "instruments": [
+    {
+     "name": "Edge Copper Corporation",
+     "symbol": "EDCU"
+    }
+   ]
+  },
+  {
+   "symbol": "OLA",
+   "name": "Orla Mining Ltd",
+   "exchange": "TSX",
+   "yahoo_symbol": "OLA.TO",
+   "instruments": [
+    {
+     "name": "Orla Mining Ltd. J",
+     "symbol": "OLA"
+    }
+   ]
+  },
+  {
+   "symbol": "DG",
+   "name": "Dixie Gold Inc.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "DG.V",
+   "instruments": [
+    {
+     "name": "Dixie Gold Inc.",
+     "symbol": "DG"
+    }
+   ]
+  },
+  {
+   "symbol": "EA",
+   "name": "Electronic Arts Inc. - Common Stock",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "EA"
+  },
+  {
+   "symbol": "FNC",
+   "name": "Fancamp Exploration Ltd.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "FNC.V",
+   "instruments": [
+    {
+     "name": "Fancamp Exploration Ltd.",
+     "symbol": "FNC"
+    }
+   ]
+  }
+ ]
+}
