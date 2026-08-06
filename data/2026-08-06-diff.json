@@ -1,0 +1,148 @@
+{
+ "added": [
+  {
+   "symbol": "EGLT",
+   "name": "EGL Technology Inc.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "EGLT.V",
+   "instruments": [
+    {
+     "name": "EGL Technology Inc.",
+     "symbol": "EGLT"
+    }
+   ]
+  },
+  {
+   "symbol": "GERA",
+   "name": "Goldera Exploration Ltd.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "GERA.V",
+   "instruments": [
+    {
+     "name": "Goldera Exploration Ltd.",
+     "symbol": "GERA"
+    }
+   ]
+  },
+  {
+   "symbol": "PSY",
+   "name": "Purpose Structured Equity Yield Fund",
+   "exchange": "TSX",
+   "yahoo_symbol": "PSY.TO",
+   "instruments": [
+    {
+     "name": "Purpose Struc Eq Y F",
+     "symbol": "PSY"
+    }
+   ]
+  },
+  {
+   "symbol": "ANGU",
+   "name": "SEI Ang Research Enhanced U.S. Large Cap ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "ANGU"
+  },
+  {
+   "symbol": "ARAY",
+   "name": "Accuray Incorporated - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "ARAY"
+  },
+  {
+   "symbol": "BRVE",
+   "name": "Braveheart Bio, Inc. - Common Stock",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "BRVE"
+  },
+  {
+   "symbol": "NCLD",
+   "name": "Roundhill Neocloud ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "NCLD"
+  },
+  {
+   "symbol": "RCBC",
+   "name": "River City Bank - Common stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "RCBC"
+  },
+  {
+   "symbol": "TIH",
+   "name": "The Investment House ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "TIH"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "VSEE",
+   "name": "VSee Health, Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "VSEE"
+  },
+  {
+   "symbol": "FOOD",
+   "name": "Goodfood Market Corp.",
+   "exchange": "TSX",
+   "yahoo_symbol": "FOOD.TO",
+   "instruments": [
+    {
+     "name": "Goodfood Market J",
+     "symbol": "FOOD"
+    },
+    {
+     "name": "Goodfood MktJ 5.75Db",
+     "symbol": "FOOD.DB.A"
+    }
+   ]
+  },
+  {
+   "symbol": "PDVN.P",
+   "name": "Pardus Ventures Inc.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "PDVN.P.V",
+   "instruments": [
+    {
+     "name": "Pardus Ventures Inc.",
+     "symbol": "PDVN.P"
+    }
+   ]
+  },
+  {
+   "symbol": "ARAY",
+   "name": "Accuray Incorporated - Common Stock",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "ARAY"
+  },
+  {
+   "symbol": "KSM",
+   "name": "Kirkstone Metals Corp.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "KSM.V",
+   "instruments": [
+    {
+     "name": "Kirkstone Metals Corp.",
+     "symbol": "KSM"
+    }
+   ]
+  },
+  {
+   "symbol": "VSEEW",
+   "name": "VSee Health, Inc. - Warrant",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "VSEEW"
+  },
+  {
+   "symbol": "SECU",
+   "name": "SSC Security Services Corp.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "SECU.V",
+   "instruments": [
+    {
+     "name": "SSC Security Services Corp.",
+     "symbol": "SECU"
+    }
+   ]
+  }
+ ]
+}
