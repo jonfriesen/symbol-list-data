@@ -1,0 +1,90 @@
+{
+ "added": [
+  {
+   "symbol": "PNAQ.U",
+   "name": "Pinnacle Acquisition Corporation Units, each consisting of one Class A ordinary share and one right",
+   "exchange": "NYSE",
+   "yahoo_symbol": "PNAQ.U"
+  },
+  {
+   "symbol": "TP",
+   "name": "Ticketplus Ltd. Ordinary Shares",
+   "exchange": "NYSE MKT",
+   "yahoo_symbol": "TP"
+  },
+  {
+   "symbol": "DXLG",
+   "name": "Destination XL Group, Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "DXLG"
+  },
+  {
+   "symbol": "HOWL",
+   "name": "Werewolf Therapeutics, Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "HOWL"
+  },
+  {
+   "symbol": "PARA",
+   "name": "Banzai International, Inc. - Class A Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "PARA"
+  },
+  {
+   "symbol": "PARAW",
+   "name": "Banzai International, Inc. - Warrant",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "PARAW"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "MI.UN",
+   "name": "Minto Apartment Real Estate Investment Trust",
+   "exchange": "TSX",
+   "yahoo_symbol": "MI.UN.TO",
+   "instruments": [
+    {
+     "name": "Minto Apart REIT Un",
+     "symbol": "MI.UN"
+    }
+   ]
+  },
+  {
+   "symbol": "AXIA",
+   "name": "AXIA Energia American Depositary Shares (Each representing one Common Share)",
+   "exchange": "NYSE",
+   "yahoo_symbol": "AXIA"
+  },
+  {
+   "symbol": "DXLG",
+   "name": "Destination XL Group, Inc. - Common Stock",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "DXLG"
+  },
+  {
+   "symbol": "AXIA$C",
+   "name": "AXIA Energia American Depositary Shares, each representing one Preferred Class C Share",
+   "exchange": "NYSE",
+   "yahoo_symbol": "AXIA$C"
+  },
+  {
+   "symbol": "BNZI",
+   "name": "Banzai International, Inc. - Class A Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "BNZI"
+  },
+  {
+   "symbol": "BNZIW",
+   "name": "Banzai International, Inc. - Warrant",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "BNZIW"
+  },
+  {
+   "symbol": "HOWL",
+   "name": "Werewolf Therapeutics, Inc. - Common Stock",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "HOWL"
+  }
+ ]
+}
