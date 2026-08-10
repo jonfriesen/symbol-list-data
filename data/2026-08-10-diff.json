@@ -1,0 +1,108 @@
+{
+ "added": [
+  {
+   "symbol": "XINT",
+   "name": "iShares Core MSCI All-International Equity Index ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "XINT.TO",
+   "instruments": [
+    {
+     "name": "iShares Cr MSCI AI E",
+     "symbol": "XINT"
+    }
+   ]
+  },
+  {
+   "symbol": "IBQT",
+   "name": "iShares Equity + Bitcoin ETF Portfolio",
+   "exchange": "TSX",
+   "yahoo_symbol": "IBQT.TO",
+   "instruments": [
+    {
+     "name": "iShares Eq BTC E Prt",
+     "symbol": "IBQT"
+    }
+   ]
+  },
+  {
+   "symbol": "BLSM",
+   "name": "BlossomHill Therapeutics, Inc. - Common Stock",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "BLSM"
+  },
+  {
+   "symbol": "BSEM",
+   "name": "BioStem Technologies, Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "BSEM"
+  },
+  {
+   "symbol": "LTGO",
+   "name": "Latigo Biotherapeutics, Inc. - Common Stock",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "LTGO"
+  },
+  {
+   "symbol": "OCLTU",
+   "name": "OceanLight Acquisition Corporation - Units",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "OCLTU"
+  },
+  {
+   "symbol": "QVCG",
+   "name": "QVC Group, Inc. - Common Stock",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "QVCG"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "FCT",
+   "name": "First Trust Senior Floating Rate Income Fund II Common Shares of Beneficial Interest",
+   "exchange": "NYSE",
+   "yahoo_symbol": "FCT"
+  },
+  {
+   "symbol": "GOFL",
+   "name": "Goldflare Exploration Inc.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "GOFL.V",
+   "instruments": [
+    {
+     "name": "Goldflare Exploration Inc.",
+     "symbol": "GOFL"
+    }
+   ]
+  },
+  {
+   "symbol": "ARC",
+   "name": "ARCpoint Inc.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "ARC.V",
+   "instruments": [
+    {
+     "name": "ARCpoint Inc.",
+     "symbol": "ARC"
+    }
+   ]
+  },
+  {
+   "symbol": "STRS",
+   "name": "Stratus Properties Inc. - Common Stock",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "STRS"
+  },
+  {
+   "symbol": "JOBY.W",
+   "name": "Joby Aviation, Inc. Warrants",
+   "exchange": "NYSE",
+   "yahoo_symbol": "JOBY.W"
+  },
+  {
+   "symbol": "SRZNW",
+   "name": "Surrozen, Inc. - Warrant",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "SRZNW"
+  }
+ ]
+}
