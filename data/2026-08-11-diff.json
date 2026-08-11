@@ -1,0 +1,84 @@
+{
+ "added": [
+  {
+   "symbol": "GFTA",
+   "name": "Grafta Nanotech Corp.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "GFTA.V",
+   "instruments": [
+    {
+     "name": "Grafta Nanotech Corp.",
+     "symbol": "GFTA"
+    }
+   ]
+  },
+  {
+   "symbol": "TALA",
+   "name": "Talamore Mining Corp.",
+   "exchange": "TSX",
+   "yahoo_symbol": "TALA.TO",
+   "instruments": [
+    {
+     "name": "Talamore Mining Corp",
+     "symbol": "TALA"
+    }
+   ]
+  },
+  {
+   "symbol": "PHOS",
+   "name": "First Phosphate Corp. - American Depositary Shares",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "PHOS"
+  },
+  {
+   "symbol": "WLCO",
+   "name": "Wilco 63 Corporation - Class A Ordinary Shares",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "WLCO"
+  },
+  {
+   "symbol": "WLCOW",
+   "name": "Wilco 63 Corporation - Warrant",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "WLCOW"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "WITT.P",
+   "name": "Wittering Capital Corp.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "WITT.P.V",
+   "instruments": [
+    {
+     "name": "Wittering Capital Corp.",
+     "symbol": "WITT.P"
+    }
+   ]
+  },
+  {
+   "symbol": "TALA",
+   "name": "Talamore Mining Corp.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "TALA.V",
+   "instruments": [
+    {
+     "name": "Talamore Mining Corp.",
+     "symbol": "TALA"
+    }
+   ]
+  },
+  {
+   "symbol": "CNL",
+   "name": "Collective Mining Ltd. Common Shares",
+   "exchange": "NYSE MKT",
+   "yahoo_symbol": "CNL"
+  },
+  {
+   "symbol": "BKSY.W",
+   "name": "BlackSky Technology Inc. Redeemable Warrants, each whole Warrant exercisable for one share of Class A Common Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "BKSY.W"
+  }
+ ]
+}
