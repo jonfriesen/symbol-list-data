@@ -1,0 +1,102 @@
+{
+ "added": [
+  {
+   "symbol": "FOBI",
+   "name": "Fobi AI Inc.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "FOBI.V",
+   "instruments": [
+    {
+     "name": "Fobi AI Inc.",
+     "symbol": "FOBI"
+    }
+   ]
+  },
+  {
+   "symbol": "TECY",
+   "name": "Evolve NASDAQ Technology UltraYield ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "TECY.TO",
+   "instruments": [
+    {
+     "name": "Evolve ND Tech Ult Y",
+     "symbol": "TECY"
+    }
+   ]
+  },
+  {
+   "symbol": "RVII",
+   "name": "Robinhood Ventures Fund II Common Shares of Beneficial Interest",
+   "exchange": "NYSE",
+   "yahoo_symbol": "RVII"
+  },
+  {
+   "symbol": "MPIA",
+   "name": "m+ Nasdaq-100 Accelerator Autocall ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "MPIA"
+  },
+  {
+   "symbol": "PLCI",
+   "name": "Pelican Acquisition II Corporation - Ordinary Shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "PLCI"
+  },
+  {
+   "symbol": "PLCIR",
+   "name": "Pelican Acquisition II Corporation - Right",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "PLCIR"
+  },
+  {
+   "symbol": "VOGX",
+   "name": "Vogenx Inc - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "VOGX"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "KSI",
+   "name": "kneat.com, inc.",
+   "exchange": "TSX",
+   "yahoo_symbol": "KSI.TO",
+   "instruments": [
+    {
+     "name": "kneat.com, inc. J",
+     "symbol": "KSI"
+    }
+   ]
+  },
+  {
+   "symbol": "ANSC",
+   "name": "Agriculture \u0026 Natural Solutions Acquisition Corporation - Class A Ordinary Shares",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "ANSC"
+  },
+  {
+   "symbol": "ANSCW",
+   "name": "Agriculture \u0026 Natural Solutions Acquisition Corporation - Warrant",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "ANSCW"
+  },
+  {
+   "symbol": "ANSCU",
+   "name": "Agriculture \u0026 Natural Solutions Acquisition Corporation - Unit",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "ANSCU"
+  },
+  {
+   "symbol": "BWNB",
+   "name": "Babcock \u0026 Wilcox Enterprises, Inc. 6.50% Senior Notes due 2026",
+   "exchange": "NYSE",
+   "yahoo_symbol": "BWNB"
+  },
+  {
+   "symbol": "BELT",
+   "name": "iShares U.S. Select Equity Active ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "BELT"
+  }
+ ]
+}
