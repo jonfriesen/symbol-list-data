@@ -1,0 +1,108 @@
+{
+ "added": [
+  {
+   "symbol": "PSVA",
+   "name": "Prospectiva Resources Ltd.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "PSVA.V",
+   "instruments": [
+    {
+     "name": "Prospectiva Resources Ltd.",
+     "symbol": "PSVA"
+    }
+   ]
+  },
+  {
+   "symbol": "BRNX",
+   "name": "BrenX Ltd. - Ordinary Shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "BRNX"
+  },
+  {
+   "symbol": "CGPT",
+   "name": "VegaShares AI Inference ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "CGPT"
+  },
+  {
+   "symbol": "COOL",
+   "name": "VegaShares AI Thermal, Cooling \u0026 Power Management ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "COOL"
+  },
+  {
+   "symbol": "GHXI",
+   "name": "Gores Holdings XI, Inc. - Class A Ordinary Shares",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "GHXI"
+  },
+  {
+   "symbol": "GHXIW",
+   "name": "Gores Holdings XI, Inc. - Warrant",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "GHXIW"
+  },
+  {
+   "symbol": "TBCVU",
+   "name": "Thunder Bridge Capital Partners V, Ltd. - Units",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "TBCVU"
+  },
+  {
+   "symbol": "GFR.V",
+   "name": "Greenfire Resources Ltd. Rights (expiring September 15, 2026) Rights when issued",
+   "exchange": "NYSE",
+   "yahoo_symbol": "GFR.V"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "QMMM",
+   "name": "QMMM Holdings Limited - Class A Ordinary Shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "QMMM"
+  },
+  {
+   "symbol": "PNTI.P",
+   "name": "Pentagon I Capital Corp.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "PNTI.P.V",
+   "instruments": [
+    {
+     "name": "Pentagon I Capital Corp.",
+     "symbol": "PNTI.P"
+    }
+   ]
+  },
+  {
+   "symbol": "LIDRW",
+   "name": "AEye, Inc. - Warrant",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "LIDRW"
+  },
+  {
+   "symbol": "BNRG",
+   "name": "Brenmiller Energy Ltd - Ordinary Shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "BNRG"
+  },
+  {
+   "symbol": "SES.W",
+   "name": "SES AI Corporation Warrants, each whole warrant exercisable for one share of Class A Common Stock at an exercise price of $11.50 per share",
+   "exchange": "NYSE",
+   "yahoo_symbol": "SES.W"
+  },
+  {
+   "symbol": "RARE",
+   "name": "Tactical Resources Corp.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "RARE.V",
+   "instruments": [
+    {
+     "name": "Tactical Resources Corp.",
+     "symbol": "RARE"
+    }
+   ]
+  }
+ ]
+}
