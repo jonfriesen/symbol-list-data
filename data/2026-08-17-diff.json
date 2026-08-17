@@ -1,0 +1,140 @@
+{
+ "added": [
+  {
+   "symbol": "BPR",
+   "name": "Black Pine Resources Corp.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "BPR.V",
+   "instruments": [
+    {
+     "name": "Black Pine Resources Corp.",
+     "symbol": "BPR"
+    }
+   ]
+  },
+  {
+   "symbol": "GIGF",
+   "name": "Guardian i3 Global Core Equity Fund",
+   "exchange": "TSX",
+   "yahoo_symbol": "GIGF.TO",
+   "instruments": [
+    {
+     "name": "Guard i3 GlbGro Unhg",
+     "symbol": "GIGF"
+    },
+    {
+     "name": "Guard i3 GlbGrow Heg",
+     "symbol": "GIGF.F"
+    }
+   ]
+  },
+  {
+   "symbol": "DUKU",
+   "name": "Duke Energy Corporation Corporate Units",
+   "exchange": "NYSE",
+   "yahoo_symbol": "DUKU"
+  },
+  {
+   "symbol": "ACQQ",
+   "name": "ProShares Nasdaq-100 Autocallable Income ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "ACQQ"
+  },
+  {
+   "symbol": "ACRT",
+   "name": "ProShares Russell 2000 Autocallable Income ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "ACRT"
+  },
+  {
+   "symbol": "ACSP",
+   "name": "ProShares S\u0026P 500 Autocallable Income ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "ACSP"
+  },
+  {
+   "symbol": "EWAV",
+   "name": "East West Ave Acquisition Corp. - Common Stock",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "EWAV"
+  },
+  {
+   "symbol": "EWAVR",
+   "name": "East West Ave Acquisition Corp. - Rights",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "EWAVR"
+  },
+  {
+   "symbol": "THEO",
+   "name": "BOA Acquisition Corp. II - Class A Ordinary Shares",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "THEO"
+  },
+  {
+   "symbol": "THEOR",
+   "name": "BOA Acquisition Corp. II - Rights",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "THEOR"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "IPCXU",
+   "name": "Inflection Point Acquisition Corp. III - Units",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "IPCXU"
+  },
+  {
+   "symbol": "BBBY",
+   "name": "Bed Bath \u0026 Beyond, Inc. Common Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "BBBY"
+  },
+  {
+   "symbol": "GIQG",
+   "name": "Guardian i3 Global Quality Growth ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "GIQG.TO",
+   "instruments": [
+    {
+     "name": "Guard i3 GlbGrow Heg",
+     "symbol": "GIQG"
+    },
+    {
+     "name": "Guard i3 GlbGro Unhg",
+     "symbol": "GIQG.B"
+    }
+   ]
+  },
+  {
+   "symbol": "IPCXR",
+   "name": "Inflection Point Acquisition Corp. III - Rights",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "IPCXR"
+  },
+  {
+   "symbol": "BBBY.W",
+   "name": "Bed Bath \u0026 Beyond, Inc. Warrants to Purchase Common Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "BBBY.W"
+  },
+  {
+   "symbol": "MYSEW",
+   "name": "Myseum.AI, Inc. - Series A Warrant",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "MYSEW"
+  },
+  {
+   "symbol": "IPCX",
+   "name": "Inflection Point Acquisition Corp. III - Class A ordinary shares",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "IPCX"
+  },
+  {
+   "symbol": "AVB",
+   "name": "AvalonBay Communities, Inc. Common Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "AVB"
+  }
+ ]
+}
