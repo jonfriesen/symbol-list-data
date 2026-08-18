@@ -1,0 +1,154 @@
+{
+ "added": [
+  {
+   "symbol": "VMRK",
+   "name": "Vivmark Residential Common Shares of Beneficial Interest",
+   "exchange": "NYSE",
+   "yahoo_symbol": "VMRK"
+  },
+  {
+   "symbol": "ADAMK",
+   "name": "Adamas Trust, Inc. - 9.600% Senior Notes Due 2031",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "ADAMK"
+  },
+  {
+   "symbol": "BBBYW",
+   "name": "Neighborhood Intelligence, Inc.  - Warrant",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "BBBYW"
+  },
+  {
+   "symbol": "CGCF",
+   "name": "Cartesian Growth Corporation IV - Class A Ordinary Shares",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "CGCF"
+  },
+  {
+   "symbol": "CGCFW",
+   "name": "Cartesian Growth Corporation IV - Warrants",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "CGCFW"
+  },
+  {
+   "symbol": "IA",
+   "name": "Innovative Solutions and Support, Inc. - Common Stock",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "IA"
+  },
+  {
+   "symbol": "MRCO",
+   "name": "Mercator Acquisition Corp. - Class A Ordinary Shares",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "MRCO"
+  },
+  {
+   "symbol": "MRCOW",
+   "name": "Mercator Acquisition Corp. - Warrant",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "MRCOW"
+  },
+  {
+   "symbol": "NUR",
+   "name": "Nuran Wireless Inc. - Common Shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "NUR"
+  },
+  {
+   "symbol": "NXH",
+   "name": "Neighborhood Intelligence, Inc.  - Common Stock",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "NXH"
+  },
+  {
+   "symbol": "WATR",
+   "name": "Air Water Ventures Limited - Ordinary Shares",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "WATR"
+  },
+  {
+   "symbol": "TBCK",
+   "name": "TD Target 2031 Investment Grade Bond Fund",
+   "exchange": "TSX",
+   "yahoo_symbol": "TBCK.TO",
+   "instruments": [
+    {
+     "name": "TD Target 2031 Inv G",
+     "symbol": "TBCK"
+    }
+   ]
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "BLX",
+   "name": "Boralex Inc.",
+   "exchange": "TSX",
+   "yahoo_symbol": "BLX.TO",
+   "instruments": [
+    {
+     "name": "Boralex Inc. Cl A",
+     "symbol": "BLX"
+    }
+   ]
+  },
+  {
+   "symbol": "FTRK",
+   "name": "FAST TRACK GROUP - Ordinary shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "FTRK"
+  },
+  {
+   "symbol": "ADW.A",
+   "name": "Andrew Peller Limited/Andrew Peller Limitee",
+   "exchange": "TSX",
+   "yahoo_symbol": "ADW.A.TO",
+   "instruments": [
+    {
+     "name": "Andrew Peller A NV",
+     "symbol": "ADW.A"
+    },
+    {
+     "name": "Andrew Peller Ltd. B",
+     "symbol": "ADW.B"
+    }
+   ]
+  },
+  {
+   "symbol": "EQR",
+   "name": "Equity Residential Common Shares of Beneficial Interest",
+   "exchange": "NYSE",
+   "yahoo_symbol": "EQR"
+  },
+  {
+   "symbol": "DRMAW",
+   "name": "Dermata Therapeutics, Inc. - Warrant",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "DRMAW"
+  },
+  {
+   "symbol": "UDA",
+   "name": "Caldwell U.S. Dividend Advantage Fund",
+   "exchange": "TSX",
+   "yahoo_symbol": "UDA.TO",
+   "instruments": [
+    {
+     "name": "Caldwell US DivAdvan",
+     "symbol": "UDA"
+    }
+   ]
+  },
+  {
+   "symbol": "ISSC",
+   "name": "Innovative Solutions and Support, Inc. - Common Stock",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "ISSC"
+  },
+  {
+   "symbol": "TALK",
+   "name": "Talkspace, Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "TALK"
+  }
+ ]
+}
