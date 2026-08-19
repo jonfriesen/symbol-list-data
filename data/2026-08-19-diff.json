@@ -1,0 +1,46 @@
+{
+ "added": [
+  {
+   "symbol": "AINF",
+   "name": "Defiance Inference AI Chip ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "AINF"
+  },
+  {
+   "symbol": "CROB",
+   "name": "Defiance China Robotics ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "CROB"
+  },
+  {
+   "symbol": "FTG",
+   "name": "FullerThaler Behavioral Growth ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "FTG"
+  },
+  {
+   "symbol": "NSAIU",
+   "name": "NorthStrive Acquisition Corp I. - Units",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "NSAIU"
+  },
+  {
+   "symbol": "XCSH",
+   "name": "XFUNDS 1-3 Month BOX ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "XCSH"
+  },
+  {
+   "symbol": "XTERU",
+   "name": "Karman Line Acquisition Corp. - Units",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "XTERU"
+  },
+  {
+   "symbol": "LYNX",
+   "name": "Lyntris Inc. Common Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "LYNX"
+  }
+ ]
+}
