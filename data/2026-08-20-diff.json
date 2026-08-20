@@ -1,0 +1,100 @@
+{
+ "added": [
+  {
+   "symbol": "CAMO",
+   "name": "Evolve Global Defense \u0026 Aerospace Index ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "CAMO.TO",
+   "instruments": [
+    {
+     "name": "Evolve Glb Def Ar Hd",
+     "symbol": "CAMO"
+    },
+    {
+     "name": "Evolve Glb Def Ar UH",
+     "symbol": "CAMO.B"
+    }
+   ]
+  },
+  {
+   "symbol": "BTLN",
+   "name": "Brightline Interactive, Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "BTLN"
+  },
+  {
+   "symbol": "KSMH",
+   "name": "xETFs Korea AI Semiconductor",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "KSMH"
+  },
+  {
+   "symbol": "SNUS$H",
+   "name": "Santander Holdings USA, Inc. Depositary Shares, Each Representing a 1/1,000th Interest in a Share of Fixed-Rate Reset Non-Cumulative Perpetual Preferred Stock, Series H",
+   "exchange": "NYSE",
+   "yahoo_symbol": "SNUS$H"
+  },
+  {
+   "symbol": "SNUS$I",
+   "name": "Santander Holdings USA, Inc. Depositary Shares, Each Representing a 1/40th Interest in a Share of Fixed-Rate Reset Non-Cumulative Perpetual Preferred Stock, Series I",
+   "exchange": "NYSE",
+   "yahoo_symbol": "SNUS$I"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "WBS$G",
+   "name": "Webster Financial Corporation Depositary Shares, each representing a 1/40th interest in a share of 6.50% Series G non-cumulative perpetual preferred stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "WBS$G"
+  },
+  {
+   "symbol": "AACB",
+   "name": "Artius II Acquisition Inc. - Class A Ordinary Shares",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "AACB"
+  },
+  {
+   "symbol": "GGRP",
+   "name": "The Glimpse Group, Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "GGRP"
+  },
+  {
+   "symbol": "WBS$F",
+   "name": "Webster Financial Corporation Depositary Shares, Each Representing 1/1,000th Interest in a Share of 5.25% Series F Non-Cumulative Perpetual Preferred Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "WBS$F"
+  },
+  {
+   "symbol": "WBS",
+   "name": "Webster Financial Corporation Common Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "WBS"
+  },
+  {
+   "symbol": "XOSWW",
+   "name": "Xos, Inc. - Warrants",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "XOSWW"
+  },
+  {
+   "symbol": "AACBR",
+   "name": "Artius II Acquisition Inc. - Rights",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "AACBR"
+  },
+  {
+   "symbol": "AACBU",
+   "name": "Artius II Acquisition Inc. - Units",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "AACBU"
+  },
+  {
+   "symbol": "MUA.R",
+   "name": "Blackrock MuniAssets Fund, Inc. Rights (expiring August 20, 2026) Rights",
+   "exchange": "NYSE",
+   "yahoo_symbol": "MUA.R"
+  }
+ ]
+}
