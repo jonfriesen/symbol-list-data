@@ -1,0 +1,66 @@
+{
+ "added": [
+  {
+   "symbol": "CHTRP",
+   "name": "Charter Communications, Inc. - Series A Cumulative Redeemable Preferred Stock",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "CHTRP"
+  },
+  {
+   "symbol": "FBDT",
+   "name": "First Breach Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "FBDT"
+  },
+  {
+   "symbol": "QNBC",
+   "name": "QNB Corp. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "QNBC"
+  },
+  {
+   "symbol": "SEPQ",
+   "name": "STF Tactical Growth \u0026 Income ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "SEPQ"
+  },
+  {
+   "symbol": "TREO",
+   "name": "Tactical Resources Corp. - Common Shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "TREO"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "YBMN",
+   "name": "Defiance BMNR Option Income ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "YBMN"
+  },
+  {
+   "symbol": "LBRDK",
+   "name": "Liberty Broadband Corporation - Class C Common Stock",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "LBRDK"
+  },
+  {
+   "symbol": "LBRDP",
+   "name": "Liberty Broadband Corporation - Series A Cumulative Redeemable Preferred Stock",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "LBRDP"
+  },
+  {
+   "symbol": "TUGN",
+   "name": "STF Tactical Growth \u0026 Income ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "TUGN"
+  },
+  {
+   "symbol": "LBRDA",
+   "name": "Liberty Broadband Corporation - Class A Common Stock",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "LBRDA"
+  }
+ ]
+}
