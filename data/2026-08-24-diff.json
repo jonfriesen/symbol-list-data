@@ -1,0 +1,42 @@
+{
+ "added": [
+  {
+   "symbol": "EDVA",
+   "name": "Endovia Health Sciences, Inc. Common Stock",
+   "exchange": "NYSE MKT",
+   "yahoo_symbol": "EDVA"
+  },
+  {
+   "symbol": "OSPR",
+   "name": "Osprey Acquisition Corp. III - Class A Ordinary Shares",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "OSPR"
+  },
+  {
+   "symbol": "OSPRW",
+   "name": "Osprey Acquisition Corp. III - Warrants",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "OSPRW"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "RNWWW",
+   "name": "ReNew Energy Global plc - Warrant",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "RNWWW"
+  },
+  {
+   "symbol": "NCL",
+   "name": "Northann Corp. Common Stock",
+   "exchange": "NYSE MKT",
+   "yahoo_symbol": "NCL"
+  },
+  {
+   "symbol": "SBEV",
+   "name": "Splash Beverage Group, Inc. (NV) Common Stock",
+   "exchange": "NYSE MKT",
+   "yahoo_symbol": "SBEV"
+  }
+ ]
+}
