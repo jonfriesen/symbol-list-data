@@ -1,0 +1,60 @@
+{
+ "added": [
+  {
+   "symbol": "LUKA.P",
+   "name": "Luka Capital Corp.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "LUKA.P.V",
+   "instruments": [
+    {
+     "name": "Luka Capital Corp.",
+     "symbol": "LUKA.P"
+    }
+   ]
+  },
+  {
+   "symbol": "KLXER",
+   "name": "KLX Energy Services Holdings, Inc.  - Rights",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "KLXER"
+  },
+  {
+   "symbol": "MIAC",
+   "name": "Meridian3 Industrials Acquisition Corp - Class A Ordinary Shares",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "MIAC"
+  },
+  {
+   "symbol": "MIACW",
+   "name": "Meridian3 Industrials Acquisition Corp - Warrant",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "MIACW"
+  },
+  {
+   "symbol": "GFR.R",
+   "name": "Greenfire Resources Ltd. Rights (expiring September 15, 2026) Rights",
+   "exchange": "NYSE",
+   "yahoo_symbol": "GFR.R"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "RMAX",
+   "name": "RE/MAX Holdings, Inc. Class A Common Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "RMAX"
+  },
+  {
+   "symbol": "TWO",
+   "name": "Two Harbors Investment Corp",
+   "exchange": "NYSE",
+   "yahoo_symbol": "TWO"
+  },
+  {
+   "symbol": "GFR.V",
+   "name": "Greenfire Resources Ltd. Rights (expiring September 15, 2026) Rights when issued",
+   "exchange": "NYSE",
+   "yahoo_symbol": "GFR.V"
+  }
+ ]
+}
