@@ -1,0 +1,162 @@
+{
+ "added": [
+  {
+   "symbol": "ADBT",
+   "name": "Advasa Holdings, Inc. - Common stock",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "ADBT"
+  },
+  {
+   "symbol": "YRAM",
+   "name": "YieldMax Memory and Storage Portfolio Option Income ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "YRAM"
+  },
+  {
+   "symbol": "CENT",
+   "name": "Centauri Minerals Inc.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "CENT.V",
+   "instruments": [
+    {
+     "name": "Centauri Minerals Inc.",
+     "symbol": "CENT"
+    }
+   ]
+  },
+  {
+   "symbol": "EK",
+   "name": "Everkind Wellness Inc.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "EK.V",
+   "instruments": [
+    {
+     "name": "Everkind Wellness Inc.",
+     "symbol": "EK"
+    }
+   ]
+  },
+  {
+   "symbol": "SRGE",
+   "name": "Surge Digital Inc.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "SRGE.V",
+   "instruments": [
+    {
+     "name": "Surge Digital Inc.",
+     "symbol": "SRGE"
+    }
+   ]
+  },
+  {
+   "symbol": "NFGC",
+   "name": "New Found Gold Corp.",
+   "exchange": "TSX",
+   "yahoo_symbol": "NFGC.TO",
+   "instruments": [
+    {
+     "name": "New Found Gold Corp",
+     "symbol": "NFGC"
+    }
+   ]
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "BRUNW",
+   "name": "Boost Run Inc. - Warrant",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "BRUNW"
+  },
+  {
+   "symbol": "SABA",
+   "name": "Saba Energy Ltd.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "SABA.V",
+   "instruments": [
+    {
+     "name": "Saba Energy Ltd.",
+     "symbol": "SABA"
+    }
+   ]
+  },
+  {
+   "symbol": "BIGG",
+   "name": "BIGG Digital Assets Inc.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "BIGG.V",
+   "instruments": [
+    {
+     "name": "BIGG Digital Assets Inc.",
+     "symbol": "BIGG"
+    }
+   ]
+  },
+  {
+   "symbol": "NFG",
+   "name": "New Found Gold Corp.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "NFG.V",
+   "instruments": [
+    {
+     "name": "New Found Gold Corp.",
+     "symbol": "NFG"
+    }
+   ]
+  },
+  {
+   "symbol": "WRX",
+   "name": "Western Resources Corp.",
+   "exchange": "TSX",
+   "yahoo_symbol": "WRX.TO",
+   "instruments": [
+    {
+     "name": "Western Resources J",
+     "symbol": "WRX"
+    }
+   ]
+  },
+  {
+   "symbol": "GDEVW",
+   "name": "GDEV Inc. - Warrant",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "GDEVW"
+  },
+  {
+   "symbol": "AF.P",
+   "name": "AF2 Capital Corp.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "AF.P.V",
+   "instruments": [
+    {
+     "name": "AF2 Capital Corp.",
+     "symbol": "AF.P"
+    }
+   ]
+  },
+  {
+   "symbol": "OSRHW",
+   "name": "OSR Health, Inc. - Warrant",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "OSRHW"
+  },
+  {
+   "symbol": "OSRH",
+   "name": "OSR Health, Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "OSRH"
+  },
+  {
+   "symbol": "HUMAW",
+   "name": "Humacyte, Inc. - Warrant",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "HUMAW"
+  },
+  {
+   "symbol": "FLZH",
+   "name": "Flash Sports \u0026 Media Holdings, Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "FLZH"
+  }
+ ]
+}
