@@ -1,0 +1,278 @@
+{
+ "added": [
+  {
+   "symbol": "CAKE",
+   "name": "Avantis CIBC Balanced Asset Allocation ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "CAKE.TO",
+   "instruments": [
+    {
+     "name": "Avant CIBC Blnc AA",
+     "symbol": "CAKE"
+    }
+   ]
+  },
+  {
+   "symbol": "CAGR",
+   "name": "Avantis CIBC Growth Asset Allocation ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "CAGR.TO",
+   "instruments": [
+    {
+     "name": "Avant CIBC Grwth AA",
+     "symbol": "CAGR"
+    }
+   ]
+  },
+  {
+   "symbol": "CAGX",
+   "name": "Avantis CIBC World Equity ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "CAGX.TO",
+   "instruments": [
+    {
+     "name": "Avant CIBC Wrld Eq E",
+     "symbol": "CAGX"
+    }
+   ]
+  },
+  {
+   "symbol": "ZABS",
+   "name": "BMO Asset-Backed Securities ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "ZABS.TO",
+   "instruments": [
+    {
+     "name": "BMO Asset Bck S Cd U",
+     "symbol": "ZABS"
+    },
+    {
+     "name": "BMO Asset Bck S Hg U",
+     "symbol": "ZABS.F"
+    },
+    {
+     "name": "BMO Asset Bck USD U",
+     "symbol": "ZABS.U"
+    }
+   ]
+  },
+  {
+   "symbol": "BILP.PR.A",
+   "name": "Brookfield Infrastructure L.P.",
+   "exchange": "TSX",
+   "yahoo_symbol": "BILP.PR.A.TO",
+   "instruments": [
+    {
+     "name": "Brookfld infra LP",
+     "symbol": "BILP.PR.A"
+    }
+   ]
+  },
+  {
+   "symbol": "AAC",
+   "name": "Ares Acquisition Corporation III Class A Ordinary Shares",
+   "exchange": "NYSE",
+   "yahoo_symbol": "AAC"
+  },
+  {
+   "symbol": "AAC.W",
+   "name": "Ares Acquisition Corporation III Redeemable warrants, each whole warrant exercisable for one Class A ordinary share at an exercise price of $11.50",
+   "exchange": "NYSE",
+   "yahoo_symbol": "AAC.W"
+  },
+  {
+   "symbol": "SAX",
+   "name": "Saratoga Investment Corp 8.00% Notes due 2031",
+   "exchange": "NYSE",
+   "yahoo_symbol": "SAX"
+  },
+  {
+   "symbol": "HWGV",
+   "name": "Hotchkis \u0026 Wiley Global Value Fund",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "HWGV"
+  },
+  {
+   "symbol": "IPXG",
+   "name": "Inection Point Acquisition Corp. VII  - Class A Ordinary Shares",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "IPXG"
+  },
+  {
+   "symbol": "IPXGU",
+   "name": "Inection Point Acquisition Corp. VII  - Unit",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "IPXGU"
+  },
+  {
+   "symbol": "IPXGW",
+   "name": "Inection Point Acquisition Corp. VII  - Warrant",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "IPXGW"
+  },
+  {
+   "symbol": "JTTT",
+   "name": "JATT III Acquisition Corp - Ordinary Shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "JTTT"
+  },
+  {
+   "symbol": "RNAQU",
+   "name": "Rainier Acquisition Corporation - Units",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "RNAQU"
+  },
+  {
+   "symbol": "SCATU",
+   "name": "Southern Cross Acquisition II Corp. - Units",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "SCATU"
+  },
+  {
+   "symbol": "TGRZ",
+   "name": "China AI Tigers LLM ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "TGRZ"
+  },
+  {
+   "symbol": "VAI",
+   "name": "Valor Energy Incorporated - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "VAI"
+  },
+  {
+   "symbol": "XTER",
+   "name": "Karman Line Acquisition Corp. - Class A Ordinary Shares",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "XTER"
+  },
+  {
+   "symbol": "XTERW",
+   "name": "Karman Line Acquisition Corp. - Warrants",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "XTERW"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "WILC",
+   "name": "G. Willi-Food International,  Ltd. - Ordinary Shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "WILC"
+  },
+  {
+   "symbol": "NTZ",
+   "name": "Natuzzi, S.p.A.",
+   "exchange": "NYSE",
+   "yahoo_symbol": "NTZ"
+  },
+  {
+   "symbol": "LEG",
+   "name": "Leggett \u0026 Platt, Incorporated Common Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "LEG"
+  },
+  {
+   "symbol": "DVXV",
+   "name": "WEBs Health Care XLV Defined Volatility ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "DVXV"
+  },
+  {
+   "symbol": "VMAR",
+   "name": "Vision Marine Technologies Inc",
+   "exchange": "TSXV",
+   "yahoo_symbol": "VMAR.V",
+   "instruments": [
+    {
+     "name": "Vision Marine Technologies Inc.",
+     "symbol": "VMAR"
+    }
+   ]
+  },
+  {
+   "symbol": "CMIIW",
+   "name": "Columbus Circle Capital Corp II - Warrant",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "CMIIW"
+  },
+  {
+   "symbol": "DVRE",
+   "name": "WEBs Real Estate XLRE Defined Volatility ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "DVRE"
+  },
+  {
+   "symbol": "DVUT",
+   "name": "WEBs Utilities XLU Defined Volatility ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "DVUT"
+  },
+  {
+   "symbol": "DVXB",
+   "name": "WEBs Materials XLB Defined Volatility ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "DVXB"
+  },
+  {
+   "symbol": "AIHS",
+   "name": "Senmiao Technology Limited - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "AIHS"
+  },
+  {
+   "symbol": "DVXY",
+   "name": "WEBs Consumer Discretionary XLY Defined Volatility ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "DVXY"
+  },
+  {
+   "symbol": "DVXE",
+   "name": "WEBs Energy XLE Defined Volatility ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "DVXE"
+  },
+  {
+   "symbol": "CMII",
+   "name": "Columbus Circle Capital Corp II - Class A Ordinary Shares",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "CMII"
+  },
+  {
+   "symbol": "DVXC",
+   "name": "WEBs Communication Services XLC Defined Volatility ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "DVXC"
+  },
+  {
+   "symbol": "DVIN",
+   "name": "WEBs Industrials XLI Defined Volatility ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "DVIN"
+  },
+  {
+   "symbol": "DVXK",
+   "name": "WEBs Technology XLK Defined Volatility ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "DVXK"
+  },
+  {
+   "symbol": "DVXF",
+   "name": "WEBs Financial XLF Defined Volatility ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "DVXF"
+  },
+  {
+   "symbol": "CMIIU",
+   "name": "Columbus Circle Capital Corp II - Unit",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "CMIIU"
+  },
+  {
+   "symbol": "DVXP",
+   "name": "WEBs Consumer Staples XLP Defined Volatility ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "DVXP"
+  }
+ ]
+}
