@@ -1,0 +1,108 @@
+{
+ "added": [
+  {
+   "symbol": "IPHXU",
+   "name": "Inflection Point Acquisition Corp. VIII - Unit",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "IPHXU"
+  },
+  {
+   "symbol": "PSQL",
+   "name": "Pasqal Holding SA - Ordinary Shares",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "PSQL"
+  },
+  {
+   "symbol": "PSQLW",
+   "name": "Pasqal Holding SA - Warrant",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "PSQLW"
+  },
+  {
+   "symbol": "XLAB",
+   "name": "Exascale Labs Holdings Inc. - Class A Common Stock",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "XLAB"
+  },
+  {
+   "symbol": "XLABW",
+   "name": "Exascale Labs Holdings Inc. - Warrant",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "XLABW"
+  },
+  {
+   "symbol": "RIV.V",
+   "name": "RiverNorth Opportunities Fund, Inc. Rights (expiring September 23, 2026) Rights when issued",
+   "exchange": "NYSE",
+   "yahoo_symbol": "RIV.V"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "BCARU",
+   "name": "D. Boral ARC Acquisition I Corp. - Units",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "BCARU"
+  },
+  {
+   "symbol": "FBRX",
+   "name": "Forte Biosciences, Inc.  - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "FBRX"
+  },
+  {
+   "symbol": "LMNX",
+   "name": "Defiance Daily Target 2x Long LMND ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "LMNX"
+  },
+  {
+   "symbol": "BGI",
+   "name": "Birks Group Inc. Common Stock",
+   "exchange": "NYSE MKT",
+   "yahoo_symbol": "BGI"
+  },
+  {
+   "symbol": "BCAR",
+   "name": "D. Boral ARC Acquisition I Corp. - Class A Ordinary Shares",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "BCAR"
+  },
+  {
+   "symbol": "BBCQW",
+   "name": "Bleichroeder Acquisition Corp. II - Warrants",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "BBCQW"
+  },
+  {
+   "symbol": "DKNX",
+   "name": "Defiance Daily Target 2X Long DKNG ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "DKNX"
+  },
+  {
+   "symbol": "BBCQ",
+   "name": "Bleichroeder Acquisition Corp. II - Class A Ordinary Shares",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "BBCQ"
+  },
+  {
+   "symbol": "BBCQU",
+   "name": "Bleichroeder Acquisition Corp. II - Units",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "BBCQU"
+  },
+  {
+   "symbol": "ALOT",
+   "name": "AstroNova, Inc. - Common Stock",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "ALOT"
+  },
+  {
+   "symbol": "BCARW",
+   "name": "D. Boral ARC Acquisition I Corp. - Warrant",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "BCARW"
+  }
+ ]
+}
