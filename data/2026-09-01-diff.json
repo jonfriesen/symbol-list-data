@@ -1,0 +1,78 @@
+{
+ "added": [
+  {
+   "symbol": "MOGL",
+   "name": "Mogul Mountain Ventures Corporation",
+   "exchange": "TSXV",
+   "yahoo_symbol": "MOGL.V",
+   "instruments": [
+    {
+     "name": "Mogul Mountain Ventures Corporation",
+     "symbol": "MOGL"
+    }
+   ]
+  },
+  {
+   "symbol": "SGLD",
+   "name": "Scorpio Gold Corporation",
+   "exchange": "TSXV",
+   "yahoo_symbol": "SGLD.V",
+   "instruments": [
+    {
+     "name": "Scorpio Gold Corporation",
+     "symbol": "SGLD"
+    }
+   ]
+  },
+  {
+   "symbol": "GIXI",
+   "name": "Gix Internet Ltd. - Ordinary Shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "GIXI"
+  },
+  {
+   "symbol": "ISRL",
+   "name": "Defiance KSM Israel 120 ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "ISRL"
+  },
+  {
+   "symbol": "SGLD",
+   "name": "Scorpio Gold Corporation - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "SGLD"
+  },
+  {
+   "symbol": "TLACU",
+   "name": "Three Lions Acquisition Corp. - Units",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "TLACU"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "SGN",
+   "name": "Scorpio Gold Corporation",
+   "exchange": "TSXV",
+   "yahoo_symbol": "SGN.V",
+   "instruments": [
+    {
+     "name": "Scorpio Gold Corporation",
+     "symbol": "SGN"
+    }
+   ]
+  },
+  {
+   "symbol": "PANO.P",
+   "name": "Panorama Capital Corp.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "PANO.P.V",
+   "instruments": [
+    {
+     "name": "Panorama Capital Corp.",
+     "symbol": "PANO.P"
+    }
+   ]
+  }
+ ]
+}
