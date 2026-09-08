@@ -1,0 +1,84 @@
+{
+ "added": [
+  {
+   "symbol": "ARO",
+   "name": "Arc Mineral Royalties Ltd.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "ARO.V",
+   "instruments": [
+    {
+     "name": "Arc Mineral Royalties Ltd.",
+     "symbol": "ARO"
+    }
+   ]
+  },
+  {
+   "symbol": "AMAC",
+   "name": "AMR Resources Acquisition Corp - Class A Ordinary Shares",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "AMAC"
+  },
+  {
+   "symbol": "AMACW",
+   "name": "AMR Resources Acquisition Corp - Warrants",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "AMACW"
+  },
+  {
+   "symbol": "CHAD",
+   "name": "DeFi Development Corp. - Variable Rate Series C Perpetual Preferred Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "CHAD"
+  },
+  {
+   "symbol": "AUXX",
+   "name": "Gold X2 Mining Inc. Common Shares",
+   "exchange": "NYSE MKT",
+   "yahoo_symbol": "AUXX"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "ARX",
+   "name": "ARC Resources Ltd.",
+   "exchange": "TSX",
+   "yahoo_symbol": "ARX.TO",
+   "instruments": [
+    {
+     "name": "ARC Resources Ltd.",
+     "symbol": "ARX"
+    }
+   ]
+  },
+  {
+   "symbol": "GIPRW",
+   "name": "Generation Income Properties Inc. - Warrant",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "GIPRW"
+  },
+  {
+   "symbol": "SRA",
+   "name": "Stria Lithium Inc.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "SRA.V",
+   "instruments": [
+    {
+     "name": "Stria Lithium Inc.",
+     "symbol": "SRA"
+    }
+   ]
+  },
+  {
+   "symbol": "LPSN",
+   "name": "LivePerson, Inc. - Common Stock",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "LPSN"
+  },
+  {
+   "symbol": "BTAI",
+   "name": "BioXcel Therapeutics, Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "BTAI"
+  }
+ ]
+}
