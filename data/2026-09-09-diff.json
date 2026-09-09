@@ -1,0 +1,100 @@
+{
+ "added": [
+  {
+   "symbol": "ROSY",
+   "name": "Corton Rosenberg Global Macro Fund",
+   "exchange": "TSX",
+   "yahoo_symbol": "ROSY.TO",
+   "instruments": [
+    {
+     "name": "Corton Rosenberg GMF",
+     "symbol": "ROSY"
+    },
+    {
+     "name": "CortonRosenbrg GMF U",
+     "symbol": "ROSY.U"
+    }
+   ]
+  },
+  {
+   "symbol": "TPUT",
+   "name": "Corton Theta TM Alpha Fund",
+   "exchange": "TSX",
+   "yahoo_symbol": "TPUT.TO",
+   "instruments": [
+    {
+     "name": "Corton Theta Alpha F",
+     "symbol": "TPUT"
+    }
+   ]
+  },
+  {
+   "symbol": "VCOR",
+   "name": "Vanguard Global Core-Plus Bond ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "VCOR.TO",
+   "instruments": [
+    {
+     "name": "Vang Glb CorePlus B",
+     "symbol": "VCOR"
+    }
+   ]
+  },
+  {
+   "symbol": "CCML",
+   "name": "Roundhill MLCC \u0026 Electronic Components ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "CCML"
+  },
+  {
+   "symbol": "KRSA",
+   "name": "Korsana Biosciences, Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "KRSA"
+  },
+  {
+   "symbol": "NXAT",
+   "name": "Nexus Advanced Technologies Inc. - Ordinary Shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "NXAT"
+  },
+  {
+   "symbol": "NXATW",
+   "name": "Nexus Advanced Technologies Inc. - Warrant",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "NXATW"
+  },
+  {
+   "symbol": "RML",
+   "name": "Resolution Minerals Ltd - American Depositary Shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "RML"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "BRNS",
+   "name": "Barinthus Biotherapeutics plc - American Depositary Shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "BRNS"
+  },
+  {
+   "symbol": "CYCN",
+   "name": "Cyclerion Therapeutics, Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "CYCN"
+  },
+  {
+   "symbol": "KWM",
+   "name": "K Wave Media, Ltd. - Ordinary Shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "KWM"
+  },
+  {
+   "symbol": "KWMWW",
+   "name": "K Wave Media, Ltd. - Warrant",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "KWMWW"
+  }
+ ]
+}
