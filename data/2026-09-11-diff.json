@@ -1,0 +1,66 @@
+{
+ "added": [
+  {
+   "symbol": "HLSQ",
+   "name": "Tessera Defense and Homeland Security Inc. Common Stock",
+   "exchange": "NYSE MKT",
+   "yahoo_symbol": "HLSQ"
+  },
+  {
+   "symbol": "GEMQ",
+   "name": "Goldman Sachs Data Enhanced Emerging Markets Equity ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "GEMQ"
+  },
+  {
+   "symbol": "OCLT",
+   "name": "OceanLight Acquisition Corporation - Ordinary Shares",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "OCLT"
+  },
+  {
+   "symbol": "OCLTR",
+   "name": "OceanLight Acquisition Corporation - Rights",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "OCLTR"
+  },
+  {
+   "symbol": "OCLTW",
+   "name": "OceanLight Acquisition Corporation - Warrants",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "OCLTW"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "CWV",
+   "name": "Crown Point Energy Inc.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "CWV.V",
+   "instruments": [
+    {
+     "name": "Crown Point Energy Inc.",
+     "symbol": "CWV"
+    }
+   ]
+  },
+  {
+   "symbol": "PHGE",
+   "name": "BiomX Inc. Common Stock",
+   "exchange": "NYSE MKT",
+   "yahoo_symbol": "PHGE"
+  },
+  {
+   "symbol": "SPZ",
+   "name": "SuperBuzz Inc.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "SPZ.V",
+   "instruments": [
+    {
+     "name": "SuperBuzz Inc.",
+     "symbol": "SPZ"
+    }
+   ]
+  }
+ ]
+}
