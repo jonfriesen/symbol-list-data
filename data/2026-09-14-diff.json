@@ -1,0 +1,132 @@
+{
+ "added": [
+  {
+   "symbol": "QNTA",
+   "name": "Datametrex AI Limited",
+   "exchange": "TSXV",
+   "yahoo_symbol": "QNTA.V",
+   "instruments": [
+    {
+     "name": "Quanta AI Inc.",
+     "symbol": "QNTA"
+    }
+   ]
+  },
+  {
+   "symbol": "ZYUS",
+   "name": "ZYUS Life Sciences Corporation",
+   "exchange": "TSXV",
+   "yahoo_symbol": "ZYUS.V",
+   "instruments": [
+    {
+     "name": "ZYUS Life Sciences Corporation",
+     "symbol": "ZYUS"
+    }
+   ]
+  },
+  {
+   "symbol": "USHI",
+   "name": "Ninepoint Enhanced U.S. Equity HighShares ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "USHI.TO",
+   "instruments": [
+    {
+     "name": "Ninepoint Enh USEqHS",
+     "symbol": "USHI"
+    }
+   ]
+  },
+  {
+   "symbol": "AFDM",
+   "name": "First Trust Active Factor International ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "AFDM"
+  },
+  {
+   "symbol": "AFEM",
+   "name": "First Trust Active Factor Emerging Markets ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "AFEM"
+  },
+  {
+   "symbol": "NFEGP",
+   "name": "New Fortress Energy Inc. - Series A Mandatorily Convertible Preferred Stock",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "NFEGP"
+  },
+  {
+   "symbol": "BURU",
+   "name": "Nuburu, Inc. Common Stock",
+   "exchange": "NYSE MKT",
+   "yahoo_symbol": "BURU"
+  },
+  {
+   "symbol": "KHC",
+   "name": "The Kraft Heinz Company Common Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "KHC"
+  },
+  {
+   "symbol": "ZZZTA",
+   "name": "TXSE Test Stk 1 Common Stock",
+   "exchange": "UNKNOWN",
+   "yahoo_symbol": "ZZZTA"
+  },
+  {
+   "symbol": "ZZZTS",
+   "name": "TXSE Test Stk 3 Common Stock",
+   "exchange": "UNKNOWN",
+   "yahoo_symbol": "ZZZTS"
+  },
+  {
+   "symbol": "ZZZTX",
+   "name": "TXSE Test Stk 5 Common Stock",
+   "exchange": "UNKNOWN",
+   "yahoo_symbol": "ZZZTX"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "KHC",
+   "name": "The Kraft Heinz Company - Common Stock",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "KHC"
+  },
+  {
+   "symbol": "GFR.R",
+   "name": "Greenfire Resources Ltd. Rights (expiring September 15, 2026) Rights",
+   "exchange": "NYSE",
+   "yahoo_symbol": "GFR.R"
+  },
+  {
+   "symbol": "RFEM",
+   "name": "First Trust RiverFront Dynamic Emerging Markets ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "RFEM"
+  },
+  {
+   "symbol": "ATAI",
+   "name": "AtaiBeckley Inc. - Common Stock",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "ATAI"
+  },
+  {
+   "symbol": "DM",
+   "name": "Datametrex AI Limited",
+   "exchange": "TSXV",
+   "yahoo_symbol": "DM.V",
+   "instruments": [
+    {
+     "name": "Datametrex AI Limited",
+     "symbol": "DM"
+    }
+   ]
+  },
+  {
+   "symbol": "RFDI",
+   "name": "First Trust RiverFront Dynamic Developed International ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "RFDI"
+  }
+ ]
+}
