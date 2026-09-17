@@ -1,0 +1,138 @@
+{
+ "added": [
+  {
+   "symbol": "AVTS",
+   "name": "Aventus Capital Inc.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "AVTS.V",
+   "instruments": [
+    {
+     "name": "Aventus Capital Inc.",
+     "symbol": "AVTS"
+    }
+   ]
+  },
+  {
+   "symbol": "TQID",
+   "name": "TD Q International Dividend ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "TQID.TO",
+   "instruments": [
+    {
+     "name": "TD Q Intl Div ETF",
+     "symbol": "TQID"
+    }
+   ]
+  },
+  {
+   "symbol": "HYAC.U",
+   "name": "Haymaker Acquisition Corp V Units, each consisting of one Class A ordinary share and one-third of one redeemable warrant",
+   "exchange": "NYSE",
+   "yahoo_symbol": "HYAC.U"
+  },
+  {
+   "symbol": "CATL",
+   "name": "Catalyst Acquisition Corp. - Class A Ordinary Share",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "CATL"
+  },
+  {
+   "symbol": "CATLR",
+   "name": "Catalyst Acquisition Corp. - Rights",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "CATLR"
+  },
+  {
+   "symbol": "DRK",
+   "name": "DarkHorse Technologies Inc. - Common Shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "DRK"
+  },
+  {
+   "symbol": "MTAK",
+   "name": "Market Technology Acquisition Corp - Class A Ordinary Shares",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "MTAK"
+  },
+  {
+   "symbol": "MTAKW",
+   "name": "Market Technology Acquisition Corp - Warrants",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "MTAKW"
+  },
+  {
+   "symbol": "TDNA",
+   "name": "T. Rowe Price Biotech ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "TDNA"
+  },
+  {
+   "symbol": "TLAC",
+   "name": "Three Lions Acquisition Corp. - Ordinary Shares",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "TLAC"
+  },
+  {
+   "symbol": "TLACW",
+   "name": "Three Lions Acquisition Corp. - Warrants",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "TLACW"
+  },
+  {
+   "symbol": "TMID",
+   "name": "T. Rowe Price Mid Cap Equity Research ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "TMID"
+  },
+  {
+   "symbol": "TSEE",
+   "name": "T. Rowe Price Small Cap ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "TSEE"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "RITR",
+   "name": "Reitar Logtech Holdings Limited - Ordinary shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "RITR"
+  },
+  {
+   "symbol": "ANY",
+   "name": "Sphere 3D Corp. - Common Shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "ANY"
+  },
+  {
+   "symbol": "KTTAW",
+   "name": "Pasithea Therapeutics Corp. - Warrant",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "KTTAW"
+  },
+  {
+   "symbol": "WED",
+   "name": "The Westaim Corporation",
+   "exchange": "TSXV",
+   "yahoo_symbol": "WED.V",
+   "instruments": [
+    {
+     "name": "The Westaim Corporation",
+     "symbol": "WED"
+    }
+   ]
+  },
+  {
+   "symbol": "VROY",
+   "name": "Vizsla Royalties Corp.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "VROY.V",
+   "instruments": [
+    {
+     "name": "Vizsla Royalties Corp.",
+     "symbol": "VROY"
+    }
+   ]
+  }
+ ]
+}
