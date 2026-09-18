@@ -1,0 +1,102 @@
+{
+ "added": [
+  {
+   "symbol": "BIOX",
+   "name": "Bioceres Crop Solutions Corp. - Ordinary Shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "BIOX"
+  },
+  {
+   "symbol": "ETRA",
+   "name": "Electra Therapeutics, Inc. - Common stock",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "ETRA"
+  },
+  {
+   "symbol": "GCL",
+   "name": "GCL Global Holdings Ltd - Ordinary Shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "GCL"
+  },
+  {
+   "symbol": "GCLWW",
+   "name": "GCL Global Holdings Ltd - Warrants",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "GCLWW"
+  },
+  {
+   "symbol": "LEDRU",
+   "name": "Leader's Advantage Acquisition Corp. - Units",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "LEDRU"
+  },
+  {
+   "symbol": "OIG",
+   "name": "Orion180 Insurance Group Inc. - Class A Common Stock",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "OIG"
+  },
+  {
+   "symbol": "XIII",
+   "name": "Churchill Capital Corp XIII - Class A Ordinary Shares",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "XIII"
+  },
+  {
+   "symbol": "XIIIW",
+   "name": "Churchill Capital Corp XIII - Warrants",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "XIIIW"
+  },
+  {
+   "symbol": "ASGI.V",
+   "name": "abrdn Global Infrastructure Income Fund Rights (expiring October 15, 2026) Rights when issued",
+   "exchange": "NYSE",
+   "yahoo_symbol": "ASGI.V"
+  },
+  {
+   "symbol": "HOST",
+   "name": "Host Digital Inc. Class A Common Stock",
+   "exchange": "NYSE MKT",
+   "yahoo_symbol": "HOST"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "SAT",
+   "name": "Saratoga Investment Corp 6.00% Notes due 2027",
+   "exchange": "NYSE",
+   "yahoo_symbol": "SAT"
+  },
+  {
+   "symbol": "BIOX",
+   "name": "Bioceres Crop Solutions Corp. - Ordinary Shares",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "BIOX"
+  },
+  {
+   "symbol": "GCL",
+   "name": "GCL Global Holdings Ltd - Ordinary Shares",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "GCL"
+  },
+  {
+   "symbol": "GCLWW",
+   "name": "GCL Global Holdings Ltd - Warrants",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "GCLWW"
+  },
+  {
+   "symbol": "SNYR",
+   "name": "Synergy CHC Corp. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "SNYR"
+  },
+  {
+   "symbol": "HCWC",
+   "name": "Healthy Choice Wellness Corp. Class A Common Stock",
+   "exchange": "NYSE MKT",
+   "yahoo_symbol": "HCWC"
+  }
+ ]
+}
