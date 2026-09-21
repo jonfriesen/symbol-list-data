@@ -1,0 +1,36 @@
+{
+ "added": [
+  {
+   "symbol": "SCZ",
+   "name": "Santacruz Silver Mining Ltd.",
+   "exchange": "TSX",
+   "yahoo_symbol": "SCZ.TO",
+   "instruments": [
+    {
+     "name": "Santacruz Silv Min L",
+     "symbol": "SCZ"
+    }
+   ]
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "CSAN",
+   "name": "Cosan S.A. ADS",
+   "exchange": "NYSE",
+   "yahoo_symbol": "CSAN"
+  },
+  {
+   "symbol": "SCZ",
+   "name": "Santacruz Silver Mining Ltd.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "SCZ.V",
+   "instruments": [
+    {
+     "name": "Santacruz Silver Mining Ltd.",
+     "symbol": "SCZ"
+    }
+   ]
+  }
+ ]
+}
