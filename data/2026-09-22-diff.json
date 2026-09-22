@@ -1,0 +1,256 @@
+{
+ "added": [
+  {
+   "symbol": "ALX",
+   "name": "Alex Metals Corp.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "ALX.V",
+   "instruments": [
+    {
+     "name": "Alex Metals Corp.",
+     "symbol": "ALX"
+    }
+   ]
+  },
+  {
+   "symbol": "CATX",
+   "name": "Catalyst One Exploration Corp.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "CATX.V",
+   "instruments": [
+    {
+     "name": "Catalyst One Exploration Corp.",
+     "symbol": "CATX"
+    }
+   ]
+  },
+  {
+   "symbol": "GCIG",
+   "name": "Global X 1-10 Year Canadian Corporate Bond Index ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "GCIG.TO",
+   "instruments": [
+    {
+     "name": "Glbl X 1-10 Yr C CrB",
+     "symbol": "GCIG"
+    }
+   ]
+  },
+  {
+   "symbol": "TMTX",
+   "name": "Global X 3-10 Year U.S. Treasury Bond Index ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "TMTX.TO",
+   "instruments": [
+    {
+     "name": "Glbl X 3-10 Yr US UH",
+     "symbol": "TMTX"
+    },
+    {
+     "name": "Glbl X 3-10 Yr US Hg",
+     "symbol": "TMTX.F"
+    },
+    {
+     "name": "Glbl X 3-10Yr US USD",
+     "symbol": "TMTX.U"
+    }
+   ]
+  },
+  {
+   "symbol": "DRAM",
+   "name": "Global X Artificial Intelligence Memory Index ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "DRAM.TO",
+   "instruments": [
+    {
+     "name": "Glbl X AI Mem Ind E",
+     "symbol": "DRAM"
+    }
+   ]
+  },
+  {
+   "symbol": "ACHP",
+   "name": "Global X Asia Semiconductor Index ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "ACHP.TO",
+   "instruments": [
+    {
+     "name": "Glbl X Asia Semi Ind",
+     "symbol": "ACHP"
+    }
+   ]
+  },
+  {
+   "symbol": "AGGX",
+   "name": "Global X Canadian Universe Bond Index ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "AGGX.TO",
+   "instruments": [
+    {
+     "name": "Glbl X Cdn Uni BD In",
+     "symbol": "AGGX"
+    }
+   ]
+  },
+  {
+   "symbol": "KORX",
+   "name": "Global X Korea KOSPI 200 Index ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "KORX.TO",
+   "instruments": [
+    {
+     "name": "Glbl X Kor KOSPI 200",
+     "symbol": "KORX"
+    },
+    {
+     "name": "Glbl X KorKOSPI200 U",
+     "symbol": "KORX.U"
+    }
+   ]
+  },
+  {
+   "symbol": "CNDC",
+   "name": "Global X S\u0026P/TSX Capped Composite Index ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "CNDC.TO",
+   "instruments": [
+    {
+     "name": "Glbl X SP/TSX CC Ind",
+     "symbol": "CNDC"
+    }
+   ]
+  },
+  {
+   "symbol": "ESYN",
+   "name": "EnerSyn Global Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "ESYN"
+  },
+  {
+   "symbol": "NWCL",
+   "name": "newcleo plc - Ordinary Shares",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "NWCL"
+  },
+  {
+   "symbol": "NWCLW",
+   "name": "newcleo plc - Warrants",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "NWCLW"
+  },
+  {
+   "symbol": "QQQB",
+   "name": "VistaShares Shield Nasdaq 100 Enhanced Protection ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "QQQB"
+  },
+  {
+   "symbol": "SVIA",
+   "name": "Silvia, Inc. - Common Stock",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "SVIA"
+  },
+  {
+   "symbol": "SVIAW",
+   "name": "Silvia, Inc. - Warrant.",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "SVIAW"
+  },
+  {
+   "symbol": "VOOB",
+   "name": "VistaShares Shield S\u0026P 500 Enhanced Protection ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "VOOB"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "MDS.UN",
+   "name": "Healthcare Special Opportunities Fund",
+   "exchange": "TSX",
+   "yahoo_symbol": "MDS.UN.TO",
+   "instruments": [
+    {
+     "name": "Healthcare SpecOp Un",
+     "symbol": "MDS.UN"
+    }
+   ]
+  },
+  {
+   "symbol": "NHIC",
+   "name": "NewHold Investment Corp III - Class A Ordinary shares",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "NHIC"
+  },
+  {
+   "symbol": "SMRV",
+   "name": "Smooth Rock Ventures Corp.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "SMRV.V",
+   "instruments": [
+    {
+     "name": "Smooth Rock Ventures Corp.",
+     "symbol": "SMRV"
+    }
+   ]
+  },
+  {
+   "symbol": "BRRWW",
+   "name": "ProCap Financial, Inc. - Warrant.",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "BRRWW"
+  },
+  {
+   "symbol": "SMCF",
+   "name": "Themes US Small Cap Cash Flow Champions ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "SMCF"
+  },
+  {
+   "symbol": "BRR",
+   "name": "ProCap Financial, Inc. - Common Stock",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "BRR"
+  },
+  {
+   "symbol": "NHICW",
+   "name": "NewHold Investment Corp III - Warrants",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "NHICW"
+  },
+  {
+   "symbol": "LGCF",
+   "name": "Themes US Cash Flow Champions ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "LGCF"
+  },
+  {
+   "symbol": "CRWN",
+   "name": "Crown Capital Partners Inc.",
+   "exchange": "TSX",
+   "yahoo_symbol": "CRWN.TO",
+   "instruments": [
+    {
+     "name": "Crown Cap Partners J",
+     "symbol": "CRWN"
+    },
+    {
+     "name": "Crown CapPartJ 12%Db",
+     "symbol": "CRWN.NT"
+    }
+   ]
+  },
+  {
+   "symbol": "HWH",
+   "name": "HWH International Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "HWH"
+  },
+  {
+   "symbol": "NHICU",
+   "name": "NewHold Investment Corp III - Units",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "NHICU"
+  }
+ ]
+}
