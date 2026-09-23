@@ -1,0 +1,94 @@
+{
+ "added": [
+  {
+   "symbol": "CRWN",
+   "name": "Crown Capital Partners Inc.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "CRWN.V",
+   "instruments": [
+    {
+     "name": "Crown Capital Partners Inc.",
+     "symbol": "CRWN"
+    },
+    {
+     "name": "Crown Capital Partners Inc. db31Dec2027",
+     "symbol": "CRWN.NT"
+    }
+   ]
+  },
+  {
+   "symbol": "CHIP",
+   "name": "REX AI Chipmaking ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "CHIP"
+  },
+  {
+   "symbol": "LOVIU",
+   "name": "Live Oak Acquisition Corp. VI - Units",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "LOVIU"
+  },
+  {
+   "symbol": "MYCP",
+   "name": "State Street My2036 Corporate Bond ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "MYCP"
+  },
+  {
+   "symbol": "MYHF",
+   "name": "State Street My2032 High Yield Corporate Bond ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "MYHF"
+  },
+  {
+   "symbol": "MYML",
+   "name": "State Street My2032 Municipal Bond ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "MYML"
+  },
+  {
+   "symbol": "QQI",
+   "name": "Invesco Nasdaq International Innovators 100 ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "QQI"
+  },
+  {
+   "symbol": "TXCA",
+   "name": "Northern Trust California Intermediate Tax-Exempt Bond ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "TXCA"
+  },
+  {
+   "symbol": "TXNY",
+   "name": "Northern Trust New York Intermediate Tax-Exempt Bond ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "TXNY"
+  },
+  {
+   "symbol": "VMHY",
+   "name": "VictoryShares Municipal High Yield ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "VMHY"
+  },
+  {
+   "symbol": "VMSD",
+   "name": "VictoryShares Short-Duration Municipal ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "VMSD"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "RIV.R",
+   "name": "RiverNorth Opportunities Fund, Inc. Rights (expiring September 23, 2026) Rights",
+   "exchange": "NYSE",
+   "yahoo_symbol": "RIV.R"
+  },
+  {
+   "symbol": "PLTS",
+   "name": "Platinum Analytics Cayman Limited - Class A Ordinary Shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "PLTS"
+  }
+ ]
+}
