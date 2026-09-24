@@ -1,0 +1,164 @@
+{
+ "added": [
+  {
+   "symbol": "ZACU",
+   "name": "BMO Strategic Autocallable Income US Large Cap ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "ZACU.TO",
+   "instruments": [
+    {
+     "name": "BMO Str A Inc USLC C",
+     "symbol": "ZACU"
+    },
+    {
+     "name": "BMO Str A Inc USLC H",
+     "symbol": "ZACU.F"
+    },
+    {
+     "name": "BMO Str A Inc USLC U",
+     "symbol": "ZACU.U"
+    }
+   ]
+  },
+  {
+   "symbol": "FJDI",
+   "name": "ARC Group Securities Acquisition I - Class A Ordinary Shares",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "FJDI"
+  },
+  {
+   "symbol": "FJDIR",
+   "name": "ARC Group Securities Acquisition I - Rights",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "FJDIR"
+  },
+  {
+   "symbol": "FJDIW",
+   "name": "ARC Group Securities Acquisition I - Warrants",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "FJDIW"
+  },
+  {
+   "symbol": "HAIN",
+   "name": "The Hain Celestial Group, Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "HAIN"
+  },
+  {
+   "symbol": "HUCK",
+   "name": "Huckleberry.ai, Inc. - Class B Common Stock",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "HUCK"
+  },
+  {
+   "symbol": "HWMV",
+   "name": "Hotchkis \u0026 Wiley Mid-Cap Value Fund",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "HWMV"
+  },
+  {
+   "symbol": "LCCC",
+   "name": "Lakeshore Acquisition III Corp. - Ordinary Shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "LCCC"
+  },
+  {
+   "symbol": "LCCCR",
+   "name": "Lakeshore Acquisition III Corp. - Rights",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "LCCCR"
+  },
+  {
+   "symbol": "LCCCU",
+   "name": "Lakeshore Acquisition III Corp. - Unit",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "LCCCU"
+  },
+  {
+   "symbol": "ONEN",
+   "name": "ONE Nuclear Energy Inc. - Common Stock",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "ONEN"
+  },
+  {
+   "symbol": "TORK",
+   "name": "KraneShares Actuator ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "TORK"
+  },
+  {
+   "symbol": "ASGI.R",
+   "name": "abrdn Global Infrastructure Income Fund Rights (expiring October 15, 2026) Rights",
+   "exchange": "NYSE",
+   "yahoo_symbol": "ASGI.R"
+  },
+  {
+   "symbol": "BCAT.V",
+   "name": "BlackRock Capital Allocation Term Trust Rights (expiring October 21, 2026) Rights when issued",
+   "exchange": "NYSE",
+   "yahoo_symbol": "BCAT.V"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "LCCCR",
+   "name": "Lakeshore Acquisition III Corp. - Rights",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "LCCCR"
+  },
+  {
+   "symbol": "DOMO",
+   "name": "Domo, Inc. - Class B Common Stock",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "DOMO"
+  },
+  {
+   "symbol": "HVIIR",
+   "name": "Hennessy Capital Investment Corp. VII - Rights",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "HVIIR"
+  },
+  {
+   "symbol": "HVII",
+   "name": "Hennessy Capital Investment Corp. VII - Ordinary Shares",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "HVII"
+  },
+  {
+   "symbol": "HVIIU",
+   "name": "Hennessy Capital Investment Corp. VII - Unit",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "HVIIU"
+  },
+  {
+   "symbol": "LCCCU",
+   "name": "Lakeshore Acquisition III Corp. - Unit",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "LCCCU"
+  },
+  {
+   "symbol": "LCCC",
+   "name": "Lakeshore Acquisition III Corp. - Ordinary Shares",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "LCCC"
+  },
+  {
+   "symbol": "TBPH",
+   "name": "Theravance Biopharma, Inc. - Ordinary Shares",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "TBPH"
+  },
+  {
+   "symbol": "ASGI.V",
+   "name": "abrdn Global Infrastructure Income Fund Rights (expiring October 15, 2026) Rights when issued",
+   "exchange": "NYSE",
+   "yahoo_symbol": "ASGI.V"
+  },
+  {
+   "symbol": "HAIN",
+   "name": "The Hain Celestial Group, Inc. - Common Stock",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "HAIN"
+  }
+ ]
+}
