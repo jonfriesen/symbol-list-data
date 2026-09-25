@@ -1,0 +1,60 @@
+{
+ "added": [
+  {
+   "symbol": "ADRX",
+   "name": "ADARx Pharmaceuticals, Inc. - Common stock",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "ADRX"
+  },
+  {
+   "symbol": "BRRKU",
+   "name": "Bluerock Acquisition Corp. II - Units",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "BRRKU"
+  },
+  {
+   "symbol": "PBCS",
+   "name": "Portfolio Building Block World Consumer Staples ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "PBCS"
+  },
+  {
+   "symbol": "PBUB",
+   "name": "Portfolio Building Block US Banks ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "PBUB"
+  },
+  {
+   "symbol": "PBWN",
+   "name": "Portfolio Building Block World Ex US Industrials ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "PBWN"
+  },
+  {
+   "symbol": "PNAQ",
+   "name": "Pinnacle Acquisition Corporation Class A Ordinary Shares",
+   "exchange": "NYSE",
+   "yahoo_symbol": "PNAQ"
+  },
+  {
+   "symbol": "PNAQ.R",
+   "name": "Pinnacle Acquisition Corporation Rights, each right entitling the holder to receive one-eighth (1/8) of one Class A ordinary share",
+   "exchange": "NYSE",
+   "yahoo_symbol": "PNAQ.R"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "JSPRW",
+   "name": "Jasper Therapeutics, Inc. - Warrant",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "JSPRW"
+  },
+  {
+   "symbol": "KLXER",
+   "name": "KLX Energy Services Holdings, Inc.  - Rights",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "KLXER"
+  }
+ ]
+}
