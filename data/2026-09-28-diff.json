@@ -1,0 +1,162 @@
+{
+ "added": [
+  {
+   "symbol": "NSUY",
+   "name": "NBI SmartData Enhanced Yield U.S. Equity Fund",
+   "exchange": "TSX",
+   "yahoo_symbol": "NSUY.TO",
+   "instruments": [
+    {
+     "name": "NBI SmtD EnhYdUS EqF",
+     "symbol": "NSUY"
+    }
+   ]
+  },
+  {
+   "symbol": "NICC",
+   "name": "NBI SmartData International Equity Covered Call Fund",
+   "exchange": "TSX",
+   "yahoo_symbol": "NICC.TO",
+   "instruments": [
+    {
+     "name": "NBI SmtDt Intl EqCcF",
+     "symbol": "NICC"
+    }
+   ]
+  },
+  {
+   "symbol": "NUCC",
+   "name": "NBI SmartData U.S. Equity Covered Call Fund",
+   "exchange": "TSX",
+   "yahoo_symbol": "NUCC.TO",
+   "instruments": [
+    {
+     "name": "NBI SmtData US EqCC",
+     "symbol": "NUCC"
+    }
+   ]
+  },
+  {
+   "symbol": "NTGG",
+   "name": "NBI Target 2032 Investment Grade Bond Fund",
+   "exchange": "TSX",
+   "yahoo_symbol": "NTGG.TO",
+   "instruments": [
+    {
+     "name": "NBI Tgt 2032 Inv GBF",
+     "symbol": "NTGG"
+    }
+   ]
+  },
+  {
+   "symbol": "NUST",
+   "name": "NBI Ultra Short-Term Fixed Income Fund",
+   "exchange": "TSX",
+   "yahoo_symbol": "NUST.TO",
+   "instruments": [
+    {
+     "name": "NBI Ult ShtTm FixIcF",
+     "symbol": "NUST"
+    }
+   ]
+  },
+  {
+   "symbol": "FGC",
+   "name": "FG Communities Holdings Inc. - Common Stock",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "FGC"
+  },
+  {
+   "symbol": "FGCPP",
+   "name": "FG Communities Holdings Inc. - 8.00% Cumulative Series A Preferred Stock",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "FGCPP"
+  },
+  {
+   "symbol": "GOW",
+   "name": "GOWell Energy Technology - Ordinary shares",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "GOW"
+  },
+  {
+   "symbol": "THRMV",
+   "name": "Gentherm Inc - Gentherm Inc Common Stock When-Issued",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "THRMV"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "TWO$C",
+   "name": "Two Harbors Investments Corp 7.25% Series C Fixed-to-Floating Rate Cumulative Redeemable Preferred Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "TWO$C"
+  },
+  {
+   "symbol": "SBXD.U",
+   "name": "SilverBox Corp IV Units, each consisting of one Class A ordinary share and one-third of one redeemable warrant",
+   "exchange": "NYSE",
+   "yahoo_symbol": "SBXD.U"
+  },
+  {
+   "symbol": "TWO$A",
+   "name": "Two Harbors Investments Corp 8.125% Series A Fixed-to-Floating Rate Cumulative Redeemable Preferred Stock ($25.00 liquidation preference per share)",
+   "exchange": "NYSE",
+   "yahoo_symbol": "TWO$A"
+  },
+  {
+   "symbol": "TWO$B",
+   "name": "Two Harbors Investments Corp 7.625% Series B Fixed-to-Floating Rate Cumulative Redeemable Preferred Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "TWO$B"
+  },
+  {
+   "symbol": "SBXD.W",
+   "name": "SilverBox Corp IV Redeemable warrants, each whole warrant exercisable for one Class A Ordinary Share at an exercise price of $11.50",
+   "exchange": "NYSE",
+   "yahoo_symbol": "SBXD.W"
+  },
+  {
+   "symbol": "FGNX",
+   "name": "FG Nexus Inc. - Common Stock",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "FGNX"
+  },
+  {
+   "symbol": "FGNXP",
+   "name": "FG Nexus Inc. - 8.00% Cumulative Series A Preferred Stock",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "FGNXP"
+  },
+  {
+   "symbol": "IPEXR",
+   "name": "Inflection Point Acquisition Corp. - Right",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "IPEXR"
+  },
+  {
+   "symbol": "IPEX",
+   "name": "Inflection Point Acquisition Corp. - Class A Ordinary Shares",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "IPEX"
+  },
+  {
+   "symbol": "SBXD",
+   "name": "SilverBox Corp IV Class A Ordinary Shares",
+   "exchange": "NYSE",
+   "yahoo_symbol": "SBXD"
+  },
+  {
+   "symbol": "IPEXU",
+   "name": "Inflection Point Acquisition Corp. - Unit",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "IPEXU"
+  },
+  {
+   "symbol": "PDYNW",
+   "name": "Palladyne AI Corp. - Warrant",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "PDYNW"
+  }
+ ]
+}
