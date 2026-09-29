@@ -1,0 +1,114 @@
+{
+ "added": [
+  {
+   "symbol": "MEQP",
+   "name": "Manulife All-Equity ETF Portfolio",
+   "exchange": "TSX",
+   "yahoo_symbol": "MEQP.TO",
+   "instruments": [
+    {
+     "name": "Manulife A Eq ETF P",
+     "symbol": "MEQP"
+    }
+   ]
+  },
+  {
+   "symbol": "MBND",
+   "name": "Manulife All-Fixed Income ETF Portfolio",
+   "exchange": "TSX",
+   "yahoo_symbol": "MBND.TO",
+   "instruments": [
+    {
+     "name": "Manulife AF Inc ETF",
+     "symbol": "MBND"
+    }
+   ]
+  },
+  {
+   "symbol": "CORB",
+   "name": "Manulife Corporate Bond Fund",
+   "exchange": "TSX",
+   "yahoo_symbol": "CORB.TO",
+   "instruments": [
+    {
+     "name": "Manulife Corp Bond F",
+     "symbol": "CORB"
+    }
+   ]
+  },
+  {
+   "symbol": "IDUV.U",
+   "name": "Manulife Smart International Dividend ETF - USD",
+   "exchange": "TSX",
+   "yahoo_symbol": "IDUV.U.TO",
+   "instruments": [
+    {
+     "name": "Manulife Sm Int D U",
+     "symbol": "IDUV.U"
+    }
+   ]
+  },
+  {
+   "symbol": "MAGF",
+   "name": "Middlefield Alternative Global Fixed Income Fund",
+   "exchange": "TSX",
+   "yahoo_symbol": "MAGF.TO",
+   "instruments": [
+    {
+     "name": "Midfld Alt Glb FI F",
+     "symbol": "MAGF"
+    }
+   ]
+  },
+  {
+   "symbol": "MGFI",
+   "name": "Middlefield Global Multi-Sector Fixed Income Fund",
+   "exchange": "TSX",
+   "yahoo_symbol": "MGFI.TO",
+   "instruments": [
+    {
+     "name": "Midfld Gbl MS Fi F",
+     "symbol": "MGFI"
+    }
+   ]
+  },
+  {
+   "symbol": "ICMO",
+   "name": "Symmetry Panoramic International Country Momentum ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "ICMO"
+  },
+  {
+   "symbol": "MUY",
+   "name": "YieldMax MU Option Income Strategy ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "MUY"
+  },
+  {
+   "symbol": "RZAI",
+   "name": "Roze AI Inc. - Common Shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "RZAI"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "GBTG",
+   "name": "Global Business Travel Group, Inc. Class A Common Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "GBTG"
+  },
+  {
+   "symbol": "IONQ.W",
+   "name": "IonQ, Inc. Redeemable warrants, each whole warrant exercisable for one share of Common Stock, each at an exercise price of $11.50 per share",
+   "exchange": "NYSE",
+   "yahoo_symbol": "IONQ.W"
+  },
+  {
+   "symbol": "RILYN",
+   "name": "BRC Group Holdings, Inc. - 6.50% Senior Notes Due 2026",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "RILYN"
+  }
+ ]
+}
