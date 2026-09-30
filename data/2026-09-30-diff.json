@@ -1,0 +1,54 @@
+{
+ "added": [
+  {
+   "symbol": "ACCV",
+   "name": "Accelevation Holdings Corp. - Class A ordinary shares",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "ACCV"
+  },
+  {
+   "symbol": "ENHE",
+   "name": "iShares Enhanced Emerging Markets Active ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "ENHE"
+  },
+  {
+   "symbol": "FFR",
+   "name": "FF EAI Robotics Ecosystem Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "FFR"
+  },
+  {
+   "symbol": "IVAI",
+   "name": "Ives Ultra AI Opportunities Inc. Common Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "IVAI"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "AIXC",
+   "name": "AIxCrypto Holdings, Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "AIXC"
+  },
+  {
+   "symbol": "GETY",
+   "name": "Getty Images Holdings, Inc. Class A Common Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "GETY"
+  },
+  {
+   "symbol": "DBRG",
+   "name": "DigitalBridge Group, Inc.",
+   "exchange": "NYSE",
+   "yahoo_symbol": "DBRG"
+  },
+  {
+   "symbol": "AMZE",
+   "name": "Amaze Holdings, Inc. Common Stock",
+   "exchange": "NYSE MKT",
+   "yahoo_symbol": "AMZE"
+  }
+ ]
+}
