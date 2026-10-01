@@ -1,0 +1,312 @@
+{
+ "added": [
+  {
+   "symbol": "FGQE",
+   "name": "Fidelity Global Quant Equity ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "FGQE.TO",
+   "instruments": [
+    {
+     "name": "FIDELITY Glbl Qnt Et",
+     "symbol": "FGQE"
+    }
+   ]
+  },
+  {
+   "symbol": "HONE",
+   "name": "Harvest All-In-One High Income Shares ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "HONE.TO",
+   "instruments": [
+    {
+     "name": "HVST AIn1 Hi Inc Shr",
+     "symbol": "HONE"
+    }
+   ]
+  },
+  {
+   "symbol": "ASME",
+   "name": "Harvest ASML Enhanced High Income Shares ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "ASME.TO",
+   "instruments": [
+    {
+     "name": "HVST ASML Ehn HiIc S",
+     "symbol": "ASME"
+    }
+   ]
+  },
+  {
+   "symbol": "BRKE",
+   "name": "Harvest Berkshire Hathaway Enhanced High Income Shares ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "BRKE.TO",
+   "instruments": [
+    {
+     "name": "HVST Brkshr Htwy EHI",
+     "symbol": "BRKE"
+    }
+   ]
+  },
+  {
+   "symbol": "INTE",
+   "name": "Harvest Intel Enhanced High Income Shares ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "INTE.TO",
+   "instruments": [
+    {
+     "name": "HVST Intel EnhHi Ic ",
+     "symbol": "INTE"
+    }
+   ]
+  },
+  {
+   "symbol": "MUHE",
+   "name": "Harvest Micron Enhanced High Income Shares ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "MUHE.TO",
+   "instruments": [
+    {
+     "name": "HVST Micrn EnhIc Sh ",
+     "symbol": "MUHE"
+    }
+   ]
+  },
+  {
+   "symbol": "MGEG",
+   "name": "Mackenzie Global Equity \u0026 Gold Overlay ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "MGEG.TO",
+   "instruments": [
+    {
+     "name": "Mackenzie Glb EqGldO",
+     "symbol": "MGEG"
+    }
+   ]
+  },
+  {
+   "symbol": "MMDC",
+   "name": "Mackenzie Modus Canadian High Dividend Yield ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "MMDC.TO",
+   "instruments": [
+    {
+     "name": "Mackenzi C H Div Y E",
+     "symbol": "MMDC"
+    }
+   ]
+  },
+  {
+   "symbol": "MMCY",
+   "name": "Mackenzie Modus Cyclical Tilt ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "MMCY.TO",
+   "instruments": [
+    {
+     "name": "Mackenzie Cyc Tlt E",
+     "symbol": "MMCY"
+    }
+   ]
+  },
+  {
+   "symbol": "MMDF",
+   "name": "Mackenzie Modus Defensive Tilt ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "MMDF.TO",
+   "instruments": [
+    {
+     "name": "Mackenzie Def Tlt E",
+     "symbol": "MMDF"
+    }
+   ]
+  },
+  {
+   "symbol": "MMGL",
+   "name": "Mackenzie Modus Global Equity ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "MMGL.TO",
+   "instruments": [
+    {
+     "name": "Mackenzie Mod Gl Eq",
+     "symbol": "MMGL"
+    }
+   ]
+  },
+  {
+   "symbol": "MMSD",
+   "name": "Mackenzie Modus Global Small-Mid Cap Equity ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "MMSD.TO",
+   "instruments": [
+    {
+     "name": "Mackenzie Md Gl SM C",
+     "symbol": "MMSD"
+    }
+   ]
+  },
+  {
+   "symbol": "MMEA",
+   "name": "Mackenzie Modus International Equity ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "MMEA.TO",
+   "instruments": [
+    {
+     "name": "Mackenzie Mod Int Eq",
+     "symbol": "MMEA"
+    }
+   ]
+  },
+  {
+   "symbol": "MMDU",
+   "name": "Mackenzie Modus US High Dividend Yield ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "MMDU.TO",
+   "instruments": [
+    {
+     "name": "Mackenzie US H D Y E",
+     "symbol": "MMDU"
+    }
+   ]
+  },
+  {
+   "symbol": "PORT.U",
+   "name": "Southport Acquisition Corp. II Units, each consisting of one Class A ordinary share and one-third of one redeemable warrant",
+   "exchange": "NYSE",
+   "yahoo_symbol": "PORT.U"
+  },
+  {
+   "symbol": "UWMC.V",
+   "name": "UWM Holdings Corporation Rights (November 12, 2026) Rights when issued",
+   "exchange": "NYSE",
+   "yahoo_symbol": "UWMC.V"
+  },
+  {
+   "symbol": "VYLR",
+   "name": "Vylor Inc. Common Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "VYLR"
+  },
+  {
+   "symbol": "CHWM",
+   "name": "Chilwa Minerals Limited - American Depository Shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "CHWM"
+  },
+  {
+   "symbol": "MMEDV",
+   "name": "MiniMed Group, Inc. - Common Stock When Issued",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "MMEDV"
+  },
+  {
+   "symbol": "OPNW",
+   "name": "OpenWorld, Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "OPNW"
+  },
+  {
+   "symbol": "PBK",
+   "name": "PowerBank Corporation - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "PBK"
+  },
+  {
+   "symbol": "TDEM",
+   "name": "T. Rowe Price Dynamic Emerging Markets Bond ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "TDEM"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "MCYC",
+   "name": "Mackenzie Cyclical Tilt ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "MCYC.TO",
+   "instruments": [
+    {
+     "name": "Mackenzie Cyc Tlt E",
+     "symbol": "MCYC"
+    }
+   ]
+  },
+  {
+   "symbol": "NTRBW",
+   "name": "Nutriband Inc. - Warrant",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "NTRBW"
+  },
+  {
+   "symbol": "MDEF",
+   "name": "Mackenzie Defensive Tilt ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "MDEF.TO",
+   "instruments": [
+    {
+     "name": "Mackenzie Def Tlt E",
+     "symbol": "MDEF"
+    }
+   ]
+  },
+  {
+   "symbol": "MAA$I",
+   "name": "Mid-America Apartment Communities, Inc. 8.50% Series I Cumulative Redeemable Preferred Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "MAA$I"
+  },
+  {
+   "symbol": "SNI.PR.A",
+   "name": "Sonor Investments Limited",
+   "exchange": "TSXV",
+   "yahoo_symbol": "SNI.PR.A.V",
+   "instruments": [
+    {
+     "name": "Sonor Investments Limited 9% cum red 1st prf",
+     "symbol": "SNI.PR.A"
+    }
+   ]
+  },
+  {
+   "symbol": "VRME",
+   "name": "VerifyMe, Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "VRME"
+  },
+  {
+   "symbol": "NLY$I",
+   "name": "Annaly Capital Management Inc 6.750% Series I Fixed-to-Floating Rate Cumulative Redeemable Preferred Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "NLY$I"
+  },
+  {
+   "symbol": "PBK",
+   "name": "PowerBank Corporation - Common Stock",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "PBK"
+  },
+  {
+   "symbol": "MHDU",
+   "name": "Mackenzie US High Dividend Yield ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "MHDU.TO",
+   "instruments": [
+    {
+     "name": "Mackenzie US H D Y E",
+     "symbol": "MHDU"
+    }
+   ]
+  },
+  {
+   "symbol": "MHDC",
+   "name": "Mackenzie Canadian High Dividend Yield ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "MHDC.TO",
+   "instruments": [
+    {
+     "name": "Mackenzi C H Div Y E",
+     "symbol": "MHDC"
+    }
+   ]
+  }
+ ]
+}
