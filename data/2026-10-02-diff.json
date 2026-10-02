@@ -1,0 +1,146 @@
+{
+ "added": [
+  {
+   "symbol": "ESKR",
+   "name": "Esker Infrastructure Corp.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "ESKR.V",
+   "instruments": [
+    {
+     "name": "Esker Infrastructure Corp.",
+     "symbol": "ESKR"
+    },
+    {
+     "name": "Esker Infrastructure Corp wts 08jul2027",
+     "symbol": "ESKR.WT"
+    }
+   ]
+  },
+  {
+   "symbol": "WSTR",
+   "name": "WELLSTAR Technologies Corp.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "WSTR.V",
+   "instruments": [
+    {
+     "name": "WELLSTAR Technologies Corp.",
+     "symbol": "WSTR"
+    }
+   ]
+  },
+  {
+   "symbol": "DX$D",
+   "name": "Dynex Capital, Inc. 9.375% Series D Fixed-Rate Cumulative Redeemable Preferred Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "DX$D"
+  },
+  {
+   "symbol": "NSTR",
+   "name": "NorthStar Earth \u0026 Space Enterprises, Inc. Common Shares",
+   "exchange": "NYSE MKT",
+   "yahoo_symbol": "NSTR"
+  },
+  {
+   "symbol": "NSTR.W",
+   "name": "NorthStar Earth \u0026 Space Enterprises, Inc. Warrants",
+   "exchange": "NYSE MKT",
+   "yahoo_symbol": "NSTR.W"
+  },
+  {
+   "symbol": "SAIQ",
+   "name": "WISeSat.Space Holdings Corp. - Ordinary Shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "SAIQ"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "GFAIW",
+   "name": "Guardforce AI Co., Limited - Warrant",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "GFAIW"
+  },
+  {
+   "symbol": "THRMV",
+   "name": "Gentherm Inc - Gentherm Inc Common Stock When-Issued",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "THRMV"
+  },
+  {
+   "symbol": "VACI",
+   "name": "Viking Acquisition Corp. I Class A Ordinary Shares",
+   "exchange": "NYSE",
+   "yahoo_symbol": "VACI"
+  },
+  {
+   "symbol": "VACI.U",
+   "name": "Viking Acquisition Corp. I Units, each consisting of one Class A ordinary share and one-third of one Warrant",
+   "exchange": "NYSE",
+   "yahoo_symbol": "VACI.U"
+  },
+  {
+   "symbol": "CMC",
+   "name": "Cielo Waste Solutions Corp.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "CMC.V",
+   "instruments": [
+    {
+     "name": "Cielo Waste Solutions Corp.",
+     "symbol": "CMC"
+    },
+    {
+     "name": "Cielo Waste Solutions Corp. wt 08jul2027",
+     "symbol": "CMC.WT"
+    }
+   ]
+  },
+  {
+   "symbol": "COLA",
+   "name": "Columbus Acquisition Corp - Ordinary Shares",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "COLA"
+  },
+  {
+   "symbol": "NSTS",
+   "name": "NSTS Bancorp, Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "NSTS"
+  },
+  {
+   "symbol": "COLAU",
+   "name": "Columbus Acquisition Corp - Unit",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "COLAU"
+  },
+  {
+   "symbol": "FSEA",
+   "name": "First Seacoast Bancorp, Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "FSEA"
+  },
+  {
+   "symbol": "COLAR",
+   "name": "Columbus Acquisition Corp - Rights",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "COLAR"
+  },
+  {
+   "symbol": "ACU",
+   "name": "Aurora Solar Technologies Inc.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "ACU.V",
+   "instruments": [
+    {
+     "name": "Aurora Solar Technologies Inc.",
+     "symbol": "ACU"
+    }
+   ]
+  },
+  {
+   "symbol": "VACI.W",
+   "name": "Viking Acquisition Corp. I Warrants to purchase one Class A Ordinary Share",
+   "exchange": "NYSE",
+   "yahoo_symbol": "VACI.W"
+  }
+ ]
+}
