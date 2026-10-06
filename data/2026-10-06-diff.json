@@ -1,0 +1,370 @@
+{
+ "added": [
+  {
+   "symbol": "DBAY",
+   "name": "Elton Resources Corp.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "DBAY.V",
+   "instruments": [
+    {
+     "name": "Elton Resources Corp.",
+     "symbol": "DBAY"
+    }
+   ]
+  },
+  {
+   "symbol": "GOST.P",
+   "name": "Georgia Street Capital Corp.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "GOST.P.V",
+   "instruments": [
+    {
+     "name": "Georgia Street Capital Corp.",
+     "symbol": "GOST.P"
+    }
+   ]
+  },
+  {
+   "symbol": "GRMI",
+   "name": "Global Receivables Management Inc.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "GRMI.V",
+   "instruments": [
+    {
+     "name": "Global Receivables Management Inc.",
+     "symbol": "GRMI"
+    }
+   ]
+  },
+  {
+   "symbol": "CTGG",
+   "name": "Qwest Corporation - 6.500% Notes due 2051",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "CTGG"
+  },
+  {
+   "symbol": "CTHH",
+   "name": "Qwest Corporation - 6.750% Notes due 2052",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "CTHH"
+  },
+  {
+   "symbol": "IPHX",
+   "name": "Inflection Point Acquisition Corp. VIII - Class A Ordinary Shares",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "IPHX"
+  },
+  {
+   "symbol": "IPHXW",
+   "name": "Inflection Point Acquisition Corp. VIII - Warrant",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "IPHXW"
+  },
+  {
+   "symbol": "LUMN",
+   "name": "Lumen Technologies, Inc.  - Common Stock",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "LUMN"
+  },
+  {
+   "symbol": "PAXGU",
+   "name": "Pine Tree Acquisition Corp. - Units",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "PAXGU"
+  },
+  {
+   "symbol": "RWAYM",
+   "name": "Runway Growth Finance Corp. - 7.75% Notes Due 2031",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "RWAYM"
+  },
+  {
+   "symbol": "TBCV",
+   "name": "Thunder Bridge Capital Partners V, Ltd. - Class A Ordinary Shares",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "TBCV"
+  },
+  {
+   "symbol": "TBCVW",
+   "name": "Thunder Bridge Capital Partners V, Ltd. - Warrants",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "TBCVW"
+  },
+  {
+   "symbol": "WQEY",
+   "name": "WISeQey Corp - Ordinary Shares",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "WQEY"
+  },
+  {
+   "symbol": "BCAT.R",
+   "name": "BlackRock Capital Allocation Term Trust Rights (expiring October 21, 2026) Rights",
+   "exchange": "NYSE",
+   "yahoo_symbol": "BCAT.R"
+  },
+  {
+   "symbol": "DDS",
+   "name": "Dillard's, Inc. Common Stock",
+   "exchange": "UNKNOWN",
+   "yahoo_symbol": "DDS"
+  },
+  {
+   "symbol": "DDT",
+   "name": "Dillard's Capital Trust I",
+   "exchange": "UNKNOWN",
+   "yahoo_symbol": "DDT"
+  },
+  {
+   "symbol": "ET",
+   "name": "Energy Transfer LP Common Units",
+   "exchange": "UNKNOWN",
+   "yahoo_symbol": "ET"
+  },
+  {
+   "symbol": "ET$I",
+   "name": "Energy Transfer L.P. Series I Fixed Rate Perpetual Preferred Units",
+   "exchange": "UNKNOWN",
+   "yahoo_symbol": "ET$I"
+  },
+  {
+   "symbol": "SKYD",
+   "name": "Skydance Corporation Class B Common Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "SKYD"
+  },
+  {
+   "symbol": "SUN",
+   "name": "Sunoco LP Common Units representing limited partner interests",
+   "exchange": "UNKNOWN",
+   "yahoo_symbol": "SUN"
+  },
+  {
+   "symbol": "SUNC",
+   "name": "SunocoCorp LLC Common Units, representing limited liability company interests",
+   "exchange": "UNKNOWN",
+   "yahoo_symbol": "SUNC"
+  },
+  {
+   "symbol": "USAC",
+   "name": "USA Compression Partners, LP Common Units Representing Limited Partner Interests",
+   "exchange": "UNKNOWN",
+   "yahoo_symbol": "USAC"
+  },
+  {
+   "symbol": "VJET",
+   "name": "Flyte Aviation, Inc. Common Stock",
+   "exchange": "NYSE MKT",
+   "yahoo_symbol": "VJET"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "CRWN",
+   "name": "Crown Capital Partners Inc.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "CRWN.V",
+   "instruments": [
+    {
+     "name": "Crown Capital Partners Inc.",
+     "symbol": "CRWN"
+    },
+    {
+     "name": "Crown Capital Partners Inc. db31Dec2027",
+     "symbol": "CRWN.NT"
+    }
+   ]
+  },
+  {
+   "symbol": "WALDW",
+   "name": "Waldencast plc - Warrant",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "WALDW"
+  },
+  {
+   "symbol": "TWOD",
+   "name": "Two Harbors Investments Corp 9.375% Senior Notes due 2030",
+   "exchange": "NYSE",
+   "yahoo_symbol": "TWOD"
+  },
+  {
+   "symbol": "SUN",
+   "name": "Sunoco LP Common Units representing limited partner interests",
+   "exchange": "NYSE",
+   "yahoo_symbol": "SUN"
+  },
+  {
+   "symbol": "SUNC",
+   "name": "SunocoCorp LLC Common Units, representing limited liability company interests",
+   "exchange": "NYSE",
+   "yahoo_symbol": "SUNC"
+  },
+  {
+   "symbol": "CCIC.P",
+   "name": "Chicane Capital I Corp.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "CCIC.P.V",
+   "instruments": [
+    {
+     "name": "Chicane Capital I Corp.",
+     "symbol": "CCIC.P"
+    }
+   ]
+  },
+  {
+   "symbol": "ET$I",
+   "name": "Energy Transfer L.P. Series I Fixed Rate Perpetual Preferred Units",
+   "exchange": "NYSE",
+   "yahoo_symbol": "ET$I"
+  },
+  {
+   "symbol": "BCAT.V",
+   "name": "BlackRock Capital Allocation Term Trust Rights (expiring October 21, 2026) Rights when issued",
+   "exchange": "NYSE",
+   "yahoo_symbol": "BCAT.V"
+  },
+  {
+   "symbol": "DDS",
+   "name": "Dillard's, Inc. Common Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "DDS"
+  },
+  {
+   "symbol": "DDT",
+   "name": "Dillard's Capital Trust I",
+   "exchange": "NYSE",
+   "yahoo_symbol": "DDT"
+  },
+  {
+   "symbol": "LUMN",
+   "name": "Lumen Technologies, Inc. Common Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "LUMN"
+  },
+  {
+   "symbol": "DRCT",
+   "name": "Direct Digital Holdings, Inc. - Class A Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "DRCT"
+  },
+  {
+   "symbol": "VTAK",
+   "name": "Catheter Precision, Inc. Common Stock",
+   "exchange": "NYSE MKT",
+   "yahoo_symbol": "VTAK"
+  },
+  {
+   "symbol": "WKEY",
+   "name": "WISeKey International Holding Ltd - American Depositary Shares",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "WKEY"
+  },
+  {
+   "symbol": "CTHH",
+   "name": "Qwest Corporation 6.750% Senior Notes due 2052 (denominations of $25)",
+   "exchange": "NYSE",
+   "yahoo_symbol": "CTHH"
+  },
+  {
+   "symbol": "CTGG",
+   "name": "Qwest Corporation 6.500% Senior Notes due 2051 (denominations of $25)",
+   "exchange": "NYSE",
+   "yahoo_symbol": "CTGG"
+  },
+  {
+   "symbol": "LESL",
+   "name": "Leslie's, Inc. - Common Stock",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "LESL"
+  },
+  {
+   "symbol": "APLI",
+   "name": "Appili Therapeutics Inc.",
+   "exchange": "TSX",
+   "yahoo_symbol": "APLI.TO",
+   "instruments": [
+    {
+     "name": "Appili Therapeutcs J",
+     "symbol": "APLI"
+    }
+   ]
+  },
+  {
+   "symbol": "DBRG$H",
+   "name": "DigitalBridge Group, Inc. 7.125% Series H ",
+   "exchange": "NYSE",
+   "yahoo_symbol": "DBRG$H"
+  },
+  {
+   "symbol": "QRVO",
+   "name": "Qorvo, Inc. - Common Stock",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "QRVO"
+  },
+  {
+   "symbol": "PSKY",
+   "name": "Paramount Skydance Corporation - Class B Common Stock",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "PSKY"
+  },
+  {
+   "symbol": "DBRG$I",
+   "name": "DigitalBridge Group, Inc. 7.15% Series I ",
+   "exchange": "NYSE",
+   "yahoo_symbol": "DBRG$I"
+  },
+  {
+   "symbol": "DBRG$J",
+   "name": "DigitalBridge Group, Inc. 7.125% Series J ",
+   "exchange": "NYSE",
+   "yahoo_symbol": "DBRG$J"
+  },
+  {
+   "symbol": "WALD",
+   "name": "Waldencast plc - Class A Ordinary Share",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "WALD"
+  },
+  {
+   "symbol": "UWMC.V",
+   "name": "UWM Holdings Corporation Rights (November 12, 2026) Rights when issued",
+   "exchange": "NYSE",
+   "yahoo_symbol": "UWMC.V"
+  },
+  {
+   "symbol": "ET",
+   "name": "Energy Transfer LP Common Units ",
+   "exchange": "NYSE",
+   "yahoo_symbol": "ET"
+  },
+  {
+   "symbol": "GWH",
+   "name": "ESS Tech, Inc. Common Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "GWH"
+  },
+  {
+   "symbol": "EPF",
+   "name": "Everyday People Financial Corp.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "EPF.V",
+   "instruments": [
+    {
+     "name": "Everyday People Financial Corp.",
+     "symbol": "EPF"
+    }
+   ]
+  },
+  {
+   "symbol": "USAC",
+   "name": "USA Compression Partners, LP Common Units Representing Limited Partner Interests",
+   "exchange": "NYSE",
+   "yahoo_symbol": "USAC"
+  },
+  {
+   "symbol": "NHPBP",
+   "name": "National Healthcare Properties, Inc. - 7.125% Series B Cumulative Redeemable Perpetual Preferred Stock",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "NHPBP"
+  }
+ ]
+}
