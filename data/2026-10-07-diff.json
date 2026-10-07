@@ -1,0 +1,138 @@
+{
+ "added": [
+  {
+   "symbol": "HSTR",
+   "name": "Heliostar Metals Ltd.",
+   "exchange": "TSX",
+   "yahoo_symbol": "HSTR.TO",
+   "instruments": [
+    {
+     "name": "Heliostar Metals Ltd",
+     "symbol": "HSTR"
+    }
+   ]
+  },
+  {
+   "symbol": "BBCI",
+   "name": "Bradbury Capital Inc. - Ordinary Shares",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "BBCI"
+  },
+  {
+   "symbol": "BBCIW",
+   "name": "Bradbury Capital Inc. - Warrants",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "BBCIW"
+  },
+  {
+   "symbol": "WORX",
+   "name": "SCWorx Corp. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "WORX"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "CBLT",
+   "name": "CBLT Inc.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "CBLT.V",
+   "instruments": [
+    {
+     "name": "CBLT Inc.",
+     "symbol": "CBLT"
+    }
+   ]
+  },
+  {
+   "symbol": "NMCO.R",
+   "name": "Nuveen Municipal Credit Opportunities Fund Rights (expiring October 7, 2026) Rights",
+   "exchange": "NYSE",
+   "yahoo_symbol": "NMCO.R"
+  },
+  {
+   "symbol": "SPKLU",
+   "name": "Spark I Acquisition Corp. - Unit",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "SPKLU"
+  },
+  {
+   "symbol": "SPKL",
+   "name": "Spark I Acquisition Corp. - Class A Ordinary Share",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "SPKL"
+  },
+  {
+   "symbol": "HSTR",
+   "name": "Heliostar Metals Ltd.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "HSTR.V",
+   "instruments": [
+    {
+     "name": "Heliostar Metals Ltd.",
+     "symbol": "HSTR"
+    }
+   ]
+  },
+  {
+   "symbol": "SPKLW",
+   "name": "Spark I Acquisition Corp. - Warrant",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "SPKLW"
+  },
+  {
+   "symbol": "ILLR",
+   "name": "Triller Group Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "ILLR"
+  },
+  {
+   "symbol": "ARBEW",
+   "name": "Arbe Robotics Ltd. - Warrant",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "ARBEW"
+  },
+  {
+   "symbol": "ILLRW",
+   "name": "Triller Group Inc. - Warrant",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "ILLRW"
+  },
+  {
+   "symbol": "BBBYW",
+   "name": "Neighborhood Intelligence, Inc.  - Warrant",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "BBBYW"
+  },
+  {
+   "symbol": "WPR",
+   "name": "CANPR Technology LTD.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "WPR.V",
+   "instruments": [
+    {
+     "name": "CANPR Technology Ltd.",
+     "symbol": "WPR"
+    }
+   ]
+  },
+  {
+   "symbol": "WBD",
+   "name": "Warner Bros. Discovery, Inc. - Series A Common Stock",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "WBD"
+  },
+  {
+   "symbol": "BLFS",
+   "name": "BioLife Solutions, Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "BLFS"
+  },
+  {
+   "symbol": "SLP",
+   "name": "Simulations Plus, Inc. - Common Stock",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "SLP"
+  }
+ ]
+}
