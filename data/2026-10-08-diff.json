@@ -1,0 +1,156 @@
+{
+ "added": [
+  {
+   "symbol": "ZCRB",
+   "name": "BMO Core Bond",
+   "exchange": "TSX",
+   "yahoo_symbol": "ZCRB.TO",
+   "instruments": [
+    {
+     "name": "BMO Core Bond",
+     "symbol": "ZCRB"
+    }
+   ]
+  },
+  {
+   "symbol": "ZEMB",
+   "name": "BMO Emerging Markets Bond Fund",
+   "exchange": "TSX",
+   "yahoo_symbol": "ZEMB.TO",
+   "instruments": [
+    {
+     "name": "BMO Emerging Mkt B F",
+     "symbol": "ZEMB"
+    }
+   ]
+  },
+  {
+   "symbol": "ZLAT",
+   "name": "BMO MSCI Latin America GDP Weighted Index ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "ZLAT.TO",
+   "instruments": [
+    {
+     "name": "BMO MSCI L A GDP W I",
+     "symbol": "ZLAT"
+    }
+   ]
+  },
+  {
+   "symbol": "SCAT",
+   "name": "Southern Cross Acquisition II Corp. - Ordinary Shares",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "SCAT"
+  },
+  {
+   "symbol": "SCATR",
+   "name": "Southern Cross Acquisition II Corp. - Rights",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "SCATR"
+  },
+  {
+   "symbol": "SCATW",
+   "name": "Southern Cross Acquisition II Corp. - Warrants",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "SCATW"
+  },
+  {
+   "symbol": "TCBI",
+   "name": "Texas Capital Bancshares, Inc. Common Stock",
+   "exchange": "UNKNOWN",
+   "yahoo_symbol": "TCBI"
+  },
+  {
+   "symbol": "TCBI$B",
+   "name": "Texas Capital Bancshares, Inc. Depositary Shares 5.75% Fixed Rate Non-Cumulative Perpetual Preferred Stock Series B",
+   "exchange": "UNKNOWN",
+   "yahoo_symbol": "TCBI$B"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "PNTR",
+   "name": "Pantera Silver Corp.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "PNTR.V",
+   "instruments": [
+    {
+     "name": "Pantera Silver Corp.",
+     "symbol": "PNTR"
+    }
+   ]
+  },
+  {
+   "symbol": "LBI",
+   "name": "Lions Bay Capital Inc.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "LBI.V",
+   "instruments": [
+    {
+     "name": "Lions Bay Capital Inc.",
+     "symbol": "LBI"
+    }
+   ]
+  },
+  {
+   "symbol": "KS",
+   "name": "Klondike Silver Corp.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "KS.V",
+   "instruments": [
+    {
+     "name": "Klondike Silver Corp.",
+     "symbol": "KS"
+    }
+   ]
+  },
+  {
+   "symbol": "LMR",
+   "name": "Lomiko Metals Inc.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "LMR.V",
+   "instruments": [
+    {
+     "name": "Lomiko Metals Inc.",
+     "symbol": "LMR"
+    }
+   ]
+  },
+  {
+   "symbol": "ACL",
+   "name": "A.C.L. Construction Ltd.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "ACL.V",
+   "instruments": [
+    {
+     "name": "A.C.L. Construction Ltd.",
+     "symbol": "ACL"
+    }
+   ]
+  },
+  {
+   "symbol": "HAWK",
+   "name": "Hawkeye Gold \u0026 Diamond Inc.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "HAWK.V",
+   "instruments": [
+    {
+     "name": "Hawkeye Gold \u0026 Diamond Inc.",
+     "symbol": "HAWK"
+    }
+   ]
+  },
+  {
+   "symbol": "TCBIO",
+   "name": "Texas Capital Bancshares, Inc. - Depositary Shares 5.75% Fixed Rate Non-Cumulative Perpetual Preferred Stock Series B",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "TCBIO"
+  },
+  {
+   "symbol": "TCBI",
+   "name": "Texas Capital Bancshares, Inc. - Common Stock",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "TCBI"
+  }
+ ]
+}
