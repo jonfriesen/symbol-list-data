@@ -1,0 +1,78 @@
+{
+ "added": [
+  {
+   "symbol": "AIOK",
+   "name": "AI OKTO CORP. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "AIOK"
+  },
+  {
+   "symbol": "BDAI",
+   "name": "Biddance AI Systems, Inc. - Class A Ordinary Share",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "BDAI"
+  },
+  {
+   "symbol": "RTSN",
+   "name": "Retension Pharmaceuticals, Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "RTSN"
+  },
+  {
+   "symbol": "TRXB",
+   "name": "TRex Bio, Inc. - Common stock",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "TRXB"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "NVNI",
+   "name": "Nvni Group Limited - Ordinary Shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "NVNI"
+  },
+  {
+   "symbol": "SMP",
+   "name": "Southern Empire Resources Corp.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "SMP.V",
+   "instruments": [
+    {
+     "name": "Southern Empire Resources Corp.",
+     "symbol": "SMP"
+    }
+   ]
+  },
+  {
+   "symbol": "HKIT",
+   "name": "Hitek Global Inc. - Class A Ordinary Share",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "HKIT"
+  },
+  {
+   "symbol": "IRI",
+   "name": "IEMR Resources Inc.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "IRI.V",
+   "instruments": [
+    {
+     "name": "IEMR Resources Inc",
+     "symbol": "IRI"
+    }
+   ]
+  },
+  {
+   "symbol": "NVNIW",
+   "name": "Nvni Group Limited - Warrants",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "NVNIW"
+  },
+  {
+   "symbol": "MAMK",
+   "name": "MaxsMaking Inc. - Class A Ordinary Shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "MAMK"
+  }
+ ]
+}
