@@ -1,0 +1,138 @@
+{
+ "added": [
+  {
+   "symbol": "COMP",
+   "name": "Uniserve Communications Corporation",
+   "exchange": "TSXV",
+   "yahoo_symbol": "COMP.V",
+   "instruments": [
+    {
+     "name": "Uniserve Communications Corporation",
+     "symbol": "COMP"
+    }
+   ]
+  },
+  {
+   "symbol": "CORS",
+   "name": "Corus Entertainment Holdings Inc.",
+   "exchange": "TSX",
+   "yahoo_symbol": "CORS.TO",
+   "instruments": [
+    {
+     "name": "Corus Entrtnm Hl Inc",
+     "symbol": "CORS"
+    }
+   ]
+  },
+  {
+   "symbol": "XBAI",
+   "name": "iShares A.I. Innovation and Tech ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "XBAI.TO",
+   "instruments": [
+    {
+     "name": "iShares AI Inno Tech",
+     "symbol": "XBAI"
+    }
+   ]
+  },
+  {
+   "symbol": "AXNX",
+   "name": "Axonex AI Group Limited - Class A Ordinary Shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "AXNX"
+  },
+  {
+   "symbol": "RNTZ",
+   "name": "Rantizo - Class A Ordinary Shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "RNTZ"
+  },
+  {
+   "symbol": "OBK",
+   "name": "Origin Bancorp, Inc. Common Stock",
+   "exchange": "UNKNOWN",
+   "yahoo_symbol": "OBK"
+  },
+  {
+   "symbol": "SKYD.V",
+   "name": "Skydance Corporation Warrants to Purchase Class B Common Stock When-Issued",
+   "exchange": "NYSE",
+   "yahoo_symbol": "SKYD.V"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "BBLGW",
+   "name": "Bone Biologics Corp - warrants",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "BBLGW"
+  },
+  {
+   "symbol": "OBK",
+   "name": "Origin Bancorp, Inc. Common Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "OBK"
+  },
+  {
+   "symbol": "UCYB",
+   "name": "ProShares Ultra Nasdaq Cybersecurity",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "UCYB"
+  },
+  {
+   "symbol": "MIMI",
+   "name": "Mint Incorporation Limited - Class A Ordinary Shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "MIMI"
+  },
+  {
+   "symbol": "CJR.B",
+   "name": "Corus Entertainment Inc.",
+   "exchange": "TSX",
+   "yahoo_symbol": "CJR.B.TO",
+   "instruments": [
+    {
+     "name": "Corus Entertnmnt B",
+     "symbol": "CJR.B"
+    }
+   ]
+  },
+  {
+   "symbol": "LORD",
+   "name": "St. James Gold Corp.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "LORD.V",
+   "instruments": [
+    {
+     "name": "St. James Gold Corp.",
+     "symbol": "LORD"
+    }
+   ]
+  },
+  {
+   "symbol": "USS",
+   "name": "Uniserve Communications Corporation",
+   "exchange": "TSXV",
+   "yahoo_symbol": "USS.V",
+   "instruments": [
+    {
+     "name": "Uniserve Communications Corporation",
+     "symbol": "USS"
+    }
+   ]
+  },
+  {
+   "symbol": "GREEL",
+   "name": "Vulcan Infrastructure and Power Inc. - 8.50% Senior Notes due 2026",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "GREEL"
+  },
+  {
+   "symbol": "SKK",
+   "name": "SKK Holdings Limited - Class A Ordinary Shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "SKK"
+  }
+ ]
+}
