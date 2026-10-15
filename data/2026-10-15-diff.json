@@ -1,0 +1,86 @@
+{
+ "added": [
+  {
+   "symbol": "BRC",
+   "name": "Blackrock Silver Corp.",
+   "exchange": "TSX",
+   "yahoo_symbol": "BRC.TO",
+   "instruments": [
+    {
+     "name": "Blackrock Silver Crp",
+     "symbol": "BRC"
+    }
+   ]
+  },
+  {
+   "symbol": "CCAF",
+   "name": "CI Forge First Conservative Alternative Fund",
+   "exchange": "TSX",
+   "yahoo_symbol": "CCAF.TO",
+   "instruments": [
+    {
+     "name": "CI Forge Fr ConAlt C",
+     "symbol": "CCAF"
+    },
+    {
+     "name": "CI Forge Fr ConAlt U",
+     "symbol": "CCAF.U"
+    }
+   ]
+  },
+  {
+   "symbol": "CLSF",
+   "name": "CI Forge First Long Short Alternative Fund",
+   "exchange": "TSX",
+   "yahoo_symbol": "CLSF.TO",
+   "instruments": [
+    {
+     "name": "CI Frg Fr LgShrAlt C",
+     "symbol": "CLSF"
+    },
+    {
+     "name": "CI Frg Fr LgShrAlt U",
+     "symbol": "CLSF.U"
+    }
+   ]
+  },
+  {
+   "symbol": "BMMX",
+   "name": "Black Mammoth Metals Corporation - Common Shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "BMMX"
+  },
+  {
+   "symbol": "IAM",
+   "name": "Iambic Therapeutics, Inc. - Common Stock",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "IAM"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "SNUS$I",
+   "name": "Santander Holdings USA, Inc. Depositary Shares, Each Representing a 1/40th Interest in a Share of Fixed-Rate Reset Non-Cumulative Perpetual Preferred Stock, Series I",
+   "exchange": "NYSE",
+   "yahoo_symbol": "SNUS$I"
+  },
+  {
+   "symbol": "BRC",
+   "name": "Blackrock Silver Corp.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "BRC.V",
+   "instruments": [
+    {
+     "name": "Blackrock Silver Corp.",
+     "symbol": "BRC"
+    }
+   ]
+  },
+  {
+   "symbol": "ASGI.R",
+   "name": "abrdn Global Infrastructure Income Fund Rights (expiring October 15, 2026) Rights",
+   "exchange": "NYSE",
+   "yahoo_symbol": "ASGI.R"
+  }
+ ]
+}
