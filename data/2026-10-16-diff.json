@@ -1,0 +1,22 @@
+{
+ "added": [
+  {
+   "symbol": "AMRO",
+   "name": "Amaero Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "AMRO"
+  },
+  {
+   "symbol": "CTY",
+   "name": "City Therapeutics, Inc. - Common Stock",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "CTY"
+  },
+  {
+   "symbol": "TCXB",
+   "name": "TCGX Acquisition Corp. II - Class A Ordinary Shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "TCXB"
+  }
+ ]
+}
