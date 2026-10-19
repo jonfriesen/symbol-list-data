@@ -1,0 +1,168 @@
+{
+ "added": [
+  {
+   "symbol": "CECO",
+   "name": "CECO Environmental Corp. Common Stock",
+   "exchange": "UNKNOWN",
+   "yahoo_symbol": "CECO"
+  },
+  {
+   "symbol": "DCM",
+   "name": "DeFi Capital Markets, Inc. Common Stock",
+   "exchange": "NYSE MKT",
+   "yahoo_symbol": "DCM"
+  },
+  {
+   "symbol": "IBOC",
+   "name": "International Bancshares Corporation Common Stock",
+   "exchange": "UNKNOWN",
+   "yahoo_symbol": "IBOC"
+  },
+  {
+   "symbol": "PAYB",
+   "name": "Brompton Financials HighPay ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "PAYB.TO",
+   "instruments": [
+    {
+     "name": "Brompton Fincl HiPay",
+     "symbol": "PAYB"
+    }
+   ]
+  },
+  {
+   "symbol": "PAYT",
+   "name": "Brompton Technology HighPay ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "PAYT.TO",
+   "instruments": [
+    {
+     "name": "Brompton Tech HiPay",
+     "symbol": "PAYT"
+    }
+   ]
+  },
+  {
+   "symbol": "SNDY",
+   "name": "Sunday Lake Gold Corp.",
+   "exchange": "TSX",
+   "yahoo_symbol": "SNDY.TO",
+   "instruments": [
+    {
+     "name": "Wallbridge Mng Co J",
+     "symbol": "SNDY"
+    }
+   ]
+  },
+  {
+   "symbol": "BLTE",
+   "name": "Belite Bio, Inc - American Depositary Shares",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "BLTE"
+  },
+  {
+   "symbol": "HINC",
+   "name": "Hartford High Yield ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "HINC"
+  },
+  {
+   "symbol": "LCU",
+   "name": "Lion Copper Corp. - Common Shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "LCU"
+  },
+  {
+   "symbol": "SRTM",
+   "name": "Stratum Holdings Corp. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "SRTM"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "SEATW",
+   "name": "Vivid Seats Inc. - Warrant",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "SEATW"
+  },
+  {
+   "symbol": "ATKR",
+   "name": "Atkore Inc. Common Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "ATKR"
+  },
+  {
+   "symbol": "UUU",
+   "name": "Universal Safety Products, Inc. Common Stock",
+   "exchange": "NYSE MKT",
+   "yahoo_symbol": "UUU"
+  },
+  {
+   "symbol": "IBOC",
+   "name": "International Bancshares Corporation - Common Stock",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "IBOC"
+  },
+  {
+   "symbol": "CECO",
+   "name": "CECO Environmental Corp. - Common Stock",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "CECO"
+  },
+  {
+   "symbol": "WM",
+   "name": "Wallbridge Mining Company Limited",
+   "exchange": "TSX",
+   "yahoo_symbol": "WM.TO",
+   "instruments": [
+    {
+     "name": "Wallbridge Mng Co J",
+     "symbol": "WM"
+    }
+   ]
+  },
+  {
+   "symbol": "LRHC",
+   "name": "La Rosa Holdings Corp. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "LRHC"
+  },
+  {
+   "symbol": "ACVA",
+   "name": "ACV Auctions Inc. Class A Common Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "ACVA"
+  },
+  {
+   "symbol": "QCLR",
+   "name": "Global X NASDAQ 100 Collar 95-110 ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "QCLR"
+  },
+  {
+   "symbol": "MMEDV",
+   "name": "MiniMed Group, Inc. - Common Stock When Issued",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "MMEDV"
+  },
+  {
+   "symbol": "BLTE",
+   "name": "Belite Bio, Inc - American Depositary Shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "BLTE"
+  },
+  {
+   "symbol": "PMX",
+   "name": "ProAm Explorations Corporation",
+   "exchange": "TSXV",
+   "yahoo_symbol": "PMX.V",
+   "instruments": [
+    {
+     "name": "ProAm Explorations Corporation",
+     "symbol": "PMX"
+    }
+   ]
+  }
+ ]
+}
