@@ -1,0 +1,276 @@
+{
+ "added": [
+  {
+   "symbol": "COLT",
+   "name": "Colt Silver Corp.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "COLT.V",
+   "instruments": [
+    {
+     "name": "Colt Silver Corp.",
+     "symbol": "COLT"
+    }
+   ]
+  },
+  {
+   "symbol": "FRLX",
+   "name": "FeralX Systems Inc.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "FRLX.V",
+   "instruments": [
+    {
+     "name": "FeralX Systems Inc.",
+     "symbol": "FRLX"
+    }
+   ]
+  },
+  {
+   "symbol": "LUNX",
+   "name": "Lunex Metals Corp.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "LUNX.V",
+   "instruments": [
+    {
+     "name": "Lunex Metals Corp.",
+     "symbol": "LUNX"
+    }
+   ]
+  },
+  {
+   "symbol": "BE",
+   "name": "Bloom Energy CDR (CAD Hedged)",
+   "exchange": "TSX",
+   "yahoo_symbol": "BE.TO",
+   "instruments": [
+    {
+     "name": "BloomEnrg CDR CAD HD",
+     "symbol": "BE"
+    }
+   ]
+  },
+  {
+   "symbol": "BMY",
+   "name": "Bristol-Myers Squibb CDR (CAD Hedged)",
+   "exchange": "TSX",
+   "yahoo_symbol": "BMY.TO",
+   "instruments": [
+    {
+     "name": "Bristol Myers Sq CDR",
+     "symbol": "BMY"
+    }
+   ]
+  },
+  {
+   "symbol": "CBRS",
+   "name": "Cerebras Systems CDR (CAD Hedged)",
+   "exchange": "TSX",
+   "yahoo_symbol": "CBRS.TO",
+   "instruments": [
+    {
+     "name": "Cerebras Systems CDR",
+     "symbol": "CBRS"
+    }
+   ]
+  },
+  {
+   "symbol": "COHR",
+   "name": "Coherent CDR (CAD Hedged)",
+   "exchange": "TSX",
+   "yahoo_symbol": "COHR.TO",
+   "instruments": [
+    {
+     "name": "Coherent CDR CAD HD",
+     "symbol": "COHR"
+    }
+   ]
+  },
+  {
+   "symbol": "DDOG",
+   "name": "Datadog CDR (CAD Hedged)",
+   "exchange": "TSX",
+   "yahoo_symbol": "DDOG.TO",
+   "instruments": [
+    {
+     "name": "Datadog CDR CAD HD",
+     "symbol": "DDOG"
+    }
+   ]
+  },
+  {
+   "symbol": "DELL",
+   "name": "Dell Technologies CDR (CAD Hedged)",
+   "exchange": "TSX",
+   "yahoo_symbol": "DELL.TO",
+   "instruments": [
+    {
+     "name": "Dell Tech CDR CAD HD",
+     "symbol": "DELL"
+    }
+   ]
+  },
+  {
+   "symbol": "FTNT",
+   "name": "Fortinet CDR",
+   "exchange": "TSX",
+   "yahoo_symbol": "FTNT.TO",
+   "instruments": [
+    {
+     "name": "Fortinet CDR CAD HD",
+     "symbol": "FTNT"
+    }
+   ]
+  },
+  {
+   "symbol": "LUME",
+   "name": "Lumentum CDR",
+   "exchange": "TSX",
+   "yahoo_symbol": "LUME.TO",
+   "instruments": [
+    {
+     "name": "Lumentum CDR CAD HD",
+     "symbol": "LUME"
+    }
+   ]
+  },
+  {
+   "symbol": "RKLB",
+   "name": "Rocket Lab CDR",
+   "exchange": "TSX",
+   "yahoo_symbol": "RKLB.TO",
+   "instruments": [
+    {
+     "name": "Rocket Lab CDR CAD H",
+     "symbol": "RKLB"
+    }
+   ]
+  },
+  {
+   "symbol": "SNOW",
+   "name": "Snowflake CDR",
+   "exchange": "TSX",
+   "yahoo_symbol": "SNOW.TO",
+   "instruments": [
+    {
+     "name": "Snowflake CDR CAD HD",
+     "symbol": "SNOW"
+    }
+   ]
+  },
+  {
+   "symbol": "VLO",
+   "name": "Valero Energy CDR",
+   "exchange": "TSX",
+   "yahoo_symbol": "VLO.TO",
+   "instruments": [
+    {
+     "name": "Valero Enrgy CDR CAD",
+     "symbol": "VLO"
+    }
+   ]
+  },
+  {
+   "symbol": "MTGG",
+   "name": "MayTech Global Growth ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "MTGG"
+  },
+  {
+   "symbol": "SATS",
+   "name": "Strive, Inc. - 15.00% Series A Perpetual SATS Preferred Stock",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "SATS"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "PBRG",
+   "name": "Leverage Shares 2X Long PBR Daily ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "PBRG"
+  },
+  {
+   "symbol": "NUG",
+   "name": "Leverage Shares 2X Long NU Daily ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "NUG"
+  },
+  {
+   "symbol": "VALG",
+   "name": "Leverage Shares 2X Long VALE Daily ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "VALG"
+  },
+  {
+   "symbol": "FCXG",
+   "name": "Leverage Shares 2x Long FCX Daily ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "FCXG"
+  },
+  {
+   "symbol": "PSET",
+   "name": "Principal Quality ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "PSET"
+  },
+  {
+   "symbol": "CRMU",
+   "name": "Leverage Shares 2x Long CRML Daily ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "CRMU"
+  },
+  {
+   "symbol": "OPEG",
+   "name": "Leverage Shares 2X Long OPEN Daily ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "OPEG"
+  },
+  {
+   "symbol": "ALBG",
+   "name": "Leverage Shares 2X Long ALB Daily ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "ALBG"
+  },
+  {
+   "symbol": "BLSG",
+   "name": "Leverage Shares 2X Long BLSH Daily ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "BLSG"
+  },
+  {
+   "symbol": "GEMG",
+   "name": "Leverage Shares 2X Long GEMI Daily ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "GEMG"
+  },
+  {
+   "symbol": "GLGG",
+   "name": "Leverage Shares 2X Long GLXY Daily ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "GLGG"
+  },
+  {
+   "symbol": "ASTLW",
+   "name": "Algoma Steel Group Inc. - Warrant",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "ASTLW"
+  },
+  {
+   "symbol": "BZH",
+   "name": "Beazer Homes USA, Inc. Common Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "BZH"
+  },
+  {
+   "symbol": "UECG",
+   "name": "Leverage Shares 2x Long UEC Daily ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "UECG"
+  },
+  {
+   "symbol": "NEMG",
+   "name": "Leverage Shares 2x Long NEM Daily ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "NEMG"
+  }
+ ]
+}
