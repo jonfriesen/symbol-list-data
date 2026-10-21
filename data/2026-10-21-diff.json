@@ -1,0 +1,72 @@
+{
+ "added": [
+  {
+   "symbol": "AHIC",
+   "name": "Allspring Short-Term High Income Fund ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "AHIC"
+  },
+  {
+   "symbol": "AHYM",
+   "name": "Allspring High Yield Municipal Bond Fund ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "AHYM"
+  },
+  {
+   "symbol": "ASTM",
+   "name": "Allspring Strategic Municipal Bond Fund ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "ASTM"
+  },
+  {
+   "symbol": "TLCE",
+   "name": "Thrivent Large Cap Stock ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "TLCE"
+  },
+  {
+   "symbol": "TSIE",
+   "name": "Thrivent Securitized Income ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "TSIE"
+  },
+  {
+   "symbol": "IIPR$B",
+   "name": "Innovative Industrial Properties, Inc. 9.25% Series B Cumulative Redeemable Preferred Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "IIPR$B"
+  },
+  {
+   "symbol": "MSGK.V",
+   "name": "Madison Square Garden Sports Corp. Class A Common Stock When-Issued",
+   "exchange": "NYSE",
+   "yahoo_symbol": "MSGK.V"
+  },
+  {
+   "symbol": "MSGR.V",
+   "name": "MSG Rangers Corp. Class A Common Stock When-Issued",
+   "exchange": "NYSE",
+   "yahoo_symbol": "MSGR.V"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "BTF",
+   "name": "CoinShares Bitcoin and Ether ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "BTF"
+  },
+  {
+   "symbol": "BCAT.R",
+   "name": "BlackRock Capital Allocation Term Trust Rights (expiring October 21, 2026) Rights",
+   "exchange": "NYSE",
+   "yahoo_symbol": "BCAT.R"
+  },
+  {
+   "symbol": "DIME",
+   "name": "CoinShares Altcoins ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "DIME"
+  }
+ ]
+}
