@@ -1,0 +1,132 @@
+{
+ "added": [
+  {
+   "symbol": "JUNO",
+   "name": "Juno Industries Ltd.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "JUNO.V",
+   "instruments": [
+    {
+     "name": "Juno Industries Ltd.",
+     "symbol": "JUNO"
+    }
+   ]
+  },
+  {
+   "symbol": "NSKY",
+   "name": "North Sky Metals Corp.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "NSKY.V",
+   "instruments": [
+    {
+     "name": "North Sky Metals Corp.",
+     "symbol": "NSKY"
+    }
+   ]
+  },
+  {
+   "symbol": "NEBP",
+   "name": "NEI Balanced ETF Portfolio",
+   "exchange": "TSX",
+   "yahoo_symbol": "NEBP.TO",
+   "instruments": [
+    {
+     "name": "NEI Balanced ETF Prt",
+     "symbol": "NEBP"
+    }
+   ]
+  },
+  {
+   "symbol": "NECP",
+   "name": "NEI Conservative Income ETF Portfolio",
+   "exchange": "TSX",
+   "yahoo_symbol": "NECP.TO",
+   "instruments": [
+    {
+     "name": "NEI Cons Inc ETF Prt",
+     "symbol": "NECP"
+    }
+   ]
+  },
+  {
+   "symbol": "NESB",
+   "name": "NEI Global Short-Term Bond Fund",
+   "exchange": "TSX",
+   "yahoo_symbol": "NESB.TO",
+   "instruments": [
+    {
+     "name": "NEI Glb Shrt Trm BdF",
+     "symbol": "NESB"
+    }
+   ]
+  },
+  {
+   "symbol": "NEGP",
+   "name": "NEI Growth ETF Portfolio",
+   "exchange": "TSX",
+   "yahoo_symbol": "NEGP.TO",
+   "instruments": [
+    {
+     "name": "NEI Growth ETF Prtfo",
+     "symbol": "NEGP"
+    }
+   ]
+  },
+  {
+   "symbol": "DAVI",
+   "name": "Davion Healthcare Plc - Ordinary Shares",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "DAVI"
+  },
+  {
+   "symbol": "EMAG",
+   "name": "Emerging Markets AI Mag 3 ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "EMAG"
+  },
+  {
+   "symbol": "NANO",
+   "name": "Forge Nano Holdings Inc. - Common stock",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "NANO"
+  },
+  {
+   "symbol": "NANOW",
+   "name": "Forge Nano Holdings Inc. - Warrants",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "NANOW"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "ATIIW",
+   "name": "Archimedes Tech SPAC Partners II Co. - Warrant",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "ATIIW"
+  },
+  {
+   "symbol": "ATII",
+   "name": "Archimedes Tech SPAC Partners II Co. - Ordinary Shares",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "ATII"
+  },
+  {
+   "symbol": "TBLZ.P",
+   "name": "Trail Blazer Capital Corp.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "TBLZ.P.V",
+   "instruments": [
+    {
+     "name": "Trail Blazer Capital Corp.",
+     "symbol": "TBLZ.P"
+    }
+   ]
+  },
+  {
+   "symbol": "ATIIU",
+   "name": "Archimedes Tech SPAC Partners II Co. - Unit",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "ATIIU"
+  }
+ ]
+}
