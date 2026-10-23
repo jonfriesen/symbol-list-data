@@ -1,0 +1,90 @@
+{
+ "added": [
+  {
+   "symbol": "APXC",
+   "name": "Apex Critical Metals Corp. - American Depositary Shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "APXC"
+  },
+  {
+   "symbol": "ARAI",
+   "name": "Arrive AI Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "ARAI"
+  },
+  {
+   "symbol": "LYCA",
+   "name": "Lycia Therapeutics, Inc. - Common Stock",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "LYCA"
+  },
+  {
+   "symbol": "PAXG",
+   "name": "Pine Tree Acquisition Corp. - Class A Ordinary Shares",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "PAXG"
+  },
+  {
+   "symbol": "PAXGR",
+   "name": "Pine Tree Acquisition Corp. - Rights",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "PAXGR"
+  },
+  {
+   "symbol": "SMNG",
+   "name": "xETFs Samsung Group ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "SMNG"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "SDST",
+   "name": "Stardust Power Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "SDST"
+  },
+  {
+   "symbol": "PERF",
+   "name": "Perfect Corp. Class A Ordinary Share",
+   "exchange": "NYSE",
+   "yahoo_symbol": "PERF"
+  },
+  {
+   "symbol": "SDSTW",
+   "name": "Stardust Power Inc. - Warrant",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "SDSTW"
+  },
+  {
+   "symbol": "WWT",
+   "name": "Water Ways Technologies Inc.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "WWT.V",
+   "instruments": [
+    {
+     "name": "Water Ways Technologies Inc.",
+     "symbol": "WWT"
+    }
+   ]
+  },
+  {
+   "symbol": "SABSW",
+   "name": "SAB Biotherapeutics, Inc. - Warrant",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "SABSW"
+  },
+  {
+   "symbol": "ARAI",
+   "name": "Arrive AI Inc. - Common Stock",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "ARAI"
+  },
+  {
+   "symbol": "EVEX.W",
+   "name": "Eve Holding, Inc. Warrants, each exercisable for one share of Common Stock at an exercise price of $11.50 per share",
+   "exchange": "NYSE",
+   "yahoo_symbol": "EVEX.W"
+  }
+ ]
+}
