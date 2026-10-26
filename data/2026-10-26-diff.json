@@ -1,0 +1,150 @@
+{
+ "added": [
+  {
+   "symbol": "AETR",
+   "name": "Aetherion Technologies Inc.",
+   "exchange": "TSX",
+   "yahoo_symbol": "AETR.TO",
+   "instruments": [
+    {
+     "name": "Westport Fuel Sys",
+     "symbol": "AETR"
+    }
+   ]
+  },
+  {
+   "symbol": "DSCA",
+   "name": "Dynamic Systematic Canadian Equity ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "DSCA.TO",
+   "instruments": [
+    {
+     "name": "Dynamic Syst CAD EqE",
+     "symbol": "DSCA"
+    }
+   ]
+  },
+  {
+   "symbol": "DSIT",
+   "name": "Dynamic Systematic International Equity ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "DSIT.TO",
+   "instruments": [
+    {
+     "name": "Dynamic Syst Int Eq",
+     "symbol": "DSIT"
+    }
+   ]
+  },
+  {
+   "symbol": "DSAM",
+   "name": "Dynamic Systematic U.S. Equity ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "DSAM.TO",
+   "instruments": [
+    {
+     "name": "Dynamic Syst US Eq E",
+     "symbol": "DSAM"
+    }
+   ]
+  },
+  {
+   "symbol": "LTCE",
+   "name": "Lysander-Triasima Canadian Equity Fund",
+   "exchange": "TSX",
+   "yahoo_symbol": "LTCE.TO",
+   "instruments": [
+    {
+     "name": "Lysander-Tria C Eq F",
+     "symbol": "LTCE"
+    }
+   ]
+  },
+  {
+   "symbol": "GUNN",
+   "name": "Gunnison Copper Corp. American Depositary Shares (each representing thirty (30) Common Shares)",
+   "exchange": "NYSE MKT",
+   "yahoo_symbol": "GUNN"
+  },
+  {
+   "symbol": "PTIV",
+   "name": "Pineapple Financial Inc. Common Stock",
+   "exchange": "NYSE MKT",
+   "yahoo_symbol": "PTIV"
+  },
+  {
+   "symbol": "AETR",
+   "name": "Aetherion Technologies Inc. - Common Shares",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "AETR"
+  },
+  {
+   "symbol": "FCDH",
+   "name": "Forcendra Holding Limited - Class A Ordinary Shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "FCDH"
+  },
+  {
+   "symbol": "RADD",
+   "name": "AB US Research Advanced ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "RADD"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "GFGF",
+   "name": "Guru Favorite Stocks ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "GFGF"
+  },
+  {
+   "symbol": "WEAV",
+   "name": "Weave Communications, Inc. Common Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "WEAV"
+  },
+  {
+   "symbol": "PAPL",
+   "name": "Pineapple Financial Inc. Common Stock",
+   "exchange": "NYSE MKT",
+   "yahoo_symbol": "PAPL"
+  },
+  {
+   "symbol": "VSME",
+   "name": "VS Media Holdings Limited - Class A Ordinary Shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "VSME"
+  },
+  {
+   "symbol": "WPRT",
+   "name": "Westport Fuel Systems Inc.",
+   "exchange": "TSX",
+   "yahoo_symbol": "WPRT.TO",
+   "instruments": [
+    {
+     "name": "Westport Fuel Sys",
+     "symbol": "WPRT"
+    }
+   ]
+  },
+  {
+   "symbol": "ACA",
+   "name": "Arcosa, Inc. Common Stock ",
+   "exchange": "NYSE",
+   "yahoo_symbol": "ACA"
+  },
+  {
+   "symbol": "WPRT",
+   "name": "Westport Fuel Systems Inc - Common Shares",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "WPRT"
+  },
+  {
+   "symbol": "ELME",
+   "name": "Elme Communities Common Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "ELME"
+  }
+ ]
+}
