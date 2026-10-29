@@ -1,0 +1,150 @@
+{
+ "added": [
+  {
+   "symbol": "NACM",
+   "name": "North Atlantic Critical Metals Corp.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "NACM.V",
+   "instruments": [
+    {
+     "name": "North Atlantic Critical Metals Corp.",
+     "symbol": "NACM"
+    }
+   ]
+  },
+  {
+   "symbol": "SMP",
+   "name": "Southern Empire Resources Corp.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "SMP.V",
+   "instruments": [
+    {
+     "name": "Southern Empire Resources Corp.",
+     "symbol": "SMP"
+    }
+   ]
+  },
+  {
+   "symbol": "SUNV",
+   "name": "Sun Valley Minerals Inc.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "SUNV.V",
+   "instruments": [
+    {
+     "name": "Sun Valley Minerals Inc.",
+     "symbol": "SUNV"
+    }
+   ]
+  },
+  {
+   "symbol": "MMEM",
+   "name": "Mackenzie Modus Emerging Markets Equity ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "MMEM.TO",
+   "instruments": [
+    {
+     "name": "Mack Modus Emrg Mk E",
+     "symbol": "MMEM"
+    }
+   ]
+  },
+  {
+   "symbol": "AZR",
+   "name": "Azora Therapeutics, Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "AZR"
+  },
+  {
+   "symbol": "BHAIU",
+   "name": "BHAV Acquisition Corp II - Units",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "BHAIU"
+  },
+  {
+   "symbol": "FBEQ",
+   "name": "Franklin US Equity Bitcoin Drip Index ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "FBEQ"
+  },
+  {
+   "symbol": "FFTT",
+   "name": "Masonglory Limited - Class A Ordinary Shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "FFTT"
+  },
+  {
+   "symbol": "FIBT",
+   "name": "Franklin US Innovation Bitcoin DRIP Index ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "FIBT"
+  },
+  {
+   "symbol": "GBC",
+   "name": "Georgia Banking Company, Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "GBC"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "MSGY",
+   "name": "Masonglory Limited - Class A Ordinary Shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "MSGY"
+  },
+  {
+   "symbol": "ROOT",
+   "name": "Roots Corporation",
+   "exchange": "TSX",
+   "yahoo_symbol": "ROOT.TO",
+   "instruments": [
+    {
+     "name": "Roots Corporation",
+     "symbol": "ROOT"
+    }
+   ]
+  },
+  {
+   "symbol": "PPR",
+   "name": "Prairie Provident Resources Inc.",
+   "exchange": "TSX",
+   "yahoo_symbol": "PPR.TO",
+   "instruments": [
+    {
+     "name": "Prairie Provident J",
+     "symbol": "PPR"
+    }
+   ]
+  },
+  {
+   "symbol": "ADIL",
+   "name": "Adial Pharmaceuticals, Inc - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "ADIL"
+  },
+  {
+   "symbol": "EMEM",
+   "name": "Sophus Capital Emerging Market ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "EMEM"
+  },
+  {
+   "symbol": "USFI",
+   "name": "BrandywineGLOBAL - U.S. Fixed Income ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "USFI"
+  },
+  {
+   "symbol": "MULT",
+   "name": "Franklin Multisector Income ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "MULT"
+  },
+  {
+   "symbol": "DVAL",
+   "name": "BrandywineGLOBAL-Dynamic US Large Cap Value ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "DVAL"
+  }
+ ]
+}
