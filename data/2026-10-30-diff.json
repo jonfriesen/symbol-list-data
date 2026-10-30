@@ -1,0 +1,120 @@
+{
+ "added": [
+  {
+   "symbol": "FORU",
+   "name": "ForAll Core \u0026 More U.S. Equity Index ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "FORU.TO",
+   "instruments": [
+    {
+     "name": "ForAll Cr\u0026Mr US Eq I",
+     "symbol": "FORU"
+    }
+   ]
+  },
+  {
+   "symbol": "ASPE",
+   "name": "Aspen Neuroscience, Inc. - Common Stock",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "ASPE"
+  },
+  {
+   "symbol": "BBTX",
+   "name": "Bambusa Therapeutics, Inc. - Common stock",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "BBTX"
+  },
+  {
+   "symbol": "METAM",
+   "name": "Meta Platforms, Inc. - Depositary Shares representing a 1/20th Interest in a Share of Series A Mandatory Convertible Preferred Stock",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "METAM"
+  },
+  {
+   "symbol": "NORD",
+   "name": "Nordicus Partners Corporation - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "NORD"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "DYNCW",
+   "name": "Dynamix Corporation - Warrant",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "DYNCW"
+  },
+  {
+   "symbol": "YHNAU",
+   "name": "YHN Acquisition I Limited - Unit",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "YHNAU"
+  },
+  {
+   "symbol": "GME.W",
+   "name": "GameStop Corporation Warrants to Purchase Common Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "GME.W"
+  },
+  {
+   "symbol": "DYNCU",
+   "name": "Dynamix Corporation - Unit",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "DYNCU"
+  },
+  {
+   "symbol": "EICA",
+   "name": "Eagle Point Income Company 5.00% Series A Term Preferred Shares due 2026",
+   "exchange": "NYSE",
+   "yahoo_symbol": "EICA"
+  },
+  {
+   "symbol": "YHNAR",
+   "name": "YHN Acquisition I Limited - Right",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "YHNAR"
+  },
+  {
+   "symbol": "LNAI",
+   "name": "Lunai Bioworks Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "LNAI"
+  },
+  {
+   "symbol": "LTRYW",
+   "name": "Sports Entertainment Gaming Global Corporation  - Warrant",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "LTRYW"
+  },
+  {
+   "symbol": "DYNC",
+   "name": "Dynamix Corporation - Class A Ordinary Share",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "DYNC"
+  },
+  {
+   "symbol": "GCTK",
+   "name": "GlucoTrack, Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "GCTK"
+  },
+  {
+   "symbol": "VVO",
+   "name": "Vanguard Global Minimum Volatility ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "VVO.TO",
+   "instruments": [
+    {
+     "name": "Vanguard GlbMinVoltl",
+     "symbol": "VVO"
+    }
+   ]
+  },
+  {
+   "symbol": "YHNA",
+   "name": "YHN Acquisition I Limited - Ordinary Shares",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "YHNA"
+  }
+ ]
+}
