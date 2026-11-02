@@ -1,0 +1,128 @@
+{
+ "added": [
+  {
+   "symbol": "LKY",
+   "name": "Lucky Minerals Inc.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "LKY.V",
+   "instruments": [
+    {
+     "name": "Lucky Minerals Inc.",
+     "symbol": "LKY"
+    }
+   ]
+  },
+  {
+   "symbol": "DPAY",
+   "name": "Dynamic Premium Yield PLUS Fund",
+   "exchange": "TSX",
+   "yahoo_symbol": "DPAY.TO",
+   "instruments": [
+    {
+     "name": "Dynamic Pr Yld PlusF",
+     "symbol": "DPAY"
+    },
+    {
+     "name": "DynamicPrYd PF Unh U",
+     "symbol": "DPAY.U"
+    },
+    {
+     "name": "Dynamic PrYd PF Hg U",
+     "symbol": "DPAY.V"
+    }
+   ]
+  },
+  {
+   "symbol": "CORP",
+   "name": "Mulvihill Corporate Bond Fund",
+   "exchange": "TSX",
+   "yahoo_symbol": "CORP.TO",
+   "instruments": [
+    {
+     "name": "Mulvihill Corp Bd Fd",
+     "symbol": "CORP"
+    }
+   ]
+  },
+  {
+   "symbol": "CASK",
+   "name": "Sempreon, Inc. - Common Stock",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "CASK"
+  },
+  {
+   "symbol": "NARA",
+   "name": "Narragansett Bancorp, Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "NARA"
+  },
+  {
+   "symbol": "NMZ.V",
+   "name": "Nuveen Municipal High Income Opportunity Fund Rights (expiring December 2, 2026) Rights when issued",
+   "exchange": "NYSE",
+   "yahoo_symbol": "NMZ.V"
+  },
+  {
+   "symbol": "OPAY",
+   "name": "OPay Limited American Depositary Shares, each representing ten Ordinary Shares",
+   "exchange": "NYSE",
+   "yahoo_symbol": "OPAY"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "KVUE",
+   "name": "Kenvue Inc. Common Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "KVUE"
+  },
+  {
+   "symbol": "LQ",
+   "name": "Simplify Tax Aware Alternatives ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "LQ"
+  },
+  {
+   "symbol": "BFRIW",
+   "name": "Biofrontera Inc. - Warrants",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "BFRIW"
+  },
+  {
+   "symbol": "MGPI",
+   "name": "MGP Ingredients, Inc. - Common Stock",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "MGPI"
+  },
+  {
+   "symbol": "LXP$C",
+   "name": "LXP Industrial Trust 6.5% Series C Cumulative Convertible Preferred Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "LXP$C"
+  },
+  {
+   "symbol": "DINE",
+   "name": "Simplify Tax Aware Diversified Income Strategy ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "DINE"
+  },
+  {
+   "symbol": "CBZ",
+   "name": "CBIZ, Inc. Common Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "CBZ"
+  },
+  {
+   "symbol": "RAMP",
+   "name": "LiveRamp Holdings, Inc. Common Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "RAMP"
+  },
+  {
+   "symbol": "LXP",
+   "name": "LXP Industrial Trust Common Stock (Maryland REIT)",
+   "exchange": "NYSE",
+   "yahoo_symbol": "LXP"
+  }
+ ]
+}
