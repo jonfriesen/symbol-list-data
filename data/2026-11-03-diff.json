@@ -1,0 +1,114 @@
+{
+ "added": [
+  {
+   "symbol": "BASQ.P",
+   "name": "Bastion Square Partners II Inc.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "BASQ.P.V",
+   "instruments": [
+    {
+     "name": "Bastion Square Partners II Inc.",
+     "symbol": "BASQ.P"
+    }
+   ]
+  },
+  {
+   "symbol": "MTAU",
+   "name": "Monteoro Minerals Ltd.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "MTAU.V",
+   "instruments": [
+    {
+     "name": "Monteoro Minerals Ltd.",
+     "symbol": "MTAU"
+    }
+   ]
+  },
+  {
+   "symbol": "MAXQ",
+   "name": "Maritime Launch Services Inc.",
+   "exchange": "TSX",
+   "yahoo_symbol": "MAXQ.TO",
+   "instruments": [
+    {
+     "name": "Maritime Lnch Srv In",
+     "symbol": "MAXQ"
+    }
+   ]
+  },
+  {
+   "symbol": "TXR",
+   "name": "Torex Resources Inc.",
+   "exchange": "TSX",
+   "yahoo_symbol": "TXR.TO",
+   "instruments": [
+    {
+     "name": "Torex Gold Res J",
+     "symbol": "TXR"
+    }
+   ]
+  },
+  {
+   "symbol": "SUPN",
+   "name": "Supernus, Inc. - Common Stock",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "SUPN"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "HODO",
+   "name": "House of Doge Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "HODO"
+  },
+  {
+   "symbol": "SWKHL",
+   "name": "SWK Holdings Corporation - 9.00% Senior Notes due 2027",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "SWKHL"
+  },
+  {
+   "symbol": "AUROW",
+   "name": "Aurora Innovation, Inc.  - Warrant",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "AUROW"
+  },
+  {
+   "symbol": "TXG",
+   "name": "Torex Gold Resources Inc.",
+   "exchange": "TSX",
+   "yahoo_symbol": "TXG.TO",
+   "instruments": [
+    {
+     "name": "Torex Gold Res J",
+     "symbol": "TXG"
+    }
+   ]
+  },
+  {
+   "symbol": "MLEC",
+   "name": "Moolec Science SA - Ordinary Shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "MLEC"
+  },
+  {
+   "symbol": "INDV",
+   "name": "Indivior Pharmaceuticals, Inc.  - Common Stock",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "INDV"
+  },
+  {
+   "symbol": "MLECW",
+   "name": "Moolec Science SA - Warrant",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "MLECW"
+  },
+  {
+   "symbol": "SUPN",
+   "name": "Supernus Pharmaceuticals, Inc. - Common Stock",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "SUPN"
+  }
+ ]
+}
