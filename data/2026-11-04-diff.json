@@ -1,0 +1,82 @@
+{
+ "added": [
+  {
+   "symbol": "LB.PR.H",
+   "name": "Laurentian Bank of Canada",
+   "exchange": "TSX",
+   "yahoo_symbol": "LB.PR.H.TO",
+   "instruments": [
+    {
+     "name": "Laurentian Bk Pr 13",
+     "symbol": "LB.PR.H"
+    }
+   ]
+  },
+  {
+   "symbol": "PAEF",
+   "name": "Purpose Active Equity Fund",
+   "exchange": "TSX",
+   "yahoo_symbol": "PAEF.TO",
+   "instruments": [
+    {
+     "name": "Purpose Active Eq Fd",
+     "symbol": "PAEF"
+    }
+   ]
+  },
+  {
+   "symbol": "INK",
+   "name": "AB Equity Premium Income ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "INK"
+  },
+  {
+   "symbol": "SAEN",
+   "name": "Genenta Science S.p.A. - American Depositary Shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "SAEN"
+  },
+  {
+   "symbol": "NMZ.R",
+   "name": "Nuveen Municipal High Income Opportunity Fund Rights (expiring December 2, 2026) Rights",
+   "exchange": "NYSE",
+   "yahoo_symbol": "NMZ.R"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "GNTA",
+   "name": "Genenta Science S.p.A. - American Depositary Shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "GNTA"
+  },
+  {
+   "symbol": "NMZ.V",
+   "name": "Nuveen Municipal High Income Opportunity Fund Rights (expiring December 2, 2026) Rights when issued",
+   "exchange": "NYSE",
+   "yahoo_symbol": "NMZ.V"
+  },
+  {
+   "symbol": "LB",
+   "name": "Laurentian Bank of Canada",
+   "exchange": "TSX",
+   "yahoo_symbol": "LB.TO",
+   "instruments": [
+    {
+     "name": "Laurentian Bk of Can",
+     "symbol": "LB"
+    },
+    {
+     "name": "Laurentian Bk Pr 13",
+     "symbol": "LB.PR.H"
+    }
+   ]
+  },
+  {
+   "symbol": "GCDT",
+   "name": "Green Circle Decarbonize Technology Limited Class A Ordinary Shares",
+   "exchange": "NYSE MKT",
+   "yahoo_symbol": "GCDT"
+  }
+ ]
+}
