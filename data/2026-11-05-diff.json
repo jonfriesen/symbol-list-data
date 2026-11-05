@@ -1,0 +1,126 @@
+{
+ "added": [
+  {
+   "symbol": "PNTR",
+   "name": "Pantera Silver Corp.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "PNTR.V",
+   "instruments": [
+    {
+     "name": "Pantera Silver Corp.",
+     "symbol": "PNTR"
+    }
+   ]
+  },
+  {
+   "symbol": "FWZ",
+   "name": "Fireweed Metals Corp.",
+   "exchange": "TSX",
+   "yahoo_symbol": "FWZ.TO",
+   "instruments": [
+    {
+     "name": "Fireweed Metals Corp",
+     "symbol": "FWZ"
+    }
+   ]
+  },
+  {
+   "symbol": "ACEM",
+   "name": "American Century Emerging Markets Insights ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "ACEM"
+  },
+  {
+   "symbol": "AGLT",
+   "name": "Agility Robotics, Inc. - Ordinary Shares",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "AGLT"
+  },
+  {
+   "symbol": "AGLTW",
+   "name": "Agility Robotics, Inc. - Warrants",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "AGLTW"
+  },
+  {
+   "symbol": "DAIC",
+   "name": "CID HoldCo, Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "DAIC"
+  },
+  {
+   "symbol": "DAICW",
+   "name": "CID HoldCo, Inc. - Warrants",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "DAICW"
+  },
+  {
+   "symbol": "HLT",
+   "name": "Hilton Worldwide Holdings Inc. - Common Stock",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "HLT"
+  },
+  {
+   "symbol": "INJC",
+   "name": "Canary Staked INJ ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "INJC"
+  },
+  {
+   "symbol": "BFH$C",
+   "name": "Bread Financial Holdings, Inc. Depositary Shares, each representing a 1/40th interest in a share of its 9.375% Fixed Rate Reset Non-Cumulative Perpetual Preferred Stock, Series C",
+   "exchange": "NYSE",
+   "yahoo_symbol": "BFH$C"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "DAIC",
+   "name": "CID HoldCo, Inc. - Common Stock",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "DAIC"
+  },
+  {
+   "symbol": "FWZ",
+   "name": "Fireweed Metals Corp.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "FWZ.V",
+   "instruments": [
+    {
+     "name": "Fireweed Metals Corp.",
+     "symbol": "FWZ"
+    }
+   ]
+  },
+  {
+   "symbol": "HLT",
+   "name": "Hilton Worldwide Holdings Inc. Common Stock ",
+   "exchange": "NYSE",
+   "yahoo_symbol": "HLT"
+  },
+  {
+   "symbol": "CCXIW",
+   "name": "Churchill Capital Corp XI - Warrants",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "CCXIW"
+  },
+  {
+   "symbol": "DAICW",
+   "name": "CID HoldCo, Inc. - Warrants",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "DAICW"
+  },
+  {
+   "symbol": "CCXI",
+   "name": "Churchill Capital Corp XI - Class A Ordinary Shares",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "CCXI"
+  },
+  {
+   "symbol": "CCXIU",
+   "name": "Churchill Capital Corp XI - Units",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "CCXIU"
+  }
+ ]
+}
