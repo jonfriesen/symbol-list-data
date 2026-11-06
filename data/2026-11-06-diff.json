@@ -1,0 +1,36 @@
+{
+ "added": [
+  {
+   "symbol": "LEDR",
+   "name": "Leader's Advantage Acquisition Corp. - Class A Ordinary Shares",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "LEDR"
+  },
+  {
+   "symbol": "LEDRW",
+   "name": "Leader's Advantage Acquisition Corp. - Warrants",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "LEDRW"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "ALDFW",
+   "name": "Aldel Financial II Inc. - Warrants",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "ALDFW"
+  },
+  {
+   "symbol": "ALDF",
+   "name": "Aldel Financial II Inc. - Class A Ordinary Shares",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "ALDF"
+  },
+  {
+   "symbol": "ALDFU",
+   "name": "Aldel Financial II Inc. - Units",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "ALDFU"
+  }
+ ]
+}
