@@ -1,0 +1,168 @@
+{
+ "added": [
+  {
+   "symbol": "KEON",
+   "name": "Keon Capital Inc.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "KEON.V",
+   "instruments": [
+    {
+     "name": "Keon Capital Inc.",
+     "symbol": "KEON"
+    }
+   ]
+  },
+  {
+   "symbol": "LIXX",
+   "name": "Lithium X2 Mining Inc.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "LIXX.V",
+   "instruments": [
+    {
+     "name": "Lithium X2 Mining Inc.",
+     "symbol": "LIXX"
+    }
+   ]
+  },
+  {
+   "symbol": "QTX",
+   "name": "Quantex Digital Corp.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "QTX.V",
+   "instruments": [
+    {
+     "name": "Quantex Digital Corp.",
+     "symbol": "QTX"
+    }
+   ]
+  },
+  {
+   "symbol": "HYAC",
+   "name": "Haymaker Acquisition Corp V Class A Ordinary Shares",
+   "exchange": "NYSE",
+   "yahoo_symbol": "HYAC"
+  },
+  {
+   "symbol": "HYAC.W",
+   "name": "Haymaker Acquisition Corp V Redeemable warrants, each whole warrant exercisable for one Class A ordinary share at an exercise price of $11.50",
+   "exchange": "NYSE",
+   "yahoo_symbol": "HYAC.W"
+  },
+  {
+   "symbol": "TXCP",
+   "name": "Texas Capital Bancshares, Inc. Common Stock",
+   "exchange": "UNKNOWN",
+   "yahoo_symbol": "TXCP"
+  },
+  {
+   "symbol": "TXCP$B",
+   "name": "Texas Capital Bancshares, Inc. Depositary Shares 5.75% Fixed Rate Non-Cumulative Perpetual Preferred Stock Series B",
+   "exchange": "UNKNOWN",
+   "yahoo_symbol": "TXCP$B"
+  },
+  {
+   "symbol": "MTRI",
+   "name": "Mentari Therapeutics, Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "MTRI"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "BWMN",
+   "name": "Bowman Consulting Group Ltd. - Common Stock",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "BWMN"
+  },
+  {
+   "symbol": "INM",
+   "name": "InMed Pharmaceuticals Inc. - Common Shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "INM"
+  },
+  {
+   "symbol": "FORT",
+   "name": "Fort Technology Inc.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "FORT.V",
+   "instruments": [
+    {
+     "name": "Fort Technology Inc.",
+     "symbol": "FORT"
+    }
+   ]
+  },
+  {
+   "symbol": "ROKU",
+   "name": "Roku, Inc. - Class A Common Stock",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "ROKU"
+  },
+  {
+   "symbol": "TCBI$B",
+   "name": "Texas Capital Bancshares, Inc. Depositary Shares 5.75% Fixed Rate Non-Cumulative Perpetual Preferred Stock Series B",
+   "exchange": "UNKNOWN",
+   "yahoo_symbol": "TCBI$B"
+  },
+  {
+   "symbol": "ARI",
+   "name": "Apollo Commercial Real Estate Finance, Inc",
+   "exchange": "NYSE",
+   "yahoo_symbol": "ARI"
+  },
+  {
+   "symbol": "HIDE",
+   "name": "Hydaway Digital Corp.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "HIDE.V",
+   "instruments": [
+    {
+     "name": "Hydaway Digital Corp.",
+     "symbol": "HIDE"
+    }
+   ]
+  },
+  {
+   "symbol": "NILI",
+   "name": "Surge Battery Metals Inc.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "NILI.V",
+   "instruments": [
+    {
+     "name": "Surge Battery Metals Inc.",
+     "symbol": "NILI"
+    }
+   ]
+  },
+  {
+   "symbol": "ULTI",
+   "name": "REX IncomeMax Option Strategy ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "ULTI"
+  },
+  {
+   "symbol": "TCBI",
+   "name": "Texas Capital Bancshares, Inc. Common Stock",
+   "exchange": "UNKNOWN",
+   "yahoo_symbol": "TCBI"
+  },
+  {
+   "symbol": "REVX",
+   "name": "Rev Exploration Corp.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "REVX.V",
+   "instruments": [
+    {
+     "name": "Rev Exploration Corp.",
+     "symbol": "REVX"
+    }
+   ]
+  },
+  {
+   "symbol": "MCTA",
+   "name": "Charming Medical Limited - Class A Ordinary Shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "MCTA"
+  }
+ ]
+}
