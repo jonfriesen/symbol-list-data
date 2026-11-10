@@ -1,0 +1,120 @@
+{
+ "added": [
+  {
+   "symbol": "KIC",
+   "name": "Kichona Minerals Inc.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "KIC.V",
+   "instruments": [
+    {
+     "name": "Kichona Minerals Inc.",
+     "symbol": "KIC"
+    }
+   ]
+  },
+  {
+   "symbol": "NMRK",
+   "name": "Northmark Metals Corp.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "NMRK.V",
+   "instruments": [
+    {
+     "name": "Northmark Metals Corp.",
+     "symbol": "NMRK"
+    }
+   ]
+  },
+  {
+   "symbol": "QUIT",
+   "name": "Achieve Life Sciences, Inc.  - Common Shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "QUIT"
+  },
+  {
+   "symbol": "SCQC",
+   "name": "SPACCircle Acquisition Corp. - Class A Ordinary Shares",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "SCQC"
+  },
+  {
+   "symbol": "SCQCR",
+   "name": "SPACCircle Acquisition Corp. - Rights",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "SCQCR"
+  },
+  {
+   "symbol": "SCQCW",
+   "name": "SPACCircle Acquisition Corp. - Warrants",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "SCQCW"
+  },
+  {
+   "symbol": "XGPU",
+   "name": "Reliance Global Group, Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "XGPU"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "PSQH",
+   "name": "PSQ Holdings, Inc. Class A Common Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "PSQH"
+  },
+  {
+   "symbol": "PSQH.W",
+   "name": "PSQ Holdings, Inc. Warrants, each exercisable for one share of Class A common stock at an exercise price of $11.50 per share",
+   "exchange": "NYSE",
+   "yahoo_symbol": "PSQH.W"
+  },
+  {
+   "symbol": "REAI",
+   "name": "Intelligent Real Estate ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "REAI"
+  },
+  {
+   "symbol": "EZRA",
+   "name": "Reliance Global Group, Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "EZRA"
+  },
+  {
+   "symbol": "AGA",
+   "name": "Silver47 Exploration Corp.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "AGA.V",
+   "instruments": [
+    {
+     "name": "Silver47 Exploration Corp.",
+     "symbol": "AGA"
+    }
+   ]
+  },
+  {
+   "symbol": "SWAGW",
+   "name": "Stran \u0026 Company, Inc. - Warrant",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "SWAGW"
+  },
+  {
+   "symbol": "APMI",
+   "name": "Apogee Minerals Ltd.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "APMI.V",
+   "instruments": [
+    {
+     "name": "Apogee Minerals Ltd.",
+     "symbol": "APMI"
+    }
+   ]
+  },
+  {
+   "symbol": "ACHV",
+   "name": "Achieve Life Sciences, Inc.  - Common Shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "ACHV"
+  }
+ ]
+}
