@@ -1,0 +1,36 @@
+{
+ "added": [
+  {
+   "symbol": "ERXY",
+   "name": "Eryxion Resources Corp.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "ERXY.V",
+   "instruments": [
+    {
+     "name": "Eryxion Resources Corp.",
+     "symbol": "ERXY"
+    }
+   ]
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "KPTI",
+   "name": "Karyopharm Therapeutics Inc. - Common Stock",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "KPTI"
+  },
+  {
+   "symbol": "ATCH",
+   "name": "AtlasClear Holdings, Inc. Common Stock",
+   "exchange": "NYSE MKT",
+   "yahoo_symbol": "ATCH"
+  },
+  {
+   "symbol": "HLSQ",
+   "name": "Tessera Defense and Homeland Security Inc. Common Stock",
+   "exchange": "NYSE MKT",
+   "yahoo_symbol": "HLSQ"
+  }
+ ]
+}
