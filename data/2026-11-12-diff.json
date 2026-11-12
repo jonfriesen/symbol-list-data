@@ -1,0 +1,72 @@
+{
+ "added": [
+  {
+   "symbol": "CFR",
+   "name": "Cullen/Frost Bankers, Inc. Common Stock",
+   "exchange": "UNKNOWN",
+   "yahoo_symbol": "CFR"
+  },
+  {
+   "symbol": "CFR$B",
+   "name": "Cullen/Frost Bankers, Inc. Depositary Shares, each representing a 1/40th ownership interest in a share of 4.450% non-cumulative perpetual preferred stock, Series B",
+   "exchange": "UNKNOWN",
+   "yahoo_symbol": "CFR$B"
+  },
+  {
+   "symbol": "PTEST",
+   "name": "Nyse Arca Test Symbol",
+   "exchange": "NYSE ARCA",
+   "yahoo_symbol": "PTEST"
+  },
+  {
+   "symbol": "CRMN",
+   "name": "Skyline Builders Group Holding Limited - Class A Ordinary Shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "CRMN"
+  },
+  {
+   "symbol": "RANI",
+   "name": "Rani Therapeutics Holdings, Inc. - Class A Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "RANI"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "RANI",
+   "name": "Rani Therapeutics Holdings, Inc. - Class A Common Stock",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "RANI"
+  },
+  {
+   "symbol": "KNRX",
+   "name": "KNOREX LTD. Class A Ordinary Shares",
+   "exchange": "NYSE MKT",
+   "yahoo_symbol": "KNRX"
+  },
+  {
+   "symbol": "CFR$B",
+   "name": "Cullen/Frost Bankers, Inc. Depositary Shares, each representing a 1/40th ownership interest in a share of 4.450% non-cumulative perpetual preferred stock, Series B",
+   "exchange": "NYSE",
+   "yahoo_symbol": "CFR$B"
+  },
+  {
+   "symbol": "NXXT",
+   "name": "NextNRG, Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "NXXT"
+  },
+  {
+   "symbol": "KAZR",
+   "name": "Skyline Builders Group Holding Limited - Class A Ordinary Shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "KAZR"
+  },
+  {
+   "symbol": "CFR",
+   "name": "Cullen/Frost Bankers, Inc. Common Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "CFR"
+  }
+ ]
+}
