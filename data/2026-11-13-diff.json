@@ -1,0 +1,166 @@
+{
+ "added": [
+  {
+   "symbol": "ZESC",
+   "name": "BMO European Securitized Credit ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "ZESC.TO",
+   "instruments": [
+    {
+     "name": "BMO Euro Sec Cr CAD",
+     "symbol": "ZESC"
+    },
+    {
+     "name": "BMO Euro Sec Cr Hgd",
+     "symbol": "ZESC.F"
+    }
+   ]
+  },
+  {
+   "symbol": "ZFIX",
+   "name": "BMO Fixed Income ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "ZFIX.TO",
+   "instruments": [
+    {
+     "name": "BMO Fixed Income ETF",
+     "symbol": "ZFIX"
+    }
+   ]
+  },
+  {
+   "symbol": "ZGSC",
+   "name": "BMO Global Securitized Credit Hedged to CAD ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "ZGSC.TO",
+   "instruments": [
+    {
+     "name": "BMO Glb Sec Cr Hg Cd",
+     "symbol": "ZGSC"
+    }
+   ]
+  },
+  {
+   "symbol": "ZGDB",
+   "name": "BMO Global Short-Term Discount Bond Hedged to CAD ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "ZGDB.TO",
+   "instruments": [
+    {
+     "name": "BMO Glb ShrtT D B Hg",
+     "symbol": "ZGDB"
+    }
+   ]
+  },
+  {
+   "symbol": "ZINC",
+   "name": "BMO Income ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "ZINC.TO",
+   "instruments": [
+    {
+     "name": "BMO Income ETF",
+     "symbol": "ZINC"
+    }
+   ]
+  },
+  {
+   "symbol": "ZALL",
+   "name": "BMO MSCI All Country World Index ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "ZALL.TO",
+   "instruments": [
+    {
+     "name": "BMO MSCI All Cnt WrI",
+     "symbol": "ZALL"
+    }
+   ]
+  },
+  {
+   "symbol": "LOVI",
+   "name": "Live Oak Acquisition Corp. VI - Class A Ordinary Shares",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "LOVI"
+  },
+  {
+   "symbol": "LOVIW",
+   "name": "Live Oak Acquisition Corp. VI - Warrants",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "LOVIW"
+  },
+  {
+   "symbol": "OPHI",
+   "name": "CollPlant Biotechnologies Ltd. - Ordinary Shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "OPHI"
+  },
+  {
+   "symbol": "WWB",
+   "name": "Windward Bio Group AG - Common shares",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "WWB"
+  },
+  {
+   "symbol": "ZYN",
+   "name": "PTL LTD - Class A Ordinary Shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "ZYN"
+  },
+  {
+   "symbol": "LOB$B",
+   "name": "Live Oak Bancshares, Inc. Depositary Shares, Each Representing a 1/40th Interest in a Share of 8.750% Fixed Rate Series B Non-Cumulative Perpetual Preferred Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "LOB$B"
+  },
+  {
+   "symbol": "MDRN",
+   "name": "Modern Mining Technology Corp. Common Shares",
+   "exchange": "NYSE MKT",
+   "yahoo_symbol": "MDRN"
+  },
+  {
+   "symbol": "VVVV",
+   "name": "vVARDIS Holding AG Class A Ordinary Shares",
+   "exchange": "NYSE",
+   "yahoo_symbol": "VVVV"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "FDFF",
+   "name": "Fidelity Disruptive Finance ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "FDFF"
+  },
+  {
+   "symbol": "FDIF",
+   "name": "Fidelity Disruptors ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "FDIF"
+  },
+  {
+   "symbol": "CLGN",
+   "name": "CollPlant Biotechnologies Ltd. - Ordinary Shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "CLGN"
+  },
+  {
+   "symbol": "FMED",
+   "name": "Fidelity Disruptive Medicine ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "FMED"
+  },
+  {
+   "symbol": "PTLE",
+   "name": "PTL LTD - Class A Ordinary Shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "PTLE"
+  },
+  {
+   "symbol": "FMET",
+   "name": "Fidelity Metaverse ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "FMET"
+  }
+ ]
+}
