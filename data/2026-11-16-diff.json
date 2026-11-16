@@ -1,0 +1,204 @@
+{
+ "added": [
+  {
+   "symbol": "CGOV",
+   "name": "Hamilton Canadian T-Bill ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "CGOV.TO",
+   "instruments": [
+    {
+     "name": "Hamilton Canadian Tb",
+     "symbol": "CGOV"
+    }
+   ]
+  },
+  {
+   "symbol": "UGOV.U",
+   "name": "Hamilton U.S. T-Bill ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "UGOV.U.TO",
+   "instruments": [
+    {
+     "name": "Hamilton US TBill E",
+     "symbol": "UGOV.U"
+    }
+   ]
+  },
+  {
+   "symbol": "SBGE",
+   "name": "SLGI MFS Blended Research Global Equity Fund",
+   "exchange": "TSX",
+   "yahoo_symbol": "SBGE.TO",
+   "instruments": [
+    {
+     "name": "SLGI MFS Blnd Rs G E",
+     "symbol": "SBGE"
+    }
+   ]
+  },
+  {
+   "symbol": "SBIE",
+   "name": "SLGI MFS Blended Research International Equity Fund",
+   "exchange": "TSX",
+   "yahoo_symbol": "SBIE.TO",
+   "instruments": [
+    {
+     "name": "SLGI MFS Blnd Rs I E",
+     "symbol": "SBIE"
+    }
+   ]
+  },
+  {
+   "symbol": "SBAL",
+   "name": "Sun Life Balanced ETF+ Portfolio",
+   "exchange": "TSX",
+   "yahoo_symbol": "SBAL.TO",
+   "instruments": [
+    {
+     "name": "Sun Life Blncd E P",
+     "symbol": "SBAL"
+    }
+   ]
+  },
+  {
+   "symbol": "SCNS",
+   "name": "Sun Life Conservative ETF+ Portfolio",
+   "exchange": "TSX",
+   "yahoo_symbol": "SCNS.TO",
+   "instruments": [
+    {
+     "name": "Sun Life Cons E P",
+     "symbol": "SCNS"
+    }
+   ]
+  },
+  {
+   "symbol": "SEQT",
+   "name": "Sun Life Equity ETF+ Portfolio",
+   "exchange": "TSX",
+   "yahoo_symbol": "SEQT.TO",
+   "instruments": [
+    {
+     "name": "Sun Life Eq ETF P",
+     "symbol": "SEQT"
+    }
+   ]
+  },
+  {
+   "symbol": "SFIX",
+   "name": "Sun Life Fixed Income ETF+ Portfolio",
+   "exchange": "TSX",
+   "yahoo_symbol": "SFIX.TO",
+   "instruments": [
+    {
+     "name": "Sun Life Fxd Inc E P",
+     "symbol": "SFIX"
+    }
+   ]
+  },
+  {
+   "symbol": "SGRW",
+   "name": "Sun Life Growth ETF+ Portfolio",
+   "exchange": "TSX",
+   "yahoo_symbol": "SGRW.TO",
+   "instruments": [
+    {
+     "name": "Sun Life Growth E P",
+     "symbol": "SGRW"
+    }
+   ]
+  },
+  {
+   "symbol": "BRRK",
+   "name": "Bluerock Acquisition Corp. II - Class A Ordinary Shares",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "BRRK"
+  },
+  {
+   "symbol": "BRRKW",
+   "name": "Bluerock Acquisition Corp. II - Warrants",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "BRRKW"
+  },
+  {
+   "symbol": "HCOP",
+   "name": "Hartford Hybrid and Credit Opportunities ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "HCOP"
+  },
+  {
+   "symbol": "HZN",
+   "name": "Bright Horizon Energy Corporation Common Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "HZN"
+  },
+  {
+   "symbol": "PORT",
+   "name": "Southport Acquisition Corp. II Class A Ordinary Shares",
+   "exchange": "NYSE",
+   "yahoo_symbol": "PORT"
+  },
+  {
+   "symbol": "PORT.W",
+   "name": "Southport Acquisition Corp. II Redeemable warrants, each whole warrant exercisable for one Class A ordinary share at an exercise price of $11.50",
+   "exchange": "NYSE",
+   "yahoo_symbol": "PORT.W"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "BEATW",
+   "name": "Heartbeam, Inc. - Warrant",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "BEATW"
+  },
+  {
+   "symbol": "STLNW",
+   "name": "Starling Oncology, Inc. - Warrant",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "STLNW"
+  },
+  {
+   "symbol": "BKH",
+   "name": "Black Hills Corporation Common Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "BKH"
+  },
+  {
+   "symbol": "BTBDW",
+   "name": "BT Brands, Inc. - Warrant",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "BTBDW"
+  },
+  {
+   "symbol": "KTF",
+   "name": "DWS Municipal Income Trust",
+   "exchange": "NYSE",
+   "yahoo_symbol": "KTF"
+  },
+  {
+   "symbol": "LVWR.W",
+   "name": "LiveWire Group, Inc. Warrants, each exercisable for one share of Common Stock at an exercise price of $11.50 per share",
+   "exchange": "NYSE",
+   "yahoo_symbol": "LVWR.W"
+  },
+  {
+   "symbol": "NWE",
+   "name": "NorthWestern Energy Group, Inc.  - Common Stock",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "NWE"
+  },
+  {
+   "symbol": "PLCE",
+   "name": "Children's Place, Inc. (The) - Common Stock",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "PLCE"
+  },
+  {
+   "symbol": "ITGR",
+   "name": "Integer Holdings Corporation Common Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "ITGR"
+  }
+ ]
+}
