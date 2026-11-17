@@ -1,0 +1,198 @@
+{
+ "added": [
+  {
+   "symbol": "EEQT",
+   "name": "Evolve All-Equity Dividend ETF Portfolio",
+   "exchange": "TSX",
+   "yahoo_symbol": "EEQT.TO",
+   "instruments": [
+    {
+     "name": "Evolve All Eq Div E",
+     "symbol": "EEQT"
+    }
+   ]
+  },
+  {
+   "symbol": "EBAL",
+   "name": "Evolve Balanced Dividend ETF Portfolio",
+   "exchange": "TSX",
+   "yahoo_symbol": "EBAL.TO",
+   "instruments": [
+    {
+     "name": "Evolve Balncd Div E",
+     "symbol": "EBAL"
+    }
+   ]
+  },
+  {
+   "symbol": "VRSA",
+   "name": "Versa Bancorp",
+   "exchange": "TSX",
+   "yahoo_symbol": "VRSA.TO",
+   "instruments": [
+    {
+     "name": "VersaBank J",
+     "symbol": "VRSA"
+    }
+   ]
+  },
+  {
+   "symbol": "VALX",
+   "name": "Valiente Resources Inc.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "VALX.V",
+   "instruments": [
+    {
+     "name": "Valiente Resources Inc.",
+     "symbol": "VALX"
+    }
+   ]
+  },
+  {
+   "symbol": "VIMY",
+   "name": "Vimy Pharmaceuticals Corp.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "VIMY.V",
+   "instruments": [
+    {
+     "name": "Vimy Pharmaceuticals Corp.",
+     "symbol": "VIMY"
+    }
+   ]
+  },
+  {
+   "symbol": "CWPD",
+   "name": "CWP Premium Dividend ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "CWPD"
+  },
+  {
+   "symbol": "CWPG",
+   "name": "CWP Premium Growth ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "CWPG"
+  },
+  {
+   "symbol": "DAU",
+   "name": "GraniteShares Autocallable AMD ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "DAU"
+  },
+  {
+   "symbol": "DRAC",
+   "name": "GraniteShares Autocallable DRAM ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "DRAC"
+  },
+  {
+   "symbol": "GM",
+   "name": "General Motors Company - Common Stock",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "GM"
+  },
+  {
+   "symbol": "MEA",
+   "name": "GraniteShares Autocallable META ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "MEA"
+  },
+  {
+   "symbol": "NTCR",
+   "name": "Nuveen Technology \u0026 Infrastructure Credit ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "NTCR"
+  },
+  {
+   "symbol": "PCHX",
+   "name": "State Street SPDR Nasdaq MyPaycheck ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "PCHX"
+  },
+  {
+   "symbol": "PIVT",
+   "name": "VanEck Pivotal Trends ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "PIVT"
+  },
+  {
+   "symbol": "VRSA",
+   "name": "Versa Bancorp - Common Stock",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "VRSA"
+  },
+  {
+   "symbol": "TXR",
+   "name": "Torex Resources Inc. Common Shares",
+   "exchange": "NYSE",
+   "yahoo_symbol": "TXR"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "ACH",
+   "name": "Accendra Health, Inc. Common Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "ACH"
+  },
+  {
+   "symbol": "RKLZ",
+   "name": "Defiance Daily Target 2x Short RKLB ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "RKLZ"
+  },
+  {
+   "symbol": "MONY.P",
+   "name": "Harmony Acquisitions Corp.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "MONY.P.V",
+   "instruments": [
+    {
+     "name": "Harmony Acquisitions Corp.",
+     "symbol": "MONY.P"
+    }
+   ]
+  },
+  {
+   "symbol": "DVLT",
+   "name": "Datavault AI Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "DVLT"
+  },
+  {
+   "symbol": "VBNK",
+   "name": "VersaBank",
+   "exchange": "TSX",
+   "yahoo_symbol": "VBNK.TO",
+   "instruments": [
+    {
+     "name": "VersaBank J",
+     "symbol": "VBNK"
+    }
+   ]
+  },
+  {
+   "symbol": "VBNK",
+   "name": "VersaBank - Common Shares",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "VBNK"
+  },
+  {
+   "symbol": "EGLX",
+   "name": "Enthusiast Gaming Holdings Inc.",
+   "exchange": "TSX",
+   "yahoo_symbol": "EGLX.TO",
+   "instruments": [
+    {
+     "name": "Enthusiast GameHldgJ",
+     "symbol": "EGLX"
+    }
+   ]
+  },
+  {
+   "symbol": "GM",
+   "name": "General Motors Company Common Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "GM"
+  }
+ ]
+}
