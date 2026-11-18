@@ -1,0 +1,132 @@
+{
+ "added": [
+  {
+   "symbol": "NBIS",
+   "name": "Nebius Group CDR (CAD Hedged)",
+   "exchange": "TSX",
+   "yahoo_symbol": "NBIS.TO",
+   "instruments": [
+    {
+     "name": "Nebius Group CDR C H",
+     "symbol": "NBIS"
+    }
+   ]
+  },
+  {
+   "symbol": "EGHI",
+   "name": "Ninepoint Global All-in-One HighShares ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "EGHI.TO",
+   "instruments": [
+    {
+     "name": "Ninepoint Gl AIO HiS",
+     "symbol": "EGHI"
+    }
+   ]
+  },
+  {
+   "symbol": "NSTR",
+   "name": "NorthStar Earth \u0026 Space Enterprises, Inc.",
+   "exchange": "TSX",
+   "yahoo_symbol": "NSTR.TO",
+   "instruments": [
+    {
+     "name": "Northstar Erth Spc E",
+     "symbol": "NSTR"
+    }
+   ]
+  },
+  {
+   "symbol": "ATHO",
+   "name": "Athos Metals Corp.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "ATHO.V",
+   "instruments": [
+    {
+     "name": "Athos Metals Corp.",
+     "symbol": "ATHO"
+    }
+   ]
+  },
+  {
+   "symbol": "SAY",
+   "name": "Sparta Capital Ltd.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "SAY.V",
+   "instruments": [
+    {
+     "name": "Sparta Capital Ltd.",
+     "symbol": "SAY"
+    }
+   ]
+  },
+  {
+   "symbol": "CCHP",
+   "name": "Global X China Semiconductor ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "CCHP"
+  },
+  {
+   "symbol": "GUER",
+   "name": "Guerrilla RF, Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "GUER"
+  },
+  {
+   "symbol": "IQQI",
+   "name": "IncomeQ Nasdaq-100 Premium Income ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "IQQI"
+  },
+  {
+   "symbol": "SDC",
+   "name": "KICK Space Data Center \u0026 Infrastructure Index ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "SDC"
+  },
+  {
+   "symbol": "ZOAR",
+   "name": "Zoar Limited Ordinary Shares",
+   "exchange": "NYSE MKT",
+   "yahoo_symbol": "ZOAR"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "PCRX",
+   "name": "Pacira BioSciences, Inc. - Common Stock",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "PCRX"
+  },
+  {
+   "symbol": "SHFSW",
+   "name": "SHF Holdings, Inc. - Warrants",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "SHFSW"
+  },
+  {
+   "symbol": "MEED.P",
+   "name": "Meed Growth Corp.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "MEED.P.V",
+   "instruments": [
+    {
+     "name": "Meed Growth Corp.",
+     "symbol": "MEED.P"
+    }
+   ]
+  },
+  {
+   "symbol": "SHFS",
+   "name": "SHF Holdings, Inc. - Class A Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "SHFS"
+  },
+  {
+   "symbol": "IBO",
+   "name": "Impact BioMedical, Inc. Common Stock",
+   "exchange": "NYSE MKT",
+   "yahoo_symbol": "IBO"
+  }
+ ]
+}
