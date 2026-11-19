@@ -1,0 +1,90 @@
+{
+ "added": [
+  {
+   "symbol": "ANTH",
+   "name": "Anthropic CDR (CAD Hedged)",
+   "exchange": "TSX",
+   "yahoo_symbol": "ANTH.TO",
+   "instruments": [
+    {
+     "name": "Anthropic CDR CD HGD",
+     "symbol": "ANTH"
+    }
+   ]
+  },
+  {
+   "symbol": "ANT",
+   "name": "Anthropic, PBC - Class A Common Stock",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "ANT"
+  },
+  {
+   "symbol": "ENVXW",
+   "name": "Enovix Corporation - Warrants",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "ENVXW"
+  },
+  {
+   "symbol": "FDGX",
+   "name": "First Digital Acquisition Corp Ltd. - Class A Ordinary Shares",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "FDGX"
+  },
+  {
+   "symbol": "FDGXU",
+   "name": "First Digital Acquisition Corp Ltd. - Units",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "FDGXU"
+  },
+  {
+   "symbol": "FDGXW",
+   "name": "First Digital Acquisition Corp Ltd. - Warrants",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "FDGXW"
+  },
+  {
+   "symbol": "FMBM",
+   "name": "F\u0026M Bank Corp. Common Stock",
+   "exchange": "NYSE MKT",
+   "yahoo_symbol": "FMBM"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "KOYN",
+   "name": "CSLM Digital Asset Acquisition Corp III - Class A Ordinary Shares",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "KOYN"
+  },
+  {
+   "symbol": "KOYNW",
+   "name": "CSLM Digital Asset Acquisition Corp III - Warrants",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "KOYNW"
+  },
+  {
+   "symbol": "SCKT",
+   "name": "Socket Mobile, Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "SCKT"
+  },
+  {
+   "symbol": "KOYNU",
+   "name": "CSLM Digital Asset Acquisition Corp III - Units",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "KOYNU"
+  },
+  {
+   "symbol": "SSTI",
+   "name": "SoundThinking, Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "SSTI"
+  },
+  {
+   "symbol": "LXFR",
+   "name": "Luxfer Holdings PLC Ordinary Shares",
+   "exchange": "NYSE",
+   "yahoo_symbol": "LXFR"
+  }
+ ]
+}
