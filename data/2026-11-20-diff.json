@@ -1,0 +1,144 @@
+{
+ "added": [
+  {
+   "symbol": "ANTE",
+   "name": "Harvest Anthropic Enhanced High Income Shares ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "ANTE.TO",
+   "instruments": [
+    {
+     "name": "Harv Anth Enh H In S",
+     "symbol": "ANTE"
+    }
+   ]
+  },
+  {
+   "symbol": "ANHI",
+   "name": "Ninepoint Anthropic HighShares ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "ANHI.TO",
+   "instruments": [
+    {
+     "name": "Ninepoint Anthr HS E",
+     "symbol": "ANHI"
+    }
+   ]
+  },
+  {
+   "symbol": "ANTU",
+   "name": "SavvyLong (2X) Anthropic ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "ANTU.TO",
+   "instruments": [
+    {
+     "name": "SavvyLong 2X Anthr E",
+     "symbol": "ANTU"
+    }
+   ]
+  },
+  {
+   "symbol": "SNDU",
+   "name": "SavvyLong (2X) SanDisk ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "SNDU.TO",
+   "instruments": [
+    {
+     "name": "SavvyLong 2X SanDisk",
+     "symbol": "SNDU"
+    }
+   ]
+  },
+  {
+   "symbol": "AAUD",
+   "name": "Alpha Architect US Equity 5 ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "AAUD"
+  },
+  {
+   "symbol": "CZZL",
+   "name": "Cizzle Brands Corporation - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "CZZL"
+  },
+  {
+   "symbol": "ISMH",
+   "name": "xETFs International Semiconductor ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "ISMH"
+  },
+  {
+   "symbol": "SONN",
+   "name": "Southern Company (The) 2026 Series A Corporate Units",
+   "exchange": "NYSE",
+   "yahoo_symbol": "SONN"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "MERC",
+   "name": "Mercer International Inc. - Common Stock",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "MERC"
+  },
+  {
+   "symbol": "OPENZ",
+   "name": "Opendoor Technologies Inc  - Series Z Warrants, each whole warrant exercisable to purchase one share of Common Stock at an exercise price of $17.00 per warrant",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "OPENZ"
+  },
+  {
+   "symbol": "OPAY",
+   "name": "OPay Limited American Depositary Shares, each representing ten Ordinary Shares",
+   "exchange": "NYSE",
+   "yahoo_symbol": "OPAY"
+  },
+  {
+   "symbol": "OPENW",
+   "name": "Opendoor Technologies Inc  - Series K Warrants, each whole warrant exercisable to purchase one share of Common Stock at an exercise price of $9.00 per warrant",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "OPENW"
+  },
+  {
+   "symbol": "TBCF",
+   "name": "TD Target 2026 Investment Grade Bond ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "TBCF.TO",
+   "instruments": [
+    {
+     "name": "TdTgt 26 InvGr B Etf",
+     "symbol": "TBCF"
+    }
+   ]
+  },
+  {
+   "symbol": "UTZ",
+   "name": "Utz Brands Inc Class A Common Stock ",
+   "exchange": "NYSE",
+   "yahoo_symbol": "UTZ"
+  },
+  {
+   "symbol": "OPENL",
+   "name": "Opendoor Technologies Inc  - Series A Warrants, each whole warrant exercisable to purchase one share of Common Stock at an exercise price of $13.00 per warrant",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "OPENL"
+  },
+  {
+   "symbol": "TBUF.U",
+   "name": "TD Target 2026 U.S. Investment Grade Bond ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "TBUF.U.TO",
+   "instruments": [
+    {
+     "name": "TdTgtUS26 InvGrB Etf",
+     "symbol": "TBUF.U"
+    }
+   ]
+  },
+  {
+   "symbol": "AMPGZ",
+   "name": "Amplitech Group, Inc. - Series B Right",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "AMPGZ"
+  }
+ ]
+}
