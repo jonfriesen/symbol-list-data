@@ -1,0 +1,236 @@
+{
+ "added": [
+  {
+   "symbol": "BIPF.PR.E",
+   "name": "Brookfield Infrastructure Partners L.P.",
+   "exchange": "TSX",
+   "yahoo_symbol": "BIPF.PR.E.TO",
+   "instruments": [
+    {
+     "name": "Brookfield InfrasPr9",
+     "symbol": "BIPF.PR.E"
+    },
+    {
+     "name": "Brookfield InfraPr11",
+     "symbol": "BIPF.PR.F"
+    }
+   ]
+  },
+  {
+   "symbol": "TBX",
+   "name": "Tributary Exploration Inc",
+   "exchange": "TSX",
+   "yahoo_symbol": "TBX.TO",
+   "instruments": [
+    {
+     "name": "Tributary Expl Inc C",
+     "symbol": "TBX"
+    },
+    {
+     "name": "Tributary Expl Inc W",
+     "symbol": "TBX.WT"
+    }
+   ]
+  },
+  {
+   "symbol": "AIL",
+   "name": "GraniteShares 2x Long Anthropic Daily ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "AIL"
+  },
+  {
+   "symbol": "ANS",
+   "name": "GraniteShares 2x Short Anthropic Daily ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "ANS"
+  },
+  {
+   "symbol": "ANTC",
+   "name": "Defiance 2X ANT Long Daily ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "ANTC"
+  },
+  {
+   "symbol": "ANTD",
+   "name": "Direxion Daily Anthropic Bear 2X ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "ANTD"
+  },
+  {
+   "symbol": "ANTO",
+   "name": "Direxion Daily Anthropic Bull 2X ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "ANTO"
+  },
+  {
+   "symbol": "ANTQ",
+   "name": "Defiance 2X ANT Short Daily ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "ANTQ"
+  },
+  {
+   "symbol": "ANTU",
+   "name": "ProShares Ultra Anthropic",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "ANTU"
+  },
+  {
+   "symbol": "ANTY",
+   "name": "ProShares UltraShort Anthropic",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "ANTY"
+  },
+  {
+   "symbol": "AVZO",
+   "name": "Avenzo Therapeutics, Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "AVZO"
+  },
+  {
+   "symbol": "CLYD",
+   "name": "Clywedog Therapeutics Holdings, Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "CLYD"
+  },
+  {
+   "symbol": "ENHV",
+   "name": "iShares Enhanced Large Cap Value Active ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "ENHV"
+  },
+  {
+   "symbol": "EVRL",
+   "name": "Everli Global Holdings - Class A Ordinary Shares",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "EVRL"
+  },
+  {
+   "symbol": "EVRLW",
+   "name": "Everli Global Holdings - Warrant",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "EVRLW"
+  },
+  {
+   "symbol": "VESI",
+   "name": "Vesicor Therapeutics Holdings, Inc. - Class A Ordinary Shares",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "VESI"
+  },
+  {
+   "symbol": "BIPF$A",
+   "name": "Brookfield Infrastructure Partners LP 5.125% Class A Preferred Limited Partnership Units, Series 13",
+   "exchange": "NYSE",
+   "yahoo_symbol": "BIPF$A"
+  },
+  {
+   "symbol": "BIPF$B",
+   "name": "Brookfield Infrastructure Partners LP 5.000% Class A Preferred Limited Partnership Units, Series 14",
+   "exchange": "NYSE",
+   "yahoo_symbol": "BIPF$B"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "MACIU",
+   "name": "Melar Acquisition Corp. I - Unit",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "MACIU"
+  },
+  {
+   "symbol": "BIP$B",
+   "name": "Brookfield Infrastructure Partners LP 5.000% Class A Preferred Limited Partnership Units, Series 14",
+   "exchange": "NYSE",
+   "yahoo_symbol": "BIP$B"
+  },
+  {
+   "symbol": "HWX",
+   "name": "Headwater Exploration Inc.",
+   "exchange": "TSX",
+   "yahoo_symbol": "HWX.TO",
+   "instruments": [
+    {
+     "name": "Headwater Expl Inc.",
+     "symbol": "HWX"
+    }
+   ]
+  },
+  {
+   "symbol": "MACIW",
+   "name": "Melar Acquisition Corp. I - Warrant",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "MACIW"
+  },
+  {
+   "symbol": "BKHAU",
+   "name": "Black Hawk Acquisition Corporation - Units",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "BKHAU"
+  },
+  {
+   "symbol": "RLYB",
+   "name": "Rallybio Corporation - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "RLYB"
+  },
+  {
+   "symbol": "SML",
+   "name": "Southstone Minerals Limited",
+   "exchange": "TSXV",
+   "yahoo_symbol": "SML.V",
+   "instruments": [
+    {
+     "name": "Southstone Minerals Limited",
+     "symbol": "SML"
+    }
+   ]
+  },
+  {
+   "symbol": "MACI",
+   "name": "Melar Acquisition Corp. I - Class A Ordinary Shares",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "MACI"
+  },
+  {
+   "symbol": "BKHA",
+   "name": "Black Hawk Acquisition Corporation - Class A Ordinary Shares",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "BKHA"
+  },
+  {
+   "symbol": "BIPC",
+   "name": "Brookfield Infrastructure Corporation Brookfield Infrastructure Corporation",
+   "exchange": "NYSE",
+   "yahoo_symbol": "BIPC"
+  },
+  {
+   "symbol": "RKNG",
+   "name": "Defiance Retail Kings ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "RKNG"
+  },
+  {
+   "symbol": "BIPC",
+   "name": "Brookfield Infrastructure Corporation",
+   "exchange": "TSX",
+   "yahoo_symbol": "BIPC.TO",
+   "instruments": [
+    {
+     "name": "Brookfld Infras A SV",
+     "symbol": "BIPC"
+    }
+   ]
+  },
+  {
+   "symbol": "BIP$A",
+   "name": "Brookfield Infrastructure Partners LP 5.125% Class A Preferred Limited Partnership Units, Series 13",
+   "exchange": "NYSE",
+   "yahoo_symbol": "BIP$A"
+  },
+  {
+   "symbol": "BKHAR",
+   "name": "Black Hawk Acquisition Corporation - Rights",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "BKHAR"
+  }
+ ]
+}
