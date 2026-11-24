@@ -1,0 +1,140 @@
+{
+ "added": [
+  {
+   "symbol": "BIP",
+   "name": "Brookfield Infrastructure Partners Inc.",
+   "exchange": "TSX",
+   "yahoo_symbol": "BIP.TO",
+   "instruments": [
+    {
+     "name": "Brookfield Infa Par",
+     "symbol": "BIP"
+    },
+    {
+     "name": "Brookfield InfrasPr9",
+     "symbol": "BIP.PR.E"
+    },
+    {
+     "name": "Brookfield InfraPr11",
+     "symbol": "BIP.PR.F"
+    },
+    {
+     "name": "Brookfield Infras Un",
+     "symbol": "BIP.UN"
+    }
+   ]
+  },
+  {
+   "symbol": "MGLO",
+   "name": "Manulife Global Growth Fund",
+   "exchange": "TSX",
+   "yahoo_symbol": "MGLO.TO",
+   "instruments": [
+    {
+     "name": "Manulife Glb Gr Fd E",
+     "symbol": "MGLO"
+    }
+   ]
+  },
+  {
+   "symbol": "TCB",
+   "name": "TD Canadian Corporate Bond Index ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "TCB.TO",
+   "instruments": [
+    {
+     "name": "TD Cdn Corp Bd Ind E",
+     "symbol": "TCB"
+    }
+   ]
+  },
+  {
+   "symbol": "TGB",
+   "name": "TD Canadian Government Bond Index ETF",
+   "exchange": "TSX",
+   "yahoo_symbol": "TGB.TO",
+   "instruments": [
+    {
+     "name": "TD Cdn Gov Bd Ind E",
+     "symbol": "TGB"
+    }
+   ]
+  },
+  {
+   "symbol": "QSPC",
+   "name": "Quantum Space, Inc. Class A-1 Common Stock",
+   "exchange": "NYSE",
+   "yahoo_symbol": "QSPC"
+  },
+  {
+   "symbol": "QSPC.W",
+   "name": "Quantum Space, Inc. Warrants, each whole warrant exercisable for one share of Class A-1 Common Stock at an exercise price of $11.50 per share",
+   "exchange": "NYSE MKT",
+   "yahoo_symbol": "QSPC.W"
+  },
+  {
+   "symbol": "OBMT",
+   "name": "Opportunity Bancorp, Inc. - Common Stock",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "OBMT"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "IPFX",
+   "name": "Inflection Point Acquisition Corp. VI - Class A Ordinary Shares",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "IPFX"
+  },
+  {
+   "symbol": "IPFXU",
+   "name": "Inflection Point Acquisition Corp. VI - Units",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "IPFXU"
+  },
+  {
+   "symbol": "BIP.PR.E",
+   "name": "Brookfield Infrastructure Partners Inc.",
+   "exchange": "TSX",
+   "yahoo_symbol": "BIP.PR.E.TO",
+   "instruments": [
+    {
+     "name": "Brookfield InfrasPr9",
+     "symbol": "BIP.PR.E"
+    },
+    {
+     "name": "Brookfield InfraPr11",
+     "symbol": "BIP.PR.F"
+    },
+    {
+     "name": "Brookfield Infras Un",
+     "symbol": "BIP.UN"
+    }
+   ]
+  },
+  {
+   "symbol": "EBMT",
+   "name": "Eagle Bancorp Montana, Inc. - Common Stock",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "EBMT"
+  },
+  {
+   "symbol": "IPFXW",
+   "name": "Inflection Point Acquisition Corp. VI - Warrant",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "IPFXW"
+  },
+  {
+   "symbol": "RCAX",
+   "name": "Defiance Daily Target 2x Long RCAT ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "RCAX"
+  },
+  {
+   "symbol": "CPHY",
+   "name": "F/m Compoundr High Yield Bond ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "CPHY"
+  }
+ ]
+}
