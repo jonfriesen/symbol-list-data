@@ -1,0 +1,66 @@
+{
+ "added": [
+  {
+   "symbol": "DNTE",
+   "name": "Dante Metals Corp.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "DNTE.V",
+   "instruments": [
+    {
+     "name": "Dante Metals Corp.",
+     "symbol": "DNTE"
+    }
+   ]
+  },
+  {
+   "symbol": "BFLR",
+   "name": "BlueFlare, Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "BFLR"
+  },
+  {
+   "symbol": "CPHY",
+   "name": "F/m Compoundr High Yield Bond ETF",
+   "exchange": "NASDAQ Global MarketSM",
+   "yahoo_symbol": "CPHY"
+  },
+  {
+   "symbol": "RMTX",
+   "name": "Remix Therapeutics, Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "RMTX"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "AIR",
+   "name": "Clean Air Metals Inc.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "AIR.V",
+   "instruments": [
+    {
+     "name": "Clean Air Metals Inc.",
+     "symbol": "AIR"
+    }
+   ]
+  },
+  {
+   "symbol": "PASG",
+   "name": "Passage Bio, Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "PASG"
+  },
+  {
+   "symbol": "FNGR",
+   "name": "FingerMotion, Inc. - common stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "FNGR"
+  },
+  {
+   "symbol": "SAFX",
+   "name": "XCF Global, Inc. - Class A Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "SAFX"
+  }
+ ]
+}
