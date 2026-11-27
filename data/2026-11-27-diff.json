@@ -1,0 +1,36 @@
+{
+ "added": [
+  {
+   "symbol": "HTOEU",
+   "name": "H2O America  - Equity Units",
+   "exchange": "NASDAQ Global Select MarketSM",
+   "yahoo_symbol": "HTOEU"
+  }
+ ],
+ "removed": [
+  {
+   "symbol": "VVOS",
+   "name": "Vivos Therapeutics, Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "VVOS"
+  },
+  {
+   "symbol": "PLUR",
+   "name": "Plurilock Security Inc.",
+   "exchange": "TSXV",
+   "yahoo_symbol": "PLUR.V",
+   "instruments": [
+    {
+     "name": "Plurilock Security Inc.",
+     "symbol": "PLUR"
+    }
+   ]
+  },
+  {
+   "symbol": "HCTI",
+   "name": "Healthcare Triangle, Inc. - Common Stock",
+   "exchange": "NASDAQ Capital Market",
+   "yahoo_symbol": "HCTI"
+  }
+ ]
+}
